@@ -16,7 +16,8 @@ import requests
 from agentes import comun, config
 
 GOOGLE = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{idioma}"
-CABECERAS = {"User-Agent": "Mozilla/5.0 (compatible; oficina-tenis/1.0)"}
+CABECERAS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36",
+             "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"}
 
 
 def _texto(nodo, etiqueta: str) -> str:
@@ -28,8 +29,18 @@ def _limpiar(t: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", t or ""))).strip()
 
 
+def _reparar(xml: bytes | str) -> str:
+    """Algunos RSS traen «&» sueltos u otros caracteres que rompen el XML: se arreglan antes de leerlo."""
+    texto = xml.decode("utf-8", "replace") if isinstance(xml, bytes) else xml
+    texto = re.sub(r"&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)", "&amp;", texto)
+    return re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", texto)
+
+
 def leer_rss(xml: bytes | str, fuente: str) -> list[dict]:
-    raiz = ET.fromstring(xml)
+    try:
+        raiz = ET.fromstring(xml)
+    except ET.ParseError:
+        raiz = ET.fromstring(_reparar(xml).encode("utf-8"))
     noticias = []
     for item in raiz.iter("item"):
         titulo = _limpiar(_texto(item, "title"))

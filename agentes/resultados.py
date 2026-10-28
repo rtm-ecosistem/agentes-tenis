@@ -15,6 +15,8 @@ from agentes import comun, config
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/tennis/{circuito}/scoreboard"
 ACABADO = ("final", "post", "completed")
+MAX_DIAS = 365
+MAX_PARTIDOS = 15000
 INCOMPLETO = ("retired", "ret", "walkover", "w/o", "abandoned", "default", "cancel", "postponed", "suspended")
 
 
@@ -58,18 +60,20 @@ def leer_espn(datos: dict) -> list[dict]:
     return partidos
 
 
-def descargar_espn(dia: date, sesion=None) -> list[dict]:
+def descargar_espn(dia: date, sesion=None) -> list[dict] | None:
+    """Los partidos terminados de ese día (None si ESPN no respondió)."""
     sesion = sesion or requests
-    partidos = []
+    partidos, ok = [], False
     for circuito in ("atp", "wta"):
         try:
             r = sesion.get(ESPN.format(circuito=circuito), params={"dates": dia.strftime("%Y%m%d")}, timeout=30)
             r.raise_for_status()
             for p in leer_espn(r.json()):
                 partidos.append({**p, "circuito": circuito.upper()})
+            ok = True
         except (requests.RequestException, ValueError) as e:
             print(f"No se pudo leer el marcador de ESPN ({circuito}, {dia}): {e}")
-    return partidos
+    return partidos if ok else None
 
 
 def leer_odds_api(eventos: list[dict]) -> list[dict]:
@@ -136,13 +140,41 @@ def recientes(momento: datetime, dias: int = 2) -> list[date]:
     return [(momento - timedelta(days=d)).date() for d in range(dias, -1, -1)]
 
 
-def guardar_historial(partidos: list[dict]) -> None:
+def historial() -> dict:
+    """Los resultados guardados: {"dias": días ya leídos de ESPN, "partidos": [...]}."""
+    datos = comun.leer(config.RESULTADOS, {})
+    if isinstance(datos, list):  # formato antiguo: solo la lista
+        datos = {"dias": [], "partidos": datos}
+    return {"dias": datos.get("dias", []), "partidos": datos.get("partidos", [])}
+
+
+def guardar_historial(partidos: list[dict], dias: list[date] = ()) -> None:
     """Se guardan los resultados (solo datos de tenis públicos) para ir actualizando el Elo."""
-    previos = comun.leer(config.RESULTADOS, [])
-    vistos = {(p["fecha"], *sorted(p["jugadores"])) for p in previos}
+    h = historial()
+    vistos = {(p["fecha"], *sorted(p["jugadores"])) for p in h["partidos"]}
     for p in partidos:
         k = (p.get("fecha", ""), *sorted(p["jugadores"]))
         if p.get("sets") and k not in vistos:
             vistos.add(k)
-            previos.append({c: p.get(c) for c in ("fecha", "torneo", "circuito", "jugadores", "ganador", "sets", "completo")})
-    comun.guardar(config.RESULTADOS, previos[-6000:])
+            h["partidos"].append({c: p.get(c) for c in ("fecha", "torneo", "circuito", "jugadores", "ganador", "sets", "completo")})
+    h["dias"] = sorted(set(h["dias"]) | {d.isoformat() for d in dias})[-MAX_DIAS:]
+    h["partidos"] = sorted(h["partidos"], key=lambda p: p.get("fecha", ""))[-MAX_PARTIDOS:]
+    comun.guardar(config.RESULTADOS, h)
+
+
+def rellenar(momento: datetime, maximo: int = 40, sesion=None) -> int:
+    """Lee hacia atrás los días del último año que aún no se han leído (como mucho `maximo` por ejecución):
+    así el Elo se puede calcular solo con los resultados de ESPN aunque las otras fuentes fallen."""
+    leidos = set(historial()["dias"])
+    hoy = momento.date()
+    faltan = [hoy - timedelta(days=d) for d in range(2, MAX_DIAS) if (hoy - timedelta(days=d)).isoformat() not in leidos][:maximo]
+    partidos, buenos = [], []
+    for dia in faltan:
+        leidos_dia = descargar_espn(dia, sesion)
+        if leidos_dia is not None:
+            partidos += leidos_dia
+            buenos.append(dia)
+    guardar_historial(partidos, buenos)
+    if faltan:
+        print(f"Resultados: leídos {len(buenos)} días atrasados ({len(partidos)} partidos)")
+    return len(partidos)
