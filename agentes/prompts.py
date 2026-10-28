@@ -206,7 +206,7 @@ def esquema_analista(codigos: list[str]) -> dict:
         "resumen": texto,
         "informe": {"type": "OBJECT", "properties": {c: texto for c in campos}, "required": list(campos)},
         "apuestas": {"type": "ARRAY", "maxItems": 10, "items": {"type": "OBJECT", "properties": {
-            "seleccion": seleccion, "confianza": {"type": "INTEGER", "enum": [1, 2, 3]},
+            "seleccion": seleccion, "confianza": {"type": "INTEGER"},
             "probabilidad": {"type": "NUMBER"}, "motivo": texto}, "required": ["seleccion", "confianza", "motivo"]}},
         "descarte": texto}, "required": ["resumen", "informe", "apuestas"]}
 

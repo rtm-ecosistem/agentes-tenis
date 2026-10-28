@@ -13,11 +13,13 @@ from datetime import date, datetime, timedelta
 
 import requests
 
-from agentes import comun, config, cuotas
+from agentes import comun, config, cuotas, resultados
 
 INICIAL = 1500.0
 SUPERFICIES = ("hard", "clay", "grass")
-TENNIS_DATA = "http://www.tennis-data.co.uk/{anio}{w}/{anio}.xlsx"
+TENNIS_DATA = "https://www.tennis-data.co.uk/{anio}{w}/{anio}.xlsx"
+TML = "https://raw.githubusercontent.com/Tennismylife/TML-Database/master/{anio}.csv"   # solo ATP
+CABECERAS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"}
 SACKMANN = "https://raw.githubusercontent.com/JeffSackmann/tennis_{c}/master/{c}_matches_{anio}.csv"
 
 
@@ -83,19 +85,21 @@ def descargar_base(anio: int, sesion=None) -> list[dict]:
         leidos = []
         for a in (anio - 2, anio - 1, anio):
             try:
-                r = sesion.get(TENNIS_DATA.format(anio=a, w=w), timeout=60)
+                r = sesion.get(TENNIS_DATA.format(anio=a, w=w), headers=CABECERAS, timeout=60)
                 r.raise_for_status()
                 leidos += leer_tennis_data(r.content, circuito)
             except Exception as e:  # noqa: BLE001 - cualquier fallo de una fuente se salta
                 print(f"tennis-data {circuito} {a}: {e}")
         if not leidos:
             for a in (anio - 2, anio - 1, anio):
-                try:
-                    r = sesion.get(SACKMANN.format(c=circuito.lower(), anio=a), timeout=60)
-                    r.raise_for_status()
-                    leidos += leer_sackmann(r.text, circuito)
-                except Exception as e:  # noqa: BLE001
-                    print(f"Sackmann {circuito} {a}: {e}")
+                for url in ([TML.format(anio=a)] if circuito == "ATP" else []) + [SACKMANN.format(c=circuito.lower(), anio=a)]:
+                    try:
+                        r = sesion.get(url, headers=CABECERAS, timeout=60)
+                        r.raise_for_status()
+                        leidos += leer_sackmann(r.text, circuito)
+                        break
+                    except Exception as e:  # noqa: BLE001
+                        print(f"{url.split('/')[3]} {circuito} {a}: {e}")
         print(f"Elo: {len(leidos)} partidos de la {circuito}")
         partidos += leidos
     return partidos
@@ -151,14 +155,19 @@ def calcular(partidos: list[dict]) -> dict:
 def actualizar(sesion=None, forzar: bool = False) -> dict:
     """Recalcula el Elo (una vez al día salvo que se fuerce)."""
     previo = comun.leer(config.ELO, {})
-    if not forzar and previo.get("actualizado", "")[:10] == comun.ahora().date().isoformat():
+    propios = resultados.historial()["partidos"]
+    # Una vez al día, o antes si han llegado resultados nuevos (mientras se rellena el último año)
+    if not forzar and previo.get("actualizado", "")[:10] == comun.ahora().date().isoformat() \
+            and previo.get("propios") == len(propios):
         return previo
     base = descargar_base(comun.ahora().year, sesion)
-    if not base and previo.get("jugadores"):
+    if not base and not propios and previo.get("jugadores"):
         print("Elo: sin fuentes hoy, se mantiene el de ayer")
         return previo
     tabla = {p["ganador"]: 1 for p in base} | {p["perdedor"]: 1 for p in base}
-    elo = calcular(base + de_resultados(comun.leer(config.RESULTADOS, []), tabla))
+    elo = calcular(base + de_resultados(propios, tabla))
+    elo["propios"] = len(propios)
+    print(f"Elo: {len(elo['jugadores'])} jugadores ({len(base)} partidos de las fuentes y {len(propios)} propios)")
     comun.guardar(config.ELO, elo)
     return elo
 

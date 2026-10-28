@@ -94,3 +94,22 @@ def test_rss():
     assert n[0]["titulo"] == "Alcaraz, baja en París" and n[0]["resumen"] == "Lesión en el pie"
     assert noticias.de_jugador({"noticias": n}, "Carlos Alcaraz") == n
     assert noticias.de_jugador({"noticias": n}, "Jannik Sinner") == []
+
+
+def test_rss_con_ampersand_suelto():
+    xml = "<rss><channel><item><title>Djokovic & Sinner</title><link>https://x/2?a=1&b=2</link></item></channel></rss>"
+    assert noticias.leer_rss(xml, "X")[0]["titulo"] == "Djokovic & Sinner"
+
+
+def test_historial_de_resultados(monkeypatch):
+    from datetime import datetime, timezone
+    llamadas = []
+    monkeypatch.setattr(resultados, "descargar_espn", lambda dia, sesion=None: llamadas.append(dia) or [
+        {"jugadores": ["A B", "C " + "abcdefghijklmnopqrstuvwxyzab"[dia.day] * 3], "ganador": 0, "sets": [[6, 1]], "completo": True, "fecha": dia.isoformat(), "torneo": "Roland Garros"}])
+    momento = datetime(2026, 10, 28, tzinfo=timezone.utc)
+    resultados.rellenar(momento, maximo=5)
+    resultados.rellenar(momento, maximo=5)
+    assert len(llamadas) == 10 and len(set(llamadas)) == 10  # no repite días ya leídos
+    assert len(resultados.historial()["partidos"]) == 10
+    e = elo.calcular(elo.de_resultados(resultados.historial()["partidos"], {}))
+    assert e["jugadores"]["b|a"]["n"]["clay"] == 10

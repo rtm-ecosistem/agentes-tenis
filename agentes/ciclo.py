@@ -200,10 +200,15 @@ def liquidar_pendientes(estado: dict, apuestas: list[dict], api, momento: dateti
     agentes = {a["id"]: a for a in estado["agentes"]}
     pendientes = [a for a in apuestas if a["estado"] == "pendiente"
                   and comun.fecha_hora(a["inicio"]) < momento - timedelta(minutes=90)]
-    partidos = []
+    partidos, leidos = [], []
     for dia in sorted(set(resultados.dias_a_mirar(pendientes, momento)) | set(resultados.recientes(momento, 1))):
-        partidos += resultados.descargar_espn(dia)
-    resultados.guardar_historial(partidos)
+        del_dia = resultados.descargar_espn(dia)
+        if del_dia is not None:
+            partidos += del_dia
+            # Los dos últimos días pueden tener partidos aún por jugar: se vuelven a leer
+            if dia < (momento - timedelta(days=1)).date():
+                leidos.append(dia)
+    resultados.guardar_historial(partidos, leidos)
     liquidadas, consultados = 0, {}
     for a in pendientes:
         r = resultados.buscar(a, partidos)
@@ -247,6 +252,8 @@ def cierre(momento: datetime | None = None, api=None, ia=None, avisos=None) -> N
         if n:
             print(f"Cuota de cierre de Pinnacle guardada en {n} apuestas")
     n = liquidar_pendientes(estado, apuestas, api, momento)
+    resultados.rellenar(momento)
+    elo_mod.actualizar()
     if n:
         oficina.anotar(estado, momento, f"🏁 {n} apuestas liquidadas.")
     if api:
