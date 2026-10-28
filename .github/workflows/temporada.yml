@@ -1,0 +1,38 @@
+name: Empezar una temporada nueva
+
+# Solo a mano: archiva lo de ahora en datos/archivo/ (no cuenta en el historial) y empieza de cero.
+on:
+  workflow_dispatch:
+    inputs:
+      temporada:
+        description: "Nombre de la temporada nueva (por ejemplo, australia-2027)"
+        type: string
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datos-tenis
+  cancel-in-progress: false
+
+jobs:
+  temporada:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m agentes.ciclo reiniciar --temporada "${{ inputs.temporada }}"
+      - name: Guardar
+        run: |
+          git config user.name "rtm-ecosistem"
+          git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
+          git add -A datos web
+          git commit -m "Temporada nueva: ${{ inputs.temporada }}"
+          git pull --rebase origin main
+          git push
