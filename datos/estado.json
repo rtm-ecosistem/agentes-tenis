@@ -1,0 +1,125 @@
+{
+ "temporada": {
+  "nombre": "prueba",
+  "inicio": "2026-10-28"
+ },
+ "agentes": [
+  {
+   "id": "estadistico-1",
+   "rol": "estadistico",
+   "numero": 1,
+   "nombre": "Óscar",
+   "titulo": "El Estadístico",
+   "color": "#2f6fd6",
+   "personalidad": "Frío y ordenado: se fía de los números antes que de las corazonadas y no se pone nervioso por una mala racha.",
+   "como_decide": "Calcula la probabilidad de cada partido con un Elo por superficie y apuesta solo cuando la cuota paga más de lo que dice su cálculo (cuota × probabilidad > 1, con margen).",
+   "que_lee": "Los datos (Elo general y por superficie, forma reciente, cara a cara) y los informes de la sala.",
+   "estado": "activo",
+   "alta": "2026-10-28T18:10+00:00",
+   "botes": {
+    "1": {
+     "saldo": 1000.0,
+     "inicial": 1000.0,
+     "maximo": 1000.0
+    }
+   },
+   "periodo": {
+    "inicio": "2026-10-28T18:10+00:00",
+    "valor": 1000.0,
+    "numero": 1
+   },
+   "informes": [],
+   "reflexiones": [],
+   "revisiones": []
+  },
+  {
+   "id": "reportero-1",
+   "rol": "reportero",
+   "numero": 1,
+   "nombre": "Lola",
+   "titulo": "La Reportera",
+   "color": "#e0752d",
+   "personalidad": "Curiosa e incansable: lee todo lo que se publica, desconfía de los rumores y sabe que una ampolla cambia un partido.",
+   "como_decide": "Busca lesiones, cansancio (partidos largos los días anteriores), viajes y falta de motivación, y apuesta cuando la cuota todavía no lo refleja.",
+   "que_lee": "Las noticias de cada jugador del día y los informes de la sala.",
+   "estado": "activo",
+   "alta": "2026-10-28T18:10+00:00",
+   "botes": {
+    "1": {
+     "saldo": 1000.0,
+     "inicial": 1000.0,
+     "maximo": 1000.0
+    }
+   },
+   "periodo": {
+    "inicio": "2026-10-28T18:10+00:00",
+    "valor": 1000.0,
+    "numero": 1
+   },
+   "informes": [],
+   "reflexiones": [],
+   "revisiones": []
+  },
+  {
+   "id": "superficies-1",
+   "rol": "superficies",
+   "numero": 1,
+   "nombre": "Bruno",
+   "titulo": "El Especialista en superficies",
+   "color": "#3a9b4a",
+   "personalidad": "Exentrenador de club: paciente y detallista, habla de botes, velocidad de pista y adaptación como otros hablan del tiempo.",
+   "como_decide": "Se fija en los cambios de pista (de tierra a dura, de exterior a interior...) y en los jugadores que rinden distinto según la superficie, y apuesta cuando el mercado los trata igual en todas.",
+   "que_lee": "Los datos por superficie (Elo y partidos en cada una, últimos partidos) y los informes de la sala.",
+   "estado": "activo",
+   "alta": "2026-10-28T18:10+00:00",
+   "botes": {
+    "1": {
+     "saldo": 1000.0,
+     "inicial": 1000.0,
+     "maximo": 1000.0
+    }
+   },
+   "periodo": {
+    "inicio": "2026-10-28T18:10+00:00",
+    "valor": 1000.0,
+    "numero": 1
+   },
+   "informes": [],
+   "reflexiones": [],
+   "revisiones": []
+  },
+  {
+   "id": "manager-1",
+   "rol": "manager",
+   "numero": 1,
+   "nombre": "Inés",
+   "titulo": "La Manager",
+   "color": "#8e44ad",
+   "personalidad": "Prudente y decidida a la vez: escucha a todos, busca dónde coinciden y no apuesta por compromiso.",
+   "como_decide": "Lee lo que proponen los tres especialistas y apuesta solo cuando lo ve claro: sobre todo cuando dos o tres coinciden por motivos distintos y la cuota sigue siendo buena.",
+   "que_lee": "Los informes y las apuestas de los tres especialistas y los informes de la sala.",
+   "estado": "activo",
+   "alta": "2026-10-28T18:10+00:00",
+   "botes": {
+    "1": {
+     "saldo": 1000.0,
+     "inicial": 1000.0,
+     "maximo": 1000.0
+    }
+   },
+   "periodo": {
+    "inicio": "2026-10-28T18:10+00:00",
+    "valor": 1000.0,
+    "numero": 1
+   },
+   "informes": [],
+   "reflexiones": [],
+   "revisiones": []
+  }
+ ],
+ "sala": [],
+ "bitacora": [],
+ "creditos": {},
+ "casa": null,
+ "cobertura": {}
+}
