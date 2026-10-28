@@ -226,6 +226,37 @@
      "motivo": ""
     }
    ]
+  },
+  {
+   "hora": "2026-10-28T19:26+00:00",
+   "datos": "Los números muestran diferencias claras de Elo en varios duelos, destacando el 78% de probabilidad para Alexander Zverev frente a Tallon Griekspoor en Viena. En el torneo de Tokio, Leylah Fernandez cuenta con un sólido 72% de Elo en pista dura frente a Elise Mertens. Por otro lado, enfrentamientos como el de Flavio Cobolli y Matteo Berrettini están muy ajustados, con un 45% de Elo para Cobolli y cuotas casi idénticas en el mercado. En Basilea, Jiri Lehecka domina claramente en los pronósticos con un Elo del 22% para su rival Daniel Altmaier.",
+   "noticias": "El circuito llega cargado de desgaste físico tras las primeras rondas y las exigencias del calendario de otoño. Se destaca la retirada reciente de jugadores como Stan Wawrinka, quien ha puesto fin a su carrera profesional en Basilea a los 41 años. Además, hay convocatorias de última hora y disputas de Copa Davis que generan distracciones y fatiga por viajes. No se reportan lesiones graves de última hora en los partidos clave de hoy, pero sí una acumulación evidente de minutos en pista.",
+   "ambiente": "La prensa y las redes sociales se hacen eco de la motivación extra de tenistas locales como Naomi Osaka en Tokio, quien cuenta con el apoyo incondicional de su afición. En el circuito masculino, la lucha por plazas para las ATP Finals incrementa la presión en jugadores como Daniil Medvedev y Alexander Zverev. También circulan comentarios sobre polémicas extradeportivas en el tenis italiano que podrían influir en el enfoque mental de algunos competidores.",
+   "favorito": "Los favoritos de hoy respaldan su condición con un dominio abrumador en el Elo por superficie y un cara a cara favorable, como es el caso de Zverev con un 8-1 histórico sobre Griekspoor. Apostar por ellos se fundamenta en su mayor regularidad en los momentos clave y una forma reciente más sólida en canchas duras. Jugadores como Daniil Medvedev y Tommy Paul demuestran una superioridad estadística incontestable que reduce el margen de sorpresa de sus rivales directos.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa más el rendimiento contrastado en pistas duras y la gestión del desgaste físico acumulado en los torneos de Tokio, Viena y Basilea. Hay que vigilar de cerca los duelos de cuotas equilibradas y la motivación real de los tenistas en esta recta final de la temporada.",
+   "partidos": [
+    {
+     "partido": "P06 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P09 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P08 (Cameron Norrie vs Daniil Medvedev)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Leylah Fernandez vs Elise Mertens)",
+     "vista": "sorpresa",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -254,5 +285,6 @@
   "sport888": 15015,
   "betsson": 14027
  },
- "ultima_decision": "2026-10-28"
+ "ultima_decision": "2026-10-28",
+ "ultima_sala": "2026-10-28-20"
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28T18:41+00:00",
+ "actualizado": "2026-10-28T19:27+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -416,74 +416,6 @@
  "cartelera": {
   "actualizado": "2026-10-28T18:25+00:00",
   "partidos": [
-   {
-    "id": "9249512284975eaacf64fcaced7e57b0",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-28T19:00+00:00",
-    "jugadores": [
-     "Learner Tien",
-     "Alex de Minaur"
-    ],
-    "opciones": [
-     {
-      "id": "9249512284975eaacf64fcaced7e57b0|h2h|Alex de Minaur|",
-      "mercado": "h2h",
-      "nombre": "Alex de Minaur",
-      "punto": null,
-      "cuota": 1.85,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "9249512284975eaacf64fcaced7e57b0|h2h|Learner Tien|",
-      "mercado": "h2h",
-      "nombre": "Learner Tien",
-      "punto": null,
-      "cuota": 1.95,
-      "pinnacle": 1.97
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex de Minaur": 1.93,
-     "Learner Tien": 1.97
-    }
-   },
-   {
-    "id": "6f5b58b184eac6128deada4527006869",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-28T19:05+00:00",
-    "jugadores": [
-     "Hubert Hurkacz",
-     "Holger Rune"
-    ],
-    "opciones": [
-     {
-      "id": "6f5b58b184eac6128deada4527006869|h2h|Holger Rune|",
-      "mercado": "h2h",
-      "nombre": "Holger Rune",
-      "punto": null,
-      "cuota": 2.6,
-      "pinnacle": 2.52
-     },
-     {
-      "id": "6f5b58b184eac6128deada4527006869|h2h|Hubert Hurkacz|",
-      "mercado": "h2h",
-      "nombre": "Hubert Hurkacz",
-      "punto": null,
-      "cuota": 1.5,
-      "pinnacle": 1.6
-     }
-    ],
-    "pinnacle_h2h": {
-     "Holger Rune": 2.52,
-     "Hubert Hurkacz": 1.6
-    }
-   },
    {
     "id": "8cc69dee985efaaa4d02ce47ce9ae17a",
     "deporte": "tennis_wta_pan_pacific_open",
@@ -927,6 +859,37 @@
  },
  "apuestas": [],
  "sala": [
+  {
+   "hora": "2026-10-28T19:26+00:00",
+   "datos": "Los números muestran diferencias claras de Elo en varios duelos, destacando el 78% de probabilidad para Alexander Zverev frente a Tallon Griekspoor en Viena. En el torneo de Tokio, Leylah Fernandez cuenta con un sólido 72% de Elo en pista dura frente a Elise Mertens. Por otro lado, enfrentamientos como el de Flavio Cobolli y Matteo Berrettini están muy ajustados, con un 45% de Elo para Cobolli y cuotas casi idénticas en el mercado. En Basilea, Jiri Lehecka domina claramente en los pronósticos con un Elo del 22% para su rival Daniel Altmaier.",
+   "noticias": "El circuito llega cargado de desgaste físico tras las primeras rondas y las exigencias del calendario de otoño. Se destaca la retirada reciente de jugadores como Stan Wawrinka, quien ha puesto fin a su carrera profesional en Basilea a los 41 años. Además, hay convocatorias de última hora y disputas de Copa Davis que generan distracciones y fatiga por viajes. No se reportan lesiones graves de última hora en los partidos clave de hoy, pero sí una acumulación evidente de minutos en pista.",
+   "ambiente": "La prensa y las redes sociales se hacen eco de la motivación extra de tenistas locales como Naomi Osaka en Tokio, quien cuenta con el apoyo incondicional de su afición. En el circuito masculino, la lucha por plazas para las ATP Finals incrementa la presión en jugadores como Daniil Medvedev y Alexander Zverev. También circulan comentarios sobre polémicas extradeportivas en el tenis italiano que podrían influir en el enfoque mental de algunos competidores.",
+   "favorito": "Los favoritos de hoy respaldan su condición con un dominio abrumador en el Elo por superficie y un cara a cara favorable, como es el caso de Zverev con un 8-1 histórico sobre Griekspoor. Apostar por ellos se fundamenta en su mayor regularidad en los momentos clave y una forma reciente más sólida en canchas duras. Jugadores como Daniil Medvedev y Tommy Paul demuestran una superioridad estadística incontestable que reduce el margen de sorpresa de sus rivales directos.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa más el rendimiento contrastado en pistas duras y la gestión del desgaste físico acumulado en los torneos de Tokio, Viena y Basilea. Hay que vigilar de cerca los duelos de cuotas equilibradas y la motivación real de los tenistas en esta recta final de la temporada.",
+   "partidos": [
+    {
+     "partido": "P06 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P09 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P08 (Cameron Norrie vs Daniil Medvedev)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Leylah Fernandez vs Elise Mertens)",
+     "vista": "sorpresa",
+     "motivo": ""
+    }
+   ]
+  },
   {
    "hora": "2026-10-28T18:25+00:00",
    "datos": "Los mercados de Pinnacle muestran cuotas muy altas para favoritos claros como Alexander Zverev con un 80% de probabilidad estimada frente a Tallon Griekspoor y Daniil Medvedev con un 80% ante Cameron Norrie. En partidos más ajustados, Learner Tien y Alex de Minaur están prácticamente emparejados con un 49% para el estadounidense según el mercado sin margen. Asimismo, duelos como el de Flavio Cobolli frente a Matteo Berrettini reflejan un pronóstico de máxima igualdad con un 49% de probabilidad para Cobolli. Por otro lado, Elena Rybakina domina con claridad en las proyecciones con un 86% frente a Yulia Putintseva.",
