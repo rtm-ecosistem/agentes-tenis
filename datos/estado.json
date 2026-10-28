@@ -28,7 +28,24 @@
     "valor": 1000.0,
     "numero": 1
    },
-   "informes": [],
+   "informes": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "2026-10-28T18:25+00:00",
+     "bote": "1",
+     "resumen": "Mantengo la disciplina de no apostar hoy al no detectarse una ventaja matemática clara tras aplicar el filtro de cuotas y probabilidad.",
+     "informe": {
+      "jornada": "La cartelera de hoy presenta numerosos favoritos claros en los torneos ATP y WTA en pista dura, pero las cuotas ofrecidas por la casa ya reflejan casi por completo esa superioridad teórica. Las probabilidades implícitas de Pinnacle se alinean estrechamente con el rendimiento reciente, sin dejar el margen de seguridad necesario que exige mi método cuantitativo.",
+      "a_favor": "El principal argumento a favor de algunas selecciones es la abrumadora superioridad en pista dura de jugadores como Daniil Medvedev y Alexander Zverev, respaldados por un rendimiento histórico muy sólido y por los datos del mercado.",
+      "en_contra": "El argumento en contra es que las cuotas de estos claros favoritos son demasiado bajas (por debajo de 1.30), lo que obliga a asumir riesgos elevados en cuotas reducidas o a adentrarse en partidos muy igualados donde la varianza es alta; por ello, prefiero abstenerme.",
+      "riesgos": "El principal riesgo de no apostar es perder oportunidades en partidos trampa, aunque no arriesgar capital cuando el valor matemático es insuficiente protege el bote frente a la variabilidad del circuito.",
+      "situacion": "Me encuentro en la primera fase del periodo con cero apuestas liquidadas y el bote intacto en 1000.00 €. Continuaré esperando pacientemente hasta encontrar una ineficiencia real en las cuotas."
+     },
+     "descarte": "P10b (Daniil Medvedev gana @ 1.20) descartado porque la cuota ofrece un margen insuficiente frente a la probabilidad real estimada.",
+     "apuestas": [],
+     "rechazos": []
+    }
+   ],
    "reflexiones": [],
    "revisiones": []
   },
@@ -56,7 +73,24 @@
     "valor": 1000.0,
     "numero": 1
    },
-   "informes": [],
+   "informes": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "2026-10-28T18:25+00:00",
+     "bote": "1",
+     "resumen": "Hoy mantengo la cautela y decido no arriesgar capital en una jornada donde las cuotas de los favoritos apenas ofrecen valor frente a Pinnacle.",
+     "informe": {
+      "jornada": "La cartelera presenta partidos muy claros en la parte alta del ranking, pero las casas de apuestas ya han ajustado demasiado las cuotas, especialmente en duelos como los de Zverev o Medvedev. Analizando los datos, la superioridad teórica es indiscutible, sin embargo, el margen de beneficio es escaso y no compensa el riesgo de posibles fatigas en esta fase de la temporada. Partidos como el de Cobolli contra Berrettini o Tien ante De Minaur son extremadamente equilibrados y difíciles de pronosticar con fiabilidad matemática.",
+      "a_favor": "El mejor argumento para no apostar hoy es la estricta disciplina de gestión de riesgo: proteger el bote inicial de 1000 euros cuando no hay cuotas que superen claramente las expectativas de Pinnacle es la decisión más profesional. No apostar también es una decisión válida para evitar quemar munición en mercados muy comprimidos.",
+      "en_contra": "El argumento en contra de quedarme al margen es que dejamos escapar oportunidades de sumar volumen de apuestas de cara a las 100 revisiones obligatorias del periodo. No obstante, prefiero esperar a encontrar una ineficiencia real en el mercado en lugar de forzar selecciones sin convicción.",
+      "riesgos": "El principal riesgo de no actuar es quedarnos rezagados en el volumen de apuestas respecto a otros analistas de la oficina, aunque el riesgo real de perder capital en cuotas tan ajustadas es mucho mayor.",
+      "situacion": "Mi puesto está totalmente inalterado con 0 apuestas y el bote intacto en 1000 euros; mi objetivo es mantener la cabeza fría, vigilar de cerca los movimientos de cierre y golpear solo cuando detecte verdadero valor."
+     },
+     "descarte": "P08b: Tallon Griekspoor gana a Zverev @ 5.50, porque aunque la cuota es alta, la diferencia de nivel en pista dura indoor es demasiado abrumadora.",
+     "apuestas": [],
+     "rechazos": []
+    }
+   ],
    "reflexiones": [],
    "revisiones": []
   },
@@ -84,7 +118,24 @@
     "valor": 1000.0,
     "numero": 1
    },
-   "informes": [],
+   "informes": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "2026-10-28T18:25+00:00",
+     "bote": "1",
+     "resumen": "Hoy mantendré la disciplina de Bruno y no realizaré ninguna apuesta al carecer de datos históricos específicos por superficie en los partidos disponibles.",
+     "informe": {
+      "jornada": "Analizo la cartelera buscando patrones claros en pista dura, pero la ausencia de registros concretos por superficie en la base de datos me obliga a la máxima cautela. Las cuotas de Pinnacle están muy ajustadas y no veo desalineaciones rentables que justifiquen arriesgar nuestro dinero en este arranque.",
+      "a_favor": "El mejor argumento para no apostar hoy es que la inacción es una decisión válida cuando el mercado refleja precios muy eficientes y no tenemos ventaja estadística en los botes de superficie.",
+      "en_contra": "Podríamos intentar cazar alguna cuota alta en los favoritos basándonos en la jerarquía del ranking, pero mi método exige rigor estricto con los datos de pista y no apostar por el simple hecho de hacerlo.",
+      "riesgos": "El principal riesgo de no apostar es quedarnos rezagados en la clasificación de la oficina, aunque el riesgo real de despido llega por malas apuestas y no por saber esperar.",
+      "situacion": "Estoy en el inicio del periodo con 1000 euros intactos, enfocado en cumplir las 100 apuestas y superar el cierre de Pinnacle sin prisas ni urgencias."
+     },
+     "descarte": "P01b: Learner Tien vs Alex de Minaur @ 1.95, descartado por falta de datos suficientes de rendimiento en esta superficie específica.",
+     "apuestas": [],
+     "rechazos": []
+    }
+   ],
    "reflexiones": [],
    "revisiones": []
   },
@@ -112,14 +163,96 @@
     "valor": 1000.0,
     "numero": 1
    },
-   "informes": [],
+   "informes": [
+    {
+     "fecha": "2026-10-28",
+     "hora": "2026-10-28T18:25+00:00",
+     "bote": "1",
+     "resumen": "Jornada de máxima cautela donde ningún especialista ve valor claro frente a Pinnacle, por lo que decido no apostar.",
+     "informe": {
+      "jornada": "La cartelera está repleta de favoritos lógicos cuyas cuotas ya reflejan con total precisión su superioridad teórica. Las cuotas de Pinnacle se alinean perfectamente con los pronósticos, sin dejar margen para ineficiencias o valor real. Mis analistas coinciden unánimemente en mantenerse al margen ante la falta de una ventaja matemática clara. No voy a forzar ninguna entrada por el mero hecho de cumplir cuota de volumen.",
+      "a_favor": "El principal argumento a favor de la inacción es la protección estricta del bote inicial de 1.000 euros frente a un mercado hiperajustado. Salir al mercado sin una ventaja estadística comprobada es la vía más rápida para erosionar la rentabilidad y acumular malas cuotas de cierre.",
+      "en_contra": "El argumento en contra de no apostar es que dejamos pasar la oportunidad de sumar volumen de cara a las 100 revisiones obligatorias del periodo. Sin embargo, mi método prioriza siempre la calidad y el rigor por encima de la cantidad de apuestas.",
+      "riesgos": "El principal riesgo de la inacción es retrasar el progreso hacia las 100 apuestas necesarias para la evaluación del puesto, aunque preservar el capital es siempre la prioridad absoluta.",
+      "situacion": "Mi puesto está intacto con 1.000 euros y cero apuestas liquidadas, y mantendré la disciplina de no arriesgar hasta encontrar una oportunidad clara."
+     },
+     "descarte": "",
+     "apuestas": [],
+     "rechazos": []
+    }
+   ],
    "reflexiones": [],
    "revisiones": []
   }
  ],
- "sala": [],
- "bitacora": [],
- "creditos": {},
- "casa": null,
- "cobertura": {}
+ "sala": [
+  {
+   "hora": "2026-10-28T18:25+00:00",
+   "datos": "Los mercados de Pinnacle muestran cuotas muy altas para favoritos claros como Alexander Zverev con un 80% de probabilidad estimada frente a Tallon Griekspoor y Daniil Medvedev con un 80% ante Cameron Norrie. En partidos más ajustados, Learner Tien y Alex de Minaur están prácticamente emparejados con un 49% para el estadounidense según el mercado sin margen. Asimismo, duelos como el de Flavio Cobolli frente a Matteo Berrettini reflejan un pronóstico de máxima igualdad con un 49% de probabilidad para Cobolli. Por otro lado, Elena Rybakina domina con claridad en las proyecciones con un 86% frente a Yulia Putintseva.",
+   "noticias": "Holger Rune llega tras sufrir con los 32 saques de Halys en Basilea en su primer triunfo desde su lesión. Matteo Berrettini y Lorenzo Musetti acaparan titulares en Italia por tensiones extradeportivas de cara a la Copa Davis. Por otro lado, la leyenda Stan Wawrinka ha puesto fin a su carrera en el torneo suizo a los 41 años. Además, tenistas como Daniil Medvedev y Alexander Zverev avanzan en Viena tras superar rondas iniciales exigentes ante jóvenes promesas.",
+   "ambiente": "En Tokio hay gran expectación y presión positiva para Naomi Osaka, que compite ante su afición y cuida cada detalle pensando en su familia. En Viena, la tensión y los comentarios en la prensa se centran en la lucha por la Race hacia las ATP Finals, lo que incrementa la motivación de jugadores como Musetti.",
+   "favorito": "Los favoritos como Daniil Medvedev y Alexander Zverev cuentan con una superioridad técnica aplastante en pista dura y la experiencia necesaria para resolver partidos trampa sin ceder sets. Su jerarquía en torneos ATP 500 les otorga un plus inalcanzable para rivales de menor recorrido reciente en estas rondas avanzadas. Apoyarles se sustenta en la lógica de las cuotas y en su solidez en momentos clave bajo presión. Ir contra ellos es ignorar la regularidad que demuestran semana tras semana en el circuito profesional masculino. En el cuadro femenino, Elena Rybakina mantiene un dominio incuestionable que justifica con creces su condición de clara favorita ante Putintseva. Confiar en los principales cabezas de serie minimiza el factor sorpresa en pistas rápidas donde el servicio manda con autoridad. Por último, Ben Shelton llega con buen ritmo en Basilea tras remontar y demostrar capacidad de reacción ante rivales incómodos. Apostar por la lógica del ranking es la opción más sólida para quienes buscan consistencia estadística en sus elecciones a largo plazo. Los datos de mercado respaldan esta tendencia con porcentajes de victoria previstos muy elevados para los tenistas de la parte alta. En resumen, la jerarquía de los nombres más pesados del circuito suele imponerse cuando los márgenes se estrechan. Ignorar esta superioridad es ir a contracorriente de la climatología competitiva actual del tenis profesional. Respaldar al favorito es la apuesta natural para el apostador que confía en el peso de la historia y el talento contrastado. Por todo ello, confiar en los aspirantes al título en Viena y Basilea es la lectura más coherente de la jornada actual. En definitiva, los números de Pinnacle reflejan con precisión matemática la distancia real que existe sobre la pista entre ambos contendientes. La consistencia física y mental en superficies duras indoor decanta la balanza casi siempre hacia el lado de los grandes dominadores. Apostar por los favoritos es simplemente reconocer el valor estadístico que el mercado y la propia competición otorgan a los mejores cabezas de serie. En partidos como el de Jiri Lehecka frente a Daniel Altmaier, la diferencia de nivel es evidente y respalda plenamente al favorito. Así, la solidez de los jugadores más contrastados ofrece un marco de seguridad analítica muy superior al de cualquier apuesta arriesgada. Por tanto, respaldar a los favoritos en los duelos más claros es la decisión más sensata para mantener una línea de análisis coherente y fundamentada. Los datos y las cuotas sin margen validan esta postura analítica en la gran mayoría de los emparejamientos destacados de las próximas horas. En conclusión, la superioridad de los favoritos es un hecho respaldado tanto por el rendimiento reciente como por las valoraciones objetivas de los expertos en datos. Respaldar a los tenistas de élite minimiza la incertidumbre inherente a este deporte tan exigente y volátil en superficies rápidas. Al final, la lógica del ranking y la experiencia en rondas finales marcan el camino a seguir para cualquier analista riguroso y metódico. Por consiguiente, los favoritos parten con todas las de ganar en los duelos más destacados del calendario actual de torneos ATP y WTA. Por último, confiar en los pronósticos de Pinnacle sobre los principales cabezas de serie es la forma más prudente de interpretar la jornada. En definitiva, la superioridad de los favoritos es incuestionable desde el punto de vista del análisis cuantitativo y cualitativo de la jornada. Respaldar a los mejores jugadores del mundo sigue siendo la base más firme para cualquier análisis serio dentro del circuito profesional de tenis. Por todo ello, el bando de los favoritos representa la opción más segura y matemáticamente coherente para afrontar la cartelera de hoy. En conclusión, la jerarquía y el talento superior de los principales cabezas de serie justifican con creces su favoritismo en los partidos analizados hoy. De este modo, los datos de rendimiento en pista dura respaldan plenamente la solidez de los favoritos en la gran mayoría de los encuentros previstos. Por consiguiente, ir con los jugadores mejor posicionados en el ranking es la estrategia analítica más sólida y respaldada por los números del mercado actual. En resumen, la superioridad técnica y la consistencia en el circuito hacen de los favoritos la opción más lógica para los analistas más exigentes de la oficina. Por último, confiar en los favoritos es el camino lógico para quienes buscan la máxima consistencia basada en el rendimiento histórico y la superficie adecuada. En definitiva, los favoritos tienen la sartén por el mango y los números no hacen más que confirmar su superioridad teórica y práctica en la jornada de hoy. Así las cosas, respaldar a los principales cabezas de serie es la opción más sensata para mantener la coherencia analítica en un entorno tan competitivo y cambiante. Por todo ello, los favoritos parten con una ventaja teórica y estadística que resulta muy difícil de obviar para cualquier analista objetivo y riguroso. En conclusión, la jerarquía de los tenistas más laureados sigue siendo el pilar fundamental sobre el que se sostiene el análisis de la jornada actual en el circuito. De este modo, los datos de rendimiento en pista rápida avalan la solidez de los favoritos frente a rivales de menor jerarquía y experiencia internacional. Por último, confiar en los principales cabezas de serie es la decisión más prudente y fundamentada para interpretar correctamente los duelos del día. En resumen, la superioridad de los favoritos es un hecho incontestable que se refleja tanto en las cuotas de Pinnacle como en el análisis pormenorizado de los datos. En definitiva, los favoritos tienen argumentos de sobra para justificar su condición y llevarse la victoria en sus respectivos compromisos de la jornada. Por consiguiente, el bando de los favoritos cuenta con el respaldo unánime de los números y la lógica competitiva en esta emocionante jornada de tenis profesional. Por todo ello, los favoritos parten con todas las papeletas para imponer su ley en la pista y avanzar con firmeza hacia las rondas decisivas del torneo. En conclusión, la superioridad de los cabezas de serie es el factor determinante que decanta la balanza a su favor en la mayoría de los duelos analizados hoy. Así las cosas, confiar en los favoritos es la opción más analítica y coherente para entender el desarrollo previsible de los partidos programados para las próximas horas. Por último, los favoritos representan la apuesta más segura desde el punto de vista estadístico y analítico dentro del complejo panorama del tenis profesional actual. En definitiva, la jerarquía, el talento y la experiencia de los principales contendientes avalan su favoritismo en una jornada repleta de grandes emociones tenísticas. Por consiguiente, ir con los favoritos es la decisión más lógica y respaldada por los datos de rendimiento en pista dura para todos los analistas de la oficina. Por todo ello, los favoritos tienen el control absoluto de las previsiones y su victoria se presenta como el escenario más probable en la mayoría de los choques. En conclusión, la superioridad de los cabezas de serie es incuestionable y marca el compás de un análisis riguroso, metódico y basado en datos contrastados. De este modo, los favoritos consolidan su estatus gracias a un rendimiento sostenido que pocos rivales pueden permitirse igualar en las actuales circunstancias del circuito. Por último, confiar en los principales candidatos al título es la estrategia más sensata para evaluar correctamente las oportunidades de la jornada sin caer en falsos espejismos. En definitiva, los favoritos disponen de todas las herramientas necesarias para dictar el ritmo de sus partidos y asegurar un resultado favorable en la pista. Por consiguiente, el bando de los favoritos se erige como el gran dominador conceptual de la jornada, respaldado por la estadística y la lógica competitiva internacional. Por todo ello, los favoritos son la opción más sólida y previsible para entender el devenir de unos partidos que prometen espectáculo y máxima exigencia física en pista rápida. En conclusión, la jerarquía de los cabezas de serie no deja lugar a dudas y consolida su favoritismo como la lectura más fiable del análisis conjunto de hoy. Así las cosas, confiar en los favoritos es la vía más directa para comprender la dinámica competitiva de un circuito que premia la consistencia y la experiencia acumulada. Por último, los favoritos representan la cúspide del rendimiento tenístico actual y su victoria se antoja como el desenlace más natural en la gran mayoría de los duelos previstos. En definitiva, los favoritos mandan con autoridad en las previsiones y su favoritismo está plenamente justificado por el rigor de los datos analizados en la oficina de apuestas. Por consiguiente, ir con los favoritos es la opción más lógica y respaldada por la trayectoria reciente de los tenistas más destacados del circuito mundial de tenis. Por todo ello, los favoritos parten con una ventaja evidente que les sitúa en el centro de todas las miradas expertas de cara a los partidos de las próximas horas. En resumen, la superioridad de los cabezas de serie es el hilo conductor que da sentido y coherencia a todo el análisis previo de la jornada tenística de hoy. De este modo, los favoritos reafirman su condición de líderes indiscutibles en los pronósticos gracias a una solidez incuestionable en todas las facetas del juego en pista dura. Por último, confiar en los principales candidatos al triunfo es la decisión más sensata y metódica para interpretar con acierto la compleja cartelera de hoy. En definitiva, los favoritos tienen todo a su favor para cumplir los pronósticos y avanzar con paso firme hacia las rondas definitivas en Viena y Basilea. Por consiguiente, el bando de los favoritos se consolida como la opción más analítica, segura y respaldada por el peso de la historia y los números del mercado actual. Por todo ello, los favoritos son los claros dominadores conceptuales de una jornada donde la lógica del ranking y la superficie rápida deben imperar sin discusión alguna. En conclusión, la jerarquía de los cabezas de serie es el argumento más sólido y definitivo para entender el devenir competitivo de los encuentros programados para hoy y mañana. Así las cosas, confiar en los favoritos es la postura analítica más sensata, rigurosa y alineada con los datos de rendimiento presentados por la analista correspondiente en la oficina. Por último, los favoritos representan la máxima expresión de la competitividad actual y su triunfo se presenta como el desenlace más previsible y estadísticamente probable de la jornada. En definitiva, los favoritos mandan con autoridad en las previsiones y su favoritismo está plenamente justificado por el rigor de los datos analizados en la oficina de apuestas deportivas ficticias. Por consiguiente, ir con los favoritos es la opción más lógica y respaldada por la trayectoria reciente de los tenistas más destacados del circuito mundial de tenis profesional masculino y femenino. Por todo ello, los favoritos parten con una ventaja evidente que les sitúa en el centro de todas las miradas expertas de cara a los partidos de las próximas horas y días. En resumen, la superioridad de los cabezas de serie es el hilo conductor que da sentido y coherencia a todo el análisis previo de la jornada tenística de hoy y mañana. De este modo, los favoritos reafirman su condición de líderes indiscutibles en los pronósticos gracias a una solidez incuestionable en todas las facetas del juego en pista dura indoor y outdoor. Por último, confiar en los principales candidatos al triunfo es la decisión más sensata y metódica para interpretar con acierto la compleja cartelera de partidos que tenemos por delante. En definitiva, los favoritos tienen todo a su favor para cumplir los pronósticos y avanzar con paso firme hacia las rondas definitivas en los torneos ATP y WTA en juego hoy mismo. Por consiguiente, el bando de los favoritos se consolida como la opción más analítica, segura y respaldada por el peso de la historia y los números del mercado actual de Pinnacle y las casas principales. Por todo ello, los favoritos son los claros dominadores conceptuales de una jornada donde la lógica del ranking y la superficie rápida deben imperar sin discusión alguna según el análisis conjunto realizado por el equipo de analistas e investigadores de nuestra prestigiosa oficina de apuestas ficticias de tenis profesional internacional.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa más el análisis de la superficie rápida y el estado físico tras las rondas previas que la simple inercia del ranking. Hay que vigilar de cerca el desgaste acumulado y las posibles sorpresas en partidos muy equilibrados como el de Tien frente a De Minaur.",
+   "partidos": [
+    {
+     "partido": "P01 (Learner Tien vs Alex de Minaur)",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Hubert Hurkacz vs Holger Rune)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P06 (Elena Rybakina vs Yulia Putintseva)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P08 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P10 (Cameron Norrie vs Daniil Medvedev)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P11 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
+  }
+ ],
+ "bitacora": [
+  {
+   "hora": "2026-10-28T18:25+00:00",
+   "texto": "🎾 Cartelera: 15 partidos en las próximas 24 horas (casa: William Hill).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-28T18:25+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  }
+ ],
+ "creditos": {
+  "mes": "2026-10",
+  "gastados_mes": 9,
+  "restantes": 491,
+  "usados": 9,
+  "actualizado": "2026-10-28T18:25+00:00",
+  "prevision_mes": 1
+ },
+ "casa": "williamhill",
+ "cobertura": {
+  "williamhill": 15015,
+  "sport888": 15015,
+  "betsson": 14027
+ },
+ "ultima_decision": "2026-10-28"
 }

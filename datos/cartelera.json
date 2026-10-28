@@ -1,0 +1,513 @@
+{
+ "actualizado": "2026-10-28T18:25+00:00",
+ "casa": "williamhill",
+ "partidos": [
+  {
+   "id": "9249512284975eaacf64fcaced7e57b0",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-28T19:00+00:00",
+   "jugadores": [
+    "Learner Tien",
+    "Alex de Minaur"
+   ],
+   "opciones": [
+    {
+     "id": "9249512284975eaacf64fcaced7e57b0|h2h|Alex de Minaur|",
+     "mercado": "h2h",
+     "nombre": "Alex de Minaur",
+     "punto": null,
+     "cuota": 1.85,
+     "pinnacle": 1.93
+    },
+    {
+     "id": "9249512284975eaacf64fcaced7e57b0|h2h|Learner Tien|",
+     "mercado": "h2h",
+     "nombre": "Learner Tien",
+     "punto": null,
+     "cuota": 1.95,
+     "pinnacle": 1.97
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alex de Minaur": 1.93,
+    "Learner Tien": 1.97
+   }
+  },
+  {
+   "id": "6f5b58b184eac6128deada4527006869",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-28T19:05+00:00",
+   "jugadores": [
+    "Hubert Hurkacz",
+    "Holger Rune"
+   ],
+   "opciones": [
+    {
+     "id": "6f5b58b184eac6128deada4527006869|h2h|Holger Rune|",
+     "mercado": "h2h",
+     "nombre": "Holger Rune",
+     "punto": null,
+     "cuota": 2.6,
+     "pinnacle": 2.52
+    },
+    {
+     "id": "6f5b58b184eac6128deada4527006869|h2h|Hubert Hurkacz|",
+     "mercado": "h2h",
+     "nombre": "Hubert Hurkacz",
+     "punto": null,
+     "cuota": 1.5,
+     "pinnacle": 1.6
+    }
+   ],
+   "pinnacle_h2h": {
+    "Holger Rune": 2.52,
+    "Hubert Hurkacz": 1.6
+   }
+  },
+  {
+   "id": "8cc69dee985efaaa4d02ce47ce9ae17a",
+   "deporte": "tennis_wta_pan_pacific_open",
+   "torneo": "WTA Pan Pacific Open",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-10-29T01:30+00:00",
+   "jugadores": [
+    "Alycia Parks",
+    "Kimberly Birrell"
+   ],
+   "opciones": [
+    {
+     "id": "8cc69dee985efaaa4d02ce47ce9ae17a|h2h|Alycia Parks|",
+     "mercado": "h2h",
+     "nombre": "Alycia Parks",
+     "punto": null,
+     "cuota": 2.38,
+     "pinnacle": 2.47
+    },
+    {
+     "id": "8cc69dee985efaaa4d02ce47ce9ae17a|h2h|Kimberly Birrell|",
+     "mercado": "h2h",
+     "nombre": "Kimberly Birrell",
+     "punto": null,
+     "cuota": 1.57,
+     "pinnacle": 1.61
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alycia Parks": 2.47,
+    "Kimberly Birrell": 1.61
+   }
+  },
+  {
+   "id": "0148c3d6327ac9f98ddf4b277bfc8a3e",
+   "deporte": "tennis_wta_pan_pacific_open",
+   "torneo": "WTA Pan Pacific Open",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-10-29T02:30+00:00",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Elise Mertens"
+   ],
+   "opciones": [
+    {
+     "id": "0148c3d6327ac9f98ddf4b277bfc8a3e|h2h|Elise Mertens|",
+     "mercado": "h2h",
+     "nombre": "Elise Mertens",
+     "punto": null,
+     "cuota": 1.8,
+     "pinnacle": 1.83
+    },
+    {
+     "id": "0148c3d6327ac9f98ddf4b277bfc8a3e|h2h|Leylah Fernandez|",
+     "mercado": "h2h",
+     "nombre": "Leylah Fernandez",
+     "punto": null,
+     "cuota": 2.0,
+     "pinnacle": 2.09
+    }
+   ],
+   "pinnacle_h2h": {
+    "Elise Mertens": 1.83,
+    "Leylah Fernandez": 2.09
+   }
+  },
+  {
+   "id": "d04e7e6ce329fccbd0b365240f807cca",
+   "deporte": "tennis_wta_pan_pacific_open",
+   "torneo": "WTA Pan Pacific Open",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-10-29T05:30+00:00",
+   "jugadores": [
+    "Naomi Osaka",
+    "Mia Pohánková"
+   ],
+   "opciones": [
+    {
+     "id": "d04e7e6ce329fccbd0b365240f807cca|h2h|Mia Pohánková|",
+     "mercado": "h2h",
+     "nombre": "Mia Pohánková",
+     "punto": null,
+     "cuota": 4.0,
+     "pinnacle": 4.4
+    },
+    {
+     "id": "d04e7e6ce329fccbd0b365240f807cca|h2h|Naomi Osaka|",
+     "mercado": "h2h",
+     "nombre": "Naomi Osaka",
+     "punto": null,
+     "cuota": 1.25,
+     "pinnacle": 1.25
+    }
+   ],
+   "pinnacle_h2h": {
+    "Mia Pohánková": 4.4,
+    "Naomi Osaka": 1.25
+   }
+  },
+  {
+   "id": "1fa60410ca17efcd43616ab025a3b0e4",
+   "deporte": "tennis_wta_pan_pacific_open",
+   "torneo": "WTA Pan Pacific Open",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-10-29T08:00+00:00",
+   "jugadores": [
+    "Elena Rybakina",
+    "Yulia Putintseva"
+   ],
+   "opciones": [
+    {
+     "id": "1fa60410ca17efcd43616ab025a3b0e4|h2h|Elena Rybakina|",
+     "mercado": "h2h",
+     "nombre": "Elena Rybakina",
+     "punto": null,
+     "cuota": 1.12,
+     "pinnacle": 1.13
+    },
+    {
+     "id": "1fa60410ca17efcd43616ab025a3b0e4|h2h|Yulia Putintseva|",
+     "mercado": "h2h",
+     "nombre": "Yulia Putintseva",
+     "punto": null,
+     "cuota": 6.0,
+     "pinnacle": 7.17
+    }
+   ],
+   "pinnacle_h2h": {
+    "Elena Rybakina": 1.13,
+    "Yulia Putintseva": 7.17
+   }
+  },
+  {
+   "id": "f7fa6060659fec573d7a7df3881aff82",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T11:00+00:00",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Rafael Jodar"
+   ],
+   "opciones": [
+    {
+     "id": "f7fa6060659fec573d7a7df3881aff82|h2h|Rafael Jodar|",
+     "mercado": "h2h",
+     "nombre": "Rafael Jodar",
+     "punto": null,
+     "cuota": 1.33,
+     "pinnacle": 1.36
+    },
+    {
+     "id": "f7fa6060659fec573d7a7df3881aff82|h2h|Valentin Vacherot|",
+     "mercado": "h2h",
+     "nombre": "Valentin Vacherot",
+     "punto": null,
+     "cuota": 3.3,
+     "pinnacle": 3.47
+    }
+   ],
+   "pinnacle_h2h": {
+    "Rafael Jodar": 1.36,
+    "Valentin Vacherot": 3.47
+   }
+  },
+  {
+   "id": "6822571863f93fa4654e76e114874060",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T12:00+00:00",
+   "jugadores": [
+    "Alexander Zverev",
+    "Tallon Griekspoor"
+   ],
+   "opciones": [
+    {
+     "id": "6822571863f93fa4654e76e114874060|h2h|Alexander Zverev|",
+     "mercado": "h2h",
+     "nombre": "Alexander Zverev",
+     "punto": null,
+     "cuota": 1.14,
+     "pinnacle": 1.21
+    },
+    {
+     "id": "6822571863f93fa4654e76e114874060|h2h|Tallon Griekspoor|",
+     "mercado": "h2h",
+     "nombre": "Tallon Griekspoor",
+     "punto": null,
+     "cuota": 5.5,
+     "pinnacle": 4.88
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alexander Zverev": 1.21,
+    "Tallon Griekspoor": 4.88
+   }
+  },
+  {
+   "id": "704555fd36bea990169b89857cf51075",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T12:00+00:00",
+   "jugadores": [
+    "Arthur Fery",
+    "Lorenzo Musetti"
+   ],
+   "opciones": [
+    {
+     "id": "704555fd36bea990169b89857cf51075|h2h|Arthur Fery|",
+     "mercado": "h2h",
+     "nombre": "Arthur Fery",
+     "punto": null,
+     "cuota": 2.9,
+     "pinnacle": null
+    },
+    {
+     "id": "704555fd36bea990169b89857cf51075|h2h|Lorenzo Musetti|",
+     "mercado": "h2h",
+     "nombre": "Lorenzo Musetti",
+     "punto": null,
+     "cuota": 1.4,
+     "pinnacle": null
+    }
+   ],
+   "pinnacle_h2h": {}
+  },
+  {
+   "id": "9744d2cb822ca005f4607e336b1b2b81",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T12:00+00:00",
+   "jugadores": [
+    "Cameron Norrie",
+    "Daniil Medvedev"
+   ],
+   "opciones": [
+    {
+     "id": "9744d2cb822ca005f4607e336b1b2b81|h2h|Cameron Norrie|",
+     "mercado": "h2h",
+     "nombre": "Cameron Norrie",
+     "punto": null,
+     "cuota": 4.5,
+     "pinnacle": 5.1
+    },
+    {
+     "id": "9744d2cb822ca005f4607e336b1b2b81|h2h|Daniil Medvedev|",
+     "mercado": "h2h",
+     "nombre": "Daniil Medvedev",
+     "punto": null,
+     "cuota": 1.2,
+     "pinnacle": 1.2
+    }
+   ],
+   "pinnacle_h2h": {
+    "Cameron Norrie": 5.1,
+    "Daniil Medvedev": 1.2
+   }
+  },
+  {
+   "id": "3b65bc657a2d7391944d9e343c189c52",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T12:00+00:00",
+   "jugadores": [
+    "Flavio Cobolli",
+    "Matteo Berrettini"
+   ],
+   "opciones": [
+    {
+     "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Flavio Cobolli|",
+     "mercado": "h2h",
+     "nombre": "Flavio Cobolli",
+     "punto": null,
+     "cuota": 1.91,
+     "pinnacle": 1.97
+    },
+    {
+     "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Matteo Berrettini|",
+     "mercado": "h2h",
+     "nombre": "Matteo Berrettini",
+     "punto": null,
+     "cuota": 1.91,
+     "pinnacle": 1.92
+    }
+   ],
+   "pinnacle_h2h": {
+    "Flavio Cobolli": 1.97,
+    "Matteo Berrettini": 1.92
+   }
+  },
+  {
+   "id": "9f79477cee7d1e998aa4b8a7beec9b28",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T12:00+00:00",
+   "jugadores": [
+    "Tommy Paul",
+    "Luciano Darderi"
+   ],
+   "opciones": [
+    {
+     "id": "9f79477cee7d1e998aa4b8a7beec9b28|h2h|Luciano Darderi|",
+     "mercado": "h2h",
+     "nombre": "Luciano Darderi",
+     "punto": null,
+     "cuota": 4.5,
+     "pinnacle": 4.68
+    },
+    {
+     "id": "9f79477cee7d1e998aa4b8a7beec9b28|h2h|Tommy Paul|",
+     "mercado": "h2h",
+     "nombre": "Tommy Paul",
+     "punto": null,
+     "cuota": 1.2,
+     "pinnacle": 1.23
+    }
+   ],
+   "pinnacle_h2h": {
+    "Luciano Darderi": 4.68,
+    "Tommy Paul": 1.23
+   }
+  },
+  {
+   "id": "17b7cfaa2dc6c21f39412e6017f54e9b",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T13:00+00:00",
+   "jugadores": [
+    "Alex Michelsen",
+    "Arthur Fils"
+   ],
+   "opciones": [
+    {
+     "id": "17b7cfaa2dc6c21f39412e6017f54e9b|h2h|Alex Michelsen|",
+     "mercado": "h2h",
+     "nombre": "Alex Michelsen",
+     "punto": null,
+     "cuota": 2.75,
+     "pinnacle": 2.85
+    },
+    {
+     "id": "17b7cfaa2dc6c21f39412e6017f54e9b|h2h|Arthur Fils|",
+     "mercado": "h2h",
+     "nombre": "Arthur Fils",
+     "punto": null,
+     "cuota": 1.44,
+     "pinnacle": 1.48
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alex Michelsen": 2.85,
+    "Arthur Fils": 1.48
+   }
+  },
+  {
+   "id": "381536c46bd1e16a9236502df3f748e5",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T15:00+00:00",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Jiri Lehecka"
+   ],
+   "opciones": [
+    {
+     "id": "381536c46bd1e16a9236502df3f748e5|h2h|Daniel Altmaier|",
+     "mercado": "h2h",
+     "nombre": "Daniel Altmaier",
+     "punto": null,
+     "cuota": 6.0,
+     "pinnacle": 5.92
+    },
+    {
+     "id": "381536c46bd1e16a9236502df3f748e5|h2h|Jiri Lehecka|",
+     "mercado": "h2h",
+     "nombre": "Jiri Lehecka",
+     "punto": null,
+     "cuota": 1.12,
+     "pinnacle": 1.16
+    }
+   ],
+   "pinnacle_h2h": {
+    "Daniel Altmaier": 5.92,
+    "Jiri Lehecka": 1.16
+   }
+  },
+  {
+   "id": "53d4ccf860436088aa717efdf2c38d25",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-29T18:10+00:00",
+   "jugadores": [
+    "Ben Shelton",
+    "Jerome Kym"
+   ],
+   "opciones": [
+    {
+     "id": "53d4ccf860436088aa717efdf2c38d25|h2h|Ben Shelton|",
+     "mercado": "h2h",
+     "nombre": "Ben Shelton",
+     "punto": null,
+     "cuota": 1.33,
+     "pinnacle": 1.33
+    },
+    {
+     "id": "53d4ccf860436088aa717efdf2c38d25|h2h|Jerome Kym|",
+     "mercado": "h2h",
+     "nombre": "Jerome Kym",
+     "punto": null,
+     "cuota": 3.3,
+     "pinnacle": 3.62
+    }
+   ],
+   "pinnacle_h2h": {
+    "Ben Shelton": 1.33,
+    "Jerome Kym": 3.62
+   }
+  }
+ ]
+}
