@@ -5,12 +5,27 @@ from __future__ import annotations
 
 from datetime import datetime, timedelta
 
-from agentes import aprendizaje, comun, config, prompts
+from agentes import aprendizaje, comun, config, prompts, resultados
 
 MAX_HISTORIAL = 45  # unas dos semanas con tres informes al día
+DIAS_ANALISIS = 7
+
+
+def guardar_analisis(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dict, momento: datetime) -> None:
+    """Guarda los datos de cada partido para su ficha en la web; se borran a los 7 días."""
+    partidos = resultados.historial()["partidos"]
+    info = estado.setdefault("partidos_info", {})
+    for p in cartelera:
+        try:
+            info[p["id"]] = prompts.analisis_partido(p, elo, datos_noticias, momento, partidos)
+        except Exception as e:  # noqa: BLE001
+            print(f"No se pudieron guardar los datos de {p['jugadores']}: {e}")
+    limite = comun.iso(momento - timedelta(days=DIAS_ANALISIS))
+    estado["partidos_info"] = {k: v for k, v in info.items() if v["inicio"] > limite}
 
 
 def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dict, ia, momento: datetime) -> dict | None:
+    guardar_analisis(estado, cartelera, elo, datos_noticias, momento)
     texto_cartelera, _ = prompts.codificar(cartelera, config.BOTES["1"]["mercados"])
     anterior = estado["sala"][-1] if estado.get("sala") else None
     try:

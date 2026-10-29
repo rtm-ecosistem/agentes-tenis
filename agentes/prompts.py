@@ -98,6 +98,27 @@ def datos_cansancio(cartelera: list[dict], momento: datetime) -> str:
     return "\n".join(filas) or "(sin partidos)"
 
 
+def analisis_partido(p: dict, elo: dict, datos_noticias: dict, momento: datetime, partidos: list[dict]) -> dict:
+    """Los datos que leen los analistas de un partido, guardados para enseñarlos en su ficha de la web."""
+    a, b = p["jugadores"]
+    pr = elo_mod.probabilidad(elo, a, b, p["superficie"])
+    mercado = sin_margen(p.get("pinnacle_h2h") or {})
+    jugadores = []
+    for j, lado in ((a, "a"), (b, "b")):
+        jugadores.append({
+            "nombre": j, "mercado": round(mercado[j], 3) if j in mercado else None,
+            "elo": round(pr[f"elo_{lado}"]["all"]) if pr else None,
+            "elo_superficie": round(pr[f"elo_{lado}"].get(p["superficie"], pr[f"elo_{lado}"]["all"])) if pr else None,
+            "forma": [x[11:] for x in pr[f"forma_{lado}"]] if pr else [],
+            "cansancio": resultados.texto_cansancio(j, resultados.cansancio(j, momento, partidos)).split(": ", 1)[-1],
+            "noticias": [{"titulo": n["titulo"], "fuente": n["fuente"], "fecha": n["fecha"][:10], "enlace": n.get("enlace")}
+                         for n in noticias.de_jugador(datos_noticias, j, 3)]})
+    return {"id": p["id"], "jugadores": [a, b], "inicio": p["inicio"], "torneo": p["torneo"], "superficie": p["superficie"],
+            "actualizado": comun.iso(momento), "elo": round(pr["prob"], 3) if pr else None,
+            "elo_general": round(pr["general"], 3) if pr else None, "elo_en_superficie": round(pr["superficie"], 3) if pr else None,
+            "cara_a_cara": pr["h2h"] if pr else None, "detalle": jugadores}
+
+
 def datos_noticias(cartelera: list[dict], datos: dict) -> str:
     bloques, vistos = [], set()
     for p in cartelera:

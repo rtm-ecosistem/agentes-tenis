@@ -50,6 +50,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "sala": estado.get("sala", [])[-12:][::-1],
         "bitacora": estado.get("bitacora", [])[-30:][::-1],
         "ultima_decision": estado.get("ultima_decision"),
+        "partidos_info": estado.get("partidos_info", {}),
         "sala_aciertos": {k: v for k, v in estado.get("sala_aciertos", {}).items() if k != "vistos"},
     }
     # Si no ha cambiado nada más que la hora, no se reescribe (así no hay un cambio nuevo cada hora)
