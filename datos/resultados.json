@@ -1,5 +1,45 @@
 {
  "dias": [
+  "2025-11-02",
+  "2025-11-03",
+  "2025-11-04",
+  "2025-11-05",
+  "2025-11-06",
+  "2025-11-07",
+  "2025-11-08",
+  "2025-11-09",
+  "2025-11-10",
+  "2025-11-11",
+  "2025-11-12",
+  "2025-11-13",
+  "2025-11-14",
+  "2025-11-15",
+  "2025-11-16",
+  "2025-11-17",
+  "2025-11-18",
+  "2025-11-19",
+  "2025-11-20",
+  "2025-11-21",
+  "2025-11-22",
+  "2025-11-23",
+  "2025-11-24",
+  "2025-11-25",
+  "2025-11-26",
+  "2025-11-27",
+  "2025-11-28",
+  "2025-11-29",
+  "2025-11-30",
+  "2025-12-01",
+  "2025-12-02",
+  "2025-12-03",
+  "2025-12-04",
+  "2025-12-05",
+  "2025-12-06",
+  "2025-12-07",
+  "2025-12-08",
+  "2025-12-09",
+  "2025-12-10",
+  "2025-12-11",
   "2025-12-12",
   "2025-12-13",
   "2025-12-14",
@@ -323,6 +363,11623 @@
  ],
  "partidos": [
   {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ethan Quinn",
+    "Ugo Blanchet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Royer",
+    "Pierre-Hugues Herbert"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Botic Van De Zandschulp",
+    "Jenson Brooksby"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Kyrian Jacquet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Damir Dzumhur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vit Kopriva",
+    "Sebastian Korda"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luca Van Assche",
+    "Francisco Comesana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamil Majchrzak",
+    "Jesper de Jong"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adam Walton",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hamad Medjedovic",
+    "David Goffin"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Matteo Arnaldi",
+    "Jacob Fearnley"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pedro Martinez",
+    "Tomas Martin Etcheverry"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Adrian Mannarino"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mattia Bellucci",
+    "Reilly Opelka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Melnikova",
+    "Maddison Inglis"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miho Kuramochi",
+    "Anna Yang"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Kulikova",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zhang Ying",
+    "You Xiaodi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zarina Diyas",
+    "Kristiana Sidorova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lu Jia-Jing",
+    "Man Ying Maggie Ng"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ikumi Yamazaki",
+    "Momoko Kobori"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Emily Appleton",
+    "Viktoria Morvayova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kallista Liu",
+    "Haruka Kaji"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yuyao Li",
+    "Ma YeXin"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Guo Meiqi",
+    "Kyoka Okamura"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amy Zhu",
+    "Nadiia Kolb"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterina Ovcharenko",
+    "Guo Hanyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yang Yidi",
+    "Gao Xinyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Aliona Falei",
+    "Wang Yuhan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shi Han",
+    "Ren Yufei"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Chloe Paquet",
+    "Darya Astakhova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Li Zongyu",
+    "Elena Pridankina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Wang Jiaqi",
+    "Carol Young Suh Lee"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yao Xinxin",
+    "Rina Saigo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sofya Lansere",
+    "Arianne Hartono"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mei Yamaguchi",
+    "Ankita Raina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Priska Nugroho",
+    "Ekaterina Yashina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diya Ramesh Ramesh",
+    "Arina Rodionova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Vaishnavi Adkar",
+    "Amina Anshba"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Dalila Jakupovic",
+    "Astrid Lew Yan Foon"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Thasaporn Naklo",
+    "Hiroko Kuwata"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-25",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Werner",
+    "Riya Bhatia"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Royer",
+    "Sebastian Korda"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ethan Quinn",
+    "Botic Van De Zandschulp"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Damir Dzumhur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "David Goffin",
+    "Francisco Comesana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jacob Fearnley",
+    "Yannick Hanfmann"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jesper de Jong",
+    "Tomas Martin Etcheverry"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lu Jia-Jing",
+    "Maddison Inglis"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miho Kuramochi",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Momoko Kobori",
+    "You Xiaodi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kristiana Sidorova",
+    "Haruka Kaji"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amy Zhu",
+    "Ma YeXin"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktoria Morvayova",
+    "Kyoka Okamura"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Aliona Falei",
+    "Gao Xinyu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shi Han",
+    "Guo Hanyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Chloe Paquet",
+    "Carol Young Suh Lee"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Rina Saigo",
+    "Elena Pridankina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Priska Nugroho",
+    "Arianne Hartono"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mei Yamaguchi",
+    "Arina Rodionova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Werner",
+    "Thasaporn Naklo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Astrid Lew Yan Foon",
+    "Vaishnavi Adkar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Daniel Altmaier"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Arthur Cazaux",
+    "Luciano Darderi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Flavio Cobolli"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Baez",
+    "Cameron Norrie"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Arthur Rinderknech",
+    "Fabian Marozsan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Terence Atmane",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Miomir Kecmanovic",
+    "Aleksandar Kovacevic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Damir Dzumhur",
+    "Francisco Cerundolo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrey Rublev",
+    "Jacob Fearnley"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Alexei Popyrin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zizou Bergs",
+    "Alex Michelsen"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Korda",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Brandon Nakashima",
+    "Alexandre Muller"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Grigor Dimitrov",
+    "Giovanni Mpetshi Perricard"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ethan Quinn",
+    "Karen Khachanov"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ma YeXin",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Wang Yafan",
+    "Maddison Inglis"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eva Lys",
+    "Kristiana Sidorova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ajla Tomljanovic",
+    "Momoko Kobori"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktoria Morvayova",
+    "Hong Yi Cody Wong"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maya Joint",
+    "Anastasija Sevastova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alina Korneeva",
+    "Guo Hanyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Bondar",
+    "Wei Sijia"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Aliona Falei",
+    "Dominika Salkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Kudermetova",
+    "Tamara Korpatsch"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     3
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tiantsoa Rakotomanga Rajaonah",
+    "Ella Seidel"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Jimenez Kasintseva",
+    "Yulia Putintseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Zakharova",
+    "Ena Shibahara"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yuliia Starodubtseva",
+    "Zheng Wushuang"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francisco Comesana",
+    "Felix Auger-Aliassime"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriel Diallo",
+    "Tallon Griekspoor"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Camilo Ugo Carabelli",
+    "Tomas Martin Etcheverry"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jiri Lehecka",
+    "Valentin Vacherot"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Reilly Opelka",
+    "Corentin Moutet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Joao Fonseca",
+    "Denis Shapovalov"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Jaume Munar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Royer",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Flavio Cobolli",
+    "Ben Shelton"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cameron Norrie",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrey Rublev",
+    "Learner Tien"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Vukic",
+    "Taylor Fritz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Dalma Galfi",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Himeno Sakatsume",
+    "Sofia Kenin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Mboko",
+    "Talia Gibson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Suzan Lamens",
+    "Eudice Wong Chong"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Emiliana Arango",
+    "Moyuka Uchijima"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Wang Xiyu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Anna Kalinskaya"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Aliaksandra Sasnovich",
+    "Belinda Bencic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zhang Shuai",
+    "Veronika Erjavec"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katie Boulter",
+    "Alexandra Eala"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zhu Lin",
+    "Alycia Parks"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Chloe Paquet",
+    "Anna Blinkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktorija Golubic",
+    "Rina Saigo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Camila Osorio"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Pridankina",
+    "Yuan Yue"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Chenting Zhu",
+    "Lilli Tagger"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Claire Liu",
+    "Kaja Juvan"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Bai Zhuoxuan",
+    "Ann Li"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Casper Ruud",
+    "Daniel Altmaier"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Arthur Rinderknech"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Miomir Kecmanovic",
+    "Francisco Cerundolo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexandre Muller",
+    "Felix Auger-Aliassime"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Zverev",
+    "Camilo Ugo Carabelli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Arthur Cazaux",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Zizou Bergs"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Corentin Moutet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Gabriel Diallo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Joao Fonseca",
+    "Karen Khachanov"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maya Joint",
+    "Viktoria Morvayova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Emiliana Arango",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ajla Tomljanovic",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Eva Lys"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lilli Tagger",
+    "Elisabetta Cocciaretto"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Korpatsch",
+    "Ella Seidel"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktorija Golubic",
+    "Elena Pridankina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zheng Wushuang",
+    "Yulia Putintseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Linda Fruhvirtova",
+    "Astrid Lew Yan Foon"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nikola Bartunkova",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Arianne Hartono"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nina Stojanovic",
+    "Arina Rodionova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     5
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shrivalli Bhamidipaty",
+    "Maaya Rajeshwaran Revathi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Storm Hunter",
+    "Mai Hontama"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Werner",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Francesca Jones",
+    "Mei Yamaguchi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Donna Vekic",
+    "Vaishnavi Adkar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Timofeeva",
+    "Lanlana Tararudee"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucia Bronzetti",
+    "Katarzyna Kawa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alina Charaeva",
+    "Polina Iatcenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     0,
+     5
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Priska Nugroho",
+    "Sahaja Yamalapalli"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diane Parry",
+    "Thasaporn Naklo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mia Pohankova",
+    "Nao Hibino"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tatiana Prozorova",
+    "Zeynep Sonmez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Cameron Norrie"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Felix Auger-Aliassime"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrey Rublev",
+    "Ben Shelton"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Taylor Fritz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Karen Khachanov"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Francisco Cerundolo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Zverev",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zhang Shuai",
+    "Anna Kalinskaya"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Wang Yafan",
+    "Belinda Bencic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Mboko",
+    "Alexandra Eala"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eudice Wong Chong",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kaja Juvan",
+    "Alycia Parks"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Zakharova",
+    "Dominika Salkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Bondar",
+    "Anna Blinkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Guo Hanyu",
+    "Bai Zhuoxuan"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Storm Hunter",
+    "Arina Rodionova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Linda Fruhvirtova",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katarzyna Kawa",
+    "Polina Iatcenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Donna Vekic",
+    "Sahaja Yamalapalli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mei Yamaguchi",
+    "Joanna Garland"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shrivalli Bhamidipaty",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lanlana Tararudee",
+    "Zeynep Sonmez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diane Parry",
+    "Mia Pohankova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Felix Auger-Aliassime",
+    "Valentin Vacherot"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Alexander Bublik"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Ben Shelton"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Zverev",
+    "Daniil Medvedev"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maya Joint",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Mboko",
+    "Anna Kalinskaya"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     3,
+     1
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Sorana Cirstea"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Korpatsch",
+    "Lilli Tagger"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktorija Golubic",
+    "Yulia Putintseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Dominika Salkova",
+    "Bai Zhuoxuan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Blinkova",
+    "Alycia Parks"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Arina Rodionova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mia Pohankova",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Donna Vekic",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Iatcenko",
+    "Lanlana Tararudee"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Harold Mayot",
+    "Jan Choinski"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     5
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrea Pellegrino",
+    "Kyrian Jacquet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vitaliy Sachko",
+    "Aleksandr Shevchenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luca Van Assche",
+    "Billy Harris"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nicolai Budkov Kjaer",
+    "Clement Tabur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Moez Echargui",
+    "Tom Paris"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dan Added",
+    "Tristan Schoolkate"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesco Passaro",
+    "Arthur Bouquier"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Molcan",
+    "Filip Misolic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lukas Klein",
+    "Yannick Hanfmann"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pavlos Tsitsipas",
+    "Shintaro Mochizuki"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mackenzie McDonald",
+    "Marco Trungelliti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Thiago Agustin Tirante",
+    "Henry Bernet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaime Faria",
+    "Vit Kopriva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mark Lajal",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Chun-Hsin Tseng"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Madison Keys",
+    "Iga Swiatek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Rybakina",
+    "Amanda Anisimova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Felix Auger-Aliassime"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Alexander Zverev"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maya Joint",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Victoria Mboko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Blinkova",
+    "Dominika Salkova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Viktorija Golubic",
+    "Lilli Tagger"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Janice Tjen",
+    "Lanlana Tararudee"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Clement Tabur",
+    "Vitaliy Sachko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kyrian Jacquet",
+    "Jan Choinski"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesco Passaro",
+    "Dan Added"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Moez Echargui",
+    "Luca Van Assche"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adrian Mannarino",
+    "Arthur Cazaux"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hugo Gaston",
+    "Terence Atmane"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Alex Molcan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mackenzie McDonald",
+    "Shintaro Mochizuki"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Henry Bernet",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Vit Kopriva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adam Walton",
+    "Alejandro Tabilo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Stefanos Sakellaridis"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Korda",
+    "Alexei Popyrin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jasmine Paolini",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessica Pegula",
+    "Coco Gauff"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Felix Auger-Aliassime"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Mboko",
+    "Cristina Bucsa"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Jiangxi Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lilli Tagger",
+    "Anna Blinkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-02",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kimberly Birrell",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mariia Kozyreva",
+    "Vivian Wolff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eszter Meri",
+    "Claire Liu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Lewis",
+    "Lia Karatancheva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Christasha McNeil",
+    "Emily Appleton"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Petra Marcinko",
+    "Louisa Chirico"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anouk Koevermans",
+    "Whitney Osuigwe"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carmen Andreea Herea",
+    "Alana Smith"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Darja Vidmanova",
+    "Mary Stoiana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Hina Inoue"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Rogers",
+    "Arantxa Rus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noelia Zeballos",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carla Markus",
+    "Gabriela Ce"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Urrutia",
+    "Ana Candiotto"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Berta Bonardi",
+    "Gergana Topalova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Polona Hercog"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Vergara Rivera",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Valeriya Strakhova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Ugo Blanchet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Jan Choinski"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Clement Tabur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vitaliy Sachko",
+    "Giovanni Mpetshi Perricard"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cameron Norrie",
+    "Valentin Royer"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Matteo Berrettini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jacob Fearnley",
+    "Damir Dzumhur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Laslo Djere",
+    "Eliot Spizzirri"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamil Majchrzak",
+    "Miomir Kecmanovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Botic Van De Zandschulp",
+    "Stan Wawrinka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jan-Lennard Struff",
+    "Alexandre Muller"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vit Kopriva",
+    "Reilly Opelka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Rybakina",
+    "Iga Swiatek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-03",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Madison Keys",
+    "Amanda Anisimova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kayla Cross",
+    "Iryna Shymanovich"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Claire Liu",
+    "Mai Hontama"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Christasha McNeil"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Lewis",
+    "Jennifer Jackson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Vivian Wolff",
+    "Elizabeth Mandlik"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Gasanova",
+    "Cadence Brace"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alycia Parks",
+    "Malaika Rapolu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Stakusic",
+    "Caroline Dolehide"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julie Belgraver",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tina Nadine Smith",
+    "Selena Janicijevic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Zolotareva",
+    "Luna Maria Cinalli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Urrutia",
+    "Jessica Pieri"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nicole Fossa Huergo",
+    "Gabriela Ce"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Martina Capurro Taborda"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gergana Topalova",
+    "Carole Monnet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elina Avanesyan",
+    "Ekaterine Gorgodze"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Lian Tran"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Panna Udvardy"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Solana Sierra"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carla Markus",
+    "Laura Pigossi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luca Van Assche",
+    "Kyrian Jacquet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Arthur Rinderknech",
+    "Daniel Altmaier"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Blockx",
+    "Francesco Passaro"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Vukic",
+    "Corentin Moutet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Flavio Cobolli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cameron Norrie",
+    "Arthur Cazaux"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Martin Etcheverry",
+    "Mackenzie McDonald"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ivan Ivanov",
+    "Yannick Hanfmann"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pedro Martinez",
+    "Marcos Giron"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Damir Dzumhur",
+    "Sebastian Korda"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alejandro Tabilo",
+    "Novak Djokovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Eliot Spizzirri"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jasmine Paolini",
+    "Coco Gauff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-04",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessica Pegula",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Stoiana",
+    "Kayla Cross"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carmen Andreea Herea",
+    "Anouk Koevermans"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elizabeth Mandlik",
+    "Arantxa Rus"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Louisa Chirico",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Candela Vazquez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Gabriela Ce"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Antonia Vergara Rivera"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Carole Monnet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kyrian Jacquet",
+    "Dan Added"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Blockx",
+    "Clement Tabur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Moez Echargui",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Hugo Gaston"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Vitaliy Sachko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Matteo Berrettini",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luciano Darderi",
+    "Miomir Kecmanovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vit Kopriva",
+    "Yannick Hanfmann"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Martin Etcheverry",
+    "Alexandre Muller"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Stan Wawrinka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Brandon Nakashima"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterina Alexandrova",
+    "Elena Rybakina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-05",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amanda Anisimova",
+    "Iga Swiatek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Lewis",
+    "Marina Stakusic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Claire Liu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Malaika Rapolu",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Gasanova",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterine Gorgodze",
+    "Jazmin Ortenzi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Jessica Pieri"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     1
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carla Markus",
+    "Solana Sierra"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tina Nadine Smith",
+    "Despina Papamichail"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cameron Norrie",
+    "Kyrian Jacquet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Matteo Berrettini"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vitaliy Sachko",
+    "Clement Tabur"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Miomir Kecmanovic",
+    "Sebastian Korda"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Alexandre Muller"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Novak Djokovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Marcos Giron"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jasmine Paolini",
+    "Jessica Pegula"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-06",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Coco Gauff",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Marina Stakusic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Elizabeth Mandlik"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Malaika Rapolu",
+    "Carmen Andreea Herea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Stoiana",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Antonia Vergara Rivera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Julia Riera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Despina Papamichail"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Cameron Norrie"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Vitaliy Sachko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Novak Djokovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Sebastian Korda"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Rybakina",
+    "Jessica Pegula"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-07",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amanda Anisimova",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Stakusic",
+    "Iva Jovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carmen Andreea Herea",
+    "Renata Zarazua"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Solana Sierra"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Mayar Sherif"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Moselle Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Cameron Norrie"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "Vanda Pharmaceuticals Hellenic Championship",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Novak Djokovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-08",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Rybakina",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-09",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-09",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ben Shelton",
+    "Alexander Zverev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-09",
+   "torneo": "Austin 125",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Marina Stakusic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-09",
+   "torneo": "Tucumán Open by McDonald's",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-10",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Taylor Fritz",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-10",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Felix Auger-Aliassime",
+    "Jannik Sinner"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-11",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Taylor Fritz",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-11",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-12",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Felix Auger-Aliassime",
+    "Ben Shelton"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-12",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Zverev",
+    "Jannik Sinner"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-13",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Taylor Fritz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-13",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-14",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ben Shelton",
+    "Jannik Sinner"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-14",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Felix Auger-Aliassime",
+    "Alexander Zverev"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-15",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Jannik Sinner"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-15",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Felix Auger-Aliassime",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-16",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Valeriya Strakhova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-16",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Martina Colmegna",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-16",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jimar Gerald Gonzalez",
+    "Gabriela Ce"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-16",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eryn Cayetano",
+    "Diletta Cherubini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-16",
+   "torneo": "Nitto ATP Finals",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jannik Sinner",
+    "Carlos Alcaraz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ayana Akli",
+    "Miriam Bulgaru"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessica Pieri",
+    "Carolina Alves"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valeriya Strakhova",
+    "Despina Papamichail"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gabriela Ce",
+    "Sara Sorribes Tormo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nicole Fossa Huergo",
+    "Fernanda Labrana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-17",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Elizabeth Mandlik"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Martina Trevisan",
+    "Maja Chwalinska"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diletta Cherubini",
+    "Sada Nahimana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Samson",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Julia Riera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Veronika Erjavec",
+    "Carole Monnet"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alicia Herrero Linana",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Jazmin Ortenzi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-18",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Eva Vedder"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-19",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Antonia Vergara Rivera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-19",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Sada Nahimana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-19",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carole Monnet",
+    "Carolina Alves"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-19",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Miriam Bulgaru"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-19",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Maja Chwalinska"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-20",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sara Sorribes Tormo",
+    "Laura Samson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-20",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Laura Pigossi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-20",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Fernanda Labrana",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-20",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Panna Udvardy"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-21",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Maja Chwalinska"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-21",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carole Monnet",
+    "Laura Samson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-21",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-21",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Polona Hercog"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-22",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mayar Sherif",
+    "Leolia Jeanjean"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-22",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Laura Samson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-23",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Caffarena",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-23",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Urrutia",
+    "Ayana Akli"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-23",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valeriya Strakhova",
+    "Katarina Jokic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-23",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sara Sorribes Tormo",
+    "Nicole Fossa Huergo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-23",
+   "torneo": "LP Open by IND",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eva Vedder",
+    "Martina Trevisan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elizabeth Mandlik",
+    "Lucciana Perez Alarcon"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Bulbarella",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Jessica Pieri"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Polona Hercog"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ayana Akli",
+    "Despina Papamichail"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-24",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Carolina Alves"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Irene Burillo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Dolehide",
+    "Candela Vazquez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Samson",
+    "Carole Monnet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Mayar Sherif"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alicia Herrero Linana",
+    "Sara Sorribes Tormo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katarina Jokic",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Luisina Giovannini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-25",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sada Nahimana",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-26",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-26",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eva Vedder",
+    "Mayar Sherif"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-26",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Sara Sorribes Tormo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-26",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-27",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucciana Perez Alarcon",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-11-27",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Dolehide",
+    "Despina Papamichail"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-27",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-27",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Laura Samson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-28",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Miriam Bulgaru"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-28",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Samson",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-28",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Lucciana Perez Alarcon"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-28",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Caroline Dolehide",
+    "Mayar Sherif"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-29",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Veronika Erjavec",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-29",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Mayar Sherif"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-30",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amandine Monnot",
+    "Veronika Podrez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-30",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tina Nadine Smith",
+    "Anna Siskova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-30",
+   "torneo": "IEB+ Argentina Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alina Charaeva",
+    "Veronika Podrez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Teodora Kostovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Alina Korneeva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Camilla Rosatello",
+    "Polina Kudermetova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Amandine Monnot",
+    "Yuriko Lily Miyazaki"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tiantsoa Rakotomanga Rajaonah",
+    "Linda Klimovicova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Aliona Bolsova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marie Elise Casares",
+    "Martina Colmegna"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tania Varela",
+    "Valeriya Strakhova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alejandra Alvarez",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valentina Mediorreal Arias",
+    "Luisina Giovannini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Monica Gallegos",
+    "Diletta Cherubini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Sara Sorribes Tormo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Elvina Kalieva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Eva Vedder"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-01",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valentina Vargas",
+    "Sada Nahimana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Victoria Jimenez Kasintseva",
+    "Zeynep Sonmez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mona Barthel",
+    "Jessika Ponchet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Fiona Ferro",
+    "Tina Nadine Smith"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alice Rame",
+    "Oceane Dodin"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Chloe Paquet",
+    "Lucia Bronzetti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gabriela Knutson",
+    "Alycia Parks"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jeline Vandromme",
+    "Dominika Salkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Tania Varela"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Martina Colmegna"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Zolotareva",
+    "Camila Romero"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Laura Samson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Ayana Akli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Irene Burillo",
+    "Tatjana Maria"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Tikhonova",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valeriya Strakhova",
+    "Mell Reasco Gonzalez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carolina Alves",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-02",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diletta Cherubini",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Siskova",
+    "Tamara Korpatsch"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Linda Klimovicova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Bassols Ribera",
+    "Zhang Shuai"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Polina Kudermetova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zeynep Sonmez",
+    "Amandine Monnot"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Veronika Podrez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Polona Hercog"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Luisina Giovannini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Sada Nahimana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-03",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elvina Kalieva",
+    "Varvara Lepchenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Korpatsch",
+    "Fiona Ferro"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oceane Dodin",
+    "Alycia Parks"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Dominika Salkova",
+    "Chloe Paquet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mona Barthel",
+    "Zhang Shuai"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Samson",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-04",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zeynep Sonmez",
+    "Anna-Lena Friedsam"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Mona Barthel"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Dominika Salkova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Korpatsch",
+    "Alycia Parks"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Elvina Kalieva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leolia Jeanjean",
+    "Veronika Erjavec"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Mell Reasco Gonzalez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-05",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Panna Udvardy"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-06",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Tamara Korpatsch"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-06",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Kamilla Rakhimova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-06",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Leolia Jeanjean"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-06",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Luisina Giovannini"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2025-12-07",
    "torneo": "Open BLS de Limoges",
    "circuito": "WTA",
@@ -398,6 +12055,48 @@
     [
      6,
      3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Open Angers Loire Trélazé",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Tamara Korpatsch"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Quito Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Luisina Giovannini"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
     ],
     [
      6,
@@ -222798,6 +234497,27 @@
     [
      7,
      5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Toray Pan Pacific Open Tennis",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yulia Putintseva",
+    "Elena Rybakina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
     ]
    ],
    "completo": true
