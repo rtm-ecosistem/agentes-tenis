@@ -95,7 +95,14 @@ body.panel-grande .pie-escena { opacity: 0; }
 .panel.grande { width: min(900px, calc(100vw - 28px)); }
 .cab-panel { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between; padding: 12px 0 10px; margin: 0 -2px;
   background: linear-gradient(#3a2214 70%, rgba(58, 34, 20, 0)); }
-.cab-panel b { font: 700 19px var(--pixel); }
+.cab-panel b { font: 700 19px var(--pixel); flex: 1; }
+/* ← vuelve un paso atrás; ✕ cierra y deja la oficina a la vista */
+.atras { display: none; border: 0; width: 32px; height: 32px; border-radius: 8px; background: rgba(255, 236, 210, .1); font-size: 18px; line-height: 1; cursor: pointer; flex: none; }
+body.puede-atras .atras { display: block; }
+body:has(.ficha.abierta) .cab-panel .atras { display: none; }
+.cab-panel .atras { margin-right: 8px; }
+.ficha .atras { margin-left: auto; align-self: flex-start; width: 36px; height: 36px; }
+body.puede-atras .ficha .atras + .cerrar { margin-left: 6px; }
 .plegar { border: 0; width: 32px; height: 32px; border-radius: 8px; background: rgba(255, 236, 210, .1); font-size: 18px; line-height: 1; cursor: pointer; }
 section[hidden] { display: none; }
 h3 { font: 700 15px var(--pixel); margin: 0 0 6px; letter-spacing: .01em; }
@@ -302,7 +309,7 @@ body.con-panel .pie-escena,body:has(#ficha.abierta) .pie-escena{display:none;}
   <button class="como" data-ficha="ayuda" aria-label="Cómo funciona la oficina">?</button>
 </header>
 <aside class="panel madera" id="panel" aria-label="Panel">
-  <div class="cab-panel"><button class="estirar" data-estirar="panel" aria-label="Estirar o encoger el panel"></button><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
+  <div class="cab-panel"><button class="estirar" data-estirar="panel" aria-label="Estirar o encoger el panel"></button><button class="atras" aria-label="Volver atrás">←</button><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
   <section id="plantilla" hidden></section>
   <section id="cartelera" hidden></section>
   <section id="boletos" hidden></section>
@@ -1452,7 +1459,7 @@ function abrirPartido(id) {
   const p = datosPartido(id); if (!p) return;
   FICHA_ID = 'p:' + id;
   const grupos = {}; for (const o of p.cart?.opciones || []) (grupos[o.mercado] ||= []).push(o);
-  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</h2><div style="color:var(--suave)">${esc(p.torneo)}${p.superficie ? ` · <span class="superficie ${esc(p.superficie)}">${SUPERFICIE[p.superficie] || esc(p.superficie)}</span>` : ''} · ${cuando(p.inicio)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</h2><div style="color:var(--suave)">${esc(p.torneo)}${p.superficie ? ` · <span class="superficie ${esc(p.superficie)}">${SUPERFICIE[p.superficie] || esc(p.superficie)}</span>` : ''} · ${cuando(p.inicio)}</div></div><button class="atras" aria-label="Volver atrás">←</button><button class="cerrar" aria-label="Cerrar">✕</button></div>
     ${tarjetaDatos(D.partidos_info?.[id])}
     ${p.resultado ? `<div class="tarjeta"><h3>Resultado</h3><p style="margin:0">${esc(p.resultado)}</p></div>` : ''}
     ${p.cart ? `<div class="tarjeta"><h3>Cuotas</h3><p style="margin:0 0 6px;color:var(--suave);font-size:12.5px">De ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle.</p><div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}${GLOSARIO[m] ? A(m) : ''}</b>${ops.map(o =>
@@ -1501,7 +1508,7 @@ function pintarAprendizaje() {
 function abrirComoFunciona() {
   FICHA_ID = 'ayuda';
   const r = D.reglas, st = r.stakes || { 1: .01, 2: .02, 3: .03 };
-  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>Cómo funciona</h2><div style="color:var(--suave)">La oficina de un vistazo</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>Cómo funciona</h2><div style="color:var(--suave)">La oficina de un vistazo</div></div><button class="atras" aria-label="Volver atrás">←</button><button class="cerrar" aria-label="Cerrar">✕</button></div>
     <div class="tarjeta"><h3>Qué es</h3><p style="margin:0">Cuatro analistas de IA apuestan a partidos de tenis con <b>dinero ficticio</b> y <b>cuotas reales</b>. Compiten entre ellos, aprenden de sus resultados y se les despide si lo hacen mal. El objetivo es averiguar si alguno sabe ganar de verdad antes de copiarle con dinero real.</p></div>
     <div class="tarjeta"><h3>Quién es quién</h3>${activos().map(a => `<p style="margin:6px 0"><button class="analista" data-ficha="${a.id}">${pix(a, 'mini')}<span><b>${esc(a.nombre)}</b>, ${esc(a.titulo)}: ${esc(corta(a.como_decide, 120))}</span></button></p>`).join('')}
       <p style="margin:6px 0 0">📋 <b>La sala de analistas</b> es un equipo común que escribe un informe con datos, noticias y un debate; todos lo leen antes de decidir.</p></div>
@@ -1519,7 +1526,7 @@ function abrirFicha(id) {
   const a = agentePor(id); if (!a) return;
   FICHA_ID = id;
   const t = a.total, s = a.situacion, real = a.real, informes = (a.informes || []).slice().reverse();
-  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div><div style="margin-top:4px">${animo(a).cara} ${esc(animo(a).texto)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div><div style="margin-top:4px">${animo(a).cara} ${esc(animo(a).texto)}</div></div><button class="atras" aria-label="Volver atrás">←</button><button class="cerrar" aria-label="Cerrar">✕</button></div>
     <div class="tarjeta"><p style="margin-top:0"><b>Carácter:</b> ${esc(a.personalidad)}</p><p><b>Cómo decide:</b> ${esc(a.como_decide)}</p><p style="margin-bottom:0"><b>Qué lee:</b> ${esc(a.que_lee)}</p></div>
     ${s ? `<div class="tarjeta"><h3>Su situación en el puesto</h3><p style="margin:0">Lleva <b>${s.liquidadas}</b> apuestas liquidadas en este periodo; le revisan al llegar a ${D.reglas.revision}. Sus botes valen <b>${eur(s.valor)}</b> (<span class="${clase(s.rentabilidad)}">${pct(s.rentabilidad, true)}</span> en el periodo) y bate la cuota de cierre en el <b>${pct(s.pct_cierre, false, 0)}</b> de ${s.con_cierre} apuestas.</p>
       <div class="barra"><i style="width:${Math.min(100, s.liquidadas / D.reglas.revision * 100)}%"></i></div></div>` : ''}
@@ -1548,12 +1555,19 @@ const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos
 const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion', 'aprendizaje']);
 // Cada panel o ficha que se abre es un paso en el historial: el botón atrás del móvil cierra lo último abierto
 let APLICANDO = false;
+let PASOS = [];   // los pasos abiertos, para saber si la flecha ← tiene adónde volver
+function pintarAtras() {
+  const previo = PASOS[PASOS.length - 2];
+  document.body.classList.toggle('puede-atras', !!previo && previo !== '#/oficina' && previo !== '');
+}
 function actualizarEnlace() {
   const h = '#/' + (PANEL || 'oficina') + (FICHA_ID ? '/' + FICHA_ID : '');
   if (APLICANDO || location.hash === h) return;
   const abre = (FICHA_ID && !location.hash.includes('/' + FICHA_ID)) || (PANEL && !location.hash.startsWith('#/' + PANEL));
-  if (abre) history.pushState({ web: 1 }, '', h); else history.replaceState(history.state, '', h);
+  if (abre) { history.pushState({ web: 1 }, '', h); PASOS.push(h); } else { history.replaceState(history.state, '', h); PASOS[PASOS.length - 1] = h; }
+  pintarAtras();
 }
+function cerrarTodo() { if (FICHA_ID) cerrarFicha(); if (PANEL) cerrarPanel(); PASOS = [location.hash]; pintarAtras(); }
 function cerrarConAtras(cerrar) { if (history.state?.web) history.back(); else cerrar(); }
 function aplicarEnlace() {
   APLICANDO = true;
@@ -1562,7 +1576,11 @@ function aplicarEnlace() {
   if (ficha) { if (FICHA_ID !== ficha) abrirFicha(ficha); } else if (FICHA_ID) cerrarFicha();
   APLICANDO = false;
 }
-addEventListener('popstate', () => { cerrarGlobo(); aplicarEnlace(); });
+addEventListener('popstate', () => {
+  cerrarGlobo(); aplicarEnlace();
+  const i = PASOS.lastIndexOf(location.hash); if (i >= 0) PASOS.length = i + 1; else PASOS = [location.hash];
+  pintarAtras();
+});
 function abrirPanel(tab) {
   if (!PINTAR[tab]) return cerrarPanel();
   PANEL = tab;
@@ -1580,13 +1598,14 @@ function cerrarPanel() {
   document.querySelectorAll('.dock [data-tab]').forEach(b => b.setAttribute('aria-pressed', 'false'));
   actualizarEnlace();
 }
-$('#plegar').onclick = () => cerrarConAtras(cerrarPanel);
+$('#plegar').onclick = cerrarTodo;
 document.addEventListener('click', e => {
   const t = e.target.closest('[data-tab]'); if (t) { PANEL === t.dataset.tab && t.closest('.dock') ? cerrarPanel() : abrirPanel(t.dataset.tab); return; }
   const ay = e.target.closest('[data-ayuda]'); if (ay) { e.stopPropagation(); ay.getAttribute('aria-expanded') === 'true' ? cerrarGlobo() : abrirGlobo(ay); return; }
   cerrarGlobo();
   const es = e.target.closest('[data-estirar]'); if (es) { (es.dataset.estirar === 'panel' ? $('#panel') : $('#ficha')).classList.toggle('entera'); return; }
-  if (e.target.closest('#ficha .cerrar')) { cerrarConAtras(cerrarFicha); return; }
+  if (e.target.closest('#ficha .cerrar')) { cerrarTodo(); return; }
+  if (e.target.closest('.atras')) { history.back(); return; }
   const f = e.target.closest('[data-ficha]'); if (f) { abrirFicha(f.dataset.ficha); return; }
   const pp = e.target.closest('[data-partido]'); if (pp) { abrirPartido(pp.dataset.partido); return; }
   const b = e.target.closest('[data-filtro]'); if (b) { FILTRO[b.dataset.filtro] = b.dataset.valor; pintarBoletos(); }
@@ -1607,7 +1626,7 @@ async function cargar() {
 
   pintarFondo();montarVista();poblar();pintarCabecera();
 
-  aplicarEnlace();
+  aplicarEnlace(); PASOS = [location.hash]; pintarAtras();
   // Se recargan los datos cada 5 minutos por si ha habido novedades
   setInterval(async () => {
     const antes = D.actualizado; await cargar(); if (D.actualizado === antes) return;
