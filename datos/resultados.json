@@ -235882,6 +235882,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Valle D'Aosta Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lisa Pigato",
+    "Martyna Kubka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Adriana Reami",
+    "Fiona Ferro"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

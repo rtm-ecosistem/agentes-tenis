@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T21:22+00:00",
+ "actualizado": "2026-10-29T22:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -20614,19 +20614,18 @@
    "nombre": "Fiona Ferro",
    "circuito": "WTA",
    "elo": {
-    "all": 1676.7,
-    "hard": 1675.9,
+    "all": 1694.4,
+    "hard": 1695.0,
     "clay": 1640.7,
     "grass": 1443.6
    },
    "n": {
-    "all": 47,
-    "hard": 39,
+    "all": 48,
+    "hard": 40,
     "clay": 7,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-10 G hard vs Barbora Palicova",
     "2026-09-11 G hard vs Lucie Havlickova",
     "2026-09-12 G hard vs Dalma Galfi",
     "2026-09-13 G hard vs Noma Noha Akugue",
@@ -20635,7 +20634,8 @@
     "2026-10-13 G hard vs Aurora Zantedeschi",
     "2026-10-14 G hard vs Selena Janicijevic",
     "2026-10-16 P hard vs Leyre Romero Gormaz",
-    "2026-10-27 G hard vs Steve Johnson"
+    "2026-10-27 G hard vs Steve Johnson",
+    "2026-10-29 G hard vs Adriana Reami"
    ]
   },
   "dodin|o": {
@@ -27327,19 +27327,18 @@
    "nombre": "Lisa Pigato",
    "circuito": "WTA",
    "elo": {
-    "all": 1658.4,
-    "hard": 1671.1,
+    "all": 1624.0,
+    "hard": 1630.4,
     "clay": 1649.7,
     "grass": 1428.4
    },
    "n": {
-    "all": 30,
-    "hard": 21,
+    "all": 31,
+    "hard": 22,
     "clay": 8,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-07 G hard vs Angela Fita Boluda",
     "2026-08-24 P hard vs Linda Klimovicova",
     "2026-09-14 G hard vs Sana Garakani",
     "2026-09-16 G hard vs Kajsa Rinaldo Persson",
@@ -27348,7 +27347,8 @@
     "2026-09-20 G hard vs Gabriela Knutson",
     "2026-10-12 G hard vs Julia Avdeeva",
     "2026-10-14 P hard vs Lucie Havlickova",
-    "2026-10-28 G hard vs Robin Montgomery"
+    "2026-10-28 G hard vs Robin Montgomery",
+    "2026-10-29 P hard vs Martyna Kubka"
    ]
   },
   "shannan zayid|m": {
@@ -32600,19 +32600,18 @@
    "nombre": "Martyna Kubka",
    "circuito": "WTA",
    "elo": {
-    "all": 1609.0,
-    "hard": 1600.6,
+    "all": 1653.0,
+    "hard": 1648.9,
     "clay": 1496.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 14,
-    "hard": 12,
+    "all": 15,
+    "hard": 13,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-25 G hard vs Annika Penickova",
     "2026-08-26 G hard vs Marina Bassols Ribera",
     "2026-08-28 P hard vs Kristina Liutova",
     "2026-09-22 P hard vs Berfu Cengiz",
@@ -32621,7 +32620,8 @@
     "2026-10-13 G hard vs Alina Charaeva",
     "2026-10-15 G hard vs Teodora Kostovic",
     "2026-10-17 P hard vs Dominika Salkova",
-    "2026-10-27 G hard vs Mia Ristic"
+    "2026-10-27 G hard vs Mia Ristic",
+    "2026-10-29 G hard vs Lisa Pigato"
    ]
   },
   "gray|a": {
@@ -38508,19 +38508,20 @@
    "nombre": "Adriana Reami",
    "circuito": "WTA",
    "elo": {
-    "all": 1565.7,
-    "hard": 1565.7,
+    "all": 1523.5,
+    "hard": 1523.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-27 G hard vs Lan Mi"
+    "2026-10-27 G hard vs Lan Mi",
+    "2026-10-29 P hard vs Fiona Ferro"
    ]
   },
   "mi|l": {
@@ -90922,7 +90923,15 @@
   "bulgaru|m~podoroska|n": [
    0,
    1
+  ],
+  "kubka|m~pigato|l": [
+   1,
+   0
+  ],
+  "ferro|f~reami|a": [
+   1,
+   0
   ]
  },
- "propios": 10410
+ "propios": 10412
 }
