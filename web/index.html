@@ -230,14 +230,7 @@ details.plegable[open] > summary::before { content: "▾ "; }
   .panel, .panel.grande, .ficha { top: 0; left: 0; right: 0; bottom: 0; width: auto; border-radius: 0; border: 0; transform: translateY(105%); padding-top: env(safe-area-inset-top); }
   .panel { bottom: calc(68px + env(safe-area-inset-bottom)); }
   .panel.abierto, .ficha.abierta { transform: none; }
-  /* En el móvil, panel y ficha son hojas que suben hasta media pantalla y se pueden estirar */
-  .panel, .panel.grande, .ficha { top: 44vh; border-radius: 16px 16px 0 0; transition: transform .3s cubic-bezier(.2, .8, .2, 1), visibility .3s, top .3s; }
-  .panel.entera, .ficha.entera { top: 0; border-radius: 0; padding-top: env(safe-area-inset-top); }
-  .estirar { display: block; margin: 0 auto; width: 64px; height: 18px; border: 0; background: none; cursor: pointer; padding: 6px 0; flex: none; }
-  .estirar::before { content: ""; display: block; height: 5px; border-radius: 3px; background: rgba(255, 236, 210, .35); }
-  .cab-panel { flex-wrap: wrap; padding-top: 2px; } .cab-panel .estirar { flex-basis: 100%; }
-  .ficha .estirar { margin-top: -10px; margin-bottom: 4px; }
-  body.con-panel .caja-lienzo, body:has(.ficha.abierta) .caja-lienzo { transform: translateY(-21vh); }
+  /* En el móvil, panel y ficha ocupan toda la pantalla; el menú de abajo sigue a mano */
   body.con-panel .pie-escena { display: none; }
   .bocadillo { font-size: 10.5px; max-width: 60%; }
   .etiqueta { font-size: 10.5px; }
@@ -249,11 +242,8 @@ body{background:radial-gradient(ellipse at 50% 50%,#151b20,#090d12 72%);}
 
 .pantalla-mural{position:absolute;pointer-events:auto;cursor:pointer;background:transparent;border:0;padding:0;}
 .pantalla-mural:hover,.pantalla-mural:focus-visible{background:#c8f3c122;outline:none;}
-.luz-selector{position:fixed;right:74px;bottom:16px;z-index:23;display:flex;gap:3px;border:1px solid #a68a5740;padding:4px;border-radius:24px;background:#11191fee;}
-.luz-selector button{font:11px system-ui;padding:7px 10px;border:0;border-radius:20px;background:transparent;color:#aaa99d;cursor:pointer;}
-.luz-selector button[aria-pressed=true]{background:#b4915b33;color:#ecdbb5;}.luz-selector button:focus-visible{outline:2px solid #ddc28b;}
 .pie-escena{left:14px;transform:none;max-width:calc(100vw - 460px);overflow:hidden;font-size:10.5px;}
-@media(max-width:699px){.pie-escena{display:none;}.luz-selector{bottom:84px;right:auto;left:50%;transform:translateX(-50%);max-width:calc(100vw - 20px);}.luz-selector button{padding:7px 6px;font-size:10px;}.bocadillo{max-width:38%;font-size:9px;}}
+@media(max-width:699px){.pie-escena{display:none;}.bocadillo{max-width:38%;font-size:9px;}}
 
 
 @font-face{font-family:'Pixelify Sans';font-style:normal;font-weight:400;font-display:swap;src:url('recursos/pixelify-400.ttf') format('truetype');}
@@ -272,14 +262,12 @@ body{background:radial-gradient(ellipse at 50% 40%,#182129,#090e14 70%);}
 .panel,.ficha{background:rgba(43,28,19,.96);border-color:#b39b6b36;}
 .panel .cab-panel{background:rgba(65,40,24,.97);border-color:#b39b6b36;}
 .pie-escena{background:rgba(43,29,20,.9);border-color:#b39b6b2b;}
-.luz-selector{background:#2e2017f0;border-color:#b39b6b36;}.luz-selector button[aria-pressed=true]{background:#9b73434d;color:#efdbb5;}
-.luz-selector button{font-family:var(--pixel);font-size:12px;}
 @media(max-width:699px){.bocadillo{font-size:10.5px;max-width:39%;}.dock button{font-size:11px;}}
 @media(max-width:699px) and (orientation:portrait){.zoom{top:auto;bottom:142px;right:8px;}.zoom button{width:30px;height:30px;}}
 @media(max-height:500px) and (orientation:landscape){
   .dock{top:8px;bottom:8px;left:8px;right:auto;width:46px;flex-direction:column;justify-content:center;gap:5px;padding:4px;}
   .dock button{font-size:0;width:36px;height:40px;padding:6px;flex:none;justify-content:center;}.dock button .ico{font-size:18px;}
-  .cab,.pie-escena{display:none;}.luz-selector{bottom:8px;right:56px;left:auto;transform:none;}.luz-selector button{padding:6px 8px;font-size:10px;}
+  .cab,.pie-escena{display:none;}
   .zoom{top:auto;bottom:8px;right:8px;}.zoom button{width:28px;height:28px;}
   .panel,.panel.grande,.ficha{top:0;bottom:0;left:64px;right:0;width:auto;border-radius:12px 0 0 12px;}
 }
@@ -1619,10 +1607,6 @@ async function cargar() {
 
   pintarFondo();montarVista();poblar();pintarCabecera();
 
-  const control=document.createElement('div');control.className='luz-selector';control.setAttribute('role','group');control.setAttribute('aria-label','Movimiento de la oficina');
-  control.innerHTML='<button data-recorrido title="Ver cómo se levanta, camina y vuelve a sentarse">Recorrido</button>';
-  control.onclick=e=>{if(!e.target.closest('[data-recorrido]'))return;const g=ESCENA.agentes.find(g=>!g.saliendo&&!g.transicion);if(g){g.demostracion=true;g.volviendo=false;iniciarRuta(g,SITIOS.agua);g.quieto=0;}};
-  document.body.append(control);
   aplicarEnlace();
   // Se recargan los datos cada 5 minutos por si ha habido novedades
   setInterval(async () => {
