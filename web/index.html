@@ -77,6 +77,7 @@ body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canva
 .dock { position: fixed; z-index: 26; top: 14px; left: 14px; display: flex; gap: 3px; padding: 5px; border-radius: 12px; }
 .dock button { display: flex; align-items: center; gap: 7px; border: 0; background: none; color: var(--suave); font: 600 14px var(--pixel); padding: 7px 11px; border-radius: 8px; cursor: pointer; }
 .dock button .ico { font-size: 16px; line-height: 1; }
+.dock button .ct { display: none; }
 .dock button:hover { color: var(--texto); background: rgba(255, 236, 210, .07); }
 .dock button[aria-pressed="true"] { color: #17240b; background: var(--acento); box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .25); }
 .pie-escena { position: fixed; z-index: 20; left: 50%; bottom: 14px; transform: translateX(-50%); display: flex; gap: 14px; white-space: nowrap;
@@ -185,9 +186,23 @@ details.plegable[open] > summary::before { content: "▾ "; }
 .ficha .cabecera h2 { font: 700 22px var(--pixel); margin: 0; }
 .ficha .cerrar { margin-left: auto; align-self: flex-start; border: 0; background: rgba(255, 236, 210, .1); border-radius: 8px; width: 36px; height: 36px; cursor: pointer; font-size: 17px; }
 .grafica svg { width: 100%; height: 150px; display: block; }
+.grafica.todos svg { height: 190px; }
+.leyenda { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12.5px; color: var(--suave); margin-top: 6px; }
+.leyenda i { display: inline-block; width: 12px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 5px; }
+.ver-partido { border: 0; background: none; color: inherit; font: inherit; padding: 0; cursor: pointer; text-align: left; text-decoration: underline dotted rgba(255, 236, 210, .4); text-underline-offset: 3px; }
+.ver-partido:hover { color: var(--acento); }
+.calib { display: grid; grid-template-columns: 74px 1fr 76px; gap: 4px 8px; align-items: center; font-size: 12.5px; margin-top: 6px; }
+.calib .barras { position: relative; height: 14px; background: rgba(255, 236, 210, .06); border-radius: 4px; }
+.calib .barras i { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 4px; }
+.calib .barras i.dijo { background: rgba(255, 236, 210, .22); }
+.calib .barras i.salio { top: 4px; bottom: 4px; }
+.reglas li { margin: 4px 0; }
+.reglas small, .retiradas { color: var(--suave); }
 .carta { font-family: Georgia, "Times New Roman", serif; font-style: italic; background: var(--papel); color: var(--tinta); border-radius: 3px; padding: 10px 12px; margin: 6px 0 0; }
 
 @media (max-width: 699px) {
+  .dock button .lg { display: none; } .dock button .ct { display: inline; }
+  .tabla.desglose { font-size: 12px; } .tabla.desglose td, .tabla.desglose th { padding: 6px 3px; }
   .cab { top: calc(8px + env(safe-area-inset-top)); left: 8px; right: 8px; } .cab .sub { display: none; }
   .dock { top: auto; bottom: calc(8px + env(safe-area-inset-bottom)); left: 8px; right: 8px; justify-content: space-around; }
   .dock button { flex: 1 1 0; min-width: 0; flex-direction: column; gap: 2px; font-size: 11px; padding: 6px 2px; }
@@ -212,6 +227,7 @@ details.plegable[open] > summary::before { content: "▾ "; }
   <button data-tab="boletos" aria-pressed="false"><span class="ico">🧾</span><span>Boletos</span></button>
   <button data-tab="clasificacion" aria-pressed="false"><span class="ico">🏆</span><span>Clasificación</span></button>
   <button data-tab="sala" aria-pressed="false"><span class="ico">📋</span><span>Sala</span></button>
+  <button data-tab="aprendizaje" aria-pressed="false"><span class="ico">🧠</span><span class="lg">Aprendizaje</span><span class="ct">Aprende</span></button>
 </nav>
 <header class="cab madera">
   <div class="logo" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 26 26" shape-rendering="crispEdges"><rect x="5" y="5" width="16" height="16" fill="#d7e64a"/><rect x="3" y="7" width="2" height="12" fill="#d7e64a"/><rect x="21" y="7" width="2" height="12" fill="#d7e64a"/><rect x="7" y="3" width="12" height="2" fill="#d7e64a"/><rect x="7" y="21" width="12" height="2" fill="#d7e64a"/><rect x="6" y="7" width="2" height="12" fill="#fff"/><rect x="18" y="7" width="2" height="12" fill="#fff"/></svg></div>
@@ -224,6 +240,7 @@ details.plegable[open] > summary::before { content: "▾ "; }
   <section id="boletos" hidden></section>
   <section id="clasificacion" hidden></section>
   <section id="sala" hidden></section>
+  <section id="aprendizaje" hidden></section>
 </aside>
 <aside class="ficha madera" id="ficha" aria-label="Ficha del analista"></aside>
 <div class="pie-escena madera"><span id="que-hacen"></span><span class="pista">Pulsa en un analista para ver su ficha</span><span class="aviso-legal">Dinero ficticio · cuotas reales</span></div>
@@ -1020,7 +1037,7 @@ function pintarCartelera() {
       const grupos = {};
       for (const o of p.opciones) (grupos[o.mercado] ||= []).push(o);
       const boletos = apostadas[p.id] || [];
-      return `<div class="tarjeta partido"><div class="cabecera"><span class="jugadores">${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</span><span class="hora">${cuando(p.inicio)}</span></div>
+      return `<div class="tarjeta partido"><div class="cabecera"><button class="jugadores ver-partido" data-partido="${esc(p.id)}">${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</button><span class="hora">${cuando(p.inicio)}</span></div>
         <div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}</b>${ops.map(o =>
           `<div class="opcion"><span>${esc(etiquetaOpcion(o))}</span><span><span class="q">${o.cuota.toFixed(2)}</span> <span class="p">${o.pinnacle ? o.pinnacle.toFixed(2) : '–'}</span></span></div>`).join('')}</div>`).join('')}</div>
         ${boletos.length ? `<div class="apostado">${boletos.map(b => { const a = agentePor(b.agente); return `<span class="chip bien">${esc(a?.nombre)}: ${esc(b.descripcion)} @ ${b.cuota.toFixed(2)}</span>`; }).join('')}</div>` : ''}</div>`;
@@ -1034,7 +1051,7 @@ function boleto(b) {
   return `<article class="boleto"><span class="sello ${sello}">${ESTADOS[b.estado] || b.estado}</span>
     <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}</small></div>
     <div class="sel">${esc(b.descripcion)}</div>
-    <div class="det">${esc(b.jugadores.join(' – '))} · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
+    <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
     <div class="linea"><span>Pinnacle: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
       ${bate == null ? '' : `<span class="chip ${bate ? 'bien' : 'mal'}">${bate ? '✓ batió el cierre' : '✗ peor que el cierre'}</span>`}</div>
@@ -1056,7 +1073,8 @@ function pintarClasificacion() {
   const ags = activos(), r = D.reglas;
   const porDinero = ags.slice().sort((a, b) => b.total.ganancia - a.total.ganancia);
   const porCierre = ags.slice().sort((a, b) => (b.total.pct_cierre ?? -1) - (a.total.pct_cierre ?? -1));
-  $('#clasificacion').innerHTML = `<div class="rejilla dos">
+  $('#clasificacion').innerHTML = `<div class="tarjeta"><h3>Cómo evolucionan sus botes</h3><div class="grafica todos">${graficaTodos(ags)}</div></div>
+    <div class="rejilla dos">
     <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendimiento</th><th class="n">Aciertos</th></tr>
       ${porDinero.map((a, i) => filaClas(a, i, `<td class="n ${clase(a.total.ganancia)}">${eur(a.total.ganancia, true)}</td><td class="n ${clase(a.total.yield)}">${pct(a.total.yield, true)}</td><td class="n">${pct(a.total.aciertos, false, 0)}</td>`)).join('')}</table></div>
     <div class="tarjeta desplaza"><h3>Por cuota de cierre</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Bate el cierre</th><th class="n">Con cierre</th></tr>
@@ -1067,12 +1085,18 @@ function pintarClasificacion() {
     <h4>Despidos</h4><div class="tarjeta"><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada analista: se le despide si pierde más de un ${pct(r.despido, false, 0)} y además consiguió peor cuota que la de cierre en la mayoría de sus apuestas.</p>
       ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
 }
+function marcaAcierto(p) { return p.acierto === true ? ' <span class="chip bien">✓ acertó</span>' : p.acierto === false ? ' <span class="chip mal">✗ falló</span>' : ''; }
+function textoSalaAciertos() {
+  const m = D.sala_aciertos || {}, partes = ['favorito', 'sorpresa'].filter(v => m[v]?.[1]).map(v => `cuando dice «${v}» acierta ${m[v][0]} de ${m[v][1]} (${pct(m[v][0] / m[v][1], false, 0)})`);
+  const t = partes.join('; '); return partes.length ? t[0].toUpperCase() + t.slice(1) + '.' : 'Las opiniones de la sala se puntúan cuando se juegan los partidos: aún no hay ninguna puntuada.';
+}
 function pintarSala() {
-  $('#sala').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Un equipo común: un analista de datos (Elo, forma y cara a cara), uno de noticias (lesiones, retiradas y viajes), una de ambiente (redes y prensa) y un debate a favor y en contra del favorito. Los cuatro de la plantilla leen sus informes antes de decidir.</p>` +
+  $('#sala').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Un equipo común: un analista de datos (Elo, forma y cara a cara), uno de noticias (lesiones, retiradas y viajes), una de ambiente (redes y prensa) y un debate a favor y en contra del favorito. Los cuatro de la plantilla leen sus informes antes de decidir.</p>
+    <div class="tarjeta" style="margin-bottom:10px"><b>🎯 Su puntería:</b> ${esc(textoSalaAciertos())}</div>` +
     (D.sala.map((s, i) => `<div class="tarjeta informe"><details class="plegable" ${i === 0 ? 'open' : ''}><summary>${cuando(s.hora)} · ${esc(corta(s.conclusion))}</summary>
       <p><b>📊 Datos:</b> ${esc(s.datos)}</p><p><b>📰 Noticias:</b> ${esc(s.noticias)}</p><p><b>💬 Ambiente:</b> ${esc(s.ambiente)}</p>
       <p><b>👍 A favor del favorito:</b> ${esc(s.favorito)}</p><p><b>👎 En contra:</b> ${esc(s.contra)}</p><p><b>✅ Conclusión:</b> ${esc(s.conclusion)}</p>
-      ${s.partidos?.length ? '<p><b>Partidos destacados</b></p><ul>' + s.partidos.map(p => `<li>${esc(p.partido)} · <i>${esc(p.vista)}</i>: ${esc(p.motivo)}</li>`).join('') + '</ul>' : ''}</details></div>`).join('') || '<p class="vacio">La sala aún no ha escrito ningún informe.</p>');
+      ${s.partidos?.length ? '<p><b>Partidos destacados</b></p><ul>' + s.partidos.map(p => `<li>${p.id ? `<button class="ver-partido" data-partido="${esc(p.id)}">${esc(p.partido)}</button>` : esc(p.partido)} · <i>${esc(p.vista)}</i>${marcaAcierto(p)}: ${esc(p.motivo)}</li>`).join('') + '</ul>' : ''}</details></div>`).join('') || '<p class="vacio">La sala aún no ha escrito ningún informe.</p>');
 }
 
 /* ---------- Ficha de un analista ---------- */
@@ -1086,7 +1110,74 @@ function grafica(a) {
     <polyline points="${pts}" fill="none" stroke="${vals[vals.length - 1] >= base ? 'var(--sube)' : 'var(--baja)'}" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg>
     <small style="color:var(--suave)">Valor de sus botes apuesta a apuesta (la línea discontinua es lo que tenía al empezar)</small>`;
 }
+function graficaTodos(ags) {
+  const series = ags.filter(a => a.serie.length).map(a => ({ a, base: Object.values(a.botes).reduce((x, b) => x + b.inicial, 0), pts: a.serie.map(([f, v]) => [Date.parse(f), v]) }));
+  if (!series.length) return '<p class="vacio">La gráfica aparece cuando haya apuestas liquidadas.</p>';
+  // Se dibuja la rentabilidad (lo que vale el bote frente a lo que tenía) para comparar botes de distinto tamaño
+  for (const s of series) { s.pts = s.pts.map(([t, v]) => [t, v / s.base - 1]); s.pts.unshift([s.pts[0][0] - 864e5, 0]); }
+  const ts = series.flatMap(s => s.pts.map(p => p[0])), vs = series.flatMap(s => s.pts.map(p => p[1])).concat(0);
+  const t0 = Math.min(...ts), t1 = Math.max(...ts), lo = Math.min(...vs), hi = Math.max(...vs), H = 190, Wd = 500;
+  const x = t => (t1 > t0 ? (t - t0) / (t1 - t0) : .5) * Wd, y = v => H - 12 - (v - lo) / ((hi - lo) || 1) * (H - 24);
+  const color = a => a.color;
+  return `<svg viewBox="0 0 ${Wd} ${H}" preserveAspectRatio="none"><line x1="0" x2="${Wd}" y1="${y(0)}" y2="${y(0)}" stroke="currentColor" stroke-opacity=".25" stroke-dasharray="4 4"/>
+    ${series.map(s => `<polyline points="${s.pts.map(([t, v]) => `${x(t).toFixed(1)},${y(v).toFixed(1)}`).join(' ')}" fill="none" stroke="${color(s.a)}" stroke-width="2.5" vector-effect="non-scaling-stroke"/>`).join('')}</svg>
+    <div class="leyenda">${series.map(s => `<span><i style="background:${color(s.a)}"></i>${esc(s.a.nombre)} ${pct(s.pts[s.pts.length - 1][1], true)}</span>`).join('')}</div>
+    <small style="color:var(--suave)">Rentabilidad de sus botes desde que empezaron (la línea discontinua es el punto de partida)</small>`;
+}
+
+/* ---------- Ficha de un partido ---------- */
+function datosPartido(id) {
+  const cart = D.cartelera.partidos.find(p => p.id === id), bols = D.apuestas.filter(b => b.partido === id);
+  const opiniones = D.sala.flatMap(s => (s.partidos || []).filter(p => p.id === id).map(p => ({ ...p, hora: s.hora })));
+  const ref = cart || bols[0] || opiniones[0]; if (!ref) return null;
+  return { cart, bols, opiniones, jugadores: ref.jugadores, torneo: cart?.torneo || bols[0]?.torneo || '', superficie: cart?.superficie || bols[0]?.superficie,
+           inicio: ref.inicio, resultado: bols.find(b => b.resultado)?.resultado };
+}
+function abrirPartido(id) {
+  const p = datosPartido(id); if (!p) return;
+  FICHA_ID = 'p:' + id;
+  const grupos = {}; for (const o of p.cart?.opciones || []) (grupos[o.mercado] ||= []).push(o);
+  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</h2><div style="color:var(--suave)">${esc(p.torneo)}${p.superficie ? ` · <span class="superficie ${esc(p.superficie)}">${SUPERFICIE[p.superficie] || esc(p.superficie)}</span>` : ''} · ${cuando(p.inicio)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+    ${p.resultado ? `<div class="tarjeta"><h3>Resultado</h3><p style="margin:0">${esc(p.resultado)}</p></div>` : ''}
+    ${p.cart ? `<div class="tarjeta"><h3>Cuotas</h3><p style="margin:0 0 6px;color:var(--suave);font-size:12.5px">De ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle.</p><div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}</b>${ops.map(o =>
+      `<div class="opcion"><span>${esc(etiquetaOpcion(o))}</span><span><span class="q">${o.cuota.toFixed(2)}</span> <span class="p">${o.pinnacle ? o.pinnacle.toFixed(2) : '–'}</span></span></div>`).join('')}</div>`).join('')}</div></div>` : ''}
+    <div class="tarjeta"><h3>Qué opina la sala</h3>${p.opiniones.map(o => `<p><b>${cuando(o.hora)}</b> · <i>${esc(o.vista)}</i>${o.favorito ? ` (favorito: ${esc(o.favorito)})` : ''}${marcaAcierto(o)}<br>${esc(o.motivo)}</p>`).join('') || '<p class="vacio">La sala no lo ha destacado en sus últimos informes.</p>'}</div>
+    <div class="tarjeta"><h3>Quién ha apostado y por qué</h3><div class="boletos">${p.bols.map(boleto).join('') || '<p class="vacio">Nadie ha apostado a este partido.</p>'}</div></div>`;
+  $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
+  actualizarEnlace();
+}
+
+/* ---------- Aprendizaje ---------- */
+const GRUPOS_DESGLOSE = { mercado: 'Por mercado', superficie: 'Por superficie', cuota: 'Por cuota' };
+function tablaDesglose(d) {
+  const filas = Object.entries(GRUPOS_DESGLOSE).flatMap(([g, n]) => Object.entries(d?.[g] || {}).sort((x, y) => y[1].apuestas - x[1].apuestas).map(([k, r], i) =>
+    `<tr><td>${i ? '' : `<small style="color:var(--suave)">${n}</small><br>`}${esc(k[0].toUpperCase() + k.slice(1))}</td><td class="n">${r.apuestas}</td><td class="n ${clase(r.ganancia)}">${(r.ganancia > 0 ? '+' : '') + Math.round(r.ganancia)} €</td><td class="n ${clase(r.yield)}">${pct(r.yield, true, 0)}</td><td class="n">${pct(r.pct_cierre, false, 0)}</td></tr>`));
+  return filas.length ? `<table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendim.</th><th class="n" title="Apuestas en las que consiguió mejor cuota que la de cierre de Pinnacle">Bate cierre</th></tr>${filas.join('')}</table>`
+    : '<p class="vacio">Aún no hay apuestas liquidadas.</p>';
+}
+function calibracion(c) {
+  if (!c?.length) return '<p class="vacio">Aún no hay apuestas liquidadas con la probabilidad que dio.</p>';
+  return `<div class="calib">${c.map(f => `<span>${pct(f.desde, false, 0)}–${pct(f.hasta, false, 0)}</span>
+    <span class="barras" title="Dijo ${pct(f.dijo, false, 0)} de media; salieron el ${pct(f.salio, false, 0)}"><i class="dijo" style="width:${f.dijo * 100}%"></i><i class="salio" style="width:${f.salio * 100}%;background:${f.salio >= f.dijo ? 'var(--sube)' : 'var(--baja)'}"></i></span>
+    <span>salió ${pct(f.salio, false, 0)} <small>(${f.apuestas})</small></span>`).join('')}</div>
+    <small style="color:var(--suave)">Barra clara: la probabilidad que dio de media. Barra de color: las que salieron. Si la de color queda corta, se pasa de optimista.</small>`;
+}
+function pintarAprendizaje() {
+  $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
+    <div class="tarjeta" style="margin-bottom:10px"><b>🎯 La sala:</b> ${esc(textoSalaAciertos())}</div>
+    <div class="rejilla dos">${activos().map(a => {
+      const ult = (a.reflexiones || []).slice(-1)[0];
+      return `<div class="tarjeta desplaza"><button class="analista" data-ficha="${a.id}" style="margin-bottom:6px">${pix(a)}<div class="info"><b>${esc(a.nombre)}</b><small>${esc(a.titulo)}</small></div></button>
+        <h4 style="margin:8px 0 2px">Sus reglas</h4>${a.reglas?.length ? `<ol class="reglas">${a.reglas.map(r => `<li>${esc(r.texto)} <small>desde el ${esc(r.desde)}</small></li>`).join('')}</ol>` : '<p class="vacio">Se las pondrá en su primera reflexión del domingo.</p>'}
+        ${a.reglas_retiradas?.length ? `<p class="retiradas" style="font-size:12.5px">Retiradas: ${a.reglas_retiradas.slice(-3).map(r => `<s>${esc(r.texto)}</s>`).join(' · ')}</p>` : ''}
+        ${ult ? `<details class="plegable"><summary>Su última reflexión (${esc(ult.fecha)})</summary>${esc(ult.texto)}</details>` : ''}
+        <h4 style="margin:10px 0 2px">Dónde gana y dónde pierde</h4>${tablaDesglose(a.desglose)}
+        <h4 style="margin:10px 0 2px">Sus probabilidades</h4>${calibracion(a.calibracion)}</div>`;
+    }).join('')}</div>`;
+}
+
 function abrirFicha(id) {
+  if (id.startsWith('p:')) return abrirPartido(id.slice(2));
   const a = agentePor(id); if (!a) return;
   FICHA_ID = id;
   const t = a.total, s = a.situacion, real = a.real, informes = (a.informes || []).slice().reverse();
@@ -1113,9 +1204,9 @@ function cerrarFicha() { FICHA_ID = null; $('#ficha').classList.remove('abierta'
 
 /* ---------- Navegación ---------- */
 let PANEL = null;
-const TITULOS = { plantilla: 'La plantilla', cartelera: 'Cartelera', boletos: 'Boletos', clasificacion: 'Clasificación', sala: 'Sala de analistas' };
-const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala };
-const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion']);
+const TITULOS = { plantilla: 'La plantilla', cartelera: 'Cartelera', boletos: 'Boletos', clasificacion: 'Clasificación', sala: 'Sala de analistas', aprendizaje: 'Aprendizaje' };
+const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala, aprendizaje: pintarAprendizaje };
+const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion', 'aprendizaje']);
 function actualizarEnlace() { history.replaceState(null, '', '#/' + (PANEL || 'oficina') + (FICHA_ID ? '/' + FICHA_ID : '')); }
 function abrirPanel(tab) {
   if (!PINTAR[tab]) return cerrarPanel();
@@ -1139,6 +1230,7 @@ document.addEventListener('click', e => {
   const t = e.target.closest('[data-tab]'); if (t) { PANEL === t.dataset.tab && t.closest('.dock') ? cerrarPanel() : abrirPanel(t.dataset.tab); return; }
   if (e.target.closest('#ficha .cerrar')) { cerrarFicha(); return; }
   const f = e.target.closest('[data-ficha]'); if (f) { abrirFicha(f.dataset.ficha); return; }
+  const pp = e.target.closest('[data-partido]'); if (pp) { abrirPartido(pp.dataset.partido); return; }
   const b = e.target.closest('[data-filtro]'); if (b) { FILTRO[b.dataset.filtro] = b.dataset.valor; pintarBoletos(); }
 });
 addEventListener('keydown', e => { if (e.key === 'Escape') { if (FICHA_ID) cerrarFicha(); else if (PANEL) cerrarPanel(); } });
