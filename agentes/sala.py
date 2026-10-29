@@ -56,8 +56,9 @@ def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dic
                "favorito": str(debate.get("favorito", "")).strip(), "contra": str(debate.get("contra", "")).strip(),
                "conclusion": str(r.get("conclusion", "")).strip(), "partidos": partidos[:8]}
     if nuevas:
-        informe["importantes"] = [por_codigo[c]["id"] for c in dict.fromkeys(map(str, r.get("importantes") or []))
-                                  if c in por_codigo and por_codigo[c]["id"] in nuevas]
+        for campo in ("importantes", "graves"):
+            informe[campo] = [por_codigo[c]["id"] for c in dict.fromkeys(map(str, r.get(campo) or []))
+                              if c in por_codigo and por_codigo[c]["id"] in nuevas]
     estado["sala"] = (estado.get("sala", []) + [informe])[-MAX_HISTORIAL:]
     return informe
 

@@ -152,13 +152,16 @@ Responde SOLO con un JSON:
   "debate": {"favorito": "El mejor argumento a favor de los favoritos de hoy (2-3 frases).", "contra": "El mejor argumento para ir contra ellos (2-3 frases)."},
   "conclusion": "2-3 frases: qué pesa más y qué hay que vigilar.",
   "partidos": [{"partido": "P01", "vista": "favorito, sorpresa o dudoso", "motivo": "Una frase con el dato en que os basáis."}],
-  "importantes": ["P03"]
+  "importantes": ["P03"],
+  "graves": []
 }
 Incluid entre 0 y 8 partidos destacados (los códigos de la cartelera). Si os damos NOTICIAS NUEVAS, en "importantes"
 poned solo los códigos de los partidos en los que esas noticias pueden cambiar lo que vale apostar (una lesión, una
 retirada, cansancio, un cambio de pista o de condiciones, un problema personal). Una entrevista, una previa o un
 resultado ya conocido no cuentan. Pedir cuotas nuevas cuesta créditos: ante la duda, dejadlo fuera. Sin noticias
-nuevas, dejadlo vacío."""
+nuevas, dejadlo vacío. En "graves" poned, de esos, solo los que tienen una noticia muy seria: una lesión fuerte o dudas
+de que llegue a jugar (una retirada o una suspensión no: el partido no se juega y la apuesta se anula). Casi siempre
+irá vacío."""
 
 
 def mensaje_sala(momento: datetime, cartelera_txt: str, estadisticos: str, noticias_txt: str, anterior: dict | None,
@@ -190,7 +193,8 @@ ESQUEMA_SALA = {"type": "OBJECT", "properties": {
     "partidos": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
         "partido": {"type": "STRING"}, "vista": {"type": "STRING", "enum": ["favorito", "sorpresa", "dudoso"]},
         "motivo": {"type": "STRING"}}}},
-    "importantes": {"type": "ARRAY", "items": {"type": "STRING"}}},
+    "importantes": {"type": "ARRAY", "items": {"type": "STRING"}},
+    "graves": {"type": "ARRAY", "items": {"type": "STRING"}}},
     "required": ["datos", "noticias", "ambiente", "debate", "conclusion"]}
 
 

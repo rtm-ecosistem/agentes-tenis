@@ -66,9 +66,10 @@ class FakeAPI:
 class FakeIA:
     """Responde según quién pregunta: la sala, cada analista o las cartas."""
 
-    def __init__(self, apuestas=None, importantes=None):
+    def __init__(self, apuestas=None, importantes=None, graves=()):
         self.apuestas = apuestas or {}
         self.importantes = importantes  # None: la sala ve importantes todas las noticias nuevas
+        self.graves = list(graves)
         self.mensajes = []
 
     def pedir_json(self, instrucciones, mensaje, esquema=None):
@@ -77,7 +78,8 @@ class FakeIA:
             return {"datos": "d", "noticias": "n", "ambiente": "a", "debate": {"favorito": "f", "contra": "c"},
                     "conclusion": "conclusión", "partidos": [{"partido": "P01", "vista": "favorito", "motivo": "m"}],
                     "importantes": self.importantes if self.importantes is not None else
-                    re.findall(r"^(P\d\d) \(", mensaje.partition("NOTICIAS NUEVAS DESDE")[2], re.M)}
+                    re.findall(r"^(P\d\d) \(", mensaje.partition("NOTICIAS NUEVAS DESDE")[2], re.M),
+                    "graves": self.graves}
         if "te acaban de" in instrucciones:
             return {"carta": "Querido sustituto: apuesta menos."}
         if "acaba de despedir" in instrucciones:

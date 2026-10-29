@@ -304,7 +304,7 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
     disponibles = creditos_hora_disponibles(estado, momento)
     c = estado["creditos"]["noticias"]
     vivos = {p["id"]: p for p in partidos}
-    c["pendientes"] = {k: v for k, v in c["pendientes"].items() if k in vivos and k not in c["partidos"]}
+    c["pendientes"] = {k: v for k, v in c["pendientes"].items() if k in vivos and c["partidos"].count(k) <= config.CONSULTAS_GRAVES}
     decidido = estado.get("ultima_decision") == comun.hoy_madrid(momento)
     ia, elo = None, comun.leer(config.ELO, {})
     if nuevas:
@@ -314,7 +314,9 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
         ia = crear_ia()
         informe = sala.escribir(estado, partidos, elo, datos, ia, momento, nuevas) or {}
         if decidido:
-            importantes = [i for i in informe.get("importantes", []) if i not in c["partidos"]]
+            graves = informe.get("graves", [])  # una noticia muy seria permite volver a consultar un partido
+            importantes = [i for i in informe.get("importantes", [])
+                           if i not in c["partidos"] or (i in graves and c["partidos"].count(i) <= config.CONSULTAS_GRAVES)]
             for i in importantes:
                 c["pendientes"][i] = list(dict.fromkeys(c["pendientes"].get(i, []) + [n["titulo"] for n in nuevas[i]]))[-6:]
             if importantes:
@@ -359,6 +361,11 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
     gastados = max(api.gastados - antes, len(deportes))
     c["gastados"] += gastados
     c["ultimo"] = comun.iso(momento)
+    mes = estado["creditos"].setdefault("noticias_mes", {})
+    if mes.get("mes") != comun.hoy_madrid(momento)[:7]:
+        mes.update({"mes": comun.hoy_madrid(momento)[:7], "gastados": 0, "consultas": 0})
+    mes["gastados"] += gastados
+    mes["consultas"] += 1
     for p in afectados:
         c["partidos"].append(p["id"])
         c["pendientes"].pop(p["id"], None)
@@ -373,6 +380,8 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
     decidir_todos(estado, apuestas, frescos, elo, datos, prompts.texto_sala(sala.para_decidir(estado, momento)), ia,
                   momento, nota)
     nuevas_apuestas = apuestas[n_antes:]
+    for a in nuevas_apuestas:
+        a["origen"] = "noticias"
     oficina.anotar(estado, momento, f"🧾 Con las noticias nuevas: {len(nuevas_apuestas)} apuestas por "
                                     f"{sum(a['stake'] for a in nuevas_apuestas):.2f} € ({gastados} créditos).")
     return len(nuevas_apuestas)

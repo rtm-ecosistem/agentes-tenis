@@ -231,3 +231,31 @@ def test_tras_pedir_cuotas_se_espera_si_el_partido_queda_lejos(monkeypatch):
     assert len(api.llamadas) == llamadas + 1
     assert estado["creditos"]["noticias"]["partidos"] == ["e1", "e2"] and estado["creditos"]["noticias"]["gastados"] == 2
     assert "fiebre" in [m for i, m in ia.mensajes if i.startswith("Eres Óscar,")][0]
+
+
+def test_una_noticia_grave_permite_consultar_otra_vez_y_se_mide_si_vale_la_pena(monkeypatch):
+    decidir({})
+    noticias_hoy = {"noticias": []}
+    monkeypatch.setattr("agentes.noticias.recoger", lambda jugadores, sesion=None: noticias_hoy)
+    api = FakeAPI()
+    pedidas = lambda api: [ll for ll in api.llamadas if not ll[2]]  # sin las de cierre de Pinnacle
+    ciclo.cierre(momento=AHORA + timedelta(minutes=65), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    noticias_hoy["noticias"] = [noticia("n1", "Casper Ruud", "Ruud, con molestias")]
+    ia = FakeIA({"Óscar": [{"seleccion": "P01a", "confianza": 2, "motivo": "Ruud tocado"}]})
+    ciclo.cierre(momento=AHORA + timedelta(minutes=125), api=api, ia=ia, avisos=FakeAvisos())
+    llamadas = len(pedidas(api))
+    # Otra noticia normal del mismo partido no se paga; una grave sí, una vez más (el partido está a menos de 2 horas)
+    noticias_hoy["noticias"].append(noticia("n2", "Casper Ruud", "Ruud entrena"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=305), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas
+    noticias_hoy["noticias"].append(noticia("n3", "Casper Ruud", "Ruud, duda por lesión"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=325), api=api, ia=FakeIA(graves=["P01"]), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas + 1
+    noticias_hoy["noticias"].append(noticia("n4", "Casper Ruud", "Ruud, peor"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=345), api=api, ia=FakeIA(graves=["P01"]), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas + 1   # la segunda vez ya no
+    estado, apuestas = comun.leer(config.ESTADO, None), comun.leer(config.APUESTAS, [])
+    assert estado["creditos"]["noticias_mes"] == {"mes": "2026-10", "gastados": 2, "consultas": 2}
+    assert [a["origen"] for a in apuestas] == ["noticias"]
+    datos = comun.leer(config.WEB_DIR / "datos.json", {})
+    assert datos["por_noticias"]["noticias"]["pendientes"] == 1 and datos["por_noticias"]["manana"]["pendientes"] == 0

@@ -40,8 +40,9 @@ El de cierre va cada hora porque la cuota de cierre de Pinnacle se guarda en la 
 apuestas (los de Australia se juegan de madrugada en España). Si no hay apuestas pendientes, no gasta créditos.
 También lee cada hora las noticias de los jugadores que aún no han jugado: si hay alguna nueva, la sala actualiza su
 informe y dice si la noticia cambia algún partido. Solo entonces se piden cuotas nuevas del ganador y los analistas
-pueden apostar a ese partido (como mucho 4 créditos al día, nunca dos veces el mismo partido). Si se pidieron cuotas
-hace menos de 2 horas y el partido empieza dentro de más de 3, se espera para juntar las noticias en una sola consulta.
+pueden apostar a ese partido (como mucho 4 créditos al día). Un partido no se consulta dos veces, salvo que la sala
+marque una noticia como grave (una lesión fuerte o dudas de que juegue): entonces, una vez más. Si se pidieron cuotas
+hace menos de 2 horas y el partido empieza dentro de más de 2, se espera para juntar las noticias en una sola consulta.
 
 ## 3. Probar
 
