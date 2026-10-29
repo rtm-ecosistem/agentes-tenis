@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T19:32+00:00",
+ "actualizado": "2026-10-29T20:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16842,19 +16842,18 @@
    "nombre": "Anna Blinkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1703.5,
-    "hard": 1698.2,
+    "all": 1717.7,
+    "hard": 1711.7,
     "clay": 1360.6,
     "grass": 1531.3
    },
    "n": {
-    "all": 69,
-    "hard": 56,
+    "all": 70,
+    "hard": 57,
     "clay": 6,
     "grass": 7
    },
    "ultimos": [
-    "2026-09-18 G hard vs Alina Charaeva",
     "2026-09-19 P hard vs Kaitlin Quevedo",
     "2026-09-28 G hard vs Emiliana Arango",
     "2026-09-30 G hard vs Viktoria Hruncakova",
@@ -16863,7 +16862,8 @@
     "2026-10-08 G hard vs Caroline Werner",
     "2026-10-09 G hard vs Bianca Andreescu",
     "2026-10-10 P hard vs Lucrezia Stefanini",
-    "2026-10-27 G hard vs Dalma Galfi"
+    "2026-10-27 G hard vs Dalma Galfi",
+    "2026-10-29 G hard vs Katarina Zavatska"
    ]
   },
   "golubic|v": {
@@ -27870,19 +27870,18 @@
    "nombre": "Katarina Zavatska",
    "circuito": "WTA",
    "elo": {
-    "all": 1571.0,
-    "hard": 1533.2,
+    "all": 1549.0,
+    "hard": 1513.3,
     "clay": 1619.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 20,
-    "hard": 18,
+    "all": 21,
+    "hard": 19,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-05-19 G clay vs Carol Zhao",
     "2026-05-20 G clay vs Darja Semenistaja",
     "2026-09-12 P hard vs Lea Ma",
     "2026-09-29 P hard vs Sofya Lansere",
@@ -27891,7 +27890,8 @@
     "2026-10-06 G hard vs Shao Yushan",
     "2026-10-08 G hard vs Darya Khamutsianskaya",
     "2026-10-09 P hard vs Renata Zarazua",
-    "2026-10-28 G hard vs Laura Mair"
+    "2026-10-28 G hard vs Laura Mair",
+    "2026-10-29 P hard vs Anna Blinkova"
    ]
   },
   "cirpanli|d": {
@@ -90910,7 +90910,11 @@
   "jones|f~souza|m": [
    1,
    0
+  ],
+  "blinkova|a~zavatska|k": [
+   1,
+   0
   ]
  },
- "propios": 10405
+ "propios": 10406
 }

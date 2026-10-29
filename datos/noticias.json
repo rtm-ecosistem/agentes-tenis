@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-10-29T19:32+00:00",
+ "actualizado": "2026-10-29T20:10+00:00",
  "noticias": [
+  {
+   "id": "2c932d082a77",
+   "titulo": "Ahora sí que sí: Zverev es matemáticamente el nuevo número uno del mundo - Puntodebreak",
+   "resumen": "Ahora sí que sí: Zverev es matemáticamente el nuevo número uno del mundo Puntodebreak",
+   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2J0OGdqTjdXTlRfUUdkWm5NTHJuRkVuMW9DMlYwY3VlaEU0ODlfMVcxVmhQSWNCYVZaVUQ2VzJKNkxpbHFXWWtKd0xtNF80SHp5R0toVnJVSkRMRGNrU0U2RkJVcFhPS2pMNTZmRkQybXJnTVBON3dieFR0ZjhZM2Y5R3B4T0NaT0Z5V1NuWWk?oc=5",
+   "fecha": "2026-10-29T19:57+00:00",
+   "fuente": "Punto de Break"
+  },
   {
    "id": "77aec716c913",
    "titulo": "Alcaraz repels Basilashvili’s 4 set points in Vienna, books QF spot - ATP Tour",
@@ -24,6 +32,22 @@
    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGhFUVY5MDNmTHNSLTNOR0RfWVVJNnl5U2RKeVJoa3JJZTdyYkFPbmVJOUdCQlhEUGhScTRBU3VMcEd2OWU3dzFZU29iMU5pNkk5a3cwOUU2U2lrV3BrSE5FYnRadndzWHE2U1J0Wk1FVFZ3MC1MV2ozbGlMZngwNHJ1Q0VPRGdBaTc4T3ZkckFSYXJSQ29tbXZwOUxGN3pl?oc=5",
    "fecha": "2026-10-29T18:48+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "825bc1271f7c",
+   "titulo": "TBD vs Jiri Lehečka · Quarterfinal · ATP Basel - Tennis.com",
+   "resumen": "TBD vs Jiri Lehečka · Quarterfinal · ATP Basel Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUZjUktKWHpvVmkwSV9MWlN1T1V4c1ZRLTRPcnBPbGMyMGd3RHlGZEw4amJvMUt2RlBkbk81NGJEeWoycktGVVBpR05fU0pra0llel9iTDFHZENxZ0hpeE5QTVNOUzVDWWZNbUxyUkpPQllvTTFseWRpbDZWWFdwRWlEQ0FWd2xvNkwzNDdiNi12dm9J?oc=5",
+   "fecha": "2026-10-29T18:46+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "897a2cd687da",
+   "titulo": "Taylor Fritz vs Arthur Fils · Quarterfinal · ATP Basel - Tennis.com",
+   "resumen": "Taylor Fritz vs Arthur Fils · Quarterfinal · ATP Basel Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3FtYllRSDVfcjc3a3ZsU09tT3ZTcjF1WWhMVC15NWFzTjJIajdRQ3lRU0MxTUo5dHVSX0pRVXdWTTJWTjVTbDYzYmtSMEJrcVVzZEtnRDdiajNadWFBa1lkVnNTTFhqUk5udUF0YVVBRG4xZWh3ekpBZnc3ZVVVMWNDQ0piUnNYb2FJRnh2LVQxdGpyM2c?oc=5",
+   "fecha": "2026-10-29T18:46+00:00",
+   "fuente": "Tennis.com"
   },
   {
    "id": "edf3ee892bcf",
@@ -469,14 +493,6 @@
    "fuente": "WTA"
   },
   {
-   "id": "b481d95627c6",
-   "titulo": "Tagger speeds past Linette in 67 minutes to make Guangzhou quarters - WTA Tennis",
-   "resumen": "Tagger speeds past Linette in 67 minutes to make Guangzhou quarters WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmZGRnJwNkItdG9hdmZvaTUtUVVLc2FXOURmWE8wNFNsaHZZRmIxUFQ1RHdqN1BDckJMNnVjWF9nSHZGa1F1dTBielNVR3RKdXlSX1ZGQUJuWDJiMGNxdGlUSk1ZeG5wdk5WaVlnV1ZTbU5WN2JqLTZPbllUdS02SDdKRDlqWk9jNkFibzBON0JNcGdJcXdxNVRTYkFwTHh1S3hOWjRXXzFJQ3N2?oc=5",
-   "fecha": "2026-10-29T14:59+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "e2e70086df08",
    "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
    "resumen": "Women's Tennis Association - Official Website WTA Tennis",
@@ -509,19 +525,27 @@
    "fuente": "Tennis.com"
   },
   {
+   "id": "b481d95627c6",
+   "titulo": "Tagger speeds past Linette in 67 minutes to make Guangzhou quarters - WTA Tennis",
+   "resumen": "Tagger speeds past Linette in 67 minutes to make Guangzhou quarters WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmZGRnJwNkItdG9hdmZvaTUtUVVLc2FXOURmWE8wNFNsaHZZRmIxUFQ1RHdqN1BDckJMNnVjWF9nSHZGa1F1dTBielNVR3RKdXlSX1ZGQUJuWDJiMGNxdGlUSk1ZeG5wdk5WaVlnV1ZTbU5WN2JqLTZPbllUdS02SDdKRDlqWk9jNkFibzBON0JNcGdJcXdxNVRTYkFwTHh1S3hOWjRXXzFJQ3N2?oc=5",
+   "fecha": "2026-10-29T14:39+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "8917ffbcccbb",
+   "titulo": "Hot shots: Two 'sensational' short angles by Mia Pohankova in Tokyo - WTA Tennis",
+   "resumen": "Hot shots: Two 'sensational' short angles by Mia Pohankova in Tokyo WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEhINEFqYXUweGNPTmRTRWVVUi00WGw4TXpZQVFSc1AtVmNHc05ETTYxZFNXa3pGTnh1LTRkTks0a2lrSi1yWWJMNzlqVmFkOHZhem8yOG9qTGRtQ3Q5SFBUbk1FYklkMUwzZjMyN0lmN3g1bzB1c25ZQWhLdldZcGR5OGxBNW96a3hMOWlCRFRTQVRxbDJvT2xQXzFhVVpLR1kxM2ZPMTFNQQ?oc=5",
+   "fecha": "2026-10-29T14:39+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "567993df2d17",
    "titulo": "Quevedo pulls away from Bondar in Guangzhou to make second WTA quarterfinal - WTA Tennis",
    "resumen": "Quevedo pulls away from Bondar in Guangzhou to make second WTA quarterfinal WTA Tennis",
    "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUJ4ZnhyeG1WRGoxVzBOT1p6cGxleDB4SjdZSzd0Z3gtSU0yeTRXZ3lncy1aMnpMNDR2UTlMS25kMzVUanM5WTlJLWwwYWMwVkFHejZTQ0M2RDIzNVdZYnlMWF9Tdl9ZanMzY1YzWDIydmw4SnhOTlQ5ZDAtbFE4M2pILW11SEo3dEZmRXFUZjRQdmdwRlVZTEVnVHA3ZXhRYzI5WUFONnN5MnRYNlUwNzBmbHNFNGc?oc=5",
    "fecha": "2026-10-29T14:34+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "b9e21d200e22",
-   "titulo": "Rybakina wins all-Kazakhstani derby vs. Putintseva to make Tokyo quarters - WTA Tennis",
-   "resumen": "Rybakina wins all-Kazakhstani derby vs. Putintseva to make Tokyo quarters WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVJyY2JQbGp0Z09PMUFaUHc0c0ZmM1dHQ3U4NFYwQ3M2MFFsekQ3dDl2TjZMSmdjalplaUNFTzNyZkJLUUFCNTdUdHZucFFpMlZOa1BSSnpkajJMdlBkbEtEdHlObUZNc3FpcHVDUl9sVjJ1MFdtZTd6anNjbkw0RW5qNWRFUlJXY2xtdGUtV1UxLVlCQm45ZDR1ajBNaFBTMGF0ZHJxN2Y4VGtNaGplOC1ZZw?oc=5",
-   "fecha": "2026-10-29T14:31+00:00",
    "fuente": "WTA"
   },
   {
@@ -644,14 +668,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtVZHBRZ2JsN2JPdXhnbGY2bWxzbVdQc2ZrOTUtTElrWVhDM0lvM203TWp2SUs4TlZjUW1VRnFPVFd0RTZMQnJ3bmlCeVNpSTZtdFNkdWphaWt3MnFpdTg1NXYtUk9SeFVUUWFNa3BlcnltMkZCRUVuR2VxSTRGOWNBWk9KaVpHc2dtUGFoTzNJWFk?oc=5",
    "fecha": "2026-10-29T13:57+00:00",
    "fuente": "Punto de Break"
-  },
-  {
-   "id": "8917ffbcccbb",
-   "titulo": "Hot shots: Two 'sensational' short angles by Mia Pohankova in Tokyo - WTA Tennis",
-   "resumen": "Hot shots: Two 'sensational' short angles by Mia Pohankova in Tokyo WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEhINEFqYXUweGNPTmRTRWVVUi00WGw4TXpZQVFSc1AtVmNHc05ETTYxZFNXa3pGTnh1LTRkTks0a2lrSi1yWWJMNzlqVmFkOHZhem8yOG9qTGRtQ3Q5SFBUbk1FYklkMUwzZjMyN0lmN3g1bzB1c25ZQWhLdldZcGR5OGxBNW96a3hMOWlCRFRTQVRxbDJvT2xQXzFhVVpLR1kxM2ZPMTFNQQ?oc=5",
-   "fecha": "2026-10-29T13:54+00:00",
-   "fuente": "WTA"
   },
   {
    "id": "373119df1b19",
@@ -967,6 +983,14 @@
    "fuente": "ATP Tour"
   },
   {
+   "id": "b9e21d200e22",
+   "titulo": "Rybakina wins all-Kazakhstani derby vs. Putintseva to make Tokyo quarters - WTA Tennis",
+   "resumen": "Rybakina wins all-Kazakhstani derby vs. Putintseva to make Tokyo quarters WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVJyY2JQbGp0Z09PMUFaUHc0c0ZmM1dHQ3U4NFYwQ3M2MFFsekQ3dDl2TjZMSmdjalplaUNFTzNyZkJLUUFCNTdUdHZucFFpMlZOa1BSSnpkajJMdlBkbEtEdHlObUZNc3FpcHVDUl9sVjJ1MFdtZTd6anNjbkw0RW5qNWRFUlJXY2xtdGUtV1UxLVlCQm45ZDR1ajBNaFBTMGF0ZHJxN2Y4VGtNaGplOC1ZZw?oc=5",
+   "fecha": "2026-10-29T10:32+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "31a3e0340e42",
    "titulo": "Carlos Alcaraz - Nikoloz Basilashvili: horario y dónde ver por TV los octavos de final del ATP 500 de Viena - El Debate",
    "resumen": "Carlos Alcaraz - Nikoloz Basilashvili: horario y dónde ver por TV los octavos de final del ATP 500 de Viena El Debate",
@@ -1004,6 +1028,14 @@
    "titulo": "Rybakina, a un partido de asegurarse el número 1 a final de año - Puntodebreak",
    "resumen": "Rybakina, a un partido de asegurarse el número 1 a final de año Puntodebreak",
    "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXhQeG5xTkI2UHh3Z0JxRjJsVk9fVDJRa3E5dnNfZWw4X1UtS3VHSEI2dEpGMW9LM0xqTnpDb3kxNjJiS0J6cFM2RGg5ZkFQWldYVGFGS2FQcTE1cWlGMXpsLXFabzczLWMyd2drbkhna1dBRWdnd0lfTVVKUDJYSGdndFNUVEZlSTBja3RnMA?oc=5",
+   "fecha": "2026-10-29T09:27+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "793f7d992f83",
+   "titulo": "Rybakina, à un match de s'assurer la première place à la fin de l'année - Puntodebreak",
+   "resumen": "Rybakina, à un match de s'assurer la première place à la fin de l'année Puntodebreak",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd19pVjlQczB6emNkcGZ1RG9OOFZ3ek9uZldlakdUSi1GdlBlZzJOZU1VZ3V0UW1HcERTMTZyTUtYb1R0TzlCay1OcE51ZlZ5LW05NUxWNk1QNjRpanJZbl9yOFNEX1RlXy1CRmRCVXhtYmJ4RzVaNEQ3c21uOTNYbXdBSkJtc3NMSzlVaEJpQnRRZw?oc=5",
    "fecha": "2026-10-29T09:27+00:00",
    "fuente": "Punto de Break"
   },
@@ -3229,14 +3261,6 @@
    "jugador": "Valentin Vacherot"
   },
   {
-   "id": "93b5b0161fb6",
-   "titulo": "Eala comes from a set down vs. Gibson to make Tokyo quarterfinals - WTA Tennis",
-   "resumen": "Eala comes from a set down vs. Gibson to make Tokyo quarterfinals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnhzUEpxYjJLd0FETHB4VVRZX2N4WEFKdFJmQUE4WkhIeUVrT29WakpDZXVscGJiRDR1SDFoWHk5TUphUEZUSE5DSmdxMmNudGZFMlh3NDhRUWR0NnFXUi1nT1FPNlh0eTVsV1RranBHRGF4U2dleGJwMU10NEtfZjlVZU9vX0p2dHFCSC0yRlF0OFluREJCdlVtaG53LUVRSkxtUEpjR1Q?oc=5",
-   "fecha": "2026-10-28T13:19+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "b9b5b0738fa4",
    "titulo": "Novak Djokovic, hoy: El serbio recibió una invitación y se presenta en el ATP 500 de Basilea - Sporting News",
    "resumen": "Novak Djokovic, hoy: El serbio recibió una invitación y se presenta en el ATP 500 de Basilea Sporting News",
@@ -3285,6 +3309,14 @@
    "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JLVRnOGx0VEZhN2k4cy1uaXVMOTB5Z1dVVDM0aUJhSzREVkFRdTNRWHJ2eUR6YUZyajhOd3l5b01mcVgwdldUZW95bm91UGpOXzJacWdURlZoT2ZnMUNRaXJSQmQxZjlDVkdUOThDVGhOSjZoemxV?oc=5",
    "fecha": "2026-10-28T12:42+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "93b5b0161fb6",
+   "titulo": "Eala comes from a set down vs. Gibson to make Tokyo quarterfinals - WTA Tennis",
+   "resumen": "Eala comes from a set down vs. Gibson to make Tokyo quarterfinals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnhzUEpxYjJLd0FETHB4VVRZX2N4WEFKdFJmQUE4WkhIeUVrT29WakpDZXVscGJiRDR1SDFoWHk5TUphUEZUSE5DSmdxMmNudGZFMlh3NDhRUWR0NnFXUi1nT1FPNlh0eTVsV1RranBHRGF4U2dleGJwMU10NEtfZjlVZU9vX0p2dHFCSC0yRlF0OFluREJCdlVtaG53LUVRSkxtUEpjR1Q?oc=5",
+   "fecha": "2026-10-28T12:20+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "17a11abb09bf",
@@ -6588,38 +6620,6 @@
    "titulo": "Lilli Tagger vs Venus Williams · Round 1 · WTA Guangzhou - Tennis.com",
    "resumen": "Lilli Tagger vs Venus Williams · Round 1 · WTA Guangzhou Tennis.com",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXdGT01wMEVtbjI5SzhLcEQ5MXl1ci1ldVlKY1gzcjdOME1pelY1VmM1TjBsTUJUWjRySF9mN01OY1FvQlFlSFRaaWpnTlZ0MkJmaFdKR3JCWUg2Z2dLQUxYMXJMWTB2SVIyMUswTkprdUF1R0ZHNW9INXh4NTh4bGdXbE1kM3hEeVhNTEd0MGU0WlNDZ2lDaGhsdnV4cTlmZktiamQ2ZVE2TVVHV2RVVW1B?oc=5",
-   "fecha": "2026-10-27T07:00+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "dbd4dc523c34",
-   "titulo": "Dart / Karamoko vs Hozumi / Klepac · Round 1 · WTA Guangzhou - Tennis.com",
-   "resumen": "Dart / Karamoko vs Hozumi / Klepac · Round 1 · WTA Guangzhou Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmdlUkxBdS15T1BJODZWNFZYU0llcHhwYm5KNk1GMG1UQkVma2hqa2E5WlBKRFdsenBuaExDYk8xZl9GaURZR3pqX1N5Y2xQN2IwRzNpQjJreG1SdVRMcDJmYjdmNEFhalIwTEhZU3JfbER6LWZuMzJZazhvRS1JMVpmaGgweUUxZEYtYmt1emt1eENROGdBcS1tNXZ4NndVTF9Ea0hEN2M1cG9kbTB4cHd5aW1VTmlPdFNqSHZDdklId0pycUpV?oc=5",
-   "fecha": "2026-10-27T07:00+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "e72e2cbabfcb",
-   "titulo": "Kichenok / Ninomiya vs Malečková / Škoch · Round 1 · WTA Guangzhou - Tennis.com",
-   "resumen": "Kichenok / Ninomiya vs Malečková / Škoch · Round 1 · WTA Guangzhou Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGphYm5MRnBMLTIwTzhzQ1lzVDNlSEF2WHFTaDVkMDdWNkVNWHB3MmMyRks3aS1sUEdUV0ZhR0xhLUl5TkttNElHV2VPWW80bFJlajFJOXcteXRpYXQ2ci1sSnMwUEpITi1YT2cxTHlxRUh2d0c5SEdHQ1lCLUNPRTJET3o5S3lYenhkWXM5dTdadXNZSUNkb3NOTF9KZU1kelIzbGNFdmtsbHJoeWRHNUFjT2s4WTN3MDNnUEZhSDNDR19lSW5BSWhla2dIQ0E?oc=5",
-   "fecha": "2026-10-27T07:00+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "133afe920396",
-   "titulo": "Sara Sorribes Tormo vs Zeynep Sönmez · Round 1 · WTA Guangzhou - Tennis.com",
-   "resumen": "Sara Sorribes Tormo vs Zeynep Sönmez · Round 1 · WTA Guangzhou Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeW9JYURhdmR6SDR0RlRkMXdtYzNSQ1VnY3pYRTRERmFRRHBHSDhOQ2M4TXZwaW9jT0RHa3QwdHYxUTdtVU9OR1JneGNGZ280Vk1BLTcwSktTNEg0a2hzOTJGblVDS01ab05TTU1rc0ZieXhUdGtiM0dxU1B5UnEyYkV1R1J6NnMtNWlyeUdKdTB5WnZwZFBqLVAxbDNIOG5EUnB3VDFqWkNrVDdSZlI3MUZLekZGZVJ1Y2c?oc=5",
-   "fecha": "2026-10-27T07:00+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "3961842b88ca",
-   "titulo": "Kaitlin Quevedo vs Sofia Kenin · Round 1 · WTA Guangzhou - Tennis.com",
-   "resumen": "Kaitlin Quevedo vs Sofia Kenin · Round 1 · WTA Guangzhou Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVMxMEwyNDdUdjZmaEl4TWQxYTJUdjdPZGFPb0cyM1NCRU16SzRkTUhUWUU2RXNmQkRXNTlhMi1OdFlXNms2eUI1ZHJadW9fUHNVel9PdE05eXlWWV9Nb1NTRXZDNVd0QW5ueDZWei02dHdMM1RkUW82NjNfTW5ON3N4NElvbWtUeHNFTGpoakd5YVkxbDVjclNBdmNKWF9KZVVYXy14X2JwZ1RvNzhv?oc=5",
    "fecha": "2026-10-27T07:00+00:00",
    "fuente": "Tennis.com"
   }
