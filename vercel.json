@@ -3,5 +3,10 @@
   "framework": null,
   "installCommand": "echo sin dependencias",
   "buildCommand": "echo sin compilacion",
-  "outputDirectory": "web"
+  "outputDirectory": "web",
+  "git": {
+    "deploymentEnabled": {
+      "claude/**": false
+    }
+  }
 }
