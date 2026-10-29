@@ -165,3 +165,12 @@ def test_noticias_cada_hora_actualizan_la_sala_y_permiten_apostar(monkeypatch):
     llamadas = len(api.llamadas)
     ciclo.cierre(momento=AHORA + timedelta(minutes=305), api=api, ia=ia, avisos=FakeAvisos())
     assert len(api.llamadas) == llamadas and len(ia.mensajes) == 1   # solo la sala
+
+
+def test_no_se_pagan_cuotas_de_torneos_sin_partidos():
+    class DosTorneos(FakeAPI):
+        def torneos(self):
+            return super().torneos() + [{"key": "tennis_wta_vacio", "title": "WTA sin partidos", "active": True}]
+    api = DosTorneos()
+    decidir({}, api)
+    assert [ll[0] for ll in api.llamadas] == ["tennis_atp_paris_masters"]
