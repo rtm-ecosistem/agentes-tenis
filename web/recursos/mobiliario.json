@@ -1,0 +1,74 @@
+{
+  "chimenea": {
+    "bbox": [
+      1097,
+      11,
+      1490,
+      526
+    ],
+    "size": [
+      393,
+      515
+    ],
+    "pixels": 141135
+  },
+  "despacho": {
+    "bbox": [
+      558,
+      89,
+      1053,
+      526
+    ],
+    "size": [
+      495,
+      437
+    ],
+    "pixels": 118118
+  },
+  "sofa": {
+    "bbox": [
+      71,
+      584,
+      560,
+      970
+    ],
+    "size": [
+      489,
+      386
+    ],
+    "pixels": 107236
+  },
+  "libreria": {
+    "bbox": [
+      1156,
+      485,
+      1433,
+      983
+    ],
+    "size": [
+      277,
+      498
+    ],
+    "pixels": 104465
+  },
+  "mesa": {
+    "source": "mesa independiente con tablero libre para monitores dinámicos",
+    "size": [
+      1324,
+      1078
+    ]
+  },
+  "butaca": {
+    "bbox": [
+      662,
+      606,
+      987,
+      943
+    ],
+    "size": [
+      325,
+      337
+    ],
+    "pixels": 69677
+  }
+}
