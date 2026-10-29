@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T01:40+00:00",
+ "actualizado": "2026-10-29T03:26+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -416,40 +416,6 @@
  "cartelera": {
   "actualizado": "2026-10-28T18:25+00:00",
   "partidos": [
-   {
-    "id": "0148c3d6327ac9f98ddf4b277bfc8a3e",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-29T02:30+00:00",
-    "jugadores": [
-     "Leylah Fernandez",
-     "Elise Mertens"
-    ],
-    "opciones": [
-     {
-      "id": "0148c3d6327ac9f98ddf4b277bfc8a3e|h2h|Elise Mertens|",
-      "mercado": "h2h",
-      "nombre": "Elise Mertens",
-      "punto": null,
-      "cuota": 1.8,
-      "pinnacle": 1.83
-     },
-     {
-      "id": "0148c3d6327ac9f98ddf4b277bfc8a3e|h2h|Leylah Fernandez|",
-      "mercado": "h2h",
-      "nombre": "Leylah Fernandez",
-      "punto": null,
-      "cuota": 2.0,
-      "pinnacle": 2.09
-     }
-    ],
-    "pinnacle_h2h": {
-     "Elise Mertens": 1.83,
-     "Leylah Fernandez": 2.09
-    }
-   },
    {
     "id": "d04e7e6ce329fccbd0b365240f807cca",
     "deporte": "tennis_wta_pan_pacific_open",
