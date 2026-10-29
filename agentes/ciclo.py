@@ -90,6 +90,8 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
     extras = {"estadistico": "DATOS PARA TU MÉTODO (Elo por superficie frente al mercado)\n" + prompts.datos_estadisticos(cartelera, elo),
               "reportero": "NOTICIAS DE LOS JUGADORES DE HOY\n" + prompts.datos_noticias(cartelera, datos_noticias),
               "superficies": "DATOS POR SUPERFICIE\n" + prompts.datos_superficie(cartelera, elo)}
+    cansancio = "CANSANCIO (partidos, sets y juegos de los últimos 3 días)\n" + prompts.datos_cansancio(cartelera, momento)
+    extras = {k: v + "\n\n" + cansancio for k, v in extras.items()}
     if nota:
         extras = {k: nota + "\n\n" + v for k, v in extras.items()}
     for bote_id, bote in config.BOTES.items():

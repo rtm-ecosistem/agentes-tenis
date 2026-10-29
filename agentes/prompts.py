@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import datetime
 
-from agentes import aprendizaje, boletos, comun, config, cuotas, elo as elo_mod, noticias
+from agentes import aprendizaje, boletos, comun, config, cuotas, elo as elo_mod, noticias, resultados
 
 REGLAS = f"""Reglas fijas (el control de riesgo las aplica digas lo que digas):
 - Apuestas con dinero ficticio a partidos de tenis del circuito principal, siempre antes de que empiecen. Nada de directo ni de combinadas.
@@ -88,6 +88,16 @@ def datos_superficie(cartelera: list[dict], elo: dict) -> str:
     return "\n".join(filas) or "(sin partidos)"
 
 
+def datos_cansancio(cartelera: list[dict], momento: datetime) -> str:
+    """Lo que ha jugado cada uno en los últimos 3 días (de los resultados de ESPN; no gasta créditos)."""
+    partidos = resultados.historial()["partidos"]
+    filas = []
+    for i, p in enumerate(cartelera, 1):
+        filas.append(f"P{i:02d} " + " | ".join(resultados.texto_cansancio(j, resultados.cansancio(j, momento, partidos))
+                                               for j in p["jugadores"]))
+    return "\n".join(filas) or "(sin partidos)"
+
+
 def datos_noticias(cartelera: list[dict], datos: dict) -> str:
     bloques, vistos = [], set()
     for p in cartelera:
@@ -126,7 +136,7 @@ Incluid entre 0 y 8 partidos destacados (los códigos de la cartelera)."""
 
 
 def mensaje_sala(momento: datetime, cartelera_txt: str, estadisticos: str, noticias_txt: str, anterior: dict | None,
-                 historial: str = "") -> str:
+                 historial: str = "", cansancio: str = "(sin datos)") -> str:
     previo = f"Vuestra conclusión anterior ({anterior['hora'][:16]}): {anterior['conclusion']}" if anterior else ""
     return f"""Ahora: {momento.astimezone(comun.MADRID):%A %d/%m/%Y %H:%M} (hora de España)
 
@@ -135,6 +145,9 @@ CARTELERA (próximas 24 horas, cuotas de la casa y de Pinnacle)
 
 DATOS (Elo por superficie, mercado, cara a cara y forma)
 {estadisticos}
+
+CANSANCIO (partidos, sets y juegos de los últimos 3 días)
+{cansancio}
 
 NOTICIAS
 {noticias_txt}

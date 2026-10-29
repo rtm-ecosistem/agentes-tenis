@@ -76,3 +76,23 @@ def test_la_sala_se_puntua_con_la_ultima_opinion():
     assert estado["sala"][0]["partidos"][0]["acierto"] is None
     assert aprendizaje.puntuar_sala(estado, partidos, AHORA) == 0  # no se cuentan dos veces
     assert "acertasteis 1 de 1" in aprendizaje.texto_sala_aciertos(estado)
+
+
+def test_cansancio_de_los_ultimos_tres_dias():
+    from agentes import config, resultados
+    hoy = AHORA.date()
+    comun.guardar(config.RESULTADOS, {"dias": [], "partidos": [
+        {"fecha": (hoy - timedelta(days=1)).isoformat(), "jugadores": ["Alex de Minaur", "Tommy Paul"], "ganador": 0,
+         "sets": [[6, 7], [7, 6], [7, 5]], "completo": True},
+        {"fecha": (hoy - timedelta(days=2)).isoformat(), "jugadores": ["Holger Rune", "Alex de Minaur"], "ganador": 1,
+         "sets": [[4, 6], [3, 6]], "completo": True},
+        {"fecha": (hoy - timedelta(days=9)).isoformat(), "jugadores": ["Alex de Minaur", "X Y"], "ganador": 0,
+         "sets": [[6, 0], [6, 0]], "completo": True}]})
+    c = resultados.cansancio("Alex de Minaur", AHORA, resultados.historial()["partidos"])
+    assert c["partidos"] == 2 and c["sets"] == 5 and c["juegos"] == 57
+    assert c["ultimo"]["rival"] == "Tommy Paul" and c["ultimo"]["marcador"] == "6-7 7-6 7-5" and c["ultimo"]["gano"]
+    assert "partido largo" in resultados.texto_cansancio("Alex de Minaur", c)
+    ia, _, _ = decidir({})
+    lola = [m for i, m in ia.mensajes if i.startswith("Eres Lola,")][0]
+    assert "CANSANCIO" in lola and "Tommy Paul" in lola
+    assert "CANSANCIO" in [m for i, m in ia.mensajes if i.startswith("Sois la sala")][0]

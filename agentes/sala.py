@@ -17,7 +17,8 @@ def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dic
         r = ia.pedir_json(prompts.INSTRUCCIONES_SALA,
                           prompts.mensaje_sala(momento, texto_cartelera, prompts.datos_estadisticos(cartelera, elo),
                                                prompts.datos_noticias(cartelera, datos_noticias), anterior,
-                                               aprendizaje.texto_sala_aciertos(estado)),
+                                               aprendizaje.texto_sala_aciertos(estado),
+                                               prompts.datos_cansancio(cartelera, momento)),
                           prompts.ESQUEMA_SALA)
     except Exception as e:  # noqa: BLE001
         print(f"La sala de analistas no pudo escribir su informe: {e}")
