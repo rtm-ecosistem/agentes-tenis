@@ -50,6 +50,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "sala": estado.get("sala", [])[-12:][::-1],
         "bitacora": estado.get("bitacora", [])[-30:][::-1],
         "ultima_decision": estado.get("ultima_decision"),
+        "oficina": {"total": boletos.resumen(apuestas), "desglose": aprendizaje.desglose(apuestas)},
         "biblioteca": estado.get("biblioteca", []),
         "tonta": aprendizaje.resumen_tonta(estado),
         "partidos_info": estado.get("partidos_info", {}),

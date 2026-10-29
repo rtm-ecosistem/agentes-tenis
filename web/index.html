@@ -74,6 +74,8 @@ body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canva
 /* --- Cabecera, menú y pie --- */
 .cab { position: fixed; z-index: 22; top: 14px; right: 14px; display: flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; border-radius: 12px; }
 .logo { width: 34px; height: 34px; border-radius: 8px; background: #2f6b34; display: grid; place-items: center; flex: none; box-shadow: inset 0 0 0 2px #a6d65a; }
+.cab .como { flex: none; width: 30px; height: 30px; border-radius: 50%; border: 2px solid var(--acento); background: none; color: var(--acento); font: 700 16px var(--pixel); cursor: pointer; }
+.cab .como:hover { background: var(--acento); color: #17240b; }
 .cab h1 { font: 700 16px/1.1 var(--pixel); margin: 0; }
 .cab .sub { color: var(--suave); font-size: 11.5px; }
 .dock { position: fixed; z-index: 26; top: 14px; left: 14px; display: flex; gap: 3px; padding: 5px; border-radius: 12px; }
@@ -121,6 +123,7 @@ h4 { font: 700 15px var(--pixel); margin: 18px 2px 8px; color: var(--ambar); }
 .analista .info b { font: 700 16px var(--pixel); display: block; }
 .analista .info small { color: var(--suave); font-size: 12.5px; }
 .cifras { display: flex; justify-content: space-between; gap: 8px; margin-top: 10px; font-size: 12px; color: var(--suave); }
+.cifras > div { white-space: nowrap; }
 .cifras b { display: block; font-size: 14.5px; color: var(--texto); }
 .barra { height: 8px; background: rgba(0, 0, 0, .35); border-radius: 2px; overflow: hidden; margin-top: 8px; box-shadow: inset 0 0 0 1px rgba(255, 220, 180, .12); }
 .barra i { display: block; height: 100%; background: repeating-linear-gradient(90deg, var(--acento) 0 8px, #7fae3e 8px 10px); }
@@ -259,6 +262,7 @@ details.plegable[open] > summary::before { content: "▾ "; }
 <header class="cab madera">
   <div class="logo" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 26 26" shape-rendering="crispEdges"><rect x="5" y="5" width="16" height="16" fill="#d7e64a"/><rect x="3" y="7" width="2" height="12" fill="#d7e64a"/><rect x="21" y="7" width="2" height="12" fill="#d7e64a"/><rect x="7" y="3" width="12" height="2" fill="#d7e64a"/><rect x="7" y="21" width="12" height="2" fill="#d7e64a"/><rect x="6" y="7" width="2" height="12" fill="#fff"/><rect x="18" y="7" width="2" height="12" fill="#fff"/></svg></div>
   <div class="tit"><h1>La oficina del tenis</h1><div class="sub" id="subtitulo"></div></div>
+  <button class="como" data-ficha="ayuda" aria-label="Cómo funciona la oficina">?</button>
 </header>
 <aside class="panel madera" id="panel" aria-label="Panel">
   <div class="cab-panel"><button class="estirar" data-estirar="panel" aria-label="Estirar o encoger el panel"></button><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
@@ -1050,15 +1054,31 @@ function tarjetaAnalista(a) {
     <div class="barra" title="Apuestas hasta su revisión"><i style="width:${Math.min(100, avance * 100).toFixed(0)}%"></i></div>
     <small style="color:var(--suave)">${s.liquidadas ?? 0} de ${D.reglas.revision} apuestas hasta su próxima revisión</small></div>`;
 }
+const DIA = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Madrid' });
+const diaDe = iso => iso ? DIA.format(new Date(iso)) : '';
+function diarioDeHoy() {
+  const hoy = DIA.format(new Date()), ev = [], nombre = id => agentePor(id)?.nombre || id;
+  for (const b of D.bitacora) if (diaDe(b.hora) === hoy) ev.push({ hora: b.hora, texto: b.texto });
+  for (const s of D.sala) if (diaDe(s.hora) === hoy) ev.push({ hora: s.hora, texto: '📋 La sala: ' + corta(s.conclusion, 140) });
+  for (const b of D.apuestas) {
+    if (diaDe(b.hora) === hoy) ev.push({ hora: b.hora, partido: b.partido, texto: `🧾 ${nombre(b.agente)} apuesta ${eur(b.stake)} a ${b.descripcion} @ ${b.cuota.toFixed(2)}` });
+    if (b.liquidada && diaDe(b.liquidada) === hoy) ev.push({ hora: b.liquidada, partido: b.partido,
+      texto: `${b.ganancia > 0 ? '✅' : b.ganancia < 0 ? '❌' : '↩️'} ${nombre(b.agente)}: ${b.descripcion} ${b.ganancia ? eur(b.ganancia, true) : '(anulada)'}` });
+  }
+  for (const a of activos()) for (const l of a.lecciones || []) if (l.fecha === hoy) ev.push({ hora: `${hoy}T19:00:00Z`, texto: `📝 Lección de ${a.nombre}: ${corta(l.texto, 140)}` });
+  return ev.sort((x, y) => y.hora.localeCompare(x.hora));
+}
 function pintarPlantilla() {
+  const diario = diarioDeHoy(), hoy = DIA.format(new Date()), antes = D.bitacora.filter(b => diaDe(b.hora) !== hoy);
   const pend = D.apuestas.filter(a => a.estado === 'pendiente'), prox = D.cartelera.partidos[0], sala = D.sala[0];
   $('#plantilla').innerHTML = `<div class="tarjeta hoy"><h3>Hoy</h3><ul>
       <li>🎾 ${D.cartelera.partidos.length} partidos en la cartelera${prox ? ` · el próximo, ${esc(prox.jugadores.join(' – '))} a las ${HORA.format(new Date(prox.inicio))}` : ''}</li>
       <li>🧾 ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego por ${eur(pend.reduce((s, a) => s + a.stake, 0))}</li>
-      <li>⏰ Deciden cada día a las 9:00; la sala escribe a las 9:00, 14:00 y 20:00</li>
+      <li>⏰ Deciden cada día a las 9:00, la sala escribe a las 8:00, 14:00 y 20:00 y cada hora miran si hay noticias nuevas</li>
       ${sala ? `<li>📋 La sala: ${esc(corta(sala.conclusion))}</li>` : ''}</ul></div>
     <h4>La plantilla</h4><div class="rejilla">${activos().map(tarjetaAnalista).join('')}</div>
-    <h4>Lo último</h4><div class="tarjeta"><ul class="bitacora">${D.bitacora.map(b => `<li><time>${cuando(b.hora)}</time>${esc(b.texto)}</li>`).join('') || '<li class="vacio">Todavía no ha pasado nada.</li>'}</ul></div>
+    <h4>El diario de hoy</h4><div class="tarjeta"><ul class="bitacora diario">${diario.map(e => `<li><time>${HORA.format(new Date(e.hora))}</time>${e.partido ? `<button class="ver-partido" data-partido="${esc(e.partido)}">${esc(e.texto)}</button>` : esc(e.texto)}</li>`).join('') || '<li class="vacio">Hoy todavía no ha pasado nada.</li>'}</ul></div>
+    ${antes.length ? `<details class="plegable tarjeta" style="margin-top:10px"><summary>Días anteriores</summary><ul class="bitacora">${antes.map(b => `<li><time>${cuando(b.hora)}</time>${esc(b.texto)}</li>`).join('')}</ul></details>` : ''}
     <p style="color:var(--suave);font-size:12px;margin:14px 2px 0">Dinero ficticio y cuotas reales de The Odds API${D.creditos?.restantes != null ? ` · créditos restantes: ${D.creditos.restantes}` : ''}.</p>`;
 }
 function etiquetaOpcion(o) {
@@ -1130,7 +1150,13 @@ function pintarClasificacion() {
   const ags = activos(), r = D.reglas;
   const porDinero = ags.slice().sort((a, b) => b.total.ganancia - a.total.ganancia);
   const porCierre = ags.slice().sort((a, b) => (b.total.pct_cierre ?? -1) - (a.total.pct_cierre ?? -1));
-  $('#clasificacion').innerHTML = `<div class="tarjeta"><h3>Cómo evolucionan sus botes</h3><div class="grafica todos">${graficaTodos(ags)}</div></div>
+  const o = D.oficina, t = o?.total;
+  $('#clasificacion').innerHTML = `${t?.apuestas ? `<div class="tarjeta" style="margin-bottom:10px"><h3>Toda la oficina</h3><div class="cifras" style="margin-top:0">
+      <div>Apostado<b>${eur(t.apostado)}</b></div><div>Ganancia<b class="${clase(t.ganancia)}">${eur(t.ganancia, true)}</b></div>
+      <div>Rendimiento${A('rendimiento')}<b class="${clase(t.yield)}">${pct(t.yield, true)}</b></div><div>Bate el cierre${A('cierre')}<b>${pct(t.pct_cierre, false, 0)}</b></div></div>
+      ${D.tonta ? `<p style="margin:10px 0 0;font-size:13px">🤖 La estrategia tonta (siempre al favorito de Pinnacle) rinde <b class="${clase(D.tonta.yield)}">${pct(D.tonta.yield, true)}</b> en ${D.tonta.apuestas} apuestas: la oficina ${t.yield > D.tonta.yield ? '<b class="sube">le gana</b>' : '<b class="baja">todavía no le gana</b>'}.</p>` : ''}
+      <details class="plegable" style="margin-top:8px"><summary>Por mercado, superficie y cuota</summary>${tablaDesglose(o.desglose)}</details></div>` : ''}
+    <div class="tarjeta"><h3>Cómo evolucionan sus botes</h3><div class="grafica todos">${graficaTodos(ags)}</div></div>
     <div class="rejilla dos">
     <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Ganancia</th><th class="n">Rendimiento${A('rendimiento')}</th><th class="n">Aciertos</th></tr>
       ${porDinero.map((a, i) => filaClas(a, i, `<td class="n ${clase(a.total.ganancia)}">${eur(a.total.ganancia, true)}</td><td class="n ${clase(a.total.yield)}">${pct(a.total.yield, true)}</td><td class="n">${pct(a.total.aciertos, false, 0)}</td>`)).join('')}</table></div>
@@ -1279,7 +1305,23 @@ function pintarAprendizaje() {
     }).join('')}</div>`;
 }
 
+function abrirComoFunciona() {
+  FICHA_ID = 'ayuda';
+  const r = D.reglas, st = r.stakes || { 1: .01, 2: .02, 3: .03 };
+  $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>Cómo funciona</h2><div style="color:var(--suave)">La oficina de un vistazo</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+    <div class="tarjeta"><h3>Qué es</h3><p style="margin:0">Cuatro analistas de IA apuestan a partidos de tenis con <b>dinero ficticio</b> y <b>cuotas reales</b>. Compiten entre ellos, aprenden de sus resultados y se les despide si lo hacen mal. El objetivo es averiguar si alguno sabe ganar de verdad antes de copiarle con dinero real.</p></div>
+    <div class="tarjeta"><h3>Quién es quién</h3>${activos().map(a => `<p style="margin:6px 0"><button class="analista" data-ficha="${a.id}">${pix(a, 'mini')}<span><b>${esc(a.nombre)}</b>, ${esc(a.titulo)}: ${esc(corta(a.como_decide, 120))}</span></button></p>`).join('')}
+      <p style="margin:6px 0 0">📋 <b>La sala de analistas</b> es un equipo común que escribe un informe con datos, noticias y un debate; todos lo leen antes de decidir.</p></div>
+    <div class="tarjeta"><h3>Un día en la oficina</h3><ul class="reglas"><li><b>8:00</b> la sala escribe su primer informe.</li><li><b>9:00</b> llega la cartelera con las cuotas y deciden: primero los tres especialistas y después Inés, que lee lo que proponen.</li><li><b>Cada hora</b> se miran las noticias; si una cambia un partido, pueden apostar otra vez. También se guarda la cuota de cierre${A('cierre')} y se liquidan los partidos acabados.</li><li><b>14:00 y 20:00</b> la sala vuelve a escribir. Por la noche cada uno escribe su lección del día.</li><li><b>Domingo</b> reflexionan, se ponen hasta 3 reglas e Inés ordena la biblioteca común.</li></ul></div>
+    <div class="tarjeta"><h3>Las reglas del bote</h3><ul class="reglas"><li>Cada uno empieza con ${eur(r.bote)}.</li><li>Cada apuesta es el ${pct(st[1], false, 0)}, ${pct(st[2], false, 0)} o ${pct(st[3], false, 0)} del bote según su confianza${A('confianza')}.</li><li>Como mucho el ${pct(r.pendiente, false, 0)} del bote en juego a la vez.</li><li>Solo antes de empezar el partido: nada de directo ni combinadas.</li><li>Mercados: ganador${A('h2h')}, hándicap de juegos${A('spreads')} y total de juegos${A('totals')}.</li></ul></div>
+    <div class="tarjeta"><h3>Despidos</h3><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada uno. Se le despide si pierde más de un ${pct(r.despido, false, 0)} <b>y además</b> consiguió peor cuota que la de cierre en la mayoría de sus apuestas. Antes de irse escribe una carta a su sustituto.</p></div>
+    <div class="tarjeta"><h3>Paso a dinero real</h3><p style="margin:0">Solo quien cumpla a la vez tres cosas: al menos ${r.real} apuestas, ganar dinero en total y batir la cuota de cierre en la mayoría. Nada se mueve solo: te avisaría y decidirías tú.</p></div>`;
+  $('#ficha').insertAdjacentHTML('afterbegin', '<button class="estirar" data-estirar="ficha" aria-label="Estirar o encoger la ficha"></button>');
+  $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
+  actualizarEnlace();
+}
 function abrirFicha(id) {
+  if (id === 'ayuda') return abrirComoFunciona();
   if (id.startsWith('p:')) return abrirPartido(id.slice(2));
   const a = agentePor(id); if (!a) return;
   FICHA_ID = id;
