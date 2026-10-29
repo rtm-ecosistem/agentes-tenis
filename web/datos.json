@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T14:14+00:00",
+ "actualizado": "2026-10-29T15:13+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,14 +19,14 @@
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 19,
-  "restantes": 481,
-  "usados": 19,
-  "actualizado": "2026-10-29T14:10+00:00",
+  "gastados_mes": 21,
+  "restantes": 479,
+  "usados": 21,
+  "actualizado": "2026-10-29T15:10+00:00",
   "prevision_mes": 1,
   "noticias": {
    "dia": "2026-10-29",
-   "gastados": 1
+   "gastados": 3
   }
  },
  "reglas": {
@@ -85,6 +85,13 @@
    "listo_real": null,
    "reglas": null,
    "reglas_retiradas": null,
+   "lecciones": null,
+   "descartes": {
+    "ganadas": 0,
+    "perdidas": 0,
+    "nulas": 0,
+    "unidades": 0.0
+   },
    "total": {
     "apuestas": 0,
     "pendientes": 2,
@@ -186,6 +193,35 @@
      "descarte": "Novak Djokovic gana el partido a cuota 1.29 porque, a pesar de tener un Elo favorable del 81%, la cuota coincide exactamente con la de Pinnacle y no ofrece el margen de valor matemático exigido por nuestro método.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T15:10+00:00",
+     "bote": "1",
+     "resumen": "Mantenemos la disciplina y no realizamos nuevas apuestas esta tarde tras valorar el riesgo de sobreexposición y las cuotas actuales.",
+     "informe": {
+      "jornada": "La jornada presenta oportunidades interesantes basadas en diferencias de Elo, especialmente en el partido entre Novak Djokovic y Jan-Lennard Struff. Sin embargo, nuestro límite del 10% de exposición en apuestas pendientes y la prudencia nos dictan mantener la cartera actual. El modelo de Elo otorga a Djokovic un 81% de probabilidad frente al 76% implícito en el mercado, pero ya tenemos 30 euros comprometidos en este ciclo de tarde. Analizamos con frialdad los datos y preferimos conservar liquidez antes que forzar entradas sin un margen de seguridad óptimo. Las noticias extra deportivas sobre Matteo Berrettini añaden ruido innecesario a su enfrentamiento contra Flavio Cobolli, donde ya tenemos una posición abierta.",
+      "a_favor": "El mejor argumento a favor de ampliar posiciones residía en la brecha de Elo en pista dura a favor de Novak Djokovic (81% frente al 76% del mercado). Esa divergencia matemática suele representar una ventaja teórica a largo plazo si se repite de forma consistente.",
+      "en_contra": "El argumento en contra es que sobrepasar los límites prudenciales de exposición acumulada incrementa la volatilidad innecesariamente en una fase temprana del juego. Decidimos no arriesgar más capital hoy para proteger el bote frente a rachas de varianza negativa.",
+      "riesgos": "El principal riesgo es dejar escapar un acierto claro de los favoritos, aunque la gestión estricta del riesgo siempre prevalece sobre el miedo a perder oportunidades.",
+      "situacion": "Nos encontramos en la fase inicial con cero apuestas liquidadas de un total de cien requeridas para la revisión. Mantendremos nuestro método cuantitativo sin dejarnos llevar por la presión de la oficina."
+     },
+     "descarte": "Jan-Lennard Struff gana el partido @ 3.60 porque su probabilidad teórica no supera el umbral de seguridad frente a la cuota de Pinnacle.",
+     "descarte_opcion": {
+      "partido": "e17ec974bac4e8094cbe45dfeb471b1e",
+      "jugadores": [
+       "Novak Djokovic",
+       "Jan-Lennard Struff"
+      ],
+      "inicio": "2026-10-29T17:00+00:00",
+      "mercado": "h2h",
+      "seleccion": "Jan-Lennard Struff",
+      "punto": null,
+      "cuota": 3.6,
+      "descripcion": "Jan-Lennard Struff gana el partido"
+     },
+     "apuestas": [],
+     "rechazos": []
     }
    ],
    "desglose": {
@@ -216,6 +252,13 @@
    "listo_real": null,
    "reglas": null,
    "reglas_retiradas": null,
+   "lecciones": null,
+   "descartes": {
+    "ganadas": 0,
+    "perdidas": 0,
+    "nulas": 0,
+    "unidades": 0.0
+   },
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -314,6 +357,29 @@
      "descarte": "He dejado pasar la victoria simple de Novak Djokovic a cuota 1.29 porque está perfectamente ajustada con Pinnacle y no ofrece valor esperado positivo.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T15:10+00:00",
+     "bote": "1",
+     "resumen": "Mantengo la disciplina de no apostar hoy, ya que las cuotas disponibles no compensan los riesgos detectados.",
+     "informe": {},
+     "descarte": "Descarto entrar en el partido entre Cobolli y Berrettini debido a la paridad extrema y al ruido mediático extradeportivo.",
+     "descarte_opcion": {
+      "partido": "3b65bc657a2d7391944d9e343c189c52",
+      "jugadores": [
+       "Flavio Cobolli",
+       "Matteo Berrettini"
+      ],
+      "inicio": "2026-10-29T19:00+00:00",
+      "mercado": "h2h",
+      "seleccion": "Flavio Cobolli",
+      "punto": null,
+      "cuota": 1.91,
+      "descripcion": "Flavio Cobolli gana el partido"
+     },
+     "apuestas": [],
+     "rechazos": []
     }
    ],
    "desglose": {
@@ -344,6 +410,13 @@
    "listo_real": null,
    "reglas": null,
    "reglas_retiradas": null,
+   "lecciones": null,
+   "descartes": {
+    "ganadas": 0,
+    "perdidas": 0,
+    "nulas": 0,
+    "unidades": 0.0
+   },
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -442,6 +515,23 @@
      "descarte": "P01b: Novak Djokovic gana a cuota 1.29, descartado por falta de margen de valor frente a la cuota de cierre de Pinnacle.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T15:10+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar un valor claro en las cuotas disponibles frente a las de cierre de Pinnacle.",
+     "informe": {
+      "jornada": "La jornada en Basilea y Viena presenta diferencias notables de Elo en pista dura a favor de Novak Djokovic, pero las cuotas de las casas ya reflejan esta superioridad de forma muy ajustada. En el encuentro entre Flavio Cobolli y Matteo Berrettini hay paridad técnica, aunque las noticias sobre distracciones extra deportivas añaden incertidumbre. Como especialista en superficies, prefiero esperar a partidos donde la adaptación a la pista rápida ofrezca una ventaja real en el precio de las cuotas. La paciencia es nuestra mejor herramienta para proteger el bote y asegurar rentabilidad a largo plazo.",
+      "a_favor": "El excelente rendimiento histórico de Novak Djokovic sobre pista dura interior respalda su favoritismo estadístico con un Elo de 1908. Además, su motivación por sumar puntos para Turín asegura la máxima concentración en cada juego.",
+      "en_contra": "La cuota ofrecida para la victoria de Djokovic está demasiado ajustada a 1.29 y no bate la cuota de cierre de Pinnacle situada en 1.29, lo que anula cualquier ventaja matemática para nuestra hoja de ruta. Apostar por apostar sin un margen favorable en el precio es el camino más rápido hacia el despido.",
+      "riesgos": "Un partido excesivamente cómodo para los favoritos puede hacer que lamentemos no haber entrado, pero asumir riesgos sin valor matemático va en contra de nuestra disciplina de control.",
+      "situacion": "Mi puesto se mantiene intacto con 1000.00 euros en el bote y ninguna apuesta pendiente, cumpliendo estrictamente con la norma de preservar el capital cuando el mercado no ofrece valor."
+     },
+     "descarte": "No realizar ninguna apuesta en los partidos de la cartelera actual al carecer de un diferencial de cuotas favorable frente a Pinnacle.",
+     "descarte_opcion": null,
+     "apuestas": [],
+     "rechazos": []
     }
    ],
    "desglose": {
@@ -472,6 +562,13 @@
    "listo_real": null,
    "reglas": null,
    "reglas_retiradas": null,
+   "lecciones": null,
+   "descartes": {
+    "ganadas": 0,
+    "perdidas": 0,
+    "nulas": 0,
+    "unidades": 0.0
+   },
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -570,6 +667,35 @@
      "descarte": "Novak Djokovic a cuota 1.29 ofrece un leve margen matemático según el Elo, pero coincide exactamente con la cuota de cierre de Pinnacle.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T15:10+00:00",
+     "bote": "1",
+     "resumen": "Jornada sin apuestas ya que los analistas coinciden en mantener la prudencia y no hay margen de valor frente a las cuotas de cierre.",
+     "informe": {
+      "jornada": "La cartelera de la tarde presenta encuentros en Basilea y Viena con claros favoritos en el papel, como Novak Djokovic frente a Jan-Lennard Struff, pero las cuotas ofrecidas están totalmente alineadas con las de Pinnacle. Los especialistas recomiendan mantener la disciplina y conservar la liquidez del bote sin asumir riesgos innecesarios. Las noticias extra deportivas añaden ruido en algunos duelos como el de Berrettini y Cobolli, haciendo aconsejable quedarse al margen. La paciencia sigue siendo nuestra mejor estrategia para proteger el capital inicial en esta fase del experimento.",
+      "a_favor": "El principal argumento para no apostar es la estricta disciplina de evitar cuotas ajustadas que no superen a las de cierre de Pinnacle, protegiendo así el bote de pérdidas innecesarias.",
+      "en_contra": "Podríamos tentar a la suerte aprovechando la superioridad teórica de Novak Djokovic en pista dura, pero las cuotas de 1.29 no ofrecen ningún valor matemático real frente al mercado eficiente.",
+      "riesgos": "El riesgo principal de no operar es perder oportunidades puntuales, aunque es preferible al peligro mucho mayor de arriesgar capital sin una ventaja clara.",
+      "situacion": "Nos encontramos con el bote intacto a 1000 euros y cero apuestas liquidadas, manteniendo intactas nuestras opciones de cumplir el objetivo con cabeza fría."
+     },
+     "descarte": "La victoria simple de Novak Djokovic frente a Jan-Lennard Struff (P01b) por estar su cuota totalmente ajustada a 1.29 sin superar el valor de cierre de Pinnacle.",
+     "descarte_opcion": {
+      "partido": "e17ec974bac4e8094cbe45dfeb471b1e",
+      "jugadores": [
+       "Novak Djokovic",
+       "Jan-Lennard Struff"
+      ],
+      "inicio": "2026-10-29T17:00+00:00",
+      "mercado": "h2h",
+      "seleccion": "Novak Djokovic",
+      "punto": null,
+      "cuota": 1.29,
+      "descripcion": "Novak Djokovic gana el partido"
+     },
+     "apuestas": [],
+     "rechazos": []
     }
    ],
    "desglose": {
@@ -583,40 +709,6 @@
  "cartelera": {
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
-   {
-    "id": "381536c46bd1e16a9236502df3f748e5",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T15:00+00:00",
-    "jugadores": [
-     "Daniel Altmaier",
-     "Jiri Lehecka"
-    ],
-    "opciones": [
-     {
-      "id": "381536c46bd1e16a9236502df3f748e5|h2h|Daniel Altmaier|",
-      "mercado": "h2h",
-      "nombre": "Daniel Altmaier",
-      "punto": null,
-      "cuota": 5.0,
-      "pinnacle": 5.89
-     },
-     {
-      "id": "381536c46bd1e16a9236502df3f748e5|h2h|Jiri Lehecka|",
-      "mercado": "h2h",
-      "nombre": "Jiri Lehecka",
-      "punto": null,
-      "cuota": 1.17,
-      "pinnacle": 1.16
-     }
-    ],
-    "pinnacle_h2h": {
-     "Daniel Altmaier": 5.89,
-     "Jiri Lehecka": 1.16
-    }
-   },
    {
     "id": "704555fd36bea990169b89857cf51075",
     "deporte": "tennis_atp_vienna_open",
@@ -923,6 +1015,16 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-29T15:10+00:00",
+   "datos": "Los números muestran diferencias abismales de Elo en pista dura a favor de favoritos claros como Ben Shelton frente a Jerome Kym y Alexander Zverev ante Tallon Griekspoor. En contraste, partidos como el de Flavio Cobolli y Matteo Berrettini presentan paridad técnica total con un Elo estimado del 62% para Cobolli y cuotas niveladas en 1.91. Las dinámicas de victorias recientes benefician a jugadores como Lorenzo Musetti, que acumula cinco triunfos consecutivos en pista rápida.",
+   "noticias": "El cansancio acumulado es un factor crítico debido a batallas recientes muy duras en pista dura, como los 39 juegos disputados por Ben Shelton o los 47 juegos de Maya Joint en los últimos tres días. Además, circulan noticias extra deportivas y rumores sobre un escándalo amoroso en Italia que envuelve a Matteo Berrettini y Lorenzo Musetti, lo cual podría distraer su enfoque competitivo. Por otro lado, Novak Djokovic busca sumar puntos decisivos en Basilea para asegurar su clasificación hacia Turín.",
+   "ambiente": "En la prensa y redes sociales se comenta la presión que soportan las jóvenes promesas y los veteranos en esta recta final de la temporada. La motivación por asegurar plazas para las Nitto ATP Finals impulsa el rendimiento de figuras como Novak Djokovic, mientras el público de Tokio y Viena genera un ambiente vibrante en los cuartos de final y octavos.",
+   "favorito": "Las estadísticas de Elo en pista dura respaldan plenamente a los cabezas de serie, con Ben Shelton alcanzando un 91% de probabilidad teórica y Novak Djokovic manteniendo un sólido 81%. Su superioridad técnica y experiencia en torneos ATP 500 justifican cuotas bajas como el 1.25 de Djokovic frente a Jan-Lennard Struff y el 1.30 de Shelton ante Jerome Kym. Además, su historial de victorias recientes demuestra una mayor consistencia en los momentos cruciales de los partidos a tres sets.",
+   "contra": "",
+   "conclusion": "Ir a favor de los favoritos es una opción lógica debido a la superioridad abrumadora en las estadísticas de Elo en pista dura. Sin embargo, hay que vigilar de cerca el desgaste físico por partidos largos recientes y las posibles distracciones externas debidas a noticias de índole personal.",
+   "partidos": []
+  },
+  {
    "hora": "2026-10-29T14:10+00:00",
    "datos": "Los números muestran una gran superioridad en Elo para favoritos como Alexander Zverev con 83% y Ben Shelton con 88% en pistas duras. El cara a cara de Zverev frente a Tallon Griekspoor es abrumador con un 8-2 a favor del alemán. En contraste, partidos como el de Flavio Cobolli ante Matteo Berrettini presentan un Elo muy igualado de 62% frente a 62%.",
    "noticias": "En el apartado de lesiones y cansancio, destacan los partidos largos recientes de Ben Shelton con 39 juegos disputados y Alexandra Eala con 5 sets acumulados en tres días. Arthur Fery avanza en Viena tras el retiro previo de Jacob Fearnley. Además, surgen distracciones extradeportivas en la prensa rosa que envuelven a Matteo Berrettini y Lorenzo Musetti.",
@@ -1064,6 +1166,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-29T15:10+00:00",
+   "texto": "🧾 Con las noticias nuevas: 0 apuestas por 0.00 € (2 créditos).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Novak Djokovic – Jan-Lennard Struff, Flavio Cobolli – Matteo Berrettini: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-29T14:10+00:00",
    "texto": "🧾 Con las noticias nuevas: 0 apuestas por 0.00 € (1 créditos).",
    "tipo": "info"
@@ -1095,6 +1207,26 @@
   }
  ],
  "ultima_decision": "2026-10-29",
+ "oficina": {
+  "total": {
+   "apuestas": 0,
+   "pendientes": 2,
+   "apostado": 0,
+   "ganancia": 0,
+   "yield": 0.0,
+   "aciertos": 0.0,
+   "con_cierre": 0,
+   "baten_cierre": 0,
+   "pct_cierre": null
+  },
+  "desglose": {
+   "mercado": {},
+   "superficie": {},
+   "cuota": {}
+  }
+ },
+ "biblioteca": [],
+ "tonta": null,
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
    "id": "381536c46bd1e16a9236502df3f748e5",
@@ -1193,7 +1325,7 @@
    "inicio": "2026-10-29T16:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.22,
    "elo_general": 0.239,
    "elo_en_superficie": 0.2,
@@ -1263,10 +1395,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3BmVTk3V3FvZW1NNDRaSkdzdnhSSUxqREU3b2ZvcVpQUFduSUFQcllMaW1FNzFLZEJnbzdjSTlLQ2h4elpzSWlWYm1meV8xeEhhWjFNcy1ka194M2wtVlhyaDFtb3kwRmhPMmVhZHFiaW9LdjBwQjQxbjEwV1p2V2NTWWRtdXRKNEdaaS1HdzNadVJhRVo4VVR6aTVsbG13YWFiS3hMbE5EcHZGeEd1ZXJfRkpxRXUtYlpOT191c3cwWUVR0gHEAUFVX3lxTE13cGZVOTdXcW9lbU00NFpKR3N2eFJJTGpERTdvZm9xWlBQV25JQVByWUxpbUU3MUtkQmdvN2NJOUtDaHh6WnNJaVZibWZ5XzF4SGFaMU1zLWRrX3gzbC1WWHJoMW1veTBGaE8yZWFkcWJpb0t2MHBCNDFuMTBXWnZXY1NZZG11dEo0R1ppLUd3M1p1UmFFWjhVVHppNWxsbXdhYWJLeExsTkRwdkZ4R3Vlcl9GSnFFdS1iWk5PX3VzdzBZRVE?oc=5"
       },
       {
-       "titulo": "Pronóstico Arthur Fery vs Lorenzo Musetti - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
+       "titulo": "Escándalo en Italia: la expareja de un tenista habría iniciado una relación con su compañero de equipo en la Copa Davis - TN",
+       "fuente": "TN",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUlKUHhQdEM2UkJFanBmQ1FRQ3FuTkhNMm50elF2NWNXRGwxWDMtakVkRUpXTVNNRHF4cW11RHViY3ZweUpvdWZoM2JrTHp1dzlqRmZpd1FnR3QzQlBzcm5RbXlCZGxSWmNITE1zZG1pZFNfWXZQMTVyNzBOcVZDdG9qZ0ZGUU1uOGcwMA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaHk1b3VqR3Z2bnhzcWpaaUxnRkY2bEgxXzVIcDFKSWlkVEI1SlhXNm1IOGg5RVhxWnZGOTJRRWh0WWRuWEIxWjRCVkxJZnFJTU51dlhKWkw2S19teWhMZ2s3VllkN2pTa3o4Mk00QWlUaHppcFRFRW9xXzUzSldSVlJUQncyeUxLeUdmbk1LLVNJdFBnTTltV0ZCalM1c3lnNGs4TXRSUTJRaGtjRGhha2YzX1NPMjJ4ZXRJZE04THRBWUI3OXlhSkh4NjJiZTZRS0FKRHFQX2TSAewBQVVfeXFMTlhLMGdaekM0U2ZmZU5EckhpSWF4eU1wQk1OalBFVlRtRko0ZzByVExuZzR2eXBWeUFoSlNBOVQ2ZG12U1owS0JnQW1icjRiWkFUUkpOdFA4SjViVVZjZUJqakZGRWxKajJUd3JIRjdPZ3FHZGRZSnJkUTlMSkNUM2xHR25zNVMwaEw1SWNsU3pxZGg5d29STFcwQWczcEdHeE1CTFNRRUFERlI5M0packxKc1lUc0hDc0VSbTFzdVVURFFEWVBLaG9rTnBBRDdSX1JtY3VweURUQnVsVU9YaHYtcXZfdUVUSGp3S0U?oc=5"
       }
      ]
     }
@@ -1281,7 +1413,7 @@
    "inicio": "2026-10-29T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.834,
    "elo_general": 0.863,
    "elo_en_superficie": 0.805,
@@ -1317,10 +1449,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXNhQlNlSUJYeS11ZmxZV3ZReDl3dkN3UDhrb0UxbzhINW83NF9FRmZLU3ZFU1QxSlpSWFgyaHVvdXFPalN0VFBsTDVsOGR5R3pjWEdiRXVaSlBOM1V1enJOdmJNcGI0bEI1M3h3ZmVTeHpJaEhvZFVFdWxndVdVZ1pWbGNaS0xzUVBTbU93emJvZVJ1SEowSktwZ1NvNGpCb1ZXdktZY09IYkNrMEhSSFdhdHJ6SzJzdndSbV8zWURvaTh1Zml3Z2IxUHNpenVtd0lpX3dLemNzcjF2N1FPVHJZTXAtaXN5TUQ1Uksyaw?oc=5"
       },
       {
-       "titulo": "Bolelli / Vavassori vs Melo / Zverev · Round 1 · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
+       "titulo": "Kohlmann: \"Contamos con el mejor jugador del mundo\" - Davis Cup",
+       "fuente": "Davis Cup",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW1rTG1Qdjdnbk1YSWk1TnZtT1RONHdHWVBMNGdVcTUtSHkyN2JwOG1JcUxyRnJtNUhFNW9wOG9CQkNvODhad0VOZjFwTXJVaERPNUhPMTU2OHVDdTFVYlN4bGRxbk1jYmpqYUhBWUVzaUc3Z2RUc3NWdnI4MEJWdW9UQW1jZ2piY2RPbTg5cW42dUc1M0lPWXNlamZnVG5GZmhlbXZzbUVwRzA0cHlj?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWhmN3N6Q0V4aHFZdzB1aVR6QU5mdllMNkc0enA3Mkd5UFJxS0dPM1NjMzZySWNPRFJnQ01mR1p1WC1pbE44WHhQaXNEb3pRbjJOY1Uwa1ctWGpYZXFKSUFHVmVVemtjNEladEtTMlptMUw0ZGY0OHVGSncxc1ZoRXgwbXRzRTBNRXgwVDhB?oc=5"
       }
      ]
     },
@@ -1369,7 +1501,7 @@
    "inicio": "2026-10-29T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.811,
    "elo_general": 0.813,
    "elo_en_superficie": 0.809,
@@ -1427,12 +1559,6 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-28 contra Yannick Hanfmann, ganó 6-4 6-3",
      "noticias": [
       {
-       "titulo": "Kohlmann: \"Contamos con el mejor jugador del mundo\" - Davis Cup",
-       "fuente": "Davis Cup",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWhmN3N6Q0V4aHFZdzB1aVR6QU5mdllMNkc0enA3Mkd5UFJxS0dPM1NjMzZySWNPRFJnQ01mR1p1WC1pbE44WHhQaXNEb3pRbjJOY1Uwa1ctWGpYZXFKSUFHVmVVemtjNEladEtTMlptMUw0ZGY0OHVGSncxc1ZoRXgwbXRzRTBNRXgwVDhB?oc=5"
-      },
-      {
        "titulo": "Djokovic remonta ante Humbert y supera la primera ronda del ATP de Basilea - Diario Libre",
        "fuente": "Diario Libre",
        "fecha": "2026-10-29",
@@ -1443,6 +1569,12 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-28",
        "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z1Boa3hSeVpidXVNX3BJWXREV05wNW1nNjBWVWJaUXRHSmpPZDNaeUUtWkw5T2VpVkpvTGNMZlRtUS1mMEVnc2RzT29EWUZNRnlLb09yR2s2S3BRbF92ai1qUUNZWm5VTmVOTlJGMzVOWjhh?oc=5"
+      },
+      {
+       "titulo": "Horario y dónde ver por televisión el partido de octavos de Djokovic ante Struff en Viena - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRm9JWHd3U3VMbGFkeTBCUWlsSW4tazdMNDFfY0ZfM1o1eEloWFpCMUExZ2Y2UVJyLUFmQ0c2empVVmc1amVPMEZaS0RSV09SNGEwY0ItWmdCUUNxVnlKQWphVGJweVFEcjgybnhGcnJXWUQ5R3NIZExIeHNPclFWUkNkaE9OaVlWTW15dmJGZC1NZy1qTWFFR2ZkY2E2aml0LTdrb09sOUJ0N0NNYV9hUmQwajVTSVNMSGRqSWQxRG1nZ29BUzdFOGpUOThJQ0UwNEVxYng3RE1SZ2RuelFxcmZyekd2ZEQtcGNvT2xtZW9RZkk?oc=5"
       }
      ]
     }
@@ -1457,7 +1589,7 @@
    "inicio": "2026-10-29T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.875,
    "elo_general": 0.862,
    "elo_en_superficie": 0.905,
@@ -1545,7 +1677,7 @@
    "inicio": "2026-10-29T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.625,
    "elo_general": 0.632,
    "elo_en_superficie": 0.617,
@@ -1603,6 +1735,12 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-26 contra Tomas Martin Etcheverry, ganó 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjMxSEd0OUZId0RlWG8xMFZpM3JqMTJkdzBZR0xfWW5hWS1vWkJGX1M0Y25SWG1sdWRyQ2llMkVNTWtaZ0RUdml0Uk1LS0Yxc2N3UzBrTmFZOW13Qm1QcUdWUEN3MG9KUU9CQ2ZjaDlab1Z0NFJCdmlZM0tQUjhmZ25hYXluSUc5WVJKc21qaTFVZHhDcnNjcDBmN3lWb3dBVGJmcUI0NTRkRUk0YWJSY3c4N2xQLXFLWEowX2VyQlY5eVlJN1ZVWUMyXy1kWXJMSV9NSF9ObjZ4alk1YloydzNITjgtSkY1eElRdmxYZjRzWW5vYmozdHFZd3JNb1p3ckozbUpkZ3J3LTdmQmdhajJKRVk5OW9KR05ZLUllYnQwYWNHQ3VsNnJJQmJlb3FYQlHSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+      },
+      {
        "titulo": "Quién es Vanessa Bellini, la bailarina envuelta en el escándalo de Matteo Berrettini y Lorenzo Musetti - TN",
        "fuente": "TN",
        "fecha": "2026-10-29",
@@ -1613,12 +1751,6 @@
        "fuente": "Telemadrid",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUNyUjBldEVSRGdvNS13X0hPdG9aanBQa2ZVRkRLUlNEVTIzaldXLVhVYzZ1WkZYdVJxX3g5U2NWSTZxVnpEWmxaRFVnaUFnVDVmcDZxS1pjQndybVFuY2NHRzFaVTkwRnduTGhsdXdBbTRFaFJtMDRLeC1xMlUtR3hZTVJfYmJmdWJNQ1pNVXdwNGFNRzhmVmNOWl9oNzTSAZ8BQVVfeXFMTVFDclIwZXRFUkRnbzUtd19IT3RvWmpwUGtmVUZES1JTRFUyM2pXVy1YVWM2dVpGWHVScV94OVNjVkk2cVZ6RFpsWkRVZ2lBZ1Q1ZnA2cUtaY0J3cm1RbmNjR0cxWlU5MEZ3bkxobHV3QW00RWhSbTA0S3gtcTJVLUd4WU1SX2JiZnViTUNaTVV3cDRhTUc4ZlZjTlpfaDc0?oc=5"
-      },
-      {
-       "titulo": "Bautista, nueva baja en Wimbledon por covid - Telemadrid",
-       "fuente": "Telemadrid",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVE5UEVCODZfVklvUERTUVJSWDYzUUxmSng1U05ZVkRTRjBQUlhVbDdNUmFsbm9NYTlsZzBYUUhkUDJRdGZFRlIxdkR0RjdVZmNVaGdyeUxtLUlfSENYM0xGelFoVm5Va0RWVjAwVjctcUlZd1VEVzJTSFA1SDJlWjNqeXo0Ul81WmRXWUZfanRxS3E0RkZiNjV30gGfAUFVX3lxTE1RQ3JSMGV0RVJEZ281LXdfSE90b1pqcFBrZlVGREtSU0RVMjNqV1ctWFVjNnVaRlh1UnFfeDlTY1ZJNnFWekRabFpEVWdpQWdUNWZwNnFLWmNCd3JtUW5jY0dHMVpVOTBGd25MaGx1d0FtNEVoUm0wNEt4LXEyVS1HeFlNUl9iYmZ1Yk1DWk1Vd3A0YU1HOGZWY05aX2g3NA?oc=5"
       }
      ]
     }
@@ -1633,7 +1765,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -1721,7 +1853,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
+   "actualizado": "2026-10-29T15:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
