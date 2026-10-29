@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T15:35+00:00",
+ "actualizado": "2026-10-29T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -257,19 +257,18 @@
    "nombre": "Alex Michelsen",
    "circuito": "ATP",
    "elo": {
-    "all": 1759.6,
-    "hard": 1755.5,
+    "all": 1750.1,
+    "hard": 1743.0,
     "clay": 1523.6,
     "grass": 1531.1
    },
    "n": {
-    "all": 167,
-    "hard": 123,
+    "all": 168,
+    "hard": 124,
     "clay": 24,
     "grass": 20
    },
    "ultimos": [
-    "2026-09-02 G hard vs Brandon Nakashima",
     "2026-09-04 G hard vs Daniel Merida",
     "2026-09-06 G hard vs Tomas Martin Etcheverry",
     "2026-09-08 P hard vs Frances Tiafoe",
@@ -278,7 +277,8 @@
     "2026-10-19 G hard vs Andrea Guerrieri",
     "2026-10-22 G hard vs David Goffin",
     "2026-10-23 P hard vs Arthur Fils",
-    "2026-10-27 G hard vs Botic van de Zandschulp"
+    "2026-10-27 G hard vs Botic van de Zandschulp",
+    "2026-10-29 P hard vs Arthur Fils"
    ]
   },
   "thompson|j": {
@@ -1925,19 +1925,18 @@
    "nombre": "Arthur Fils",
    "circuito": "ATP",
    "elo": {
-    "all": 1908.7,
-    "hard": 1865.6,
+    "all": 1918.5,
+    "hard": 1879.4,
     "clay": 1895.5,
     "grass": 1620.1
    },
    "n": {
-    "all": 151,
-    "hard": 95,
+    "all": 152,
+    "hard": 96,
     "clay": 45,
     "grass": 11
    },
    "ultimos": [
-    "2026-09-28 G hard vs Martin Damm",
     "2026-09-29 G hard vs Kamil Majchrzak",
     "2026-09-30 G hard vs Luca Van Assche",
     "2026-10-02 G hard vs Frances Tiafoe",
@@ -1946,7 +1945,8 @@
     "2026-10-12 P hard vs Botic van de Zandschulp",
     "2026-10-23 G hard vs Alex Michelsen",
     "2026-10-24 P hard vs Jan-Lennard Struff",
-    "2026-10-27 G hard vs Giovanni Mpetshi Perricard"
+    "2026-10-27 G hard vs Giovanni Mpetshi Perricard",
+    "2026-10-29 G hard vs Alex Michelsen"
    ]
   },
   "gojo|b": {
@@ -17198,19 +17198,18 @@
    "nombre": "Julia Riera",
    "circuito": "WTA",
    "elo": {
-    "all": 1539.8,
-    "hard": 1531.2,
+    "all": 1570.0,
+    "hard": 1564.7,
     "clay": 1572.3,
     "grass": 1505.3
    },
    "n": {
-    "all": 34,
-    "hard": 29,
+    "all": 35,
+    "hard": 30,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-07-17 P hard vs Nuria Brancaccio",
     "2026-08-25 P hard vs Viktoria Hruncakova",
     "2026-09-09 G hard vs Dominika Salkova",
     "2026-09-10 G hard vs Mary Stoiana",
@@ -17219,7 +17218,8 @@
     "2026-09-22 P hard vs Elena Micic",
     "2026-09-28 G hard vs Anna Siskova",
     "2026-09-30 P hard vs Antonia Ruzic",
-    "2026-10-27 G hard vs Rebeka Masarova"
+    "2026-10-27 G hard vs Rebeka Masarova",
+    "2026-10-29 G hard vs Yasmine Kabbaj"
    ]
   },
   "oliynykova|o": {
@@ -21069,19 +21069,18 @@
    "nombre": "Elsa Jacquemot",
    "circuito": "WTA",
    "elo": {
-    "all": 1501.2,
-    "hard": 1488.5,
+    "all": 1533.1,
+    "hard": 1523.8,
     "clay": 1446.8,
     "grass": 1480.6
    },
    "n": {
-    "all": 49,
-    "hard": 36,
+    "all": 50,
+    "hard": 37,
     "clay": 10,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-11 P hard vs Anna Blinkova",
     "2026-09-15 P hard vs Liudmila Samsonova",
     "2026-09-28 G hard vs Li Zongyu",
     "2026-09-29 G hard vs Vivian Wolff",
@@ -21090,7 +21089,8 @@
     "2026-10-11 G hard vs Camilla Zanolini",
     "2026-10-12 P hard vs Lea Boskovic",
     "2026-10-13 P hard vs Teodora Kostovic",
-    "2026-10-28 G hard vs Caroline Werner"
+    "2026-10-28 G hard vs Caroline Werner",
+    "2026-10-29 G hard vs Susan Bandecchi"
    ]
   },
   "stefanini|l": {
@@ -25325,19 +25325,18 @@
    "nombre": "Yasmine Kabbaj",
    "circuito": "WTA",
    "elo": {
-    "all": 1555.6,
-    "hard": 1565.6,
+    "all": 1523.4,
+    "hard": 1529.9,
     "clay": 1559.9,
     "grass": 1435.2
    },
    "n": {
-    "all": 28,
-    "hard": 24,
+    "all": 29,
+    "hard": 25,
     "clay": 3,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-20 G clay vs Deborah Chiesa",
     "2026-07-22 G clay vs Ekaterine Gorgodze",
     "2026-07-24 P clay vs Lucia Bronzetti",
     "2026-09-08 P hard vs Cagla Buyukakcay",
@@ -25346,7 +25345,8 @@
     "2026-09-18 G hard vs Despina Papamichail",
     "2026-09-19 P hard vs Alicia Herrero Linana",
     "2026-10-12 P grass vs Andrea Lazaro Garcia",
-    "2026-10-27 G hard vs Rebeca Pereira"
+    "2026-10-27 G hard vs Rebeca Pereira",
+    "2026-10-29 P hard vs Julia Riera"
    ]
   },
   "patil|s": {
@@ -25596,19 +25596,18 @@
    "nombre": "Susan Bandecchi",
    "circuito": "WTA",
    "elo": {
-    "all": 1592.9,
-    "hard": 1576.3,
+    "all": 1555.0,
+    "hard": 1530.1,
     "clay": 1650.1,
     "grass": 1434.3
    },
    "n": {
-    "all": 30,
-    "hard": 16,
+    "all": 31,
+    "hard": 17,
     "clay": 13,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-25 G hard vs Alina Charaeva",
     "2026-08-26 G hard vs Viktoria Hruncakova",
     "2026-08-28 P hard vs Arantxa Rus",
     "2026-09-15 G hard vs Maria Martinez Vaquero",
@@ -25617,7 +25616,8 @@
     "2026-09-21 P hard vs Oceane Dodin",
     "2026-10-12 G hard vs Gaia Maduzzi",
     "2026-10-14 P hard vs Gabriela Knutson",
-    "2026-10-27 G hard vs Anastasiia Sobolieva"
+    "2026-10-27 G hard vs Anastasiia Sobolieva",
+    "2026-10-29 P hard vs Elsa Jacquemot"
    ]
   },
   "bertrand|r": {
@@ -90127,7 +90127,7 @@
    0
   ],
   "fils|a~michelsen|a": [
-   1,
+   2,
    0
   ],
   "basilashvili|n~mannarino|a": [
@@ -90893,7 +90893,15 @@
   "andreeva|e~bassols ribera|m": [
    0,
    1
+  ],
+  "kabbaj|y~riera|j": [
+   0,
+   1
+  ],
+  "bandecchi|s~jacquemot|e": [
+   0,
+   1
   ]
  },
- "propios": 10395
+ "propios": 10398
 }

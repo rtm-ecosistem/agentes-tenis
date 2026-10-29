@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T16:15+00:00",
+ "actualizado": "2026-10-29T17:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,11 +19,11 @@
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 21,
-  "restantes": 479,
-  "usados": 21,
-  "actualizado": "2026-10-29T15:10+00:00",
-  "prevision_mes": 1,
+  "gastados_mes": 22,
+  "restantes": 478,
+  "usados": 22,
+  "actualizado": "2026-10-29T17:10+00:00",
+  "prevision_mes": 2,
   "noticias": {
    "dia": "2026-10-29",
    "gastados": 3
@@ -777,74 +777,6 @@
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
    {
-    "id": "6822571863f93fa4654e76e114874060",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T16:30+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Tallon Griekspoor"
-    ],
-    "opciones": [
-     {
-      "id": "6822571863f93fa4654e76e114874060|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.22,
-      "pinnacle": 1.27
-     },
-     {
-      "id": "6822571863f93fa4654e76e114874060|h2h|Tallon Griekspoor|",
-      "mercado": "h2h",
-      "nombre": "Tallon Griekspoor",
-      "punto": null,
-      "cuota": 4.2,
-      "pinnacle": 4.15
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.27,
-     "Tallon Griekspoor": 4.15
-    }
-   },
-   {
-    "id": "e17ec974bac4e8094cbe45dfeb471b1e",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T17:00+00:00",
-    "jugadores": [
-     "Novak Djokovic",
-     "Jan-Lennard Struff"
-    ],
-    "opciones": [
-     {
-      "id": "e17ec974bac4e8094cbe45dfeb471b1e|h2h|Jan-Lennard Struff|",
-      "mercado": "h2h",
-      "nombre": "Jan-Lennard Struff",
-      "punto": null,
-      "cuota": 4.0,
-      "pinnacle": 3.99
-     },
-     {
-      "id": "e17ec974bac4e8094cbe45dfeb471b1e|h2h|Novak Djokovic|",
-      "mercado": "h2h",
-      "nombre": "Novak Djokovic",
-      "punto": null,
-      "cuota": 1.25,
-      "pinnacle": 1.28
-     }
-    ],
-    "pinnacle_h2h": {
-     "Jan-Lennard Struff": 3.99,
-     "Novak Djokovic": 1.28
-    }
-   },
-   {
     "id": "53d4ccf860436088aa717efdf2c38d25",
     "deporte": "tennis_atp_swiss_indoors",
     "torneo": "ATP Swiss Indoors Basel",
@@ -1005,14 +937,15 @@
    "cuota": 1.3,
    "casa": "williamhill",
    "pinnacle_apuesta": 1.32,
-   "pinnacle_cierre": null,
+   "pinnacle_cierre": 1.32,
    "confianza": 2,
    "stake": 20.0,
    "motivo": "Ben Shelton posee un Elo en dura del 90% y general de 1902 frente a los 1582 de Jerome Kym, con una probabilidad calculada del 88% que supera claramente la cuota de 1.30.",
    "estado": "pendiente",
    "ganancia": null,
    "resultado": null,
-   "temporada": "prueba"
+   "temporada": "prueba",
+   "hora_cierre": "2026-10-29T17:10+00:00"
   },
   {
    "id": "2026-10-29-estadistico-1-1-2-3b65bc65",

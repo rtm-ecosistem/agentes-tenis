@@ -21,14 +21,15 @@
   "cuota": 1.3,
   "casa": "williamhill",
   "pinnacle_apuesta": 1.32,
-  "pinnacle_cierre": null,
+  "pinnacle_cierre": 1.32,
   "confianza": 2,
   "stake": 20.0,
   "motivo": "Ben Shelton posee un Elo en dura del 90% y general de 1902 frente a los 1582 de Jerome Kym, con una probabilidad calculada del 88% que supera claramente la cuota de 1.30.",
   "estado": "pendiente",
   "ganancia": null,
   "resultado": null,
-  "temporada": "prueba"
+  "temporada": "prueba",
+  "hora_cierre": "2026-10-29T17:10+00:00"
  },
  {
   "id": "2026-10-29-estadistico-1-1-2-3b65bc65",
