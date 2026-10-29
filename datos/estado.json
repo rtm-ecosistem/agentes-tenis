@@ -350,6 +350,37 @@
      "motivo": ""
     }
    ]
+  },
+  {
+   "hora": "2026-10-29T13:38+00:00",
+   "datos": "Los números muestran una gran superioridad en el Elo de superficie para favoritos claros como Ben Shelton con 91% en hard frente al 15% de Nikoloz Basilashvili ante Alcaraz. Partidos como el de Flavio Cobolli y Matteo Berrettini se presentan muy nivelados, con un Elo en pista dura prácticamente idéntico del 62%. Zverev y Djokovic dominan ampliamente las estadísticas con probabilidades superiores al 80% en sus respectivos encuentros.",
+   "noticias": "En el apartado físico, Taylor Fritz celebra su cumpleaños número 29 todavía compitiendo con buen ritmo en Basilea. Por otro lado, la prensa rosa y deportiva rumorea sobre tensiones fuera de las pistas que salpican a Matteo Berrettini y Lorenzo Musetti en el circuito italiano. Arthur Fery avanza en Viena beneficiado por la retirada previa de su rival Fearnley.",
+   "ambiente": "Se comenta en redes la gran motivación con la que llega Basilashvili a Viena buscando dar la campanada ante Alcaraz. Los medios también destacan la falta de relación personal histórica entre Djokovic y leyendas como Federer, un tema recurrente en la prensa.",
+   "favorito": "Los favoritos de hoy cuentan con un Elo general muy superior y una consistencia en pista dura que avala sus cuotas bajas, como el 88% de probabilidades que marcan los números para Ben Shelton ante Jerome Kym. Apoyar la jerarquía de los cabezas de serie sigue siendo la opción más lógica en esta fase de los torneos en Europa y Asia.",
+   "contra": "",
+   "conclusion": "En la jornada de hoy pesa más la diferencia de Elo en superficies rápidas y la solidez de los favoritos en los duelos más claros. Hay que vigilar de cerca el desgaste acumulado en los partidos largos y el choque tan igualado entre Cobolli y Berrettini donde las cuotas están al 50%.",
+   "partidos": [
+    {
+     "partido": "P01 (Nikoloz Basilashvili vs Carlos Alcaraz)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P05 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P07 (Ben Shelton vs Jerome Kym)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P08 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -389,5 +420,5 @@
   "betsson": 14028
  },
  "ultima_decision": "2026-10-29",
- "ultima_sala": "2026-10-28-20"
+ "ultima_sala": "2026-10-29-14"
 }
