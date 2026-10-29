@@ -41,7 +41,7 @@ button { font: inherit; color: inherit; }
 /* --- La oficina a pantalla completa --- */
 .escena { position: fixed; inset: 0; overflow: hidden; touch-action: none; user-select: none; -webkit-user-select: none; }
 .caja-lienzo { position: absolute; transition: transform .3s cubic-bezier(.2, .8, .2, 1); }
-@media (min-width: 1000px) { body.con-panel .caja-lienzo { transform: translateX(200px); } body.con-panel.panel-grande .caja-lienzo { transform: none; } }
+@media (min-width: 1000px) { body.con-panel .caja-lienzo { transform: translateX(230px); } body.con-panel.panel-grande .caja-lienzo { transform: none; } }
 .caja-lienzo canvas { display: block; width: 100%; height: 100%; image-rendering: pixelated; image-rendering: crisp-edges; cursor: pointer; }
 body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canvas { cursor: grabbing; }
 .capa { position: absolute; inset: 0; pointer-events: none; container-type: inline-size; }
@@ -83,13 +83,13 @@ body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canva
 .pie-escena { position: fixed; z-index: 20; left: 50%; bottom: 14px; transform: translateX(-50%); display: flex; gap: 14px; white-space: nowrap;
   padding: 6px 14px; border-radius: 999px; font-size: 12.5px; color: var(--suave); }
 .pie-escena #que-hacen { color: var(--texto); font-weight: 600; }
-body.con-panel .pie-escena { left: calc(50% + 200px); }
+body.con-panel .pie-escena { left: calc(50% + 230px); }
 body.panel-grande .pie-escena { opacity: 0; }
 @media (max-width: 1150px) { .pie-escena .pista { display: none; } }
 @media (min-width: 700px) and (max-width: 1250px) { .cab .tit { display: none; } .cab { padding-right: 6px; } }
 
 /* --- Paneles --- */
-.panel { position: fixed; z-index: 24; top: 72px; left: 14px; bottom: 14px; width: 390px; border-radius: 14px; overflow-y: auto; overscroll-behavior: contain; padding: 0 14px 18px;
+.panel { position: fixed; z-index: 24; top: 72px; left: 14px; bottom: 14px; width: 450px; border-radius: 14px; overflow-y: auto; overscroll-behavior: contain; padding: 0 14px 18px;
   transform: translateX(calc(-100% - 30px)); visibility: hidden; transition: transform .3s cubic-bezier(.2, .8, .2, 1), visibility .3s, width .3s; }
 .panel.abierto { transform: none; visibility: visible; }
 .panel.grande { width: min(900px, calc(100vw - 28px)); }
@@ -1552,7 +1552,7 @@ function cerrarFicha() { FICHA_ID = null; $('#ficha').classList.remove('abierta'
 let PANEL = null;
 const TITULOS = { plantilla: 'La plantilla', cartelera: 'Cartelera', boletos: 'Boletos', clasificacion: 'Clasificación', sala: 'Sala de analistas', aprendizaje: 'Aprendizaje' };
 const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala, aprendizaje: pintarAprendizaje };
-const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion', 'aprendizaje']);
+const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion', 'sala', 'aprendizaje']);
 // Cada panel o ficha que se abre es un paso en el historial: el botón atrás del móvil cierra lo último abierto
 let APLICANDO = false;
 let PASOS = [];   // los pasos abiertos, para saber si la flecha ← tiene adónde volver
