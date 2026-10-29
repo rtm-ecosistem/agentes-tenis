@@ -235618,6 +235618,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Carlos Alcaraz",
+    "Nikoloz Basilashvili"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Valle D'Aosta Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ayla Aksu",
+    "Lucrezia Stefanini"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
