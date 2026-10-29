@@ -133,3 +133,35 @@ def test_reiniciar_archiva_la_prueba():
     assert estado["temporada"]["nombre"] == "australia-2027" and estado["archivadas"] == ["prueba"]
     assert comun.leer(config.APUESTAS, None) == []
     assert (config.ARCHIVO / "prueba" / "apuestas.json").exists()
+
+
+def test_noticias_cada_hora_actualizan_la_sala_y_permiten_apostar(monkeypatch):
+    monkeypatch.setattr(config, "CREDITOS_NOTICIAS_DIA", 1)
+    decidir({})
+    noticias_hoy = {"noticias": []}
+    monkeypatch.setattr("agentes.noticias.recoger", lambda jugadores, sesion=None: noticias_hoy)
+    api = FakeAPI()
+    # La primera hora solo se apunta lo que ya había; sin noticias nuevas no se llama a la IA ni se gastan créditos
+    ia = FakeIA()
+    ciclo.cierre(momento=AHORA + timedelta(minutes=65), api=api, ia=ia, avisos=FakeAvisos())
+    ciclo.cierre(momento=AHORA + timedelta(minutes=125), api=api, ia=ia, avisos=FakeAvisos())
+    assert ia.mensajes == [] and api.llamadas[1:] == []
+    # Sale una noticia de Ruud: la sala escribe y deciden sobre su partido, con cuotas solo del ganador
+    noticias_hoy["noticias"] = [{"id": "n1", "titulo": "Casper Ruud, con molestias en la espalda", "resumen": "",
+                                 "enlace": "", "fecha": comun.iso(AHORA), "fuente": "Punto de Break", "jugador": "Casper Ruud"}]
+    ia = FakeIA({"Óscar": [{"seleccion": "P01a", "confianza": 2, "motivo": "Ruud tocado"}]})
+    ciclo.cierre(momento=AHORA + timedelta(minutes=185), api=api, ia=ia, avisos=FakeAvisos())
+    estado, apuestas = comun.leer(config.ESTADO, None), comun.leer(config.APUESTAS, [])
+    assert api.llamadas[-1][:2] == ("tennis_atp_paris_masters", ("h2h",))
+    assert len(estado["sala"]) == 2
+    assert [(a["seleccion"], a["mercado"]) for a in apuestas] == [("Jannik Sinner", "h2h")]
+    assert "molestias" in [m for i, m in ia.mensajes if i.startswith("Eres Óscar,")][0]
+    assert estado["creditos"]["noticias"]["gastados"] == 1
+    # La misma noticia otra hora no vuelve a disparar nada, y el tope de créditos del día ya se ha pasado
+    ia = FakeIA()
+    ciclo.cierre(momento=AHORA + timedelta(minutes=245), api=api, ia=ia, avisos=FakeAvisos())
+    assert ia.mensajes == []
+    noticias_hoy["noticias"].append({**noticias_hoy["noticias"][0], "id": "n2", "titulo": "Ruud sí jugará"})
+    llamadas = len(api.llamadas)
+    ciclo.cierre(momento=AHORA + timedelta(minutes=305), api=api, ia=ia, avisos=FakeAvisos())
+    assert len(api.llamadas) == llamadas and len(ia.mensajes) == 1   # solo la sala

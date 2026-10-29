@@ -76,7 +76,7 @@ def validar(agente: dict, apuestas: list[dict], bote_id: str, propuestas: list[d
         libre -= stake
         partidos_usados.add((p["id"], o["mercado"]))
         nuevos.append({
-            "id": f"{fecha}-{agente['id']}-{bote_id}-{len(nuevos) + 1}-{p['id'][:8]}",
+            "id": f"{fecha}-{comun.iso(momento)[11:16].replace(':', '')}-{agente['id']}-{bote_id}-{len(nuevos) + 1}-{p['id'][:8]}",
             "agente": agente["id"], "bote": bote_id, "fecha": fecha, "hora": comun.iso(momento),
             "partido": p["id"], "deporte": p["deporte"], "torneo": p["torneo"], "superficie": p["superficie"],
             "jugadores": p["jugadores"], "inicio": p["inicio"], "mercado": o["mercado"], "seleccion": o["nombre"],

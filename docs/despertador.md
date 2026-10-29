@@ -38,6 +38,8 @@ salen apagadas: activa *Habilitar job* en cada una). Si los creas desde cero, pu
 
 El de cierre va cada hora porque la cuota de cierre de Pinnacle se guarda en la hora antes de cada partido con
 apuestas (los de Australia se juegan de madrugada en España). Si no hay apuestas pendientes, no gasta créditos.
+También lee cada hora las noticias de los jugadores que aún no han jugado: si hay alguna nueva, la sala actualiza su
+informe y los analistas pueden apostar a esos partidos con cuotas nuevas del ganador (como mucho 3 créditos al día).
 
 ## 3. Probar
 

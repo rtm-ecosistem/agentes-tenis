@@ -49,6 +49,8 @@ ARBITRO = "pinnacle"
 CASA_FORZADA = os.environ.get("CASA", "").strip()        # para fijar la casa a mano si hiciera falta
 CREDITOS_MES = 500
 HORAS_VENTANA = 24              # la decisión mira los partidos de las 24 horas siguientes
+CREDITOS_NOTICIAS_DIA = 3       # cada hora, con noticias nuevas, como mucho 3 créditos al día (1 por torneo afectado)
+MINUTOS_SIN_APUESTAS = 30       # con noticias, solo partidos que empiezan dentro de más de media hora
 MINUTOS_ANTES_CIERRE = 60       # la cuota de cierre se guarda en la hora antes del primer partido de la jornada
 HORAS_JORNADA = 14              # una consulta de cierre vale para los partidos de las 14 horas siguientes
 # Solo el circuito principal: fuera Challenger, ITF, WTA 125 y dobles
