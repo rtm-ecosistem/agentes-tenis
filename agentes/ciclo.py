@@ -185,7 +185,7 @@ def guardar_cierres(estado: dict, apuestas: list[dict], api, momento: datetime) 
     urgentes = [a for a in sin_cierre if comun.fecha_hora(a["inicio"]) - momento <= timedelta(minutes=config.MINUTOS_ANTES_CIERRE + 15)]
     if not urgentes:
         return 0
-    horas = config.HORAS_JORNADA if en_ahorro(estado, momento) else 3
+    horas = config.HORAS_JORNADA if en_ahorro(estado, momento) else config.HORAS_CIERRE
     limite = momento + timedelta(hours=horas)
     guardadas = 0
     for deporte in sorted({a["deporte"] for a in urgentes}):

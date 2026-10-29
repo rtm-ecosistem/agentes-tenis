@@ -174,3 +174,14 @@ def test_no_se_pagan_cuotas_de_torneos_sin_partidos():
     api = DosTorneos()
     decidir({}, api)
     assert [ll[0] for ll in api.llamadas] == ["tennis_atp_paris_masters"]
+
+
+def test_una_consulta_de_cierre_vale_para_seis_horas():
+    eventos = [evento("e1", "Ana A", "Bea B", AHORA + timedelta(hours=2)), evento("e2", "Cris C", "Dani D", AHORA + timedelta(hours=6)),
+               evento("e3", "Eva E", "Fe F", AHORA + timedelta(hours=10))]
+    decidir({"Óscar": [{"seleccion": f"P0{i}a", "confianza": 1, "motivo": ""} for i in (1, 2, 3)]}, FakeAPI(eventos))
+    api = FakeAPI(cierre=eventos)
+    ciclo.cierre(momento=AHORA + timedelta(hours=1, minutes=10), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    assert len([ll for ll in api.llamadas if ll[2] == ("pinnacle",)]) == 1
+    apuestas = comun.leer(config.APUESTAS, [])
+    assert [bool(a["pinnacle_cierre"]) for a in apuestas] == [True, True, False]
