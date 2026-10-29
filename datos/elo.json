@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T18:10+00:00",
+ "actualizado": "2026-10-29T19:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1533,19 +1533,18 @@
    "nombre": "Lorenzo Musetti",
    "circuito": "ATP",
    "elo": {
-    "all": 1846.9,
-    "hard": 1816.5,
+    "all": 1823.2,
+    "hard": 1786.8,
     "clay": 1908.8,
     "grass": 1754.7
    },
    "n": {
-    "all": 178,
-    "hard": 112,
+    "all": 179,
+    "hard": 113,
     "clay": 50,
     "grass": 16
    },
    "ultimos": [
-    "2026-08-21 P hard vs Frances Tiafoe",
     "2026-09-01 G hard vs Arthur Fery",
     "2026-09-03 P hard vs Dane Sweeny",
     "2026-10-09 P hard vs Zhou Yi",
@@ -1554,7 +1553,8 @@
     "2026-10-23 G hard vs Luca Van Assche",
     "2026-10-24 G hard vs Flavio Cobolli",
     "2026-10-25 G hard vs Taylor Fritz",
-    "2026-10-28 G hard vs Frances Tiafoe"
+    "2026-10-28 G hard vs Frances Tiafoe",
+    "2026-10-29 P hard vs Arthur Fery"
    ]
   },
   "wong|c": {
@@ -9264,19 +9264,18 @@
    "nombre": "Arthur Fery",
    "circuito": "ATP",
    "elo": {
-    "all": 1646.1,
-    "hard": 1575.9,
+    "all": 1688.4,
+    "hard": 1627.2,
     "clay": 1485.3,
     "grass": 1722.3
    },
    "n": {
-    "all": 38,
-    "hard": 25,
+    "all": 39,
+    "hard": 26,
     "clay": 2,
     "grass": 11
    },
    "ultimos": [
-    "2026-08-17 P hard vs Alex de Minaur",
     "2026-08-25 G hard vs Cruz Hewitt",
     "2026-08-26 G hard vs Mees Rottgering",
     "2026-08-28 G hard vs Aleksandar Kovacevic",
@@ -9285,7 +9284,8 @@
     "2026-10-01 P hard vs Jaime Faria",
     "2026-10-07 G hard vs Marin Cilic",
     "2026-10-09 P hard vs Karen Khachanov",
-    "2026-10-20 P hard vs Borna Gojo"
+    "2026-10-20 P hard vs Borna Gojo",
+    "2026-10-29 G hard vs Lorenzo Musetti"
    ]
   },
   "lajal|m": {
@@ -22345,19 +22345,18 @@
    "nombre": "Francesca Jones",
    "circuito": "ATP",
    "elo": {
-    "all": 1703.9,
-    "hard": 1675.5,
+    "all": 1720.1,
+    "hard": 1695.6,
     "clay": 1743.0,
     "grass": 1346.0
    },
    "n": {
-    "all": 46,
-    "hard": 34,
+    "all": 47,
+    "hard": 35,
     "clay": 9,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-02 G hard vs Magda Linette",
     "2026-09-03 P hard vs Iva Jovic",
     "2026-09-08 G hard vs Raluka Serban",
     "2026-09-10 P hard vs Rositsa Dencheva",
@@ -22366,7 +22365,8 @@
     "2026-10-13 G hard vs Martina Colmegna",
     "2026-10-15 G hard vs Francisca Jorge",
     "2026-10-16 P hard vs Dalma Galfi",
-    "2026-10-27 G hard vs Maria Urrutia"
+    "2026-10-27 G hard vs Maria Urrutia",
+    "2026-10-29 G hard vs Marjorie Souza"
    ]
   },
   "navarro|e": {
@@ -38469,19 +38469,20 @@
    "nombre": "Marjorie Souza",
    "circuito": "WTA",
    "elo": {
-    "all": 1566.7,
-    "hard": 1566.7,
+    "all": 1528.6,
+    "hard": 1524.2,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-27 G hard vs Berta Bonardi"
+    "2026-10-27 G hard vs Berta Bonardi",
+    "2026-10-29 P hard vs Francesca Jones"
    ]
   },
   "garibay romero|c": {
@@ -84811,7 +84812,7 @@
    0
   ],
   "fery|a~musetti|l": [
-   0,
+   1,
    1
   ],
   "daniel vallejo|a~monfils|g": [
@@ -90905,7 +90906,11 @@
   "alcaraz|c~basilashvili|n": [
    1,
    0
+  ],
+  "jones|f~souza|m": [
+   1,
+   0
   ]
  },
- "propios": 10402
+ "propios": 10404
 }

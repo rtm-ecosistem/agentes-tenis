@@ -126,7 +126,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T18:10+00:00",
+    "hora": "2026-10-29T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -242,7 +242,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T18:10+00:00",
+    "hora": "2026-10-29T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -353,7 +353,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T18:10+00:00",
+    "hora": "2026-10-29T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T18:10+00:00",
+    "hora": "2026-10-29T19:10+00:00",
     "rent": 0.0
    }
   }
@@ -819,6 +819,16 @@
    "hora": "2026-10-29T18:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T19:10+00:00",
+   "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T19:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -830,7 +840,9 @@
   "prevision_mes": 2,
   "noticias": {
    "dia": "2026-10-29",
-   "gastados": 3
+   "gastados": 3,
+   "partidos": [],
+   "pendientes": {}
   }
  },
  "casa": "williamhill",
@@ -842,11 +854,21 @@
  "ultima_decision": "2026-10-29",
  "ultima_sala": "2026-10-29-20",
  "noticias_vistas": [
+  "8fa7fd1960d1",
+  "0aa1958f6d49",
+  "edf3ee892bcf",
+  "ade07707bc0f",
   "dd7c74d0c5f2",
   "2cae19bff43f",
+  "f69550f5ca79",
+  "6590165974bc",
+  "b69754bfe812",
   "61e658ee81a3",
+  "77aec716c913",
   "e2f692315450",
   "4e693fdac740",
+  "8bf929713813",
+  "9dff321ea9cd",
   "9b7775c9e9c9",
   "2504b32b2bdc",
   "6f94695e79de",
@@ -862,9 +884,11 @@
   "e0d8a8ce28b0",
   "b4569e259c3f",
   "506b94494847",
+  "278d168712b4",
   "10d6d41d20e0",
   "5ae9a5e40773",
   "31ce4208059b",
+  "2bb5c2b34e2a",
   "123114c445a6",
   "3b0942b849ac",
   "307e0986011e",
@@ -877,6 +901,8 @@
   "aaa5c0b5cd1a",
   "c39a5a97695f",
   "f8cda1eb4d1a",
+  "48d6e06bedcc",
+  "b519b22cd00b",
   "6faff91f7f09",
   "7dc78c387fa9",
   "3bfce1f8e746",
@@ -891,23 +917,25 @@
   "2d84abd70177",
   "69031ddb6931",
   "24232611d516",
+  "567993df2d17",
   "b9e21d200e22",
   "c8932395a46b",
   "10a7b42664ef",
+  "95be1185ab93",
   "ca80fd76676c",
   "8730bad1fc3c",
+  "dca43dc22deb",
+  "92ee25f2ac65",
   "d4562a88a764",
   "edcf9479103b",
   "9954a1f0b245",
   "70ba15308cd7",
   "d21163364548",
   "451d292ef105",
-  "92ee25f2ac65",
   "876533ce79cb",
   "8917ffbcccbb",
   "373119df1b19",
   "83e89e171303",
-  "0d7c9bde073f",
   "b51d162d54a7",
   "67d31b5b9b63",
   "00236eca5e96",
@@ -920,7 +948,6 @@
   "e0799cc0a0e2",
   "e440af100a83",
   "0c4c9437cfb2",
-  "567993df2d17",
   "8ab12c2d7c98",
   "7ca1c0f280c1",
   "391839457664",
@@ -962,12 +989,12 @@
   "de9f52f160ac",
   "bfbadc025ba6",
   "0abe000e69b8",
-  "dca43dc22deb",
   "fff41fe8aed4",
   "12f495b4da74",
   "7fd7b430d715",
   "ff07e29ce04f",
   "2a89b2c4e3e8",
+  "0d7c9bde073f",
   "245a0a37f7bc",
   "6759ff925889",
   "9e9510c5f1b1",
@@ -978,6 +1005,7 @@
   "0657d42106b3",
   "9df91032b8b0",
   "0e0118d62e22",
+  "8911da18acb8",
   "0a2a9aa3c4f1",
   "86cb8c877417",
   "eec6f5b4264e",
@@ -1004,6 +1032,7 @@
   "17efabbb4b74",
   "ede0d84e29ee",
   "5d0a3e523359",
+  "7558ed305029",
   "8c2448fae8ae",
   "f04837a5cbce",
   "a31f7cb567d5",
@@ -1178,7 +1207,6 @@
   "d24b6d79eb75",
   "b8e73698ab7e",
   "50857ccc5560",
-  "559c2054e564",
   "21422f4048a0",
   "9ce8ef4b6f43",
   "5777b094ac07",
@@ -1285,6 +1313,7 @@
   "5be830a7af06",
   "0b45e674c900",
   "cb4a712a6c24",
+  "d03ccaab4b7b",
   "786cc982155a",
   "58787d460ecf",
   "74b8e8158cb9",
@@ -1415,6 +1444,7 @@
   "ad36df56513c",
   "52cb448d5c4b",
   "297d4426610f",
+  "559c2054e564",
   "b00cfc65fc41",
   "06ac499531cc",
   "e9ab759f742e",
@@ -1623,25 +1653,7 @@
   "3961842b88ca",
   "4dde804f87fc",
   "99500e00c570",
-  "de65552ee0b7",
-  "dace3ef033e5",
-  "c480cf39684b",
-  "b9f9fdf10a90",
-  "b771cc93893a",
-  "6cef09466c29",
-  "cce4da059f6c",
-  "325d6a9b25cd",
-  "cba9afc7f824",
-  "db96a025081e",
-  "5715865ae8c1",
-  "4faaead3e83e",
-  "4fe4246ab07d",
-  "b2e2c30f7c4e",
-  "aa4dbb23b7be",
-  "6c152761eefc",
-  "d0666165b2d3",
-  "038bd6cbd715",
-  "b45c170a6d7b"
+  "de65552ee0b7"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -2192,7 +2204,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:01+00:00",
+   "actualizado": "2026-10-29T19:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -2280,7 +2292,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:01+00:00",
+   "actualizado": "2026-10-29T19:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,

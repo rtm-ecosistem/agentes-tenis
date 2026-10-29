@@ -235706,6 +235706,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Arthur Fery"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marjorie Souza",
+    "Francesca Jones"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

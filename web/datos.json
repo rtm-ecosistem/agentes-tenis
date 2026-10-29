@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T19:07+00:00",
+ "actualizado": "2026-10-29T19:15+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -26,7 +26,9 @@
   "prevision_mes": 2,
   "noticias": {
    "dia": "2026-10-29",
-   "gastados": 3
+   "gastados": 3,
+   "partidos": [],
+   "pendientes": {}
   }
  },
  "reglas": {
@@ -1182,6 +1184,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-29T19:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T19:10+00:00",
+   "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-29T18:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
@@ -1811,7 +1823,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:01+00:00",
+   "actualizado": "2026-10-29T19:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -1899,7 +1911,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:01+00:00",
+   "actualizado": "2026-10-29T19:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
