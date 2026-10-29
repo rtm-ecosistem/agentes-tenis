@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T15:37+00:00",
+ "actualizado": "2026-10-29T16:15+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -777,40 +777,6 @@
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
    {
-    "id": "704555fd36bea990169b89857cf51075",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T16:00+00:00",
-    "jugadores": [
-     "Arthur Fery",
-     "Lorenzo Musetti"
-    ],
-    "opciones": [
-     {
-      "id": "704555fd36bea990169b89857cf51075|h2h|Arthur Fery|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fery",
-      "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.58
-     },
-     {
-      "id": "704555fd36bea990169b89857cf51075|h2h|Lorenzo Musetti|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Musetti",
-      "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.33
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fery": 3.58,
-     "Lorenzo Musetti": 1.33
-    }
-   },
-   {
     "id": "6822571863f93fa4654e76e114874060",
     "deporte": "tennis_atp_vienna_open",
     "torneo": "ATP Vienna Open",
@@ -1082,6 +1048,41 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-29T16:10+00:00",
+   "datos": "Los números muestran a Novak Djokovic y Ben Shelton con claros porcentajes de favoritismo en pista dura según el Elo, 81% y 91% respectivamente. En el duelo entre Cobolli y Berrettini las opciones están muy niveladas con un Elo del 62% para el italiano. En el cuadro femenino, Diana Shnaider y Maya Joint parten con ligeras ventajas estadísticas frente a Eala y Rakhimova en Tokio.",
+   "noticias": "En el apartado extradeportivo, Matteo Berrettini acapara titulares debido a rumores de un triángulo amoroso que podrían afectar su concentración. Novak Djokovic busca sumar puntos decisivos en Basilea para acercarse a Turín tras superar a Humbert en tres sets. Maya Joint llega con mayor desgaste tras acumular cinco sets en dos partidos durante los últimos tres días.",
+   "ambiente": "En las redes sociales se habla mucho de la presión sobre los favoritos y de las posibles sorpresas en los torneos asiáticos. La motivación por asegurar plazas para las finales de temporada impulsa fuertemente a jugadores como Djokovic.",
+   "favorito": "Los favoritos de hoy cuentan con un Elo muy superior y una jerarquía consolidada en pista dura que hace muy difícil su derrota en rondas avanzadas. La experiencia en partidos a todo o nada suele decantar la balanza de su lado en los momentos clave del encuentro.",
+   "contra": "",
+   "conclusion": "La lógica del Elo y la jerarquía de los cabezas de serie siguen pesando más en la balanza analítica para esta jornada. Sin embargo, conviene vigilar de cerca el desgaste físico por partidos largos previos y las distracciones extradeportivas que salpican a algunos tenistas.",
+   "partidos": [
+    {
+     "partido": "P01 (Novak Djokovic vs Jan-Lennard Struff)",
+     "id": "e17ec974bac4e8094cbe45dfeb471b1e",
+     "jugadores": [
+      "Novak Djokovic",
+      "Jan-Lennard Struff"
+     ],
+     "inicio": "2026-10-29T17:00+00:00",
+     "favorito": "Novak Djokovic",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Flavio Cobolli vs Matteo Berrettini)",
+     "id": "3b65bc657a2d7391944d9e343c189c52",
+     "jugadores": [
+      "Flavio Cobolli",
+      "Matteo Berrettini"
+     ],
+     "inicio": "2026-10-29T19:00+00:00",
+     "favorito": "Flavio Cobolli",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
+  },
+  {
    "hora": "2026-10-29T15:35+00:00",
    "datos": "Los números de Elo muestran claras diferencias en los partidos de hoy, con favoritos como Alexander Zverev y Novak Djokovic superando el ochenta por ciento de probabilidad teórica en pista dura. No obstante, en duelos como el de Flavio Cobolli contra Matteo Berrettini las cuotas están completamente igualadas al cincuenta por ciento. Destacan también los enfrentamientos en Tokio, donde jugadoras como Maya Joint acumulan un gran desgaste físico con cinco sets disputados en los últimos tres días.",
    "noticias": "En el apartado extradeportivo, Matteo Berrettini acapara titulares debido a rumores de un triángulo amoroso que salpican al equipo de Copa Davis, lo cual podría descentrarle. Por otro lado, Novak Djokovic busca sumar puntos clave en Basilea para asegurar su plaza en Turín, mientras que Zverev cuenta con el respaldo público tras consolidarse en la parte alta del ranking.",
@@ -1291,6 +1292,16 @@
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-29T16:10+00:00",
+   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T16:10+00:00",
+   "texto": "📰 Noticias nuevas de Novak Djokovic – Jan-Lennard Struff, Flavio Cobolli – Matteo Berrettini: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-29T15:35+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
@@ -1637,7 +1648,7 @@
    "inicio": "2026-10-29T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:35+00:00",
+   "actualizado": "2026-10-29T16:10+00:00",
    "elo": 0.811,
    "elo_general": 0.813,
    "elo_en_superficie": 0.809,
@@ -1695,6 +1706,12 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-28 contra Yannick Hanfmann, ganó 6-4 6-3",
      "noticias": [
       {
+       "titulo": "Hot Shot: Landaluce sorprende con su velocidad en Shanghái - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWUI2QkhycEVNRTJfaFgxVjVULUtqZ2I0azYyb0VjZ1l2MW9hUHlQbGVrY2U4Uzh3X0ZmRUstRUprSnI4bE1aTThRZFBXeU1nV1BkWGhKZDFieThvcWpHSm5XQzZpYlBnZURFRXFLdjV2OXZDMWpFekgtZjRmZmJORFhQWjVOa2Jma1QyeHM1UGtySWRwclNvdy1CZnI0TWhnaFo0eg?oc=5"
+      },
+      {
        "titulo": "Djokovic remonta ante Humbert y supera la primera ronda del ATP de Basilea - Diario Libre",
        "fuente": "Diario Libre",
        "fecha": "2026-10-29",
@@ -1705,12 +1722,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-28",
        "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z1Boa3hSeVpidXVNX3BJWXREV05wNW1nNjBWVWJaUXRHSmpPZDNaeUUtWkw5T2VpVkpvTGNMZlRtUS1mMEVnc2RzT29EWUZNRnlLb09yR2s2S3BRbF92ai1qUUNZWm5VTmVOTlJGMzVOWjhh?oc=5"
-      },
-      {
-       "titulo": "Horario y dónde ver por televisión el partido de octavos de Djokovic ante Struff en Viena - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRm9JWHd3U3VMbGFkeTBCUWlsSW4tazdMNDFfY0ZfM1o1eEloWFpCMUExZ2Y2UVJyLUFmQ0c2empVVmc1amVPMEZaS0RSV09SNGEwY0ItWmdCUUNxVnlKQWphVGJweVFEcjgybnhGcnJXWUQ5R3NIZExIeHNPclFWUkNkaE9OaVlWTW15dmJGZC1NZy1qTWFFR2ZkY2E2aml0LTdrb09sOUJ0N0NNYV9hUmQwajVTSVNMSGRqSWQxRG1nZ29BUzdFOGpUOThJQ0UwNEVxYng3RE1SZ2RuelFxcmZyekd2ZEQtcGNvT2xtZW9RZkk?oc=5"
       }
      ]
     }
@@ -1725,7 +1736,7 @@
    "inicio": "2026-10-29T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:35+00:00",
+   "actualizado": "2026-10-29T16:10+00:00",
    "elo": 0.875,
    "elo_general": 0.862,
    "elo_en_superficie": 0.905,
@@ -1813,7 +1824,7 @@
    "inicio": "2026-10-29T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:35+00:00",
+   "actualizado": "2026-10-29T16:10+00:00",
    "elo": 0.625,
    "elo_general": 0.632,
    "elo_en_superficie": 0.617,
@@ -1874,6 +1885,12 @@
        "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
        "fuente": "Infobae",
        "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQzRSa2FHc05mSDBGQkQ3eXVnNDlRVVE3ZHdLVU9qSGs2ZTlEa2x6THdWMjZ2c2ZXN3YwS2gyWGNidmVtQ0FLMGhoMG1aUWxUNnpRaTdtRGtZRlJaMWNqRm1oaVpxOE5mSkFEV2QyUkVhTHcwRmlhWE1SZ1VXTjZoTEdxMUxpRF9tLUpjYkswN2l0ZXlMamkwamFxRi1zYUVvVWNvOVZfbWVfNWdWZTdLU01oV1hXaW4yNGFrWGIxM1NQcmNKSmxFaTNZdTVOWW85OFBaeV91UndaS2dGSGtvY0oyVEtlUnVEeURhM1FFalVaNXhFRFpramRRYW5IMXFNWGd1M0JWQXRwNUZwNEpIVnpfWlJReEXSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+      },
+      {
+       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjMxSEd0OUZId0RlWG8xMFZpM3JqMTJkdzBZR0xfWW5hWS1vWkJGX1M0Y25SWG1sdWRyQ2llMkVNTWtaZ0RUdml0Uk1LS0Yxc2N3UzBrTmFZOW13Qm1QcUdWUEN3MG9KUU9CQ2ZjaDlab1Z0NFJCdmlZM0tQUjhmZ25hYXluSUc5WVJKc21qaTFVZHhDcnNjcDBmN3lWb3dBVGJmcUI0NTRkRUk0YWJSY3c4N2xQLXFLWEowX2VyQlY5eVlJN1ZVWUMyXy1kWXJMSV9NSF9ObjZ4alk1YloydzNITjgtSkY1eElRdmxYZjRzWW5vYmozdHFZd3JNb1p3ckozbUpkZ3J3LTdmQmdhajJKRVk5OW9KR05ZLUllYnQwYWNHQ3VsNnJJQmJlb3FYQlHSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
       },
       {
@@ -1881,12 +1898,6 @@
        "fuente": "TN",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkhoVHJlbmgtOExCTW52anpRTFVMUWp1N3lSbGtIaDRJb1FlVl9YaHlvZVJkSE5IN0Y1UWFVQVhJMXlPR2VETmlXd1pDTXNra2VWNDJpaVg5blZuYUZXUmR2bmE1aUlFakNtZHQ0dTlDMmM2eXVsUW16UDQ2MGpMdl9MMnZ3ZDcwQVNNdkk1WHVWMWt2OGxBX0ltMXpvd2k2Z0ZDVjBvUlVRcEs2ZzVaUmp2UktZdDRsT01teWlpVnE4VXNyT0kyRW5VRVZTekZDTFFqeDRITEpxaGR1Z0Uw0gHzAUFVX3lxTE5Hcno2STZKWFUxcklsVVZ2QTFfYTVCWWhKUlh3SWRSTVFJdG9LSnE4c2RXSUdKV2NXakNqRDFEVzBtNjJXQUxFeXlBcTdHWUpPMDRXMzdTLW1wS0lsSGo0UlRud0NjcGV3LVFUZFRqN21XN250bmtCU0ZGSXpnaWRFNU9WdDZNay1MTklMVEpuVFpOYW1jYURWcHRnSmxwZXRXQ1dqSG8wSmxSdE90b1hvaU5BT21samdhVmt2bE9mTUpURGZLU09DZDhkbU0xbmstOGpqRThja21OU0pwQnNjQlo5UHh4ZWp1bnpkSW0zdWFMaw?oc=5"
-      },
-      {
-       "titulo": "Bautista, nueva baja en Wimbledon por covid - Telemadrid",
-       "fuente": "Telemadrid",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUNyUjBldEVSRGdvNS13X0hPdG9aanBQa2ZVRkRLUlNEVTIzaldXLVhVYzZ1WkZYdVJxX3g5U2NWSTZxVnpEWmxaRFVnaUFnVDVmcDZxS1pjQndybVFuY2NHRzFaVTkwRnduTGhsdXdBbTRFaFJtMDRLeC1xMlUtR3hZTVJfYmJmdWJNQ1pNVXdwNGFNRzhmVmNOWl9oNzTSAZ8BQVVfeXFMTVFDclIwZXRFUkRnbzUtd19IT3RvWmpwUGtmVUZES1JTRFUyM2pXVy1YVWM2dVpGWHVScV94OVNjVkk2cVZ6RFpsWkRVZ2lBZ1Q1ZnA2cUtaY0J3cm1RbmNjR0cxWlU5MEZ3bkxobHV3QW00RWhSbTA0S3gtcTJVLUd4WU1SX2JiZnViTUNaTVV3cDRhTUc4ZlZjTlpfaDc0?oc=5"
       }
      ]
     }
@@ -1901,7 +1912,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:35+00:00",
+   "actualizado": "2026-10-29T16:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -1965,16 +1976,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
       },
       {
-       "titulo": "Aliaksandra Sasnovich vs Diana Shnaider · Round 2 · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1Q4UER6M2FnMmF2bW9Yby1EODFZY2JPdFBrc3NwSFg4YVd1dnNyelBmck8tZjZXQnVNYUlud1Ayd0RZeG9JNXZqd21Tck5QdzlmTjVFMkRiMHhYQ19UTzd2UkxTS0tNNk5fcEtIdUxySS1Ob0NiMUNCVHFzX2JVcWRqN2d2UFdLVEliaTl1ekt3VG45WFV4cEFfVDdRY0FWMkZLakhIcU1fVjZVc0E?oc=5"
-      },
-      {
        "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
+      },
+      {
+       "titulo": "En el WTA 500 de Tokio Alexandra Eala se citó con Diana Shnaider en cuartos de finales - Diario Deportes",
+       "fuente": "Diario Deportes",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlYxSndibHVlR2JpdTNaMWVSa2ttMkF3OGhaM2UwNElxdjdXS2Z0c2dSUVpVTFJ1Q21IZktTRjJqS0dveGIxUEdWYk5FX0xUbXZaTzRQakFYel9ROFRLMHNQd25GRG1idWpVWDhDMEhMV3lid3BZaGpRcHZQN29kRjIwTHh6b3g0ZkwwZ1ZqT1VSLWp2ZUxpcFJwUDhicGoyUjdEVFZKQnVVLWhHUDJXSEc0MURTVjBiaTlmbGRJX0IwdkpkTE1SMWZfb2hSQkZyX3c?oc=5"
       }
      ]
     }
@@ -1989,7 +2000,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:35+00:00",
+   "actualizado": "2026-10-29T16:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
