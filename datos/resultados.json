@@ -1,5 +1,45 @@
 {
  "dias": [
+  "2025-12-12",
+  "2025-12-13",
+  "2025-12-14",
+  "2025-12-15",
+  "2025-12-16",
+  "2025-12-17",
+  "2025-12-18",
+  "2025-12-19",
+  "2025-12-20",
+  "2025-12-21",
+  "2025-12-22",
+  "2025-12-23",
+  "2025-12-24",
+  "2025-12-25",
+  "2025-12-26",
+  "2025-12-27",
+  "2025-12-28",
+  "2025-12-29",
+  "2025-12-30",
+  "2025-12-31",
+  "2026-01-01",
+  "2026-01-02",
+  "2026-01-03",
+  "2026-01-04",
+  "2026-01-05",
+  "2026-01-06",
+  "2026-01-07",
+  "2026-01-08",
+  "2026-01-09",
+  "2026-01-10",
+  "2026-01-11",
+  "2026-01-12",
+  "2026-01-13",
+  "2026-01-14",
+  "2026-01-15",
+  "2026-01-16",
+  "2026-01-17",
+  "2026-01-18",
+  "2026-01-19",
+  "2026-01-20",
   "2026-01-21",
   "2026-01-22",
   "2026-01-23",
@@ -282,6 +322,7704 @@
   "2026-10-27"
  ],
  "partidos": [
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Astrid Lew Yan Foon",
+    "Eva Vedder"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Marina Bassols Ribera",
+    "Veronika Podrez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diana Martynov",
+    "Mona Barthel"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-07",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Siskova",
+    "Aliona Bolsova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-08",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kathinka von Deichmann",
+    "Anhelina Kalinina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-08",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessica Pieri",
+    "Sonay Kartal"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-08",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Fiona Ferro",
+    "Mona Barthel"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-08",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alycia Parks",
+    "Eva Vedder"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-08",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Teodora Kostovic",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Manon Leonard",
+    "Marina Bassols Ribera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oceane Dodin",
+    "Tiphanie Lemaitre"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Barbora Krejcikova",
+    "Anastasija Sevastova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Siskova",
+    "Victoria Jimenez Kasintseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katarzyna Kawa",
+    "Anna-Lena Friedsam"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-09",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alina Charaeva",
+    "Gabriela Knutson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Linda Klimovicova",
+    "Mimi Xu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Tamara Korpatsch"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elsa Jacquemot",
+    "Chloe Paquet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessika Ponchet",
+    "Tiantsoa Rakotomanga Rajaonah"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucrezia Stefanini",
+    "Zhang Shuai"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anhelina Kalinina",
+    "Sonay Kartal"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-10",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alycia Parks",
+    "Fiona Ferro"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Linda Klimovicova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tiphanie Lemaitre",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elsa Jacquemot",
+    "Gabriela Knutson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Manon Leonard",
+    "Anna Siskova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Zhang Shuai"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-11",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasija Sevastova",
+    "Tiantsoa Rakotomanga Rajaonah"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-12",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alycia Parks",
+    "Anhelina Kalinina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-12",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Cristina Bucsa"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-12",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elsa Jacquemot",
+    "Anna Siskova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-12",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tiantsoa Rakotomanga Rajaonah",
+    "Anna-Lena Friedsam"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-13",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anhelina Kalinina",
+    "Cristina Bucsa"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-13",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elsa Jacquemot",
+    "Anna-Lena Friedsam"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-14",
+   "torneo": "Open BLS de Limoges",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elsa Jacquemot",
+    "Anhelina Kalinina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-17",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nishesh Basavareddy",
+    "Dino Prizmic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-17",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Justin Engel",
+    "Alexander Blockx"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     3
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-17",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rafael Jodar",
+    "Learner Tien"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-17",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nicolai Budkov Kjaer",
+    "Martin Landaluce"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-18",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Justin Engel",
+    "Dino Prizmic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     4
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-18",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nishesh Basavareddy",
+    "Alexander Blockx"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-18",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rafael Jodar",
+    "Nicolai Budkov Kjaer"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     4
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-18",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Martin Landaluce",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     1
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-19",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Justin Engel",
+    "Nishesh Basavareddy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     4
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-19",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dino Prizmic",
+    "Alexander Blockx"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     0,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-19",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rafael Jodar",
+    "Martin Landaluce"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     3
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-19",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nicolai Budkov Kjaer",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-20",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nicolai Budkov Kjaer",
+    "Alexander Blockx"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     4
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     2,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-20",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nishesh Basavareddy",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-12-21",
+   "torneo": "Next Gen ATP Finals presented by PIF",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Blockx",
+    "Learner Tien"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     4
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aishi Das",
+    "Veronika Erjavec"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Guo Hanyu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriela Knutson",
+    "Leyre Romero Gormaz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasija Sevastova",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sofia Costoulas",
+    "Elyse Tse"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anna-Lena Friedsam",
+    "Kristina Mladenovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lizette Cabrera",
+    "Rebecca Sramkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Katie Volynets",
+    "Rebeka Masarova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Maria Timofeeva",
+    "Antonia Ruzic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anhelina Kalinina",
+    "Anna Bondar"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Astra Sharma"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aliaksandra Sasnovich",
+    "Viktoriya Tomova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Fiona Ferro",
+    "Zhang Shuai"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Oksana Selekhmeteva",
+    "Taylah Preston"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Priscilla Hon",
+    "Yulia Putintseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zeynep Sonmez",
+    "Victoria Jimenez Kasintseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Zakharova",
+    "Olivia Gadecki"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-02",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alana Subasic",
+    "Elena-Gabriela Ruse"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Carole Monnet",
+    "Kaitlin Quevedo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alina Charaeva",
+    "Yeonwoo Ku"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cadence Brace",
+    "Darja Semenistaja"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Whitney Osuigwe",
+    "Louisa Chirico"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jessika Ponchet",
+    "Yuliia Starodubtseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lilli Tagger",
+    "Laura Pigossi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kristina Mladenovic",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Maja Chwalinska",
+    "Gabriela Knutson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sofia Costoulas",
+    "Veronika Erjavec"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Katie Volynets",
+    "Anna Bondar"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aliaksandra Sasnovich",
+    "Maria Timofeeva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Taylah Preston",
+    "Zhang Shuai"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Rebecca Sramkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Olivia Gadecki",
+    "Yulia Putintseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zeynep Sonmez",
+    "Elena-Gabriela Ruse"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Raphael Collignon",
+    "Aleksandr Shevchenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mattia Bellucci",
+    "Pablo Carreno Busta"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Martin Landaluce",
+    "Arthur Cazaux"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nikoloz Basilashvili",
+    "Christopher O'Connell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dane Sweeny",
+    "Jacob Fearnley"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Benjamin Bonzi",
+    "Ethan Quinn"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Terence Atmane"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "James Duckworth",
+    "Tristan Schoolkate"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hugo Gaston",
+    "Matteo Arnaldi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Quentin Halys"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cruz Hewitt",
+    "Kamil Majchrzak"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Filip Misolic",
+    "Rinky Hijikata"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alice Rame",
+    "Mary Stoiana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Manon Leonard",
+    "Mai Hontama"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-03",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "En-Shuo Liang",
+    "Iryna Shymanovich"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yeonwoo Ku",
+    "Kaitlin Quevedo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Whitney Osuigwe",
+    "Darja Semenistaja"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lilli Tagger",
+    "Yuliia Starodubtseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sara Bejlek",
+    "Panna Udvardy"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriela Knutson",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "McCartney Kessler",
+    "Emiliana Arango"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ajla Tomljanovic",
+    "Elsa Jacquemot"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Potapova",
+    "Daria Kasatkina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Pavlyuchenkova",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elena-Gabriela Ruse",
+    "Sofia Kenin"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marie Bouzkova",
+    "Jaqueline Cristian"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Christopher O'Connell",
+    "Dane Sweeny"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pablo Carreno Busta",
+    "Arthur Cazaux"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     3
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "James Duckworth",
+    "Terence Atmane"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Raphael Collignon",
+    "Ethan Quinn"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Kamil Majchrzak"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Frances Tiafoe",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Camilo Ugo Carabelli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Laslo Djere",
+    "Elias Ymer"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luca Van Assche",
+    "Alejandro Tabilo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesco Maestrelli",
+    "Zhou Yi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Michael Mmoh",
+    "Cristian Garin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kai Thompson",
+    "Emilio Nava"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Patrick Kypson",
+    "Vitaliy Sachko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Bu Yunchaokete",
+    "Nishesh Basavareddy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zsombor Piros",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carol Young Suh Lee",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sada Nahimana",
+    "Tamara Zidansek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Pridankina",
+    "Giselle Isabell Guillen"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Renee Alame"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Wei Sijia",
+    "Polina Iatcenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ena Shibahara",
+    "Stefani Webb"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Camilla Rosatello",
+    "Teodora Kostovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elvina Kalieva",
+    "Nuria Parrizas Diaz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Selena Janicijevic",
+    "Ekaterine Gorgodze"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Vera Zvonareva",
+    "Carson Branstine"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Gasanova",
+    "Guiomar Maristany Zuleta De Reales"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anouk Koevermans",
+    "Sarah Rokusek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tatiana Prozorova",
+    "Ayano Shimizu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Tamara Zidansek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mai Hontama",
+    "En-Shuo Liang"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yuan Yue",
+    "Hanne Vandewinkel"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-04",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mary Stoiana",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Whitney Osuigwe",
+    "Sofia Costoulas"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Catherine McNally",
+    "Wang Xinyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Peyton Stearns",
+    "Kaitlin Quevedo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Julia Grabher",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emma Navarro",
+    "Francesca Jones"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Renata Zarazua",
+    "Sloane Stephens"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Petra Marcinko",
+    "Camila Osorio"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yuliia Starodubtseva",
+    "Katie Boulter"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ashlyn Krueger",
+    "Zhang Shuai"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rebecca Sramkova",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ann Li",
+    "Olivia Gadecki"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cristina Bucsa",
+    "Anna Bondar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hailey Baptiste",
+    "Yulia Putintseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anna Blinkova",
+    "Aliaksandra Sasnovich"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anna Kalinskaya",
+    "Tereza Valentova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Talia Gibson",
+    "Dayana Yastremska"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Magdalena Frech",
+    "Marketa Vondrousova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emerson Jones",
+    "Tatjana Maria"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Korda",
+    "Valentin Vacherot"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Michelsen",
+    "James Duckworth"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Jiri Lehecka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Kamil Majchrzak"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Alexei Popyrin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dane Sweeny",
+    "Reilly Opelka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marton Fucsovics",
+    "Daniil Medvedev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zhou Yi",
+    "Alejandro Tabilo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Patrick Kypson",
+    "Michael Mmoh"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Laslo Djere",
+    "Emilio Nava"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nishesh Basavareddy",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Damir Dzumhur"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adrian Mannarino",
+    "Marin Cilic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Fabian Marozsan",
+    "Wu Yibing"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ena Shibahara",
+    "Polina Iatcenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Dominika Salkova",
+    "Simona Waltert"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Pridankina",
+    "Teodora Kostovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elvina Kalieva",
+    "Vera Zvonareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tatiana Prozorova",
+    "Anastasia Gasanova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anouk Koevermans",
+    "Ekaterine Gorgodze"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Moyuka Uchijima",
+    "Madison Brengle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tina Nadine Smith",
+    "Lanlana Tararudee"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Destanee Aiava",
+    "Polina Iatcenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucrezia Stefanini",
+    "En-Shuo Liang"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Korpatsch",
+    "Daria Snigur"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-05",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diane Parry",
+    "Joanna Garland"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ella Seidel",
+    "Monique Barry"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Janice Tjen",
+    "Sonay Kartal"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Venus Williams",
+    "Magda Linette"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Alycia Parks"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Varvara Gracheva",
+    "Elina Svitolina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexandra Eala",
+    "Donna Vekic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sara Bejlek",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Madison Keys",
+    "McCartney Kessler"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Potapova",
+    "Diana Shnaider"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Cristina Bucsa",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ekaterina Alexandrova",
+    "Sofia Kenin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jelena Ostapenko",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ajla Tomljanovic",
+    "Karolina Muchova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zhang Shuai",
+    "Elena Rybakina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Paula Badosa",
+    "Marie Bouzkova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alejandro Davidovich Fokina",
+    "Brandon Nakashima"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Raphael Collignon",
+    "Denis Shapovalov"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tommy Paul",
+    "Giovanni Mpetshi Perricard"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Nick Kyrgios"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ugo Humbert",
+    "Cameron Norrie"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adam Walton",
+    "Rinky Hijikata"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pablo Carreno Busta",
+    "Grigor Dimitrov"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Miomir Kecmanovic",
+    "Alexandre Muller"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Royer",
+    "Tomas Martin Etcheverry"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rei Sakamoto",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mariano Navone",
+    "Chak Lam Coleman Wong"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Michael Mmoh",
+    "Alejandro Tabilo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriel Diallo",
+    "Jesper de Jong"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Botic Van De Zandschulp",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Laslo Djere"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francisco Comesana",
+    "Shang Juncheng"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tamara Zidansek",
+    "Lucia Bronzetti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Kudermetova",
+    "Alina Korneeva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Teodora Kostovic",
+    "Lola Radivojevic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Darja Vidmanova",
+    "Marina Stakusic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Micic",
+    "Mayar Sherif"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterine Gorgodze",
+    "Elvina Kalieva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Himeno Sakatsume",
+    "Tahlia Kokkinis"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nikola Bartunkova",
+    "Tatiana Prozorova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Daria Snigur",
+    "En-Shuo Liang"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-06",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Darja Vidmanova",
+    "Simona Waltert"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesca Jones",
+    "Sinja Kraus"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Renata Zarazua",
+    "Wang Xinyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kaitlin Quevedo",
+    "Sofia Costoulas"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dayana Yastremska",
+    "Leylah Fernandez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jessica Pegula",
+    "Anna Kalinskaya"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aliaksandra Sasnovich",
+    "Clara Tauson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Liudmila Samsonova",
+    "Emerson Jones"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Linda Noskova",
+    "Magdalena Frech"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Olivia Gadecki",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yulia Putintseva",
+    "Marta Kostyuk"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Amanda Anisimova",
+    "Kimberly Birrell"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Learner Tien",
+    "Alex Michelsen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Frances Tiafoe",
+    "Daniil Medvedev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Korda",
+    "Jiri Lehecka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Reilly Opelka",
+    "Kamil Majchrzak"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Martin Etcheverry",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Marin Cilic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriel Diallo",
+    "Chak Lam Coleman Wong"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Wu Yibing",
+    "Andrey Rublev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Moyuka Uchijima",
+    "Ekaterine Gorgodze"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Polina Iatcenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     3
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Kudermetova",
+    "Lola Radivojevic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lanlana Tararudee",
+    "Tamara Zidansek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Himeno Sakatsume",
+    "Mayar Sherif"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tatiana Prozorova",
+    "Yuan Yue"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-07",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Daria Snigur",
+    "Simona Waltert"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexandra Eala",
+    "Petra Marcinko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Magda Linette"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Katie Boulter",
+    "Elina Svitolina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sonay Kartal",
+    "Ella Seidel"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesca Jones",
+    "Wang Xinyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sorana Cirstea",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Paula Badosa",
+    "Elena Rybakina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ekaterina Alexandrova",
+    "Karolina Muchova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Madison Keys",
+    "Diana Shnaider"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Liudmila Samsonova",
+    "Aliaksandra Sasnovich"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jessica Pegula",
+    "Dayana Yastremska"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Amanda Anisimova",
+    "Marta Kostyuk"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Linda Noskova",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Cameron Norrie"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Brandon Nakashima",
+    "Quentin Halys"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Giovanni Mpetshi Perricard",
+    "Rinky Hijikata"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Grigor Dimitrov",
+    "Raphael Collignon"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Alexandre Muller"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Shang Juncheng",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Karen Khachanov",
+    "Michael Mmoh"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Botic Van De Zandschulp"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Kudermetova",
+    "Yuan Yue"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Tamara Zidansek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterine Gorgodze",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-08",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Daria Snigur"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dalma Galfi",
+    "Ashlyn Krueger"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elena-Gabriela Ruse",
+    "Katie Swan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emilie Chen",
+    "Katerina Siniakova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zhang Shuai",
+    "Kamilla Rakhimova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexandra Eala",
+    "Magda Linette"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sofia Costoulas",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sonay Kartal",
+    "Elina Svitolina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hugo Gaston",
+    "Isaac Becroft"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Juan Manuel Cerundolo",
+    "Shintaro Mochizuki"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Pablo Carreno Busta",
+    "Vit Kopriva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Cristian Garin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Karolina Muchova",
+    "Elena Rybakina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Madison Keys",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jessica Pegula",
+    "Liudmila Samsonova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marta Kostyuk",
+    "Mirra Andreeva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Giovanni Mpetshi Perricard",
+    "Aleksandar Kovacevic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Brandon Nakashima",
+    "Raphael Collignon"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Michelsen",
+    "Sebastian Korda"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamil Majchrzak",
+    "Daniil Medvedev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Chak Lam Coleman Wong",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Andrey Rublev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Shang Juncheng"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Michael Mmoh",
+    "Marcos Giron"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-09",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Himeno Sakatsume",
+    "Polina Kudermetova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yulia Putintseva",
+    "Tori Russell"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tereza Valentova",
+    "Laquisa Khan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anna Blinkova",
+    "Mina Hodzic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Vera Zvonareva",
+    "Laura Siegemund"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ulrikke Eikeri",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Potapova",
+    "You Xiaodi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandra Krunic",
+    "Marie Bouzkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sarah Mildren",
+    "Jaqueline Cristian"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elena-Gabriela Ruse",
+    "Katerina Siniakova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mina Hodzic",
+    "Dalma Galfi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Christopher O'Connell",
+    "Jacob Fearnley"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Carlos Taberner",
+    "Aleksandr Shevchenko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Wang Xinyu",
+    "Alexandra Eala"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Iva Jovic",
+    "Elina Svitolina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emilio Nava",
+    "Patrick Kypson"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Geoffrey Blancaneaux",
+    "Mattia Bellucci"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jan-Lennard Struff",
+    "Anton Shepp"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hamad Medjedovic",
+    "Dalibor Svrcina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hugo Gaston",
+    "Vit Kopriva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Juan Manuel Cerundolo",
+    "Eliot Spizzirri"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hamad Medjedovic",
+    "Mattia Bellucci"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jan-Lennard Struff",
+    "Emilio Nava"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katie Volynets",
+    "Elizabeth Mandlik"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Oksana Selekhmeteva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alycia Parks",
+    "Viktorija Golubic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ella Seidel",
+    "Suzan Lamens"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ayano Shimizu",
+    "Gabriella Da Silva Fick"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sarah Rokusek",
+    "Petra Marcinko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jizelle Sibai",
+    "Elisabetta Cocciaretto"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kaja Juvan",
+    "Catherine McNally"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Moyuka Uchijima",
+    "Darja Semenistaja"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Ava Beck"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Hiroko Kuwata",
+    "Renata Zarazua"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Tiantsoa Rakotomanga Rajaonah"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Karolina Muchova",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marta Kostyuk",
+    "Jessica Pegula"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Brandon Nakashima",
+    "Aleksandar Kovacevic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Michelsen",
+    "Daniil Medvedev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrey Rublev",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Marcos Giron"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-10",
+   "torneo": "Workday Canberra International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Kudermetova",
+    "Joanna Garland"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
   {
    "fecha": "2026-01-11",
    "torneo": "Australian Open",
@@ -588,6 +8326,467 @@
     [
      7,
      6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tereza Valentova",
+    "Vera Zvonareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Sorana Cirstea"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yulia Putintseva",
+    "Marie Bouzkova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Potapova",
+    "Jaqueline Cristian"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Jovanovski",
+    "Filip Misolic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Vukic",
+    "Luca Nardi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Raphael Collignon",
+    "Andrea Vavassori"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Benjamin Bonzi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Thiago Agustin Tirante",
+    "Jesper de Jong"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jake Delaney",
+    "Adam Walton"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Wang Xinyu",
+    "Elina Svitolina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Adrian Mannarino"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ella Seidel",
+    "Katie Volynets"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oksana Selekhmeteva",
+    "Petra Marcinko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ayano Shimizu",
+    "Alycia Parks"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Catherine McNally"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Renata Zarazua"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Darja Semenistaja",
+    "Elisabetta Cocciaretto"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marta Kostyuk",
+    "Aryna Sabalenka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Brisbane International presented by ANZ",
+   "circuito": "ATP",
+   "jugadores": [
+    "Brandon Nakashima",
+    "Daniil Medvedev"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-11",
+   "torneo": "Bank of China Hong Kong Tennis Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexander Bublik",
+    "Lorenzo Musetti"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
     ]
    ],
    "completo": true
@@ -2029,6 +10228,651 @@
    "completo": true
   },
   {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Beatriz Haddad Maia",
+    "Victoria Mboko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emma Navarro",
+    "Emerson Jones"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Clara Tauson",
+    "Ajla Tomljanovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Elena-Gabriela Ruse",
+    "Anna Kalinskaya"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marie Bouzkova",
+    "Paula Badosa"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ekaterina Alexandrova",
+    "Jaqueline Cristian"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Maria Sakkari",
+    "Daria Kasatkina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Vukic",
+    "Jacob Fearnley"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandr Shevchenko",
+    "Filip Misolic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Adam Walton"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrea Vavassori",
+    "Thiago Agustin Tirante"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alexei Popyrin",
+    "Reilly Opelka"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaume Munar",
+    "Daniel Altmaier"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Miomir Kecmanovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Terence Atmane",
+    "Ugo Humbert"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Korda",
+    "Thanasi Kokkinakis"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "James Watt",
+    "Jenson Brooksby"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Royer",
+    "Francisco Comesana"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Hugo Gaston",
+    "Cameron Norrie"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Baez",
+    "Emilio Nava"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Camilo Ugo Carabelli",
+    "Alejandro Tabilo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Michelsen",
+    "Mariano Navone"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Hailey Baptiste",
+    "Renata Zarazua"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jessica Bouzas Maneiro",
+    "Taylah Preston"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ann Li",
+    "Katie Volynets"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Ayano Shimizu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Solana Sierra",
+    "Catherine McNally"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "McCartney Kessler",
+    "Olga Danilovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-12",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Emiliana Arango"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2026-01-13",
    "torneo": "Australian Open",
    "circuito": "ATP",
@@ -3448,6 +12292,672 @@
    "completo": false
   },
   {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Diana Shnaider"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anastasia Potapova",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marketa Vondrousova",
+    "Liudmila Samsonova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sofia Kenin",
+    "Maya Joint"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tereza Valentova",
+    "Jelena Ostapenko"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dalma Galfi",
+    "Yulia Putintseva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Dayana Yastremska",
+    "Katerina Siniakova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Anna Kalinskaya",
+    "Victoria Mboko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marie Bouzkova",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "James Duckworth",
+    "Tomas Machac"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rinky Hijikata",
+    "Tristan Schoolkate"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Jacob Fearnley"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandr Shevchenko",
+    "Damir Dzumhur"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gabriel Diallo",
+    "Andrea Vavassori"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marton Fucsovics",
+    "Ethan Quinn"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Vukic",
+    "Stefanos Tsitsipas"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Giovanni Mpetshi Perricard",
+    "Roberto Bautista Agut"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Alexandre Muller"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandar Kovacevic",
+    "Hamad Medjedovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Gael Monfils",
+    "Fabian Marozsan"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Martin Etcheverry",
+    "Nuno Borges"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex Michelsen",
+    "Marcos Giron"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francisco Comesana",
+    "Ben Shelton"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ella Seidel",
+    "Anna Bondar"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Gracheva",
+    "Rebecca Sramkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Barbora Krejcikova",
+    "Peyton Stearns"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Janice Tjen",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magdalena Frech",
+    "Elsa Jacquemot"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Venus Williams",
+    "Tatjana Maria"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-13",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Talia Gibson",
+    "Wang Xinyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2026-01-14",
    "torneo": "Australian Open",
    "circuito": "ATP",
@@ -4595,6 +14105,622 @@
    "completo": true
   },
   {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaqueline Cristian",
+    "Daria Kasatkina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Madison Keys",
+    "Tereza Valentova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Katerina Siniakova",
+    "Diana Shnaider"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emma Navarro",
+    "Yulia Putintseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ajla Tomljanovic",
+    "Maya Joint"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     0
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francisco Cerundolo",
+    "Jaume Munar"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ugo Humbert",
+    "Tallon Griekspoor"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Tomas Machac"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tommy Paul",
+    "Reilly Opelka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandr Shevchenko",
+    "Marton Fucsovics"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Andrea Vavassori",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rinky Hijikata",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Baez",
+    "Jenson Brooksby"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alejandro Tabilo",
+    "Luciano Darderi"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Eliot Spizzirri",
+    "Nuno Borges"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Giovanni Mpetshi Perricard",
+    "Cameron Norrie"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Casper Ruud",
+    "Fabian Marozsan"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jakub Mensik",
+    "Hamad Medjedovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Luciano Darderi"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ann Li",
+    "Elisabetta Cocciaretto"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Taylah Preston",
+    "Rebecca Sramkova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magda Linette",
+    "Oksana Selekhmeteva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Camila Osorio",
+    "Emma Raducanu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anna Bondar",
+    "Tatjana Maria"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Solana Sierra",
+    "Antonia Ruzic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magda Linette",
+    "Wang Xinyu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-14",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Olga Danilovic",
+    "Peyton Stearns"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2026-01-15",
    "torneo": "Australian Open",
    "circuito": "ATP",
@@ -5314,6 +15440,609 @@
     [
      6,
      2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaqueline Cristian",
+    "Kimberly Birrell"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Madison Keys",
+    "Victoria Mboko"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Emma Navarro",
+    "Diana Shnaider"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Maya Joint",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Victoria Mboko",
+    "Kimberly Birrell"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaume Munar",
+    "Tomas Machac"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tommy Paul",
+    "Aleksandar Vukic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Aleksandr Shevchenko",
+    "Ugo Humbert"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Fabian Marozsan",
+    "Eliot Spizzirri"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jakub Mensik",
+    "Giovanni Mpetshi Perricard"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Baez",
+    "Ben Shelton"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Anna Bondar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Taylah Preston",
+    "Emma Raducanu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Olga Danilovic",
+    "Antonia Ruzic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-15",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magda Linette",
+    "Iva Jovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Diana Shnaider",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tommy Paul",
+    "Tomas Machac"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Ugo Humbert",
+    "Alejandro Davidovich Fokina"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Fabian Marozsan",
+    "Jakub Mensik"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Marcos Giron",
+    "Sebastian Baez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Ruzic",
+    "Elisabetta Cocciaretto"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-16",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Iva Jovic",
+    "Taylah Preston"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-17",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Victoria Mboko",
+    "Mirra Andreeva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-17",
+   "torneo": "Adelaide International",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Ugo Humbert"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-17",
+   "torneo": "ASB Classic",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jakub Mensik",
+    "Sebastian Baez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-01-17",
+   "torneo": "Hobart International",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elisabetta Cocciaretto",
+    "Iva Jovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
     ]
    ],
    "completo": true
@@ -212023,6 +222752,52 @@
     [
      6,
      7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Zeynep Sonmez",
+    "Jil Teichmann"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Toray Pan Pacific Open Tennis",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mia Pohankova",
+    "Naomi Osaka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
     ]
    ],
    "completo": true

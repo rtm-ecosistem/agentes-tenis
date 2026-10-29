@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T05:25+00:00",
+ "actualizado": "2026-10-29T07:43+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -416,40 +416,6 @@
  "cartelera": {
   "actualizado": "2026-10-28T18:25+00:00",
   "partidos": [
-   {
-    "id": "d04e7e6ce329fccbd0b365240f807cca",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-29T05:30+00:00",
-    "jugadores": [
-     "Naomi Osaka",
-     "Mia Pohánková"
-    ],
-    "opciones": [
-     {
-      "id": "d04e7e6ce329fccbd0b365240f807cca|h2h|Mia Pohánková|",
-      "mercado": "h2h",
-      "nombre": "Mia Pohánková",
-      "punto": null,
-      "cuota": 4.0,
-      "pinnacle": 4.4
-     },
-     {
-      "id": "d04e7e6ce329fccbd0b365240f807cca|h2h|Naomi Osaka|",
-      "mercado": "h2h",
-      "nombre": "Naomi Osaka",
-      "punto": null,
-      "cuota": 1.25,
-      "pinnacle": 1.25
-     }
-    ],
-    "pinnacle_h2h": {
-     "Mia Pohánková": 4.4,
-     "Naomi Osaka": 1.25
-    }
-   },
    {
     "id": "1fa60410ca17efcd43616ab025a3b0e4",
     "deporte": "tennis_wta_pan_pacific_open",
