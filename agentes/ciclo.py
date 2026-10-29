@@ -2,7 +2,8 @@
 
     python -m agentes.ciclo decision   # 9:00: cuotas, sala de analistas y apuestas de los cuatro analistas
     python -m agentes.ciclo sala       # 14:00 y 20:00: noticias e informe de la sala (domingo: reflexiones)
-    python -m agentes.ciclo cierre     # cada hora: cuota de cierre de Pinnacle, resultados y revisiones
+    python -m agentes.ciclo cierre     # cada hora: cuota de cierre de Pinnacle, resultados, revisiones y noticias
+                                       # (con noticias nuevas, la sala actualiza su informe y se puede apostar)
     python -m agentes.ciclo web        # solo rehacer los datos de la web
     python -m agentes.ciclo reiniciar --temporada australia-2027   # empezar de cero (lo anterior se archiva)
 """
@@ -83,6 +84,37 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
     return r, propuestas, nuevos
 
 
+def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo: dict, datos_noticias: dict,
+                  sala_txt: str, ia, momento: datetime, nota: str = "") -> None:
+    """Deciden los tres especialistas y después la Manager, que lee lo que han propuesto."""
+    extras = {"estadistico": "DATOS PARA TU MÉTODO (Elo por superficie frente al mercado)\n" + prompts.datos_estadisticos(cartelera, elo),
+              "reportero": "NOTICIAS DE LOS JUGADORES DE HOY\n" + prompts.datos_noticias(cartelera, datos_noticias),
+              "superficies": "DATOS POR SUPERFICIE\n" + prompts.datos_superficie(cartelera, elo)}
+    if nota:
+        extras = {k: nota + "\n\n" + v for k, v in extras.items()}
+    for bote_id, bote in config.BOTES.items():
+        if not bote["activo"] or not cartelera:
+            continue
+        hechos = []
+        for agente in oficina.activos(estado):
+            if agente["rol"] not in ESPECIALISTAS or bote_id not in agente["botes"]:
+                continue
+            try:
+                r, propuestas, _ = decidir_uno(agente, estado, apuestas, bote_id, cartelera, extras[agente["rol"]],
+                                               sala_txt, ia, momento)
+                hechos.append((agente, r, propuestas))
+            except Exception as e:  # noqa: BLE001
+                oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir: {e}", "error")
+        for agente in oficina.activos(estado):
+            if agente["rol"] != "manager" or bote_id not in agente["botes"]:
+                continue
+            try:
+                decidir_uno(agente, estado, apuestas, bote_id, cartelera, (nota + "\n\n" if nota else "") +
+                            prompts.texto_especialistas(hechos), sala_txt, ia, momento)
+            except Exception as e:  # noqa: BLE001
+                oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir: {e}", "error")
+
+
 def decision(forzar: bool = False, momento: datetime | None = None, api=None, ia=None, avisos=None) -> None:
     momento = momento or comun.ahora()
     estado = oficina.cargar(momento)
@@ -112,29 +144,7 @@ def decision(forzar: bool = False, momento: datetime | None = None, api=None, ia
         sala.escribir(estado, cartelera, elo, datos_noticias, ia, momento)
     sala_txt = prompts.texto_sala(sala.para_decidir(estado, momento))
 
-    extras = {"estadistico": "DATOS PARA TU MÉTODO (Elo por superficie frente al mercado)\n" + prompts.datos_estadisticos(cartelera, elo),
-              "reportero": "NOTICIAS DE LOS JUGADORES DE HOY\n" + prompts.datos_noticias(cartelera, datos_noticias),
-              "superficies": "DATOS POR SUPERFICIE\n" + prompts.datos_superficie(cartelera, elo)}
-    for bote_id, bote in config.BOTES.items():
-        if not bote["activo"] or not cartelera:
-            continue
-        hechos = []
-        for agente in oficina.activos(estado):
-            if agente["rol"] not in ESPECIALISTAS or bote_id not in agente["botes"]:
-                continue
-            try:
-                r, propuestas, _ = decidir_uno(agente, estado, apuestas, bote_id, cartelera, extras[agente["rol"]],
-                                               sala_txt, ia, momento)
-                hechos.append((agente, r, propuestas))
-            except Exception as e:  # noqa: BLE001
-                oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir hoy: {e}", "error")
-        for agente in oficina.activos(estado):
-            if agente["rol"] != "manager" or bote_id not in agente["botes"]:
-                continue
-            try:
-                decidir_uno(agente, estado, apuestas, bote_id, cartelera, prompts.texto_especialistas(hechos), sala_txt, ia, momento)
-            except Exception as e:  # noqa: BLE001
-                oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir hoy: {e}", "error")
+    decidir_todos(estado, apuestas, cartelera, elo, datos_noticias, sala_txt, ia, momento)
 
     nuevas = [a for a in apuestas if a["hora"] == comun.iso(momento)]
     oficina.anotar(estado, momento, f"🧾 Decisión del día: {len(nuevas)} apuestas nuevas por "
@@ -175,7 +185,7 @@ def guardar_cierres(estado: dict, apuestas: list[dict], api, momento: datetime) 
     urgentes = [a for a in sin_cierre if comun.fecha_hora(a["inicio"]) - momento <= timedelta(minutes=config.MINUTOS_ANTES_CIERRE + 15)]
     if not urgentes:
         return 0
-    horas = config.HORAS_JORNADA if en_ahorro(estado, momento) else 3
+    horas = config.HORAS_JORNADA if en_ahorro(estado, momento) else config.HORAS_CIERRE
     limite = momento + timedelta(hours=horas)
     guardadas = 0
     for deporte in sorted({a["deporte"] for a in urgentes}):
@@ -237,6 +247,85 @@ def liquidar_pendientes(estado: dict, apuestas: list[dict], api, momento: dateti
     return liquidadas
 
 
+# --- Cada hora: noticias nuevas, informe de la sala y apuestas sobre los partidos afectados ------------
+def creditos_hora_disponibles(estado: dict, momento: datetime) -> int:
+    c = estado.setdefault("creditos", {}).setdefault("noticias", {})
+    hoy = comun.hoy_madrid(momento)
+    if c.get("dia") != hoy:
+        c.update({"dia": hoy, "gastados": 0})
+    return max(0, config.CREDITOS_NOTICIAS_DIA - c["gastados"])
+
+
+def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: datetime) -> int:
+    """Lee las noticias de los jugadores que aún no han jugado. Si hay alguna nueva, la sala actualiza su informe
+    y, con cuotas recién pedidas (solo el ganador y solo de los torneos afectados), los analistas deciden sobre esos
+    partidos. Devuelve cuántas apuestas nuevas hay."""
+    guardada = comun.leer(config.CARTELERA, {"partidos": []})
+    margen_inicio = momento + timedelta(minutes=config.MINUTOS_SIN_APUESTAS)
+    partidos = [p for p in guardada.get("partidos", []) if comun.fecha_hora(p["inicio"]) > margen_inicio]
+    if not partidos:
+        return 0
+    datos = noticias.recoger(sorted({j for p in partidos for j in p["jugadores"]}))
+    ids = [n["id"] for n in datos.get("noticias", [])]
+    if "noticias_vistas" not in estado:  # la primera vez solo se apunta lo que ya hay
+        estado["noticias_vistas"] = ids[:800]
+        return 0
+    vistas = set(estado["noticias_vistas"])
+    estado["noticias_vistas"] = ids[:800]
+    nuevas = {}
+    for p in partidos:
+        for j in p["jugadores"]:
+            for n in noticias.de_jugador(datos, j):
+                if n["id"] not in vistas:
+                    nuevas.setdefault(p["id"], []).append(n)
+    if not nuevas:
+        print("Sin noticias nuevas de los jugadores que quedan por jugar.")
+        return 0
+    afectados = [p for p in partidos if p["id"] in nuevas]
+    titulares = "; ".join(dict.fromkeys(n["titulo"] for p in afectados for n in nuevas[p["id"]]))
+    nombres = ", ".join(" – ".join(p["jugadores"]) for p in afectados[:3]) + ("…" if len(afectados) > 3 else "")
+    oficina.anotar(estado, momento, f"📰 Noticias nuevas de {nombres}: la sala actualiza su informe.")
+    ia = crear_ia()
+    elo = comun.leer(config.ELO, {})
+    sala.escribir(estado, partidos, elo, datos, ia, momento)
+    if estado.get("ultima_decision") != comun.hoy_madrid(momento):
+        return 0  # antes de la decisión de las 9:00 solo se informa
+    if api is None or en_ahorro(estado, momento):
+        oficina.anotar(estado, momento, "Sin cuotas nuevas: los créditos de The Odds API van justos este mes.")
+        return 0
+    disponibles = creditos_hora_disponibles(estado, momento)
+    deportes = sorted({p["deporte"] for p in afectados})[:disponibles]
+    if not deportes:
+        oficina.anotar(estado, momento, "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.")
+        return 0
+    casa, frescos = estado.get("casa") or "williamhill", []
+    antes = api.gastados
+    for d in deportes:
+        try:
+            eventos = {e["id"]: e for e in api.cuotas(d, ["h2h"], desde=momento, hasta=momento + timedelta(hours=config.HORAS_VENTANA))}
+        except Exception as e:  # noqa: BLE001
+            print(f"No se pudieron leer las cuotas de {d}: {e}")
+            continue
+        for p in afectados:
+            if p["deporte"] == d and p["id"] in eventos:
+                frescos.append(cuotas.partido(eventos[p["id"]], {"key": d, "title": p["torneo"]}, casa))
+    gastados = max(api.gastados - antes, len(deportes))
+    estado["creditos"]["noticias"]["gastados"] += gastados
+    frescos = [p for p in frescos if p["opciones"]]
+    if not frescos:
+        return 0
+    nota = ("ACTUALIZACIÓN DE LA TARDE: han salido noticias nuevas de estos partidos (" + titulares[:600] + "). "
+            "Solo hay cuotas nuevas del ganador. Apuesta únicamente si las noticias cambian de verdad tu opinión; "
+            "si no, no apuestes (ya decidiste esta mañana).")
+    n_antes = len(apuestas)
+    decidir_todos(estado, apuestas, frescos, elo, datos, prompts.texto_sala(sala.para_decidir(estado, momento)), ia,
+                  momento, nota)
+    nuevas_apuestas = apuestas[n_antes:]
+    oficina.anotar(estado, momento, f"🧾 Con las noticias nuevas: {len(nuevas_apuestas)} apuestas por "
+                                    f"{sum(a['stake'] for a in nuevas_apuestas):.2f} € ({gastados} créditos).")
+    return len(nuevas_apuestas)
+
+
 def cierre(momento: datetime | None = None, api=None, ia=None, avisos=None) -> None:
     momento = momento or comun.ahora()
     estado = oficina.cargar(momento)
@@ -256,6 +345,10 @@ def cierre(momento: datetime | None = None, api=None, ia=None, avisos=None) -> N
     elo_mod.actualizar()
     if n:
         oficina.anotar(estado, momento, f"🏁 {n} apuestas liquidadas.")
+    try:
+        noticias_hora(estado, apuestas, api, lambda: ia or ia_mod.crear_ia(prisa=True), momento)
+    except Exception as e:  # noqa: BLE001
+        print(f"Noticias de la hora: {e}")
     if api:
         anotar_creditos(estado, api, momento, avisos)
     if any(prompts.situacion(a, apuestas)["liquidadas"] >= config.APUESTAS_POR_REVISION for a in oficina.activos(estado)):

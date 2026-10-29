@@ -58,6 +58,15 @@ class OddsAPI:
             params["commenceTimeTo"] = hasta.strftime("%Y-%m-%dT%H:%M:%SZ")
         return self._get(f"/sports/{deporte}/odds", **params)
 
+    def eventos(self, deporte: str, desde: datetime | None = None, hasta: datetime | None = None) -> list[dict]:
+        """Los partidos de un torneo, sin cuotas (no gasta créditos): sirve para no pagar torneos sin partidos."""
+        params = {"dateFormat": "iso"}
+        if desde:
+            params["commenceTimeFrom"] = desde.strftime("%Y-%m-%dT%H:%M:%SZ")
+        if hasta:
+            params["commenceTimeTo"] = hasta.strftime("%Y-%m-%dT%H:%M:%SZ")
+        return self._get(f"/sports/{deporte}/events", **params)
+
     def marcadores(self, deporte: str, dias: int = 3) -> list[dict]:
         """Resultados de los últimos días (2 créditos): solo se usa si la otra fuente de resultados falla."""
         return self._get(f"/sports/{deporte}/scores", daysFrom=dias, dateFormat="iso")
@@ -176,6 +185,8 @@ def cartelera(api: OddsAPI, estado: dict, mercados: list[str], momento: datetime
     eventos = []
     for t in api.torneos():
         try:
+            if not api.eventos(t["key"], desde=momento, hasta=hasta):
+                continue  # sin partidos en las próximas horas: no se pagan sus cuotas
             for e in api.cuotas(t["key"], mercados, desde=momento, hasta=hasta):
                 eventos.append((e, t))
         except requests.HTTPError as e:

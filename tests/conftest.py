@@ -40,7 +40,7 @@ def evento(id_, a, b, inicio, wh=(1.80, 2.05), pin=(1.85, 2.02), spread=-3.5, to
 
 class FakeAPI:
     def __init__(self, eventos=None, cierre=None):
-        self.eventos = eventos if eventos is not None else [
+        self.lista = eventos if eventos is not None else [
             evento("e1", "Carlos Alcaraz", "Alex de Minaur", AHORA + timedelta(hours=4)),
             evento("e2", "Jannik Sinner", "Casper Ruud", AHORA + timedelta(hours=7), wh=(1.30, 3.60), pin=(1.28, 3.9)),
         ]
@@ -53,7 +53,10 @@ class FakeAPI:
 
     def cuotas(self, deporte, mercados, casas=None, desde=None, hasta=None):
         self.llamadas.append((deporte, tuple(mercados), tuple(casas or [])))
-        return self.cierre if (self.cierre is not None and casas == ["pinnacle"]) else self.eventos
+        return self.cierre if (self.cierre is not None and casas == ["pinnacle"]) else self.lista
+
+    def eventos(self, deporte, desde=None, hasta=None):
+        return [e for e in self.lista if deporte == e["sport_key"]]
 
     def marcadores(self, deporte, dias=3):
         return []
