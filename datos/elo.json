@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T14:10+00:00",
+ "actualizado": "2026-10-29T15:35+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1149,19 +1149,18 @@
    "nombre": "Cameron Norrie",
    "circuito": "ATP",
    "elo": {
-    "all": 1688.9,
-    "hard": 1661.3,
+    "all": 1680.8,
+    "hard": 1653.4,
     "clay": 1701.0,
     "grass": 1592.9
    },
    "n": {
-    "all": 146,
-    "hard": 96,
+    "all": 147,
+    "hard": 97,
     "clay": 37,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-05 G hard vs Ignacio Buse",
     "2026-08-06 G hard vs Alex de Minaur",
     "2026-08-09 P hard vs Arthur Fils",
     "2026-08-13 G hard vs Dino Prizmic",
@@ -1170,7 +1169,8 @@
     "2026-10-01 P hard vs Alexander Zverev",
     "2026-10-08 P hard vs Dalibor Svrcina",
     "2026-10-20 P hard vs Benjamin Bonzi",
-    "2026-10-27 G hard vs Francisco Cerundolo"
+    "2026-10-27 G hard vs Francisco Cerundolo",
+    "2026-10-29 P hard vs Daniil Medvedev"
    ]
   },
   "de minaur|a": {
@@ -3553,19 +3553,18 @@
    "nombre": "Daniil Medvedev",
    "circuito": "ATP",
    "elo": {
-    "all": 1890.0,
-    "hard": 1902.7,
+    "all": 1897.1,
+    "hard": 1909.3,
     "clay": 1688.2,
     "grass": 1697.9
    },
    "n": {
-    "all": 200,
-    "hard": 150,
+    "all": 201,
+    "hard": 151,
     "clay": 31,
     "grass": 19
    },
    "ultimos": [
-    "2026-10-05 P hard vs Novak Djokovic",
     "2026-10-10 G hard vs Jan-Lennard Struff",
     "2026-10-12 G hard vs Dalibor Svrcina",
     "2026-10-14 G hard vs Stefanos Tsitsipas",
@@ -3574,7 +3573,8 @@
     "2026-10-22 G hard vs Sho Shimabukuro",
     "2026-10-23 G hard vs Terence Atmane",
     "2026-10-25 G hard vs Nikoloz Basilashvili",
-    "2026-10-28 G hard vs Daniel Merida"
+    "2026-10-28 G hard vs Daniel Merida",
+    "2026-10-29 G hard vs Cameron Norrie"
    ]
   },
   "atmane|t": {
@@ -20852,19 +20852,18 @@
    "nombre": "Marina Bassols Ribera",
    "circuito": "WTA",
    "elo": {
-    "all": 1577.0,
-    "hard": 1553.7,
+    "all": 1604.0,
+    "hard": 1587.2,
     "clay": 1691.8,
     "grass": 1532.1
    },
    "n": {
-    "all": 45,
-    "hard": 31,
+    "all": 46,
+    "hard": 32,
     "clay": 10,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-26 P hard vs Martyna Kubka",
     "2026-09-08 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-09-14 G hard vs Eva Bennemann",
     "2026-09-17 P hard vs Guiomar Maristany Zuleta De Reales",
@@ -20873,7 +20872,8 @@
     "2026-10-01 P hard vs Kamilla Rakhimova",
     "2026-10-13 G grass vs Ida Wobker",
     "2026-10-14 P grass vs Francesca Curmi",
-    "2026-10-27 G hard vs Victoria Jimenez Kasintseva"
+    "2026-10-27 G hard vs Victoria Jimenez Kasintseva",
+    "2026-10-29 G hard vs Erika Andreeva"
    ]
   },
   "martynov|d": {
@@ -28380,19 +28380,18 @@
    "nombre": "Erika Andreeva",
    "circuito": "ATP",
    "elo": {
-    "all": 1587.7,
-    "hard": 1596.5,
+    "all": 1553.2,
+    "hard": 1556.4,
     "clay": 1488.4,
     "grass": 1506.3
    },
    "n": {
-    "all": 22,
-    "hard": 18,
+    "all": 23,
+    "hard": 19,
     "clay": 2,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-14 P hard vs Viktoria Hruncakova",
     "2026-09-22 P hard vs Reese Brantmeier",
     "2026-09-27 G hard vs Elena Micic",
     "2026-09-29 G hard vs Polina Iatcenko",
@@ -28401,7 +28400,8 @@
     "2026-10-03 P hard vs Lois Boisson",
     "2026-10-11 G hard vs Giulia Alessia Monteleone",
     "2026-10-13 P hard vs Anouk Koevermans",
-    "2026-10-28 G hard vs Yelyzaveta Kotliar"
+    "2026-10-28 G hard vs Yelyzaveta Kotliar",
+    "2026-10-29 P hard vs Marina Bassols Ribera"
    ]
   },
   "ekstrand|m": {
@@ -42071,7 +42071,7 @@
    0
   ],
   "medvedev|d~norrie|c": [
-   3,
+   4,
    1
   ],
   "humbert|u~koepfer|d": [
@@ -90889,7 +90889,11 @@
   "jodar|r~vacherot|v": [
    0,
    1
+  ],
+  "andreeva|e~bassols ribera|m": [
+   0,
+   1
   ]
  },
- "propios": 10393
+ "propios": 10395
 }

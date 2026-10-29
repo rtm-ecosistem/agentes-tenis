@@ -117,6 +117,17 @@
     "perdidas": 0,
     "nulas": 0,
     "unidades": 0.0
+   },
+   "temperamento": {
+    "euforia": 0.5,
+    "frustracion": 0.5,
+    "revancha": 0.5
+   },
+   "animo": {
+    "mezcla": {},
+    "motivos": {},
+    "hora": "2026-10-29T15:35+00:00",
+    "rent": 0.0
    }
   },
   {
@@ -223,6 +234,16 @@
     "perdidas": 0,
     "nulas": 0,
     "unidades": 0.0
+   },
+   "temperamento": {
+    "sorpresa": 1.5,
+    "envidia": 1.3
+   },
+   "animo": {
+    "mezcla": {},
+    "motivos": {},
+    "hora": "2026-10-29T15:35+00:00",
+    "rent": 0.0
    }
   },
   {
@@ -323,6 +344,17 @@
     "perdidas": 0,
     "nulas": 0,
     "unidades": 0.0
+   },
+   "temperamento": {
+    "aburrimiento": 0.6,
+    "impaciencia": 0.6,
+    "confianza": 1.3
+   },
+   "animo": {
+    "mezcla": {},
+    "motivos": {},
+    "hora": "2026-10-29T15:35+00:00",
+    "rent": 0.0
    }
   },
   {
@@ -435,6 +467,17 @@
     "perdidas": 0,
     "nulas": 0,
     "unidades": 0.0
+   },
+   "temperamento": {
+    "miedo": 1.4,
+    "codicia": 0.6,
+    "calma": 1.3
+   },
+   "animo": {
+    "mezcla": {},
+    "motivos": {},
+    "hora": "2026-10-29T15:35+00:00",
+    "rent": 0.0
    }
   }
  ],
@@ -587,6 +630,65 @@
    "contra": "",
    "conclusion": "Ir a favor de los favoritos es una opción lógica debido a la superioridad abrumadora en las estadísticas de Elo en pista dura. Sin embargo, hay que vigilar de cerca el desgaste físico por partidos largos recientes y las posibles distracciones externas debidas a noticias de índole personal.",
    "partidos": []
+  },
+  {
+   "hora": "2026-10-29T15:35+00:00",
+   "datos": "Los números de Elo muestran claras diferencias en los partidos de hoy, con favoritos como Alexander Zverev y Novak Djokovic superando el ochenta por ciento de probabilidad teórica en pista dura. No obstante, en duelos como el de Flavio Cobolli contra Matteo Berrettini las cuotas están completamente igualadas al cincuenta por ciento. Destacan también los enfrentamientos en Tokio, donde jugadoras como Maya Joint acumulan un gran desgaste físico con cinco sets disputados en los últimos tres días.",
+   "noticias": "En el apartado extradeportivo, Matteo Berrettini acapara titulares debido a rumores de un triángulo amoroso que salpican al equipo de Copa Davis, lo cual podría descentrarle. Por otro lado, Novak Djokovic busca sumar puntos clave en Basilea para asegurar su plaza en Turín, mientras que Zverev cuenta con el respaldo público tras consolidarse en la parte alta del ranking.",
+   "ambiente": "Se habla mucho en redes sobre la necesidad de Djokovic de cerrar el año con buenas sensaciones y la presión añadida para los jóvenes en busca de las finales ATP. La motivación por escalar puestos en el tramo final de la temporada es alta en todos los torneos.",
+   "favorito": "Los favoritos como Zverev y Shelton poseen una ventaja de Elo superior al ochenta por ciento y una superioridad física evidente en condiciones normales de pista dura, además de un historial directo muy favorable en la mayoría de los casos. Apoyarles es respaldar la lógica matemática de la superficie y su mayor consistencia reciente en rondas finales de torneos 500 y WTA equivalente.",
+   "contra": "",
+   "conclusion": "Pesa más la lógica de los números de Elo y la jerarquía en pista dura, pero hay que vigilar el desgaste físico acumulado en partidos largos y las posibles distracciones extradeportivas que afectan a ciertos jugadores.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexander Zverev vs Tallon Griekspoor)",
+     "id": "6822571863f93fa4654e76e114874060",
+     "jugadores": [
+      "Alexander Zverev",
+      "Tallon Griekspoor"
+     ],
+     "inicio": "2026-10-29T16:30+00:00",
+     "favorito": "Alexander Zverev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Novak Djokovic vs Jan-Lennard Struff)",
+     "id": "e17ec974bac4e8094cbe45dfeb471b1e",
+     "jugadores": [
+      "Novak Djokovic",
+      "Jan-Lennard Struff"
+     ],
+     "inicio": "2026-10-29T17:00+00:00",
+     "favorito": "Novak Djokovic",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P04 (Flavio Cobolli vs Matteo Berrettini)",
+     "id": "3b65bc657a2d7391944d9e343c189c52",
+     "jugadores": [
+      "Flavio Cobolli",
+      "Matteo Berrettini"
+     ],
+     "inicio": "2026-10-29T19:00+00:00",
+     "favorito": "Flavio Cobolli",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P06 (Kamilla Rakhimova vs Maya Joint)",
+     "id": "cc0834cac355e3a96bf64a85ce003e51",
+     "jugadores": [
+      "Kamilla Rakhimova",
+      "Maya Joint"
+     ],
+     "inicio": "2026-10-30T04:00+00:00",
+     "favorito": "Maya Joint",
+     "vista": "sorpresa",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -629,6 +731,16 @@
    "hora": "2026-10-29T15:10+00:00",
    "texto": "🧾 Con las noticias nuevas: 0 apuestas por 0.00 € (2 créditos).",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T15:35+00:00",
+   "texto": "📰 Noticias nuevas de Alexander Zverev – Tallon Griekspoor, Novak Djokovic – Jan-Lennard Struff: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T15:35+00:00",
+   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -652,9 +764,13 @@
  "ultima_decision": "2026-10-29",
  "ultima_sala": "2026-10-29-14",
  "noticias_vistas": [
+  "2ddd6a3a9b79",
+  "26d05eeb4e03",
   "d290942acc97",
   "2d84abd70177",
   "24232611d516",
+  "c8932395a46b",
+  "10a7b42664ef",
   "8730bad1fc3c",
   "d4562a88a764",
   "451d292ef105",
@@ -752,6 +868,7 @@
   "e99cd62fa2d7",
   "d1b603325559",
   "798ae05b7b13",
+  "eebbfca76fea",
   "2f3b55887793",
   "b47becfb363b",
   "24650e1ca240",
@@ -785,6 +902,7 @@
   "742346174c70",
   "40f4b5a12fe3",
   "186884939ec9",
+  "5a74ca9bf580",
   "69eb63207415",
   "ba88e1c56eb0",
   "5a9e9f1673c2",
@@ -828,6 +946,7 @@
   "3f2bad9c9b3d",
   "84ef7ac408ee",
   "e50f1e509698",
+  "9e3414ca42ed",
   "45a28d276fd9",
   "b114c79fa62d",
   "7e1f0ae7df5d",
@@ -897,7 +1016,6 @@
   "1f4879883833",
   "874a4c122380",
   "4572069dbe14",
-  "eebbfca76fea",
   "24791b55b599",
   "0218f2b018f4",
   "8fb51948bfc2",
@@ -936,6 +1054,7 @@
   "d24b6d79eb75",
   "b8e73698ab7e",
   "50857ccc5560",
+  "559c2054e564",
   "21422f4048a0",
   "9ce8ef4b6f43",
   "5777b094ac07",
@@ -973,7 +1092,6 @@
   "b9b5b0738fa4",
   "7ebdf7c9d536",
   "2e25d7ecdc27",
-  "559c2054e564",
   "92cfb2258771",
   "7723aa1adbec",
   "17a11abb09bf",
@@ -1151,6 +1269,7 @@
   "3654467f79aa",
   "bc364b88ec53",
   "fc702f04650c",
+  "85c14b0b2d4e",
   "e064532c57d1",
   "b34f461b52c2",
   "3e9ee5179522",
@@ -1224,6 +1343,7 @@
   "ae67f52a8038",
   "c292d5a5e3da",
   "0ef562ac5a3f",
+  "fe3d970926fa",
   "028e0aae43c4",
   "742ad63eb49e",
   "3b0adcb57fef",
@@ -1284,7 +1404,6 @@
   "846599473cca",
   "5c26b4e938e5",
   "d705d4f42bef",
-  "fe3d970926fa",
   "847f4d6ec6fe",
   "66307f761ad9",
   "da60c0e837ce",
@@ -1444,14 +1563,7 @@
   "eafe40383f58",
   "c42930feea05",
   "f5b01faf7ab3",
-  "0279bdc679c8",
-  "91c125a32f00",
-  "f62778b3d6d7",
-  "dc5f28d51e93",
-  "9325024e28f4",
-  "123f92187d33",
-  "fef116457f67",
-  "acf87bd4b2b5"
+  "0279bdc679c8"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -1650,7 +1762,7 @@
    "inicio": "2026-10-29T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.834,
    "elo_general": 0.863,
    "elo_en_superficie": 0.805,
@@ -1738,7 +1850,7 @@
    "inicio": "2026-10-29T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.811,
    "elo_general": 0.813,
    "elo_en_superficie": 0.809,
@@ -1762,6 +1874,12 @@
      "cansancio": "1 partidos, 3 sets y 29 juegos en 3 días; el último el 2026-10-28 contra Ugo Humbert, ganó 4-6 6-3 6-4",
      "noticias": [
       {
+       "titulo": "La gran oportunidad de Djokovic de acercarse a Turín en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeU9jSEtoQzJXVTgxcmZ1eUlOYWQ2amhlUzJqaHdRaUdSV1VkSUxBckpYZ1UwanhXMVJybUI0cUpNNzk0WXpfY1kzY2JiX0VkWmtrVGcyZWR6bjhXNFFZdnVzS056NDZsWFAyeC1HTW5CMGdyZlBPRVJOQVlNSVFBczEyQWRPZ1dpSDhZ?oc=5"
+      },
+      {
        "titulo": "Djokovic's big opportunity to make a move towards Turin in Basel - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-10-29",
@@ -1772,12 +1890,6 @@
        "fuente": "Noticias de Gipuzkoa",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlhGNHM3WUJ6Q0ZINElrOVh2QTdEeDl1SmptWGZBTVg3Rk9qLU41VEJTVktpT2I4U0Q1c2k5T1MwRWFScXJMOTRSRW5HMWk2YVJvZmY0cEhvMWVHR1gzaFA1ZENud2huakhrV1VEUzdmWkJDLXRoeUNPNThQTVlUUC1fTFRwRnBnYUF2NW55blVSX0Jad3VXaUFqbzlMWVVxQWVKZEREc2pvdUt1dFpiamtzUHVqazRCUlZnVNIBwgFBVV95cUxPMWJjd3c3YndUVWdXTDhoaVIwOVhpNkVMU1JOTWNFcnl0dHN5RkZXSEJwRjN4QW9xT1QzZU9KZVJqbDRSN25PY1JaU1RBV2NFRW11Uko2S2NPWTUzOTJRenBFUjJZZU1lLUluazlWbG5fYmVJeDVrM3lraTh4dnA1SjdvR0VDMF9WV1ctbnl5cU9XV0V1VXFmano4MkpMVVhST1Ixejd0T0RiN2IzQ3hOUUl3ZmhzbzY4dmUyU0xOM0Uxdw?oc=5"
-      },
-      {
-       "titulo": "Novak Djokovic se sincera sobre su relación con Roger Federer: \"Nunca fue cercana fuera de las pistas\" - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0VGN1JaeFJicWk0cTZQbnlVMWdyOTJ0Nnl4dHhpSkczTXk1ZjhMVlU5OExuc0lNcy1CN2FBay15QWlUVkw2cHdHYUJwdjJHeXQ3aVVLbmVWcVZFbjhZcmFBZ2pva05nSmU5T3p5YU82WkN5bzhnUi0yV1BIeHZ5WmkwNm1pZ2pvS01UdGNFVURkQVJLYWdwVE9wTFA1VWpIWlhwMWNRYTBiQUphOXZpYnhBSGVSejYwOE5aVHB3VkM3MEhkUFB6dzVuWVgwZWZ0NTJYRXQtNkw5RmRVZ2c?oc=5"
       }
      ]
     },
@@ -1826,7 +1938,7 @@
    "inicio": "2026-10-29T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.875,
    "elo_general": 0.862,
    "elo_en_superficie": 0.905,
@@ -1914,7 +2026,7 @@
    "inicio": "2026-10-29T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.625,
    "elo_general": 0.632,
    "elo_en_superficie": 0.617,
@@ -2002,7 +2114,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -2090,7 +2202,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T15:10+00:00",
+   "actualizado": "2026-10-29T15:35+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,

@@ -235501,6 +235501,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Cameron Norrie"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Valle D'Aosta Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Erika Andreeva",
+    "Marina Bassols Ribera"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }
