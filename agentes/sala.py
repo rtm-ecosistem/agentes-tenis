@@ -24,7 +24,9 @@ def guardar_analisis(estado: dict, cartelera: list[dict], elo: dict, datos_notic
     estado["partidos_info"] = {k: v for k, v in info.items() if v["inicio"] > limite}
 
 
-def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dict, ia, momento: datetime) -> dict | None:
+def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dict, ia, momento: datetime,
+             nuevas: dict[str, list[dict]] | None = None) -> dict | None:
+    """`nuevas` = {id del partido: noticias nuevas}: la sala dice en cuáles cambian algo (informe["importantes"])."""
     guardar_analisis(estado, cartelera, elo, datos_noticias, momento)
     texto_cartelera, _ = prompts.codificar(cartelera, config.BOTES["1"]["mercados"])
     anterior = estado["sala"][-1] if estado.get("sala") else None
@@ -33,7 +35,8 @@ def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dic
                           prompts.mensaje_sala(momento, texto_cartelera, prompts.datos_estadisticos(cartelera, elo),
                                                prompts.datos_noticias(cartelera, datos_noticias), anterior,
                                                aprendizaje.texto_sala_aciertos(estado),
-                                               prompts.datos_cansancio(cartelera, momento)),
+                                               prompts.datos_cansancio(cartelera, momento),
+                                               texto_nuevas(cartelera, nuevas)),
                           prompts.ESQUEMA_SALA)
     except Exception as e:  # noqa: BLE001
         print(f"La sala de analistas no pudo escribir su informe: {e}")
@@ -52,8 +55,19 @@ def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dic
                "noticias": str(r.get("noticias", "")).strip(), "ambiente": str(r.get("ambiente", "")).strip(),
                "favorito": str(debate.get("favorito", "")).strip(), "contra": str(debate.get("contra", "")).strip(),
                "conclusion": str(r.get("conclusion", "")).strip(), "partidos": partidos[:8]}
+    if nuevas:
+        for campo in ("importantes", "graves"):
+            informe[campo] = [por_codigo[c]["id"] for c in dict.fromkeys(map(str, r.get(campo) or []))
+                              if c in por_codigo and por_codigo[c]["id"] in nuevas]
     estado["sala"] = (estado.get("sala", []) + [informe])[-MAX_HISTORIAL:]
     return informe
+
+
+def texto_nuevas(cartelera: list[dict], nuevas: dict[str, list[dict]] | None) -> str:
+    if not nuevas:
+        return ""
+    return "\n".join(f"P{i:02d} ({p['jugadores'][0]} vs {p['jugadores'][1]}): " + "; ".join(n["titulo"] for n in nuevas[p["id"]][:4])
+                     for i, p in enumerate(cartelera, 1) if p["id"] in nuevas)
 
 
 def para_decidir(estado: dict, momento: datetime, maximo: int = 3) -> list[dict]:

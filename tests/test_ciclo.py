@@ -185,3 +185,77 @@ def test_una_consulta_de_cierre_vale_para_seis_horas():
     assert len([ll for ll in api.llamadas if ll[2] == ("pinnacle",)]) == 1
     apuestas = comun.leer(config.APUESTAS, [])
     assert [bool(a["pinnacle_cierre"]) for a in apuestas] == [True, True, False]
+
+
+def noticia(id_, jugador, titulo):
+    return {"id": id_, "titulo": titulo, "resumen": "", "enlace": "", "fecha": comun.iso(AHORA), "fuente": "F", "jugador": jugador}
+
+
+def test_solo_se_gastan_creditos_si_la_sala_ve_importante_la_noticia(monkeypatch):
+    decidir({})
+    noticias_hoy = {"noticias": []}
+    monkeypatch.setattr("agentes.noticias.recoger", lambda jugadores, sesion=None: noticias_hoy)
+    api = FakeAPI()
+    ciclo.cierre(momento=AHORA + timedelta(minutes=65), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    llamadas = len(api.llamadas)
+    noticias_hoy["noticias"] = [noticia("n1", "Casper Ruud", "Ruud habla de su infancia")]
+    ia = FakeIA(importantes=[])
+    ciclo.cierre(momento=AHORA + timedelta(minutes=125), api=api, ia=ia, avisos=FakeAvisos())
+    estado = comun.leer(config.ESTADO, None)
+    assert len(api.llamadas) == llamadas and len(ia.mensajes) == 1   # solo la sala
+    assert estado["creditos"]["noticias"]["gastados"] == 0
+    assert "no cambian ningún partido" in estado["bitacora"][-1]["texto"]
+
+
+def test_tras_pedir_cuotas_se_espera_si_el_partido_queda_lejos(monkeypatch):
+    lejos = [evento("e1", "Carlos Alcaraz", "Alex de Minaur", AHORA + timedelta(hours=10)),
+             evento("e2", "Jannik Sinner", "Casper Ruud", AHORA + timedelta(hours=12))]
+    decidir({}, FakeAPI(lejos))
+    noticias_hoy = {"noticias": []}
+    monkeypatch.setattr("agentes.noticias.recoger", lambda jugadores, sesion=None: noticias_hoy)
+    api = FakeAPI(lejos)
+    ciclo.cierre(momento=AHORA + timedelta(minutes=65), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    noticias_hoy["noticias"] = [noticia("n1", "Carlos Alcaraz", "Alcaraz, con molestias")]
+    ciclo.cierre(momento=AHORA + timedelta(minutes=125), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    llamadas = len(api.llamadas)
+    # Una hora después sale otra noticia importante: el partido queda lejos, así que espera
+    noticias_hoy["noticias"].append(noticia("n2", "Casper Ruud", "Ruud, con fiebre"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=185), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    estado = comun.leer(config.ESTADO, None)
+    assert len(api.llamadas) == llamadas and "se espera" in estado["bitacora"][-1]["texto"]
+    assert list(estado["creditos"]["noticias"]["pendientes"]) == ["e2"]
+    # Pasadas dos horas pide las cuotas aunque no haya más noticias, y la del Alcaraz no se vuelve a consultar
+    ia = FakeIA({"Óscar": [{"seleccion": "P01b", "confianza": 2, "motivo": "Ruud con fiebre"}]})
+    ciclo.cierre(momento=AHORA + timedelta(minutes=245), api=api, ia=ia, avisos=FakeAvisos())
+    estado = comun.leer(config.ESTADO, None)
+    assert len(api.llamadas) == llamadas + 1
+    assert estado["creditos"]["noticias"]["partidos"] == ["e1", "e2"] and estado["creditos"]["noticias"]["gastados"] == 2
+    assert "fiebre" in [m for i, m in ia.mensajes if i.startswith("Eres Óscar,")][0]
+
+
+def test_una_noticia_grave_permite_consultar_otra_vez_y_se_mide_si_vale_la_pena(monkeypatch):
+    decidir({})
+    noticias_hoy = {"noticias": []}
+    monkeypatch.setattr("agentes.noticias.recoger", lambda jugadores, sesion=None: noticias_hoy)
+    api = FakeAPI()
+    pedidas = lambda api: [ll for ll in api.llamadas if not ll[2]]  # sin las de cierre de Pinnacle
+    ciclo.cierre(momento=AHORA + timedelta(minutes=65), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    noticias_hoy["noticias"] = [noticia("n1", "Casper Ruud", "Ruud, con molestias")]
+    ia = FakeIA({"Óscar": [{"seleccion": "P01a", "confianza": 2, "motivo": "Ruud tocado"}]})
+    ciclo.cierre(momento=AHORA + timedelta(minutes=125), api=api, ia=ia, avisos=FakeAvisos())
+    llamadas = len(pedidas(api))
+    # Otra noticia normal del mismo partido no se paga; una grave sí, una vez más (el partido está a menos de 2 horas)
+    noticias_hoy["noticias"].append(noticia("n2", "Casper Ruud", "Ruud entrena"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=305), api=api, ia=FakeIA(), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas
+    noticias_hoy["noticias"].append(noticia("n3", "Casper Ruud", "Ruud, duda por lesión"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=325), api=api, ia=FakeIA(graves=["P01"]), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas + 1
+    noticias_hoy["noticias"].append(noticia("n4", "Casper Ruud", "Ruud, peor"))
+    ciclo.cierre(momento=AHORA + timedelta(minutes=345), api=api, ia=FakeIA(graves=["P01"]), avisos=FakeAvisos())
+    assert len(pedidas(api)) == llamadas + 1   # la segunda vez ya no
+    estado, apuestas = comun.leer(config.ESTADO, None), comun.leer(config.APUESTAS, [])
+    assert estado["creditos"]["noticias_mes"] == {"mes": "2026-10", "gastados": 2, "consultas": 2}
+    assert [a["origen"] for a in apuestas] == ["noticias"]
+    datos = comun.leer(config.WEB_DIR / "datos.json", {})
+    assert datos["por_noticias"]["noticias"]["pendientes"] == 1 and datos["por_noticias"]["manana"]["pendientes"] == 0

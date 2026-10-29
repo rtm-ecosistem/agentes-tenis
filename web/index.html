@@ -1337,6 +1337,7 @@ function boleto(b) {
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
+    ${b.estado === 'pendiente' ? `<div class="linea"><span>Si acierta cobra <b class="num">${eur(b.stake * b.cuota)}</b></span><b class="num sube">${eur(b.stake * (b.cuota - 1), true)}</b></div>` : ''}
     <div class="linea"><span>Pinnacle${A('cierre')}: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
       ${bate == null ? '' : `<span class="chip ${bate ? 'bien' : 'mal'}">${bate ? '✓ batió el cierre' : '✗ peor que el cierre'}</span>`}</div>
     ${b.estado !== 'pendiente' ? `<div class="linea"><span>${esc(b.resultado || '')}</span><b class="num ${clase(b.ganancia)}">${eur(b.ganancia, true)}</b></div>` : ''}
@@ -1517,10 +1518,18 @@ function tarjetaComparar(e) {
     <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Aciertos</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${fila('Antes', e.antes)}${fila('Con emociones', e.despues)}</table>
     <h4 style="margin:10px 0 2px">Toda la oficina, según el ánimo al apostar</h4>${tablaEmociones(e.por_emocion)}</div>`;
 }
+function tarjetaNoticias(n) {
+  const fila = (t, r) => `<tr><td>${t}</td><td class="n">${r.apuestas}${r.pendientes ? ` <small>(+${r.pendientes})</small>` : ''}</td><td class="n ${clase(r.ganancia)}">${r.apuestas ? eur(r.ganancia, true) : '–'}</td><td class="n ${clase(r.yield)}">${r.apuestas ? pct(r.yield, true) : '–'}</td></tr>`;
+  const m = n.mes || {};
+  return `<div class="tarjeta desplaza" style="margin-bottom:10px"><h3>📰 ¿Valen la pena los créditos de noticias?</h3>
+    <p style="margin:0 0 6px;font-size:13.5px">Cuando la sala ve una noticia importante se piden cuotas nuevas (cuesta créditos). ${m.gastados ? `Este mes van <b>${m.gastados} créditos</b> en ${m.consultas} ${m.consultas === 1 ? 'consulta' : 'consultas'}.` : 'Este mes aún no se ha gastado ninguno.'} Así van sus apuestas frente a las de las 9:00:</p>
+    <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Ganancia</th><th class="n">Rendim.${A('rendimiento')}</th></tr>${fila('Por noticias', n.noticias)}${fila('De las 9:00', n.manana)}</table></div>`;
+}
 function pintarAprendizaje() {
   $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, con qué ánimo acierta y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
     <div class="tarjeta" style="margin-bottom:10px"><b>🎯 La sala:</b> ${esc(textoSalaAciertos())}</div>
     ${D.emociones ? tarjetaComparar(D.emociones) : ''}
+    ${D.por_noticias ? tarjetaNoticias(D.por_noticias) : ''}
     ${D.tonta ? `<div class="tarjeta" style="margin-bottom:10px"><b>🤖 La estrategia tonta:</b> apostar siempre lo mismo al favorito de Pinnacle en todos los partidos. Lleva ${D.tonta.apuestas} apuestas, acierta el ${pct(D.tonta.aciertos, false, 0)} y su rendimiento${A('rendimiento')} es <b class="${clase(D.tonta.yield)}">${pct(D.tonta.yield, true)}</b>. Quien no la supere no aporta nada.</div>` : ''}
     <div class="tarjeta" style="margin-bottom:10px"><h3>📚 La biblioteca de la oficina</h3>${D.biblioteca?.length ? `<ul class="reglas">${D.biblioteca.map(e => `<li>${esc(e.texto)} <small>${esc(e.autor)}, ${esc(e.fecha)}</small></li>`).join('')}</ul><small style="color:var(--suave)">Lo mejor que ha aprendido la oficina. Inés la ordena cada domingo y todos la leen antes de apostar.</small>` : '<p class="vacio">Inés la empezará a ordenar el domingo con lo mejor de cada uno.</p>'}</div>
     <div class="rejilla dos">${activos().map(a => {

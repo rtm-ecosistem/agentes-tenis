@@ -39,6 +39,13 @@ def comparar_emociones(estado: dict, apuestas: list[dict]) -> dict | None:
             "por_emocion": emociones.por_emocion(apuestas)}
 
 
+def comparar_noticias(estado: dict, apuestas: list[dict]) -> dict:
+    """Si los créditos que se gastan por noticias dan dinero: sus apuestas frente a las de las 9:00."""
+    return {"mes": estado.get("creditos", {}).get("noticias_mes", {}),
+            "noticias": boletos.resumen([a for a in apuestas if a.get("origen") == "noticias"]),
+            "manana": boletos.resumen([a for a in apuestas if a.get("origen") != "noticias"])}
+
+
 def generar(estado: dict, apuestas: list[dict]) -> dict:
     cartelera = comun.leer(config.CARTELERA, {"partidos": []})
     momento = comun.ahora()
@@ -68,6 +75,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "partidos_info": estado.get("partidos_info", {}),
         "sala_aciertos": {k: v for k, v in estado.get("sala_aciertos", {}).items() if k != "vistos"},
         "emociones": comparar_emociones(estado, apuestas),
+        "por_noticias": comparar_noticias(estado, apuestas),
     }
     # Si no ha cambiado nada más que la hora, no se reescribe (así no hay un cambio nuevo cada hora)
     previo = comun.leer(config.WEB_DIR / "datos.json", {})
