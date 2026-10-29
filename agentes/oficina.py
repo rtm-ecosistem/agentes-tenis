@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 from datetime import datetime, timedelta
 
-from agentes import aprendizaje, boletos, comun, config, prompts
+from agentes import aprendizaje, boletos, comun, config, emociones, prompts
 
 MAX_INFORMES = 40
 MAX_REFLEXIONES = 20
@@ -21,6 +21,7 @@ def nuevo_agente(rol: str, datos: dict, momento: datetime, numero: int = 1, **ex
     return {"id": f"{rol}-{numero}", "rol": rol, "numero": numero, "nombre": datos["nombre"], "titulo": datos["titulo"],
             "color": datos.get("color", "#555"), "personalidad": datos["personalidad"],
             "como_decide": datos["como_decide"], "que_lee": datos["que_lee"], "estado": "activo",
+            "temperamento": emociones.temperamento_valido(datos.get("temperamento")),
             "alta": comun.iso(momento), "botes": botes,
             "periodo": {"inicio": comun.iso(momento), "valor": sum(b["saldo"] for b in botes.values()), "numero": 1},
             "informes": [], "reflexiones": [], "revisiones": [], **extra}
@@ -36,6 +37,11 @@ def cargar(momento: datetime | None = None) -> dict:
     estado = comun.leer(config.ESTADO, None)
     if not estado:
         estado = estado_inicial(momento or comun.ahora())
+    # La plantilla de siempre recibe su temperamento si aún no lo tenía
+    base = plantilla()
+    for a in estado["agentes"]:
+        if "temperamento" not in a:
+            a["temperamento"] = emociones.temperamento_valido(base.get(a["rol"], {}).get("temperamento")) if a.get("numero", 1) == 1 else {}
     # Si se activa el bote 2, cada analista activo lo abre con 1.000 € nuevos
     for a in estado["agentes"]:
         if a["estado"] == "activo":
@@ -95,7 +101,8 @@ def despedir(estado: dict, agente: dict, apuestas: list[dict], ia, avisos, momen
     datos = {k: agente[k] for k in ("titulo", "color", "como_decide", "que_lee")}
     try:
         r = ia.pedir_json(prompts.INSTRUCCIONES_SUSTITUTO.format(titulo=agente["titulo"], usados=usados), "Preséntalo.")
-        datos |= {"nombre": str(r["nombre"]).strip()[:20], "personalidad": str(r["personalidad"]).strip()[:300]}
+        datos |= {"nombre": str(r["nombre"]).strip()[:20], "personalidad": str(r["personalidad"]).strip()[:300],
+                  "temperamento": r.get("temperamento")}
     except Exception as e:  # noqa: BLE001
         print(f"No se pudo inventar el sustituto: {e}")
         datos |= {"nombre": f"{agente['nombre']} II", "personalidad": agente["personalidad"]}

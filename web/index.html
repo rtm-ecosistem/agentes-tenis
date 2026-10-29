@@ -176,6 +176,8 @@ table.tabla { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 .tabla td { padding: 7px 6px; border-bottom: 1px solid var(--borde); vertical-align: middle; }
 .tabla td.n, .tabla th.n { text-align: right; font-variant-numeric: tabular-nums; }
 .tabla tr:last-child td { border-bottom: 0; }
+.emocion { margin-top: 8px; } .emocion .fila { display: flex; justify-content: space-between; font-size: 13.5px; }
+.emocion .barra { margin-top: 3px; } .emocion small { color: var(--suave); font-size: 12px; }
 .tabla .nom { display: inline-flex; gap: 8px; align-items: center; cursor: pointer; font-weight: 650; }
 .desplaza { overflow-x: auto; }
 .medalla { font-size: 16px; }
@@ -430,6 +432,8 @@ const pix = (a, cls = '') => `<img class="pix ${cls}" data-pix="${esc(a.id)}" sr
 function animo(a) {
   if (a.estado !== 'activo') return { cara: '📦', texto: 'Ya no trabaja aquí' };
   const g = a.total?.ganancia || 0, s = a.situacion || {};
+  const dom = a.animo?.mezcla?.[0];
+  if (dom) return { cara: dom.cara, texto: `${dom.nombre}: ${dom.motivo}` };
   if (!a.total?.apuestas) return { cara: '🙂', texto: 'Aún no tiene apuestas liquidadas' };
   if (s.rentabilidad < -.07) return { cara: '😰', texto: 'Se acerca a la zona de despido' };
   return g > 0 ? { cara: '😄', texto: 'Va ganando' } : g < 0 ? { cara: '😟', texto: 'Va perdiendo' } : { cara: '🙂', texto: 'Ni gana ni pierde' };
@@ -871,6 +875,23 @@ function poblar() {
   capa.append(et);enlazarPantallas(capa);
   Object.assign(ESCENA, { agentes, vacias, sala, proxSala: 3 });
 }
+const FRASES_ANIMO = {
+  euforia: ['¡Estoy que me salgo! Aunque ojo, que las rachas se acaban.', 'Todo me sale… justo cuando más cuidado hay que tener.'],
+  confianza: ['Voy bien. A seguir con el método.', 'Los números me dan la razón.'],
+  calma: ['Tranquilidad: el método y nada más.', 'Sin prisa. Si no hay valor, no hay apuesta.'],
+  alivio: ['Uf, por fin vuelvo a estar en verde.', 'Qué alivio, ya respiro.'],
+  orgullo: ['Esa la vi venir.', 'Bien jugada, aunque toca seguir igual.'],
+  tension: ['Hay que remontar, pero sin hacer locuras.', 'Cada apuesta cuenta…'],
+  frustracion: ['Vaya racha… no me sale nada.', 'Hoy el tenis no me quiere.'],
+  miedo: ['Si sigo así me echan.', 'Mejor no arriesgar de más hoy.'],
+  envidia: ['La que dejé pasar habría ganado…', 'Tenía que haberme fiado de mi descarte.'],
+  aburrimiento: ['Días sin una apuesta clara…', 'Paciencia: no hay valor, no apuesto.'],
+  arrepentimiento: ['Con confianza máxima… y la perdí.', 'Esa no tenía que haberla jugado tan fuerte.'],
+  impaciencia: ['¿Hoy tampoco hay nada claro?', 'Me pican los dedos, pero espero.'],
+  codicia: ['Con esta racha me apostaría el bote… mejor no.', 'Me tienta subir la confianza.'],
+  sorpresa: ['¿Cómo ha podido perder ese favorito?', 'El tenis es así: nunca se sabe.'],
+  revancha: ['Hoy quiero recuperar lo de ayer… pero con cabeza.', 'No voy a perseguir lo perdido. O eso intento.'],
+};
 function frasesDe(g, f) {
   const a = g.a, t = a.total || {}, ult = (a.informes || []).slice(-1)[0], lista = [];
   if (g.saliendo) return ['📦 Recojo mis cosas…', '✉️ He dejado una carta a quien me sustituya', '😞 ' + corta(a.motivo || 'Me han despedido', 80)];
@@ -890,6 +911,8 @@ function frasesDe(g, f) {
   }
   const hecha = mias.find(x => x.estado !== 'pendiente');
   if (hecha) de(hecha.ganancia > 0 ? `🎉 ¡Cobrada! ${corta(hecha.descripcion, 50)} (${eur(hecha.ganancia, true)})` : hecha.ganancia < 0 ? `😤 Perdí con ${corta(hecha.descripcion, 50)}. Siguiente.` : `🤷 Me anularon ${corta(hecha.descripcion, 50)}.`, hecha.partido);
+  const dom = a.animo?.mezcla?.[0];
+  if (dom && FRASES_ANIMO[dom.emocion]) de(dom.cara + ' ' + FRASES_ANIMO[dom.emocion][Math.floor(Date.now() / 6e5) % FRASES_ANIMO[dom.emocion].length]);
   for (const r of (a.reglas || []).slice(0, 2)) de(`📏 Mi regla: ${corta(r.texto, 80)}`);
   if (t.pct_cierre != null) de(`📈 Bato el cierre de Pinnacle en el ${pct(t.pct_cierre, false, 0)} de mis apuestas`);
   const ambiente = ({
@@ -1310,7 +1333,7 @@ function boleto(b) {
   const bate = b.pinnacle_cierre ? b.cuota > b.pinnacle_cierre : null;
   const sello = b.estado.startsWith('media') ? b.estado.split(' ')[1] : b.estado;
   return `<article class="boleto"><span class="sello ${sello}">${ESTADOS[b.estado] || b.estado}</span>
-    <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}</small></div>
+    <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}${b.emocion && EMOCIONES[b.emocion] ? ` · ${EMOCIONES[b.emocion][0]} ${EMOCIONES[b.emocion][1].toLowerCase()}` : ''}</small></div>
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
@@ -1393,6 +1416,7 @@ const GLOSARIO = {
   elo: ['Elo', 'Una puntuación de cada jugador que sube al ganar y baja al perder, más cuanto mejor sea el rival. La diferencia entre dos Elo da la probabilidad de que gane cada uno. La calculamos también por superficie.'],
   probabilidad: ['Probabilidad', 'Lo que el analista cree que tiene de salir su apuesta. Si dice 60 % muchas veces, deberían salir unas 6 de cada 10; si salen menos, se pasa de optimista.'],
   confianza: ['Confianza', 'De 1 a 3: cuánto apuesta del bote (1 %, 2 % o 3 %).'],
+  animo: ['Ánimo', 'Una mezcla de emociones que sale de lo que le pasa (rachas, cómo va en el puesto, lo que dejó pasar) y se apaga con los días. Cada uno tiene su temperamento. Lo lee antes de apostar como un espejo de las trampas típicas (perseguir lo perdido, venirse arriba tras una racha), pero sus reglas mandan. Cada boleto guarda con qué ánimo se hizo para ver con cuál acierta y con cuál falla.'],
 };
 const A = clave => `<button class="ayuda" data-ayuda="${clave}" aria-label="¿Qué es?">?</button>`;
 function abrirGlobo(boton) {
@@ -1486,9 +1510,17 @@ function calibracion(c) {
     <span>salió ${pct(f.salio, false, 0)} <small>(${f.apuestas})</small></span>`).join('')}</div>
     <small style="color:var(--suave)">Barra clara: la probabilidad que dio de media. Barra de color: las que salieron. Si la de color queda corta, se pasa de optimista.</small>`;
 }
+function tarjetaComparar(e) {
+  const fila = (n, r) => `<tr><td>${n}</td><td class="n">${r.apuestas}</td><td class="n">${r.apuestas ? pct(r.aciertos, false, 0) : '–'}</td><td class="n ${clase(r.yield)}">${r.apuestas ? pct(r.yield, true) : '–'}</td><td class="n">${pct(r.pct_cierre, false, 0)}</td></tr>`;
+  return `<div class="tarjeta desplaza" style="margin-bottom:10px"><h3>💭 ¿Les ayudan las emociones?${A('animo')}</h3>
+    <p style="margin:0 0 6px;font-size:13.5px">Desde el ${esc(cuando(e.desde))} cada analista lee su ánimo antes de apostar${e.en_decision ? '' : ' (ahora mismo está apagado: se sigue apuntando, pero no lo leen)'}. Así ha ido toda la oficina antes y después:</p>
+    <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Aciertos</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${fila('Antes', e.antes)}${fila('Con emociones', e.despues)}</table>
+    <h4 style="margin:10px 0 2px">Toda la oficina, según el ánimo al apostar</h4>${tablaEmociones(e.por_emocion)}</div>`;
+}
 function pintarAprendizaje() {
-  $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
+  $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, con qué ánimo acierta y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
     <div class="tarjeta" style="margin-bottom:10px"><b>🎯 La sala:</b> ${esc(textoSalaAciertos())}</div>
+    ${D.emociones ? tarjetaComparar(D.emociones) : ''}
     ${D.tonta ? `<div class="tarjeta" style="margin-bottom:10px"><b>🤖 La estrategia tonta:</b> apostar siempre lo mismo al favorito de Pinnacle en todos los partidos. Lleva ${D.tonta.apuestas} apuestas, acierta el ${pct(D.tonta.aciertos, false, 0)} y su rendimiento${A('rendimiento')} es <b class="${clase(D.tonta.yield)}">${pct(D.tonta.yield, true)}</b>. Quien no la supere no aporta nada.</div>` : ''}
     <div class="tarjeta" style="margin-bottom:10px"><h3>📚 La biblioteca de la oficina</h3>${D.biblioteca?.length ? `<ul class="reglas">${D.biblioteca.map(e => `<li>${esc(e.texto)} <small>${esc(e.autor)}, ${esc(e.fecha)}</small></li>`).join('')}</ul><small style="color:var(--suave)">Lo mejor que ha aprendido la oficina. Inés la ordena cada domingo y todos la leen antes de apostar.</small>` : '<p class="vacio">Inés la empezará a ordenar el domingo con lo mejor de cada uno.</p>'}</div>
     <div class="rejilla dos">${activos().map(a => {
@@ -1501,6 +1533,7 @@ function pintarAprendizaje() {
         <h4 style="margin:10px 0 2px">Lo que dejó pasar</h4>${(() => { const d = a.descartes || {}, n = (d.ganadas || 0) + (d.perdidas || 0);
           return n ? `<p style="margin:0">Su mejor descarte de cada día habría ganado <b>${d.ganadas} de ${n}</b> (<span class="${clase(d.unidades)}">${d.unidades > 0 ? '+' : ''}${d.unidades.toFixed(2)} unidades</span>). ${d.unidades > 0 ? 'Quizá es demasiado prudente.' : 'Hace bien en descartarlos.'}</p>` : '<p class="vacio">Aún no se ha jugado ninguno de sus descartes.</p>'; })()}
         <h4 style="margin:10px 0 2px">Dónde gana y dónde pierde</h4>${tablaDesglose(a.desglose)}
+        <h4 style="margin:10px 0 2px">Con qué ánimo acierta${A('animo')}</h4>${tablaEmociones(a.animo?.por_emocion)}
         <h4 style="margin:10px 0 2px">Sus probabilidades${A('probabilidad')}</h4>${calibracion(a.calibracion)}</div>`;
     }).join('')}</div>`;
 }
@@ -1520,14 +1553,33 @@ function abrirComoFunciona() {
   $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
   actualizarEnlace();
 }
+/* ---------- Ánimo de los analistas ---------- */
+const EMOCIONES = { euforia: ['😄', 'Euforia'], confianza: ['😊', 'Confianza'], calma: ['😌', 'Calma'], alivio: ['😮‍💨', 'Alivio'],
+  orgullo: ['😎', 'Orgullo'], tension: ['😬', 'Tensión'], frustracion: ['😤', 'Frustración'], miedo: ['😨', 'Miedo'],
+  envidia: ['😒', 'Envidia'], aburrimiento: ['🥱', 'Aburrimiento'], arrepentimiento: ['😣', 'Arrepentimiento'],
+  impaciencia: ['😑', 'Impaciencia'], codicia: ['🤑', 'Codicia'], sorpresa: ['😲', 'Sorpresa'], revancha: ['😠', 'Revancha'] };
+const emo = e => EMOCIONES[e] ? `<span title="${EMOCIONES[e][1]}">${EMOCIONES[e][0]}</span>` : '';
+function tablaEmociones(pe) {
+  const filas = Object.entries(pe || {}).sort((x, y) => y[1].apuestas - x[1].apuestas).map(([e, r]) =>
+    `<tr><td>${emo(e)} ${esc(EMOCIONES[e]?.[1] || e)}</td><td class="n">${r.ganadas} de ${r.apuestas}</td><td class="n ${clase(r.ganancia)}">${(r.ganancia > 0 ? '+' : '') + Math.round(r.ganancia)} €</td><td class="n ${clase(r.yield)}">${pct(r.yield, true)}</td></tr>`);
+  return filas.length ? `<table class="tabla desglose"><tr><th>Ánimo al apostar</th><th class="n">Ganadas</th><th class="n">Ganancia</th><th class="n">Rendim.${A('rendimiento')}</th></tr>${filas.join('')}</table>`
+    : '<p class="vacio">Aún no hay apuestas liquidadas con su ánimo apuntado.</p>';
+}
+function tarjetaAnimo(a) {
+  const temp = Object.entries(a.temperamento || {}).map(([e, v]) => `<span class="chip ${v > 1 ? 'ojo' : ''}">${emo(e)} ${esc(EMOCIONES[e]?.[1] || e)} ×${String(v).replace('.', ',')}</span>`).join(' ');
+  return `<div class="tarjeta"><h3>Su ánimo${A('animo')}</h3>${a.animo.mezcla.filter(f => f.pct >= .05).map(f => `<div class="emocion"><div class="fila"><span>${f.cara} <b>${esc(f.nombre)}</b></span><span class="num">${Math.round(f.pct * 100)} %</span></div><div class="barra"><i style="width:${f.pct * 100}%"></i></div><small>${esc(f.motivo)}</small></div>`).join('')}
+    ${temp ? `<p style="margin:10px 0 0;font-size:12.5px"><span style="color:var(--suave)">Su temperamento:</span> ${temp}</p>` : ''}
+    <h4 style="margin:12px 0 2px">Con qué ánimo acierta</h4>${tablaEmociones(a.animo.por_emocion)}</div>`;
+}
 function abrirFicha(id) {
   if (id === 'ayuda') return abrirComoFunciona();
   if (id.startsWith('p:')) return abrirPartido(id.slice(2));
   const a = agentePor(id); if (!a) return;
   FICHA_ID = id;
   const t = a.total, s = a.situacion, real = a.real, informes = (a.informes || []).slice().reverse();
-  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div><div style="margin-top:4px">${animo(a).cara} ${esc(animo(a).texto)}</div></div><button class="atras" aria-label="Volver atrás">←</button><button class="cerrar" aria-label="Cerrar">✕</button></div>
+  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div><div style="margin-top:4px">${animo(a).cara} ${esc(a.animo?.mezcla?.[0]?.nombre || animo(a).texto)}</div></div><button class="atras" aria-label="Volver atrás">←</button><button class="cerrar" aria-label="Cerrar">✕</button></div>
     <div class="tarjeta"><p style="margin-top:0"><b>Carácter:</b> ${esc(a.personalidad)}</p><p><b>Cómo decide:</b> ${esc(a.como_decide)}</p><p style="margin-bottom:0"><b>Qué lee:</b> ${esc(a.que_lee)}</p></div>
+    ${a.animo && a.estado === 'activo' ? tarjetaAnimo(a) : ''}
     ${s ? `<div class="tarjeta"><h3>Su situación en el puesto</h3><p style="margin:0">Lleva <b>${s.liquidadas}</b> apuestas liquidadas en este periodo; le revisan al llegar a ${D.reglas.revision}. Sus botes valen <b>${eur(s.valor)}</b> (<span class="${clase(s.rentabilidad)}">${pct(s.rentabilidad, true)}</span> en el periodo) y bate la cuota de cierre en el <b>${pct(s.pct_cierre, false, 0)}</b> de ${s.con_cierre} apuestas.</p>
       <div class="barra"><i style="width:${Math.min(100, s.liquidadas / D.reglas.revision * 100)}%"></i></div></div>` : ''}
     <div class="tarjeta"><h3>Resultados</h3><div class="cifras" style="margin-top:0"><div>Ganancia<b class="${clase(t.ganancia)}">${eur(t.ganancia, true)}</b></div><div>Rendimiento${A('rendimiento')}<b class="${clase(t.yield)}">${pct(t.yield, true)}</b></div><div>Aciertos<b>${pct(t.aciertos, false, 0)}</b></div><div>Bate el cierre${A('cierre')}<b>${pct(t.pct_cierre, false, 0)}</b></div></div>
@@ -1539,8 +1591,9 @@ function abrirFicha(id) {
     ${a.carta ? `<div class="tarjeta"><h3>Su carta de despedida</h3><p class="carta">${esc(a.carta)}</p></div>` : ''}
     <div class="tarjeta"><h3>Sus decisiones</h3>${informes.map((d, i) => `<details class="plegable informe" ${i === 0 ? 'open' : ''} style="margin-top:8px"><summary>${cuando(d.hora)} · ${esc(d.resumen)}</summary>
       ${d.informe ? Object.entries({ jornada: 'La jornada', a_favor: 'A favor', en_contra: 'En contra', riesgos: 'Riesgos', situacion: 'Su puesto' }).filter(([k]) => d.informe[k]).map(([k, n]) => `<p><b>${n}:</b> ${esc(d.informe[k])}</p>`).join('') : ''}
+      ${d.animo ? `<p><b>Su ánimo:</b> ${emo(d.emocion)} ${esc(d.animo)}</p>` : ''}
       ${d.descarte ? `<p><b>Lo que dejó pasar:</b> ${esc(d.descarte)}</p>` : ''}${d.rechazos?.length ? `<p style="color:var(--suave);font-size:12.5px">Rechazadas por el control de riesgo: ${esc(d.rechazos.join('; '))}</p>` : ''}</details>`).join('') || '<p class="vacio">Aún no ha decidido nada.</p>'}</div>
-    <div class="tarjeta"><h3>Sus reflexiones de los domingos</h3>${(a.reflexiones || []).slice().reverse().map(r => `<p><b>${esc(r.fecha)}:</b> ${esc(r.texto)}${r.regla ? `<br><i>Regla para la semana: ${esc(r.regla)}</i>` : ''}</p>`).join('') || '<p class="vacio">La primera llegará el domingo.</p>'}</div>
+    <div class="tarjeta"><h3>Sus reflexiones de los domingos</h3>${(a.reflexiones || []).slice().reverse().map(r => `<p><b>${esc(r.fecha)}:</b> ${esc(r.texto)}${(r.reglas || (r.regla ? [r.regla] : [])).length ? `<br><i>Reglas para la semana: ${(r.reglas || [r.regla]).map(esc).join(' · ')}</i>` : ''}</p>`).join('') || '<p class="vacio">La primera llegará el domingo.</p>'}</div>
     <div class="tarjeta"><h3>Sus boletos</h3><div class="boletos">${D.apuestas.filter(b => b.agente === a.id).slice(0, 20).map(boleto).join('') || '<p class="vacio">Sin boletos todavía.</p>'}</div></div>`;
   $('#ficha').insertAdjacentHTML('afterbegin', '<button class="estirar" data-estirar="ficha" aria-label="Estirar o encoger la ficha"></button>');
   $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;

@@ -235,7 +235,8 @@ Responde SOLO con un JSON con esta forma:
   }},
   "apuestas": [{{"seleccion": "P03b", "confianza": 2, "probabilidad": 0.55, "motivo": "Por qué, con los datos."}}],
   "descarte": "La mejor apuesta que has dejado pasar y por qué, en una frase (vacío si ninguna).",
-  "descarte_seleccion": "El código de esa apuesta (por ejemplo P05a), o vacío."
+  "descarte_seleccion": "El código de esa apuesta (por ejemplo P05a), o vacío.",
+  "animo": "Cómo te sientes hoy y cómo evitas que te influya, en una frase (si te dan tu ánimo)."
 }}
 "probabilidad" es la que TÚ crees que tiene de salir (de 0 a 1). Si no apuestas, devuelve "apuestas": [].
 El informe completo debe tener unas 200-300 palabras."""
@@ -251,7 +252,8 @@ def esquema_analista(codigos: list[str]) -> dict:
         "apuestas": {"type": "ARRAY", "maxItems": 10, "items": {"type": "OBJECT", "properties": {
             "seleccion": seleccion, "confianza": {"type": "INTEGER"},
             "probabilidad": {"type": "NUMBER"}, "motivo": texto}, "required": ["seleccion", "confianza", "motivo"]}},
-        "descarte": texto, "descarte_seleccion": {"type": "STRING", **({"enum": sorted(codigos) + [""]} if codigos else {})}},
+        "descarte": texto, "descarte_seleccion": {"type": "STRING", **({"enum": sorted(codigos) + [""]} if codigos else {})},
+        "animo": texto},
         "required": ["resumen", "informe", "apuestas"]}
 
 
@@ -341,6 +343,7 @@ def cartas_oficina(estado: dict, maximo: int = 2) -> str:
 
 def mensaje_analista(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, cartelera_txt: str,
                      extra: str, sala_txt: str, momento: datetime) -> str:
+    from agentes import emociones  # emociones ya importa este módulo
     m = boletos.margen(agente, apuestas, bote_id)
     return f"""Ahora: {momento.astimezone(comun.MADRID):%A %d/%m/%Y %H:%M} (hora de España). Decides para el {config.BOTES[bote_id]['nombre']} (mercados: {', '.join(config.NOMBRES_MERCADO[x] for x in config.BOTES[bote_id]['mercados'])}).
 
@@ -357,6 +360,8 @@ CLASIFICACIÓN DE LA OFICINA
 
 {aprendizaje.texto_biblioteca(estado)}
 {cartas_oficina(estado)}
+
+{emociones.para_decidir(agente, apuestas)}
 
 CARTELERA (próximas 24 horas: código, apuesta, cuota de la casa y cuota de Pinnacle)
 {cartelera_txt}
@@ -385,6 +390,7 @@ def texto_especialistas(informes: list[tuple[dict, dict, list[dict]]], apuestas:
 INSTRUCCIONES_LECCION = """Eres {nombre}, {titulo} de una oficina de apuestas de tenis (dinero ficticio). Es de noche y repasas
 las apuestas tuyas que se han resuelto hoy. Escribe UNA lección concreta y útil para mañana, en primera persona, citando
 el dato que la apoya (cuota, cierre de Pinnacle, resultado). Si todo salió como esperabas, di qué hay que mantener.
+Si tu ánimo al apostar influyó (por ejemplo, apostaste con revancha o con euforia), dilo.
 Responde SOLO con un JSON: {{"leccion": "1-2 frases."}}"""
 
 
@@ -392,6 +398,7 @@ def mensaje_leccion(agente: dict, hoy: list[dict]) -> str:
     lista = "\n".join(f"- {a['descripcion']} @ {a['cuota']:.2f} (Pinnacle al apostar {a.get('pinnacle_apuesta') or '-'}, "
                       f"cierre {a.get('pinnacle_cierre') or '-'}; tu probabilidad {_pct(a.get('probabilidad'))}): "
                       f"{a['estado']}, {a['ganancia']:+.2f} €. {a.get('resultado') or ''}. Tu motivo: {a.get('motivo', '')[:160]}"
+                      + (f" Tu ánimo al apostar: {a['emocion']}." if a.get("emocion") else "")
                       for a in hoy)
     return f"""Tu método: {agente['como_decide']}
 Tus reglas:
@@ -428,7 +435,8 @@ escribes tu reflexión de la semana en primera persona, con honestidad: qué hic
 aprendido de la cuota de cierre (si tus cuotas eran mejores o peores que las de Pinnacle) y qué vas a cambiar.
 Revisa tus reglas actuales con los datos: si las cumpliste y si te ayudaron. Después decide tus reglas para la
 semana que viene (como mucho 3, concretas y comprobables, por ejemplo «nada de totales en tierra»): repite
-igual las que mantienes, quita las que no te ayudan y añade las nuevas.
+igual las que mantienes, quita las que no te ayudan y añade las nuevas. Mira también con qué ánimo te salen
+peor las apuestas: si una emoción te hace fallar (la revancha, la euforia...), puedes ponerte una regla sobre ella.
 Responde SOLO con un JSON: {{"reflexion": "5-8 frases.", "reglas": ["regla 1", "regla 2"]}}"""
 
 INSTRUCCIONES_CARTA = """Eres {nombre}, {titulo} de una oficina de apuestas de tenis (dinero ficticio), y te acaban de
@@ -439,10 +447,15 @@ Responde SOLO con un JSON: {{"carta": "6-10 frases."}}"""
 INSTRUCCIONES_SUSTITUTO = """Una oficina de apuestas de tenis (dinero ficticio) acaba de despedir a su {titulo}. Inventa a
 quien le sustituye: mantiene el mismo método de trabajo, pero es otra persona con otro carácter. Usa un nombre de
 pila español corto que no sea ninguno de estos: {usados}.
-Responde SOLO con un JSON: {{"nombre": "...", "personalidad": "Una o dos frases sobre su carácter."}}"""
+Ponle también un temperamento coherente con su carácter: cuánto le afecta cada emoción (entre 0.5, la siente poco,
+y 2, la siente el doble; las que no pongas, normal). Emociones: euforia, confianza, calma, alivio, orgullo, tension,
+frustracion, miedo, envidia, aburrimiento, arrepentimiento, impaciencia, codicia, sorpresa, revancha.
+Responde SOLO con un JSON: {{"nombre": "...", "personalidad": "Una o dos frases sobre su carácter.",
+"temperamento": {{"revancha": 1.5, "calma": 0.7}}}}"""
 
 
 def mensaje_vida(agente: dict, apuestas: list[dict], desde: str = "") -> str:
+    from agentes import emociones  # emociones ya importa este módulo
     suyas = [a for a in apuestas if a["agente"] == agente["id"] and a["estado"] != "pendiente" and a["hora"] >= desde]
     r = boletos.resumen(suyas)
     lista = "\n".join(f"- {a['fecha']} {a['torneo']}: {a['descripcion']} @ {a['cuota']:.2f} (cierre {a['pinnacle_cierre'] or '-'}): "
@@ -456,6 +469,7 @@ Dónde ganas y dónde pierdes (desde siempre):
 {aprendizaje.texto_desglose(todas)}
 Tus probabilidades frente a lo que salió:
 {aprendizaje.texto_calibracion(todas)}
+{emociones.texto_notas(todas) or "(aún no hay apuestas liquidadas con tu ánimo apuntado)"}
 Tus apuestas:
 {lista}
 Tus decisiones recientes:

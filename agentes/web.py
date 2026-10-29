@@ -2,11 +2,11 @@
 
 from __future__ import annotations
 
-from agentes import aprendizaje, boletos, comun, config, oficina, prompts
+from agentes import aprendizaje, boletos, comun, config, emociones, oficina, prompts
 
 CAMPOS_AGENTE = ("id", "rol", "nombre", "titulo", "color", "personalidad", "como_decide", "que_lee", "estado", "alta",
                  "despedido", "carta", "carta_recibida", "sustituye_a", "sustituto", "reflexiones", "revisiones", "listo_real",
-                 "reglas", "reglas_retiradas", "lecciones", "descartes")
+                 "reglas", "reglas_retiradas", "lecciones", "descartes", "temperamento")
 
 
 def _agente(a: dict, apuestas: list[dict]) -> dict:
@@ -24,7 +24,19 @@ def _agente(a: dict, apuestas: list[dict]) -> dict:
             "situacion": prompts.situacion(a, apuestas) if a["estado"] == "activo" else None,
             "real": oficina.progreso_real(a, apuestas) if a["estado"] == "activo" else None,
             "informes": a.get("informes", [])[-12:],
-            "desglose": aprendizaje.desglose(suyas), "calibracion": aprendizaje.calibracion(suyas)}
+            "desglose": aprendizaje.desglose(suyas), "calibracion": aprendizaje.calibracion(suyas),
+            "animo": {"mezcla": emociones.mezcla(a), "por_emocion": emociones.por_emocion(suyas)} if a.get("animo") else None}
+
+
+def comparar_emociones(estado: dict, apuestas: list[dict]) -> dict | None:
+    """Cómo les iba antes de tener emociones y cómo les va desde entonces, para saber si les ayudan."""
+    desde = estado.get("emociones_desde")
+    if not desde:
+        return None
+    return {"desde": desde, "en_decision": config.EMOCIONES_EN_DECISION,
+            "antes": boletos.resumen([a for a in apuestas if a["hora"] < desde]),
+            "despues": boletos.resumen([a for a in apuestas if a["hora"] >= desde]),
+            "por_emocion": emociones.por_emocion(apuestas)}
 
 
 def generar(estado: dict, apuestas: list[dict]) -> dict:
@@ -55,6 +67,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "tonta": aprendizaje.resumen_tonta(estado),
         "partidos_info": estado.get("partidos_info", {}),
         "sala_aciertos": {k: v for k, v in estado.get("sala_aciertos", {}).items() if k != "vistos"},
+        "emociones": comparar_emociones(estado, apuestas),
     }
     # Si no ha cambiado nada más que la hora, no se reescribe (así no hay un cambio nuevo cada hora)
     previo = comun.leer(config.WEB_DIR / "datos.json", {})
