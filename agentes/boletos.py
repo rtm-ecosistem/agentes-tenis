@@ -73,6 +73,12 @@ def validar(agente: dict, apuestas: list[dict], bote_id: str, propuestas: list[d
             if stake < max(config.MIN_STAKE_EUR, config.STAKE_POR_CONFIANZA[1] * m["valor"] * 0.5):
                 rechazos.append(f"{cuotas.descripcion(o)}: ya tiene el {config.MAX_PENDIENTE:.0%} del bote en juego")
                 continue
+        try:
+            prob = float(prop.get("probabilidad"))
+            prob = prob / 100 if 1 < prob <= 100 else prob
+            prob = round(prob, 3) if 0 < prob < 1 else None
+        except (TypeError, ValueError):
+            prob = None
         libre -= stake
         partidos_usados.add((p["id"], o["mercado"]))
         nuevos.append({
@@ -81,7 +87,7 @@ def validar(agente: dict, apuestas: list[dict], bote_id: str, propuestas: list[d
             "partido": p["id"], "deporte": p["deporte"], "torneo": p["torneo"], "superficie": p["superficie"],
             "jugadores": p["jugadores"], "inicio": p["inicio"], "mercado": o["mercado"], "seleccion": o["nombre"],
             "punto": o["punto"], "descripcion": cuotas.descripcion(o), "cuota": o["cuota"], "casa": p.get("casa"),
-            "pinnacle_apuesta": o.get("pinnacle"), "pinnacle_cierre": None, "confianza": confianza, "stake": stake,
+            "pinnacle_apuesta": o.get("pinnacle"), "pinnacle_cierre": None, "confianza": confianza, "probabilidad": prob, "stake": stake,
             "motivo": str(prop.get("motivo", "")).strip()[:600], "estado": "pendiente", "ganancia": None,
             "resultado": None, "temporada": None,
         })

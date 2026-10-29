@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import datetime
 
-from agentes import boletos, comun, config, cuotas, elo as elo_mod, noticias
+from agentes import aprendizaje, boletos, comun, config, cuotas, elo as elo_mod, noticias
 
 REGLAS = f"""Reglas fijas (el control de riesgo las aplica digas lo que digas):
 - Apuestas con dinero ficticio a partidos de tenis del circuito principal, siempre antes de que empiecen. Nada de directo ni de combinadas.
@@ -125,7 +125,8 @@ Responde SOLO con un JSON:
 Incluid entre 0 y 8 partidos destacados (los códigos de la cartelera)."""
 
 
-def mensaje_sala(momento: datetime, cartelera_txt: str, estadisticos: str, noticias_txt: str, anterior: dict | None) -> str:
+def mensaje_sala(momento: datetime, cartelera_txt: str, estadisticos: str, noticias_txt: str, anterior: dict | None,
+                 historial: str = "") -> str:
     previo = f"Vuestra conclusión anterior ({anterior['hora'][:16]}): {anterior['conclusion']}" if anterior else ""
     return f"""Ahora: {momento.astimezone(comun.MADRID):%A %d/%m/%Y %H:%M} (hora de España)
 
@@ -138,7 +139,9 @@ DATOS (Elo por superficie, mercado, cara a cara y forma)
 NOTICIAS
 {noticias_txt}
 
-{previo}"""
+{previo}
+
+{historial}"""
 
 
 ESQUEMA_SALA = {"type": "OBJECT", "properties": {
@@ -176,6 +179,11 @@ CÓMO DECIDES (es tu método; síguelo con disciplina): {como_decide}
 QUÉ LEES: {que_lee}
 
 {reglas}
+
+Tienes TUS REGLAS (te las pusiste tú en tus reflexiones): antes de proponer cada apuesta, comprueba que las
+cumple; si te saltas una, di por qué en el motivo. Mira también DÓNDE GANAS Y DÓNDE PIERDES y si aciertan TUS
+PROBABILIDADES: si en un mercado o tramo de cuota pierdes y no bates el cierre, apuesta menos ahí; si tus
+probabilidades salen menos de lo que dices, sé más prudente con ellas.
 
 Antes de decidir, debate contigo mismo: el mejor argumento a favor y el mejor en contra de cada apuesta. Tu
 informe lo leerá una persona que está aprendiendo: escribe en español claro, explica los términos y cita los
@@ -258,6 +266,7 @@ def memoria(agente: dict, apuestas: list[dict]) -> str:
     pend_txt = "\n".join(f"- {a['descripcion']} @ {a['cuota']:.2f}, {a['stake']:.2f} € ({hora_madrid(a['inicio'])})" for a in pend) or "- (ninguna)"
     decisiones = "\n".join(f"- {d['fecha']}: {d['resumen']}" for d in agente.get("informes", [])[-5:]) or "- (ninguna)"
     reflexiones = "\n".join(f"- {r['fecha']}: {r['texto']}" for r in agente.get("reflexiones", [])[-2:])
+    todas = [a for a in apuestas if a["agente"] == agente["id"]]
     carta = f"\nCARTA DE TU PREDECESOR (léela: es lo que aprendió antes de que le despidieran):\n{agente['carta_recibida']}" if agente.get("carta_recibida") else ""
     return f"""TUS ÚLTIMAS DECISIONES
 {decisiones}
@@ -267,6 +276,15 @@ TUS ÚLTIMAS APUESTAS LIQUIDADAS
 
 TUS APUESTAS PENDIENTES
 {pend_txt}
+
+TUS REGLAS
+{aprendizaje.texto_reglas(agente)}
+
+DÓNDE GANAS Y DÓNDE PIERDES (todas tus apuestas liquidadas)
+{aprendizaje.texto_desglose(todas)}
+
+TUS PROBABILIDADES (lo que dijiste frente a lo que salió)
+{aprendizaje.texto_calibracion(todas)}
 """ + (f"\nTUS ÚLTIMAS REFLEXIONES\n{reflexiones}\n" if reflexiones else "") + carta
 
 
@@ -303,15 +321,18 @@ CARTELERA (próximas 24 horas: código, apuesta, cuota de la casa y cuota de Pin
 {sala_txt}"""
 
 
-def texto_especialistas(informes: list[tuple[dict, dict, list[dict]]]) -> str:
-    """Lo que han decidido hoy los tres especialistas, para la Manager."""
+def texto_especialistas(informes: list[tuple[dict, dict, list[dict]]], apuestas: list[dict] | None = None) -> str:
+    """Lo que han decidido hoy los tres especialistas, para la Manager, con dónde acierta cada uno."""
     bloques = []
     for agente, r, propuestas in informes:
         inf = r.get("informe") or {}
         lista = "\n".join(f"   - {p.get('seleccion')}: confianza {p.get('confianza')}, prob. {p.get('probabilidad', '-')}: "
                           f"{p.get('motivo', '')}" for p in propuestas) or "   - (no apuesta)"
         bloques.append(f"{agente['nombre']} ({agente['titulo']}): {r.get('resumen', '')}\n   Jornada: {inf.get('jornada', '')}\n"
-                       f"   En contra: {inf.get('en_contra', '')}\n   Sus apuestas:\n{lista}")
+                       f"   En contra: {inf.get('en_contra', '')}\n   Sus apuestas:\n{lista}" +
+                       (f"\n   Su historial (para saber cuánto fiarte según el mercado, la superficie y la cuota):\n   " +
+                        aprendizaje.texto_desglose([a for a in apuestas if a["agente"] == agente["id"]]).replace("\n", "\n   ")
+                        if apuestas is not None else ""))
     return "LO QUE PROPONEN HOY LOS TRES ESPECIALISTAS\n" + ("\n\n".join(bloques) or "(nadie ha podido decidir hoy)")
 
 
@@ -319,7 +340,10 @@ def texto_especialistas(informes: list[tuple[dict, dict, list[dict]]]) -> str:
 INSTRUCCIONES_REFLEXION = """Eres {nombre}, {titulo} de una oficina de apuestas de tenis (dinero ficticio). Es domingo y
 escribes tu reflexión de la semana en primera persona, con honestidad: qué hiciste bien, qué mal, qué has
 aprendido de la cuota de cierre (si tus cuotas eran mejores o peores que las de Pinnacle) y qué vas a cambiar.
-Responde SOLO con un JSON: {{"reflexion": "5-8 frases.", "regla": "Una regla concreta que te pones para la semana que viene."}}"""
+Revisa tus reglas actuales con los datos: si las cumpliste y si te ayudaron. Después decide tus reglas para la
+semana que viene (como mucho 3, concretas y comprobables, por ejemplo «nada de totales en tierra»): repite
+igual las que mantienes, quita las que no te ayudan y añade las nuevas.
+Responde SOLO con un JSON: {{"reflexion": "5-8 frases.", "reglas": ["regla 1", "regla 2"]}}"""
 
 INSTRUCCIONES_CARTA = """Eres {nombre}, {titulo} de una oficina de apuestas de tenis (dinero ficticio), y te acaban de
 despedir. Escribe una carta a tu sustituto, en primera persona: qué hiciste, por qué crees que fallaste, qué
@@ -337,8 +361,15 @@ def mensaje_vida(agente: dict, apuestas: list[dict], desde: str = "") -> str:
     r = boletos.resumen(suyas)
     lista = "\n".join(f"- {a['fecha']} {a['torneo']}: {a['descripcion']} @ {a['cuota']:.2f} (cierre {a['pinnacle_cierre'] or '-'}): "
                       f"{a['estado']} {a['ganancia']:+.2f} €. Motivo: {a['motivo'][:160]}" for a in suyas[-25:]) or "- (ninguna)"
+    todas = [a for a in apuestas if a["agente"] == agente["id"]]
     return f"""Tu método: {agente['como_decide']}
 Resultados: {r['apuestas']} apuestas, {r['ganancia']:+.2f} €, yield {r['yield']:+.1%}, aciertos {r['aciertos']:.0%}, batiste el cierre en {_pct(r['pct_cierre'])}.
+Tus reglas actuales:
+{aprendizaje.texto_reglas(agente)}
+Dónde ganas y dónde pierdes (desde siempre):
+{aprendizaje.texto_desglose(todas)}
+Tus probabilidades frente a lo que salió:
+{aprendizaje.texto_calibracion(todas)}
 Tus apuestas:
 {lista}
 Tus decisiones recientes:

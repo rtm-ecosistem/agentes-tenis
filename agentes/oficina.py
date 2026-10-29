@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 from datetime import datetime, timedelta
 
-from agentes import boletos, comun, config, prompts
+from agentes import aprendizaje, boletos, comun, config, prompts
 
 MAX_INFORMES = 40
 MAX_REFLEXIONES = 20
@@ -156,5 +156,11 @@ def reflexiones(estado: dict, apuestas: list[dict], ia, momento: datetime) -> No
         except Exception as e:  # noqa: BLE001
             print(f"{agente['nombre']} no pudo escribir su reflexión: {e}")
             continue
+        reglas = r.get("reglas")
+        if not isinstance(reglas, list):  # respuesta antigua con una sola regla: se suma a las que tenía
+            reglas = [x["texto"] for x in agente.get("reglas", [])] + [r.get("regla")]
+            reglas = reglas[-aprendizaje.MAX_REGLAS:]
+        aprendizaje.poner_reglas(agente, reglas, hoy)
         agente["reflexiones"] = (agente.get("reflexiones", []) + [{
-            "fecha": hoy, "texto": str(r.get("reflexion", "")).strip(), "regla": str(r.get("regla", "")).strip()}])[-MAX_REFLEXIONES:]
+            "fecha": hoy, "texto": str(r.get("reflexion", "")).strip(),
+            "reglas": [x["texto"] for x in agente.get("reglas", [])]}])[-MAX_REFLEXIONES:]
