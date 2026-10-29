@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T20:10+00:00",
+ "actualizado": "2026-10-29T21:12+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -89,10 +89,10 @@
    "reglas_retiradas": null,
    "lecciones": null,
    "descartes": {
-    "ganadas": 0,
+    "ganadas": 1,
     "perdidas": 0,
     "nulas": 0,
-    "unidades": 0.0
+    "unidades": 2.6
    },
    "temperamento": {
     "euforia": 0.5,
@@ -100,52 +100,57 @@
     "revancha": 0.5
    },
    "total": {
-    "apuestas": 0,
-    "pendientes": 2,
+    "apuestas": 1,
+    "pendientes": 1,
     "apostado": 0,
     "ganancia": 0,
     "yield": 0.0,
     "aciertos": 0.0,
-    "con_cierre": 0,
+    "con_cierre": 1,
     "baten_cierre": 0,
-    "pct_cierre": null
+    "pct_cierre": 0.0
    },
    "botes": {
     "1": {
-     "apuestas": 0,
-     "pendientes": 2,
+     "apuestas": 1,
+     "pendientes": 1,
      "apostado": 0,
      "ganancia": 0,
      "yield": 0.0,
      "aciertos": 0.0,
-     "con_cierre": 0,
+     "con_cierre": 1,
      "baten_cierre": 0,
-     "pct_cierre": null,
+     "pct_cierre": 0.0,
      "valor": 1000.0,
-     "saldo": 970.0,
+     "saldo": 980.0,
      "inicial": 1000.0
     }
    },
-   "serie": [],
+   "serie": [
+    [
+     "2026-10-29",
+     1000.0
+    ]
+   ],
    "situacion": {
-    "liquidadas": 0,
-    "faltan": 100,
+    "liquidadas": 1,
+    "faltan": 99,
     "valor": 1000.0,
     "valor_inicio": 1000.0,
     "rentabilidad": 0.0,
-    "pct_cierre": null,
-    "con_cierre": 0
+    "pct_cierre": 0.0,
+    "con_cierre": 1
    },
    "real": {
-    "apuestas": 0,
-    "pendientes": 2,
+    "apuestas": 1,
+    "pendientes": 1,
     "apostado": 0,
     "ganancia": 0,
     "yield": 0.0,
     "aciertos": 0.0,
-    "con_cierre": 0,
+    "con_cierre": 1,
     "baten_cierre": 0,
-    "pct_cierre": null,
+    "pct_cierre": 0.0,
     "objetivo": 500,
     "listo": false
    },
@@ -225,26 +230,70 @@
       "seleccion": "Jan-Lennard Struff",
       "punto": null,
       "cuota": 3.6,
-      "descripcion": "Jan-Lennard Struff gana el partido"
+      "descripcion": "Jan-Lennard Struff gana el partido",
+      "puntos": 1.0
      },
      "apuestas": [],
      "rechazos": []
     }
    ],
    "desglose": {
-    "mercado": {},
-    "superficie": {},
-    "cuota": {}
+    "mercado": {
+     "ganador": {
+      "apuestas": 1,
+      "pendientes": 0,
+      "apostado": 0,
+      "ganancia": 0,
+      "yield": 0.0,
+      "aciertos": 0.0,
+      "con_cierre": 1,
+      "baten_cierre": 0,
+      "pct_cierre": 0.0
+     }
+    },
+    "superficie": {
+     "pista dura": {
+      "apuestas": 1,
+      "pendientes": 0,
+      "apostado": 0,
+      "ganancia": 0,
+      "yield": 0.0,
+      "aciertos": 0.0,
+      "con_cierre": 1,
+      "baten_cierre": 0,
+      "pct_cierre": 0.0
+     }
+    },
+    "cuota": {
+     "cuotas medias (1.60-2.19)": {
+      "apuestas": 1,
+      "pendientes": 0,
+      "apostado": 0,
+      "ganancia": 0,
+      "yield": 0.0,
+      "aciertos": 0.0,
+      "con_cierre": 1,
+      "baten_cierre": 0,
+      "pct_cierre": 0.0
+     }
+    }
    },
    "calibracion": [],
    "animo": {
     "mezcla": [
      {
-      "emocion": "calma",
-      "cara": "😌",
-      "nombre": "Calma",
-      "pct": 1.0,
-      "motivo": "No hay nada que le preocupe ni le emocione."
+      "emocion": "envidia",
+      "cara": "😒",
+      "nombre": "Envidia",
+      "pct": 0.538,
+      "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
+     },
+     {
+      "emocion": "tension",
+      "cara": "😬",
+      "nombre": "Tensión",
+      "pct": 0.462,
+      "motivo": "Va un poco por debajo de lo que empezó (+0,0 %)."
      }
     ],
     "por_emocion": {}
@@ -275,7 +324,7 @@
    "descartes": {
     "ganadas": 0,
     "perdidas": 0,
-    "nulas": 0,
+    "nulas": 1,
     "unidades": 0.0
    },
    "temperamento": {
@@ -399,7 +448,8 @@
       "seleccion": "Flavio Cobolli",
       "punto": null,
       "cuota": 1.91,
-      "descripcion": "Flavio Cobolli gana el partido"
+      "descripcion": "Flavio Cobolli gana el partido",
+      "puntos": 0.0
      },
      "apuestas": [],
      "rechazos": []
@@ -617,9 +667,9 @@
    "lecciones": null,
    "descartes": {
     "ganadas": 0,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 0,
-    "unidades": 0.0
+    "unidades": -1.0
    },
    "temperamento": {
     "miedo": 1.4,
@@ -749,7 +799,8 @@
       "seleccion": "Novak Djokovic",
       "punto": null,
       "cuota": 1.29,
-      "descripcion": "Novak Djokovic gana el partido"
+      "descripcion": "Novak Djokovic gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": []
@@ -907,14 +958,52 @@
    "confianza": 1,
    "stake": 10.0,
    "motivo": "Flavio Cobolli registra un Elo en superficie del 62% y un total de 1781 frente a 1687 de Matteo Berrettini, estimando nuestra probabilidad en un 63% frente a la cuota de 1.91 del mercado.",
-   "estado": "pendiente",
-   "ganancia": null,
-   "resultado": null,
+   "estado": "nula",
+   "ganancia": 0.0,
+   "resultado": "Matteo Berrettini – Flavio Cobolli: no se completó (status_retired retired retired retired) · apuesta anulada",
    "temporada": "prueba",
-   "hora_cierre": "2026-10-29T18:10+00:00"
+   "hora_cierre": "2026-10-29T18:10+00:00",
+   "liquidada": "2026-10-29T21:10+00:00"
   }
  ],
  "sala": [
+  {
+   "hora": "2026-10-29T21:10+00:00",
+   "datos": "En el partido P01, Diana Shnaider posee un Elo en pista dura del 68% frente al 32% de Alexandra Eala, aunque el mercado otorga un 42% a Eala. En el duelo P02, Kamilla Rakhimova registra un Elo del 42% en esta superficie frente al 58% implícito de Maya Joint, con cuotas muy parejas. El cara a cara en ambos enfrentamientos está sin estrenar o con una sola victoria previa para las favoritas. Ambas jugadoras en el segundo encuentro acumulan desgaste tras superar duros partidos a tres sets en los últimos tres días.",
+   "noticias": "En el torneo WTA de Tokio, Alexandra Eala llega tras disputar 39 juegos en dos días, mientras que su rival Diana Shnaider viene de un partido largo de tres sets ante Sasnovich. Por su parte, Kamilla Rakhimova y Maya Joint también han tenido que emplearse a fondo con encuentros exigentes de tres sets en las rondas anteriores. Fuera de estos encuentros, destaca la retirada por lesión de Flavio Cobolli en el ATP de Viena y la confirmación de Alexander Zverev como próximo número uno mundial.",
+   "ambiente": "La prensa destaca la emoción por llegar a los cuartos de final del torneo WTA 500 de Tokio con duelos muy abiertos. Las redes sociales muestran apoyo a la juventud de Maya Joint, mientras que la presión recae en las favoritas por ranking para asegurar sus puestos en las rondas finales.",
+   "favorito": "Diana Shnaider y Maya Joint muestran superioridad en el Elo de superficie dura y mayor regularidad en los tramos finales de sus últimos encuentros. Apoyar a las favoritas se sustenta en su superioridad estadística y mejor ranking general de 1910 y 1740 frente a sus rivales de hoy. Su menor desgaste relativo en pista puede inclinar la balanza a su favor en los momentos decisivos del tercer set.",
+   "contra": "",
+   "conclusion": "El análisis combinado de las estadísticas en pista dura y el cansancio acumulado por los partidos de tres sets obliga a vigilar la frescura física de las tenistas. Hay que extremar la cautela debido a la paridad en las cuotas y al historial reciente de sorpresas en el circuito femenino.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexandra Eala vs Diana Shnaider)",
+     "id": "d52af5cb645ef831c4dbab0bbaf48dac",
+     "jugadores": [
+      "Alexandra Eala",
+      "Diana Shnaider"
+     ],
+     "inicio": "2026-10-30T04:00+00:00",
+     "favorito": "Diana Shnaider",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Kamilla Rakhimova vs Maya Joint)",
+     "id": "cc0834cac355e3a96bf64a85ce003e51",
+     "jugadores": [
+      "Kamilla Rakhimova",
+      "Maya Joint"
+     ],
+     "inicio": "2026-10-30T04:00+00:00",
+     "favorito": "Maya Joint",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
   {
    "hora": "2026-10-29T18:10+00:00",
    "datos": "Los modelos de Elo en superficie dura sitúan a Flavio Cobolli con un 62% de opciones frente a Matteo Berrettini, mientras que el mercado ofrece cuotas muy igualadas de 1.91. En el torneo WTA de Tokio, Diana Shnaider posee un Elo superior de 1910 frente a los 1815 de Alexandra Eala, reflejado en su favoritismo a cuota 1.67. Por su parte, Maya Joint llega con mejor forma reciente y un Elo de 1740 para medirse a Kamilla Rakhimova en cuartos de final.",
@@ -957,7 +1046,8 @@
      "inicio": "2026-10-29T17:00+00:00",
      "favorito": "Novak Djokovic",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": false
     },
     {
      "partido": "P03 (Flavio Cobolli vs Matteo Berrettini)",
@@ -1005,7 +1095,8 @@
      "inicio": "2026-10-29T17:00+00:00",
      "favorito": "Novak Djokovic",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Flavio Cobolli vs Matteo Berrettini)",
@@ -1185,6 +1276,21 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-29T21:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T21:10+00:00",
+   "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T21:10+00:00",
+   "texto": "🏁 1 apuestas liquidadas.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-29T19:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -1268,20 +1374,56 @@
  "ultima_decision": "2026-10-29",
  "oficina": {
   "total": {
-   "apuestas": 0,
-   "pendientes": 2,
+   "apuestas": 1,
+   "pendientes": 1,
    "apostado": 0,
    "ganancia": 0,
    "yield": 0.0,
    "aciertos": 0.0,
-   "con_cierre": 0,
+   "con_cierre": 1,
    "baten_cierre": 0,
-   "pct_cierre": null
+   "pct_cierre": 0.0
   },
   "desglose": {
-   "mercado": {},
-   "superficie": {},
-   "cuota": {}
+   "mercado": {
+    "ganador": {
+     "apuestas": 1,
+     "pendientes": 0,
+     "apostado": 0,
+     "ganancia": 0,
+     "yield": 0.0,
+     "aciertos": 0.0,
+     "con_cierre": 1,
+     "baten_cierre": 0,
+     "pct_cierre": 0.0
+    }
+   },
+   "superficie": {
+    "pista dura": {
+     "apuestas": 1,
+     "pendientes": 0,
+     "apostado": 0,
+     "ganancia": 0,
+     "yield": 0.0,
+     "aciertos": 0.0,
+     "con_cierre": 1,
+     "baten_cierre": 0,
+     "pct_cierre": 0.0
+    }
+   },
+   "cuota": {
+    "cuotas medias (1.60-2.19)": {
+     "apuestas": 1,
+     "pendientes": 0,
+     "apostado": 0,
+     "ganancia": 0,
+     "yield": 0.0,
+     "aciertos": 0.0,
+     "con_cierre": 1,
+     "baten_cierre": 0,
+     "pct_cierre": 0.0
+    }
+   }
   }
  },
  "biblioteca": [],
@@ -1824,7 +1966,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:10+00:00",
+   "actualizado": "2026-10-29T21:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -1912,7 +2054,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T19:10+00:00",
+   "actualizado": "2026-10-29T21:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
@@ -1942,16 +2084,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnpTYjNSaWVXbnNDTjZ5VmRZU2lVTEt6cXFBcG4yNzlZZEdibkhoT2pUS1RxSHlyUm4yYUliRlBvcUlmX1hOTWVTeUlGY1psanBFUmoxLU11SGZ1T2hTNUp6cUJPejluN2cwMXozYVFSNUw2d3hKWi1mQjlRNWF0UFVwcGNpNDEtZ3BJeXc5STl2bFhrX3pwTGMyazEycW56NmRPTW10Z3ozZw?oc=5"
       },
       {
+       "titulo": "Apuestas Kamilla Rakhimova Maya Joint 29 de octubre de 2026 (Cuotas WTA Osaka) - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDN4VGE5NE1mX210N21yRk1zQ1lqTU81SU9RRnlrdS1JZlZ1eDJLM2ZYMGUwTkRmUjJhWjgyWUo4X3VVNzFEcWVibG9KMkppZVVKM0p2YjdKRG85MEdELVRwM0tGc0R5M2owMnU2dXoxOExZWUVpOTY1X2tmb2wxWlBiNzk?oc=5"
+      },
+      {
        "titulo": "Pronóstico Kamilla Rakhimova vs Maya Joint - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1htczNKc3RMLU5KMU1MR3hhbEMzRXpHeFdUQ1l6dEUyZDNyckppWDlqVEpfc0lUUjh1djIxVHVfc3VQdHVDNWhoUjZ6TkxKOERjRzBPV0dDN3Fjd0wzWGw5aEhlTWtKRnRkWTQ5dlNoTkhPN29YYU9rVTVjTjVWTnpnanR6YmRjYkE?oc=5"
-      },
-      {
-       "titulo": "Ellas son las clasificadas a cuartos de final WTA 500 de Tokio - El Horizonte",
-       "fuente": "El Horizonte",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX252QUJXWXRhWEFQS0kzVXpqTTQ1VXYxTERJVC04NmFvMG5XYkNYUkUwVFN3MElHcU5EVUxqVmdQblFTdjNDMjBwbktjS29RM2NMc0syR1JQY29WS3FIcXhzb0oyQk1DZGRFWHBBWmczMHNTV04yLWZ1S0NzYTlnOHlhTzlrWGQ0aUxFWXJrelp3a1NOQ1JIY21ZZXBWcmVqM1VmN1V4ekw2cWstbGc?oc=5"
       }
      ]
     },
@@ -1995,7 +2137,7 @@
  "sala_aciertos": {
   "favorito": [
    1,
-   1
+   2
   ],
   "sorpresa": [
    0,
@@ -2017,15 +2159,15 @@
    "pct_cierre": null
   },
   "manana": {
-   "apuestas": 0,
-   "pendientes": 2,
+   "apuestas": 1,
+   "pendientes": 1,
    "apostado": 0,
    "ganancia": 0,
    "yield": 0.0,
    "aciertos": 0.0,
-   "con_cierre": 0,
+   "con_cierre": 1,
    "baten_cierre": 0,
-   "pct_cierre": null
+   "pct_cierre": 0.0
   }
  }
 }

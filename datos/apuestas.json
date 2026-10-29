@@ -57,10 +57,11 @@
   "confianza": 1,
   "stake": 10.0,
   "motivo": "Flavio Cobolli registra un Elo en superficie del 62% y un total de 1781 frente a 1687 de Matteo Berrettini, estimando nuestra probabilidad en un 63% frente a la cuota de 1.91 del mercado.",
-  "estado": "pendiente",
-  "ganancia": null,
-  "resultado": null,
+  "estado": "nula",
+  "ganancia": 0.0,
+  "resultado": "Matteo Berrettini – Flavio Cobolli: no se completó (status_retired retired retired retired) · apuesta anulada",
   "temporada": "prueba",
-  "hora_cierre": "2026-10-29T18:10+00:00"
+  "hora_cierre": "2026-10-29T18:10+00:00",
+  "liquidada": "2026-10-29T21:10+00:00"
  }
 ]

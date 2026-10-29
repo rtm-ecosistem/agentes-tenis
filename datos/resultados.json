@@ -235798,6 +235798,69 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Matteo Berrettini",
+    "Flavio Cobolli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     5,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jan-Lennard Struff",
+    "Novak Djokovic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
   }
  ]
 }

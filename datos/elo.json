@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T20:10+00:00",
+ "actualizado": "2026-10-29T21:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -981,19 +981,18 @@
    "nombre": "Novak Djokovic",
    "circuito": "ATP",
    "elo": {
-    "all": 1955.4,
-    "hard": 1908.3,
+    "all": 1926.6,
+    "hard": 1872.9,
     "clay": 1879.1,
     "grass": 1886.8
    },
    "n": {
-    "all": 127,
-    "hard": 73,
+    "all": 128,
+    "hard": 74,
     "clay": 35,
     "grass": 19
    },
    "ultimos": [
-    "2026-07-07 G grass vs Felix Auger-Aliassime",
     "2026-07-10 P grass vs Jannik Sinner",
     "2026-08-15 P hard vs Thiago Agustin Tirante",
     "2026-08-30 P hard vs Mariano Navone",
@@ -1002,7 +1001,8 @@
     "2026-10-04 G hard vs Alexander Zverev",
     "2026-10-05 G hard vs Daniil Medvedev",
     "2026-10-09 P hard vs Hubert Hurkacz",
-    "2026-10-28 G hard vs Ugo Humbert"
+    "2026-10-28 G hard vs Ugo Humbert",
+    "2026-10-29 P hard vs Jan-Lennard Struff"
    ]
   },
   "zhang|z": {
@@ -1701,19 +1701,18 @@
    "nombre": "Jan-Lennard Struff",
    "circuito": "ATP",
    "elo": {
-    "all": 1699.6,
-    "hard": 1657.7,
+    "all": 1727.4,
+    "hard": 1691.6,
     "clay": 1550.9,
     "grass": 1673.2
    },
    "n": {
-    "all": 139,
-    "hard": 82,
+    "all": 140,
+    "hard": 83,
     "clay": 36,
     "grass": 21
    },
    "ultimos": [
-    "2026-09-30 G hard vs Thiago Agustin Tirante",
     "2026-10-03 P hard vs Daniil Medvedev",
     "2026-10-08 G hard vs Martin Landaluce",
     "2026-10-10 P hard vs Daniil Medvedev",
@@ -1722,7 +1721,8 @@
     "2026-10-23 G hard vs Zizou Bergs",
     "2026-10-24 G hard vs Arthur Fils",
     "2026-10-25 P hard vs Tallon Griekspoor",
-    "2026-10-28 G hard vs Yannick Hanfmann"
+    "2026-10-28 G hard vs Yannick Hanfmann",
+    "2026-10-29 G hard vs Novak Djokovic"
    ]
   },
   "cilic|m": {
@@ -17364,19 +17364,18 @@
    "nombre": "Julia Grabher",
    "circuito": "WTA",
    "elo": {
-    "all": 1679.0,
-    "hard": 1695.6,
+    "all": 1693.8,
+    "hard": 1707.3,
     "clay": 1586.6,
     "grass": 1522.5
    },
    "n": {
-    "all": 46,
-    "hard": 39,
+    "all": 47,
+    "hard": 40,
     "clay": 3,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-22 G hard vs Jennifer Ruggeri",
     "2026-09-24 G hard vs Alice Tubello",
     "2026-09-25 G hard vs Nuria Brancaccio",
     "2026-09-26 G hard vs Oksana Selekhmeteva",
@@ -17385,7 +17384,8 @@
     "2026-10-12 G grass vs Deborah Chiesa",
     "2026-10-14 G grass vs Lidia Encheva",
     "2026-10-16 P grass vs Ariana Geerlings",
-    "2026-10-27 G hard vs Carolina Alves"
+    "2026-10-27 G hard vs Carolina Alves",
+    "2026-10-29 G hard vs Maria Lourdes Carle"
    ]
   },
   "chang|h": {
@@ -19106,19 +19106,18 @@
    "nombre": "Maria Lourdes Carle",
    "circuito": "WTA",
    "elo": {
-    "all": 1518.8,
-    "hard": 1467.2,
+    "all": 1502.2,
+    "hard": 1453.5,
     "clay": 1620.2,
     "grass": 1502.5
    },
    "n": {
-    "all": 33,
-    "hard": 24,
+    "all": 34,
+    "hard": 25,
     "clay": 7,
     "grass": 2
    },
    "ultimos": [
-    "2026-07-20 G clay vs Jessica Pieri",
     "2026-07-21 G clay vs Jule Niemeier",
     "2026-07-22 P clay vs Anhelina Kalinina",
     "2026-08-25 P hard vs Vendula Valdmannova",
@@ -19127,7 +19126,8 @@
     "2026-09-11 P hard vs Rositsa Dencheva",
     "2026-09-15 P hard vs Ekaterine Gorgodze",
     "2026-09-22 P hard vs Nuria Brancaccio",
-    "2026-10-27 G hard vs Laura Pigossi"
+    "2026-10-27 G hard vs Laura Pigossi",
+    "2026-10-29 P hard vs Julia Grabher"
    ]
   },
   "cross|k": {
@@ -55573,7 +55573,7 @@
   ],
   "djokovic|n~lennard struff|j": [
    1,
-   0
+   1
   ],
   "de minaur|a~riedi|l": [
    1,
@@ -90914,7 +90914,11 @@
   "blinkova|a~zavatska|k": [
    1,
    0
+  ],
+  "grabher|j~lourdes carle|m": [
+   1,
+   0
   ]
  },
- "propios": 10406
+ "propios": 10409
 }
