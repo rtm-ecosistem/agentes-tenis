@@ -235413,6 +235413,69 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Luciano Darderi",
+    "Tommy Paul"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kaitlin Quevedo",
+    "Anna Bondar"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magda Linette",
+    "Lilli Tagger"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

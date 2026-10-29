@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T11:23+00:00",
+ "actualizado": "2026-10-29T13:42+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -2484,19 +2484,18 @@
    "nombre": "Tommy Paul",
    "circuito": "ATP",
    "elo": {
-    "all": 1847.2,
-    "hard": 1842.0,
+    "all": 1856.7,
+    "hard": 1852.8,
     "clay": 1826.6,
     "grass": 1705.1
    },
    "n": {
-    "all": 170,
-    "hard": 113,
+    "all": 171,
+    "hard": 114,
     "clay": 39,
     "grass": 18
    },
    "ultimos": [
-    "2026-09-06 P hard vs Carlos Alcaraz",
     "2026-09-30 P hard vs Alejandro Tabilo",
     "2026-10-10 G hard vs Adolfo Daniel Vallejo",
     "2026-10-12 G hard vs Valentin Vacherot",
@@ -2505,7 +2504,8 @@
     "2026-10-21 G hard vs Benjamin Bonzi",
     "2026-10-23 G hard vs Corentin Moutet",
     "2026-10-24 P hard vs Taylor Fritz",
-    "2026-10-27 G hard vs Andrey Rublev"
+    "2026-10-27 G hard vs Andrey Rublev",
+    "2026-10-29 G hard vs Luciano Darderi"
    ]
   },
   "tabilo|a": {
@@ -7501,19 +7501,18 @@
    "nombre": "Luciano Darderi",
    "circuito": "ATP",
    "elo": {
-    "all": 1698.6,
-    "hard": 1687.8,
+    "all": 1689.1,
+    "hard": 1675.6,
     "clay": 1741.3,
     "grass": 1435.9
    },
    "n": {
-    "all": 167,
-    "hard": 82,
+    "all": 168,
+    "hard": 83,
     "clay": 71,
     "grass": 14
    },
    "ultimos": [
-    "2026-08-26 P hard vs Botic van de Zandschulp",
     "2026-08-31 G hard vs Harry Wendelken",
     "2026-09-03 G hard vs Dalibor Svrcina",
     "2026-09-05 G hard vs Dane Sweeny",
@@ -7522,7 +7521,8 @@
     "2026-10-02 P hard vs Kyrian Jacquet",
     "2026-10-10 P hard vs Stefanos Tsitsipas",
     "2026-10-21 P hard vs James Duckworth",
-    "2026-10-26 G hard vs Matteo Arnaldi"
+    "2026-10-26 G hard vs Matteo Arnaldi",
+    "2026-10-29 P hard vs Tommy Paul"
    ]
   },
   "barrios vera|t": {
@@ -15817,19 +15817,18 @@
    "nombre": "Anna Bondar",
    "circuito": "WTA",
    "elo": {
-    "all": 1624.4,
-    "hard": 1564.9,
+    "all": 1605.6,
+    "hard": 1547.3,
     "clay": 1649.5,
     "grass": 1407.1
    },
    "n": {
-    "all": 59,
-    "hard": 37,
+    "all": 60,
+    "hard": 38,
     "clay": 18,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-03 P hard vs Madison Keys",
     "2026-09-22 G hard vs Renata Zarazua",
     "2026-09-24 G hard vs Alina Charaeva",
     "2026-09-26 G hard vs Elena-Gabriela Ruse",
@@ -15838,7 +15837,8 @@
     "2026-10-11 P hard vs Mananchaya Sawangkaew",
     "2026-10-12 P hard vs Mia Pohankova",
     "2026-10-17 P hard vs Aliaksandra Sasnovich",
-    "2026-10-26 G hard vs Daria Snigur"
+    "2026-10-26 G hard vs Daria Snigur",
+    "2026-10-29 P hard vs Kaitlin Quevedo"
    ]
   },
   "sijia|w": {
@@ -16926,19 +16926,18 @@
    "nombre": "Lilli Tagger",
    "circuito": "WTA",
    "elo": {
-    "all": 1695.2,
-    "hard": 1651.8,
+    "all": 1710.7,
+    "hard": 1669.0,
     "clay": 1720.9,
     "grass": 1350.7
    },
    "n": {
-    "all": 54,
-    "hard": 43,
+    "all": 55,
+    "hard": 44,
     "clay": 9,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-14 P hard vs Talia Gibson",
     "2026-08-24 P hard vs Yuliia Starodubtseva",
     "2026-08-31 G hard vs Tamara Korpatsch",
     "2026-09-03 P hard vs Amanda Anisimova",
@@ -16947,7 +16946,8 @@
     "2026-10-19 G hard vs Liudmila Samsonova",
     "2026-10-21 G hard vs Tereza Valentova",
     "2026-10-23 P hard vs Ann Li",
-    "2026-10-27 G hard vs Venus Williams"
+    "2026-10-27 G hard vs Venus Williams",
+    "2026-10-29 G hard vs Magda Linette"
    ]
   },
   "zhu|c": {
@@ -21594,19 +21594,18 @@
    "nombre": "Kaitlin Quevedo",
    "circuito": "ATP",
    "elo": {
-    "all": 1697.3,
-    "hard": 1700.3,
+    "all": 1717.0,
+    "hard": 1717.4,
     "clay": 1541.2,
     "grass": 1494.5
    },
    "n": {
-    "all": 52,
-    "hard": 40,
+    "all": 53,
+    "hard": 41,
     "clay": 10,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-08 G hard vs Anna Rogers",
     "2026-09-09 G hard vs Sara Sorribes Tormo",
     "2026-09-10 P hard vs Claire Liu",
     "2026-09-16 G hard vs Anastasia Tikhonova",
@@ -21615,7 +21614,8 @@
     "2026-09-19 G hard vs Anna Blinkova",
     "2026-09-21 G hard vs Nadia Podoroska",
     "2026-10-19 P hard vs Lanlana Tararudee",
-    "2026-10-27 G hard vs Sofia Kenin"
+    "2026-10-27 G hard vs Sofia Kenin",
+    "2026-10-29 G hard vs Anna Bondar"
    ]
   },
   "ku|y": {
@@ -22796,19 +22796,18 @@
    "nombre": "Magda Linette",
    "circuito": "ATP",
    "elo": {
-    "all": 1561.1,
-    "hard": 1523.5,
+    "all": 1544.3,
+    "hard": 1505.4,
     "clay": 1568.5,
     "grass": 1422.8
    },
    "n": {
-    "all": 43,
-    "hard": 37,
+    "all": 44,
+    "hard": 38,
     "clay": 5,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-03 G hard vs Carol Zhao",
     "2026-08-05 P hard vs Iva Jovic",
     "2026-08-13 P hard vs Elena-Gabriela Ruse",
     "2026-09-02 P hard vs Francesca Jones",
@@ -22817,7 +22816,8 @@
     "2026-10-10 P hard vs Sinja Kraus",
     "2026-10-20 G hard vs Claire Liu",
     "2026-10-22 P hard vs Katerina Siniakova",
-    "2026-10-27 G hard vs Anastasia Zakharova"
+    "2026-10-27 G hard vs Anastasia Zakharova",
+    "2026-10-29 P hard vs Lilli Tagger"
    ]
   },
   "williams|v": {
@@ -46100,7 +46100,7 @@
   ],
   "darderi|l~paul|t": [
    1,
-   2
+   3
   ],
   "safiullin|r~tabilo|a": [
    2,
@@ -90877,7 +90877,15 @@
   "sun|x~timofeeva|m": [
    1,
    0
+  ],
+  "bondar|a~quevedo|k": [
+   0,
+   1
+  ],
+  "linette|m~tagger|l": [
+   0,
+   1
   ]
  },
- "propios": 10389
+ "propios": 10392
 }
