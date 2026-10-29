@@ -198,6 +198,14 @@ details.plegable[open] > summary::before { content: "▾ "; }
 .calib .barras i.salio { top: 4px; bottom: 4px; }
 .reglas li { margin: 4px 0; }
 .reglas small, .retiradas { color: var(--suave); }
+.ayuda { display: inline-grid; place-items: center; width: 15px; height: 15px; margin-left: 3px; padding: 0; border: 1px solid currentColor; border-radius: 50%;
+  background: none; color: var(--suave); font: 700 10px/1 system-ui, sans-serif; cursor: help; vertical-align: 1px; opacity: .75; }
+.ayuda:hover, .ayuda[aria-expanded="true"] { opacity: 1; color: var(--acento); }
+.boleto .ayuda { color: #7a6650; }
+.globo { position: fixed; z-index: 60; max-width: min(300px, calc(100vw - 24px)); background: #1d140c; color: #f4e6d0; border: 1px solid #6b4a2c; border-radius: 8px;
+  padding: 9px 11px; font-size: 13px; line-height: 1.4; box-shadow: 0 8px 24px rgba(0, 0, 0, .5); }
+.globo b { display: block; font: 700 13px var(--pixel); color: var(--acento); margin-bottom: 2px; }
+.estirar { display: none; }
 .carta { font-family: Georgia, "Times New Roman", serif; font-style: italic; background: var(--papel); color: var(--tinta); border-radius: 3px; padding: 10px 12px; margin: 6px 0 0; }
 
 @media (max-width: 699px) {
@@ -212,6 +220,14 @@ details.plegable[open] > summary::before { content: "▾ "; }
   .panel, .panel.grande, .ficha { top: 0; left: 0; right: 0; bottom: 0; width: auto; border-radius: 0; border: 0; transform: translateY(105%); padding-top: env(safe-area-inset-top); }
   .panel { bottom: calc(68px + env(safe-area-inset-bottom)); }
   .panel.abierto, .ficha.abierta { transform: none; }
+  /* En el móvil, panel y ficha son hojas que suben hasta media pantalla y se pueden estirar */
+  .panel, .panel.grande, .ficha { top: 44vh; border-radius: 16px 16px 0 0; transition: transform .3s cubic-bezier(.2, .8, .2, 1), visibility .3s, top .3s; }
+  .panel.entera, .ficha.entera { top: 0; border-radius: 0; padding-top: env(safe-area-inset-top); }
+  .estirar { display: block; margin: 0 auto; width: 64px; height: 18px; border: 0; background: none; cursor: pointer; padding: 6px 0; flex: none; }
+  .estirar::before { content: ""; display: block; height: 5px; border-radius: 3px; background: rgba(255, 236, 210, .35); }
+  .cab-panel { flex-wrap: wrap; padding-top: 2px; } .cab-panel .estirar { flex-basis: 100%; }
+  .ficha .estirar { margin-top: -10px; margin-bottom: 4px; }
+  body.con-panel .caja-lienzo, body:has(.ficha.abierta) .caja-lienzo { transform: translateY(-21vh); }
   body.con-panel .pie-escena { display: none; }
   .bocadillo { font-size: 10.5px; max-width: 60%; }
   .etiqueta { font-size: 10.5px; }
@@ -234,7 +250,7 @@ details.plegable[open] > summary::before { content: "▾ "; }
   <div class="tit"><h1>La oficina del tenis</h1><div class="sub" id="subtitulo"></div></div>
 </header>
 <aside class="panel madera" id="panel" aria-label="Panel">
-  <div class="cab-panel"><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
+  <div class="cab-panel"><button class="estirar" data-estirar="panel" aria-label="Estirar o encoger el panel"></button><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
   <section id="plantilla" hidden></section>
   <section id="cartelera" hidden></section>
   <section id="boletos" hidden></section>
@@ -1003,8 +1019,8 @@ function tarjetaAnalista(a) {
     ${pix(a)}<div class="info"><b>${esc(a.nombre)} ${animo(a).cara}</b><small>${esc(a.titulo)}</small></div>
     <span class="chip ${t.ganancia > 0 ? 'bien' : t.ganancia < 0 ? 'mal' : ''}">${eur(t.ganancia, true)}</span></button>
     <div class="cifras"><div>Bote<b class="num">${eur(Object.values(a.botes).reduce((x, b) => x + b.valor, 0))}</b></div>
-      <div title="Lo que gana o pierde por cada euro apostado">Rendimiento<b class="num ${clase(t.yield)}">${pct(t.yield, true)}</b></div>
-      <div>Bate el cierre<b class="num">${pct(t.pct_cierre, false, 0)}</b></div>
+      <div>Rendimiento${A('rendimiento')}<b class="num ${clase(t.yield)}">${pct(t.yield, true)}</b></div>
+      <div>Bate el cierre${A('cierre')}<b class="num">${pct(t.pct_cierre, false, 0)}</b></div>
       <div>Apuestas<b class="num">${t.apuestas}${t.pendientes ? ` <small>(+${t.pendientes})</small>` : ''}</b></div></div>
     <div class="barra" title="Apuestas hasta su revisión"><i style="width:${Math.min(100, avance * 100).toFixed(0)}%"></i></div>
     <small style="color:var(--suave)">${s.liquidadas ?? 0} de ${D.reglas.revision} apuestas hasta su próxima revisión</small></div>`;
@@ -1032,13 +1048,13 @@ function pintarCartelera() {
   for (const a of D.apuestas) if (a.estado === 'pendiente') (apostadas[a.partido] ||= []).push(a);
   const torneos = {};
   for (const p of ps) (torneos[p.torneo] ||= []).push(p);
-  $('#cartelera').innerHTML = `<p style="color:var(--suave);margin:0">Cuotas de ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle (el árbitro). Cargada ${cuando(D.cartelera.actualizado)}.</p>` +
+  $('#cartelera').innerHTML = `<p style="color:var(--suave);margin:0">Cuotas de ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle${A('pinnacle')} (el árbitro). Cargada ${cuando(D.cartelera.actualizado)}.</p>` +
     Object.entries(torneos).map(([t, lista]) => `<div class="torneo"><h3>${esc(t)} <span class="superficie ${esc(lista[0].superficie)}">${SUPERFICIE[lista[0].superficie] || ''}</span></h3>` + lista.map(p => {
       const grupos = {};
       for (const o of p.opciones) (grupos[o.mercado] ||= []).push(o);
       const boletos = apostadas[p.id] || [];
       return `<div class="tarjeta partido"><div class="cabecera"><button class="jugadores ver-partido" data-partido="${esc(p.id)}">${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</button><span class="hora">${cuando(p.inicio)}</span></div>
-        <div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}</b>${ops.map(o =>
+        <div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}${GLOSARIO[m] ? A(m) : ''}</b>${ops.map(o =>
           `<div class="opcion"><span>${esc(etiquetaOpcion(o))}</span><span><span class="q">${o.cuota.toFixed(2)}</span> <span class="p">${o.pinnacle ? o.pinnacle.toFixed(2) : '–'}</span></span></div>`).join('')}</div>`).join('')}</div>
         ${boletos.length ? `<div class="apostado">${boletos.map(b => { const a = agentePor(b.agente); return `<span class="chip bien">${esc(a?.nombre)}: ${esc(b.descripcion)} @ ${b.cuota.toFixed(2)}</span>`; }).join('')}</div>` : ''}</div>`;
     }).join('') + '</div>').join('');
@@ -1053,7 +1069,7 @@ function boleto(b) {
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
-    <div class="linea"><span>Pinnacle: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
+    <div class="linea"><span>Pinnacle${A('cierre')}: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
       ${bate == null ? '' : `<span class="chip ${bate ? 'bien' : 'mal'}">${bate ? '✓ batió el cierre' : '✗ peor que el cierre'}</span>`}</div>
     ${b.estado !== 'pendiente' ? `<div class="linea"><span>${esc(b.resultado || '')}</span><b class="num ${clase(b.ganancia)}">${eur(b.ganancia, true)}</b></div>` : ''}
     ${b.motivo ? `<details class="plegable"><summary>Por qué</summary>${esc(b.motivo)}</details>` : ''}</article>`;
@@ -1075,12 +1091,12 @@ function pintarClasificacion() {
   const porCierre = ags.slice().sort((a, b) => (b.total.pct_cierre ?? -1) - (a.total.pct_cierre ?? -1));
   $('#clasificacion').innerHTML = `<div class="tarjeta"><h3>Cómo evolucionan sus botes</h3><div class="grafica todos">${graficaTodos(ags)}</div></div>
     <div class="rejilla dos">
-    <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendimiento</th><th class="n">Aciertos</th></tr>
+    <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Ganancia</th><th class="n">Rendimiento${A('rendimiento')}</th><th class="n">Aciertos</th></tr>
       ${porDinero.map((a, i) => filaClas(a, i, `<td class="n ${clase(a.total.ganancia)}">${eur(a.total.ganancia, true)}</td><td class="n ${clase(a.total.yield)}">${pct(a.total.yield, true)}</td><td class="n">${pct(a.total.aciertos, false, 0)}</td>`)).join('')}</table></div>
-    <div class="tarjeta desplaza"><h3>Por cuota de cierre</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Bate el cierre</th><th class="n">Con cierre</th></tr>
+    <div class="tarjeta desplaza"><h3>Por cuota de cierre</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Bate el cierre${A('cierre')}</th><th class="n">Con cierre</th></tr>
       ${porCierre.map((a, i) => filaClas(a, i, `<td class="n ${a.total.pct_cierre > .5 ? 'sube' : a.total.pct_cierre != null && a.total.pct_cierre < .5 ? 'baja' : ''}">${pct(a.total.pct_cierre, false, 0)}</td><td class="n">${a.total.con_cierre}</td>`)).join('')}</table></div></div>
     <h4>Camino al dinero real</h4><div class="tarjeta desplaza"><p style="margin-top:0">Solo «se gana» que le copies quien cumpla las tres cosas a la vez: al menos ${r.real} apuestas, ganar dinero en total y batir la cuota de cierre en la mayoría. Una buena racha no basta.</p>
-      <table class="tabla"><tr><th>Analista</th><th class="n">Apuestas</th><th class="n">Gana dinero</th><th class="n">Bate el cierre</th></tr>
+      <table class="tabla"><tr><th>Analista</th><th class="n">Apuestas</th><th class="n">Gana dinero</th><th class="n">Bate el cierre${A('cierre')}</th></tr>
       ${ags.map(a => `<tr><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span></td><td class="n">${a.total.apuestas} / ${r.real}</td><td class="n">${a.total.ganancia > 0 ? '✓' : '✗'}</td><td class="n">${a.total.pct_cierre > .5 ? '✓' : '✗'} ${pct(a.total.pct_cierre, false, 0)}</td></tr>`).join('')}</table></div>
     <h4>Despidos</h4><div class="tarjeta"><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada analista: se le despide si pierde más de un ${pct(r.despido, false, 0)} y además consiguió peor cuota que la de cierre en la mayoría de sus apuestas.</p>
       ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
@@ -1098,6 +1114,32 @@ function pintarSala() {
       <p><b>👍 A favor del favorito:</b> ${esc(s.favorito)}</p><p><b>👎 En contra:</b> ${esc(s.contra)}</p><p><b>✅ Conclusión:</b> ${esc(s.conclusion)}</p>
       ${s.partidos?.length ? '<p><b>Partidos destacados</b></p><ul>' + s.partidos.map(p => `<li>${p.id ? `<button class="ver-partido" data-partido="${esc(p.id)}">${esc(p.partido)}</button>` : esc(p.partido)} · <i>${esc(p.vista)}</i>${marcaAcierto(p)}: ${esc(p.motivo)}</li>`).join('') + '</ul>' : ''}</details></div>`).join('') || '<p class="vacio">La sala aún no ha escrito ningún informe.</p>');
 }
+
+/* ---------- Explicaciones de los términos ---------- */
+const GLOSARIO = {
+  cierre: ['Cuota de cierre', 'La cuota de Pinnacle justo antes de empezar el partido, cuando el mercado ya sabe casi todo. Si apuestas a una cuota mejor que esa, a la larga ganas dinero aunque pierdas esa apuesta.'],
+  rendimiento: ['Rendimiento', 'Lo que gana o pierde por cada euro apostado. Un +5 % significa 5 céntimos de ganancia por cada euro. Por encima de 0 a la larga es muy difícil.'],
+  pinnacle: ['Pinnacle', 'La casa de apuestas con el margen más pequeño y las cuotas más afinadas del mundo. La usamos de árbitro: si su cuota es más baja que la que cogió un analista, el mercado le da la razón.'],
+  h2h: ['Ganador', 'Apostar a quién gana el partido.'],
+  spreads: ['Hándicap de juegos', 'Se suma o resta una ventaja de juegos a un jugador. «Sinner −3.5» gana si Sinner gana por 4 juegos o más en total; «Ruud +3.5» gana si Ruud pierde por 3 o menos, o gana.'],
+  totals: ['Total de juegos', 'Apostar a si entre los dos jugarán más o menos juegos que la línea. «Más de 22.5» gana con 23 juegos o más.'],
+  elo: ['Elo', 'Una puntuación de cada jugador que sube al ganar y baja al perder, más cuanto mejor sea el rival. La diferencia entre dos Elo da la probabilidad de que gane cada uno. La calculamos también por superficie.'],
+  probabilidad: ['Probabilidad', 'Lo que el analista cree que tiene de salir su apuesta. Si dice 60 % muchas veces, deberían salir unas 6 de cada 10; si salen menos, se pasa de optimista.'],
+  confianza: ['Confianza', 'De 1 a 3: cuánto apuesta del bote (1 %, 2 % o 3 %).'],
+};
+const A = clave => `<button class="ayuda" data-ayuda="${clave}" aria-label="¿Qué es?">?</button>`;
+function abrirGlobo(boton) {
+  cerrarGlobo();
+  const [t, txt] = GLOSARIO[boton.dataset.ayuda] || []; if (!t) return;
+  const g = document.createElement('div'); g.className = 'globo'; g.id = 'globo'; g.setAttribute('role', 'tooltip');
+  g.innerHTML = `<b>${esc(t)}</b>${esc(txt)}`; document.body.appendChild(g);
+  const r = boton.getBoundingClientRect(), w = g.offsetWidth, h = g.offsetHeight;
+  g.style.left = Math.max(12, Math.min(innerWidth - w - 12, r.left + r.width / 2 - w / 2)) + 'px';
+  g.style.top = (r.bottom + 8 + h < innerHeight ? r.bottom + 8 : Math.max(12, r.top - h - 8)) + 'px';
+  boton.setAttribute('aria-expanded', 'true');
+}
+function cerrarGlobo() { $('#globo')?.remove(); document.querySelectorAll('.ayuda[aria-expanded="true"]').forEach(b => b.setAttribute('aria-expanded', 'false')); }
+addEventListener('scroll', cerrarGlobo, true);
 
 /* ---------- Ficha de un analista ---------- */
 let FICHA_ID = null;
@@ -1139,10 +1181,11 @@ function abrirPartido(id) {
   const grupos = {}; for (const o of p.cart?.opciones || []) (grupos[o.mercado] ||= []).push(o);
   $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</h2><div style="color:var(--suave)">${esc(p.torneo)}${p.superficie ? ` · <span class="superficie ${esc(p.superficie)}">${SUPERFICIE[p.superficie] || esc(p.superficie)}</span>` : ''} · ${cuando(p.inicio)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
     ${p.resultado ? `<div class="tarjeta"><h3>Resultado</h3><p style="margin:0">${esc(p.resultado)}</p></div>` : ''}
-    ${p.cart ? `<div class="tarjeta"><h3>Cuotas</h3><p style="margin:0 0 6px;color:var(--suave);font-size:12.5px">De ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle.</p><div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}</b>${ops.map(o =>
+    ${p.cart ? `<div class="tarjeta"><h3>Cuotas</h3><p style="margin:0 0 6px;color:var(--suave);font-size:12.5px">De ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle.</p><div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}${GLOSARIO[m] ? A(m) : ''}</b>${ops.map(o =>
       `<div class="opcion"><span>${esc(etiquetaOpcion(o))}</span><span><span class="q">${o.cuota.toFixed(2)}</span> <span class="p">${o.pinnacle ? o.pinnacle.toFixed(2) : '–'}</span></span></div>`).join('')}</div>`).join('')}</div></div>` : ''}
     <div class="tarjeta"><h3>Qué opina la sala</h3>${p.opiniones.map(o => `<p><b>${cuando(o.hora)}</b> · <i>${esc(o.vista)}</i>${o.favorito ? ` (favorito: ${esc(o.favorito)})` : ''}${marcaAcierto(o)}<br>${esc(o.motivo)}</p>`).join('') || '<p class="vacio">La sala no lo ha destacado en sus últimos informes.</p>'}</div>
     <div class="tarjeta"><h3>Quién ha apostado y por qué</h3><div class="boletos">${p.bols.map(boleto).join('') || '<p class="vacio">Nadie ha apostado a este partido.</p>'}</div></div>`;
+  $('#ficha').insertAdjacentHTML('afterbegin', '<button class="estirar" data-estirar="ficha" aria-label="Estirar o encoger la ficha"></button>');
   $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
   actualizarEnlace();
 }
@@ -1152,7 +1195,7 @@ const GRUPOS_DESGLOSE = { mercado: 'Por mercado', superficie: 'Por superficie', 
 function tablaDesglose(d) {
   const filas = Object.entries(GRUPOS_DESGLOSE).flatMap(([g, n]) => Object.entries(d?.[g] || {}).sort((x, y) => y[1].apuestas - x[1].apuestas).map(([k, r], i) =>
     `<tr><td>${i ? '' : `<small style="color:var(--suave)">${n}</small><br>`}${esc(k[0].toUpperCase() + k.slice(1))}</td><td class="n">${r.apuestas}</td><td class="n ${clase(r.ganancia)}">${(r.ganancia > 0 ? '+' : '') + Math.round(r.ganancia)} €</td><td class="n ${clase(r.yield)}">${pct(r.yield, true, 0)}</td><td class="n">${pct(r.pct_cierre, false, 0)}</td></tr>`));
-  return filas.length ? `<table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendim.</th><th class="n" title="Apuestas en las que consiguió mejor cuota que la de cierre de Pinnacle">Bate cierre</th></tr>${filas.join('')}</table>`
+  return filas.length ? `<table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Ganancia</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${filas.join('')}</table>`
     : '<p class="vacio">Aún no hay apuestas liquidadas.</p>';
 }
 function calibracion(c) {
@@ -1172,7 +1215,7 @@ function pintarAprendizaje() {
         ${a.reglas_retiradas?.length ? `<p class="retiradas" style="font-size:12.5px">Retiradas: ${a.reglas_retiradas.slice(-3).map(r => `<s>${esc(r.texto)}</s>`).join(' · ')}</p>` : ''}
         ${ult ? `<details class="plegable"><summary>Su última reflexión (${esc(ult.fecha)})</summary>${esc(ult.texto)}</details>` : ''}
         <h4 style="margin:10px 0 2px">Dónde gana y dónde pierde</h4>${tablaDesglose(a.desglose)}
-        <h4 style="margin:10px 0 2px">Sus probabilidades</h4>${calibracion(a.calibracion)}</div>`;
+        <h4 style="margin:10px 0 2px">Sus probabilidades${A('probabilidad')}</h4>${calibracion(a.calibracion)}</div>`;
     }).join('')}</div>`;
 }
 
@@ -1185,7 +1228,7 @@ function abrirFicha(id) {
     <div class="tarjeta"><p style="margin-top:0"><b>Carácter:</b> ${esc(a.personalidad)}</p><p><b>Cómo decide:</b> ${esc(a.como_decide)}</p><p style="margin-bottom:0"><b>Qué lee:</b> ${esc(a.que_lee)}</p></div>
     ${s ? `<div class="tarjeta"><h3>Su situación en el puesto</h3><p style="margin:0">Lleva <b>${s.liquidadas}</b> apuestas liquidadas en este periodo; le revisan al llegar a ${D.reglas.revision}. Sus botes valen <b>${eur(s.valor)}</b> (<span class="${clase(s.rentabilidad)}">${pct(s.rentabilidad, true)}</span> en el periodo) y bate la cuota de cierre en el <b>${pct(s.pct_cierre, false, 0)}</b> de ${s.con_cierre} apuestas.</p>
       <div class="barra"><i style="width:${Math.min(100, s.liquidadas / D.reglas.revision * 100)}%"></i></div></div>` : ''}
-    <div class="tarjeta"><h3>Resultados</h3><div class="cifras" style="margin-top:0"><div>Ganancia<b class="${clase(t.ganancia)}">${eur(t.ganancia, true)}</b></div><div title="Lo que gana o pierde por cada euro apostado">Rendimiento<b class="${clase(t.yield)}">${pct(t.yield, true)}</b></div><div>Aciertos<b>${pct(t.aciertos, false, 0)}</b></div><div>Bate el cierre<b>${pct(t.pct_cierre, false, 0)}</b></div></div>
+    <div class="tarjeta"><h3>Resultados</h3><div class="cifras" style="margin-top:0"><div>Ganancia<b class="${clase(t.ganancia)}">${eur(t.ganancia, true)}</b></div><div>Rendimiento${A('rendimiento')}<b class="${clase(t.yield)}">${pct(t.yield, true)}</b></div><div>Aciertos<b>${pct(t.aciertos, false, 0)}</b></div><div>Bate el cierre${A('cierre')}<b>${pct(t.pct_cierre, false, 0)}</b></div></div>
       ${Object.entries(a.botes).map(([k, b]) => `<p style="margin:10px 0 0;font-size:13.5px"><b>${esc(D.botes[k]?.nombre || 'Bote ' + k)}</b> (${esc((D.botes[k]?.mercados || []).join(', '))}): vale ${eur(b.valor)}, ${b.apuestas} apuestas, ${eur(b.ganancia, true)}.</p>`).join('')}
       ${!D.botes['2']?.activo ? '<p style="margin:6px 0 0;font-size:12.5px;color:var(--suave)">El bote 2 (primer set y resultado exacto en sets) arrancará cuando haya una fuente gratis y fiable de esas cuotas.</p>' : ''}
       <div class="grafica" style="margin-top:10px">${grafica(a)}</div></div>
@@ -1197,17 +1240,34 @@ function abrirFicha(id) {
       ${d.descarte ? `<p><b>Lo que dejó pasar:</b> ${esc(d.descarte)}</p>` : ''}${d.rechazos?.length ? `<p style="color:var(--suave);font-size:12.5px">Rechazadas por el control de riesgo: ${esc(d.rechazos.join('; '))}</p>` : ''}</details>`).join('') || '<p class="vacio">Aún no ha decidido nada.</p>'}</div>
     <div class="tarjeta"><h3>Sus reflexiones de los domingos</h3>${(a.reflexiones || []).slice().reverse().map(r => `<p><b>${esc(r.fecha)}:</b> ${esc(r.texto)}${(r.reglas || (r.regla ? [r.regla] : [])).length ? `<br><i>Reglas para la semana: ${(r.reglas || [r.regla]).map(esc).join(' · ')}</i>` : ''}</p>`).join('') || '<p class="vacio">La primera llegará el domingo.</p>'}</div>
     <div class="tarjeta"><h3>Sus boletos</h3><div class="boletos">${D.apuestas.filter(b => b.agente === a.id).slice(0, 20).map(boleto).join('') || '<p class="vacio">Sin boletos todavía.</p>'}</div></div>`;
+  $('#ficha').insertAdjacentHTML('afterbegin', '<button class="estirar" data-estirar="ficha" aria-label="Estirar o encoger la ficha"></button>');
   $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
   actualizarEnlace();
 }
-function cerrarFicha() { FICHA_ID = null; $('#ficha').classList.remove('abierta'); actualizarEnlace(); }
+function cerrarFicha() { FICHA_ID = null; $('#ficha').classList.remove('abierta', 'entera'); actualizarEnlace(); }
 
 /* ---------- Navegación ---------- */
 let PANEL = null;
 const TITULOS = { plantilla: 'La plantilla', cartelera: 'Cartelera', boletos: 'Boletos', clasificacion: 'Clasificación', sala: 'Sala de analistas', aprendizaje: 'Aprendizaje' };
 const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala, aprendizaje: pintarAprendizaje };
 const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion', 'aprendizaje']);
-function actualizarEnlace() { history.replaceState(null, '', '#/' + (PANEL || 'oficina') + (FICHA_ID ? '/' + FICHA_ID : '')); }
+// Cada panel o ficha que se abre es un paso en el historial: el botón atrás del móvil cierra lo último abierto
+let APLICANDO = false;
+function actualizarEnlace() {
+  const h = '#/' + (PANEL || 'oficina') + (FICHA_ID ? '/' + FICHA_ID : '');
+  if (APLICANDO || location.hash === h) return;
+  const abre = (FICHA_ID && !location.hash.includes('/' + FICHA_ID)) || (PANEL && !location.hash.startsWith('#/' + PANEL));
+  if (abre) history.pushState({ web: 1 }, '', h); else history.replaceState(history.state, '', h);
+}
+function cerrarConAtras(cerrar) { if (history.state?.web) history.back(); else cerrar(); }
+function aplicarEnlace() {
+  APLICANDO = true;
+  const [, tab, ficha] = location.hash.split('/');
+  if (PINTAR[tab]) { if (PANEL !== tab) abrirPanel(tab); } else if (PANEL) cerrarPanel();
+  if (ficha) { if (FICHA_ID !== ficha) abrirFicha(ficha); } else if (FICHA_ID) cerrarFicha();
+  APLICANDO = false;
+}
+addEventListener('popstate', () => { cerrarGlobo(); aplicarEnlace(); });
 function abrirPanel(tab) {
   if (!PINTAR[tab]) return cerrarPanel();
   PANEL = tab;
@@ -1220,20 +1280,23 @@ function abrirPanel(tab) {
   actualizarEnlace();
 }
 function cerrarPanel() {
-  PANEL = null; $('#panel').classList.remove('abierto');
+  PANEL = null; $('#panel').classList.remove('abierto', 'entera');
   document.body.classList.remove('con-panel', 'panel-grande');
   document.querySelectorAll('.dock [data-tab]').forEach(b => b.setAttribute('aria-pressed', 'false'));
   actualizarEnlace();
 }
-$('#plegar').onclick = cerrarPanel;
+$('#plegar').onclick = () => cerrarConAtras(cerrarPanel);
 document.addEventListener('click', e => {
   const t = e.target.closest('[data-tab]'); if (t) { PANEL === t.dataset.tab && t.closest('.dock') ? cerrarPanel() : abrirPanel(t.dataset.tab); return; }
-  if (e.target.closest('#ficha .cerrar')) { cerrarFicha(); return; }
+  const ay = e.target.closest('[data-ayuda]'); if (ay) { e.stopPropagation(); ay.getAttribute('aria-expanded') === 'true' ? cerrarGlobo() : abrirGlobo(ay); return; }
+  cerrarGlobo();
+  const es = e.target.closest('[data-estirar]'); if (es) { (es.dataset.estirar === 'panel' ? $('#panel') : $('#ficha')).classList.toggle('entera'); return; }
+  if (e.target.closest('#ficha .cerrar')) { cerrarConAtras(cerrarFicha); return; }
   const f = e.target.closest('[data-ficha]'); if (f) { abrirFicha(f.dataset.ficha); return; }
   const pp = e.target.closest('[data-partido]'); if (pp) { abrirPartido(pp.dataset.partido); return; }
   const b = e.target.closest('[data-filtro]'); if (b) { FILTRO[b.dataset.filtro] = b.dataset.valor; pintarBoletos(); }
 });
-addEventListener('keydown', e => { if (e.key === 'Escape') { if (FICHA_ID) cerrarFicha(); else if (PANEL) cerrarPanel(); } });
+addEventListener('keydown', e => { if (e.key !== 'Escape') return; if ($('#globo')) cerrarGlobo(); else if (FICHA_ID) cerrarConAtras(cerrarFicha); else if (PANEL) cerrarConAtras(cerrarPanel); });
 
 async function cargar() {
   try {
@@ -1247,9 +1310,7 @@ async function cargar() {
   await cargar();
   try { await document.fonts.load('700 11px "Pixelify Sans"'); } catch (e) { /* sin la letra pixelada se usa otra */ }
   pintarFondo(); montarVista(); poblar(); pintarCabecera();
-  const [, tab, ficha] = location.hash.split('/');
-  if (PINTAR[tab]) abrirPanel(tab);
-  if (ficha) abrirFicha(ficha);
+  aplicarEnlace();
   // Se recargan los datos cada 5 minutos por si ha habido novedades
   setInterval(async () => {
     const antes = D.actualizado; await cargar(); if (D.actualizado === antes) return;
