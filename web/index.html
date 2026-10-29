@@ -1263,12 +1263,17 @@ function calibracion(c) {
 function pintarAprendizaje() {
   $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
     <div class="tarjeta" style="margin-bottom:10px"><b>🎯 La sala:</b> ${esc(textoSalaAciertos())}</div>
+    ${D.tonta ? `<div class="tarjeta" style="margin-bottom:10px"><b>🤖 La estrategia tonta:</b> apostar siempre lo mismo al favorito de Pinnacle en todos los partidos. Lleva ${D.tonta.apuestas} apuestas, acierta el ${pct(D.tonta.aciertos, false, 0)} y su rendimiento${A('rendimiento')} es <b class="${clase(D.tonta.yield)}">${pct(D.tonta.yield, true)}</b>. Quien no la supere no aporta nada.</div>` : ''}
+    <div class="tarjeta" style="margin-bottom:10px"><h3>📚 La biblioteca de la oficina</h3>${D.biblioteca?.length ? `<ul class="reglas">${D.biblioteca.map(e => `<li>${esc(e.texto)} <small>${esc(e.autor)}, ${esc(e.fecha)}</small></li>`).join('')}</ul><small style="color:var(--suave)">Lo mejor que ha aprendido la oficina. Inés la ordena cada domingo y todos la leen antes de apostar.</small>` : '<p class="vacio">Inés la empezará a ordenar el domingo con lo mejor de cada uno.</p>'}</div>
     <div class="rejilla dos">${activos().map(a => {
       const ult = (a.reflexiones || []).slice(-1)[0];
       return `<div class="tarjeta desplaza"><button class="analista" data-ficha="${a.id}" style="margin-bottom:6px">${pix(a)}<div class="info"><b>${esc(a.nombre)}</b><small>${esc(a.titulo)}</small></div></button>
         <h4 style="margin:8px 0 2px">Sus reglas</h4>${a.reglas?.length ? `<ol class="reglas">${a.reglas.map(r => `<li>${esc(r.texto)} <small>desde el ${esc(r.desde)}</small></li>`).join('')}</ol>` : '<p class="vacio">Se las pondrá en su primera reflexión del domingo.</p>'}
         ${a.reglas_retiradas?.length ? `<p class="retiradas" style="font-size:12.5px">Retiradas: ${a.reglas_retiradas.slice(-3).map(r => `<s>${esc(r.texto)}</s>`).join(' · ')}</p>` : ''}
         ${ult ? `<details class="plegable"><summary>Su última reflexión (${esc(ult.fecha)})</summary>${esc(ult.texto)}</details>` : ''}
+        <h4 style="margin:10px 0 2px">Sus lecciones de cada noche</h4>${a.lecciones?.length ? `<ul class="reglas">${a.lecciones.slice(-3).reverse().map(l => `<li>${esc(l.texto)} <small>${esc(l.fecha)}</small></li>`).join('')}</ul>` : '<p class="vacio">La escribe por la noche cuando se resuelven sus apuestas.</p>'}
+        <h4 style="margin:10px 0 2px">Lo que dejó pasar</h4>${(() => { const d = a.descartes || {}, n = (d.ganadas || 0) + (d.perdidas || 0);
+          return n ? `<p style="margin:0">Su mejor descarte de cada día habría ganado <b>${d.ganadas} de ${n}</b> (<span class="${clase(d.unidades)}">${d.unidades > 0 ? '+' : ''}${d.unidades.toFixed(2)} unidades</span>). ${d.unidades > 0 ? 'Quizá es demasiado prudente.' : 'Hace bien en descartarlos.'}</p>` : '<p class="vacio">Aún no se ha jugado ninguno de sus descartes.</p>'; })()}
         <h4 style="margin:10px 0 2px">Dónde gana y dónde pierde</h4>${tablaDesglose(a.desglose)}
         <h4 style="margin:10px 0 2px">Sus probabilidades${A('probabilidad')}</h4>${calibracion(a.calibracion)}</div>`;
     }).join('')}</div>`;

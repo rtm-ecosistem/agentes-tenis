@@ -108,6 +108,8 @@ def despedir(estado: dict, agente: dict, apuestas: list[dict], ia, avisos, momen
     texto = (f"🔴 Despedido {agente['nombre']} ({agente['titulo']}): {s['rentabilidad']:+.1%} en {s['liquidadas']} apuestas "
              f"y solo batió la cuota de cierre en el {s['pct_cierre']:.0%}. Le sustituye {nuevo['nombre']}.")
     anotar(estado, momento, texto, "despido")
+    if agente["carta"]:
+        aprendizaje.anadir_biblioteca(estado, f"Carta de despedida: {agente['carta']}", agente["nombre"], comun.hoy_madrid(momento))
     try:
         avisos.crear_issue(f"🔴 Despedido {agente['nombre']} ({agente['titulo']})",
                            f"{texto}\n\n**Su carta al sustituto:**\n\n> {agente['carta'] or '(no pudo escribirla)'}\n\n"
@@ -142,6 +144,39 @@ def revisar_dinero_real(estado: dict, apuestas: list[dict], avisos, momento: dat
                                "dímelo y los construimos. Si prefieres esperar, cierra este aviso.", ["dinero-real"])
         except Exception as e:  # noqa: BLE001
             print(f"No se pudo crear el aviso: {e}")
+
+
+# --- Lección de cada noche y biblioteca --------------------------------------------------------------
+def lecciones(estado: dict, apuestas: list[dict], ia, momento: datetime) -> int:
+    """Cada analista escribe una lección sobre sus apuestas resueltas en las últimas 24 horas (una vez al día)."""
+    hoy, desde, n = comun.hoy_madrid(momento), comun.iso(momento - timedelta(hours=24)), 0
+    for agente in activos(estado):
+        if agente.get("lecciones") and agente["lecciones"][-1]["fecha"] == hoy:
+            continue
+        resueltas = [a for a in apuestas if a["agente"] == agente["id"] and (a.get("liquidada") or "") >= desde
+                     and a["estado"] != "pendiente"]
+        if not resueltas:
+            continue
+        try:
+            r = ia.pedir_json(prompts.INSTRUCCIONES_LECCION.format(**agente), prompts.mensaje_leccion(agente, resueltas))
+        except Exception as e:  # noqa: BLE001
+            print(f"{agente['nombre']} no pudo escribir su lección: {e}")
+            continue
+        aprendizaje.guardar_leccion(agente, r.get("leccion"), hoy, len(resueltas))
+        n += 1
+    return n
+
+
+def ordenar_biblioteca(estado: dict, apuestas: list[dict], ia, momento: datetime) -> None:
+    manager = next((a for a in activos(estado) if a["rol"] == "manager"), None)
+    if not manager:
+        return
+    try:
+        r = ia.pedir_json(prompts.INSTRUCCIONES_BIBLIOTECA.format(**manager), prompts.mensaje_biblioteca(estado, apuestas))
+    except Exception as e:  # noqa: BLE001
+        print(f"No se pudo ordenar la biblioteca: {e}")
+        return
+    aprendizaje.poner_biblioteca(estado, r.get("biblioteca") or [], comun.hoy_madrid(momento))
 
 
 # --- Reflexión de los domingos -----------------------------------------------------------------------
