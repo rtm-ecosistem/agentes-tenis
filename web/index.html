@@ -4,208 +4,229 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<meta name="theme-color" content="#1c2a1e">
+<meta name="theme-color" content="#120b08">
+<meta name="color-scheme" content="dark">
 <title>La oficina del tenis</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
+/* Madera oscura, ladrillo y verde de pista: los colores de la oficina */
 :root {
-  --fondo: #f4ead9; --tarjeta: #fffaf1; --tarjeta2: #f8efe0; --texto: #2a2119; --suave: #76685a; --borde: #e3d3bb;
-  --acento: #3a9b4a; --acento-suave: #e2f2df; --madera: #c98a4b; --sube: #2f8a3c; --baja: #c4422f; --aviso: #b06a00;
-  --sube-fondo: #e3f3df; --baja-fondo: #fbe6e1; --neutro-fondo: #efe4d3; --aviso-fondo: #fdf0d6; --marco: #1d241e;
-  --pixel: "Pixelify Sans", "Courier New", monospace; --radio: 14px;
-  --sombra: 0 1px 2px rgba(60, 40, 20, .06), 0 6px 18px rgba(60, 40, 20, .07);
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --fondo: #15130f; --tarjeta: #1f1b16; --tarjeta2: #26211b; --texto: #f1e8da; --suave: #b0a291; --borde: #3a3128;
-    --acento: #6fd17f; --acento-suave: #1f3322; --sube: #6fd17f; --baja: #ff8a75; --aviso: #f5b84b;
-    --sube-fondo: #1b2e1e; --baja-fondo: #3a201b; --neutro-fondo: #2c261f; --aviso-fondo: #33270f; --sombra: none;
-  }
-}
-:root[data-theme="dark"] {
-  --fondo: #15130f; --tarjeta: #1f1b16; --tarjeta2: #26211b; --texto: #f1e8da; --suave: #b0a291; --borde: #3a3128;
-  --acento: #6fd17f; --acento-suave: #1f3322; --sube: #6fd17f; --baja: #ff8a75; --aviso: #f5b84b;
-  --sube-fondo: #1b2e1e; --baja-fondo: #3a201b; --neutro-fondo: #2c261f; --aviso-fondo: #33270f; --sombra: none;
+  color-scheme: dark;
+  --fondo: #120b08; --texto: #f4e7d3; --suave: #c2a88a; --borde: rgba(255, 214, 170, .14);
+  --tarjeta: rgba(255, 236, 210, .05); --tarjeta2: rgba(255, 236, 210, .08);
+  --madera: #6b4226; --madera-clara: #8a5a36; --madera-oscura: #2a170d;
+  --acento: #a6d65a; --acento-suave: rgba(166, 214, 90, .16); --ambar: #e9b44c;
+  --sube: #8fe07a; --baja: #ff8a75; --aviso: #f2c25a;
+  --sube-fondo: rgba(143, 224, 122, .14); --baja-fondo: rgba(255, 138, 117, .15); --neutro-fondo: rgba(255, 236, 210, .08); --aviso-fondo: rgba(242, 194, 90, .14);
+  --papel: #f3e6cc; --tinta: #2a1d12;
+  --pixel: "Pixelify Sans", "Courier New", monospace;
+  --vidrio: linear-gradient(165deg, rgba(58, 34, 20, .93), rgba(30, 18, 11, .93));
+  --sombra: 0 14px 40px rgba(0, 0, 0, .5), inset 0 1px 0 rgba(255, 220, 180, .1);
 }
 * { box-sizing: border-box; font-feature-settings: "calt" 0, "liga" 0, "clig" 0; }
+html, body { height: 100%; }
 html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--fondo); color: var(--texto);
-  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+body { margin: 0; overflow: hidden; color: var(--texto);
+  background: radial-gradient(900px 600px at 50% 40%, #2a1710, transparent 70%), var(--fondo);
+  font: 14.5px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 a { color: var(--acento); }
 button { font: inherit; color: inherit; }
-.cab { max-width: 1120px; margin: 0 auto; padding: 16px 16px 4px; display: flex; align-items: center; gap: 12px; }
-.logo { width: 40px; height: 40px; border-radius: 10px; background: var(--marco); display: grid; place-items: center; flex: none;
-  box-shadow: inset 0 0 0 2px #3a9b4a; }
-.cab h1 { font: 700 22px/1.1 var(--pixel); margin: 0; letter-spacing: .01em; }
-.cab .sub { color: var(--suave); font-size: 12.5px; }
-.cab .estado { margin-left: auto; text-align: right; font-size: 12px; color: var(--suave); }
-@media (max-width: 640px) { .cab { flex-wrap: wrap; } .cab .estado { margin-left: 52px; text-align: left; width: 100%; } .cab .sub { display: none; } }
-nav.pestanas { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10; background: var(--tarjeta);
-  border-top: 1px solid var(--borde); padding: 6px 8px calc(6px + env(safe-area-inset-bottom)); display: flex; justify-content: center; }
-nav.pestanas .dentro { display: flex; gap: 4px; width: 100%; max-width: 620px; }
-nav.pestanas button { flex: 1; border: 0; background: none; padding: 6px 2px; border-radius: 10px; cursor: pointer;
-  display: flex; flex-direction: column; align-items: center; gap: 2px; font: 600 11.5px var(--pixel); color: var(--suave); }
-nav.pestanas button span.ico { font-size: 18px; line-height: 1; }
-nav.pestanas button[aria-selected="true"] { color: var(--acento); background: var(--acento-suave); }
-@media (min-width: 900px) {
-  body { padding-bottom: 0; }
-  nav.pestanas { position: sticky; top: 0; bottom: auto; border-top: 0; border-bottom: 1px solid var(--borde); background: var(--fondo); }
-  nav.pestanas button { flex-direction: row; justify-content: center; gap: 8px; font-size: 15px; padding: 9px; }
-}
-main { max-width: 1120px; margin: 0 auto; padding: 8px 16px 28px; }
-section[hidden] { display: none; }
-h2 { font: 700 20px var(--pixel); margin: 22px 2px 10px; }
-h3 { font-size: 15px; margin: 0 0 6px; }
-.tarjeta { background: var(--tarjeta); border: 1px solid var(--borde); border-radius: var(--radio); padding: 14px 16px; box-shadow: var(--sombra); }
-.vacio { color: var(--suave); font-style: italic; margin: 0; }
-.sube { color: var(--sube) !important; } .baja { color: var(--baja) !important; }
 .num { font-variant-numeric: tabular-nums; }
-.chip { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 650; padding: 1px 9px; border-radius: 999px;
-  background: var(--neutro-fondo); color: var(--suave); white-space: nowrap; }
-.chip.bien { background: var(--sube-fondo); color: var(--sube); } .chip.mal { background: var(--baja-fondo); color: var(--baja); }
-.chip.ojo { background: var(--aviso-fondo); color: var(--aviso); }
-.rejilla { display: grid; gap: 12px; }
-@media (min-width: 700px) { .rejilla.dos { grid-template-columns: 1fr 1fr; } .rejilla.cuatro { grid-template-columns: repeat(4, 1fr); } }
+.sube { color: var(--sube) !important; } .baja { color: var(--baja) !important; }
+.vacio { color: var(--suave); font-style: italic; margin: 0; }
 
-/* --- La oficina --- */
-.escenario { display: grid; gap: 14px; align-items: start; }
-@media (min-width: 980px) { .escenario { grid-template-columns: minmax(0, 1fr) 330px; } }
-.marco { background: var(--marco); padding: 10px; border-radius: 12px; box-shadow: 0 0 0 3px #2c3a2e, 0 10px 30px rgba(0,0,0,.25); position: relative; }
-.marco::after { content: ""; position: absolute; left: 10px; right: 10px; bottom: 4px; height: 3px; background: #3a9b4a; border-radius: 2px; opacity: .8; }
-.caja-lienzo { position: relative; width: 100%; aspect-ratio: 1 / 1; max-width: 760px; margin: 0 auto; }
-.caja-lienzo canvas { position: absolute; inset: 0; width: 100%; height: 100%; image-rendering: pixelated; image-rendering: crisp-edges; cursor: pointer; touch-action: manipulation; }
-.capa { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
-.burbuja { position: absolute; transform: translate(-50%, -100%); background: #fff; color: #1a1a1a; border: 3px solid #111;
-  padding: 5px 9px; font: 600 clamp(9.5px, 1.55vw, 15px)/1.25 var(--pixel); max-width: min(60%, 340px); width: max-content; box-shadow: 3px 3px 0 rgba(0,0,0,.25); }
-.burbuja::after { content: ""; position: absolute; left: 50%; bottom: -10px; width: 10px; height: 10px; background: #fff;
-  border-right: 3px solid #111; border-bottom: 3px solid #111; transform: translateX(-50%) skewX(-20deg); clip-path: polygon(0 0, 100% 0, 100% 100%); }
-.etiqueta { position: absolute; transform: translate(-50%, -100%); font: 700 clamp(8px, 1.15vw, 12px) var(--pixel); color: #fff;
-  background: rgba(20, 24, 20, .72); padding: 0 5px; border-radius: 3px; white-space: nowrap; }
-.etiqueta.tu { background: #3fbf4f; color: #0b250f; }
-.leyenda-oficina { color: var(--suave); font-size: 12.5px; text-align: center; margin: 8px 0 0; }
-.lado .tarjeta + .tarjeta { margin-top: 12px; }
-.hoy li { margin: 4px 0; } .hoy ul { padding-left: 18px; margin: 6px 0 0; }
-.bitacora { list-style: none; padding: 0; margin: 0; font-size: 13px; max-height: 260px; overflow: auto; }
+/* Marcos de madera: cabecera, menú, paneles y ficha */
+.madera { background: var(--vidrio); border: 2px solid var(--madera); box-shadow: var(--sombra), inset 0 0 0 1px rgba(0, 0, 0, .35);
+  -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
+
+/* --- La oficina a pantalla completa --- */
+.escena { position: fixed; inset: 0; overflow: hidden; touch-action: none; user-select: none; -webkit-user-select: none; }
+.caja-lienzo { position: absolute; transition: transform .3s cubic-bezier(.2, .8, .2, 1); }
+@media (min-width: 1000px) { body.con-panel .caja-lienzo { transform: translateX(200px); } body.con-panel.panel-grande .caja-lienzo { transform: none; } }
+.caja-lienzo canvas { display: block; width: 100%; height: 100%; image-rendering: pixelated; image-rendering: crisp-edges; cursor: pointer; }
+body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canvas { cursor: grabbing; }
+.capa { position: absolute; inset: 0; pointer-events: none; container-type: inline-size; }
+.etiqueta { position: absolute; transform: translate(-50%, -100%); pointer-events: auto; border: 0; cursor: pointer; white-space: nowrap;
+  font: 700 11.5px/1 var(--pixel); color: #fff; background: rgba(26, 14, 8, .78); padding: 3px 6px 3px 4px; border-radius: 5px;
+  box-shadow: 0 0 0 1px rgba(255, 220, 180, .25); display: inline-flex; gap: 4px; align-items: center; }
+.etiqueta .emo { font-size: 11px; }
+.etiqueta[aria-pressed="true"] { background: var(--acento); color: #17240b; }
+.etiqueta.sala { background: rgba(32, 48, 82, .9); box-shadow: 0 0 0 1px rgba(150, 190, 255, .45); padding: 4px 8px 4px 5px; }
+.bocadillo { position: absolute; transform: translate(-50%, calc(-100% - 20px)); width: max-content; max-width: min(250px, 42%);
+  background: #fffaf0; color: #1d140c; border: 2px solid #1d140c; border-radius: 6px; padding: 4px 8px;
+  font: 600 12px/1.3 var(--pixel); opacity: 0; transition: opacity .25s; pointer-events: none; box-shadow: 3px 3px 0 rgba(0, 0, 0, .35); }
+.bocadillo::after { content: ""; position: absolute; left: 50%; bottom: -8px; transform: translateX(-50%); border: 6px solid transparent; border-top-color: #1d140c; border-bottom: 0; }
+.bocadillo.visible { opacity: 1; }
+.bocadillo small { color: #6b4a2c; font-weight: 700; }
+.cartel { position: absolute; transform: translate(-50%, -100%); background: #ffd55a; color: #3d2c00; font: 700 11px var(--pixel); padding: 2px 7px; border: 2px solid #3d2c00; border-radius: 3px; }
+/* Letrero de luces en la pared del fondo (va inclinado como la pared) */
+.letrero { position: absolute; transform: translate(-50%, -50%) skewY(26.565deg); pointer-events: auto; cursor: pointer; border: 0; background: none; padding: 0;
+  font: 700 1.25cqw/1.15 var(--pixel); color: #b8ff6a; text-shadow: 0 0 .5cqw rgba(160, 255, 90, .8); letter-spacing: .06em; white-space: nowrap; text-align: center; }
+.letrero small { display: block; font-size: .78cqw; color: #ffd36b; text-shadow: 0 0 .4cqw rgba(255, 200, 90, .7); }
+.zoom { position: fixed; z-index: 21; right: 14px; bottom: 14px; display: flex; flex-direction: column; gap: 4px; padding: 5px; border-radius: 12px; }
+.zoom button { width: 36px; height: 36px; border: 0; border-radius: 8px; background: rgba(255, 236, 210, .08); font-size: 20px; line-height: 1; cursor: pointer; }
+.zoom button:hover { background: rgba(255, 236, 210, .16); }
+
+/* --- Cabecera, menú y pie --- */
+.cab { position: fixed; z-index: 22; top: 14px; right: 14px; display: flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; border-radius: 12px; }
+.logo { width: 34px; height: 34px; border-radius: 8px; background: #2f6b34; display: grid; place-items: center; flex: none; box-shadow: inset 0 0 0 2px #a6d65a; }
+.cab h1 { font: 700 16px/1.1 var(--pixel); margin: 0; }
+.cab .sub { color: var(--suave); font-size: 11.5px; }
+.dock { position: fixed; z-index: 26; top: 14px; left: 14px; display: flex; gap: 3px; padding: 5px; border-radius: 12px; }
+.dock button { display: flex; align-items: center; gap: 7px; border: 0; background: none; color: var(--suave); font: 600 14px var(--pixel); padding: 7px 11px; border-radius: 8px; cursor: pointer; }
+.dock button .ico { font-size: 16px; line-height: 1; }
+.dock button:hover { color: var(--texto); background: rgba(255, 236, 210, .07); }
+.dock button[aria-pressed="true"] { color: #17240b; background: var(--acento); box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .25); }
+.pie-escena { position: fixed; z-index: 20; left: 50%; bottom: 14px; transform: translateX(-50%); display: flex; gap: 14px; white-space: nowrap;
+  padding: 6px 14px; border-radius: 999px; font-size: 12.5px; color: var(--suave); }
+.pie-escena #que-hacen { color: var(--texto); font-weight: 600; }
+body.con-panel .pie-escena { left: calc(50% + 200px); }
+body.panel-grande .pie-escena { opacity: 0; }
+@media (max-width: 1150px) { .pie-escena .pista { display: none; } }
+@media (min-width: 700px) and (max-width: 1250px) { .cab .tit { display: none; } .cab { padding-right: 6px; } }
+
+/* --- Paneles --- */
+.panel { position: fixed; z-index: 24; top: 72px; left: 14px; bottom: 14px; width: 390px; border-radius: 14px; overflow-y: auto; overscroll-behavior: contain; padding: 0 14px 18px;
+  transform: translateX(calc(-100% - 30px)); visibility: hidden; transition: transform .3s cubic-bezier(.2, .8, .2, 1), visibility .3s, width .3s; }
+.panel.abierto { transform: none; visibility: visible; }
+.panel.grande { width: min(900px, calc(100vw - 28px)); }
+.cab-panel { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between; padding: 12px 0 10px; margin: 0 -2px;
+  background: linear-gradient(#3a2214 70%, rgba(58, 34, 20, 0)); }
+.cab-panel b { font: 700 19px var(--pixel); }
+.plegar { border: 0; width: 32px; height: 32px; border-radius: 8px; background: rgba(255, 236, 210, .1); font-size: 18px; line-height: 1; cursor: pointer; }
+section[hidden] { display: none; }
+h3 { font: 700 15px var(--pixel); margin: 0 0 6px; letter-spacing: .01em; }
+h4 { font: 700 15px var(--pixel); margin: 18px 2px 8px; color: var(--ambar); }
+.tarjeta { background: var(--tarjeta); border: 1px solid var(--borde); border-radius: 10px; padding: 12px 14px; }
+.tarjeta + .tarjeta { margin-top: 10px; }
+.chip { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 650; padding: 1px 9px; border-radius: 999px; background: var(--neutro-fondo); color: var(--suave); white-space: nowrap; }
+.chip.bien { background: var(--sube-fondo); color: var(--sube); } .chip.mal { background: var(--baja-fondo); color: var(--baja); } .chip.ojo { background: var(--aviso-fondo); color: var(--aviso); }
+.rejilla { display: grid; gap: 10px; }
+.rejilla > .tarjeta + .tarjeta { margin-top: 0; }
+@media (min-width: 760px) { .panel.grande .rejilla.dos { grid-template-columns: 1fr 1fr; } }
+.hoy ul { list-style: none; padding: 0; margin: 4px 0 0; display: grid; gap: 5px; }
+.bitacora { list-style: none; padding: 0; margin: 0; font-size: 13px; }
 .bitacora li { padding: 5px 0; border-top: 1px dashed var(--borde); } .bitacora li:first-child { border-top: 0; }
 .bitacora time { color: var(--suave); font-size: 11.5px; margin-right: 6px; }
-
-/* --- Analistas --- */
-.analista { display: flex; gap: 12px; align-items: center; cursor: pointer; text-align: left; width: 100%; }
-.pix { width: 46px; height: 46px; image-rendering: pixelated; background: var(--tarjeta2); border-radius: 10px; flex: none; border: 2px solid var(--borde); }
+.pix { width: 46px; height: 46px; image-rendering: pixelated; background: rgba(255, 236, 210, .07); border-radius: 8px; flex: none; border: 2px solid var(--madera); }
 .pix.grande { width: 84px; height: 84px; }
+.pix.mini { width: 26px; height: 26px; border-width: 1px; border-radius: 5px; }
+.analista { display: flex; gap: 12px; align-items: center; cursor: pointer; text-align: left; width: 100%; border: 0; background: none; padding: 0; }
 .analista .info { flex: 1; min-width: 0; }
 .analista .info b { font: 700 16px var(--pixel); display: block; }
 .analista .info small { color: var(--suave); font-size: 12.5px; }
-.cifras { display: flex; justify-content: space-between; gap: 8px; margin-top: 10px; font-size: 12.5px; color: var(--suave); }
-.cifras b { display: block; font-size: 15px; color: var(--texto); }
-.barra { height: 7px; background: var(--neutro-fondo); border-radius: 99px; overflow: hidden; margin-top: 8px; }
-.barra i { display: block; height: 100%; background: var(--acento); border-radius: 99px; }
+.cifras { display: flex; justify-content: space-between; gap: 8px; margin-top: 10px; font-size: 12px; color: var(--suave); }
+.cifras b { display: block; font-size: 14.5px; color: var(--texto); }
+.barra { height: 8px; background: rgba(0, 0, 0, .35); border-radius: 2px; overflow: hidden; margin-top: 8px; box-shadow: inset 0 0 0 1px rgba(255, 220, 180, .12); }
+.barra i { display: block; height: 100%; background: repeating-linear-gradient(90deg, var(--acento) 0 8px, #7fae3e 8px 10px); }
 
-/* --- Cartelera --- */
-.torneo { margin-top: 16px; }
-.torneo > h3 { font: 700 16px var(--pixel); display: flex; gap: 8px; align-items: center; }
-.partido { padding: 12px 14px; margin-top: 8px; }
+/* Cartelera */
+.torneo { margin-top: 14px; }
+.torneo > h3 { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.partido { margin-top: 8px; }
 .partido .cabecera { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; flex-wrap: wrap; }
 .partido .jugadores { font-weight: 700; }
 .partido .hora { color: var(--suave); font-size: 12.5px; }
 .mercados { display: grid; gap: 8px; margin-top: 10px; }
-@media (min-width: 700px) { .mercados { grid-template-columns: repeat(3, 1fr); } }
-.mercado { background: var(--tarjeta2); border-radius: 10px; padding: 8px 10px; font-size: 13px; }
-.mercado b { display: block; font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); margin-bottom: 3px; }
+@media (min-width: 760px) { .panel.grande .mercados { grid-template-columns: repeat(3, 1fr); } }
+.mercado { background: rgba(0, 0, 0, .22); border-radius: 8px; padding: 8px 10px; font-size: 13px; }
+.mercado b { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--suave); margin-bottom: 3px; }
 .opcion { display: flex; justify-content: space-between; gap: 6px; padding: 2px 0; }
-.opcion .q { font-variant-numeric: tabular-nums; font-weight: 700; }
+.opcion .q { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--ambar); }
 .opcion .p { color: var(--suave); font-size: 11.5px; font-variant-numeric: tabular-nums; }
 .apostado { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px; }
+.superficie { font-size: 11.5px; padding: 1px 8px; border-radius: 3px; font-weight: 700; color: #fff; }
+.superficie.hard { background: #3466b0; } .superficie.clay { background: #c0602e; } .superficie.grass { background: #3d8a3a; }
 
-/* --- Boletos --- */
-.filtros { display: flex; gap: 6px; flex-wrap: wrap; margin: 4px 0 12px; }
+/* Boletos: papel claro con bordes troquelados */
+.filtros { display: flex; gap: 6px; flex-wrap: wrap; margin: 2px 0 10px; }
 .filtros button { border: 1px solid var(--borde); background: var(--tarjeta); border-radius: 999px; padding: 4px 12px; cursor: pointer; font-size: 13px; }
-.filtros button[aria-pressed="true"] { background: var(--acento); color: #fff; border-color: var(--acento); }
-.boletos { display: grid; gap: 12px; }
-@media (min-width: 700px) { .boletos { grid-template-columns: repeat(2, 1fr); } }
-@media (min-width: 1040px) { .boletos { grid-template-columns: repeat(3, 1fr); } }
-.boleto { position: relative; background: var(--tarjeta); border: 1px solid var(--borde); border-radius: 6px; padding: 14px 16px 12px;
-  box-shadow: var(--sombra); font-size: 13.5px; }
-.boleto::before, .boleto::after { content: ""; position: absolute; left: 10px; right: 10px; height: 6px;
-  background: radial-gradient(circle at 4px 0, var(--fondo) 3px, transparent 3.5px) repeat-x; background-size: 10px 6px; }
-.boleto::before { top: -1px; } .boleto::after { bottom: -1px; transform: scaleY(-1); }
+.filtros button[aria-pressed="true"] { background: var(--acento); color: #17240b; border-color: var(--acento); font-weight: 700; }
+.boletos { display: grid; gap: 14px; }
+@media (min-width: 760px) { .panel.grande .boletos { grid-template-columns: repeat(2, 1fr); } }
+.boleto { position: relative; background: var(--papel); color: var(--tinta); border-radius: 3px; padding: 14px 16px 12px; font-size: 13.5px; box-shadow: 0 4px 0 rgba(0, 0, 0, .3); }
+.boleto::before, .boleto::after { content: ""; position: absolute; left: 0; right: 0; height: 6px; background: radial-gradient(circle at 5px 0, #2a1810 4px, transparent 4.5px) repeat-x; background-size: 10px 6px; }
+.boleto::before { top: 0; } .boleto::after { bottom: 0; transform: scaleY(-1); }
 .boleto .quien { display: flex; align-items: center; gap: 8px; font: 700 14px var(--pixel); }
-.boleto .quien img { width: 26px; height: 26px; image-rendering: pixelated; }
-.boleto .sel { font-weight: 750; font-size: 15px; margin: 8px 0 2px; }
-.boleto .linea { display: flex; justify-content: space-between; gap: 6px; border-top: 1px dashed var(--borde); padding-top: 6px; margin-top: 6px; }
-.boleto .motivo { color: var(--suave); font-size: 12.5px; margin: 6px 0 0; }
-.sello { position: absolute; top: 10px; right: 12px; font: 700 13px var(--pixel); padding: 1px 8px; border: 2px solid currentColor; border-radius: 4px; transform: rotate(4deg); }
-.sello.ganada { color: var(--sube); } .sello.perdida { color: var(--baja); } .sello.pendiente { color: var(--aviso); } .sello.nula { color: var(--suave); }
+.boleto .quien small { font: 12px system-ui, sans-serif; color: #7a6650; }
+.boleto .sel { font-weight: 750; font-size: 15px; margin: 8px 0 2px; padding-right: 70px; }
+.boleto .det { color: #6d5a45; font-size: 12.5px; }
+.boleto .linea { display: flex; justify-content: space-between; gap: 6px; border-top: 1px dashed #c9b48f; padding-top: 6px; margin-top: 6px; flex-wrap: wrap; }
+.boleto .chip { background: rgba(0, 0, 0, .07); color: #6d5a45; } .boleto .chip.bien { color: #2d7a2a; background: rgba(45, 122, 42, .12); } .boleto .chip.mal { color: #b03a26; background: rgba(176, 58, 38, .12); }
+.boleto .sube { color: #2d7a2a !important; } .boleto .baja { color: #b03a26 !important; }
+.boleto details { margin-top: 6px; color: #6d5a45; font-size: 12.5px; }
+.sello { position: absolute; top: 12px; right: 12px; font: 700 13px var(--pixel); padding: 1px 8px; border: 2px solid currentColor; border-radius: 3px; transform: rotate(5deg); }
+.sello.ganada { color: #2d7a2a; } .sello.perdida { color: #b03a26; } .sello.pendiente { color: #a26a00; } .sello.nula { color: #7a6650; }
 
-/* --- Clasificación --- */
-table.tabla { width: 100%; border-collapse: collapse; font-size: 14px; }
-.tabla th { text-align: left; font-size: 12px; color: var(--suave); font-weight: 600; padding: 6px 6px; border-bottom: 1px solid var(--borde); }
-.tabla td { padding: 8px 6px; border-bottom: 1px solid var(--borde); vertical-align: middle; }
+/* Clasificación */
+table.tabla { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+.tabla th { text-align: left; font-size: 11.5px; color: var(--suave); font-weight: 600; padding: 6px; border-bottom: 1px solid var(--borde); }
+.tabla td { padding: 7px 6px; border-bottom: 1px solid var(--borde); vertical-align: middle; }
 .tabla td.n, .tabla th.n { text-align: right; font-variant-numeric: tabular-nums; }
 .tabla tr:last-child td { border-bottom: 0; }
-.tabla .nom { display: flex; gap: 8px; align-items: center; cursor: pointer; font-weight: 650; }
-.tabla .nom img { width: 26px; height: 26px; image-rendering: pixelated; }
+.tabla .nom { display: inline-flex; gap: 8px; align-items: center; cursor: pointer; font-weight: 650; }
 .desplaza { overflow-x: auto; }
+.medalla { font-size: 16px; }
 
-/* --- Sala e informes --- */
-.informe p { margin: 6px 0; } .informe b { font-weight: 700; }
-.informe .hora { color: var(--suave); font-size: 12.5px; }
+/* Sala e informes */
+.informe p { margin: 6px 0; }
 details.plegable > summary { cursor: pointer; font-weight: 650; list-style: none; }
 details.plegable > summary::-webkit-details-marker { display: none; }
 details.plegable > summary::before { content: "▸ "; color: var(--suave); }
 details.plegable[open] > summary::before { content: "▾ "; }
 
-/* --- Ficha --- */
-.velo { position: fixed; inset: 0; background: rgba(10, 8, 5, .45); z-index: 20; display: flex; justify-content: flex-end; }
-.velo[hidden] { display: none; }
-.ficha { width: min(560px, 100%); height: 100%; overflow: auto; background: var(--fondo); padding: 18px 16px 40px; box-shadow: -10px 0 30px rgba(0,0,0,.2); }
-.ficha .cabecera { display: flex; gap: 14px; align-items: center; }
-.ficha .cabecera h2 { margin: 0; }
-.ficha .cerrar { margin-left: auto; border: 1px solid var(--borde); background: var(--tarjeta); border-radius: 10px; width: 38px; height: 38px; cursor: pointer; font-size: 18px; }
-.ficha .tarjeta { margin-top: 12px; }
+/* --- Ficha de un analista --- */
+.ficha { position: fixed; z-index: 30; top: 14px; right: 14px; bottom: 14px; width: min(470px, calc(100vw - 28px)); border-radius: 14px; overflow-y: auto; overscroll-behavior: contain;
+  padding: 16px 16px 30px; transform: translateX(calc(100% + 30px)); visibility: hidden; transition: transform .3s cubic-bezier(.2, .8, .2, 1), visibility .3s; }
+.ficha.abierta { transform: none; visibility: visible; }
+.ficha .cabecera { display: flex; gap: 14px; align-items: center; margin-bottom: 12px; }
+.ficha .cabecera h2 { font: 700 22px var(--pixel); margin: 0; }
+.ficha .cerrar { margin-left: auto; align-self: flex-start; border: 0; background: rgba(255, 236, 210, .1); border-radius: 8px; width: 36px; height: 36px; cursor: pointer; font-size: 17px; }
 .grafica svg { width: 100%; height: 150px; display: block; }
-.carta { font-family: Georgia, "Times New Roman", serif; font-style: italic; background: var(--tarjeta2); border-left: 3px solid var(--madera); padding: 10px 12px; margin: 6px 0 0; }
-.pie { color: var(--suave); font-size: 12px; text-align: center; margin: 30px 0 0; }
+.carta { font-family: Georgia, "Times New Roman", serif; font-style: italic; background: var(--papel); color: var(--tinta); border-radius: 3px; padding: 10px 12px; margin: 6px 0 0; }
+
+@media (max-width: 699px) {
+  .cab { top: calc(8px + env(safe-area-inset-top)); left: 8px; right: 8px; } .cab .sub { display: none; }
+  .dock { top: auto; bottom: calc(8px + env(safe-area-inset-bottom)); left: 8px; right: 8px; justify-content: space-around; }
+  .dock button { flex: 1 1 0; min-width: 0; flex-direction: column; gap: 2px; font-size: 11px; padding: 6px 2px; }
+  .zoom { right: 10px; top: calc(66px + env(safe-area-inset-top)); bottom: auto; }
+  .zoom button { width: 38px; height: 38px; }
+  .pie-escena { bottom: calc(76px + env(safe-area-inset-bottom)); font-size: 11.5px; } .pie-escena .pista, .pie-escena .aviso-legal { display: none; }
+  .panel, .panel.grande, .ficha { top: 0; left: 0; right: 0; bottom: 0; width: auto; border-radius: 0; border: 0; transform: translateY(105%); padding-top: env(safe-area-inset-top); }
+  .panel { bottom: calc(68px + env(safe-area-inset-bottom)); }
+  .panel.abierto, .ficha.abierta { transform: none; }
+  body.con-panel .pie-escena { display: none; }
+  .bocadillo { font-size: 10.5px; max-width: 60%; }
+  .etiqueta { font-size: 10.5px; }
+}
+@media (prefers-reduced-motion: reduce) { .panel, .ficha, .bocadillo, .caja-lienzo { transition: none; } }
 </style>
 </head>
 <body>
-<header class="cab">
-  <div class="logo" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 26 26" shape-rendering="crispEdges"><rect x="5" y="5" width="16" height="16" fill="#d7e64a"/><rect x="3" y="7" width="2" height="12" fill="#d7e64a"/><rect x="21" y="7" width="2" height="12" fill="#d7e64a"/><rect x="7" y="3" width="12" height="2" fill="#d7e64a"/><rect x="7" y="21" width="12" height="2" fill="#d7e64a"/><rect x="6" y="7" width="2" height="12" fill="#fff"/><rect x="18" y="7" width="2" height="12" fill="#fff"/></svg></div>
-  <div><h1>La oficina del tenis</h1><div class="sub" id="subtitulo">Cuatro analistas de IA apuestan al tenis con cuotas reales y dinero ficticio</div></div>
-  <div class="estado" id="estado-cab"></div>
+<div class="escena" id="escena"><div class="caja-lienzo" id="caja-lienzo"><canvas id="lienzo" aria-label="La oficina de los analistas de tenis"></canvas><div class="capa" id="capa"></div></div></div>
+<nav class="dock madera" aria-label="Paneles">
+  <button data-tab="plantilla" aria-pressed="false"><span class="ico">👥</span><span>Plantilla</span></button>
+  <button data-tab="cartelera" aria-pressed="false"><span class="ico">🎾</span><span>Cartelera</span></button>
+  <button data-tab="boletos" aria-pressed="false"><span class="ico">🧾</span><span>Boletos</span></button>
+  <button data-tab="clasificacion" aria-pressed="false"><span class="ico">🏆</span><span>Clasificación</span></button>
+  <button data-tab="sala" aria-pressed="false"><span class="ico">📋</span><span>Sala</span></button>
+</nav>
+<header class="cab madera">
+  <div class="logo" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 26 26" shape-rendering="crispEdges"><rect x="5" y="5" width="16" height="16" fill="#d7e64a"/><rect x="3" y="7" width="2" height="12" fill="#d7e64a"/><rect x="21" y="7" width="2" height="12" fill="#d7e64a"/><rect x="7" y="3" width="12" height="2" fill="#d7e64a"/><rect x="7" y="21" width="12" height="2" fill="#d7e64a"/><rect x="6" y="7" width="2" height="12" fill="#fff"/><rect x="18" y="7" width="2" height="12" fill="#fff"/></svg></div>
+  <div class="tit"><h1>La oficina del tenis</h1><div class="sub" id="subtitulo"></div></div>
 </header>
-<nav class="pestanas"><div class="dentro" role="tablist">
-  <button role="tab" data-tab="oficina" aria-selected="true"><span class="ico">🏢</span>Oficina</button>
-  <button role="tab" data-tab="cartelera"><span class="ico">🎾</span>Cartelera</button>
-  <button role="tab" data-tab="boletos"><span class="ico">🧾</span>Boletos</button>
-  <button role="tab" data-tab="clasificacion"><span class="ico">🏆</span>Clasificación</button>
-  <button role="tab" data-tab="sala"><span class="ico">📋</span>Sala</button>
-</div></nav>
-<main>
-  <section id="oficina">
-    <div class="escenario">
-      <div>
-        <div class="marco"><div class="caja-lienzo" id="caja-lienzo"><canvas id="lienzo" width="416" height="416" aria-label="La oficina de los analistas"></canvas><div class="capa" id="capa"></div></div></div>
-        <p class="leyenda-oficina">Pulsa en un analista para ver su ficha. Pulsa en el suelo (o usa las flechas) para pasear.</p>
-      </div>
-      <div class="lado">
-        <div class="tarjeta hoy" id="hoy"></div>
-        <div class="tarjeta"><h3>Lo último</h3><ul class="bitacora" id="bitacora"></ul></div>
-      </div>
-    </div>
-    <h2>La plantilla</h2>
-    <div class="rejilla dos" id="plantilla"></div>
-  </section>
+<aside class="panel madera" id="panel" aria-label="Panel">
+  <div class="cab-panel"><b id="titulo-panel"></b><button class="plegar" id="plegar" aria-label="Cerrar el panel">✕</button></div>
+  <section id="plantilla" hidden></section>
   <section id="cartelera" hidden></section>
   <section id="boletos" hidden></section>
   <section id="clasificacion" hidden></section>
   <section id="sala" hidden></section>
-  <p class="pie" id="pie"></p>
-</main>
-<div class="velo" id="velo" hidden><aside class="ficha" id="ficha" role="dialog" aria-modal="true"></aside></div>
+</aside>
+<aside class="ficha madera" id="ficha" aria-label="Ficha del analista"></aside>
+<div class="pie-escena madera"><span id="que-hacen"></span><span class="pista">Pulsa en un analista para ver su ficha</span><span class="aviso-legal">Dinero ficticio · cuotas reales</span></div>
 <script>
 'use strict';
 let D = null;
@@ -216,389 +237,774 @@ const pct = (x, signo = false, dec = 1) => x == null ? '–' : (signo && x > 0 ?
 const clase = x => x > 0 ? 'sube' : x < 0 ? 'baja' : '';
 const MADRID = new Intl.DateTimeFormat('es-ES', { timeZone: 'Europe/Madrid', weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 const HORA = new Intl.DateTimeFormat('es-ES', { timeZone: 'Europe/Madrid', hour: '2-digit', minute: '2-digit' });
-const DIA = new Intl.DateTimeFormat('es-ES', { timeZone: 'Europe/Madrid', weekday: 'long', day: 'numeric', month: 'long' });
 const cuando = iso => iso ? MADRID.format(new Date(iso)) : '';
 const NOM_MERCADO = { h2h: 'Ganador', spreads: 'Hándicap de juegos', totals: 'Total de juegos', set1: 'Primer set', sets_exactos: 'Sets exactos' };
-const SUPERFICIE = { hard: 'pista dura', clay: 'tierra batida', grass: 'hierba' };
+const SUPERFICIE = { hard: 'Pista dura', clay: 'Tierra batida', grass: 'Hierba' };
 const ESTADOS = { ganada: 'Ganada', perdida: 'Perdida', nula: 'Anulada', pendiente: 'Pendiente', 'media ganada': 'Media ganada', 'media perdida': 'Media perdida' };
 const activos = () => D.agentes.filter(a => a.estado === 'activo');
 const agentePor = id => D.agentes.find(a => a.id === id);
+const corta = (t, n = 110) => (t = String(t || '')).length > n ? t.slice(0, n - 3).replace(/\s\S*$/, '') + '…' : t;
+const pick = l => l[Math.floor(Math.random() * l.length)];
+const HORA_PRUEBA = Date.parse(new URLSearchParams(location.search).get('hora') || '');  // ?hora=2026-10-29T21:00:00Z para ver otra hora
+const AHORA = () => isNaN(HORA_PRUEBA) ? new Date() : new Date(HORA_PRUEBA + performance.now());
+const horaMadrid = (d = AHORA()) => +new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Madrid', hour: 'numeric', hourCycle: 'h23' }).format(d);
+// Fases del día: de noche duermen, a primera hora leen, a las 9 deciden y luego siguen los partidos
+function fase(h = horaMadrid()) { return h < 7 || h >= 23 ? 'noche' : h < 9 ? 'pre' : h < 10 ? 'decide' : 'partidos'; }
+const TEXTO_FASE = { noche: '🌙 La oficina duerme', pre: '📰 Leen las noticias de la jornada', decide: '✍️ Deciden las apuestas del día', partidos: '🎾 Siguen los partidos' };
 
-/* ---------- Personajes pixelados ---------- */
+/* ---------- Personajes (vista de tres cuartos, como en Habbo) ---------- */
 const PIELES = ['#f6d3b3', '#eebd94', '#d9a377', '#b97d55', '#8a5a3c', '#ffe0c4'];
-const PELOS = ['#2b1b10', '#5a3418', '#a4652b', '#16161a', '#b5461f', '#e6c76a', '#6e6e78', '#3b2a5a'];
+const PELOS = ['#2b1b10', '#5a3418', '#a4652b', '#16161a', '#9b2f1c', '#e6c76a', '#6e6e78', '#3b2a5a'];
 const PANTALONES = ['#2d3142', '#3c4258', '#23324d', '#4b3b2e', '#33363d'];
-const PEINADOS = ['corto', 'largo', 'moño', 'pinchos', 'flequillo'];
+const PEINADOS = ['corto', 'pinchos', 'largo', 'moño', 'rapado', 'flequillo'];
+// Los cuatro de la plantilla original tienen siempre la misma cara; los sustitutos salen al azar (pero siempre igual)
+const FIJOS = {
+  'estadistico-1': { piel: '#f6d3b3', pelo: '#2b1b10', peinado: 'corto', gafas: true, pantalon: '#3c4258' },
+  'reportero-1': { piel: '#eebd94', pelo: '#9b2f1c', peinado: 'largo', pantalon: '#23324d' },
+  'superficies-1': { piel: '#d9a377', pelo: '#6e6e78', peinado: 'rapado', barba: true, pantalon: '#4b3b2e' },
+  'manager-1': { piel: '#ffe0c4', pelo: '#16161a', peinado: 'moño', pantalon: '#2d3142' },
+};
 const hash = s => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
-function aspecto(semilla, camisa) {
-  const h = hash(semilla);
-  return { piel: PIELES[h % PIELES.length], pelo: PELOS[(h >>> 3) % PELOS.length], camisa, pantalon: PANTALONES[(h >>> 6) % PANTALONES.length],
-    peinado: PEINADOS[(h >>> 9) % PEINADOS.length], gafas: (h >>> 12) % 4 === 0 };
+function aspecto(a) {
+  const h = hash(a.id + a.nombre);
+  const base = { piel: PIELES[h % PIELES.length], pelo: PELOS[(h >>> 3) % PELOS.length], camisa: a.color || '#5b4ee6', pantalon: PANTALONES[(h >>> 6) % PANTALONES.length],
+    peinado: PEINADOS[(h >>> 9) % PEINADOS.length], gafas: (h >>> 12) % 4 === 0, corbata: false, barba: (h >>> 16) % 5 === 0 };
+  return { ...base, ...(FIJOS[a.id] ? { gafas: false, barba: false, ...FIJOS[a.id] } : {}) };
 }
 function mezclar(c, d, f) { const a = parseInt(c.slice(1), 16), b = parseInt(d.slice(1), 16), m = k => Math.round((a >> k & 255) * (1 - f) + (b >> k & 255) * f); return '#' + [16, 8, 0].map(k => m(k).toString(16).padStart(2, '0')).join(''); }
-const oscuro = (c, f = .25) => mezclar(c, '#000000', f), claro = (c, f = .25) => mezclar(c, '#ffffff', f);
-// Contorno oscuro de 1 px, como en los juegos de píxeles
-function contornear(c) {
-  const ctx = c.getContext('2d'), { width: w, height: h } = c, img = ctx.getImageData(0, 0, w, h), d = img.data, lleno = k => d[k * 4 + 3] > 100, borde = [];
+const oscurecer = (c, f = .72) => mezclar(c, '#000000', 1 - f), aclarar = (c, f = .25) => mezclar(c, '#ffffff', f);
+// Contorno oscuro de 1 px alrededor de todo lo pintado
+function contornear(c, color = [26, 16, 12]) {
+  const ctx = c.getContext('2d'), { width: w, height: h } = c, img = ctx.getImageData(0, 0, w, h), d = img.data, lleno = k => d[k * 4 + 3] > 100;
+  const borde = [];
   for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {
     const k = y * w + x; if (lleno(k)) continue;
     if ((x > 0 && lleno(k - 1)) || (x < w - 1 && lleno(k + 1)) || (y > 0 && lleno(k - w)) || (y < h - 1 && lleno(k + w))) borde.push(k);
   }
-  for (const k of borde) { d[k * 4] = 34; d[k * 4 + 1] = 26; d[k * 4 + 2] = 22; d[k * 4 + 3] = 255; }
+  for (const k of borde) { d[k * 4] = color[0]; d[k * 4 + 1] = color[1]; d[k * 4 + 2] = color[2]; d[k * 4 + 3] = 255; }
   ctx.putImageData(img, 0, 0); return c;
 }
-const SP = { W: 20, H: 30, X: 10, Y: 28 };  // tamaño del sprite y sus pies
-// dir: 'abajo' (de frente), 'arriba' (de espaldas), 'izq', 'der'
-function pintarPersonaje(ctx, ap, dir, f, pose) {
-  const r = (c, x, y, w, h) => { ctx.fillStyle = c; ctx.fillRect(SP.X + x, SP.Y + y, w, h); };
-  const lado = dir === 'izq' || dir === 'der', esp = dir === 'arriba', anda = pose === 'andar', sent = pose === 'sentado';
-  const piel = ap.piel, pielS = oscuro(piel, .14), cam = ap.camisa, camS = oscuro(cam, .25), camL = claro(cam, .2), pelo = ap.pelo, peloL = claro(pelo, .2);
-  const pan = ap.pantalon, zap = '#2a2622';
-  const p = anda ? [1, 0, -1, 0][f % 4] : 0;
-  // Piernas
+const AV = { W: 44, H: 76, X: 22, Y: 72 };   // tamaño del sprite y posición de los pies dentro de él
+// Mira hacia abajo a la izquierda (o arriba a la derecha si va de espaldas)
+function pintarAvatar(ctx, ap, o) {
+  const esp = !!o.espalda, f = o.frame | 0, sent = o.pose === 'sentado', anda = o.pose === 'andar';
+  const r = (c, x, y, w, h) => { ctx.fillStyle = c; ctx.fillRect(AV.X + (esp ? -x - w : x), AV.Y + y, w, h); };
+  const piel = ap.piel, pielS = oscurecer(piel, .84), cam = ap.camisa, camS = oscurecer(cam, .74), camL = aclarar(cam, .2);
+  const pan = ap.pantalon, panS = oscurecer(pan, .72), pelo = ap.pelo, peloS = oscurecer(pelo, .7), peloL = aclarar(pelo, .22);
+  const zap = '#26262e', zapL = '#4b4b57';
   if (!sent) {
-    if (lado) { r(pan, -3, -7, 3, 5 + p); r(oscuro(pan, .2), 0, -7, 3, 5 - p); r(zap, -3 , -2 + p, 4, 2); r(zap, 0, -2 - p, 4, 2); }
-    else { r(pan, -4, -7, 3, 5 + p); r(pan, 1, -7, 3, 5 - p); r(oscuro(pan, .25), 0, -7, 1, 4); r(zap, -4, -2 + p, 3, 2); r(zap, 1, -2 - p, 3, 2); }
-  } else { r(pan, -4, -7, 8, 3); }
-  // Cuerpo y brazos
-  const ancho = lado ? 8 : 10, x0 = -ancho / 2;
-  r(cam, x0, -15, ancho, 9); r(camS, x0, -8, ancho, 2); r(camL, x0 + 1, -15, 2, 6);
-  if (!lado) { const b = anda ? p : 0; r(camS, x0 - 2, -14 + b, 2, 6); r(camS, x0 + ancho, -14 - b, 2, 6); r(piel, x0 - 2, -8 + b, 2, 2); r(piel, x0 + ancho, -8 - b, 2, 2); }
-  else { const b = anda ? p * 2 : 0; r(camS, -1 + b, -14, 3, 6); r(piel, -1 + b, -8, 3, 2); }
-  if (!esp && !lado) { r(piel, -2, -15, 4, 2); }
-  // Cabeza grande
-  const H = -27;
-  r(piel, -6, H, 12, 12); r(pielS, -6, H + 10, 12, 2);
-  if (!esp) {
-    if (lado) { const m = dir === 'izq' ? -1 : 1; r('#231c18', m * 3 - (m < 0 ? 1 : 0), H + 6, 1, 2); r(pielS, m * 6 - (m < 0 ? 1 : 0), H + 7, 1, 2); }
-    else { r('#231c18', -3, H + 6, 1, 2); r('#231c18', 2, H + 6, 1, 2); r('#e79a86', -5, H + 8, 2, 1); r('#e79a86', 3, H + 8, 2, 1); r('#9b4b3f', -1, H + 9, 2, 1); }
-    if (ap.gafas && !lado) { r('#2a2630', -5, H + 5, 4, 1); r('#2a2630', 1, H + 5, 4, 1); r('#2a2630', -1, H + 5, 2, 1); }
-  }
-  // Pelo
-  const pz = ap.peinado;
-  r(pelo, -7, H - 1, 14, 4); r(peloL, -5, H - 1, 4, 1);
-  if (esp) { r(pelo, -7, H + 2, 14, 8); if (pz === 'largo') r(pelo, -7, H + 9, 14, 6); if (pz === 'moño') r(pelo, -2, H - 4, 4, 3); }
-  else if (lado) {
-    const m = dir === 'izq' ? 1 : -1; r(pelo, m > 0 ? 1 : -7, H + 2, 6, 6);
-    if (pz === 'largo') r(pelo, m > 0 ? 2 : -7, H + 7, 5, 7); if (pz === 'moño') r(pelo, m > 0 ? 3 : -6, H - 3, 4, 4);
+    const p = anda ? [2, 0, -2, 0][f % 4] : 0;
+    r(panS, 0 - p, -14, 4, 11); r('#1d1d24', -1 - p, -4, 5, 3);
+    r(pan, -4 + p, -14, 5, 12); r(oscurecer(pan, .86), 0 + p, -14, 1, 12); r(zap, -7 + p, -3, 7, 3); r(zapL, -6 + p, -3, 3, 1);
   } else {
-    r(pelo, -7, H + 2, 2, 5); r(pelo, 5, H + 2, 2, 5);
-    if (pz === 'flequillo') r(pelo, -6, H + 2, 8, 2); else r(pelo, -6, H + 2, 3, 1);
-    if (pz === 'largo') { r(pelo, -7, H + 6, 2, 9); r(pelo, 5, H + 6, 2, 9); }
-    if (pz === 'moño') r(pelo, -2, H - 4, 4, 3);
-    if (pz === 'pinchos') for (const x of [-6, -2, 2]) r(pelo, x, H - 3, 3, 2);
+    r(pan, -9, -13, 12, 5); r(panS, -9, -9, 12, 1); r(pan, -9, -8, 4, 6); r(panS, -6, -8, 1, 6); r(zap, -12, -3, 7, 3);
   }
+  const T = -29, sw = anda ? [1, 0, -1, 0][f % 4] : 0, tec = o.tecleando ? f % 2 : 0;
+  if (!o.caja && !sent) { r(camS, 4, T + 1 - sw, 3, 10); r(pielS, 4, T + 11 - sw, 3, 3); }
+  r(cam, -5, T, 11, 16); r(camS, 3, T, 3, 16); r(camL, -5, T, 2, 15); r(oscurecer(pan, .55), -5, T + 14, 11, 2);
+  if (!esp) {
+    r(piel, -4, T, 4, 2); r(piel, -3, T + 2, 2, 1);
+    if (ap.corbata) { r('#1f2433', -3, T + 3, 2, 9); r('#46507a', -3, T + 3, 1, 2); }
+    else { r(camS, -2, T + 5, 1, 1); r(camS, -2, T + 9, 1, 1); }
+  }
+  if (o.caja) {
+    r('#b78653', -11, T + 4, 15, 11); r('#9a6b3c', -11, T + 4, 15, 2); r('#d3a571', -11, T + 8, 15, 1); r('#7d5530', 1, T + 6, 3, 9);
+    r(piel, -12, T + 7, 3, 3); r(pielS, 3, T + 7, 3, 3);
+  } else if (sent) {
+    r(camS, 4, T + 1, 3, 7); r(camL, -7, T + 1, 3, 7);
+    r(cam, -12, T + 7, 7, 3); r(camS, -12, T + 9, 7, 1); r(piel, -15, T + 7 - tec, 3, 3);
+    r(camS, 1, T + 8, 4, 3); r(pielS, -2, T + 9 - (o.tecleando ? 1 - tec : 0), 3, 2);
+  } else {
+    r(camL, -7, T + 1 + sw, 3, 10); r(cam, -5, T + 1 + sw, 1, 10); r(piel, -7, T + 11 + sw, 3, 3);
+  }
+  r(pielS, -2, T - 2, 4, 2);
+  const H = T - 21 + (o.durmiendo ? 2 : 0);
+  r(piel, -6, H, 12, 19); r(piel, -8, H + 2, 16, 15); r(piel, -7, H + 1, 14, 17);
+  r(pielS, 4, H + 3, 3, 13); r(pielS, 3, H + 16, 3, 1); r(pielS, -5, H + 18, 9, 1);
+  r(piel, 2, H + 8, 4, 5); r(pielS, 4, H + 9, 1, 3);
+  if (!esp) {
+    r(piel, -10, H + 10, 2, 2); r(pielS, -9, H + 12, 1, 1);
+    if (o.durmiendo || o.parpadeo) { r('#3a2a25', -7, H + 9, 1, 1); r('#3a2a25', -4, H + 9, 3, 1); }
+    else { r('#1d1a22', -7, H + 7, 1, 3); r('#1d1a22', -4, H + 7, 2, 3); r('#ffffff', -4, H + 7, 1, 1); }
+    r('#a8524a', -7, H + 14, 3, 1); r(aclarar(piel, .1), -6, H + 15, 2, 1);
+    r(mezclar('#e88a7a', piel, .55), -2, H + 11, 2, 1);
+    if (ap.gafas) { const g = '#2a2630'; r(g, -9, H + 6, 3, 1); r(g, -9, H + 10, 3, 1); r(g, -5, H + 6, 4, 1); r(g, -5, H + 10, 4, 1); r(g, -6, H + 7, 1, 1); r(g, -2, H + 6, 1, 5); r(g, -1, H + 7, 4, 1); }
+    if (ap.barba) { r(pelo, -8, H + 12, 11, 5); r(pelo, -6, H + 17, 8, 2); r(peloS, 0, H + 12, 3, 6); r('#a8524a', -7, H + 14, 3, 1); }
+  }
+  const pz = ap.peinado;
+  if (esp) {
+    r(pelo, -7, H - 1, 14, pz === 'rapado' ? 9 : 15); r(pelo, -8, H + 1, 16, pz === 'rapado' ? 7 : 13); r(peloS, 3, H + 1, 5, pz === 'rapado' ? 7 : 13); r(peloL, -5, H, 5, 2);
+    r(piel, 2, H + 8, 4, 5); r(pielS, 4, H + 9, 1, 3);
+    if (pz === 'largo') { r(pelo, -8, H + 6, 16, 18); r(peloS, 3, H + 6, 5, 18); }
+    if (pz === 'moño') { r(pelo, -4, H - 5, 7, 6); r(peloS, 0, H - 4, 3, 5); }
+    if (pz === 'pinchos') for (const x of [-7, -3, 1, 4]) { r(pelo, x, H - 4, 3, 4); r(pelo, x + 1, H - 5, 1, 1); }
+    return;
+  }
+  if (pz === 'rapado') { r(pelo, -6, H - 1, 12, 3); r(pelo, -7, H + 1, 14, 2); r(pelo, 0, H + 3, 7, 4); r(peloS, 3, H + 1, 4, 6); r(piel, 2, H + 8, 4, 5); return; }
+  r(pelo, -6, H - 1, 12, 2); r(pelo, -8, H + 1, 16, 4); r(pelo, -7, H, 14, 2); r(pelo, 0, H + 4, 8, 4); r(pelo, 5, H + 4, 3, 10);
+  r(peloS, 3, H + 2, 5, 8); r(peloL, -5, H - 1, 6, 1); r(peloL, -6, H + 1, 2, 1);
+  r(pelo, -8, H + 5, 2, 1); r(pelo, -4, H + 5, 3, 1);
+  if (pz === 'flequillo') { r(pelo, -9, H + 3, 9, 3); r(pelo, -9, H + 6, 3, 1); r(peloL, -8, H + 3, 4, 1); }
+  else if (pz === 'corto') { r(pelo, -8, H + 4, 4, 1); }
+  else if (pz === 'pinchos') { for (const x of [-8, -4, 0, 4]) { r(pelo, x, H - 4, 3, 4); r(pelo, x + 1, H - 5, 1, 1); } r(peloL, -7, H - 3, 1, 2); }
+  else if (pz === 'largo') { r(pelo, 1, H + 6, 8, 19); r(peloS, 5, H + 6, 4, 19); r(pelo, -9, H + 3, 3, 9); r(peloL, -9, H + 3, 1, 5); }
+  else if (pz === 'moño') { r(pelo, 3, H - 5, 7, 6); r(peloS, 6, H - 4, 3, 5); r(peloL, 4, H - 5, 2, 1); }
 }
 const SPR = new Map();
-function sprite(ap, dir = 'abajo', f = 0, pose = '') {
-  const k = JSON.stringify([ap, dir, f % 4, pose]);
+function spriteAvatar(ap, o) {
+  const k = JSON.stringify([ap, o]);
   if (!SPR.has(k)) {
-    const c = document.createElement('canvas'); c.width = SP.W; c.height = SP.H;
-    pintarPersonaje(c.getContext('2d'), ap, dir, f, pose); contornear(c);
-    if (SPR.size > 500) SPR.clear();
+    const c = document.createElement('canvas'); c.width = AV.W; c.height = AV.H;
+    const ctx = c.getContext('2d');
+    if (o.voltear) { ctx.translate(AV.W, 0); ctx.scale(-1, 1); }
+    pintarAvatar(ctx, ap, o); contornear(c);
+    if (SPR.size > 600) SPR.clear();
     SPR.set(k, c);
   }
   return SPR.get(k);
 }
-const RETRATOS = {};
+const CACHE_PIX = {};
 function retrato(a) {
-  if (!RETRATOS[a.id]) {
-    const c = document.createElement('canvas'); c.width = 20; c.height = 20;
-    c.getContext('2d').drawImage(sprite(aspectoDe(a)), 0, 0, 20, 20, 0, 0, 20, 20);
-    RETRATOS[a.id] = c.toDataURL();
+  if (!CACHE_PIX[a.id]) {
+    const c = document.createElement('canvas'); c.width = 30; c.height = 30;
+    c.getContext('2d').drawImage(spriteAvatar(aspecto(a), {}), 6, 14, 30, 30, 0, 0, 30, 30);
+    CACHE_PIX[a.id] = c.toDataURL();
   }
-  return RETRATOS[a.id];
+  return CACHE_PIX[a.id];
 }
-const aspectoDe = a => aspecto(a.id + a.nombre, a.color || '#557');
-const pix = (a, cls = '') => `<img class="pix ${cls}" src="${retrato(a)}" alt="">`;
-
-/* ---------- La oficina (vista cenital, como la captura) ---------- */
-const W = 416, PARED = 74;
-const lienzo = $('#lienzo'), ctx = lienzo.getContext('2d');
-const fondo = document.createElement('canvas'); fondo.width = W; fondo.height = W;
-// Mesas de los analistas: [x, y] de la esquina; el analista se sienta debajo, de espaldas, mirando la pantalla
-const MESAS = { estadistico: [44, 102], reportero: [152, 102], superficies: [44, 196], manager: [152, 196] };
-const SALA = { x: 286, y: 92, w: 122, h: 178, puerta: [316, 356] };
-const SITIOS_SALA = [[319, 174], [319, 200], [375, 174], [375, 200]];   // en las sillas de la mesa larga
-const PASEO = { agua: [38, 300], sofa: [318, 352], sala: [336, 288], estanteria: [60, 362], ventana: [104, 86], cartel: [208, 86], puerta: [208, 398] };
-const BLOQUES = [];   // rectángulos por los que no se puede andar
-const tablaPaseo = [];
-function bloquear(x, y, w, h) { BLOQUES.push([x, y, w, h]); }
-
-function R(c, x, y, w, h, g = ctx) { g.fillStyle = c; g.fillRect(Math.round(x), Math.round(y), Math.round(w), Math.round(h)); }
-function planta(g, x, y, grande = false) {
-  const s = grande ? 1.25 : 1;
-  R('#e9e4da', x - 6 * s, y - 2, 12 * s, 9 * s, g); R('#cfc7b8', x - 6 * s, y + 5 * s, 12 * s, 2, g); R('#bdb4a3', x - 5 * s, y - 2, 10 * s, 2, g);
-  const hojas = [[-9, -14, 7, 3], [3, -14, 7, 3], [-7, -20, 5, 3], [2, -20, 5, 3], [-3, -24, 6, 4], [-11, -9, 6, 3], [5, -9, 6, 3], [-4, -16, 8, 13]];
-  for (const [hx, hy, hw, hh] of hojas) { R('#2f8f3c', x + hx * s, y + hy * s, hw * s, hh * s, g); R('#57b84e', x + hx * s + 1, y + hy * s, Math.max(1, hw * s - 3), 1, g); }
-  R('#1f6b2a', x - 1, y - 12 * s, 2, 10 * s, g);
+const pix = (a, cls = '') => `<img class="pix ${cls}" src="${retrato(a)}" alt="" width="30" height="30">`;
+function animo(a) {
+  if (a.estado !== 'activo') return { cara: '📦', texto: 'Ya no trabaja aquí' };
+  const g = a.total?.ganancia || 0, s = a.situacion || {};
+  if (!a.total?.apuestas) return { cara: '🙂', texto: 'Aún no tiene apuestas liquidadas' };
+  if (s.rentabilidad < -.07) return { cara: '😰', texto: 'Se acerca a la zona de despido' };
+  return g > 0 ? { cara: '😄', texto: 'Va ganando' } : g < 0 ? { cara: '😟', texto: 'Va perdiendo' } : { cara: '🙂', texto: 'Ni gana ni pierde' };
 }
-function pintarFondo() {
-  const g = fondo.getContext('2d');
-  R('#2a2420', 0, 0, W, W, g);
-  // Pared con zócalo
-  R('#ead6b5', 6, 6, W - 12, PARED - 6, g); R('#dcc39b', 6, PARED - 10, W - 12, 4, g); R('#7a5233', 6, PARED - 6, W - 12, 6, g);
-  // Suelo de tablones
-  for (let y = PARED; y < W - 6; y += 8) {
-    const fila = (y - PARED) / 8;
-    R(fila % 2 ? '#cf8d4f' : '#d39555', 6, y, W - 12, 8, g); R('#b8783f', 6, y + 7, W - 12, 1, g);
-    for (let x = 6 + (fila * 37) % 64; x < W - 6; x += 64) R('#b8783f', x, y, 1, 7, g);
-    for (let x = 20 + (fila * 23) % 90; x < W - 6; x += 90) R('#dba066', x, y + 2, 14, 1, g);
-  }
-  // Ventanas con la ciudad
-  for (const x of [56, 300]) {
-    R('#7a5233', x - 3, 13, 66, 48, g); R('#9fd3f0', x, 16, 60, 42, g); R('#c4e6f7', x, 16, 60, 10, g);
-    for (const [bx, bh, c] of [[4, 22, '#8ea6b8'], [14, 30, '#a6b9c8'], [26, 18, '#93aabd'], [36, 26, '#b2c3d0'], [48, 20, '#8ea6b8']]) {
-      R(c, x + bx, 58 - bh, 9, bh, g); for (let wy = 60 - bh; wy < 54; wy += 4) R('#dfe9ef', x + bx + 2, wy, 2, 2, g);
+
+/* ---------- La oficina (isométrica) ---------- */
+const OF = { W: 816, H: 566, N: 14, M: 10, OX: 344, OY: 156, MURO: 128 };
+const P = (i, j, z = 0) => [OF.OX + (i - j) * 32, OF.OY + (i + j) * 16 - z];
+// Mesas de 2×1 baldosas; el analista se sienta detrás, mirando hacia nosotros. La manager tiene un despacho delante.
+const MESAS = { estadistico: [5.1, 2.0], reportero: [7.5, 2.0], superficies: [6.3, 4.6] };
+const DESPACHO = { i: 5.9, j: 7.4, w: 2.4, d: 1.1 };
+const PUERTA = [0.45, 1.8];
+// Sala de analistas: alfombra azul, ventanal y una mesa larga con cuatro analistas
+const SALA = { i0: 9.8, j0: 0, i1: 14, j1: 6.6, mesa: [10.7, 2.5], w: 2.6, d: 1 };
+const SITIOS_SALA = [[11.35, 2.05, false], [12.65, 2.05, false], [11.35, 3.95, true], [12.65, 3.95, true]];   // [i, j, de espaldas]
+const NOMBRES_SALA = ['Analista de datos', 'Analista de noticias', 'Analista de ambiente', 'Debate'];
+const SITIOS = { chimenea: [3.3, 1.1], agua: [1.0, 6.0], libros: [1.0, 4.0], sofa: [2.2, 7.0], ventana: [11.5, 1.0], pizarra: [10.6, 4.6], teles: [6.4, 1.0], trofeo: [8.9, 8.4] };
+let ESCENA = null;
+
+// Relleno nítido (sin suavizado) de un polígono convexo, columna a columna
+function rell(ctx, pts, color) {
+  ctx.fillStyle = color;
+  const xs = pts.map(p => p[0]), x0 = Math.floor(Math.min(...xs)), x1 = Math.ceil(Math.max(...xs));
+  for (let x = x0; x < x1; x++) {
+    const cx = x + .5; let lo = Infinity, hi = -Infinity;
+    for (let k = 0; k < pts.length; k++) {
+      const [ax, ay] = pts[k], [bx, by] = pts[(k + 1) % pts.length];
+      if (ax === bx || cx < Math.min(ax, bx) || cx > Math.max(ax, bx)) continue;
+      const y = ay + (by - ay) * (cx - ax) / (bx - ax); lo = Math.min(lo, y); hi = Math.max(hi, y);
     }
-    R('#5aa64a', x, 52, 60, 6, g); R('#7a5233', x + 29, 16, 2, 42, g); R('#7a5233', x, 36, 60, 2, g); R('#5e3e27', x - 3, 59, 66, 3, g);
+    const a = Math.round(lo), b = Math.round(hi);
+    if (b > a) ctx.fillRect(x, a, 1, b - a);
   }
-  // Plantas de las esquinas
-  planta(g, 26, 60, true); planta(g, 390, 60, true);
-  // Mesas de los analistas
-  for (const [x, y] of Object.values(MESAS)) {
-    R('#9b6a3a', x, y, 92, 30, g); R('#b07a45', x, y, 92, 4, g); R('#7d532b', x, y + 28, 92, 4, g); R('#6b4524', x + 4, y + 32, 4, 10, g); R('#6b4524', x + 84, y + 32, 4, 10, g);
-    R('#3a3f4a', x + 30, y - 10, 32, 20, g); R('#2b2f38', x + 43, y + 10, 6, 4, g); R('#262a33', x + 38, y + 13, 16, 3, g);  // monitor
-    R('#e5e1d8', x + 30, y + 18, 26, 6, g); R('#c9c3b6', x + 31, y + 19, 24, 1, g);                                    // teclado
-    planta(g, x + 12, y + 14); R('#f2efe8', x + 74, y + 12, 6, 7, g); R('#d7d2c8', x + 80, y + 14, 2, 3, g);           // planta y taza
-    bloquear(x, y - 10, 92, 44);
+}
+function linea(ctx, [x0, y0], [x1, y1], color) {
+  ctx.fillStyle = color; x0 = Math.round(x0); y0 = Math.round(y0); x1 = Math.round(x1); y1 = Math.round(y1);
+  const n = Math.max(Math.abs(x1 - x0), Math.abs(y1 - y0)) || 1;
+  for (let k = 0; k <= n; k++) ctx.fillRect(Math.round(x0 + (x1 - x0) * k / n), Math.round(y0 + (y1 - y0) * k / n), 1, 1);
+}
+const punto = (ctx, [x, y], c, w = 1, h = 1) => { ctx.fillStyle = c; ctx.fillRect(Math.round(x), Math.round(y), w, h); };
+// Caja isométrica con las caras visibles (izq: la de j+d; der: la de i+w) y el canto superior iluminado
+function caja3(ctx, Q, i, j, z, w, d, h, col, o = {}) {
+  const top = o.top || aclarar(col, .14), izq = o.izq || col, der = o.der || oscurecer(col, .8);
+  if (h > 0) {
+    rell(ctx, [Q(i, j + d, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], izq);
+    rell(ctx, [Q(i + w, j, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i + w, j, z + h)], der);
   }
-  // Sala de analistas: suelo azulado y cristal
-  const S = SALA;
-  R('#8fb6c4', S.x, S.y, S.w, S.h, g);
-  for (let y = S.y; y < S.y + S.h; y += 12) for (let x = S.x + ((y / 12) % 2) * 6; x < S.x + S.w; x += 12) R('#86adbb', x, y, 6, 6, g);
-  R('#9c6a3c', S.x + 46, S.y + 34, 30, 112, g); R('#b07a45', S.x + 46, S.y + 34, 30, 4, g); R('#7d532b', S.x + 46, S.y + 144, 30, 3, g); // mesa larga
-  planta(g, S.x + 61, S.y + 92);
-  for (const cy of [S.y + 44, S.y + 70, S.y + 96, S.y + 122]) {   // sillas vacías a los lados
-    R('#2f3238', S.x + 26, cy, 14, 14, g); R('#3d4149', S.x + 26, cy, 14, 3, g); R('#2f3238', S.x + 82, cy, 14, 14, g); R('#3d4149', S.x + 82, cy, 14, 3, g);
+  rell(ctx, [Q(i, j, z + h), Q(i + w, j, z + h), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], top);
+  if (o.canto !== false && w * d > .02) {
+    const c = aclarar(top, .35); linea(ctx, Q(i, j + d, z + h), Q(i + w, j + d, z + h), c); linea(ctx, Q(i + w, j, z + h), Q(i + w, j + d, z + h), c);
+    if (h > 3) linea(ctx, Q(i + w, j + d, z), Q(i + w, j + d, z + h - 1), oscurecer(der, .78));
   }
-  planta(g, S.x + S.w - 14, S.y + 24);
-  g.globalAlpha = .35; R('#cfeaf5', S.x, S.y, S.w, S.h, g); g.globalAlpha = 1;
-  R('#2b2f35', S.x - 3, S.y - 3, S.w + 6, 3, g); R('#2b2f35', S.x - 3, S.y, 3, S.h + 3, g); R('#2b2f35', S.x + S.w, S.y, 3, S.h + 3, g);
-  R('#2b2f35', S.x - 3, S.y + S.h, 34, 3, g); R('#2b2f35', S.x + 61, S.y + S.h, S.w - 58, 3, g);   // puerta abierta
-  R('#d8b25a', S.x + 58, S.y + S.h - 12, 2, 8, g); R('#d8b25a', S.x + 64, S.y + S.h - 12, 2, 8, g);
-  bloquear(S.x - 3, S.y - 3, S.w + 6, 3); bloquear(S.x - 3, S.y, 3, S.h + 3); bloquear(S.x + S.w, S.y, 3, S.h + 3);
-  bloquear(S.x - 3, S.y + S.h - 2, 34, 6); bloquear(S.x + 61, S.y + S.h - 2, S.w - 58, 6); bloquear(S.x + 26, S.y + 34, 70, 116);
-  // Rincón del sofá
-  R('#e9dcc0', 262, 296, 140, 104, g); R('#cdbb98', 262, 296, 140, 2, g); R('#5fae55', 268, 302, 128, 2, g);
-  R('#3a9b4a', 300, 302, 100, 20, g); R('#4fb85c', 300, 302, 100, 5, g); R('#3a9b4a', 380, 302, 20, 84, g); R('#4fb85c', 380, 302, 5, 84, g);
-  for (const x of [314, 340, 366]) R('#2f8540', x, 308, 1, 12, g);
-  R('#9c6a3c', 300, 340, 40, 22, g); R('#b07a45', 300, 340, 40, 3, g); planta(g, 320, 352);                       // mesita
-  R('#3a9b4a', 270, 362, 22, 20, g); R('#4fb85c', 270, 362, 22, 5, g);                                         // butaca
-  R('#3a3a3a', 404, 304, 2, 60, g); R('#efe6c8', 398, 290, 14, 12, g);                                         // lámpara
-  planta(g, 392, 392, true);
-  bloquear(300, 300, 100, 22); bloquear(380, 300, 22, 86); bloquear(298, 338, 44, 26); bloquear(268, 360, 26, 24);
-  // Fuente de agua, planta y estantería
-  R('#e6e6e6', 16, 262, 22, 34, g); R('#c9c9c9', 16, 290, 22, 6, g); R('#8fc8ef', 18, 246, 18, 18, g); R('#b5dcf5', 20, 248, 6, 12, g);
-  R('#d04a3a', 20, 276, 4, 3, g); R('#3a76d0', 30, 276, 4, 3, g); planta(g, 54, 300, true);
-  R('#8a5a32', 14, 330, 52, 46, g); R('#6b4524', 14, 350, 52, 3, g); R('#6b4524', 14, 372, 52, 4, g);
-  const lomos = ['#c8433a', '#3b6fc9', '#e0b23b', '#3a9b4a', '#7b4bb3', '#e07a2d', '#2a8c8c'];
-  for (let i = 0; i < 9; i++) { R(lomos[i % 7], 18 + i * 5, 334, 4, 15, g); R(lomos[(i + 3) % 7], 18 + i * 5, 355, 4, 16, g); }
-  planta(g, 40, 330);
-  bloquear(14, 244, 26, 54); bloquear(40, 282, 26, 22); bloquear(12, 312, 56, 66);
-  // Puerta de entrada con felpudo
-  R('#2a2420', 176, W - 8, 64, 8, g); R('#555', 172, W - 30, 4, 24, g); R('#555', 240, W - 30, 4, 24, g);
-  R('#3a9b4a', 186, W - 26, 44, 18, g); R('#2f8540', 188, W - 24, 40, 14, g);
-  R('#2a2420', 0, PARED, 6, W, g); R('#2a2420', W - 6, PARED, 6, W, g); R('#2a2420', 0, W - 6, 176, 6, g); R('#2a2420', 240, W - 6, 176, 6, g);
-  bloquear(0, 0, W, PARED + 6); bloquear(0, 0, 8, W); bloquear(W - 8, 0, 8, W); bloquear(0, W - 8, 176, 8); bloquear(240, W - 8, 176, 8);
 }
-// Cartel verde de la pared: el líder de la oficina
-function pintarCartel() {
-  const lider = activos().map(a => [a, a.total.ganancia]).sort((x, y) => y[1] - x[1])[0];
-  const l1 = 'LA OFICINA DEL TENIS', l2 = lider && lider[0].total.apuestas ? `Líder: ${lider[0].nombre} ${eur(lider[1], true)}` : 'Temporada de ' + (D.temporada?.nombre || 'prueba');
-  R('#2e6b2f', 140, 12, 136, 50); R('#69c24f', 143, 15, 130, 44); R('#7fd462', 143, 15, 130, 3);
-  ctx.fillStyle = '#123d14'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-  ctx.font = '700 11px "Pixelify Sans", monospace'; ctx.fillText(l1, 208, 29);
-  ctx.font = '600 10px "Pixelify Sans", monospace'; ctx.fillText(l2, 208, 46);
-}
-// Rejilla para andar (celdas de 4 px)
-const C = 4, NC = W / C;
-let libre = null;
-function prepararRejilla() {
-  libre = new Uint8Array(NC * NC).fill(1);
-  for (const [x, y, w, h] of BLOQUES) for (let j = Math.floor(y / C); j <= Math.floor((y + h - 1) / C); j++) for (let i = Math.floor(x / C); i <= Math.floor((x + w - 1) / C); i++)
-    if (i >= 0 && j >= 0 && i < NC && j < NC) libre[j * NC + i] = 0;
-}
-function camino([x0, y0], [x1, y1]) {
-  const s = [Math.floor(x0 / C), Math.floor(y0 / C)], t = [Math.floor(x1 / C), Math.floor(y1 / C)];
-  const idx = (i, j) => j * NC + i, previo = new Int32Array(NC * NC).fill(-1), cola = [idx(...s)];
-  previo[idx(...s)] = idx(...s);
-  const ok = (i, j) => i >= 0 && j >= 0 && i < NC && j < NC && (libre[idx(i, j)] || (i === t[0] && j === t[1]) || (i === s[0] && j === s[1]));
-  for (let q = 0; q < cola.length; q++) {
-    const k = cola[q], i = k % NC, j = (k / NC) | 0;
-    if (i === t[0] && j === t[1]) break;
-    for (const [di, dj] of [[1, 0], [-1, 0], [0, 1], [0, -1]]) { const a = i + di, b = j + dj; if (ok(a, b) && previo[idx(a, b)] < 0) { previo[idx(a, b)] = k; cola.push(idx(a, b)); } }
+// Cada mueble se dibuja una vez en su propio lienzo, con contorno, y luego se copia
+const MUEBLES = new Map();
+function mueble(clave, w, d, alto, pintar) {
+  if (!MUEBLES.has(clave)) {
+    const c = document.createElement('canvas'), ox = Math.ceil(d * 32) + 3, oy = alto + 3;
+    c.width = Math.ceil((w + d) * 32) + 6; c.height = alto + Math.ceil((w + d) * 16) + 6;
+    const ctx = c.getContext('2d'), Q = (i, j, z = 0) => [ox + (i - j) * 32, oy + (i + j) * 16 - z];
+    pintar(ctx, (...a) => caja3(ctx, Q, ...a), Q); contornear(c);
+    MUEBLES.set(clave, { c, ox, oy });
   }
-  if (previo[idx(...t)] < 0) return [];
-  const ruta = []; for (let k = idx(...t); k !== idx(...s); k = previo[k]) ruta.push([(k % NC) * C + C / 2, ((k / NC) | 0) * C + C / 2]);
-  ruta.reverse();
-  return ruta.filter((p, i) => i === ruta.length - 1 || i % 2 === 0);  // un punto de cada dos basta
+  return MUEBLES.get(clave);
 }
-const sitioMesa = rol => { const [x, y] = MESAS[rol]; return [x + 46, y + 52]; };
-let ESC = null, frame = 0;
-function crearEscena() {
-  const gente = activos().map(a => {
-    const sitio = sitioMesa(a.rol);
-    return { a, ap: aspectoDe(a), x: sitio[0], y: sitio[1], casa: sitio, estado: 'sentado', dir: 'arriba', ruta: [], espera: 200 + Math.random() * 900, dice: null };
+function poner(ctx, m, i, j) { const [x, y] = P(i, j); ctx.drawImage(m.c, Math.round(x - m.ox), Math.round(y - m.oy)); }
+
+const NEGRO = '#231a16', HIERRO = '#4a4440', MADERA = '#7a4a2c', MADERA_O = '#4a2a18', NOGAL = '#5a341f';
+const M_MESA = () => mueble('mesa', 2, 1, 70, (ctx, b) => {
+  b(.04, .08, 0, .1, .84, 27, MADERA_O); b(1.86, .08, 0, .1, .84, 27, MADERA_O); b(.14, .5, 12, 1.72, .05, 15, NOGAL);
+  b(0, 0, 27, 2, 1, 3, MADERA, { top: '#93603a' });
+  b(.72, .3, 30, .6, .32, 2, '#2c2c30', { top: '#3a3a40' });                                                   // teclado
+  b(.16, .3, 30, .32, .3, 3, '#5a5550'); b(.24, .36, 33, .1, .14, 6, HIERRO);                                 // pie del monitor
+  b(.18, .02, 37, .1, .8, 26, '#2a2a2e', { der: '#1a1a1d' });                                                  // monitor
+  b(1.52, .58, 30, .13, .13, 7, '#f2efe8', { top: '#6b4026' });                                                // taza
+  b(1.3, .1, 30, .42, .3, 4, '#f4f0e6', { canto: false }); b(1.34, .12, 34, .36, .26, 1, '#e9e2d2', { canto: false }); // papeles
+});
+const M_DESPACHO = () => mueble('despacho', DESPACHO.w, DESPACHO.d, 76, (ctx, b, Q) => {
+  const { w, d } = DESPACHO;
+  b(0, 0, 0, .55, d, 30, '#2b2420', { der: '#1e1916' }); b(w - .55, 0, 0, .55, d, 30, '#2b2420', { der: '#1e1916' });
+  b(.55, .45, 4, w - 1.1, .05, 24, '#241e1b');
+  for (const z of [8, 19]) { b(0, d - .01, z, .55, .02, 1, '#5a4a3a', { canto: false }); b(w - .55, d - .01, z, .55, .02, 1, '#5a4a3a', { canto: false }); }
+  b(0, 0, 30, w, d, 3, '#3a302a', { top: '#2f5a37' });                                                         // tablero de cuero verde
+  b(.9, .3, 33, .62, .36, 2, '#b9bcc4', { top: '#cdd0d6' }); b(.9, .64, 33, .62, .05, 16, '#9aa0aa');         // portátil
+  b(1.9, .3, 33, .16, .16, 3, '#c8a03a'); b(1.94, .34, 36, .08, .08, 8, '#d9b44a'); b(1.86, .26, 44, .24, .24, 9, '#e9c45a', { top: '#f6d97a' }); // trofeo
+  b(.2, .2, 33, .42, .32, 10, '#f4f0e6', { canto: false }); b(.22, .22, 43, .38, .28, 1, '#ffffff', { canto: false }); // pila de papeles
+  b(.2, .62, 33, .42, .3, 6, '#ece5d4', { canto: false });
+  b(2.0, .7, 33, .1, .1, 22, '#c8a03a'); b(1.88, .6, 55, .32, .3, 6, '#2f5a37');                                // flexo
+});
+const M_SILLA = (espalda = false) => mueble('silla' + espalda, 1, 1, 52, (ctx, b) => {
+  b(.2, .48, 0, .6, .1, 2, NEGRO); b(.45, .25, 0, .1, .6, 2, NEGRO); b(.46, .5, 2, .08, .08, 12, HIERRO);
+  b(.22, .26, 14, .56, .56, 4, '#2b2b31');
+  if (espalda) b(.22, .72, 18, .56, .1, 28, '#2b2b31'); else b(.22, .2, 18, .56, .1, 28, '#2b2b31');
+  b(.2, .3, 18, .06, .4, 8, NEGRO); b(.74, .3, 18, .06, .4, 8, NEGRO);
+});
+const M_SILLON = () => mueble('sillon', 1, 1, 40, (ctx, b) => {
+  const r = '#8e3226';
+  b(.1, .15, 0, .8, .8, 12, oscurecer(r, .85)); b(.1, .1, 0, .2, .85, 30, r); b(.1, .1, 0, .8, .2, 22, r); b(.7, .1, 0, .2, .85, 20, r);
+  b(.3, .3, 12, .4, .6, 5, aclarar(r, .12));
+});
+const M_SOFA = () => mueble('sofa', 2.2, .95, 42, (ctx, b) => {
+  const c = '#d9c7a4';
+  b(0, .3, 0, 2.2, .65, 13, oscurecer(c, .9)); b(0, 0, 0, 2.2, .32, 32, c);
+  b(0, .25, 0, .24, .7, 22, c); b(1.96, .25, 0, .24, .7, 22, c);
+  b(.26, .34, 13, .82, .58, 5, aclarar(c, .1)); b(1.12, .34, 13, .82, .58, 5, aclarar(c, .1));
+  b(.32, .3, 18, .34, .12, 14, '#d0782e'); b(1.52, .3, 18, .34, .12, 14, '#b85a2a');
+});
+const M_SOFA_LADO = () => mueble('sofalado', .95, 2.2, 42, (ctx, b) => {
+  const c = '#d9c7a4';
+  b(.3, 0, 0, .65, 2.2, 13, oscurecer(c, .9)); b(0, 0, 0, .32, 2.2, 32, c);
+  b(.25, 0, 0, .7, .24, 22, c); b(.25, 1.96, 0, .7, .24, 22, c);
+  b(.34, .26, 13, .58, .82, 5, aclarar(c, .1)); b(.34, 1.12, 13, .58, .82, 5, aclarar(c, .1));
+  b(.3, .5, 18, .12, .34, 14, '#d0782e');
+});
+const M_MESITA = () => mueble('mesita', 1.3, .8, 30, (ctx, b) => {
+  b(.06, .06, 0, .1, .1, 13, MADERA_O); b(1.14, .06, 0, .1, .1, 13, MADERA_O); b(.06, .64, 0, .1, .1, 13, MADERA_O); b(1.14, .64, 0, .1, .1, 13, MADERA_O);
+  b(0, 0, 13, 1.3, .8, 3, '#6b3f24', { top: '#7d4a2b' });
+  b(.3, .2, 16, .46, .34, 2, '#b9bcc4', { top: '#cdd0d6' }); b(.3, .52, 16, .46, .04, 12, '#9aa0aa');           // portátil abierto
+  b(.95, .3, 16, .13, .13, 6, '#f2efe8', { top: '#6b4026' });
+});
+const M_LAMPARA = (pie = 62) => mueble('lampara' + pie, 1, 1, pie + 26, (ctx, b) => {
+  if (pie < 40) { b(.26, .26, 0, .48, .48, pie - 2, MADERA_O, { top: '#6b3f24' }); }
+  else b(.4, .4, 0, .2, .2, 2, NEGRO);
+  b(.47, .47, pie < 40 ? pie - 2 : 2, .06, .06, pie < 40 ? 8 : pie - 4, '#b08a4a');
+  b(.3, .3, pie + 4, .4, .4, 16, '#f2d79a', { top: '#fff1c6', der: '#d8b26a' });
+});
+const M_PLANTA = (grande) => mueble('planta' + grande, 1, 1, grande ? 96 : 66, (ctx, b, Q) => {
+  b(.3, .3, 0, .4, .4, grande ? 20 : 14, '#a0583a', { top: '#b8694a' });
+  b(.33, .33, grande ? 20 : 14, .34, .34, 0, '#3a2418', { canto: false });
+  const [cx, cy] = Q(.5, .5, grande ? 20 : 14), alto = grande ? 70 : 46;
+  const verdes = ['#2f7d4a', '#3f9d5c', '#58b86f', '#25633b'];
+  for (let k = 0; k < (grande ? 46 : 26); k++) {
+    const a = k * 2.399, rr = 3 + (k * 37 % 100) / 100 * (grande ? 16 : 11), y = cy - 8 - (k * 53 % 100) / 100 * alto;
+    ctx.fillStyle = verdes[k % 4]; ctx.fillRect(Math.round(cx + Math.cos(a) * rr - 3), Math.round(y + Math.sin(a) * rr * .4), 6, 4);
+    ctx.fillStyle = '#7fd08f'; if (k % 5 === 0) ctx.fillRect(Math.round(cx + Math.cos(a) * rr - 2), Math.round(y + Math.sin(a) * rr * .4), 2, 1);
+  }
+  ctx.fillStyle = '#3d6b3f'; ctx.fillRect(cx, cy - alto * .6, 1, alto * .6);
+});
+const M_AGUA = () => mueble('agua', 1, 1, 66, (ctx, b) => {
+  b(.3, .3, 0, .42, .42, 36, '#eef0f2'); b(.3, .3, 24, .42, .02, 2, '#d0d4da', { canto: false });
+  b(.33, .33, 36, .36, .36, 24, '#5aa9e6', { top: '#9fd3ff', izq: '#6bb5ee', der: '#4790cc' }); b(.43, .43, 60, .16, .16, 3, '#2f6fae');
+  b(.36, .7, 18, .06, .04, 3, '#3a86c8', { canto: false }); b(.56, .7, 18, .06, .04, 3, '#d62828', { canto: false });
+});
+// Estantería pegada a la pared izquierda: los libros miran a la derecha
+const M_LIBRERIA = () => mueble('libreria', .55, 2.3, 100, (ctx, b) => {
+  b(0, 0, 0, .55, 2.3, 96, NOGAL, { der: '#3d2314' });
+  const colores = ['#a8442e', '#2f6b6a', '#c9a23a', '#3a4f7a', '#7a3a5a', '#d8cfb8', '#4f7a3a', '#2a2a30'];
+  for (const [n, z] of [[0, 6], [1, 30], [2, 54], [3, 76]]) {
+    b(.52, .05, z - 3, .04, 2.2, 2, '#2c180e', { canto: false });
+    let j = .1 + (n * .13) % .2;
+    for (let k = 0; j < 2.1; k++) {
+      const w = .07 + ((k * 7 + n * 3) % 4) * .025, h = 13 + (k * 5 + n) % 7;
+      if ((k + n) % 7 !== 6) b(.42, j, z, .1, w, h, colores[(k * 3 + n) % colores.length], { canto: false, der: colores[(k * 3 + n) % colores.length] });
+      j += w + .015;
+    }
+  }
+});
+// Chimenea de piedra en la pared del fondo (el fuego se pinta aparte, porque se mueve)
+const CHIMENEA = { i: 2.6, w: 1.7, d: .5, h: 74 };
+const M_CHIMENEA = () => mueble('chimenea', CHIMENEA.w, CHIMENEA.d, 80, (ctx, b, Q) => {
+  const { w, d } = CHIMENEA;
+  b(0, 0, 0, w, d, 62, '#7d746c', { izq: '#8a8178', der: '#625a54' });
+  for (let z = 6; z < 60; z += 7) linea(ctx, Q(0, d, z), Q(w, d, z), '#6b625b');
+  for (let z = 0; z < 60; z += 14) for (let i = .2; i < w; i += .4) linea(ctx, Q(i + (z % 28 ? .2 : 0), d, z), Q(i + (z % 28 ? .2 : 0), d, z + 7), '#6b625b');
+  rell(ctx, [Q(.38, d, 4), Q(w - .38, d, 4), Q(w - .38, d, 38), Q(.38, d, 38)], '#1a110c');                    // hueco del fuego
+  rell(ctx, [Q(.42, d, 4), Q(w - .42, d, 4), Q(w - .42, d, 9), Q(.42, d, 9)], '#3a2a20');
+  b(-.12, -.02, 62, w + .24, d + .14, 5, MADERA_O, { top: '#6b3f24' });                                         // repisa
+  b(.25, .15, 67, .3, .2, 9, '#d9cfb8'); b(.31, .2, 67, .18, .1, 3, '#a33');                                     // reloj de repisa
+  b(1.2, .15, 67, .2, .2, 8, '#a0583a');
+});
+const TELES = [[5.15, 6.55], [6.9, 8.3]];
+
+// Fondo fijo (suelo, paredes y lo que está pegado a ellas) en un lienzo aparte
+let FONDO = null;
+function pintarFondo() {
+  const c = document.createElement('canvas'); c.width = OF.W; c.height = OF.H;
+  const ctx = c.getContext('2d'), { N, M, MURO } = OF, I = (i, j, z = 0) => P(i, j, z);
+  const quad = (i0, j0, i1, j1, col) => rell(ctx, [I(i0, j0), I(i1, j0), I(i1, j1), I(i0, j1)], col);
+  // Parqué oscuro: en cada baldosa las tablas van en una dirección, alternando
+  for (let i = 0; i < N; i++) for (let j = 0; j < M; j++) {
+    const par = (i + j) % 2, tono = ['#6a3624', '#5f301f', '#733c28'];
+    for (let k = 0; k < 3; k++) {
+      const a = k / 3, b2 = (k + 1) / 3, col = tono[(i * 3 + j * 5 + k) % 3];
+      if (par) quad(i, j + a, i + 1, j + b2, col); else quad(i + a, j, i + b2, j + 1, col);
+    }
+    for (let k = 1; k < 3; k++) {
+      if (par) linea(ctx, I(i, j + k / 3), I(i + 1, j + k / 3), '#4a2416'); else linea(ctx, I(i + k / 3, j), I(i + k / 3, j + 1), '#4a2416');
+    }
+    linea(ctx, I(i + 1, j), I(i + 1, j + 1), '#43200f'); linea(ctx, I(i, j + 1), I(i + 1, j + 1), '#43200f');
+  }
+  // Alfombras: la azul de la sala de analistas, la roja del rincón del sofá y la del despacho
+  const alfombra = (i0, j0, i1, j1, col, borde, dibujo) => {
+    quad(i0, j0, i1, j1, borde); quad(i0 + .15, j0 + .15, i1 - .15, j1 - .15, col);
+    if (dibujo) { quad(i0 + .35, j0 + .35, i1 - .35, j1 - .35, dibujo); quad(i0 + .42, j0 + .42, i1 - .42, j1 - .42, col); }
+  };
+  alfombra(SALA.i0, SALA.j0 + .02, SALA.i1, SALA.j1, '#2c3d63', '#1f2c4a');
+  for (let k = 0; k < 13; k++) linea(ctx, I(SALA.i0 + .3 + k * .3, SALA.j1 - .4), I(SALA.i0 + .3 + k * .3, SALA.j1 - .25), '#3a5080');
+  alfombra(.55, 5.5, 4.6, 9.6, '#7a2f22', '#5a1f17', '#b8693c');
+  alfombra(5.2, 6.6, 9.2, 9.4, '#3a2a20', '#2a1d15');
+  // Sombra junto a las paredes
+  quad(0, 0, N, .35, 'rgba(10,4,2,.18)'); quad(0, 0, .35, M, 'rgba(10,4,2,.18)');
+  // Paredes: ladrillo arriba y friso de madera abajo
+  const ZOC = 52;
+  const pared = (Wf, largo, base, ladrillo, junta, friso, panel, sombra) => {
+    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, MURO), Wf(0, MURO)], base);
+    for (let z = ZOC + 4, f = 0; z < MURO - 8; z += 6, f++) {
+      linea(ctx, Wf(0, z), Wf(largo, z), junta);
+      for (let u = (f % 2) * .25; u < largo; u += .5) linea(ctx, Wf(u, z), Wf(u, z + 6), junta);
+      for (let u = (f % 2) * .25 + .1 + (f * .37) % .5; u < largo - .3; u += 1.5) rell(ctx, [Wf(u, z + 1), Wf(u + .3, z + 1), Wf(u + .3, z + 5), Wf(u, z + 5)], ladrillo);
+    }
+    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, ZOC), Wf(0, ZOC)], friso);
+    for (let u = .2; u < largo - .3; u += 1) {
+      rell(ctx, [Wf(u, 8), Wf(u + .8, 8), Wf(u + .8, ZOC - 8), Wf(u, ZOC - 8)], sombra);
+      rell(ctx, [Wf(u + .05, 10), Wf(u + .75, 10), Wf(u + .75, ZOC - 9), Wf(u + .05, ZOC - 9)], panel);
+    }
+    rell(ctx, [Wf(0, ZOC), Wf(largo, ZOC), Wf(largo, ZOC + 4), Wf(0, ZOC + 4)], '#8a5a36');
+    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, 5), Wf(0, 5)], '#2a160c');
+    rell(ctx, [Wf(0, MURO - 8), Wf(largo, MURO - 8), Wf(largo, MURO), Wf(0, MURO)], '#5a341f');
+  };
+  pared((j, z) => I(0, j, z), M, '#3a2e2a', '#463733', '#2a201d', '#2e1b10', '#3a2416', '#24140b');
+  pared((i, z) => I(i, 0, z), N, '#4a3a34', '#58453e', '#362924', '#3e2416', '#4b2d1c', '#2c180e');
+  rell(ctx, [I(-.22, -.22, MURO), I(N, -.22, MURO), I(N, 0, MURO), I(0, 0, MURO), I(0, M, MURO), I(-.22, M, MURO)], '#6b4226');
+  rell(ctx, [I(-.22, M, 0), I(0, M, 0), I(0, M, MURO), I(-.22, M, MURO)], '#24140b');
+  rell(ctx, [I(N, -.22, 0), I(N, 0, 0), I(N, 0, MURO), I(N, -.22, MURO)], '#3e2416');
+  const B = (i, z) => I(i, 0, z), L = (j, z) => I(0, j, z);
+  // Pantallas en la pared del fondo (el partido se pinta en cada fotograma) y pizarra azul de táctica
+  for (const [i0, i1] of TELES) rell(ctx, [B(i0 - .06, 50), B(i1 + .06, 50), B(i1 + .06, 96), B(i0 - .06, 96)], '#141418');
+  rell(ctx, [B(8.55, 56), B(9.45, 56), B(9.45, 92), B(8.55, 92)], '#141418');
+  rell(ctx, [B(8.6, 59), B(9.4, 59), B(9.4, 89), B(8.6, 89)], '#1f4e9a');
+  for (let k = 0; k < 4; k++) linea(ctx, B(8.65 + k * .2, 62), B(8.65 + k * .2, 86), '#3d6fc0');
+  linea(ctx, B(8.7, 80), B(9.0, 70), '#e8eefc'); linea(ctx, B(9.0, 70), B(9.3, 76), '#e8eefc'); punto(ctx, B(9.3, 76), '#ffd55a', 2, 2);
+  // Marco del ventanal de la sala (el cielo cambia con la hora)
+  rell(ctx, [B(SALA.i0 + .2, 20), B(N - .1, 20), B(N - .1, 122), B(SALA.i0 + .2, 122)], '#1b120c');
+  // Pilares de madera
+  for (const i of [0, 4.75, SALA.i0 - .15]) caja3(ctx, I, i, 0, 0, .3, .22, MURO, '#5a341f', { der: '#3e2416', top: '#6b4226' });
+  for (const j of [4.6, 9.6]) caja3(ctx, I, 0, j, 0, .22, .3, MURO, '#4a2a18', { der: '#5a341f', izq: '#3e2416', top: '#6b4226' });
+  // Puerta en la pared izquierda
+  rell(ctx, [L(PUERTA[1] - .75, 0), L(PUERTA[1] + .65, 0), L(PUERTA[1] + .65, 92), L(PUERTA[1] - .75, 92)], '#5a341f');
+  rell(ctx, [L(PUERTA[1] - .65, 0), L(PUERTA[1] + .55, 0), L(PUERTA[1] + .55, 86), L(PUERTA[1] - .65, 86)], '#1f2533');
+  for (const [z0, z1] of [[10, 40], [48, 78]]) for (const [a, b2] of [[-.55, -.1], [0, .45]]) rell(ctx, [L(PUERTA[1] + a, z0), L(PUERTA[1] + b2, z0), L(PUERTA[1] + b2, z1), L(PUERTA[1] + a, z1)], '#283044');
+  rell(ctx, [L(PUERTA[1] + .38, 40), L(PUERTA[1] + .46, 40), L(PUERTA[1] + .46, 44), L(PUERTA[1] + .38, 44)], '#e0b54a');
+  // Cuadro de una pista de tierra en la pared izquierda
+  rell(ctx, [L(6.9, 54), L(8.9, 54), L(8.9, 100), L(6.9, 100)], '#c9a23a');
+  rell(ctx, [L(7.0, 58), L(8.8, 58), L(8.8, 96), L(7.0, 96)], '#c0602e');
+  rell(ctx, [L(7.2, 64), L(8.6, 64), L(8.6, 90), L(7.2, 90)], '#d07040');
+  linea(ctx, L(7.2, 77), L(8.6, 77), '#f4efe2'); linea(ctx, L(7.9, 64), L(7.9, 90), '#2a1a10');
+  linea(ctx, L(7.2, 64), L(8.6, 64), '#f4efe2'); linea(ctx, L(7.2, 90), L(8.6, 90), '#f4efe2'); linea(ctx, L(7.2, 64), L(7.2, 90), '#f4efe2'); linea(ctx, L(8.6, 64), L(8.6, 90), '#f4efe2');
+  // Muebles pegados a las paredes: nadie pasa por detrás, así que van en el fondo
+  poner(ctx, M_CHIMENEA(), CHIMENEA.i, 0);
+  poner(ctx, M_PLANTA(true), CHIMENEA.i - 1.05, -.1);
+  poner(ctx, M_PLANTA(false), CHIMENEA.i + CHIMENEA.w + .05, -.1);
+  poner(ctx, M_LIBRERIA(), 0, 2.9);
+  poner(ctx, M_AGUA(), -.1, 5.4); poner(ctx, M_AGUA(), -.1, 6.2);
+  poner(ctx, M_PLANTA(true), N - 1.05, -.05);
+  FONDO = c;
+}
+function cielo(h) {
+  if (h >= 9 && h < 17) return ['#6fb7ea', '#c4e6ff', false];
+  if (h >= 7 && h < 9) return ['#f2a65a', '#ffd9a8', false];
+  if (h >= 17 && h < 21) return ['#ef7f5c', '#5c4a98', true];
+  return ['#0a1030', '#1b2a5a', true];
+}
+// Lo que cambia con la hora o se mueve: ventanal, reloj, fuego y partidos en las teles
+function pintarVivos(ctx, f, h, frame) {
+  const B = (i, z) => P(i, 0, z), [c1, c2, luces] = cielo(h), noche = c1 === '#0a1030';
+  const i0 = SALA.i0 + .3, i1 = OF.N - .2;
+  rell(ctx, [B(i0, 24), B(i1, 24), B(i1, 118), B(i0, 118)], c2); rell(ctx, [B(i0, 72), B(i1, 72), B(i1, 118), B(i0, 118)], c1);
+  if (noche) for (let k = 0; k < 9; k++) punto(ctx, B(i0 + .2 + k * .43, 112 - (k * 13) % 22), '#fff');
+  [[0, 70], [.45, 90], [.9, 62], [1.3, 98], [1.8, 76], [2.25, 86], [2.75, 66], [3.2, 94], [3.6, 72]].forEach(([u, alto], k) => {
+    const i = i0 + u, w = .42; if (i + w > i1) return;
+    rell(ctx, [B(i, 24), B(i + w, 24), B(i + w, alto), B(i, alto)], noche ? '#1c2447' : k % 2 ? '#5a6278' : '#6b7390');
+    for (let v = 30; v < alto - 4; v += 6) for (const du of [.1, .26]) punto(ctx, B(i + du, v), luces ? ((k * 3 + v + (frame >> 6)) % 4 ? '#ffd86b' : '#2a3463') : 'rgba(255,255,255,.3)', 2, 2);
   });
-  const sala = ['Analista de datos', 'Analista de noticias', 'Analista de ambiente', 'Debate'].map((n, k) => ({
-    n, ap: aspecto('sala' + k + n, ['#d0a23a', '#c0504d', '#4a9fb5', '#6d6d6d'][k]), x: SITIOS_SALA[k][0], y: SITIOS_SALA[k][1],
-    dir: k < 2 ? 'der' : 'izq', dice: null }));
-  ESC = { gente, sala, tu: { ap: aspecto('tu-visitante', '#3a6fd6'), x: 208, y: 380, dir: 'arriba', ruta: [], dice: null } };
+  for (let k = 0; k <= 4; k++) { const i = i0 + (i1 - i0) * k / 4; rell(ctx, [B(i - .04, 24), B(i + .04, 24), B(i + .04, 118), B(i - .04, 118)], '#1b120c'); }
+  rell(ctx, [B(i0, 68), B(i1, 68), B(i1, 71), B(i0, 71)], '#1b120c');
+  linea(ctx, B(i0 + .4, 110), B(i0 + .9, 40), 'rgba(255,255,255,.25)');
+  // Reloj de pared con la hora de España
+  const [cx, cy] = B(1.4, 96);
+  ctx.fillStyle = '#2a1a10'; ctx.fillRect(cx - 9, cy - 11, 18, 22); ctx.fillStyle = '#f4efe2'; ctx.fillRect(cx - 8, cy - 10, 16, 20); ctx.fillRect(cx - 9, cy - 8, 18, 16);
+  const ahora = AHORA(), min = +new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Madrid', minute: 'numeric' }).format(ahora);
+  const ah = ((h % 12) + min / 60) / 12 * Math.PI * 2, am = min / 60 * Math.PI * 2;
+  linea(ctx, [cx, cy], [cx + Math.sin(ah) * 4.5, cy - Math.cos(ah) * 5], '#2a1a10'); linea(ctx, [cx, cy], [cx + Math.sin(am) * 6.5, cy - Math.cos(am) * 7.5], '#c0392b');
+  // Fuego de la chimenea
+  const F = (u, z) => P(CHIMENEA.i + u, CHIMENEA.d + .01, z);
+  for (let k = 0; k < 9; k++) {
+    const u = .5 + k * .08, alto = 10 + ((k * 7 + (frame >> 1) * 3) % 9) + (k % 3 ? 4 : 0), [x, y] = F(u, 9);
+    ctx.fillStyle = '#e2571e'; ctx.fillRect(Math.round(x), Math.round(y - alto), 3, alto);
+    ctx.fillStyle = '#ffb12e'; ctx.fillRect(Math.round(x), Math.round(y - alto * .6), 3, Math.round(alto * .6));
+    if (k % 2) { ctx.fillStyle = '#ffe58a'; ctx.fillRect(Math.round(x + 1), Math.round(y - alto * .3), 1, Math.round(alto * .3)); }
+  }
+  for (const u of [.55, .85]) { const [x, y] = F(u, 6); ctx.fillStyle = '#4a2a18'; ctx.fillRect(Math.round(x), Math.round(y), 14, 3); }
+  // Partidos en las teles (apagadas de noche)
+  TELES.forEach(([a, b2], k) => pista(ctx, (u, v) => B(a + u * (b2 - a), 53 + v * 40), f === 'noche' ? null : frame + k * 37));
 }
-function frases(g) {
-  const a = g.a, t = a.total, ult = (a.informes || []).slice(-1)[0], lista = [];
-  if (ult && ult.resumen) lista.push(ult.resumen);
-  const mias = D.apuestas.filter(x => x.agente === a.id);
-  const pend = mias.filter(x => x.estado === 'pendiente');
-  if (pend.length) lista.push(`Tengo ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego: ${pend[0].descripcion} @ ${pend[0].cuota.toFixed(2)}`);
+// Una pista de tenis vista de frente en una pantalla; S(u, v) va de (0,0) abajo a la izquierda a (1,1) arriba a la derecha
+function pista(ctx, S, frame) {
+  if (frame == null) { rell(ctx, [S(0, 0), S(1, 0), S(1, 1), S(0, 1)], '#0d0e12'); return; }
+  rell(ctx, [S(0, 0), S(1, 0), S(1, 1), S(0, 1)], '#2f6b3a');
+  rell(ctx, [S(.08, .1), S(.92, .1), S(.92, .9), S(.08, .9)], '#3f8f4a');
+  for (const v of [.1, .9]) linea(ctx, S(.08, v), S(.92, v), '#e9f2e4');
+  for (const u of [.08, .92, .5]) linea(ctx, S(u, .1), S(u, .9), u === .5 ? '#20242a' : '#e9f2e4');
+  linea(ctx, S(.29, .1), S(.29, .9), '#cfe3c9'); linea(ctx, S(.71, .1), S(.71, .9), '#cfe3c9');
+  const t = (frame % 60) / 60, ida = Math.floor(frame / 60) % 2, u = ida ? .15 + t * .7 : .85 - t * .7, v = .5 + Math.sin(t * Math.PI) * .25 + Math.sin(frame * .07) * .12;
+  punto(ctx, S(u, v), '#e4f04a', 2, 2);
+  punto(ctx, S(.12, .45 + Math.sin(frame * .05) * .2), '#f2f2f2', 2, 3); punto(ctx, S(.86, .5 + Math.cos(frame * .05) * .2), '#f2f2f2', 2, 3);
+}
+// La pantalla del monitor de cada mesa
+function pintarPantalla(ctx, i, j, estado, frame) {
+  const S = (u, v) => P(i + .29, j + .06 + u * .74, 41 + v * 20);
+  if (estado === 'pista') return pista(ctx, S, frame);
+  rell(ctx, [S(0, 0), S(1, 0), S(1, 1), S(0, 1)], estado === 'apagada' ? '#0b0c10' : '#14233a');
+  if (estado === 'texto') for (let n = 0; n < 5; n++) { const v = .85 - ((n * .17 + frame * .006) % .8); linea(ctx, S(.12, v), S(.12 + .3 + (n % 3) * .15, v), '#8fb3d8'); }
+}
+// Letrero de luces de la pared del fondo: quién va primero
+function letrero() {
+  const c = document.createElement('button'); c.className = 'letrero'; c.dataset.tab = 'clasificacion'; c.title = 'Ver la clasificación';
+  const lider = activos().slice().sort((a, b) => b.total.ganancia - a.total.ganancia)[0];
+  c.innerHTML = `LA OFICINA DEL TENIS<small>${lider && lider.total.apuestas ? `Va primero: ${esc(lider.nombre)} ${eur(lider.total.ganancia, true)}` : `${activos().length} analistas · ${D.cartelera.partidos.length} partidos hoy`}</small>`;
+  const [x, y] = P(7.1, 0, 113); c.style.left = x / OF.W * 100 + '%'; c.style.top = y / OF.H * 100 + '%';
+  return c;
+}
+
+/* ---------- La gente de la oficina ---------- */
+function sitioDe(a) {
+  if (a.rol === 'manager') return { mesa: null, asiento: [DESPACHO.i + DESPACHO.w / 2, DESPACHO.j - .45] };
+  const mesa = MESAS[a.rol]; return mesa ? { mesa, asiento: [mesa[0] + 1, mesa[1] - .45] } : null;
+}
+function poblar() {
+  const capa = ESCENA.capa; capa.innerHTML = '';
+  const nueva = (a, sitio, extra = {}) => {
+    const et = document.createElement('button'); et.className = 'etiqueta'; et.dataset.ficha = a.id;
+    const an = animo(a); et.innerHTML = `<span class="emo" title="${esc(an.texto)}">${extra.saliendo ? '📦' : an.cara}</span>${esc(a.nombre)}`;
+    const bo = document.createElement('div'); bo.className = 'bocadillo'; capa.append(bo, et);
+    return { a, ap: aspecto(a), mesa: sitio.mesa, asiento: sitio.asiento, pos: sitio.asiento.slice(), destino: null, quieto: 4 + Math.random() * 8, sentado: true, frente: true,
+      et, bo, proxFrase: 1 + Math.random() * 4, finFrase: 0, k: hash(a.id) % 97, ...extra };
+  };
+  const ocupados = new Set();
+  const agentes = activos().map(a => { const s = sitioDe(a); if (!s || ocupados.has(a.rol)) return null; ocupados.add(a.rol); return nueva(a, s); }).filter(Boolean);
+  // Quien ha sido despedido hoy recoge sus cosas y se va por la puerta
+  const hoy = (D.actualizado || '').slice(0, 10);
+  for (const a of D.agentes.filter(a => a.estado !== 'activo' && a.despedido === hoy)) {
+    const s = sitioDe(a); if (s) agentes.push(nueva(a, s, { saliendo: true, sentado: false, destino: PUERTA.slice(), quieto: 0, proxFrase: 1 }));
+  }
+  // Las mesas sin nadie esperan a un sustituto
+  const cartel = (i, j) => { const c = document.createElement('div'); c.className = 'cartel'; c.textContent = 'SE BUSCA'; capa.append(c); colocar(c, i, j, 80); return c; };
+  const vacias = Object.keys(MESAS).filter(r => !ocupados.has(r)).map(r => ({ mesa: MESAS[r], c: cartel(MESAS[r][0] + 1, MESAS[r][1] + .4) }));
+  if (!ocupados.has('manager')) cartel(DESPACHO.i + 1.2, DESPACHO.j + .4);
+  const sala = NOMBRES_SALA.map((n, k) => {
+    const bo = document.createElement('div'); bo.className = 'bocadillo'; capa.append(bo);
+    return { n, ap: aspecto({ id: 'sala-' + k, nombre: n, color: ['#d0a23a', '#c0504d', '#4a9fb5', '#6d6d6d'][k] }), pos: SITIOS_SALA[k], bo, finFrase: 0 };
+  });
+  const et = document.createElement('button'); et.className = 'etiqueta sala'; et.dataset.tab = 'sala'; et.title = 'Los informes de la sala de analistas';
+  et.innerHTML = '<span class="emo">📋</span>Sala de analistas';
+  colocar(et, SALA.mesa[0] + 1.3, SALA.mesa[1] - 1.4, 92);
+  capa.append(et, letrero());
+  Object.assign(ESCENA, { agentes, vacias, sala, proxSala: 3 });
+}
+function frasesDe(g, f) {
+  const a = g.a, t = a.total || {}, ult = (a.informes || []).slice(-1)[0], lista = [];
+  if (g.saliendo) return ['📦 Recojo mis cosas…', '✉️ He dejado una carta a quien me sustituya', '😞 ' + corta(a.motivo || 'Me han despedido', 80)];
+  if (f === 'noche') return ['Zzz…'];
+  if (f === 'pre') { const s = D.sala[0]; return ['📰 Leyendo la prensa de tenis…', ...(s ? ['📋 ' + corta(s.noticias, 90)] : [])]; }
+  if (f === 'decide') return ['✍️ Repaso la cartelera y las cuotas…', '🤔 ¿Hay valor en algún partido?'];
+  if (ult && ult.resumen) lista.push('📝 ' + corta(ult.resumen, 100));
+  const mias = D.apuestas.filter(x => x.agente === a.id), pend = mias.filter(x => x.estado === 'pendiente');
+  if (pend.length) lista.push(`🧾 ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego: ${corta(pend[0].descripcion, 50)} @ ${pend[0].cuota.toFixed(2)}`);
   const hecha = mias.find(x => x.estado !== 'pendiente');
-  if (hecha) lista.push(hecha.ganancia > 0 ? `¡Cobrada! ${hecha.descripcion} (${eur(hecha.ganancia, true)})` : hecha.ganancia < 0 ? `Perdí con ${hecha.descripcion}. Siguiente.` : `Me anularon ${hecha.descripcion}.`);
-  if (t.pct_cierre != null) lista.push(`Bato el cierre de Pinnacle en el ${pct(t.pct_cierre, false, 0)} de mis apuestas`);
+  if (hecha) lista.push(hecha.ganancia > 0 ? `🎉 ¡Cobrada! ${corta(hecha.descripcion, 50)} (${eur(hecha.ganancia, true)})` : hecha.ganancia < 0 ? `😤 Perdí con ${corta(hecha.descripcion, 50)}. Siguiente.` : `🤷 Me anularon ${corta(hecha.descripcion, 50)}.`);
+  if (t.pct_cierre != null) lista.push(`📈 Bato el cierre de Pinnacle en el ${pct(t.pct_cierre, false, 0)} de mis apuestas`);
   lista.push(...({
     estadistico: ['El Elo no tiene días malos.', 'Si la cuota paga más que mi probabilidad, apuesto.', 'Sin ventaja no hay apuesta.'],
     reportero: ['¿Habéis leído lo de Punto de Break?', 'Ojo con los que vienen de jugar tres sets ayer.', 'Una ampolla cambia un partido.'],
-    superficies: ['Esta pista es más rápida de lo que parece.', 'De tierra a dura en dos días... no todos se adaptan.', 'Bajo techo el saque manda.'],
+    superficies: ['Esta pista es más rápida de lo que parece.', 'De tierra a dura en dos días… no todos se adaptan.', 'Bajo techo el saque manda.'],
     manager: ['¿En qué coincidís hoy?', 'Si dos de vosotros lo veis claro, me lo pienso.', 'Prefiero no apostar a apostar mal.'],
   }[a.rol] || []));
   return lista;
 }
 function frasesSala(k) {
   const s = D.sala[0];
-  if (!s) return ['Esperando la cartelera de hoy...'];
-  return [[s.datos, s.conclusion], [s.noticias], [s.ambiente], [s.favorito, s.contra]][k].filter(Boolean).map(t => t.length > 120 ? t.slice(0, 117).replace(/\s\S*$/, '') + '…' : t);
+  if (!s) return ['Esperando la cartelera de hoy…'];
+  return [[s.datos, s.conclusion], [s.noticias], [s.ambiente], [s.favorito, s.contra]][k].filter(Boolean).map(t => corta(t, 120));
 }
-const corta = t => t.length > 110 ? t.slice(0, 107).replace(/\s\S*$/, '') + '…' : t;
-function decir(g, texto, ms = 4500) { g.dice = { texto: corta(texto), hasta: performance.now() + ms }; }
-function irA(g, destino) { g.ruta = camino([g.x, g.y], destino); }
-function moverHacia(g, vel) {
-  if (!g.ruta.length) return false;
-  const [tx, ty] = g.ruta[0], dx = tx - g.x, dy = ty - g.y, d = Math.hypot(dx, dy);
-  if (d <= vel) { g.x = tx; g.y = ty; g.ruta.shift(); }
-  else { g.x += dx / d * vel; g.y += dy / d * vel; }
-  g.dir = Math.abs(dx) > Math.abs(dy) ? (dx < 0 ? 'izq' : 'der') : (dy < 0 ? 'arriba' : 'abajo');
-  return true;
+function andarHacia(g, v) {
+  const dx = g.destino[0] - g.pos[0], dy = g.destino[1] - g.pos[1], d = Math.hypot(dx, dy);
+  if (d <= v) { g.pos = g.destino.slice(); return true; }
+  g.pos[0] += dx / d * v; g.pos[1] += dy / d * v; g.frente = dx + dy > 0; g.derecha = dx - dy > 0;
+  return false;
 }
-function vida(dt) {
-  const ahora = performance.now();
-  for (const g of ESC.gente) {
-    if (g.dice && g.dice.hasta < ahora) g.dice = null;
-    g.espera -= dt;
-    if (g.estado === 'sentado' && g.espera <= 0) {
-      const r = Math.random();
-      const hablando = ESC.gente.some(o => o.dice);
-      if (r < .45 && !hablando) { decir(g, pick(frases(g))); g.espera = 2500 + Math.random() * 5000; }
-      else {
-        const sitios = Object.entries(PASEO).filter(([k]) => k !== 'puerta'); const [, destino] = pick(sitios);
-        g.estado = 'paseo'; irA(g, destino); g.espera = 0;
-      }
-    } else if (g.estado === 'paseo') {
-      if (!moverHacia(g, .045 * dt)) { g.estado = 'parado'; g.dir = 'abajo'; g.espera = 2500 + Math.random() * 3000; if (Math.random() < .7 && !ESC.gente.some(o => o.dice)) decir(g, pick(frases(g))); }
-    } else if (g.estado === 'parado' && g.espera <= 0) { g.estado = 'vuelta'; irA(g, g.casa); }
-    else if (g.estado === 'vuelta') { if (!moverHacia(g, .045 * dt)) { g.estado = 'sentado'; g.dir = 'arriba'; g.espera = 4000 + Math.random() * 9000; } }
-  }
-  for (const [k, s] of ESC.sala.entries()) {
-    if (s.dice && s.dice.hasta < ahora) s.dice = null;
-    if (!s.dice && !ESC.sala.some(o => o.dice) && Math.random() < dt / 9000) decir(s, pick(frasesSala(k)), 5500);
-  }
-  const tu = ESC.tu;
-  if (tu.dice && tu.dice.hasta < ahora) tu.dice = null;
-  moverHacia(tu, .07 * dt);
-}
-const pick = l => l[Math.floor(Math.random() * l.length)];
-function silla(x, y) { R('#2c2f36', x - 9, y - 4, 18, 9); R('#3d424b', x - 9, y - 4, 18, 3); R('#1f2227', x - 1, y + 5, 2, 4); R('#1f2227', x - 6, y + 8, 12, 2); }
-function dibujar() {
-  ctx.drawImage(fondo, 0, 0);
-  pintarCartel();
-  // Pantallas: verdes si el analista va ganando, rojas si va perdiendo
-  for (const g of ESC.gente) {
-    const [x, y] = MESAS[g.a.rol], gana = g.a.total.ganancia, onda = (frame >> 4) % 2;
-    R(gana > 0 ? '#5fd46a' : gana < 0 ? '#e0685a' : '#6fb8e8', x + 32, y - 8, 28, 15);
-    R('#ffffff55', x + 34, y - 6, 10, 2); if (g.estado === 'sentado') R('#ffffffaa', x + 36 + onda * 8, y + 2, 6, 1);
-  }
-  const cosas = [];
-  for (const g of ESC.gente) cosas.push({ y: g.y, pinta: () => {
-    if (g.estado === 'sentado') { ctx.drawImage(sprite(g.ap, 'arriba', 0, 'sentado'), Math.round(g.x - SP.X), Math.round(g.y - SP.Y - 2)); silla(g.x, g.y + 2); }
-    else { silla(...g.casa.map((v, i) => v + (i ? 2 : 0))); ctx.drawImage(sprite(g.ap, g.dir, g.ruta.length ? frame >> 3 : 0, g.ruta.length ? 'andar' : ''), Math.round(g.x - SP.X), Math.round(g.y - SP.Y)); }
-  } });
-  for (const s of ESC.sala) cosas.push({ y: s.y, pinta: () => ctx.drawImage(sprite(s.ap, s.dir, 0, 'sentado'), Math.round(s.x - SP.X), Math.round(s.y - SP.Y)) });
-  const tu = ESC.tu;
-  cosas.push({ y: tu.y, pinta: () => ctx.drawImage(sprite(tu.ap, tu.dir, tu.ruta.length ? frame >> 3 : 0, tu.ruta.length ? 'andar' : ''), Math.round(tu.x - SP.X), Math.round(tu.y - SP.Y)) });
-  cosas.sort((a, b) => a.y - b.y).forEach(c => c.pinta());
-  ctx.fillStyle = '#ffffffcc'; ctx.font = '600 9px "Pixelify Sans", monospace'; ctx.textAlign = 'center'; ctx.fillText('SALA DE ANALISTAS', SALA.x + SALA.w / 2, SALA.y + 12);
-  pintarCapa();
-}
-const capa = $('#capa');
-function pintarCapa() {
-  const k = lienzo.clientWidth / W, partes = [];
-  const pos = (x, y) => `left:${(x * k).toFixed(1)}px;top:${(y * k).toFixed(1)}px`;
-  // Los bocadillos no se salen de la oficina: el centro se acerca al medio si están en un borde
-  const posB = pos;
-  for (const g of ESC.gente) {
-    const altura = g.estado === 'sentado' ? 30 : 31;
-    partes.push(`<div class="etiqueta" style="${pos(g.x, g.y - altura)}">${esc(g.a.nombre)}</div>`);
-    if (g.dice) partes.push(`<div class="burbuja" style="${posB(g.x, g.y - altura - 12)}">${esc(g.dice.texto)}</div>`);
-  }
-  for (const s of ESC.sala) if (s.dice) partes.push(`<div class="burbuja" style="${posB(s.x, s.y - 36)}"><small>${esc(s.n)}:</small> ${esc(s.dice.texto)}</div>`);
-  const tu = ESC.tu;
-  partes.push(`<div class="etiqueta tu" style="${pos(tu.x, tu.y - 32)}">TÚ</div>`);
-  if (tu.dice) partes.push(`<div class="burbuja" style="${posB(tu.x, tu.y - 44)}">${esc(tu.dice.texto)}</div>`);
-  const html = partes.join('');
-  if (capa._html !== html) {
-    capa.innerHTML = html; capa._html = html;
-    const ancho = capa.clientWidth;
-    for (const b of capa.querySelectorAll('.burbuja')) {   // que ningún bocadillo se salga por los lados
-      const centro = parseFloat(b.style.left), mitad = b.offsetWidth / 2, bueno = Math.min(ancho - mitad - 4, Math.max(mitad + 4, centro));
-      b.style.left = bueno + 'px'; b.style.setProperty('--cola', Math.max(-mitad + 12, Math.min(mitad - 12, centro - bueno)) + 'px');
+function moverAgentes(dt, f) {
+  for (const g of ESCENA.agentes) {
+    if (g.saliendo) {
+      if (g.oculto > 0) { if ((g.oculto -= dt) <= 0) { g.pos = g.asiento.slice(); g.destino = PUERTA.slice(); } continue; }
+      if (andarHacia(g, .9 * dt)) g.oculto = 6;
+      continue;
+    }
+    // Solo se levantan mientras siguen los partidos o leen la prensa
+    if ((f !== 'partidos' && f !== 'pre') || ESCENA.reducido) { g.destino = null; g.pos = g.asiento.slice(); g.sentado = true; continue; }
+    if (g.destino) {
+      if (andarHacia(g, 1.4 * dt)) { g.destino = null; g.quieto = 5 + Math.random() * 8; g.sentado = g.pos[0] === g.asiento[0] && g.pos[1] === g.asiento[1]; g.frente = true; }
+      else g.sentado = false;
+    } else if ((g.quieto -= dt) <= 0) {
+      if (g.sentado && Math.random() < .6) { const b = pick(Object.values(SITIOS)); g.destino = [b[0] + Math.random() * .6 - .3, b[1] + Math.random() * .6 - .3]; g.sentado = false; }
+      else if (!g.sentado) g.destino = g.asiento.slice();
+      else g.quieto = 4 + Math.random() * 6;
     }
   }
 }
-let ultimo = 0;
+function hablar(dt, f) {
+  const maximo = innerWidth < 700 ? 1 : 2, hablando = () => ESCENA.agentes.filter(x => x.finFrase > 0).length + ESCENA.sala.filter(x => x.finFrase > 0).length;
+  for (const g of ESCENA.agentes) {
+    g.proxFrase -= dt;
+    if (g.finFrase > 0 && (g.finFrase -= dt) <= 0) g.bo.classList.remove('visible');
+    if (g.proxFrase <= 0 && hablando() >= maximo) g.proxFrase = 1 + Math.random() * 2;
+    if (g.proxFrase <= 0) {
+      const fr = frasesDe(g, f);
+      g.indice = ((g.indice ?? Math.random() * fr.length | 0) + 1) % fr.length;
+      g.bo.textContent = fr[g.indice]; g.bo.classList.add('visible');
+      g.finFrase = f === 'noche' ? 3 : 5.5; g.proxFrase = g.finFrase + 4 + Math.random() * 8;
+    }
+  }
+  // La sala de analistas también habla, de uno en uno
+  for (const s of ESCENA.sala) if (s.finFrase > 0 && (s.finFrase -= dt) <= 0) s.bo.classList.remove('visible');
+  if (f !== 'noche' && (ESCENA.proxSala -= dt) <= 0) {
+    ESCENA.proxSala = 6 + Math.random() * 8;
+    if (hablando() < maximo) {
+      const k = Math.random() * 4 | 0, s = ESCENA.sala[k];
+      s.bo.innerHTML = `<small>${esc(s.n)}:</small> ${esc(pick(frasesSala(k)))}`; s.bo.classList.add('visible'); s.finFrase = 6.5;
+    }
+  }
+}
+function colocar(el, i, j, z) { const [x, y] = P(i, j, z); el.style.left = x / OF.W * 100 + '%'; el.style.top = y / OF.H * 100 + '%'; }
+const M_MESA_SALA = () => mueble('mesasala', SALA.w, SALA.d, 70, (c, b) => {
+  b(.06, .08, 0, .1, .84, 27, MADERA_O); b(SALA.w - .16, .08, 0, .1, .84, 27, MADERA_O);
+  b(0, 0, 27, SALA.w, SALA.d, 3, '#4a3020', { top: '#5a3a26' });
+  for (const u of [.5, 1.8]) { b(u, .38, 30, .44, .24, 2, '#2c2c30'); b(u - .02, .3, 30, .3, .3, 3, '#5a5550'); b(u + .02, .08, 37, .1, .8, 26, '#2a2a2e', { der: '#1a1a1d' }); }
+  b(1.2, .62, 30, .3, .22, 6, '#f4f0e6', { canto: false }); b(2.3, .7, 30, .13, .13, 7, '#f2efe8', { top: '#6b4026' });
+});
+const M_PIZARRA = () => mueble('pizarra', .14, 1.7, 92, (c, b, Q) => {
+  b(.02, .1, 0, .06, .06, 30, HIERRO); b(.02, 1.54, 0, .06, .06, 30, HIERRO);
+  b(0, 0, 28, .14, 1.7, 56, '#c8ccd2', { der: '#f4f6f8' });
+  linea(c, Q(.14, .35, 72), Q(.14, .8, 52), '#2f6fd6'); linea(c, Q(.14, .8, 52), Q(.14, 1.3, 66), '#2f6fd6');
+  for (const [jj, z, col] of [[.4, 46, '#d62828'], [.7, 70, '#d62828'], [1.1, 44, '#2f6fd6'], [1.4, 74, '#2f6fd6']]) { const [x, y] = Q(.14, jj, z); c.fillStyle = col; c.fillRect(Math.round(x) - 1, Math.round(y) - 1, 3, 3); }
+  linea(c, Q(.14, .2, 58), Q(.14, 1.5, 58), '#7a828e');
+});
+function dibujar() {
+  const { ctx, frame } = ESCENA, f = ESCENA.fase, h = horaMadrid();
+  ctx.clearRect(0, 0, OF.W, OF.H); ctx.drawImage(FONDO, 0, 0);
+  pintarVivos(ctx, f, h, frame);
+  // Sombras de los muebles en el suelo
+  const sombra = (i, j, w, d) => { const s = ([x, y]) => [x - 8, y + 2]; rell(ctx, [s(P(i, j)), s(P(i + w, j)), s(P(i + w, j + d)), s(P(i, j + d))], 'rgba(10,4,2,.22)'); };
+  Object.values(MESAS).forEach(([i, j]) => sombra(i, j, 2, 1)); sombra(DESPACHO.i, DESPACHO.j, DESPACHO.w, DESPACHO.d); sombra(SALA.mesa[0], SALA.mesa[1], SALA.w, SALA.d);
+  sombra(1.2, 5.6, 2.2, .95); sombra(1.7, 7.1, 1.3, .8);
+  const cosas = [];
+  // Rincón del sofá
+  cosas.push([1.2 + 5.6 + 1, () => poner(ctx, M_SOFA(), 1.2, 5.6)]);
+  cosas.push([.6 + 7.8 + 1.4, () => poner(ctx, M_SOFA_LADO(), .6, 7.8)]);
+  cosas.push([1.7 + 7.1 + 1, () => poner(ctx, M_MESITA(), 1.7, 7.1)]);
+  cosas.push([3.7 + 6.4 + .8, () => poner(ctx, M_SILLON(), 3.7, 6.4)]);
+  cosas.push([3.5 + 8.2 + .8, () => poner(ctx, M_SILLON(), 3.5, 8.2)]);
+  cosas.push([.5 + 5.35 + .6, () => poner(ctx, M_LAMPARA(24), .5, 5.35)]);
+  cosas.push([3.5 + 5.4 + .6, () => poner(ctx, M_LAMPARA(62), 3.5, 5.4)]);
+  cosas.push([9.0 + .6, () => poner(ctx, M_PLANTA(false), -.05, 9.0)]);
+  // Despacho de la manager
+  cosas.push([DESPACHO.i + DESPACHO.j + 1.6, () => poner(ctx, M_DESPACHO(), DESPACHO.i, DESPACHO.j)]);
+  cosas.push([DESPACHO.i + DESPACHO.w / 2 + DESPACHO.j - .55, () => poner(ctx, M_SILLA(), DESPACHO.i + DESPACHO.w / 2 - .5, DESPACHO.j - .95)]);
+  cosas.push([12.4 + 8.8 + .6, () => poner(ctx, M_PLANTA(true), 12.4, 8.8)]);
+  cosas.push([4.55 + 9.1 + .6, () => poner(ctx, M_PLANTA(false), 4.55, 9.1)]);
+  // Sala de analistas
+  { const [i, j] = SALA.mesa;
+    cosas.push([i + j + 1.6, () => {
+      poner(ctx, M_MESA_SALA(), i, j);
+      [.5, 1.8].forEach((u, n) => pintarPantalla(ctx, i + u - .16, j + .02, f === 'noche' ? 'apagada' : n ? 'texto' : 'pista', frame + 20 * n));
+    }]);
+  }
+  ESCENA.sala.forEach((s, k) => {
+    const [i, j, esp] = s.pos;
+    cosas.push([i + j + (esp ? .2 : -.1), () => poner(ctx, M_SILLA(esp), i - .5, j - .5)]);
+    if (f !== 'noche') cosas.push([i + j + (esp ? 0 : .02), () => {
+      const [x, y] = P(i, j, 10), tec = f === 'decide' || f === 'pre';
+      ctx.drawImage(spriteAvatar(s.ap, { pose: 'sentado', espalda: esp, frame: tec ? (frame >> 2) % 2 : 0, tecleando: tec && !esp, parpadeo: (frame + k * 9) % 50 < 2 }), Math.round(x - AV.X), Math.round(y - AV.Y));
+      colocar(s.bo, i, j, 72);
+    }]);
+  });
+  cosas.push([SALA.i0 + 3.4 + 1, () => poner(ctx, M_PIZARRA(), SALA.i0 + .05, 3.4)]);
+  // Mesas de la plantilla
+  for (const [rol, [i, j]] of Object.entries(MESAS)) {
+    const g = ESCENA.agentes.find(g => g.a.rol === rol && !g.saliendo);
+    const estado = f === 'noche' || !g ? 'apagada' : f === 'partidos' ? 'pista' : 'texto';
+    cosas.push([i + j + 1.4, () => { poner(ctx, M_MESA(), i, j); pintarPantalla(ctx, i, j, estado, frame + (g ? g.k : 0)); }]);
+    cosas.push([i + 1 + j - .55, () => poner(ctx, M_SILLA(), i + .5, j - .95)]);
+  }
+  for (const g of ESCENA.agentes) {
+    if (g.saliendo && g.oculto > 0) { g.et.style.display = g.bo.style.display = 'none'; continue; }
+    g.et.style.display = g.bo.style.display = '';
+    cosas.push([g.pos[0] + g.pos[1] + (g.sentado ? 0 : .05), () => agente(ctx, g, f)]);
+  }
+  cosas.sort((x, y) => x[0] - y[0]).forEach(c => c[1]());
+  // La luz de la noche o del atardecer solo tiñe la sala, no el fondo transparente
+  ctx.globalCompositeOperation = 'source-atop';
+  if (f === 'noche') { ctx.fillStyle = 'rgba(8, 10, 34, .5)'; ctx.fillRect(0, 0, OF.W, OF.H); }
+  else if (h >= 18 || h < 9) { ctx.fillStyle = 'rgba(60, 24, 40, .14)'; ctx.fillRect(0, 0, OF.W, OF.H); }
+  // Resplandor de la chimenea
+  const [fx, fy] = P(CHIMENEA.i + CHIMENEA.w / 2, 1.2), luz = ctx.createRadialGradient(fx, fy, 4, fx, fy, 150);
+  luz.addColorStop(0, `rgba(255, 150, 60, ${f === 'noche' ? .2 : .1 + (frame % 7) * .004})`); luz.addColorStop(1, 'rgba(255, 150, 60, 0)');
+  ctx.fillStyle = luz; ctx.fillRect(0, 0, OF.W, OF.H);
+  ctx.globalCompositeOperation = 'source-over';
+}
+function agente(ctx, g, f) {
+  const sent = g.sentado, anda = !sent && (g.destino || g.saliendo), pose = sent ? 'sentado' : anda ? 'andar' : 'de_pie';
+  const tecleando = sent && (f === 'decide' || (f === 'pre' && (ESCENA.frame + g.k) % 40 < 12));
+  const fr = ESCENA.frame >> (anda ? 1 : 2);
+  const o = { pose, frame: anda ? fr % 4 : tecleando ? fr % 2 : 0, espalda: !sent && !g.frente, voltear: !sent && !!g.derecha === !!g.frente,
+    tecleando, durmiendo: f === 'noche' && !g.saliendo, caja: !!g.saliendo, parpadeo: (ESCENA.frame + g.k * 7) % 46 < 2 };
+  const z = sent ? 10 : 0, [x, y] = P(g.pos[0], g.pos[1], z), [sx, sy] = P(g.pos[0], g.pos[1]);
+  if (!sent) { ctx.fillStyle = 'rgba(10,4,2,.3)'; ctx.fillRect(Math.round(sx) - 9, Math.round(sy) - 2, 18, 4); ctx.fillRect(Math.round(sx) - 6, Math.round(sy) - 3, 12, 6); }
+  if (g.a.id === FICHA_ID) { ctx.fillStyle = 'rgba(166,214,90,.6)'; ctx.fillRect(Math.round(sx) - 12, Math.round(sy) - 2, 24, 4); ctx.fillRect(Math.round(sx) - 8, Math.round(sy) - 4, 16, 8); }
+  ctx.drawImage(spriteAvatar(g.ap, o), Math.round(x - AV.X), Math.round(y - AV.Y));
+  colocar(g.et, g.pos[0], g.pos[1], z + 64); colocar(g.bo, g.pos[0], g.pos[1], z + 64);
+  g.et.setAttribute('aria-pressed', g.a.id === FICHA_ID);
+}
 function bucle(t) {
-  const dt = Math.min(60, t - (ultimo || t)); ultimo = t; frame++;
-  if (!document.hidden && PANEL === 'oficina') { vida(dt); dibujar(); }
+  if (!ESCENA) return;
+  const dt = Math.min(.2, (t - (ESCENA.ultimo || t)) / 1000);
+  ESCENA.ultimo = t; ESCENA.acum = (ESCENA.acum || 0) + dt;
+  if (!document.hidden && ESCENA.acum >= (ESCENA.reducido ? .5 : 1 / 12)) {
+    const paso = ESCENA.acum; ESCENA.acum = 0; ESCENA.frame++;
+    if (ESCENA.frame % 120 === 1) { ESCENA.fase = fase(); $('#que-hacen').textContent = TEXTO_FASE[ESCENA.fase]; }
+    moverAgentes(paso, ESCENA.fase); hablar(paso, ESCENA.fase); dibujar();
+  }
   requestAnimationFrame(bucle);
 }
-function puntoLienzo(e) { const r = lienzo.getBoundingClientRect(); return [(e.clientX - r.left) * W / r.width, (e.clientY - r.top) * W / r.height]; }
-lienzo.addEventListener('click', e => {
-  const [x, y] = puntoLienzo(e);
-  const g = ESC.gente.find(g => Math.abs(g.x - x) < 12 && y > g.y - 32 && y < g.y + 4);
-  if (g) { abrirFicha(g.a.id); return; }
-  if (x > SALA.x && x < SALA.x + SALA.w && y > SALA.y && y < SALA.y + SALA.h) { ir('sala'); return; }
-  const tu = ESC.tu; irA(tu, [x, y]);
-  if (!tu.ruta.length) decir(tu, 'Por ahí no se puede pasar.', 1800);
-});
-addEventListener('keydown', e => {
-  if (PANEL !== 'oficina' || !ESC || $('#velo').hidden === false) return;
-  const d = { ArrowUp: [0, -16], ArrowDown: [0, 16], ArrowLeft: [-16, 0], ArrowRight: [16, 0] }[e.key];
-  if (!d) return;
-  e.preventDefault(); const tu = ESC.tu; irA(tu, [tu.x + d[0], tu.y + d[1]]);
-});
+// La oficina ocupa toda la pantalla y se puede ampliar (pellizco, rueda o botones) y mover arrastrando
+function montarVista() {
+  const lienzo = $('#lienzo'), capa = $('#capa'), caja = $('#caja-lienzo'), vis = $('#escena');
+  lienzo.width = OF.W; lienzo.height = OF.H;
+  const ctx = lienzo.getContext('2d'); ctx.imageSmoothingEnabled = false;
+  ESCENA = { ctx, lienzo, capa, agentes: [], vacias: [], sala: [], frame: 0, ultimo: 0, fase: fase(), reducido: matchMedia('(prefers-reduced-motion: reduce)').matches };
+  const VISTA = { base: 1, z: 1, zmin: 1, zmax: 4, x: 0, y: 0 };
+  const limitar = () => {
+    const w = OF.W * VISTA.base * VISTA.z, h = OF.H * VISTA.base * VISTA.z;
+    const mx = Math.max(0, (w - innerWidth) / 2 + 40), my = Math.max(0, (h - innerHeight) / 2 + 80);
+    VISTA.x = Math.max(-mx, Math.min(mx, VISTA.x)); VISTA.y = Math.max(-my, Math.min(my, VISTA.y));
+  };
+  const pintarVista = () => {
+    limitar();
+    const w = OF.W * VISTA.base * VISTA.z, h = OF.H * VISTA.base * VISTA.z;
+    caja.style.width = w + 'px'; caja.style.height = h + 'px';
+    const sube = innerWidth < 700 ? -10 : 14;
+    caja.style.left = (vis.clientWidth - w) / 2 + VISTA.x + 'px'; caja.style.top = (vis.clientHeight - h) / 2 + sube + VISTA.y + 'px';
+    document.body.classList.toggle('ampliada', VISTA.z > VISTA.zmin + .01);
+  };
+  const ampliar = (factor, cx = innerWidth / 2, cy = innerHeight / 2) => {
+    const z = Math.max(VISTA.zmin, Math.min(VISTA.zmax, VISTA.z * factor)), f = z / VISTA.z;
+    if (f === 1) return;
+    const r = caja.getBoundingClientRect(), ox = r.left + r.width / 2, oy = r.top + r.height / 2;
+    VISTA.x += (cx - ox) * (1 - f); VISTA.y += (cy - oy) * (1 - f); VISTA.z = z; pintarVista();
+  };
+  const encajar = () => {
+    const movil = innerWidth < 700;
+    // Escala que cae en píxeles físicos enteros cuando se puede: el dibujo se ve nítido
+    const dpr = devicePixelRatio || 1, max = movil ? Math.min(innerWidth * 1.35 / OF.W, innerHeight * .62 / OF.H) : Math.min(innerWidth * .98 / OF.W, (innerHeight - 110) / OF.H);
+    const entera = Math.max(1, Math.floor(max * dpr)) / dpr;
+    VISTA.base = entera >= max * .88 ? entera : max;
+    VISTA.zmin = Math.min(1, innerWidth / (OF.W * VISTA.base));
+    VISTA.z = Math.max(VISTA.zmin, VISTA.z);
+    pintarVista();
+  };
+  encajar(); requestAnimationFrame(encajar); addEventListener('resize', encajar);
+  ESCENA.vista = { ampliar, centrar: () => { VISTA.z = 1; VISTA.x = VISTA.y = 0; encajar(); } };
+  vis.addEventListener('wheel', e => {
+    e.preventDefault();
+    const rueda = !e.ctrlKey && e.deltaMode === 0 && e.deltaX === 0 && Math.abs(e.deltaY) >= 40 && Number.isInteger(e.deltaY);
+    if (e.ctrlKey || rueda || e.deltaMode === 1) ampliar(Math.exp(-e.deltaY * (e.ctrlKey ? .006 : .0018)), e.clientX, e.clientY);
+    else { VISTA.x -= e.deltaX; VISTA.y -= e.deltaY; pintarVista(); }
+  }, { passive: false });
+  let gesto = 1;
+  vis.addEventListener('gesturestart', e => { e.preventDefault(); gesto = 1; });
+  vis.addEventListener('gesturechange', e => { e.preventDefault(); ampliar(e.scale / gesto, e.clientX, e.clientY); gesto = e.scale; });
+  vis.addEventListener('gestureend', e => e.preventDefault());
+  const dedos = new Map(); let arrastre = null, movido = false;
+  vis.addEventListener('pointerdown', e => {
+    if (e.pointerType === 'mouse' && e.button !== 0) return;
+    dedos.set(e.pointerId, [e.clientX, e.clientY]); movido = false;
+    arrastre = dedos.size === 1 ? { x: e.clientX, y: e.clientY, vx: VISTA.x, vy: VISTA.y } : null;
+  });
+  vis.addEventListener('pointermove', e => {
+    if (!dedos.has(e.pointerId)) return;
+    const antes = [...dedos.values()]; dedos.set(e.pointerId, [e.clientX, e.clientY]); const ahora = [...dedos.values()];
+    if (ahora.length >= 2) {
+      const d = p => Math.hypot(p[0][0] - p[1][0], p[0][1] - p[1][1]), c = ahora[0].map((v, n) => (v + ahora[1][n]) / 2), c0 = antes[0].map((v, n) => (v + antes[1][n]) / 2);
+      VISTA.x += c[0] - c0[0]; VISTA.y += c[1] - c0[1];
+      ampliar(d(ahora) / Math.max(1, d(antes)), c[0], c[1]); pintarVista(); movido = true;
+    } else if (arrastre) {
+      const dx = e.clientX - arrastre.x, dy = e.clientY - arrastre.y;
+      if (movido || Math.hypot(dx, dy) > 6) {
+        if (!movido) try { vis.setPointerCapture(e.pointerId); } catch (_) { /* nada */ }
+        movido = true; VISTA.x = arrastre.vx + dx; VISTA.y = arrastre.vy + dy; pintarVista(); vis.classList.add('moviendo');
+      }
+    }
+  });
+  const soltar = e => { dedos.delete(e.pointerId); vis.classList.remove('moviendo'); const queda = [...dedos.values()][0]; arrastre = queda ? { x: queda[0], y: queda[1], vx: VISTA.x, vy: VISTA.y } : null; };
+  vis.addEventListener('pointerup', soltar); vis.addEventListener('pointercancel', soltar);
+  vis.addEventListener('click', e => { if (movido) { e.stopPropagation(); e.preventDefault(); movido = false; } }, true);
+  vis.addEventListener('dblclick', e => ampliar(1.8, e.clientX, e.clientY));
+  const zoom = document.createElement('div'); zoom.className = 'zoom madera';
+  zoom.innerHTML = '<button aria-label="Acercar" data-z="1.4">+</button><button aria-label="Alejar" data-z="0.7">−</button><button aria-label="Ver la oficina entera" data-z="0">⤢</button>';
+  zoom.onclick = e => { const b = e.target.closest('button'); if (!b) return; +b.dataset.z ? ampliar(+b.dataset.z) : ESCENA.vista.centrar(); };
+  document.body.append(zoom);
+  lienzo.onclick = e => {
+    const r = lienzo.getBoundingClientRect(), x = (e.clientX - r.left) * OF.W / r.width, y = (e.clientY - r.top) * OF.H / r.height;
+    let mejor = null, dist = 30;
+    for (const g of ESCENA.agentes) { const [sx, sy] = P(g.pos[0], g.pos[1], g.sentado ? 40 : 36), d = Math.hypot(sx - x, sy - y); if (d < dist) { dist = d; mejor = g; } }
+    if (mejor) { abrirFicha(mejor.a.id); return; }
+    const [mx, my] = P(SALA.mesa[0] + 1.3, SALA.mesa[1] + .5, 30);
+    if (Math.hypot(mx - x, my - y) < 70) abrirPanel('sala');
+  };
+  requestAnimationFrame(bucle);
+}
 
 /* ---------- Paneles ---------- */
 function pintarCabecera() {
-  const t = D.temporada || {}, casa = D.nombres_casa[D.casa] || 'por elegir';
-  $('#estado-cab').innerHTML = `<span class="chip ${t.nombre === 'prueba' ? 'ojo' : 'bien'}">${t.nombre === 'prueba' ? 'Temporada de prueba' : 'Temporada ' + esc(t.nombre)}</span><br>Casa: ${esc(casa)} · árbitro: Pinnacle`;
-  $('#pie').innerHTML = `Datos actualizados: ${cuando(D.actualizado)} · dinero ficticio, cuotas reales de The Odds API` +
-    (D.creditos?.restantes != null ? ` · créditos restantes: ${D.creditos.restantes}` : '');
-}
-function pintarHoy() {
-  const pend = D.apuestas.filter(a => a.estado === 'pendiente'), prox = D.cartelera.partidos[0];
-  const lider = activos().slice().sort((a, b) => b.total.ganancia - a.total.ganancia)[0];
-  const sala = D.sala[0];
-  $('#hoy').innerHTML = `<h3>Hoy</h3><ul>
-    <li>🎾 ${D.cartelera.partidos.length} partidos en la cartelera${prox ? ` · el próximo, ${esc(prox.jugadores.join(' – '))} a las ${HORA.format(new Date(prox.inicio))}` : ''}</li>
-    <li>🧾 ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego por ${eur(pend.reduce((s, a) => s + a.stake, 0))}</li>
-    ${lider && lider.total.apuestas ? `<li>🥇 Va primero <b>${esc(lider.nombre)}</b> (${eur(lider.total.ganancia, true)})</li>` : '<li>🥇 Aún no hay apuestas liquidadas</li>'}
-    <li>⏰ Deciden cada día a las 9:00; la sala escribe a las 9:00, 14:00 y 20:00</li>
-    ${sala ? `<li>📋 La sala: ${esc(corta(sala.conclusion))}</li>` : ''}
-  </ul>`;
-  $('#bitacora').innerHTML = D.bitacora.map(b => `<li><time>${cuando(b.hora)}</time>${esc(b.texto)}</li>`).join('') || '<li class="vacio">Todavía no ha pasado nada.</li>';
+  const t = D.temporada || {}, casa = D.nombres_casa[D.casa] || 'casa por elegir';
+  $('#subtitulo').textContent = `${t.nombre === 'prueba' ? 'Temporada de prueba' : 'Temporada ' + (t.nombre || '')} · ${casa} · actualizado ${cuando(D.actualizado)}`;
+  $('#que-hacen').textContent = TEXTO_FASE[fase()];
 }
 function tarjetaAnalista(a) {
   const t = a.total, s = a.situacion || {}, avance = s.liquidadas != null ? s.liquidadas / D.reglas.revision : 0;
-  return `<div class="tarjeta"><button class="analista" style="border:0;background:none;padding:0" data-ficha="${a.id}">
-    ${pix(a)}<div class="info"><b>${esc(a.nombre)}</b><small>${esc(a.titulo)}</small></div>
+  return `<div class="tarjeta"><button class="analista" data-ficha="${a.id}">
+    ${pix(a)}<div class="info"><b>${esc(a.nombre)} ${animo(a).cara}</b><small>${esc(a.titulo)}</small></div>
     <span class="chip ${t.ganancia > 0 ? 'bien' : t.ganancia < 0 ? 'mal' : ''}">${eur(t.ganancia, true)}</span></button>
     <div class="cifras"><div>Bote<b class="num">${eur(Object.values(a.botes).reduce((x, b) => x + b.valor, 0))}</b></div>
       <div title="Lo que gana o pierde por cada euro apostado">Rendimiento<b class="num ${clase(t.yield)}">${pct(t.yield, true)}</b></div>
@@ -608,17 +1014,30 @@ function tarjetaAnalista(a) {
     <small style="color:var(--suave)">${s.liquidadas ?? 0} de ${D.reglas.revision} apuestas hasta su próxima revisión</small></div>`;
 }
 function pintarPlantilla() {
-  $('#plantilla').innerHTML = activos().map(tarjetaAnalista).join('');
+  const pend = D.apuestas.filter(a => a.estado === 'pendiente'), prox = D.cartelera.partidos[0], sala = D.sala[0];
+  $('#plantilla').innerHTML = `<div class="tarjeta hoy"><h3>Hoy</h3><ul>
+      <li>🎾 ${D.cartelera.partidos.length} partidos en la cartelera${prox ? ` · el próximo, ${esc(prox.jugadores.join(' – '))} a las ${HORA.format(new Date(prox.inicio))}` : ''}</li>
+      <li>🧾 ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego por ${eur(pend.reduce((s, a) => s + a.stake, 0))}</li>
+      <li>⏰ Deciden cada día a las 9:00; la sala escribe a las 9:00, 14:00 y 20:00</li>
+      ${sala ? `<li>📋 La sala: ${esc(corta(sala.conclusion))}</li>` : ''}</ul></div>
+    <h4>La plantilla</h4><div class="rejilla">${activos().map(tarjetaAnalista).join('')}</div>
+    <h4>Lo último</h4><div class="tarjeta"><ul class="bitacora">${D.bitacora.map(b => `<li><time>${cuando(b.hora)}</time>${esc(b.texto)}</li>`).join('') || '<li class="vacio">Todavía no ha pasado nada.</li>'}</ul></div>
+    <p style="color:var(--suave);font-size:12px;margin:14px 2px 0">Dinero ficticio y cuotas reales de The Odds API${D.creditos?.restantes != null ? ` · créditos restantes: ${D.creditos.restantes}` : ''}.</p>`;
 }
-function cartelera() {
+function etiquetaOpcion(o) {
+  if (o.mercado === 'totals') return `${o.nombre === 'Over' ? 'Más' : 'Menos'} de ${o.punto}`;
+  if (o.mercado === 'spreads') return `${o.nombre.split(' ').slice(-1)[0]} ${o.punto > 0 ? '+' : ''}${o.punto}`;
+  return o.nombre;
+}
+function pintarCartelera() {
   const ps = D.cartelera.partidos;
-  if (!ps.length) { $('#cartelera').innerHTML = '<h2>Cartelera</h2><p class="vacio">No hay partidos con cuotas guardados para las próximas horas. La cartelera se carga cada día a las 9:00.</p>'; return; }
+  if (!ps.length) { $('#cartelera').innerHTML = '<p class="vacio">No hay partidos con cuotas para las próximas horas. La cartelera se carga cada día a las 9:00.</p>'; return; }
   const apostadas = {};
   for (const a of D.apuestas) if (a.estado === 'pendiente') (apostadas[a.partido] ||= []).push(a);
   const torneos = {};
   for (const p of ps) (torneos[p.torneo] ||= []).push(p);
-  $('#cartelera').innerHTML = `<h2>Cartelera</h2><p style="color:var(--suave);margin:0">Cuotas de ${esc(D.nombres_casa[D.casa] || 'la casa')} (la casa con la que apuestan) y, en pequeño, las de Pinnacle (el árbitro). Cargada ${cuando(D.cartelera.actualizado)}.</p>` +
-    Object.entries(torneos).map(([t, lista]) => `<div class="torneo"><h3>${esc(t)} <span class="chip">${SUPERFICIE[lista[0].superficie] || ''}</span></h3>` + lista.map(p => {
+  $('#cartelera').innerHTML = `<p style="color:var(--suave);margin:0">Cuotas de ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle (el árbitro). Cargada ${cuando(D.cartelera.actualizado)}.</p>` +
+    Object.entries(torneos).map(([t, lista]) => `<div class="torneo"><h3>${esc(t)} <span class="superficie ${esc(lista[0].superficie)}">${SUPERFICIE[lista[0].superficie] || ''}</span></h3>` + lista.map(p => {
       const grupos = {};
       for (const o of p.opciones) (grupos[o.mercado] ||= []).push(o);
       const boletos = apostadas[p.id] || [];
@@ -628,62 +1047,57 @@ function cartelera() {
         ${boletos.length ? `<div class="apostado">${boletos.map(b => { const a = agentePor(b.agente); return `<span class="chip bien">${esc(a?.nombre)}: ${esc(b.descripcion)} @ ${b.cuota.toFixed(2)}</span>`; }).join('')}</div>` : ''}</div>`;
     }).join('') + '</div>').join('');
 }
-function etiquetaOpcion(o) {
-  if (o.mercado === 'totals') return `${o.nombre === 'Over' ? 'Más' : 'Menos'} de ${o.punto}`;
-  if (o.mercado === 'spreads') return `${o.nombre.split(' ').slice(-1)[0]} ${o.punto > 0 ? '+' : ''}${o.punto}`;
-  return o.nombre;
-}
 let FILTRO = { agente: '', estado: '' };
 function boleto(b) {
   const a = agentePor(b.agente) || { nombre: b.agente, id: b.agente, color: '#777' };
   const bate = b.pinnacle_cierre ? b.cuota > b.pinnacle_cierre : null;
   const sello = b.estado.startsWith('media') ? b.estado.split(' ')[1] : b.estado;
   return `<article class="boleto"><span class="sello ${sello}">${ESTADOS[b.estado] || b.estado}</span>
-    <div class="quien"><img src="${retrato(a)}" alt="">${esc(a.nombre)} <small style="font:12px system-ui;color:var(--suave)">bote ${b.bote}</small></div>
+    <div class="quien"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}</small></div>
     <div class="sel">${esc(b.descripcion)}</div>
-    <div style="color:var(--suave);font-size:12.5px">${esc(b.jugadores.join(' – '))} · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
+    <div class="det">${esc(b.jugadores.join(' – '))} · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
     <div class="linea"><span>Pinnacle: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
       ${bate == null ? '' : `<span class="chip ${bate ? 'bien' : 'mal'}">${bate ? '✓ batió el cierre' : '✗ peor que el cierre'}</span>`}</div>
     ${b.estado !== 'pendiente' ? `<div class="linea"><span>${esc(b.resultado || '')}</span><b class="num ${clase(b.ganancia)}">${eur(b.ganancia, true)}</b></div>` : ''}
-    ${b.motivo ? `<details class="plegable motivo"><summary>Por qué</summary>${esc(b.motivo)}</details>` : ''}</article>`;
+    ${b.motivo ? `<details class="plegable"><summary>Por qué</summary>${esc(b.motivo)}</details>` : ''}</article>`;
 }
 function pintarBoletos() {
   const lista = D.apuestas.filter(b => (!FILTRO.agente || b.agente === FILTRO.agente) && (!FILTRO.estado || (FILTRO.estado === 'liquidada' ? b.estado !== 'pendiente' : b.estado === FILTRO.estado)));
   const boton = (campo, valor, texto) => `<button aria-pressed="${FILTRO[campo] === valor}" data-filtro="${campo}" data-valor="${valor}">${esc(texto)}</button>`;
-  $('#boletos').innerHTML = `<h2>Boletos</h2>
-    <div class="filtros">${boton('agente', '', 'Todos')}${D.agentes.filter(a => D.apuestas.some(b => b.agente === a.id) || a.estado === 'activo').map(a => boton('agente', a.id, a.nombre)).join('')}</div>
+  $('#boletos').innerHTML = `<div class="filtros">${boton('agente', '', 'Todos')}${D.agentes.filter(a => D.apuestas.some(b => b.agente === a.id) || a.estado === 'activo').map(a => boton('agente', a.id, a.nombre)).join('')}</div>
     <div class="filtros">${boton('estado', '', 'Todos')}${boton('estado', 'pendiente', 'En juego')}${boton('estado', 'liquidada', 'Liquidados')}</div>
     <div class="boletos">${lista.slice(0, 120).map(boleto).join('') || '<p class="vacio">Todavía no hay boletos.</p>'}</div>`;
 }
+const MEDALLAS = ['🥇', '🥈', '🥉'];
 function filaClas(a, i, valor) {
-  return `<tr><td>${i + 1}</td><td><span class="nom" data-ficha="${a.id}"><img src="${retrato(a)}" alt="">${esc(a.nombre)}</span><small style="color:var(--suave)">${esc(a.titulo)}</small></td>${valor}</tr>`;
+  return `<tr><td class="medalla">${MEDALLAS[i] || i + 1}</td><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> <small style="color:var(--suave)">${esc(a.titulo)}</small></td>${valor}</tr>`;
 }
 function pintarClasificacion() {
-  const ags = activos();
+  const ags = activos(), r = D.reglas;
   const porDinero = ags.slice().sort((a, b) => b.total.ganancia - a.total.ganancia);
   const porCierre = ags.slice().sort((a, b) => (b.total.pct_cierre ?? -1) - (a.total.pct_cierre ?? -1));
-  const r = D.reglas;
-  $('#clasificacion').innerHTML = `<h2>Clasificación</h2><div class="rejilla dos">
-    <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th>#</th><th>Analista</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendimiento</th><th class="n">Aciertos</th></tr>
+  $('#clasificacion').innerHTML = `<div class="rejilla dos">
+    <div class="tarjeta desplaza"><h3>Por rentabilidad</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Ganancia</th><th class="n" title="Lo que gana o pierde por cada euro apostado">Rendimiento</th><th class="n">Aciertos</th></tr>
       ${porDinero.map((a, i) => filaClas(a, i, `<td class="n ${clase(a.total.ganancia)}">${eur(a.total.ganancia, true)}</td><td class="n ${clase(a.total.yield)}">${pct(a.total.yield, true)}</td><td class="n">${pct(a.total.aciertos, false, 0)}</td>`)).join('')}</table></div>
-    <div class="tarjeta desplaza"><h3>Por cuota de cierre</h3><table class="tabla"><tr><th>#</th><th>Analista</th><th class="n">Bate el cierre</th><th class="n">Con cierre</th></tr>
+    <div class="tarjeta desplaza"><h3>Por cuota de cierre</h3><table class="tabla"><tr><th></th><th>Analista</th><th class="n">Bate el cierre</th><th class="n">Con cierre</th></tr>
       ${porCierre.map((a, i) => filaClas(a, i, `<td class="n ${a.total.pct_cierre > .5 ? 'sube' : a.total.pct_cierre != null && a.total.pct_cierre < .5 ? 'baja' : ''}">${pct(a.total.pct_cierre, false, 0)}</td><td class="n">${a.total.con_cierre}</td>`)).join('')}</table></div></div>
-    <h2>Camino al dinero real</h2><div class="tarjeta"><p style="margin-top:0">Solo «se gana» que le copies quien cumpla las tres cosas a la vez: al menos ${r.real} apuestas, ganar dinero en total y batir la cuota de cierre en la mayoría. Una buena racha no basta.</p>
+    <h4>Camino al dinero real</h4><div class="tarjeta desplaza"><p style="margin-top:0">Solo «se gana» que le copies quien cumpla las tres cosas a la vez: al menos ${r.real} apuestas, ganar dinero en total y batir la cuota de cierre en la mayoría. Una buena racha no basta.</p>
       <table class="tabla"><tr><th>Analista</th><th class="n">Apuestas</th><th class="n">Gana dinero</th><th class="n">Bate el cierre</th></tr>
-      ${ags.map(a => `<tr><td><span class="nom" data-ficha="${a.id}"><img src="${retrato(a)}" alt="">${esc(a.nombre)}</span></td><td class="n">${a.total.apuestas} / ${r.real}</td><td class="n">${a.total.ganancia > 0 ? '✓' : '✗'}</td><td class="n">${a.total.pct_cierre > .5 ? '✓' : '✗'} ${pct(a.total.pct_cierre, false, 0)}</td></tr>`).join('')}</table></div>
-    <h2>Despidos</h2><div class="tarjeta"><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada analista: se le despide si pierde más de un ${pct(r.despido, false, 0)} y además consiguió peor cuota que la de cierre en la mayoría de sus apuestas.</p>
-      ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img src="${retrato(a)}" width="22" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
+      ${ags.map(a => `<tr><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span></td><td class="n">${a.total.apuestas} / ${r.real}</td><td class="n">${a.total.ganancia > 0 ? '✓' : '✗'}</td><td class="n">${a.total.pct_cierre > .5 ? '✓' : '✗'} ${pct(a.total.pct_cierre, false, 0)}</td></tr>`).join('')}</table></div>
+    <h4>Despidos</h4><div class="tarjeta"><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada analista: se le despide si pierde más de un ${pct(r.despido, false, 0)} y además consiguió peor cuota que la de cierre en la mayoría de sus apuestas.</p>
+      ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
 }
 function pintarSala() {
-  $('#sala').innerHTML = `<h2>Sala de analistas</h2><p style="color:var(--suave);margin:0 0 10px">Un equipo común: un analista de datos (Elo, forma y cara a cara), uno de noticias (lesiones, retiradas y viajes), una de ambiente (redes y prensa) y un debate a favor y en contra del favorito. Los cuatro apostadores leen sus informes antes de decidir.</p>` +
-    (D.sala.map((s, i) => `<div class="tarjeta informe" style="margin-top:10px"><details class="plegable" ${i === 0 ? 'open' : ''}><summary>${cuando(s.hora)} · ${esc(corta(s.conclusion))}</summary>
+  $('#sala').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Un equipo común: un analista de datos (Elo, forma y cara a cara), uno de noticias (lesiones, retiradas y viajes), una de ambiente (redes y prensa) y un debate a favor y en contra del favorito. Los cuatro de la plantilla leen sus informes antes de decidir.</p>` +
+    (D.sala.map((s, i) => `<div class="tarjeta informe"><details class="plegable" ${i === 0 ? 'open' : ''}><summary>${cuando(s.hora)} · ${esc(corta(s.conclusion))}</summary>
       <p><b>📊 Datos:</b> ${esc(s.datos)}</p><p><b>📰 Noticias:</b> ${esc(s.noticias)}</p><p><b>💬 Ambiente:</b> ${esc(s.ambiente)}</p>
       <p><b>👍 A favor del favorito:</b> ${esc(s.favorito)}</p><p><b>👎 En contra:</b> ${esc(s.contra)}</p><p><b>✅ Conclusión:</b> ${esc(s.conclusion)}</p>
       ${s.partidos?.length ? '<p><b>Partidos destacados</b></p><ul>' + s.partidos.map(p => `<li>${esc(p.partido)} · <i>${esc(p.vista)}</i>: ${esc(p.motivo)}</li>`).join('') + '</ul>' : ''}</details></div>`).join('') || '<p class="vacio">La sala aún no ha escrito ningún informe.</p>');
 }
 
 /* ---------- Ficha de un analista ---------- */
+let FICHA_ID = null;
 function grafica(a) {
   const s = a.serie; if (s.length < 2) return '<p class="vacio">La gráfica aparece cuando haya apuestas liquidadas.</p>';
   const vals = s.map(p => p[1]), base = Object.values(a.botes).reduce((x, b) => x + b.inicial, 0);
@@ -695,9 +1109,9 @@ function grafica(a) {
 }
 function abrirFicha(id) {
   const a = agentePor(id); if (!a) return;
-  const t = a.total, s = a.situacion, real = a.real;
-  const informes = (a.informes || []).slice().reverse();
-  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+  FICHA_ID = id;
+  const t = a.total, s = a.situacion, real = a.real, informes = (a.informes || []).slice().reverse();
+  $('#ficha').innerHTML = `<div class="cabecera">${pix(a, 'grande')}<div><h2>${esc(a.nombre)}</h2><div style="color:var(--suave)">${esc(a.titulo)}${a.estado === 'despedido' ? ` · <span class="chip mal">despedido el ${esc(a.despedido)}</span>` : ''}</div><div style="margin-top:4px">${animo(a).cara} ${esc(animo(a).texto)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
     <div class="tarjeta"><p style="margin-top:0"><b>Carácter:</b> ${esc(a.personalidad)}</p><p><b>Cómo decide:</b> ${esc(a.como_decide)}</p><p style="margin-bottom:0"><b>Qué lee:</b> ${esc(a.que_lee)}</p></div>
     ${s ? `<div class="tarjeta"><h3>Su situación en el puesto</h3><p style="margin:0">Lleva <b>${s.liquidadas}</b> apuestas liquidadas en este periodo; le revisan al llegar a ${D.reglas.revision}. Sus botes valen <b>${eur(s.valor)}</b> (<span class="${clase(s.rentabilidad)}">${pct(s.rentabilidad, true)}</span> en el periodo) y bate la cuota de cierre en el <b>${pct(s.pct_cierre, false, 0)}</b> de ${s.con_cierre} apuestas.</p>
       <div class="barra"><i style="width:${Math.min(100, s.liquidadas / D.reglas.revision * 100)}%"></i></div></div>` : ''}
@@ -712,49 +1126,64 @@ function abrirFicha(id) {
       ${d.informe ? Object.entries({ jornada: 'La jornada', a_favor: 'A favor', en_contra: 'En contra', riesgos: 'Riesgos', situacion: 'Su puesto' }).filter(([k]) => d.informe[k]).map(([k, n]) => `<p><b>${n}:</b> ${esc(d.informe[k])}</p>`).join('') : ''}
       ${d.descarte ? `<p><b>Lo que dejó pasar:</b> ${esc(d.descarte)}</p>` : ''}${d.rechazos?.length ? `<p style="color:var(--suave);font-size:12.5px">Rechazadas por el control de riesgo: ${esc(d.rechazos.join('; '))}</p>` : ''}</details>`).join('') || '<p class="vacio">Aún no ha decidido nada.</p>'}</div>
     <div class="tarjeta"><h3>Sus reflexiones de los domingos</h3>${(a.reflexiones || []).slice().reverse().map(r => `<p><b>${esc(r.fecha)}:</b> ${esc(r.texto)}${r.regla ? `<br><i>Regla para la semana: ${esc(r.regla)}</i>` : ''}</p>`).join('') || '<p class="vacio">La primera llegará el domingo.</p>'}</div>
-    <div class="tarjeta"><h3>Sus boletos</h3><div class="boletos" style="grid-template-columns:1fr">${D.apuestas.filter(b => b.agente === a.id).slice(0, 20).map(boleto).join('') || '<p class="vacio">Sin boletos todavía.</p>'}</div></div>`;
-  $('#velo').hidden = false;
-  history.replaceState(null, '', '#/' + PANEL + '/' + id);
+    <div class="tarjeta"><h3>Sus boletos</h3><div class="boletos">${D.apuestas.filter(b => b.agente === a.id).slice(0, 20).map(boleto).join('') || '<p class="vacio">Sin boletos todavía.</p>'}</div></div>`;
+  $('#ficha').classList.add('abierta'); $('#ficha').scrollTop = 0;
+  actualizarEnlace();
 }
-function cerrarFicha() { $('#velo').hidden = true; history.replaceState(null, '', '#/' + PANEL); }
-$('#velo').addEventListener('click', e => { if (e.target.id === 'velo' || e.target.closest('.cerrar')) cerrarFicha(); });
-addEventListener('keydown', e => { if (e.key === 'Escape' && !$('#velo').hidden) cerrarFicha(); });
+function cerrarFicha() { FICHA_ID = null; $('#ficha').classList.remove('abierta'); actualizarEnlace(); }
+
+/* ---------- Navegación ---------- */
+let PANEL = null;
+const TITULOS = { plantilla: 'La plantilla', cartelera: 'Cartelera', boletos: 'Boletos', clasificacion: 'Clasificación', sala: 'Sala de analistas' };
+const PINTAR = { plantilla: pintarPlantilla, cartelera: pintarCartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala };
+const GRANDES = new Set(['cartelera', 'boletos', 'clasificacion']);
+function actualizarEnlace() { history.replaceState(null, '', '#/' + (PANEL || 'oficina') + (FICHA_ID ? '/' + FICHA_ID : '')); }
+function abrirPanel(tab) {
+  if (!PINTAR[tab]) return cerrarPanel();
+  PANEL = tab;
+  document.querySelectorAll('.dock [data-tab]').forEach(b => b.setAttribute('aria-pressed', b.dataset.tab === tab));
+  document.querySelectorAll('#panel > section').forEach(s => s.hidden = s.id !== tab);
+  $('#titulo-panel').textContent = TITULOS[tab];
+  const panel = $('#panel'); panel.classList.add('abierto'); panel.classList.toggle('grande', GRANDES.has(tab)); panel.scrollTop = 0;
+  document.body.classList.add('con-panel'); document.body.classList.toggle('panel-grande', GRANDES.has(tab));
+  PINTAR[tab]();
+  actualizarEnlace();
+}
+function cerrarPanel() {
+  PANEL = null; $('#panel').classList.remove('abierto');
+  document.body.classList.remove('con-panel', 'panel-grande');
+  document.querySelectorAll('.dock [data-tab]').forEach(b => b.setAttribute('aria-pressed', 'false'));
+  actualizarEnlace();
+}
+$('#plegar').onclick = cerrarPanel;
 document.addEventListener('click', e => {
+  const t = e.target.closest('[data-tab]'); if (t) { PANEL === t.dataset.tab && t.closest('.dock') ? cerrarPanel() : abrirPanel(t.dataset.tab); return; }
+  if (e.target.closest('#ficha .cerrar')) { cerrarFicha(); return; }
   const f = e.target.closest('[data-ficha]'); if (f) { abrirFicha(f.dataset.ficha); return; }
   const b = e.target.closest('[data-filtro]'); if (b) { FILTRO[b.dataset.filtro] = b.dataset.valor; pintarBoletos(); }
 });
-
-/* ---------- Navegación ---------- */
-let PANEL = 'oficina';
-const PINTAR = { oficina: () => { pintarHoy(); pintarPlantilla(); }, cartelera, boletos: pintarBoletos, clasificacion: pintarClasificacion, sala: pintarSala };
-function ir(tab) {
-  if (!PINTAR[tab]) tab = 'oficina';
-  PANEL = tab;
-  document.querySelectorAll('nav [data-tab]').forEach(b => b.setAttribute('aria-selected', b.dataset.tab === tab));
-  document.querySelectorAll('main > section').forEach(s => s.hidden = s.id !== tab);
-  PINTAR[tab]();
-  history.replaceState(null, '', '#/' + tab);
-}
-document.querySelectorAll('nav [data-tab]').forEach(b => b.addEventListener('click', () => { ir(b.dataset.tab); scrollTo(0, 0); }));
+addEventListener('keydown', e => { if (e.key === 'Escape') { if (FICHA_ID) cerrarFicha(); else if (PANEL) cerrarPanel(); } });
 
 async function cargar() {
   try {
     const r = await fetch('datos.json?' + Date.now(), { cache: 'no-store' });
     D = await r.json();
   } catch (e) {
-    D = { agentes: [], apuestas: [], sala: [], bitacora: [], cartelera: { partidos: [] }, nombres_casa: {}, reglas: { revision: 100, real: 500, despido: .1 }, botes: {} };
+    D = D || { agentes: [], apuestas: [], sala: [], bitacora: [], cartelera: { partidos: [] }, nombres_casa: {}, reglas: { revision: 100, real: 500, despido: .1 }, botes: {} };
   }
 }
 (async function () {
   await cargar();
   try { await document.fonts.load('700 11px "Pixelify Sans"'); } catch (e) { /* sin la letra pixelada se usa otra */ }
-  pintarFondo(); prepararRejilla(); crearEscena(); pintarCabecera();
+  pintarFondo(); montarVista(); poblar(); pintarCabecera();
   const [, tab, ficha] = location.hash.split('/');
-  ir(tab || 'oficina');
+  if (PINTAR[tab]) abrirPanel(tab);
   if (ficha) abrirFicha(ficha);
-  requestAnimationFrame(bucle);
   // Se recargan los datos cada 5 minutos por si ha habido novedades
-  setInterval(async () => { await cargar(); pintarCabecera(); const viejas = ESC; crearEscena(); ESC.tu = viejas.tu; PINTAR[PANEL](); }, 300000);
+  setInterval(async () => {
+    const antes = D.actualizado; await cargar(); if (D.actualizado === antes) return;
+    pintarCabecera(); poblar(); if (PANEL) PINTAR[PANEL](); if (FICHA_ID) abrirFicha(FICHA_ID);
+  }, 300000);
 })();
 </script>
 </body>
