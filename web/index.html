@@ -252,127 +252,78 @@ const horaMadrid = (d = AHORA()) => +new Intl.DateTimeFormat('en-GB', { timeZone
 function fase(h = horaMadrid()) { return h < 7 || h >= 23 ? 'noche' : h < 9 ? 'pre' : h < 10 ? 'decide' : 'partidos'; }
 const TEXTO_FASE = { noche: '🌙 La oficina duerme', pre: '📰 Leen las noticias de la jornada', decide: '✍️ Deciden las apuestas del día', partidos: '🎾 Siguen los partidos' };
 
-/* ---------- Personajes (vista de tres cuartos, como en Habbo) ---------- */
-const PIELES = ['#f6d3b3', '#eebd94', '#d9a377', '#b97d55', '#8a5a3c', '#ffe0c4'];
-const PELOS = ['#2b1b10', '#5a3418', '#a4652b', '#16161a', '#9b2f1c', '#e6c76a', '#6e6e78', '#3b2a5a'];
-const PANTALONES = ['#2d3142', '#3c4258', '#23324d', '#4b3b2e', '#33363d'];
-const PEINADOS = ['corto', 'pinchos', 'largo', 'moño', 'rapado', 'flequillo'];
-// Los cuatro de la plantilla original tienen siempre la misma cara; los sustitutos salen al azar (pero siempre igual)
-const FIJOS = {
-  'estadistico-1': { piel: '#f6d3b3', pelo: '#2b1b10', peinado: 'corto', gafas: true, pantalon: '#3c4258' },
-  'reportero-1': { piel: '#eebd94', pelo: '#9b2f1c', peinado: 'largo', pantalon: '#23324d' },
-  'superficies-1': { piel: '#d9a377', pelo: '#6e6e78', peinado: 'rapado', barba: true, pantalon: '#4b3b2e' },
-  'manager-1': { piel: '#ffe0c4', pelo: '#16161a', peinado: 'moño', pantalon: '#2d3142' },
-};
+/* ---------- Personajes (las mismas láminas que la oficina de inversión) ---------- */
+// Cada fila de personajes.png es una persona con cuatro poses: de frente, de espaldas, andando y sentada.
+// cargando.png repite las filas con una caja en brazos y durmiendo.png las tiene dormidas en la silla.
+const MEDIDAS = {"personajes":[[[180,12,55,139],[380,15,57,135],[575,13,72,138],[773,23,72,128]],[[180,161,54,140],[378,161,57,140],[571,163,73,138],[777,168,69,133]],[[179,311,55,143],[377,312,59,141],[572,312,73,142],[772,321,73,132]],[[179,464,58,142],[377,467,58,138],[572,464,75,142],[772,469,75,137]],[[177,615,59,143],[376,618,59,140],[571,615,78,143],[771,621,76,137]],[[176,769,63,143],[377,769,62,143],[572,769,74,143],[771,776,81,136]],[[176,924,59,147],[376,924,61,146],[571,927,80,144],[771,931,76,140]],[[176,1080,59,148],[375,1080,61,147],[571,1081,74,147],[771,1089,77,139]],[[177,1239,57,137],[376,1238,60,138],[571,1239,74,137],[772,1246,74,131]],[[178,1385,57,145],[377,1386,58,144],[572,1386,75,144],[772,1392,73,138]]],"analistas":[[[145,108,148,381],[505,111,141,372],[861,108,170,387],[1224,171,190,334]],[[149,557,130,385],[516,558,129,384],[859,557,176,392],[1229,622,177,338]]],"cargando":[[[158,11,79,143],[378,12,82,142],[561,12,78,142],[769,17,76,137]],[[159,154,80,150],[377,154,82,149],[560,154,81,150],[769,154,82,154]],[[154,312,83,149],[378,311,83,144],[560,313,80,148],[769,307,84,154]],[[155,461,85,154],[377,462,84,153],[559,461,89,154],[769,461,81,154]],[[153,614,89,154],[376,614,85,147],[559,614,88,151],[769,614,88,154]],[[153,768,91,154],[369,768,92,154],[560,768,91,148],[770,768,91,152]],[[152,922,84,150],[376,922,86,148],[558,925,83,148],[768,930,83,146]],[[154,1076,83,152],[376,1077,86,149],[560,1077,82,152],[769,1075,83,154]],[[151,1234,84,147],[376,1234,86,145],[558,1235,87,148],[768,1229,82,154]],[[151,1383,90,153],[376,1384,85,150],[557,1382,89,154],[769,1382,85,154]]],"durmiendo":[[20,20,72,128],[132,20,69,133],[241,20,73,132],[354,20,75,137],[469,20,76,137],[585,20,81,136],[706,20,76,140],[822,20,77,139],[939,20,74,131],[1053,20,73,138]]};
+const FILAS = { 'estadistico-1': 6, 'reportero-1': 9, 'superficies-1': 0, 'manager-1': 1 };
+const FILAS_LIBRES = [2, 4, 5, 8];   // los sustitutos; la 3 y la 7 están en la sala de analistas
+const LAMINAS_SALA = [{ hoja: 'analistas', fila: 0 }, { hoja: 'analistas', fila: 1 }, { hoja: 'personajes', fila: 3 }, { hoja: 'personajes', fila: 7 }];
 const hash = s => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
 function aspecto(a) {
-  const h = hash(a.id + a.nombre);
-  const base = { piel: PIELES[h % PIELES.length], pelo: PELOS[(h >>> 3) % PELOS.length], camisa: a.color || '#5b4ee6', pantalon: PANTALONES[(h >>> 6) % PANTALONES.length],
-    peinado: PEINADOS[(h >>> 9) % PEINADOS.length], gafas: (h >>> 12) % 4 === 0, corbata: false, barba: (h >>> 16) % 5 === 0 };
-  return { ...base, ...(FIJOS[a.id] ? { gafas: false, barba: false, ...FIJOS[a.id] } : {}) };
+  return { hoja: 'personajes', fila: FILAS[a.id] ?? FILAS_LIBRES[hash(a.id + a.nombre) % FILAS_LIBRES.length] };
 }
-function mezclar(c, d, f) { const a = parseInt(c.slice(1), 16), b = parseInt(d.slice(1), 16), m = k => Math.round((a >> k & 255) * (1 - f) + (b >> k & 255) * f); return '#' + [16, 8, 0].map(k => m(k).toString(16).padStart(2, '0')).join(''); }
+function mezclar(c, d, f) {
+  const rgb = v => v[0] === '#' ? [parseInt(v.slice(1, 3), 16), parseInt(v.slice(3, 5), 16), parseInt(v.slice(5, 7), 16)] : (v.match(/[\d.]+/g) || [0, 0, 0]).slice(0, 3).map(Number);
+  const a = rgb(c), b = rgb(d); return '#' + a.map((v, k) => Math.round(v * (1 - f) + b[k] * f).toString(16).padStart(2, '0')).join('');
+}
 const oscurecer = (c, f = .72) => mezclar(c, '#000000', 1 - f), aclarar = (c, f = .25) => mezclar(c, '#ffffff', f);
-// Contorno oscuro de 1 px alrededor de todo lo pintado
-function contornear(c, color = [26, 16, 12]) {
-  const ctx = c.getContext('2d'), { width: w, height: h } = c, img = ctx.getImageData(0, 0, w, h), d = img.data, lleno = k => d[k * 4 + 3] > 100;
-  const borde = [];
-  for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {
-    const k = y * w + x; if (lleno(k)) continue;
-    if ((x > 0 && lleno(k - 1)) || (x < w - 1 && lleno(k + 1)) || (y > 0 && lleno(k - w)) || (y < h - 1 && lleno(k + w))) borde.push(k);
-  }
-  for (const k of borde) { d[k * 4] = color[0]; d[k * 4 + 1] = color[1]; d[k * 4 + 2] = color[2]; d[k * 4 + 3] = 255; }
-  ctx.putImageData(img, 0, 0); return c;
+function pol(ctx, pts, fill, stroke = '#262629', lw = .65) {
+  ctx.beginPath(); pts.forEach((p, k) => k ? ctx.lineTo(...p) : ctx.moveTo(...p)); ctx.closePath();
+  if (fill) { ctx.fillStyle = fill; ctx.fill(); } if (stroke) { ctx.strokeStyle = stroke; ctx.lineWidth = lw; ctx.lineJoin = 'round'; ctx.stroke(); }
 }
+function trazo(ctx, pts, color = '#27272a', lw = .65) {
+  ctx.beginPath(); pts.forEach((p, k) => k ? ctx.lineTo(...p) : ctx.moveTo(...p)); ctx.strokeStyle = color; ctx.lineWidth = lw; ctx.lineJoin = 'round'; ctx.lineCap = 'round'; ctx.stroke();
+}
+function elipse(ctx, x, y, rx, ry, color, stroke = null, lw = .6) { ctx.beginPath(); ctx.ellipse(x, y, rx, ry, 0, 0, Math.PI * 2); ctx.fillStyle = color; ctx.fill(); if (stroke) { ctx.strokeStyle = stroke; ctx.lineWidth = lw; ctx.stroke(); } }
+function redondo(ctx, x, y, w, h, r, fill, stroke = '#292a2b', lw = .7) { ctx.beginPath(); ctx.roundRect(x, y, w, h, r); ctx.fillStyle = fill; ctx.fill(); if (stroke) { ctx.strokeStyle = stroke; ctx.lineWidth = lw; ctx.stroke(); } }
 const AV = { W: 44, H: 76, X: 22, Y: 72 };   // tamaño del sprite y posición de los pies dentro de él
-// Mira hacia abajo a la izquierda (o arriba a la derecha si va de espaldas)
-function pintarAvatar(ctx, ap, o) {
-  const esp = !!o.espalda, f = o.frame | 0, sent = o.pose === 'sentado', anda = o.pose === 'andar';
-  const r = (c, x, y, w, h) => { ctx.fillStyle = c; ctx.fillRect(AV.X + (esp ? -x - w : x), AV.Y + y, w, h); };
-  const piel = ap.piel, pielS = oscurecer(piel, .84), cam = ap.camisa, camS = oscurecer(cam, .74), camL = aclarar(cam, .2);
-  const pan = ap.pantalon, panS = oscurecer(pan, .72), pelo = ap.pelo, peloS = oscurecer(pelo, .7), peloL = aclarar(pelo, .22);
-  const zap = '#26262e', zapL = '#4b4b57';
-  if (!sent) {
-    const p = anda ? [2, 0, -2, 0][f % 4] : 0;
-    r(panS, 0 - p, -14, 4, 11); r('#1d1d24', -1 - p, -4, 5, 3);
-    r(pan, -4 + p, -14, 5, 12); r(oscurecer(pan, .86), 0 + p, -14, 1, 12); r(zap, -7 + p, -3, 7, 3); r(zapL, -6 + p, -3, 3, 1);
-  } else {
-    r(pan, -9, -13, 12, 5); r(panS, -9, -9, 12, 1); r(pan, -9, -8, 4, 6); r(panS, -6, -8, 1, 6); r(zap, -12, -3, 7, 3);
-  }
-  const T = -29, sw = anda ? [1, 0, -1, 0][f % 4] : 0, tec = o.tecleando ? f % 2 : 0;
-  if (!o.caja && !sent) { r(camS, 4, T + 1 - sw, 3, 10); r(pielS, 4, T + 11 - sw, 3, 3); }
-  r(cam, -5, T, 11, 16); r(camS, 3, T, 3, 16); r(camL, -5, T, 2, 15); r(oscurecer(pan, .55), -5, T + 14, 11, 2);
-  if (!esp) {
-    r(piel, -4, T, 4, 2); r(piel, -3, T + 2, 2, 1);
-    if (ap.corbata) { r('#1f2433', -3, T + 3, 2, 9); r('#46507a', -3, T + 3, 1, 2); }
-    else { r(camS, -2, T + 5, 1, 1); r(camS, -2, T + 9, 1, 1); }
-  }
-  if (o.caja) {
-    r('#b78653', -11, T + 4, 15, 11); r('#9a6b3c', -11, T + 4, 15, 2); r('#d3a571', -11, T + 8, 15, 1); r('#7d5530', 1, T + 6, 3, 9);
-    r(piel, -12, T + 7, 3, 3); r(pielS, 3, T + 7, 3, 3);
-  } else if (sent) {
-    r(camS, 4, T + 1, 3, 7); r(camL, -7, T + 1, 3, 7);
-    r(cam, -12, T + 7, 7, 3); r(camS, -12, T + 9, 7, 1); r(piel, -15, T + 7 - tec, 3, 3);
-    r(camS, 1, T + 8, 4, 3); r(pielS, -2, T + 9 - (o.tecleando ? 1 - tec : 0), 3, 2);
-  } else {
-    r(camL, -7, T + 1 + sw, 3, 10); r(cam, -5, T + 1 + sw, 1, 10); r(piel, -7, T + 11 + sw, 3, 3);
-  }
-  r(pielS, -2, T - 2, 4, 2);
-  const H = T - 21 + (o.durmiendo ? 2 : 0);
-  r(piel, -6, H, 12, 19); r(piel, -8, H + 2, 16, 15); r(piel, -7, H + 1, 14, 17);
-  r(pielS, 4, H + 3, 3, 13); r(pielS, 3, H + 16, 3, 1); r(pielS, -5, H + 18, 9, 1);
-  r(piel, 2, H + 8, 4, 5); r(pielS, 4, H + 9, 1, 3);
-  if (!esp) {
-    r(piel, -10, H + 10, 2, 2); r(pielS, -9, H + 12, 1, 1);
-    if (o.durmiendo || o.parpadeo) { r('#3a2a25', -7, H + 9, 1, 1); r('#3a2a25', -4, H + 9, 3, 1); }
-    else { r('#1d1a22', -7, H + 7, 1, 3); r('#1d1a22', -4, H + 7, 2, 3); r('#ffffff', -4, H + 7, 1, 1); }
-    r('#a8524a', -7, H + 14, 3, 1); r(aclarar(piel, .1), -6, H + 15, 2, 1);
-    r(mezclar('#e88a7a', piel, .55), -2, H + 11, 2, 1);
-    if (ap.gafas) { const g = '#2a2630'; r(g, -9, H + 6, 3, 1); r(g, -9, H + 10, 3, 1); r(g, -5, H + 6, 4, 1); r(g, -5, H + 10, 4, 1); r(g, -6, H + 7, 1, 1); r(g, -2, H + 6, 1, 5); r(g, -1, H + 7, 4, 1); }
-    if (ap.barba) { r(pelo, -8, H + 12, 11, 5); r(pelo, -6, H + 17, 8, 2); r(peloS, 0, H + 12, 3, 6); r('#a8524a', -7, H + 14, 3, 1); }
-  }
-  const pz = ap.peinado;
-  if (esp) {
-    r(pelo, -7, H - 1, 14, pz === 'rapado' ? 9 : 15); r(pelo, -8, H + 1, 16, pz === 'rapado' ? 7 : 13); r(peloS, 3, H + 1, 5, pz === 'rapado' ? 7 : 13); r(peloL, -5, H, 5, 2);
-    r(piel, 2, H + 8, 4, 5); r(pielS, 4, H + 9, 1, 3);
-    if (pz === 'largo') { r(pelo, -8, H + 6, 16, 18); r(peloS, 3, H + 6, 5, 18); }
-    if (pz === 'moño') { r(pelo, -4, H - 5, 7, 6); r(peloS, 0, H - 4, 3, 5); }
-    if (pz === 'pinchos') for (const x of [-7, -3, 1, 4]) { r(pelo, x, H - 4, 3, 4); r(pelo, x + 1, H - 5, 1, 1); }
-    return;
-  }
-  if (pz === 'rapado') { r(pelo, -6, H - 1, 12, 3); r(pelo, -7, H + 1, 14, 2); r(pelo, 0, H + 3, 7, 4); r(peloS, 3, H + 1, 4, 6); r(piel, 2, H + 8, 4, 5); return; }
-  r(pelo, -6, H - 1, 12, 2); r(pelo, -8, H + 1, 16, 4); r(pelo, -7, H, 14, 2); r(pelo, 0, H + 4, 8, 4); r(pelo, 5, H + 4, 3, 10);
-  r(peloS, 3, H + 2, 5, 8); r(peloL, -5, H - 1, 6, 1); r(peloL, -6, H + 1, 2, 1);
-  r(pelo, -8, H + 5, 2, 1); r(pelo, -4, H + 5, 3, 1);
-  if (pz === 'flequillo') { r(pelo, -9, H + 3, 9, 3); r(pelo, -9, H + 6, 3, 1); r(peloL, -8, H + 3, 4, 1); }
-  else if (pz === 'corto') { r(pelo, -8, H + 4, 4, 1); }
-  else if (pz === 'pinchos') { for (const x of [-8, -4, 0, 4]) { r(pelo, x, H - 4, 3, 4); r(pelo, x + 1, H - 5, 1, 1); } r(peloL, -7, H - 3, 1, 2); }
-  else if (pz === 'largo') { r(pelo, 1, H + 6, 8, 19); r(peloS, 5, H + 6, 4, 19); r(pelo, -9, H + 3, 3, 9); r(peloL, -9, H + 3, 1, 5); }
-  else if (pz === 'moño') { r(pelo, 3, H - 5, 7, 6); r(peloS, 6, H - 4, 3, 5); r(peloL, 4, H - 5, 2, 1); }
+const LAMINAS = {};
+const lista = n => LAMINAS[n].complete && LAMINAS[n].naturalWidth > 0;
+for (const n of ['personajes', 'analistas', 'cargando', 'durmiendo']) {
+  const im = new Image(); im.onload = () => { SPR.clear(); refrescarRetratos(); }; im.src = 'recursos/' + n + '.png'; LAMINAS[n] = im;
 }
 const SPR = new Map();
-function spriteAvatar(ap, o) {
+function spriteAvatar(ap, o = {}) {
   const k = JSON.stringify([ap, o]);
-  if (!SPR.has(k)) {
-    const c = document.createElement('canvas'); c.width = AV.W; c.height = AV.H;
-    const ctx = c.getContext('2d');
-    if (o.voltear) { ctx.translate(AV.W, 0); ctx.scale(-1, 1); }
-    pintarAvatar(ctx, ap, o); contornear(c);
-    if (SPR.size > 600) SPR.clear();
-    SPR.set(k, c);
-  }
-  return SPR.get(k);
+  if (SPR.has(k)) return SPR.get(k);
+  const c = document.createElement('canvas'); c.width = AV.W * 2; c.height = AV.H * 2;
+  const ctx = c.getContext('2d'); ctx.scale(2, 2); ctx.imageSmoothingEnabled = false;
+  if (o.voltear) { ctx.translate(AV.W, 0); ctx.scale(-1, 1); }
+  const persona = ap.hoja === 'personajes', andando = o.pose === 'andar' && o.frame % 4 < 2;
+  let hoja = ap.hoja, rect;
+  if (o.caja && persona && lista('cargando')) { hoja = 'cargando'; rect = MEDIDAS.cargando[ap.fila][o.espalda ? 1 : andando ? 2 : 0]; }
+  else if (o.durmiendo && persona && lista('durmiendo')) { hoja = 'durmiendo'; rect = MEDIDAS.durmiendo[ap.fila]; }
+  else rect = MEDIDAS[hoja][ap.fila][o.pose === 'sentado' ? 3 : o.espalda ? 1 : andando ? 2 : 0];
+  const atras = o.pose === 'sentado' && o.espalda && hoja === ap.hoja && persona;
+  if (atras) rect = MEDIDAS[hoja][ap.fila][1];
+  if (!lista(hoja)) return c;   // todavía cargando: no se guarda
+  const [sx, sy, sw, sh] = rect, alto = o.pose === 'sentado' ? 62 : 66, ancho = sw * alto / sh;
+  // Sentado de espaldas no hay pose: se usa la mitad de arriba de la de espaldas y el respaldo tapa el resto
+  if (atras) ctx.drawImage(LAMINAS[hoja], sx, sy, sw, sh * .62, AV.X - sw * 66 / sh / 2, AV.Y - 8 - 66 * .62, sw * 66 / sh, 66 * .62);
+  else ctx.drawImage(LAMINAS[hoja], sx, sy, sw, sh, AV.X - ancho / 2, AV.Y - alto, ancho, alto);
+  if (SPR.size > 600) SPR.clear();
+  SPR.set(k, c); return c;
 }
-const CACHE_PIX = {};
+// Retrato: la cabeza de la pose de frente
+const CACHE_PIX = {}, RETRATADOS = {};
 function retrato(a) {
+  RETRATADOS[a.id] = a;
   if (!CACHE_PIX[a.id]) {
-    const c = document.createElement('canvas'); c.width = 30; c.height = 30;
-    c.getContext('2d').drawImage(spriteAvatar(aspecto(a), {}), 6, 14, 30, 30, 0, 0, 30, 30);
+    const ap = aspecto(a), c = document.createElement('canvas'); c.width = c.height = 120;
+    if (!lista(ap.hoja)) return c.toDataURL();
+    const ctx = c.getContext('2d'), [x, y, w, h] = MEDIDAS[ap.hoja][ap.fila][0], lado = h * .52;
+    ctx.imageSmoothingEnabled = false; ctx.drawImage(LAMINAS[ap.hoja], x + w / 2 - lado / 2, Math.max(0, y - lado * .025), lado, lado, 0, 0, 120, 120);
     CACHE_PIX[a.id] = c.toDataURL();
   }
   return CACHE_PIX[a.id];
 }
-const pix = (a, cls = '') => `<img class="pix ${cls}" src="${retrato(a)}" alt="" width="30" height="30">`;
+// Los retratos pintados antes de que llegaran las láminas se cambian en su sitio
+function refrescarRetratos() {
+  for (const id of Object.keys(CACHE_PIX)) delete CACHE_PIX[id];
+  for (const img of document.querySelectorAll('img[data-pix]')) { const a = RETRATADOS[img.dataset.pix]; if (a) img.src = retrato(a); }
+}
+const pix = (a, cls = '') => `<img class="pix ${cls}" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="" width="30" height="30">`;
 function animo(a) {
   if (a.estado !== 'activo') return { cara: '📦', texto: 'Ya no trabaja aquí' };
   const g = a.total?.ganancia || 0, s = a.situacion || {};
@@ -395,63 +346,53 @@ const NOMBRES_SALA = ['Analista de datos', 'Analista de noticias', 'Analista de 
 const SITIOS = { chimenea: [3.3, 1.1], agua: [1.0, 6.0], libros: [1.0, 4.0], sofa: [2.2, 7.0], ventana: [11.5, 1.0], pizarra: [10.6, 4.6], teles: [6.4, 1.0], trofeo: [8.9, 8.4] };
 let ESCENA = null;
 
-// Relleno nítido (sin suavizado) de un polígono convexo, columna a columna
-function rell(ctx, pts, color) {
-  ctx.fillStyle = color;
-  const xs = pts.map(p => p[0]), x0 = Math.floor(Math.min(...xs)), x1 = Math.ceil(Math.max(...xs));
-  for (let x = x0; x < x1; x++) {
-    const cx = x + .5; let lo = Infinity, hi = -Infinity;
-    for (let k = 0; k < pts.length; k++) {
-      const [ax, ay] = pts[k], [bx, by] = pts[(k + 1) % pts.length];
-      if (ax === bx || cx < Math.min(ax, bx) || cx > Math.max(ax, bx)) continue;
-      const y = ay + (by - ay) * (cx - ax) / (bx - ax); lo = Math.min(lo, y); hi = Math.max(hi, y);
-    }
-    const a = Math.round(lo), b = Math.round(hi);
-    if (b > a) ctx.fillRect(x, a, 1, b - a);
-  }
-}
-function linea(ctx, [x0, y0], [x1, y1], color) {
-  ctx.fillStyle = color; x0 = Math.round(x0); y0 = Math.round(y0); x1 = Math.round(x1); y1 = Math.round(y1);
-  const n = Math.max(Math.abs(x1 - x0), Math.abs(y1 - y0)) || 1;
-  for (let k = 0; k <= n; k++) ctx.fillRect(Math.round(x0 + (x1 - x0) * k / n), Math.round(y0 + (y1 - y0) * k / n), 1, 1);
-}
-const punto = (ctx, [x, y], c, w = 1, h = 1) => { ctx.fillStyle = c; ctx.fillRect(Math.round(x), Math.round(y), w, h); };
-// Caja isométrica con las caras visibles (izq: la de j+d; der: la de i+w) y el canto superior iluminado
+const ruido = (a, b = 0) => { const v = Math.sin(a * 127.1 + b * 311.7) * 43758.5453; return v - Math.floor(v); };
+function rell(ctx, pts, color) { pol(ctx, pts, color, null); }
+function linea(ctx, a, b, color) { trazo(ctx, [a, b], color, .6); }
+const punto = (ctx, [x, y], c, w = 1, h = 1) => { ctx.fillStyle = c; ctx.fillRect(x, y, w, h); };
+// Caja isométrica con las caras visibles (izq: la de j+d; der: la de i+w), aristas finas y el canto superior iluminado
 function caja3(ctx, Q, i, j, z, w, d, h, col, o = {}) {
-  const top = o.top || aclarar(col, .14), izq = o.izq || col, der = o.der || oscurecer(col, .8);
-  if (h > 0) {
-    rell(ctx, [Q(i, j + d, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], izq);
-    rell(ctx, [Q(i + w, j, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i + w, j, z + h)], der);
-  }
-  rell(ctx, [Q(i, j, z + h), Q(i + w, j, z + h), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], top);
-  if (o.canto !== false && w * d > .02) {
-    const c = aclarar(top, .35); linea(ctx, Q(i, j + d, z + h), Q(i + w, j + d, z + h), c); linea(ctx, Q(i + w, j, z + h), Q(i + w, j + d, z + h), c);
-    if (h > 3) linea(ctx, Q(i + w, j + d, z), Q(i + w, j + d, z + h - 1), oscurecer(der, .78));
-  }
+  const top = o.top || aclarar(col, .14), izq = o.izq || col, der = o.der || oscurecer(col, .8), edge = o.edge === false ? null : (o.edge || oscurecer(col, .55));
+  if (h > 0) { pol(ctx, [Q(i, j + d, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], izq, edge, .55); pol(ctx, [Q(i + w, j, z), Q(i + w, j + d, z), Q(i + w, j + d, z + h), Q(i + w, j, z + h)], der, edge, .55); }
+  pol(ctx, [Q(i, j, z + h), Q(i + w, j, z + h), Q(i + w, j + d, z + h), Q(i, j + d, z + h)], top, edge, .55);
+  if (o.canto !== false && w * d > .03) trazo(ctx, [Q(i, j + d, z + h), Q(i + w, j + d, z + h), Q(i + w, j, z + h)], aclarar(top, .3), .55);
 }
-// Cada mueble se dibuja una vez en su propio lienzo, con contorno, y luego se copia
+// Cada mueble se dibuja una vez, a doble resolución, en su propio lienzo y luego se copia
 const MUEBLES = new Map();
 function mueble(clave, w, d, alto, pintar) {
   if (!MUEBLES.has(clave)) {
-    const c = document.createElement('canvas'), ox = Math.ceil(d * 32) + 3, oy = alto + 3;
-    c.width = Math.ceil((w + d) * 32) + 6; c.height = alto + Math.ceil((w + d) * 16) + 6;
-    const ctx = c.getContext('2d'), Q = (i, j, z = 0) => [ox + (i - j) * 32, oy + (i + j) * 16 - z];
-    pintar(ctx, (...a) => caja3(ctx, Q, ...a), Q); contornear(c);
-    MUEBLES.set(clave, { c, ox, oy });
+    const c = document.createElement('canvas'), ox = Math.ceil(d * 32) + 12, oy = alto + 12;
+    const width = Math.ceil((w + d) * 32) + 24, height = alto + Math.ceil((w + d) * 16) + 24;
+    c.width = width * 2; c.height = height * 2; const ctx = c.getContext('2d'); ctx.scale(2, 2);
+    const Q = (i, j, z = 0) => [ox + (i - j) * 32, oy + (i + j) * 16 - z];
+    pintar(ctx, (...a) => caja3(ctx, Q, ...a), Q); MUEBLES.set(clave, { c, ox, oy, width, height });
   }
   return MUEBLES.get(clave);
 }
-function poner(ctx, m, i, j) { const [x, y] = P(i, j); ctx.drawImage(m.c, Math.round(x - m.ox), Math.round(y - m.oy)); }
-
+function poner(ctx, m, i, j) { const [x, y] = P(i, j); ctx.drawImage(m.c, x - m.ox, y - m.oy, m.width, m.height); }
+function taza(ctx, Q, i, j, z, col = '#f2efe8') {
+  const [x, y] = Q(i, j, z); elipse(ctx, x + 3.1, y - 3.6, 1.8, 2.2, 'rgba(0,0,0,0)', oscurecer(col, .65), .9);
+  pol(ctx, [[x - 2.7, y - 5], [x + 2.4, y - 4.5], [x + 2.1, y + 1], [x - 2.2, y + .5]], col, '#4c4b48', .6);
+  elipse(ctx, x - .1, y - 4.8, 2.5, 1, '#6b4026');
+}
 const NEGRO = '#231a16', HIERRO = '#4a4440', MADERA = '#7a4a2c', MADERA_O = '#4a2a18', NOGAL = '#5a341f';
-const M_MESA = () => mueble('mesa', 2, 1, 70, (ctx, b) => {
+const M_MESA = () => mueble('mesa', 2, 1, 70, (ctx, b, Q) => {
   b(.04, .08, 0, .1, .84, 27, MADERA_O); b(1.86, .08, 0, .1, .84, 27, MADERA_O); b(.14, .5, 12, 1.72, .05, 15, NOGAL);
+  // Cajonera con tiradores dorados
+  b(1.42, .12, 0, .4, .78, 27, NOGAL, { der: '#3d2314' });
+  for (const z of [6, 15, 23]) { trazo(ctx, [Q(1.44, .9, z), Q(1.8, .9, z)], '#2c180e', .6); trazo(ctx, [Q(1.57, .9, z - 3), Q(1.67, .9, z - 3)], '#c8a45a', 1.1); }
   b(0, 0, 27, 2, 1, 3, MADERA, { top: '#93603a' });
-  b(.72, .3, 30, .6, .32, 2, '#2c2c30', { top: '#3a3a40' });                                                   // teclado
-  b(.16, .3, 30, .32, .3, 3, '#5a5550'); b(.24, .36, 33, .1, .14, 6, HIERRO);                                 // pie del monitor
-  b(.18, .02, 37, .1, .8, 26, '#2a2a2e', { der: '#1a1a1d' });                                                  // monitor
-  b(1.52, .58, 30, .13, .13, 7, '#f2efe8', { top: '#6b4026' });                                                // taza
-  b(1.3, .1, 30, .42, .3, 4, '#f4f0e6', { canto: false }); b(1.34, .12, 34, .36, .26, 1, '#e9e2d2', { canto: false }); // papeles
+  for (let k = 1; k < 5; k++) trazo(ctx, [Q(.05, k * .2, 30), Q(1.95, k * .2, 30)], 'rgba(60,30,14,.25)', .4);    // vetas del tablero
+  // Teclado con teclas, ratón, monitor, taza, papeles y bote de lápices
+  b(.72, .3, 30, .6, .32, 1.2, '#2c2c30', { top: '#3a3a40' });
+  for (let u = 0; u < 8; u++) for (let v = 0; v < 3; v++) { const i = .75 + u * .068, j = .34 + v * .085; pol(ctx, [Q(i, j, 31.4), Q(i + .05, j, 31.4), Q(i + .05, j + .06, 31.4), Q(i, j + .06, 31.4)], '#55555c', null); }
+  { const [x, y] = Q(1.1, .78, 30); elipse(ctx, x, y - 1, 2.2, 1.4, '#3a3a40', '#18181b', .4); }
+  b(.16, .3, 30, .32, .3, 1.5, '#5a5550'); b(.24, .36, 31, .1, .14, 8, HIERRO);                                 // pie del monitor
+  b(.18, .02, 37, .1, .8, 26, '#2a2a2e', { der: '#1a1a1d', edge: '#111114' });                                 // monitor
+  taza(ctx, Q, 1.58, .66, 30);
+  b(1.3, .1, 30, .42, .3, 3, '#f4f0e6', { canto: false, edge: '#a39a86' }); b(1.34, .12, 33, .36, .26, 1, '#e9e2d2', { canto: false, edge: '#a39a86' }); // papeles
+  for (let k = 0; k < 3; k++) trazo(ctx, [Q(1.4, .16 + k * .06, 34.2), Q(1.62, .16 + k * .06, 34.2)], '#9b9384', .35);
+  b(1.82, .2, 30, .12, .12, 6, '#3a5a4a'); for (let k = 0; k < 3; k++) trazo(ctx, [Q(1.86 + k * .02, .25, 36), Q(1.85 + k * .02, .25, 41)], ['#d3a052', '#c0392b', '#2f6fd6'][k], .7);
 });
 const M_DESPACHO = () => mueble('despacho', DESPACHO.w, DESPACHO.d, 76, (ctx, b, Q) => {
   const { w, d } = DESPACHO;
@@ -465,12 +406,28 @@ const M_DESPACHO = () => mueble('despacho', DESPACHO.w, DESPACHO.d, 76, (ctx, b,
   b(.2, .62, 33, .42, .3, 6, '#ece5d4', { canto: false });
   b(2.0, .7, 33, .1, .1, 22, '#c8a03a'); b(1.88, .6, 55, .32, .3, 6, '#2f5a37');                                // flexo
 });
-const M_SILLA = (espalda = false) => mueble('silla' + espalda, 1, 1, 52, (ctx, b) => {
-  b(.2, .48, 0, .6, .1, 2, NEGRO); b(.45, .25, 0, .1, .6, 2, NEGRO); b(.46, .5, 2, .08, .08, 12, HIERRO);
-  b(.22, .26, 14, .56, .56, 4, '#2b2b31');
-  if (espalda) b(.22, .72, 18, .56, .1, 28, '#2b2b31'); else b(.22, .2, 18, .56, .1, 28, '#2b2b31');
-  b(.2, .3, 18, .06, .4, 8, NEGRO); b(.74, .3, 18, .06, .4, 8, NEGRO);
-});
+// Silla de oficina; de espaldas, el respaldo queda delante de quien se sienta
+function sillaGrafica(ctx, Q, espalda) {
+  const [x, y] = Q(.5, .5, 0);
+  for (const [dx, dy] of [[-10, -1], [-8, 4], [2, 6], [12, 1], [5, -5]]) {
+    trazo(ctx, [[x, y - 6], [x + dx, y + dy - 1]], '#2a2626', 2);
+    redondo(ctx, x + dx - 1.6, y + dy - 1, 3.2, 3, 1, '#1e1a1a', '#141111', .6);
+  }
+  redondo(ctx, x - 1.6, y - 18, 3.2, 12, 1, '#8a8480', '#3a3430', .7);
+  pol(ctx, [[x - 10, y - 22], [x + 2, y - 26], [x + 12, y - 20], [x + 9, y - 16], [x - 2, y - 12], [x - 12, y - 18]], '#2b2b31', '#16161a');
+  pol(ctx, [[x - 10, y - 23], [x + 2, y - 27], [x + 12, y - 21], [x + 2, y - 17], [x - 10, y - 19]], '#45454d', '#16161a');
+  const B = espalda ? (u, v) => [x - 13 + u * .9, y + 6 + v] : (u, v) => [x + u, y + v];
+  pol(ctx, [B(1, -19), B(13, -23), B(15, -48), B(12, -52), B(0, -48), B(-2, -44)], '#2b2b31', '#141418', .9);
+  pol(ctx, [B(1, -24), B(11, -27), B(12, -46), B(10, -49), B(1, -46), B(-.2, -42)], espalda ? '#34343b' : '#45454d', '#18181c', .65);
+  for (const v of [-31, -38, -45]) trazo(ctx, [B(1, v), B(10, v - 3)], '#202024', .8);
+  if (!espalda) {
+    trazo(ctx, [[x + 10, y - 18], [x + 13, y - 30], [x + 5, y - 33]], '#1e1e22', 1.6);
+    trazo(ctx, [[x + 6, y - 32], [x + 14, y - 29]], '#55555c', 2.2);
+  }
+}
+const M_SILLA = (espalda = false) => mueble('silla' + espalda, 1, 1, 58, (ctx, b, Q) => sillaGrafica(ctx, Q, espalda));
+// El reposabrazos cercano va detrás del cuerpo de quien está sentado
+function brazoSilla(ctx, i, j) { const [x, y] = P(i + .5, j + .5); trazo(ctx, [[x - 11, y - 17], [x - 13, y - 28], [x - 5, y - 31]], '#1e1e22', 1.6); trazo(ctx, [[x - 14, y - 28], [x - 6, y - 31]], '#55555c', 2.2); }
 const M_SILLON = () => mueble('sillon', 1, 1, 40, (ctx, b) => {
   const r = '#8e3226';
   b(.1, .15, 0, .8, .8, 12, oscurecer(r, .85)); b(.1, .1, 0, .2, .85, 30, r); b(.1, .1, 0, .8, .2, 22, r); b(.7, .1, 0, .2, .85, 20, r);
@@ -503,16 +460,22 @@ const M_LAMPARA = (pie = 62) => mueble('lampara' + pie, 1, 1, pie + 26, (ctx, b)
   b(.3, .3, pie + 4, .4, .4, 16, '#f2d79a', { top: '#fff1c6', der: '#d8b26a' });
 });
 const M_PLANTA = (grande) => mueble('planta' + grande, 1, 1, grande ? 96 : 66, (ctx, b, Q) => {
-  b(.3, .3, 0, .4, .4, grande ? 20 : 14, '#a0583a', { top: '#b8694a' });
-  b(.33, .33, grande ? 20 : 14, .34, .34, 0, '#3a2418', { canto: false });
-  const [cx, cy] = Q(.5, .5, grande ? 20 : 14), alto = grande ? 70 : 46;
-  const verdes = ['#2f7d4a', '#3f9d5c', '#58b86f', '#25633b'];
-  for (let k = 0; k < (grande ? 46 : 26); k++) {
-    const a = k * 2.399, rr = 3 + (k * 37 % 100) / 100 * (grande ? 16 : 11), y = cy - 8 - (k * 53 % 100) / 100 * alto;
-    ctx.fillStyle = verdes[k % 4]; ctx.fillRect(Math.round(cx + Math.cos(a) * rr - 3), Math.round(y + Math.sin(a) * rr * .4), 6, 4);
-    ctx.fillStyle = '#7fd08f'; if (k % 5 === 0) ctx.fillRect(Math.round(cx + Math.cos(a) * rr - 2), Math.round(y + Math.sin(a) * rr * .4), 2, 1);
+  const [x, y] = Q(.5, .5), h = grande ? 20 : 14, rx = grande ? 9 : 7;
+  elipse(ctx, x + 2, y + 1, rx + 2, 4, 'rgba(20,8,4,.2)');
+  pol(ctx, [[x - rx, y - h], [x + rx, y - h], [x + rx * .7, y], [x + rx * .35, y + 2], [x - rx * .65, y + .5]], '#a0583a', '#4a2414', .7);   // maceta de barro
+  trazo(ctx, [[x + rx * .2, y - h + 2], [x + rx * .55, y - 1]], '#7a3f28', 2.4);
+  trazo(ctx, [[x - rx * .7, y - h + 3], [x - rx * .5, y - 2]], '#c27a58', .9);
+  elipse(ctx, x, y - h, rx + .6, 3.6, '#b8694a', '#4a2414', .7); elipse(ctx, x, y - h, rx - 1.5, 2.3, '#3a2418');
+  const alto = grande ? 66 : 44, verdes = ['#2f7d4a', '#3f9d5c', '#58b86f', '#25633b'];
+  for (let k = 0; k < (grande ? 26 : 20); k++) {
+    const a = k * 2.399, r = (grande ? 14 : 11) * (.35 + (k * 17 % 10) / 15), top = y - h - alto * (.43 + (k * 29 % 10) / 17), tx = x + Math.cos(a) * r;
+    trazo(ctx, [[x, y - h], [x + (tx - x) * .4, top + alto * .35], [tx, top]], '#2a5a34', .8);
+    for (let l = 0; l < 6; l++) for (const s of [-1, 1]) {
+      const u = l / 6, cx = x + (tx - x) * (.25 + u * .75), cy = y - h + (top - (y - h)) * (.25 + u * .75), hoja = 5 - u * 2;
+      pol(ctx, [[cx, cy + 1], [cx + s * hoja, cy - 2], [cx + s * (hoja + 2), cy - 5], [cx + s * 2, cy - 3]], verdes[(k + l) % 4], '#1f4a2a', .35);
+      if ((k + l) % 3 === 0) trazo(ctx, [[cx, cy], [cx + s * hoja, cy - 3]], '#7fd08f', .35);
+    }
   }
-  ctx.fillStyle = '#3d6b3f'; ctx.fillRect(cx, cy - alto * .6, 1, alto * .6);
 });
 const M_AGUA = () => mueble('agua', 1, 1, 66, (ctx, b) => {
   b(.3, .3, 0, .42, .42, 36, '#eef0f2'); b(.3, .3, 24, .42, .02, 2, '#d0d4da', { canto: false });
@@ -551,52 +514,66 @@ const TELES = [[5.15, 6.55], [6.9, 8.3]];
 // Fondo fijo (suelo, paredes y lo que está pegado a ellas) en un lienzo aparte
 let FONDO = null;
 function pintarFondo() {
-  const c = document.createElement('canvas'); c.width = OF.W; c.height = OF.H;
-  const ctx = c.getContext('2d'), { N, M, MURO } = OF, I = (i, j, z = 0) => P(i, j, z);
-  const quad = (i0, j0, i1, j1, col) => rell(ctx, [I(i0, j0), I(i1, j0), I(i1, j1), I(i0, j1)], col);
-  // Parqué oscuro: en cada baldosa las tablas van en una dirección, alternando
+  const c = document.createElement('canvas'); c.width = OF.W * 2; c.height = OF.H * 2;
+  const ctx = c.getContext('2d'); ctx.scale(2, 2); const { N, M, MURO } = OF, I = (i, j, z = 0) => P(i, j, z);
+  const quad = (i0, j0, i1, j1, col, borde = null, lw = .4) => pol(ctx, [I(i0, j0), I(i1, j0), I(i1, j1), I(i0, j1)], col, borde, lw);
+  // Parqué oscuro: en cada baldosa las tablas van en una dirección, alternando, cada una con su veta
   for (let i = 0; i < N; i++) for (let j = 0; j < M; j++) {
     const par = (i + j) % 2, tono = ['#6a3624', '#5f301f', '#733c28'];
     for (let k = 0; k < 3; k++) {
-      const a = k / 3, b2 = (k + 1) / 3, col = tono[(i * 3 + j * 5 + k) % 3];
-      if (par) quad(i, j + a, i + 1, j + b2, col); else quad(i + a, j, i + b2, j + 1, col);
+      const a = k / 3, b2 = (k + 1) / 3, col = mezclar(tono[(i * 3 + j * 5 + k) % 3], '#8a4a30', ruido(i * 3 + k, j) * .25);
+      if (par) quad(i, j + a, i + 1, j + b2, col, '#3e1d10', .45); else quad(i + a, j, i + b2, j + 1, col, '#3e1d10', .45);
+      // Vetas y algún nudo
+      for (let v = 0; v < 2; v++) {
+        const t = a + (v + 1) / 3 / 3 + (ruido(i + v, j + k) - .5) * .04, s = .1 + ruido(k, i + j) * .3, veta = mezclar(col, '#2a120a', .3);
+        if (par) trazo(ctx, [I(i + s, j + t), I(i + s + .45, j + t + .01)], veta, .3); else trazo(ctx, [I(i + t, j + s), I(i + t + .01, j + s + .45)], veta, .3);
+      }
+      if (ruido(i * 7 + k, j * 3) > .9) { const [x, y] = par ? I(i + .6, j + (a + b2) / 2) : I(i + (a + b2) / 2, j + .6); elipse(ctx, x, y, 1.6, .8, mezclar(col, '#2a120a', .4)); }
+      // Brillo en el canto de cada tabla
+      if (par) trazo(ctx, [I(i + .02, j + a + .02), I(i + .98, j + a + .02)], 'rgba(255,200,150,.12)', .4); else trazo(ctx, [I(i + a + .02, j + .02), I(i + a + .02, j + .98)], 'rgba(255,200,150,.12)', .4);
     }
-    for (let k = 1; k < 3; k++) {
-      if (par) linea(ctx, I(i, j + k / 3), I(i + 1, j + k / 3), '#4a2416'); else linea(ctx, I(i + k / 3, j), I(i + k / 3, j + 1), '#4a2416');
-    }
-    linea(ctx, I(i + 1, j), I(i + 1, j + 1), '#43200f'); linea(ctx, I(i, j + 1), I(i + 1, j + 1), '#43200f');
   }
-  // Alfombras: la azul de la sala de analistas, la roja del rincón del sofá y la del despacho
+  // Canto del suelo
+  pol(ctx, [P(0, M), P(N, M), P(N, M, -7), P(0, M, -7)], '#4a2a18', '#24140b', .8);
+  pol(ctx, [P(N, 0), P(N, M), P(N, M, -7), P(N, 0, -7)], '#3a2012', '#24140b', .8);
+  // Alfombras: la azul de la sala de analistas, la roja del rincón del sofá y la del despacho, con trama y flecos
   const alfombra = (i0, j0, i1, j1, col, borde, dibujo) => {
-    quad(i0, j0, i1, j1, borde); quad(i0 + .15, j0 + .15, i1 - .15, j1 - .15, col);
-    if (dibujo) { quad(i0 + .35, j0 + .35, i1 - .35, j1 - .35, dibujo); quad(i0 + .42, j0 + .42, i1 - .42, j1 - .42, col); }
+    quad(i0, j0, i1, j1, borde, oscurecer(borde, .7), .7); quad(i0 + .15, j0 + .15, i1 - .15, j1 - .15, col, mezclar(col, '#ffffff', .15), .45);
+    if (dibujo) { quad(i0 + .35, j0 + .35, i1 - .35, j1 - .35, null, dibujo, 1.4); quad(i0 + .5, j0 + .5, i1 - .5, j1 - .5, null, dibujo, .5); }
+    for (let u = i0 + .2; u < i1 - .15; u += .13) for (let v = j0 + .2; v < j1 - .15; v += .18) { const [x, y] = I(u, v); ctx.fillStyle = ruido(u, v) > .5 ? 'rgba(255,230,200,.08)' : 'rgba(0,0,0,.12)'; ctx.fillRect(x, y, 1, .5); }
+    for (let u = i0 + .05; u < i1; u += .1) trazo(ctx, [I(u, j1), I(u, j1 + .08)], aclarar(borde, .25), .4);
   };
-  alfombra(SALA.i0, SALA.j0 + .02, SALA.i1, SALA.j1, '#2c3d63', '#1f2c4a');
-  for (let k = 0; k < 13; k++) linea(ctx, I(SALA.i0 + .3 + k * .3, SALA.j1 - .4), I(SALA.i0 + .3 + k * .3, SALA.j1 - .25), '#3a5080');
+  alfombra(SALA.i0, SALA.j0 + .02, SALA.i1, SALA.j1, '#2c3d63', '#1f2c4a', '#3a5080');
   alfombra(.55, 5.5, 4.6, 9.6, '#7a2f22', '#5a1f17', '#b8693c');
-  alfombra(5.2, 6.6, 9.2, 9.4, '#3a2a20', '#2a1d15');
+  alfombra(5.2, 6.6, 9.2, 9.4, '#3a2a20', '#2a1d15', '#5a4232');
   // Sombra junto a las paredes
-  quad(0, 0, N, .35, 'rgba(10,4,2,.18)'); quad(0, 0, .35, M, 'rgba(10,4,2,.18)');
-  // Paredes: ladrillo arriba y friso de madera abajo
+  for (const z of [0, 1, 2]) { quad(0, 0, N, .45 - z * .12, 'rgba(10,4,2,.07)'); quad(0, 0, .45 - z * .12, M, 'rgba(10,4,2,.07)'); }
+  // Paredes: ladrillo a ladrillo arriba y friso de madera con paneles abajo
   const ZOC = 52;
   const pared = (Wf, largo, base, ladrillo, junta, friso, panel, sombra) => {
-    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, MURO), Wf(0, MURO)], base);
-    for (let z = ZOC + 4, f = 0; z < MURO - 8; z += 6, f++) {
-      linea(ctx, Wf(0, z), Wf(largo, z), junta);
-      for (let u = (f % 2) * .25; u < largo; u += .5) linea(ctx, Wf(u, z), Wf(u, z + 6), junta);
-      for (let u = (f % 2) * .25 + .1 + (f * .37) % .5; u < largo - .3; u += 1.5) rell(ctx, [Wf(u, z + 1), Wf(u + .3, z + 1), Wf(u + .3, z + 5), Wf(u, z + 5)], ladrillo);
+    pol(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, MURO), Wf(0, MURO)], base, null);
+    for (let z = ZOC + 4, f = 0; z < MURO - 8; z += 6.5, f++) {
+      for (let k = -1; k < largo * 2.2; k++) {
+        const u = k * .5 + (f % 2) * .25, v = Math.max(0, u), fin = Math.min(largo, u + .47); if (fin <= v) continue;
+        const col = mezclar(base, ladrillo, .25 + ruido(k + 3, f) * .75);
+        pol(ctx, [Wf(v, z), Wf(fin, z), Wf(fin, z + 5.6), Wf(v, z + 5.6)], col, junta, .45);
+        trazo(ctx, [Wf(v + .02, z + 5.2), Wf(fin - .02, z + 5.2)], aclarar(col, .12), .35);
+      }
     }
-    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, ZOC), Wf(0, ZOC)], friso);
+    pol(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, ZOC), Wf(0, ZOC)], friso, '#1a0c06', .7);
     for (let u = .2; u < largo - .3; u += 1) {
-      rell(ctx, [Wf(u, 8), Wf(u + .8, 8), Wf(u + .8, ZOC - 8), Wf(u, ZOC - 8)], sombra);
-      rell(ctx, [Wf(u + .05, 10), Wf(u + .75, 10), Wf(u + .75, ZOC - 9), Wf(u + .05, ZOC - 9)], panel);
+      pol(ctx, [Wf(u, 8), Wf(u + .8, 8), Wf(u + .8, ZOC - 8), Wf(u, ZOC - 8)], sombra, '#1a0c06', .6);
+      pol(ctx, [Wf(u + .05, 10), Wf(u + .75, 10), Wf(u + .75, ZOC - 9), Wf(u + .05, ZOC - 9)], panel, null);
+      trazo(ctx, [Wf(u + .08, ZOC - 10), Wf(u + .72, ZOC - 10)], aclarar(panel, .15), .5);
     }
-    rell(ctx, [Wf(0, ZOC), Wf(largo, ZOC), Wf(largo, ZOC + 4), Wf(0, ZOC + 4)], '#8a5a36');
-    rell(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, 5), Wf(0, 5)], '#2a160c');
-    rell(ctx, [Wf(0, MURO - 8), Wf(largo, MURO - 8), Wf(largo, MURO), Wf(0, MURO)], '#5a341f');
+    pol(ctx, [Wf(0, ZOC), Wf(largo, ZOC), Wf(largo, ZOC + 4), Wf(0, ZOC + 4)], '#8a5a36', '#4a2a18', .5);
+    trazo(ctx, [Wf(0, ZOC + 3.6), Wf(largo, ZOC + 3.6)], '#b07a4e', .5);
+    pol(ctx, [Wf(0, 0), Wf(largo, 0), Wf(largo, 5), Wf(0, 5)], '#2a160c', null);
+    pol(ctx, [Wf(0, MURO - 8), Wf(largo, MURO - 8), Wf(largo, MURO), Wf(0, MURO)], '#5a341f', '#2a160c', .6);
+    trazo(ctx, [Wf(0, MURO - 7.5), Wf(largo, MURO - 7.5)], '#8a5a36', .5);
   };
-  pared((j, z) => I(0, j, z), M, '#3a2e2a', '#463733', '#2a201d', '#2e1b10', '#3a2416', '#24140b');
-  pared((i, z) => I(i, 0, z), N, '#4a3a34', '#58453e', '#362924', '#3e2416', '#4b2d1c', '#2c180e');
+  pared((j, z) => I(0, j, z), M, '#3a2e2a', '#5a463e', '#241a17', '#2e1b10', '#3a2416', '#24140b');
+  pared((i, z) => I(i, 0, z), N, '#4a3a34', '#6e564a', '#2e221e', '#3e2416', '#4b2d1c', '#2c180e');
   rell(ctx, [I(-.22, -.22, MURO), I(N, -.22, MURO), I(N, 0, MURO), I(0, 0, MURO), I(0, M, MURO), I(-.22, M, MURO)], '#6b4226');
   rell(ctx, [I(-.22, M, 0), I(0, M, 0), I(0, M, MURO), I(-.22, M, MURO)], '#24140b');
   rell(ctx, [I(N, -.22, 0), I(N, 0, 0), I(N, 0, MURO), I(N, -.22, MURO)], '#3e2416');
@@ -725,7 +702,7 @@ function poblar() {
   if (!ocupados.has('manager')) cartel(DESPACHO.i + 1.2, DESPACHO.j + .4);
   const sala = NOMBRES_SALA.map((n, k) => {
     const bo = document.createElement('div'); bo.className = 'bocadillo'; capa.append(bo);
-    return { n, ap: aspecto({ id: 'sala-' + k, nombre: n, color: ['#d0a23a', '#c0504d', '#4a9fb5', '#6d6d6d'][k] }), pos: SITIOS_SALA[k], bo, finFrase: 0 };
+    return { n, ap: LAMINAS_SALA[k], pos: SITIOS_SALA[k], bo, finFrase: 0 };
   });
   const et = document.createElement('button'); et.className = 'etiqueta sala'; et.dataset.tab = 'sala'; et.title = 'Los informes de la sala de analistas';
   et.innerHTML = '<span class="emo">📋</span>Sala de analistas';
@@ -822,7 +799,7 @@ const M_PIZARRA = () => mueble('pizarra', .14, 1.7, 92, (c, b, Q) => {
 });
 function dibujar() {
   const { ctx, frame } = ESCENA, f = ESCENA.fase, h = horaMadrid();
-  ctx.clearRect(0, 0, OF.W, OF.H); ctx.drawImage(FONDO, 0, 0);
+  ctx.clearRect(0, 0, OF.W, OF.H); ctx.drawImage(FONDO, 0, 0, OF.W, OF.H);
   pintarVivos(ctx, f, h, frame);
   // Sombras de los muebles en el suelo
   const sombra = (i, j, w, d) => { const s = ([x, y]) => [x - 8, y + 2]; rell(ctx, [s(P(i, j)), s(P(i + w, j)), s(P(i + w, j + d)), s(P(i, j + d))], 'rgba(10,4,2,.22)'); };
@@ -855,7 +832,8 @@ function dibujar() {
     cosas.push([i + j + (esp ? .2 : -.1), () => poner(ctx, M_SILLA(esp), i - .5, j - .5)]);
     if (f !== 'noche') cosas.push([i + j + (esp ? 0 : .02), () => {
       const [x, y] = P(i, j, 10), tec = f === 'decide' || f === 'pre';
-      ctx.drawImage(spriteAvatar(s.ap, { pose: 'sentado', espalda: esp, frame: tec ? (frame >> 2) % 2 : 0, tecleando: tec && !esp, parpadeo: (frame + k * 9) % 50 < 2 }), Math.round(x - AV.X), Math.round(y - AV.Y));
+      const sc = .88; if (!esp) brazoSilla(ctx, i - .5, j - .5);
+      ctx.drawImage(spriteAvatar(s.ap, { pose: 'sentado', espalda: esp }), x - AV.X * sc, y - AV.Y * sc, AV.W * sc, AV.H * sc);
       colocar(s.bo, i, j, 72);
     }]);
   });
@@ -888,11 +866,12 @@ function agente(ctx, g, f) {
   const tecleando = sent && (f === 'decide' || (f === 'pre' && (ESCENA.frame + g.k) % 40 < 12));
   const fr = ESCENA.frame >> (anda ? 1 : 2);
   const o = { pose, frame: anda ? fr % 4 : tecleando ? fr % 2 : 0, espalda: !sent && !g.frente, voltear: !sent && !!g.derecha === !!g.frente,
-    tecleando, durmiendo: f === 'noche' && !g.saliendo, caja: !!g.saliendo, parpadeo: (ESCENA.frame + g.k * 7) % 46 < 2 };
+    tecleando, durmiendo: f === 'noche' && sent && !g.saliendo, caja: !!g.saliendo, parpadeo: (ESCENA.frame + g.k * 7) % 46 < 2 };
   const z = sent ? 10 : 0, [x, y] = P(g.pos[0], g.pos[1], z), [sx, sy] = P(g.pos[0], g.pos[1]);
-  if (!sent) { ctx.fillStyle = 'rgba(10,4,2,.3)'; ctx.fillRect(Math.round(sx) - 9, Math.round(sy) - 2, 18, 4); ctx.fillRect(Math.round(sx) - 6, Math.round(sy) - 3, 12, 6); }
-  if (g.a.id === FICHA_ID) { ctx.fillStyle = 'rgba(166,214,90,.6)'; ctx.fillRect(Math.round(sx) - 12, Math.round(sy) - 2, 24, 4); ctx.fillRect(Math.round(sx) - 8, Math.round(sy) - 4, 16, 8); }
-  ctx.drawImage(spriteAvatar(g.ap, o), Math.round(x - AV.X), Math.round(y - AV.Y));
+  if (!sent) elipse(ctx, sx, sy, 9, 3, 'rgba(10,4,2,.3)');
+  if (g.a.id === FICHA_ID) elipse(ctx, sx, sy, 13, 4, 'rgba(166,214,90,.3)', '#a6d65a', .9);
+  if (sent) brazoSilla(ctx, g.asiento[0] - .5, g.asiento[1] - .5);
+  const sc = .88; ctx.drawImage(spriteAvatar(g.ap, o), x - AV.X * sc, y - AV.Y * sc, AV.W * sc, AV.H * sc);
   colocar(g.et, g.pos[0], g.pos[1], z + 64); colocar(g.bo, g.pos[0], g.pos[1], z + 64);
   g.et.setAttribute('aria-pressed', g.a.id === FICHA_ID);
 }
@@ -910,8 +889,8 @@ function bucle(t) {
 // La oficina ocupa toda la pantalla y se puede ampliar (pellizco, rueda o botones) y mover arrastrando
 function montarVista() {
   const lienzo = $('#lienzo'), capa = $('#capa'), caja = $('#caja-lienzo'), vis = $('#escena');
-  lienzo.width = OF.W; lienzo.height = OF.H;
-  const ctx = lienzo.getContext('2d'); ctx.imageSmoothingEnabled = false;
+  lienzo.width = OF.W * 2; lienzo.height = OF.H * 2;
+  const ctx = lienzo.getContext('2d'); ctx.scale(2, 2); ctx.imageSmoothingEnabled = false;
   ESCENA = { ctx, lienzo, capa, agentes: [], vacias: [], sala: [], frame: 0, ultimo: 0, fase: fase(), reducido: matchMedia('(prefers-reduced-motion: reduce)').matches };
   const VISTA = { base: 1, z: 1, zmin: 1, zmax: 4, x: 0, y: 0 };
   const limitar = () => {
@@ -1053,7 +1032,7 @@ function boleto(b) {
   const bate = b.pinnacle_cierre ? b.cuota > b.pinnacle_cierre : null;
   const sello = b.estado.startsWith('media') ? b.estado.split(' ')[1] : b.estado;
   return `<article class="boleto"><span class="sello ${sello}">${ESTADOS[b.estado] || b.estado}</span>
-    <div class="quien"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}</small></div>
+    <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}</small></div>
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det">${esc(b.jugadores.join(' – '))} · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
@@ -1071,7 +1050,7 @@ function pintarBoletos() {
 }
 const MEDALLAS = ['🥇', '🥈', '🥉'];
 function filaClas(a, i, valor) {
-  return `<tr><td class="medalla">${MEDALLAS[i] || i + 1}</td><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> <small style="color:var(--suave)">${esc(a.titulo)}</small></td>${valor}</tr>`;
+  return `<tr><td class="medalla">${MEDALLAS[i] || i + 1}</td><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> <small style="color:var(--suave)">${esc(a.titulo)}</small></td>${valor}</tr>`;
 }
 function pintarClasificacion() {
   const ags = activos(), r = D.reglas;
@@ -1084,9 +1063,9 @@ function pintarClasificacion() {
       ${porCierre.map((a, i) => filaClas(a, i, `<td class="n ${a.total.pct_cierre > .5 ? 'sube' : a.total.pct_cierre != null && a.total.pct_cierre < .5 ? 'baja' : ''}">${pct(a.total.pct_cierre, false, 0)}</td><td class="n">${a.total.con_cierre}</td>`)).join('')}</table></div></div>
     <h4>Camino al dinero real</h4><div class="tarjeta desplaza"><p style="margin-top:0">Solo «se gana» que le copies quien cumpla las tres cosas a la vez: al menos ${r.real} apuestas, ganar dinero en total y batir la cuota de cierre en la mayoría. Una buena racha no basta.</p>
       <table class="tabla"><tr><th>Analista</th><th class="n">Apuestas</th><th class="n">Gana dinero</th><th class="n">Bate el cierre</th></tr>
-      ${ags.map(a => `<tr><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span></td><td class="n">${a.total.apuestas} / ${r.real}</td><td class="n">${a.total.ganancia > 0 ? '✓' : '✗'}</td><td class="n">${a.total.pct_cierre > .5 ? '✓' : '✗'} ${pct(a.total.pct_cierre, false, 0)}</td></tr>`).join('')}</table></div>
+      ${ags.map(a => `<tr><td><span class="nom" data-ficha="${a.id}"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span></td><td class="n">${a.total.apuestas} / ${r.real}</td><td class="n">${a.total.ganancia > 0 ? '✓' : '✗'}</td><td class="n">${a.total.pct_cierre > .5 ? '✓' : '✗'} ${pct(a.total.pct_cierre, false, 0)}</td></tr>`).join('')}</table></div>
     <h4>Despidos</h4><div class="tarjeta"><p style="margin:0">Cada ${r.revision} apuestas se revisa a cada analista: se le despide si pierde más de un ${pct(r.despido, false, 0)} y además consiguió peor cuota que la de cierre en la mayoría de sus apuestas.</p>
-      ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img class="pix mini" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
+      ${D.agentes.filter(a => a.estado === 'despedido').map(a => `<p><span class="nom" data-ficha="${a.id}" style="display:inline-flex;gap:6px;align-items:center;cursor:pointer"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)}</span> (${esc(a.titulo)}), despedido el ${esc(a.despedido)}.</p>`).join('') || '<p class="vacio" style="margin-top:8px">Nadie ha sido despedido todavía.</p>'}</div>`;
 }
 function pintarSala() {
   $('#sala').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Un equipo común: un analista de datos (Elo, forma y cara a cara), uno de noticias (lesiones, retiradas y viajes), una de ambiente (redes y prensa) y un debate a favor y en contra del favorito. Los cuatro de la plantilla leen sus informes antes de decidir.</p>` +
