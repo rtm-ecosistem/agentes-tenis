@@ -178,3 +178,30 @@ def rellenar(momento: datetime, maximo: int = 40, sesion=None) -> int:
     if faltan:
         print(f"Resultados: leídos {len(buenos)} días atrasados ({len(partidos)} partidos)")
     return len(partidos)
+
+
+# --- Cansancio -------------------------------------------------------------------------------------------
+def cansancio(jugador: str, momento: datetime, partidos: list[dict], dias: int = 3) -> dict:
+    """Lo que ha jugado en los últimos días: partidos, sets y juegos, y cómo fue su último partido."""
+    desde = (momento - timedelta(days=dias)).date().isoformat()
+    hoy = momento.date().isoformat()
+    suyos = sorted((p for p in partidos if desde <= (p.get("fecha") or "") <= hoy and p.get("sets")
+                    and any(comun.mismo_jugador(jugador, j) for j in p["jugadores"])), key=lambda p: p["fecha"])
+    juegos = sum(a + b for p in suyos for a, b in p["sets"])
+    ultimo = None
+    if suyos:
+        u = suyos[-1]
+        lado = 0 if comun.mismo_jugador(jugador, u["jugadores"][0]) else 1
+        ultimo = {"fecha": u["fecha"], "rival": u["jugadores"][1 - lado], "sets": len(u["sets"]),
+                  "juegos": sum(a + b for a, b in u["sets"]), "gano": u.get("ganador") == lado,
+                  "marcador": " ".join(f"{s[lado]}-{s[1 - lado]}" for s in u["sets"])}
+    return {"partidos": len(suyos), "sets": sum(len(p["sets"]) for p in suyos), "juegos": juegos, "ultimo": ultimo}
+
+
+def texto_cansancio(jugador: str, c: dict) -> str:
+    if not c["partidos"]:
+        return f"{jugador}: sin partidos en los últimos 3 días (descansado o sin datos)"
+    u = c["ultimo"]
+    largo = " (partido largo)" if u["juegos"] >= 30 or u["sets"] >= 4 else ""
+    return (f"{jugador}: {c['partidos']} partidos, {c['sets']} sets y {c['juegos']} juegos en 3 días; el último el "
+            f"{u['fecha']} contra {u['rival']}, {'ganó' if u['gano'] else 'perdió'} {u['marcador']}{largo}")
