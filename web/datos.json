@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T22:10+00:00",
+ "actualizado": "2026-10-29T23:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,8 +25,8 @@
   "actualizado": "2026-10-29T18:10+00:00",
   "prevision_mes": 2,
   "noticias": {
-   "dia": "2026-10-29",
-   "gastados": 3,
+   "dia": "2026-10-30",
+   "gastados": 0,
    "partidos": [],
    "pendientes": {}
   }
@@ -968,6 +968,43 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-29T23:10+00:00",
+   "datos": "En el partido P01, el Elo otorga un 34% de opciones a Alexandra Eala frente al 1815 de Elo general frente a los 1910 de Diana Shnaider, con un cara a cara previo de 0-1. En el duelo P02, Kamilla Rakhimova registra un 43% de probabilidad según el Elo y un Elo general de 1692 frente a los 1740 de Maya Joint. El mercado sitúa a las favoritas Shnaider y Joint con cuotas de 1.67 y 1.73 respectivamente en pistas duras.",
+   "noticias": "Alexandra Eala acumula un mayor desgaste físico con 2 partidos, 5 sets y 39 juegos en los últimos 3 días, mientras que Diana Shnaider disputó 30 juegos en su último encuentro. Kamilla Rakhimova eclosionó un partido largo de 33 juegos y Maya Joint llega con 47 juegos acumulados en 5 sets recientes.",
+   "ambiente": "En la prensa y redes se destaca la emoción por los cuartos de final del torneo WTA en Tokio, resaltando la gran motivación de las tenistas jóvenes por avanzar de ronda. La igualdad en las previas genera expectación y presión sobre las favoritas.",
+   "favorito": "Las favoritas Diana Shnaider y Maya Joint muestran una superioridad clara en el ranking Elo por superficie y llegan con algo menos de fatiga acumulada en sus piernas, lo que avala su favoritismo en las cuotas. Además, Shnaider ya sabe lo que es ganar a Eala en el cara a cara previo, dándole confianza táctica para este duelo de cuartos de final en Tokio.",
+   "contra": "",
+   "conclusion": "El factor físico y el cansancio acumulado por partidos recientes de tres sets pesan mucho en esta fase del torneo, por lo que hay que vigilar la recuperación de las jugadoras. No se recomiendan apuestas cerradas, siendo clave la gestión de bankroll y la atención a las condiciones de pista dura.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexandra Eala vs Diana Shnaider)",
+     "id": "d52af5cb645ef831c4dbab0bbaf48dac",
+     "jugadores": [
+      "Alexandra Eala",
+      "Diana Shnaider"
+     ],
+     "inicio": "2026-10-30T04:00+00:00",
+     "favorito": "Diana Shnaider",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Kamilla Rakhimova vs Maya Joint)",
+     "id": "cc0834cac355e3a96bf64a85ce003e51",
+     "jugadores": [
+      "Kamilla Rakhimova",
+      "Maya Joint"
+     ],
+     "inicio": "2026-10-30T04:00+00:00",
+     "favorito": "Maya Joint",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
    "hora": "2026-10-29T21:10+00:00",
    "datos": "En el partido P01, Diana Shnaider posee un Elo en pista dura del 68% frente al 32% de Alexandra Eala, aunque el mercado otorga un 42% a Eala. En el duelo P02, Kamilla Rakhimova registra un Elo del 42% en esta superficie frente al 58% implícito de Maya Joint, con cuotas muy parejas. El cara a cara en ambos enfrentamientos está sin estrenar o con una sola victoria previa para las favoritas. Ambas jugadoras en el segundo encuentro acumulan desgaste tras superar duros partidos a tres sets en los últimos tres días.",
    "noticias": "En el torneo WTA de Tokio, Alexandra Eala llega tras disputar 39 juegos en dos días, mientras que su rival Diana Shnaider viene de un partido largo de tres sets ante Sasnovich. Por su parte, Kamilla Rakhimova y Maya Joint también han tenido que emplearse a fondo con encuentros exigentes de tres sets en las rondas anteriores. Fuera de estos encuentros, destaca la retirada por lesión de Flavio Cobolli en el ATP de Viena y la confirmación de Alexander Zverev como próximo número uno mundial.",
@@ -1275,6 +1312,11 @@
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-29T23:10+00:00",
+   "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-29T21:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
@@ -1966,7 +2008,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T21:10+00:00",
+   "actualizado": "2026-10-29T23:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -2036,10 +2078,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3Y2SjRaZTUxNkdkY0RKZjU5MzlYTG1lS2VNMUNiZlZFQ2tSV2xuVGhTaVFsYlU4eVl5MVFINmw3YWJiUmpnUlNSZFBDdWNTTVZsNWNUS0JuLW5ZbHM5UmcyWFZ2WHljeURHeU9fcER4bUUzTS16enRvOTNINl9BcENOR1J2eTFVbmZj?oc=5"
       },
       {
-       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
+       "titulo": "Resumen del Alexandra Eala - Diana Shnaider - Eurosport",
+       "fuente": "Eurosport",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEZJVUd6U1ZXYjlSN0JjeFRaV0FNTFdsdHE3TXY1anRjWmRZZURXeHJYa01jS1I5Rkl3VjNqcGNzV2lQMGxlcC1Hbmt5aUtqdUNueEh1NnFXamQ1cmJBYkUtNGsyOXlCaEYteldvTUpLX29MVWU0VGViSWt2dDM0NnZsNUxsTFZtcGFBSks0UXFUS1oySnpCY1lmbzRCRXVLREZ0NndR?oc=5"
       }
      ]
     }
@@ -2054,7 +2096,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T21:10+00:00",
+   "actualizado": "2026-10-29T23:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
