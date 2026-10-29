@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T13:42+00:00",
+ "actualizado": "2026-10-29T14:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -6930,19 +6930,18 @@
    "nombre": "Valentin Vacherot",
    "circuito": "ATP",
    "elo": {
-    "all": 1744.6,
-    "hard": 1738.3,
+    "all": 1776.9,
+    "hard": 1772.4,
     "clay": 1559.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 67,
-    "hard": 53,
+    "all": 68,
+    "hard": 54,
     "clay": 14,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-04 P hard vs Frances Tiafoe",
     "2026-09-26 P hard vs Lloyd Harris",
     "2026-09-30 G hard vs Alexander Blockx",
     "2026-10-02 G hard vs Stefanos Tsitsipas",
@@ -6951,7 +6950,8 @@
     "2026-10-10 G hard vs Sebastian Baez",
     "2026-10-12 P hard vs Tommy Paul",
     "2026-10-22 P hard vs Luca Van Assche",
-    "2026-10-26 G hard vs Mariano Navone"
+    "2026-10-26 G hard vs Mariano Navone",
+    "2026-10-29 G hard vs Rafael Jodar"
    ]
   },
   "antonio vergara del puerto|m": {
@@ -21125,19 +21125,18 @@
    "nombre": "Rafael Jodar",
    "circuito": "ATP",
    "elo": {
-    "all": 1903.4,
-    "hard": 1880.1,
+    "all": 1871.8,
+    "hard": 1846.2,
     "clay": 1825.4,
     "grass": 1554.0
    },
    "n": {
-    "all": 71,
-    "hard": 54,
+    "all": 72,
+    "hard": 55,
     "clay": 14,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-19 P hard vs Flavio Cobolli",
     "2026-09-02 P hard vs Bu Yunchaokete",
     "2026-10-01 P hard vs Adolfo Daniel Vallejo",
     "2026-10-10 G hard vs Thiago Agustin Tirante",
@@ -21146,7 +21145,8 @@
     "2026-10-16 G hard vs Casper Ruud",
     "2026-10-17 G hard vs Daniil Medvedev",
     "2026-10-18 P hard vs Alejandro Davidovich Fokina",
-    "2026-10-27 G hard vs Alejandro Tabilo"
+    "2026-10-27 G hard vs Alejandro Tabilo",
+    "2026-10-29 P hard vs Valentin Vacherot"
    ]
   },
   "das|a": {
@@ -90885,7 +90885,11 @@
   "linette|m~tagger|l": [
    0,
    1
+  ],
+  "jodar|r~vacherot|v": [
+   0,
+   1
   ]
  },
- "propios": 10392
+ "propios": 10393
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T13:42+00:00",
+ "actualizado": "2026-10-29T14:14+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,11 +19,15 @@
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 18,
-  "restantes": 482,
-  "usados": 18,
-  "actualizado": "2026-10-29T08:16+00:00",
-  "prevision_mes": 1
+  "gastados_mes": 19,
+  "restantes": 481,
+  "usados": 19,
+  "actualizado": "2026-10-29T14:10+00:00",
+  "prevision_mes": 1,
+  "noticias": {
+   "dia": "2026-10-29",
+   "gastados": 1
+  }
  },
  "reglas": {
   "bote": 1000.0,
@@ -79,6 +83,8 @@
    "reflexiones": [],
    "revisiones": [],
    "listo_real": null,
+   "reglas": null,
+   "reglas_retiradas": null,
    "total": {
     "apuestas": 0,
     "pendientes": 2,
@@ -164,8 +170,30 @@
       "2026-10-29-estadistico-1-1-2-3b65bc65"
      ],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T14:10+00:00",
+     "bote": "1",
+     "resumen": "Mantenemos la disciplina y decidimos no realizar ninguna nueva apuesta en la sesión de tarde tras analizar el partido de Novak Djokovic.",
+     "informe": {
+      "jornada": "La cartelera de la tarde presenta un único encuentro relevante en Basilea entre Novak Djokovic y Jan-Lennard Struff. Nuestro modelo de Elo otorga un 81% de probabilidad de victoria a Djokovic en pista dura, una cifra claramente superior al 76% implícito en la cuota de la casa de apuestas a 1.29. No obstante, al comparar nuestra estimación con la cuota de cierre ofrecida por Pinnacle, que también se sitúa exactamente en 1.29, observamos que el mercado ya ha ajustado completamente cualquier ineficiencia matemática.",
+      "a_favor": "El principal argumento a favor de entrar con Djokovic radica en su indiscutible superioridad histórica, su enorme motivación por asegurar su plaza para las Nitto ATP Finals en Turín y su abrumador Elo general de 1955 frente a los 1700 de su rival. Además, su rendimiento en superficies duras bajo techo sigue siendo una garantía en las rondas decisivas del torneo.",
+      "en_contra": "El argumento en contra es que, aunque el cálculo de Elo muestra una ligera ventaja teórica del 81% frente al 76% de la cuota inicial, la cuota actual en Pinnacle es de 1.29, lo que anula por completo el margen de valor necesario para nuestro método. Apostar sin un margen de seguridad suficiente frente a la casa más eficiente del mundo va en contra de nuestras normas de supervivencia a largo plazo.",
+      "riesgos": "El principal riesgo de no apostar es dejar escapar una victoria cómoda de Novak Djokovic, aunque el riesgo real para nuestro puesto es realizar apuestas con valor esperado positivo nulo o negativo frente a la línea de cierre.",
+      "situacion": "Nos encontramos en el inicio del periodo con cero apuestas liquidadas y un bote intacto de 1000 euros. Mantendremos la máxima disciplina matemática, esperando pacientemente a que surjan discrepancias reales entre nuestras probabilidades y las cuotas de cierre de Pinnacle."
+     },
+     "descarte": "Novak Djokovic gana el partido a cuota 1.29 porque, a pesar de tener un Elo favorable del 81%, la cuota coincide exactamente con la de Pinnacle y no ofrece el margen de valor matemático exigido por nuestro método.",
+     "apuestas": [],
+     "rechazos": []
     }
-   ]
+   ],
+   "desglose": {
+    "mercado": {},
+    "superficie": {},
+    "cuota": {}
+   },
+   "calibracion": []
   },
   {
    "id": "reportero-1",
@@ -186,6 +214,8 @@
    "reflexiones": [],
    "revisiones": [],
    "listo_real": null,
+   "reglas": null,
+   "reglas_retiradas": null,
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -268,8 +298,30 @@
      "descarte": "Descarto la victoria de Alexander Zverev ante Tallon Griekspoor porque la cuota de 1.22 no compensa el riesgo frente a la cuota de cierre de 1.27 de Pinnacle.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T14:10+00:00",
+     "bote": "1",
+     "resumen": "Jornada de análisis sin apuestas, ya que las cuotas actuales no ofrecen valor suficiente frente a Pinnacle.",
+     "informe": {
+      "jornada": "La jornada se centra en el duelo entre Novak Djokovic y Jan-Lennard Struff en Basilea, con un claro favoritismo para el serbio. Las noticias destacan la motivación de Djokovic por asegurar su plaza a Turín, mientras que Struff reconoce la dificultad de su historial. No hay grandes sorpresas físicas, pero el desgaste de tres sets de Djokovic ayer abre una ligera duda sobre su frescura inicial. El mercado muestra una cuota de 1.29 para Djokovic que coincide exactamente con la de Pinnacle.",
+      "a_favor": "El argumento a favor de Djokovic es su enorme superioridad en jerarquía, motivación y Elo en pistas duras indoor, además de la necesidad imperiosa de sumar puntos para Turín. Su victoria ante Humbert demostró capacidad de sufrimiento a pesar de ceder un set.",
+      "en_contra": "El argumento en contra es que la cuota de 1.29 no ofrece ningún margen de valor estadístico y es idéntica a la de Pinnacle, por lo que apostar carece de ventaja matemática. Como mi método exige buscar ineficiencias y cuotas desalineadas, prefiero mantenerme al margen.",
+      "riesgos": "El riesgo principal de no apostar es dejar escapar una victoria cómoda de Djokovic, pero arriesgar sin valor es el camino más rápido hacia la ruina según mis reglas de control.",
+      "situacion": "Mantengo mi bote intacto en 1000.00 € sin prisa por empezar, esperando pacientemente el momento en que el mercado cometa un error aprovechable."
+     },
+     "descarte": "He dejado pasar la victoria simple de Novak Djokovic a cuota 1.29 porque está perfectamente ajustada con Pinnacle y no ofrece valor esperado positivo.",
+     "apuestas": [],
+     "rechazos": []
     }
-   ]
+   ],
+   "desglose": {
+    "mercado": {},
+    "superficie": {},
+    "cuota": {}
+   },
+   "calibracion": []
   },
   {
    "id": "superficies-1",
@@ -290,6 +342,8 @@
    "reflexiones": [],
    "revisiones": [],
    "listo_real": null,
+   "reglas": null,
+   "reglas_retiradas": null,
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -372,8 +426,30 @@
      "descarte": "P03b: Tommy Paul gana a Luciano Darderi @ 1.25, porque aunque su dominio en dura es claro, la cuota no ofrece suficiente margen de valor según mi método.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T14:10+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar suficiente valor diferencial en las cuotas de superficie para el partido de Basilea.",
+     "informe": {
+      "jornada": "La jornada se centra en el torneo indoor de Basilea, donde las pistas duras bajo techo ofrecen un bote rápido y constante que favorece a los tenistas de mayor jerarquía. Analizando los datos de Elo en superficie dura, Novak Djokovic presenta unos números imponentes de 1908 frente a los 1658 de Jan-Lennard Struff. Sin embargo, el mercado refleja con gran precisión esta brecha técnica y física. Como especialista en superficies, busco discrepancias donde la pista penalice al favorito de forma injusta, algo que no ocurre hoy. El bote y la velocidad de la bola en esta pista cubierta benefician el saque potente de Struff, pero la solidez general del serbio en estas condiciones es demasiado sólida para arriesgar. Mantener la paciencia es vital para proteger nuestro capital en este inicio de periodo.",
+      "a_favor": "El mejor argumento a favor de entrar con el favorito es la enorme superioridad histórica de Novak Djokovic en pistas duras indoor y su evidente motivación por amarrar puntos clave para Turín. Su adaptación a este tipo de botes rápidos es incuestionable tras años de dominar en estas superficies.",
+      "en_contra": "El mejor argumento en contra de arriesgar es que la cuota de 1.29 ofrecida por la casa apenas deja margen de error frente a una cuota de cierre idéntica en Pinnacle, lo que anula cualquier ventaja matemática real. Por ello, prefiero quedarme al margen y esperar oportunidades donde el mercado infravalore la capacidad de adaptación de un especialista.",
+      "riesgos": "El principal riesgo de no apostar es dejar escapar una victoria cómoda del favorito, aunque el riesgo real de perder capital en cuotas tan ajustadas sin ventaja en el cierre es mucho mayor para nuestra permanencia.",
+      "situacion": "Me mantengo con 0 apuestas y el bote intacto en 1000.00 euros, cumpliendo estrictamente con la disciplina de no forzar ninguna entrada sin valor."
+     },
+     "descarte": "P01b: Novak Djokovic gana a cuota 1.29, descartado por falta de margen de valor frente a la cuota de cierre de Pinnacle.",
+     "apuestas": [],
+     "rechazos": []
     }
-   ]
+   ],
+   "desglose": {
+    "mercado": {},
+    "superficie": {},
+    "cuota": {}
+   },
+   "calibracion": []
   },
   {
    "id": "manager-1",
@@ -394,6 +470,8 @@
    "reflexiones": [],
    "revisiones": [],
    "listo_real": null,
+   "reglas": null,
+   "reglas_retiradas": null,
    "total": {
     "apuestas": 0,
     "pendientes": 0,
@@ -476,81 +554,35 @@
      "descarte": "P11a (Ben Shelton gana @ 1.30) porque aunque el modelo de Óscar estima un 88% de probabilidad, el escaso margen de valor en una cuota tan baja no compensa el riesgo de la inversión.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T14:10+00:00",
+     "bote": "1",
+     "resumen": "Jornada sin apuestas ya que los tres analistas coinciden en que no hay valor frente a Pinnacle.",
+     "informe": {
+      "jornada": "La cartelera se reduce al encuentro en Basilea entre Novak Djokovic y Jan-Lennard Struff. Los analistas coinciden en que el dominio del serbio es incuestionable, pero las cuotas de la casa y de Pinnacle están perfectamente alineadas en 1.29. No se detectan ineficiencias matemáticas que justifiquen una inversión.",
+      "a_favor": "El mejor argumento para no arriesgar es la perfecta coincidencia de nuestra cuota con la de Pinnacle a 1.29, lo que demuestra que el mercado ya ha descontado cualquier ventaja estadística. Mantener la disciplina en estos escenarios es fundamental para proteger nuestro bote.",
+      "en_contra": "El argumento en contra de quedarse de brazos cruzados es que el modelo de Elo otorga un 81% de probabilidad a Djokovic frente al 76% implícito en la cuota inicial. Sin embargo, al igualarse con el cierre de Pinnacle, el margen desaparece por completo.",
+      "riesgos": "El principal riesgo de no apostar es perder oportunidades puntuales, aunque apostar sin valor es la vía más rápida al despido. La prudencia debe imperar en esta fase inicial.",
+      "situacion": "Con cero apuestas liquidadas y el bote intacto en 1000 euros, mi objetivo es preservar el capital hasta encontrar una clara discrepancia de mercado."
+     },
+     "descarte": "Novak Djokovic a cuota 1.29 ofrece un leve margen matemático según el Elo, pero coincide exactamente con la cuota de cierre de Pinnacle.",
+     "apuestas": [],
+     "rechazos": []
     }
-   ]
+   ],
+   "desglose": {
+    "mercado": {},
+    "superficie": {},
+    "cuota": {}
+   },
+   "calibracion": []
   }
  ],
  "cartelera": {
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
-   {
-    "id": "dd5bca16b0bbd8de2684f82a2797f042",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T14:00+00:00",
-    "jugadores": [
-     "Nikoloz Basilashvili",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "dd5bca16b0bbd8de2684f82a2797f042|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.11,
-      "pinnacle": 1.1
-     },
-     {
-      "id": "dd5bca16b0bbd8de2684f82a2797f042|h2h|Nikoloz Basilashvili|",
-      "mercado": "h2h",
-      "nombre": "Nikoloz Basilashvili",
-      "punto": null,
-      "cuota": 6.5,
-      "pinnacle": 7.71
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.1,
-     "Nikoloz Basilashvili": 7.71
-    }
-   },
-   {
-    "id": "9da35734a02ec2627cd4034086584157",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T14:10+00:00",
-    "jugadores": [
-     "Taylor Fritz",
-     "Denis Shapovalov"
-    ],
-    "opciones": [
-     {
-      "id": "9da35734a02ec2627cd4034086584157|h2h|Denis Shapovalov|",
-      "mercado": "h2h",
-      "nombre": "Denis Shapovalov",
-      "punto": null,
-      "cuota": 2.75,
-      "pinnacle": 2.96
-     },
-     {
-      "id": "9da35734a02ec2627cd4034086584157|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 1.44,
-      "pinnacle": 1.45
-     }
-    ],
-    "pinnacle_h2h": {
-     "Denis Shapovalov": 2.96,
-     "Taylor Fritz": 1.45
-    }
-   },
    {
     "id": "381536c46bd1e16a9236502df3f748e5",
     "deporte": "tennis_atp_swiss_indoors",
@@ -891,6 +923,16 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-29T14:10+00:00",
+   "datos": "Los números muestran una gran superioridad en Elo para favoritos como Alexander Zverev con 83% y Ben Shelton con 88% en pistas duras. El cara a cara de Zverev frente a Tallon Griekspoor es abrumador con un 8-2 a favor del alemán. En contraste, partidos como el de Flavio Cobolli ante Matteo Berrettini presentan un Elo muy igualado de 62% frente a 62%.",
+   "noticias": "En el apartado de lesiones y cansancio, destacan los partidos largos recientes de Ben Shelton con 39 juegos disputados y Alexandra Eala con 5 sets acumulados en tres días. Arthur Fery avanza en Viena tras el retiro previo de Jacob Fearnley. Además, surgen distracciones extradeportivas en la prensa rosa que envuelven a Matteo Berrettini y Lorenzo Musetti.",
+   "ambiente": "Se habla mucho en la prensa sobre la gran oportunidad de Novak Djokovic para asegurar su plaza hacia Turín en Basilea. Los aficionados muestran gran motivación en los torneos indoor europeos y en los cuartos de final del WTA de Tokio.",
+   "favorito": "Los favoritos del día como Zverev, Djokovic y Shelton cuentan con un Elo muy superior en hard y una jerarquía innegable en torneos importantes. Respaldar a estos tenistas de máxima categoría suele ser la opción más lógica en rondas decisivas bajo techo.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa mucho la enorme brecha de Elo en pistas rápidas a favor de las grandes figuras. Conviene vigilar el desgaste físico de los jugadores que vienen de disputar partidos muy largos en las rondas anteriores.",
+   "partidos": []
+  },
+  {
    "hora": "2026-10-29T13:38+00:00",
    "datos": "Los números muestran una gran superioridad en el Elo de superficie para favoritos claros como Ben Shelton con 91% en hard frente al 15% de Nikoloz Basilashvili ante Alcaraz. Partidos como el de Flavio Cobolli y Matteo Berrettini se presentan muy nivelados, con un Elo en pista dura prácticamente idéntico del 62%. Zverev y Djokovic dominan ampliamente las estadísticas con probabilidades superiores al 80% en sus respectivos encuentros.",
    "noticias": "En el apartado físico, Taylor Fritz celebra su cumpleaños número 29 todavía compitiendo con buen ritmo en Basilea. Por otro lado, la prensa rosa y deportiva rumorea sobre tensiones fuera de las pistas que salpican a Matteo Berrettini y Lorenzo Musetti en el circuito italiano. Arthur Fery avanza en Viena beneficiado por la retirada previa de su rival Fearnley.",
@@ -1022,6 +1064,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-29T14:10+00:00",
+   "texto": "🧾 Con las noticias nuevas: 0 apuestas por 0.00 € (1 créditos).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T14:10+00:00",
+   "texto": "📰 Noticias nuevas de Novak Djokovic – Jan-Lennard Struff: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-29T08:16+00:00",
    "texto": "🧾 Decisión del día: 2 apuestas nuevas por 30.00 €.",
    "tipo": "info"
@@ -1042,5 +1094,721 @@
    "tipo": "info"
   }
  ],
- "ultima_decision": "2026-10-29"
+ "ultima_decision": "2026-10-29",
+ "partidos_info": {
+  "381536c46bd1e16a9236502df3f748e5": {
+   "id": "381536c46bd1e16a9236502df3f748e5",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Jiri Lehecka"
+   ],
+   "inicio": "2026-10-29T15:00+00:00",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.244,
+   "elo_general": 0.234,
+   "elo_en_superficie": 0.254,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Daniel Altmaier",
+     "mercado": 0.165,
+     "elo": 1608,
+     "elo_superficie": 1598,
+     "forma": [
+      "G hard vs Titouan Droguet",
+      "G hard vs Borna Gojo",
+      "P hard vs Taylor Fritz",
+      "G hard vs Henry Bernet",
+      "P hard vs Juan Manuel Cerundolo"
+     ],
+     "cansancio": "1 partidos, 3 sets y 36 juegos en 3 días; el último el 2026-10-26 contra Juan Manuel Cerundolo, ganó 6-7 7-6 6-4 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "Daniel Altmaier vs Jiri Lehečka · Round 2 · ATP Basel - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEt1NUJpenVxak5ELW9Pb08ycG92M1dZZXUyTUlXdEFhMTNXRWVEMFN4cUxGUU9BR0VUc1RjZnR0TU9iWTFDRVBlaUpZWFF6Si1MSGhQWUZ1dk5HNWZTdjUwMlhiNWxUbS0ySS0xRkJBa2NHUDNUR3E5X09BcWo2WV9GbHV6Q3BYSi03RnlPRkNVUFpHaVVNcnA4RHpoUQ?oc=5"
+      },
+      {
+       "titulo": "Daniel Altmaier vs Jiri Lehecka: Set 1 Winner - Coinbase",
+       "fuente": "Coinbase",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnJ6WE55MDZCNkU1clZlRi1vd0RBMlFBSDZoNWhtdlplNkIyM1p3SGY4dDVCWXhXeXlWeTMySEFTR2hpUVhiNjk4MTY5OWZlV0JaSU5FTndRVElYOW9hVTR0TUFSd1Q0bk1rZ3pOZXpsNS13empySEdCTldvWnZYazFwLWZ5QQ?oc=5"
+      },
+      {
+       "titulo": "Daniel Altmaier vs. Juan Manuel Cerundolo Basel 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTkc3ZmJYallaME4zUzh0eGxaQkhCMUtLZkYyZjlENGxJaE45WWFDRnAzdlc0b0pPR3FxYUc2dXlNLTQyWkJXWVNhVXMxRVZNSGlOQ1lrZ196aU5kOUxaay1LblA5d2NpWjJ1M09qR1BsbTNs?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Jiri Lehecka",
+     "mercado": 0.835,
+     "elo": 1814,
+     "elo_superficie": 1785,
+     "forma": [
+      "G hard vs Nuno Borges",
+      "P hard vs Rafael Jodar",
+      "G hard vs Raphael Collignon",
+      "P hard vs Tallon Griekspoor",
+      "G hard vs Stan Wawrinka"
+     ],
+     "cansancio": "1 partidos, 2 sets y 25 juegos en 3 días; el último el 2026-10-27 contra Stan Wawrinka, ganó 7-5 7-6",
+     "noticias": [
+      {
+       "titulo": "Daniel Altmaier vs Jiri Lehečka · Round 2 · ATP Basel - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEt1NUJpenVxak5ELW9Pb08ycG92M1dZZXUyTUlXdEFhMTNXRWVEMFN4cUxGUU9BR0VUc1RjZnR0TU9iWTFDRVBlaUpZWFF6Si1MSGhQWUZ1dk5HNWZTdjUwMlhiNWxUbS0ySS0xRkJBa2NHUDNUR3E5X09BcWo2WV9GbHV6Q3BYSi03RnlPRkNVUFpHaVVNcnA4RHpoUQ?oc=5"
+      },
+      {
+       "titulo": "Daniel Altmaier vs Jiri Lehecka: Set 1 Winner - Coinbase",
+       "fuente": "Coinbase",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnJ6WE55MDZCNkU1clZlRi1vd0RBMlFBSDZoNWhtdlplNkIyM1p3SGY4dDVCWXhXeXlWeTMySEFTR2hpUVhiNjk4MTY5OWZlV0JaSU5FTndRVElYOW9hVTR0TUFSd1Q0bk1rZ3pOZXpsNS13empySEdCTldvWnZYazFwLWZ5QQ?oc=5"
+      },
+      {
+       "titulo": "Stan Wawrinka pone fin a su carrera en el tenis - RFI",
+       "fuente": "RFI",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN19FNmNJdnlHUC1VSC15WmhNUmUzM1RjNFJtRUtPX1BaVU9jRnBEYlJ5VU5QSEFJdmIydUVzT0g0R1RaeTB1YXhZZmpFZ2lUOVBWb2cxNm5fcmZCWl9QQlJXeHp6R3FKOGV3Q0VBaVktQTBMb0dMLU12QmszUFFyTDFwbXk2bnZzdTlGOGVLdzBFcC16cUdsLUtabW8?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "704555fd36bea990169b89857cf51075": {
+   "id": "704555fd36bea990169b89857cf51075",
+   "jugadores": [
+    "Arthur Fery",
+    "Lorenzo Musetti"
+   ],
+   "inicio": "2026-10-29T16:00+00:00",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.22,
+   "elo_general": 0.239,
+   "elo_en_superficie": 0.2,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Arthur Fery",
+     "mercado": 0.271,
+     "elo": 1646,
+     "elo_superficie": 1576,
+     "forma": [
+      "P hard vs Lorenzo Musetti",
+      "P hard vs Jaime Faria",
+      "G hard vs Marin Cilic",
+      "P hard vs Karen Khachanov",
+      "P hard vs Borna Gojo"
+     ],
+     "cansancio": "1 partidos, 1 sets y 6 juegos en 3 días; el último el 2026-10-26 contra Jacob Fearnley, ganó 5-1",
+     "noticias": [
+      {
+       "titulo": "Pronóstico Arthur Fery vs Lorenzo Musetti - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUlKUHhQdEM2UkJFanBmQ1FRQ3FuTkhNMm50elF2NWNXRGwxWDMtakVkRUpXTVNNRHF4cW11RHViY3ZweUpvdWZoM2JrTHp1dzlqRmZpd1FnR3QzQlBzcm5RbXlCZGxSWmNITE1zZG1pZFNfWXZQMTVyNzBOcVZDdG9qZ0ZGUU1uOGcwMA?oc=5"
+      },
+      {
+       "titulo": "Highlights: Fery avanza en Viena tras el retiro de Fearnley - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY20wVHpCbms0bm5CZGh5MUxoVEwtSWp4OFdWUU9nM1ZnQU5XTkcwYlJWcjA4cjZKSGE5emlWdk9lYnRpTnRfNWduS09NamZkQmVjM3g0Rkl2aUJOUnBuckhZRlJOcHYxeGhzN3ZmYS11bVpSczN1czVWMTZRM2dqLTdlODlNNmhqeER1X1lqWGREN0hWQ1dmZEwyUQ?oc=5"
+      },
+      {
+       "titulo": "Arthur Fery vs Lorenzo Musetti EN VIVO 29/10/2026 | Tenis - Flashscore.com.ar",
+       "fuente": "Flashscore.com.ar",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFNJTEZaVW1vRFkyUkNmRjJST2c5OEtySU51VFlmWDREYjlhUmJtTUZXUTAtcVFpcGN3Z2FFMUtLdHhONFNpZklNZXh5NkcyWGNLUUpxUkZzNVkzU2M4cGU0dXZNQkJPQkk0SU9VOWxrSk0yNG9XcEtDZnFWOU5GbDZzTjgza3JlN0dGZnpSTldnQ3FC?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Lorenzo Musetti",
+     "mercado": 0.729,
+     "elo": 1847,
+     "elo_superficie": 1816,
+     "forma": [
+      "G hard vs Moise Kouame",
+      "G hard vs Luca Van Assche",
+      "G hard vs Flavio Cobolli",
+      "G hard vs Taylor Fritz",
+      "G hard vs Frances Tiafoe"
+     ],
+     "cansancio": "1 partidos, 2 sets y 25 juegos en 3 días; el último el 2026-10-28 contra Frances Tiafoe, ganó 7-6 7-5",
+     "noticias": [
+      {
+       "titulo": "Quién es Vanessa Bellini, la bailarina envuelta en el escándalo de Matteo Berrettini y Lorenzo Musetti - TN",
+       "fuente": "TN",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkhoVHJlbmgtOExCTW52anpRTFVMUWp1N3lSbGtIaDRJb1FlVl9YaHlvZVJkSE5IN0Y1UWFVQVhJMXlPR2VETmlXd1pDTXNra2VWNDJpaVg5blZuYUZXUmR2bmE1aUlFakNtZHQ0dTlDMmM2eXVsUW16UDQ2MGpMdl9MMnZ3ZDcwQVNNdkk1WHVWMWt2OGxBX0ltMXpvd2k2Z0ZDVjBvUlVRcEs2ZzVaUmp2UktZdDRsT01teWlpVnE4VXNyT0kyRW5VRVZTekZDTFFqeDRITEpxaGR1Z0Uw0gHzAUFVX3lxTE5Hcno2STZKWFUxcklsVVZ2QTFfYTVCWWhKUlh3SWRSTVFJdG9LSnE4c2RXSUdKV2NXakNqRDFEVzBtNjJXQUxFeXlBcTdHWUpPMDRXMzdTLW1wS0lsSGo0UlRud0NjcGV3LVFUZFRqN21XN250bmtCU0ZGSXpnaWRFNU9WdDZNay1MTklMVEpuVFpOYW1jYURWcHRnSmxwZXRXQ1dqSG8wSmxSdE90b1hvaU5BT21samdhVmt2bE9mTUpURGZLU09DZDhkbU0xbmstOGpqRThja21OU0pwQnNjQlo5UHh4ZWp1bnpkSW0zdWFMaw?oc=5"
+      },
+      {
+       "titulo": "Juan Carlos Ferrero pone fecha al anuncio de su nuevo pupilo - MUNDIARIO",
+       "fuente": "MUNDIARIO",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3BmVTk3V3FvZW1NNDRaSkdzdnhSSUxqREU3b2ZvcVpQUFduSUFQcllMaW1FNzFLZEJnbzdjSTlLQ2h4elpzSWlWYm1meV8xeEhhWjFNcy1ka194M2wtVlhyaDFtb3kwRmhPMmVhZHFiaW9LdjBwQjQxbjEwV1p2V2NTWWRtdXRKNEdaaS1HdzNadVJhRVo4VVR6aTVsbG13YWFiS3hMbE5EcHZGeEd1ZXJfRkpxRXUtYlpOT191c3cwWUVR0gHEAUFVX3lxTE13cGZVOTdXcW9lbU00NFpKR3N2eFJJTGpERTdvZm9xWlBQV25JQVByWUxpbUU3MUtkQmdvN2NJOUtDaHh6WnNJaVZibWZ5XzF4SGFaMU1zLWRrX3gzbC1WWHJoMW1veTBGaE8yZWFkcWJpb0t2MHBCNDFuMTBXWnZXY1NZZG11dEo0R1ppLUd3M1p1UmFFWjhVVHppNWxsbXdhYWJLeExsTkRwdkZ4R3Vlcl9GSnFFdS1iWk5PX3VzdzBZRVE?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Arthur Fery vs Lorenzo Musetti - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUlKUHhQdEM2UkJFanBmQ1FRQ3FuTkhNMm50elF2NWNXRGwxWDMtakVkRUpXTVNNRHF4cW11RHViY3ZweUpvdWZoM2JrTHp1dzlqRmZpd1FnR3QzQlBzcm5RbXlCZGxSWmNITE1zZG1pZFNfWXZQMTVyNzBOcVZDdG9qZ0ZGUU1uOGcwMA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "6822571863f93fa4654e76e114874060": {
+   "id": "6822571863f93fa4654e76e114874060",
+   "jugadores": [
+    "Alexander Zverev",
+    "Tallon Griekspoor"
+   ],
+   "inicio": "2026-10-29T16:30+00:00",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.834,
+   "elo_general": 0.863,
+   "elo_en_superficie": 0.805,
+   "cara_a_cara": [
+    8,
+    2
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.766,
+     "elo": 2004,
+     "elo_superficie": 1946,
+     "forma": [
+      "G hard vs Quentin Halys",
+      "G hard vs Alexander Bublik",
+      "G hard vs Alex de Minaur",
+      "P hard vs Alejandro Davidovich Fokina",
+      "G hard vs Martin Landaluce"
+     ],
+     "cansancio": "1 partidos, 3 sets y 34 juegos en 3 días; el último el 2026-10-27 contra Martin Landaluce, ganó 7-5 3-6 7-6 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "¿Cuál es la programación de Viena? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Tkt6VWZYbTQyMFZWcXJRTnpTQmtQSkQxY3RTUVA3WW5hMmtRYVF3Q1FPa1VOSWVhSHAya3Y2RUV2eGQ2NUd4UGxtUk1QQUtCTW9vdldTREhCSjJpLXVMMlNR?oc=5"
+      },
+      {
+       "titulo": "Ferrero aplaude el número uno de Zverev: \"Me parece merecido y mentalmente va a estar más fuerte\" - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXNhQlNlSUJYeS11ZmxZV3ZReDl3dkN3UDhrb0UxbzhINW83NF9FRmZLU3ZFU1QxSlpSWFgyaHVvdXFPalN0VFBsTDVsOGR5R3pjWEdiRXVaSlBOM1V1enJOdmJNcGI0bEI1M3h3ZmVTeHpJaEhvZFVFdWxndVdVZ1pWbGNaS0xzUVBTbU93emJvZVJ1SEowSktwZ1NvNGpCb1ZXdktZY09IYkNrMEhSSFdhdHJ6SzJzdndSbV8zWURvaTh1Zml3Z2IxUHNpenVtd0lpX3dLemNzcjF2N1FPVHJZTXAtaXN5TUQ1Uksyaw?oc=5"
+      },
+      {
+       "titulo": "Bolelli / Vavassori vs Melo / Zverev · Round 1 · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMW1rTG1Qdjdnbk1YSWk1TnZtT1RONHdHWVBMNGdVcTUtSHkyN2JwOG1JcUxyRnJtNUhFNW9wOG9CQkNvODhad0VOZjFwTXJVaERPNUhPMTU2OHVDdTFVYlN4bGRxbk1jYmpqYUhBWUVzaUc3Z2RUc3NWdnI4MEJWdW9UQW1jZ2piY2RPbTg5cW42dUc1M0lPWXNlamZnVG5GZmhlbXZzbUVwRzA0cHlj?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Tallon Griekspoor",
+     "mercado": 0.234,
+     "elo": 1684,
+     "elo_superficie": 1701,
+     "forma": [
+      "G hard vs Mariano Navone",
+      "G hard vs Jiri Lehecka",
+      "G hard vs Francisco Cerundolo",
+      "G hard vs Jan-Lennard Struff",
+      "G hard vs Brandon Nakashima"
+     ],
+     "cansancio": "1 partidos, 3 sets y 30 juegos en 3 días; el último el 2026-10-28 contra Brandon Nakashima, ganó 6-1 4-6 7-6 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "Tallon Griekspoor vs Brandon Nakashima · Round 1 · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOanlrSV95MTJhenl4S01FM2NyY2NLd0p5TjFjcWdkdmF1NzZFbERZN0RYbGM5ekxBbUlGZ3JQRVJKRU9YbDRtQkFFcmg2bmpJVE1oSEJDNVFpaWstNUM2ckRDa3YzSk1DMko0c2ZaVGRMQlJqU2p1dHp5NlJ3cUJ2QkZ1Ull5V2w4Q21IS2YxZ3FSNHFmLWlGcThRdUppUQ?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alexander Zverev vs Tallon Griekspoor - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkFhV0pIbVVUcXJpV3hiUVAybTdiYkZha1VvZDkzQnRHS3A5bnlOTlNtU052YTYzYkZsekVYMl95SDRHOVRYaGpNdnBDVDhGSnF4WDh2OEQ4V3JORjV4ZjRsVEY1UkhrWU94ZDNjNWRYT0xwcm5vOXpfLWJBNVpNTFVheHBFMENsVjdwVHBrQ3pIdmFiZlE?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alexander Zverev Tallon Griekspoor - Erste Bank Open 29/10/26 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0U5V1F3R0JYWHhLRzk3RGxxT2poSGljUzZsS0dmZEJjbDdEWXBLNlREV0o1czAyR2JwQy1sUzR3OWdWcmhPVk1hSTlSQkJjVFJhcjBlMTJYRFVWSWdMVjdhdDVXY1dLMVBFbGxYdnBaX051YllaVnpEc05qc19SSnZqSS1aZFlNRjgwS2FfZw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "e17ec974bac4e8094cbe45dfeb471b1e": {
+   "id": "e17ec974bac4e8094cbe45dfeb471b1e",
+   "jugadores": [
+    "Novak Djokovic",
+    "Jan-Lennard Struff"
+   ],
+   "inicio": "2026-10-29T17:00+00:00",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.811,
+   "elo_general": 0.813,
+   "elo_en_superficie": 0.809,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Novak Djokovic",
+     "mercado": 0.757,
+     "elo": 1955,
+     "elo_superficie": 1908,
+     "forma": [
+      "G hard vs Bu Yunchaokete",
+      "G hard vs Alexander Zverev",
+      "G hard vs Daniil Medvedev",
+      "P hard vs Hubert Hurkacz",
+      "G hard vs Ugo Humbert"
+     ],
+     "cansancio": "1 partidos, 3 sets y 29 juegos en 3 días; el último el 2026-10-28 contra Ugo Humbert, ganó 4-6 6-3 6-4",
+     "noticias": [
+      {
+       "titulo": "Djokovic's big opportunity to make a move towards Turin in Basel - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVBHcEdTR29aSzBCY3NYbTF6aDJaTGZjSXV4Q2haUUdlcHFXVXRBZmh0T1lzTEI4WXNZaTY0THJPSldTR0cyaUtmZ2l4Wi1pTnNhbFhtS01xdkx3eTdjT3p5N1ZPbHQxWVJTM2VwMXpQd2ktWXhlQ3NWeVlFQWxMbkxiVG5keHRLQmpj?oc=5"
+      },
+      {
+       "titulo": "Djokovic confiesa que nunca tuvo relación con Federer - Noticias de Gipuzkoa",
+       "fuente": "Noticias de Gipuzkoa",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlhGNHM3WUJ6Q0ZINElrOVh2QTdEeDl1SmptWGZBTVg3Rk9qLU41VEJTVktpT2I4U0Q1c2k5T1MwRWFScXJMOTRSRW5HMWk2YVJvZmY0cEhvMWVHR1gzaFA1ZENud2huakhrV1VEUzdmWkJDLXRoeUNPNThQTVlUUC1fTFRwRnBnYUF2NW55blVSX0Jad3VXaUFqbzlMWVVxQWVKZEREc2pvdUt1dFpiamtzUHVqazRCUlZnVNIBwgFBVV95cUxPMWJjd3c3YndUVWdXTDhoaVIwOVhpNkVMU1JOTWNFcnl0dHN5RkZXSEJwRjN4QW9xT1QzZU9KZVJqbDRSN25PY1JaU1RBV2NFRW11Uko2S2NPWTUzOTJRenBFUjJZZU1lLUluazlWbG5fYmVJeDVrM3lraTh4dnA1SjdvR0VDMF9WV1ctbnl5cU9XV0V1VXFmano4MkpMVVhST1Ixejd0T0RiN2IzQ3hOUUl3ZmhzbzY4dmUyU0xOM0Uxdw?oc=5"
+      },
+      {
+       "titulo": "Novak Djokovic se sincera sobre su relación con Roger Federer: \"Nunca fue cercana fuera de las pistas\" - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU0VGN1JaeFJicWk0cTZQbnlVMWdyOTJ0Nnl4dHhpSkczTXk1ZjhMVlU5OExuc0lNcy1CN2FBay15QWlUVkw2cHdHYUJwdjJHeXQ3aVVLbmVWcVZFbjhZcmFBZ2pva05nSmU5T3p5YU82WkN5bzhnUi0yV1BIeHZ5WmkwNm1pZ2pvS01UdGNFVURkQVJLYWdwVE9wTFA1VWpIWlhwMWNRYTBiQUphOXZpYnhBSGVSejYwOE5aVHB3VkM3MEhkUFB6dzVuWVgwZWZ0NTJYRXQtNkw5RmRVZ2c?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Jan-Lennard Struff",
+     "mercado": 0.243,
+     "elo": 1700,
+     "elo_superficie": 1658,
+     "forma": [
+      "G hard vs Gauthier Onclin",
+      "G hard vs Zizou Bergs",
+      "G hard vs Arthur Fils",
+      "P hard vs Tallon Griekspoor",
+      "G hard vs Yannick Hanfmann"
+     ],
+     "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-28 contra Yannick Hanfmann, ganó 6-4 6-3",
+     "noticias": [
+      {
+       "titulo": "Kohlmann: \"Contamos con el mejor jugador del mundo\" - Davis Cup",
+       "fuente": "Davis Cup",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWhmN3N6Q0V4aHFZdzB1aVR6QU5mdllMNkc0enA3Mkd5UFJxS0dPM1NjMzZySWNPRFJnQ01mR1p1WC1pbE44WHhQaXNEb3pRbjJOY1Uwa1ctWGpYZXFKSUFHVmVVemtjNEladEtTMlptMUw0ZGY0OHVGSncxc1ZoRXgwbXRzRTBNRXgwVDhB?oc=5"
+      },
+      {
+       "titulo": "Djokovic remonta ante Humbert y supera la primera ronda del ATP de Basilea - Diario Libre",
+       "fuente": "Diario Libre",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWwtQjRicG5sR0NfaUt4OHdUSllzVXVmQzJVLTl2Q1NvR2JSc0FoYjg4eWwtVHNjRE9qbmZOaXhNaTlrVDM1QlFOTURmS1pIUXRZcEEyNUh5c080NENRd2tISmFGU3hLa0hvcW5yS1JxcXdBa3FMVTVqbmhiMFUwcTNGUUZiX3BfWlhCellMbU4tanZyMzZBMVg5UUxkZnEwaGN4ZldYTGRLNzNPT1pWZV82c1pnT0XSAbwBQVVfeXFMTkFtRVY5RmNWZU9IbEYxSFl3UlhOeTh3cnZ3a3ktWnAwTEFpbmxHYl9YOEE1SXgxOEptQ3FqTG5XTDNiWldsekx1VDhFTlFRNmFQOXFWN1NUSExjdXhseXpQWkNfWTRlM21XZkxBX2pER3pkWEFtOFJ0eV9VejQyTlByeUlvVTJTQmNkV2QyRGpodEtiSi1wNTdoNnlCRFc1SU43MDB4RVlPdEF3NzZaVkRVV0VXcEk5SmFhLXQ?oc=5"
+      },
+      {
+       "titulo": "Struff: \"Mi historial contra Djokovic no es muy bueno, pero ¿el de quién lo es?\" - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Z1Boa3hSeVpidXVNX3BJWXREV05wNW1nNjBWVWJaUXRHSmpPZDNaeUUtWkw5T2VpVkpvTGNMZlRtUS1mMEVnc2RzT29EWUZNRnlLb09yR2s2S3BRbF92ai1qUUNZWm5VTmVOTlJGMzVOWjhh?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "53d4ccf860436088aa717efdf2c38d25": {
+   "id": "53d4ccf860436088aa717efdf2c38d25",
+   "jugadores": [
+    "Ben Shelton",
+    "Jerome Kym"
+   ],
+   "inicio": "2026-10-29T18:10+00:00",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.875,
+   "elo_general": 0.862,
+   "elo_en_superficie": 0.905,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Ben Shelton",
+     "mercado": 0.739,
+     "elo": 1900,
+     "elo_superficie": 1927,
+     "forma": [
+      "G hard vs Frances Tiafoe",
+      "P hard vs Alexander Zverev",
+      "G hard vs Daniel Altmaier",
+      "P hard vs Arthur Gea",
+      "G hard vs Aleksandar Kovacevic"
+     ],
+     "cansancio": "1 partidos, 3 sets y 39 juegos en 3 días; el último el 2026-10-27 contra Aleksandar Kovacevic, ganó 6-7 7-6 7-6 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "ATP 500 Basilea: Ben Shelton vs Jerome Kym - Pensador de Apuestas",
+       "fuente": "Pensador de Apuestas",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDlSYzlSUDUwcjdoMVZEZVlYaUNicXpFVkRqdFFuLWVhWVA0V0I3TUdOaThJSUItc2p6dndxSmtXOGhxYlAtUDV3emRIbV83N2hwaWtJc1doYVgtNmFoYXRmMG9keWpNTzBIbWtkNTEtVzhxVm9FYW90VmZGQ3E2TUZJWQ?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Ben Shelton Jerome Kym - ATP Basilea 29/10/26 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZ2pvdkFsdHlveTk0dmhxVmJfUjRwNEFJY09lVmlxY0Q3b2wzZzJ5ako5eVFaMWI1YXZZR2dncGhJVDVmMGRfaEdoTVVfNmNMWk56MWwwOEs4cmJXS1dtYUFWYmdOdkM0b29XZWI3ckpFbzdNMnBteVJHLVJaeHM?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Ben Shelton vs Jerome Kym - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXdFelN4dnM4b2ozZ3hRU2JFaWg2TjllZzRTV3dObjlaR3ZYZVUzTF9GRzRFMDBYcUljT2dPZF9wNy12T3d5YmY3RXhBc1VINk1kcGlXVnNZQzVzeEdTOUtZdDZCN2N5MGwzN0NySzZnQzZzWk1jVnBMZ3hINkJfbGxvdWJvQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Jerome Kym",
+     "mercado": 0.261,
+     "elo": 1581,
+     "elo_superficie": 1535,
+     "forma": [
+      "G clay vs Dylan Dietrich",
+      "P clay vs Stefanos Tsitsipas",
+      "G hard vs Dan Added",
+      "P hard vs Colton Smith",
+      "G hard vs Arthur Rinderknech"
+     ],
+     "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-27 contra Arthur Rinderknech, ganó 7-6 6-4",
+     "noticias": [
+      {
+       "titulo": "ATP 500 Basilea: Ben Shelton vs Jerome Kym - Pensador de Apuestas",
+       "fuente": "Pensador de Apuestas",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDlSYzlSUDUwcjdoMVZEZVlYaUNicXpFVkRqdFFuLWVhWVA0V0I3TUdOaThJSUItc2p6dndxSmtXOGhxYlAtUDV3emRIbV83N2hwaWtJc1doYVgtNmFoYXRmMG9keWpNTzBIbWtkNTEtVzhxVm9FYW90VmZGQ3E2TUZJWQ?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Ben Shelton Jerome Kym - ATP Basilea 29/10/26 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZ2pvdkFsdHlveTk0dmhxVmJfUjRwNEFJY09lVmlxY0Q3b2wzZzJ5ako5eVFaMWI1YXZZR2dncGhJVDVmMGRfaEdoTVVfNmNMWk56MWwwOEs4cmJXS1dtYUFWYmdOdkM0b29XZWI3ckpFbzdNMnBteVJHLVJaeHM?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Ben Shelton vs Jerome Kym - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXdFelN4dnM4b2ozZ3hRU2JFaWg2TjllZzRTV3dObjlaR3ZYZVUzTF9GRzRFMDBYcUljT2dPZF9wNy12T3d5YmY3RXhBc1VINk1kcGlXVnNZQzVzeEdTOUtZdDZCN2N5MGwzN0NySzZnQzZzWk1jVnBMZ3hINkJfbGxvdWJvQQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "3b65bc657a2d7391944d9e343c189c52": {
+   "id": "3b65bc657a2d7391944d9e343c189c52",
+   "jugadores": [
+    "Flavio Cobolli",
+    "Matteo Berrettini"
+   ],
+   "inicio": "2026-10-29T19:00+00:00",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.625,
+   "elo_general": 0.632,
+   "elo_en_superficie": 0.617,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Flavio Cobolli",
+     "mercado": 0.5,
+     "elo": 1781,
+     "elo_superficie": 1723,
+     "forma": [
+      "P hard vs Adrian Mannarino",
+      "G hard vs Stan Wawrinka",
+      "G hard vs Brandon Nakashima",
+      "P hard vs Lorenzo Musetti",
+      "G hard vs Grigor Dimitrov"
+     ],
+     "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-10-27 contra Grigor Dimitrov, ganó 6-4 3-6 6-3",
+     "noticias": [
+      {
+       "titulo": "Flavio Cobolli vs Matteo Berrettini · Round 2 · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHp1SWlxSkJqYk9SQzBNSGdIOFJwRHJZU1p3enhPdVBlU2FfcHdNUXFmR0plX3NKRF8wZXZBRTF3cmJPUjVnSHBSZE5MZ09Zd0FfMzVSRlZJaVB6M3F3ckI4QktZMGE2N0xHR0tLOHVJek8wSDdoWDl3RW9welQxeW1oVm14TXYzOTdIVTVSZFVJZG5CUE1xcG1pZw?oc=5"
+      },
+      {
+       "titulo": "Flavio Cobolli vs Matteo Berrettini » Mejores Cuotas y Estadísticas - Odds Scanner",
+       "fuente": "Odds Scanner",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04aXBZOG1WWVN3Q1phRVFGdE1BbnBwT2E1TXZBbzUxSHRVbzV3aW1LZjNBS0dNNC1oTHFDZnZJbWFJa215Q0dXRjltZ2g5LVBMOUZXMHRtbXhWMXozM3dZNld1UFMzbF9JemQweVhxSXBsZTN3STlZ?oc=5"
+      },
+      {
+       "titulo": "Marcador en vivo y H2H de Flavio Cobolli Matteo Berrettini - Sofascore",
+       "fuente": "Sofascore",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVh3LXdYVkxwQWE1emFySVAzX2Z4NkxWRFU1SXFqSlExQW1wVHd3RUpqOVM0VDRqSElIb05PaFN1Q2lVMVhwSlJqX3NXN1J5NFFpWmItZ2VvOU0yVnc0ajhKV1NtbG5jb0xacFBsVFJ4cDFPaTM1d0d6cWVSVUV5bEptUzhkRlEwU2VybFl6cw?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Matteo Berrettini",
+     "mercado": 0.5,
+     "elo": 1687,
+     "elo_superficie": 1640,
+     "forma": [
+      "P hard vs Adolfo Daniel Vallejo",
+      "G hard vs Aleksandar Kovacevic",
+      "P hard vs Brandon Nakashima",
+      "P hard vs Kyrian Jacquet",
+      "G hard vs Tomas Martin Etcheverry"
+     ],
+     "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-26 contra Tomas Martin Etcheverry, ganó 6-3 6-4",
+     "noticias": [
+      {
+       "titulo": "Quién es Vanessa Bellini, la bailarina envuelta en el escándalo de Matteo Berrettini y Lorenzo Musetti - TN",
+       "fuente": "TN",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkhoVHJlbmgtOExCTW52anpRTFVMUWp1N3lSbGtIaDRJb1FlVl9YaHlvZVJkSE5IN0Y1UWFVQVhJMXlPR2VETmlXd1pDTXNra2VWNDJpaVg5blZuYUZXUmR2bmE1aUlFakNtZHQ0dTlDMmM2eXVsUW16UDQ2MGpMdl9MMnZ3ZDcwQVNNdkk1WHVWMWt2OGxBX0ltMXpvd2k2Z0ZDVjBvUlVRcEs2ZzVaUmp2UktZdDRsT01teWlpVnE4VXNyT0kyRW5VRVZTekZDTFFqeDRITEpxaGR1Z0Uw0gHzAUFVX3lxTE5Hcno2STZKWFUxcklsVVZ2QTFfYTVCWWhKUlh3SWRSTVFJdG9LSnE4c2RXSUdKV2NXakNqRDFEVzBtNjJXQUxFeXlBcTdHWUpPMDRXMzdTLW1wS0lsSGo0UlRud0NjcGV3LVFUZFRqN21XN250bmtCU0ZGSXpnaWRFNU9WdDZNay1MTklMVEpuVFpOYW1jYURWcHRnSmxwZXRXQ1dqSG8wSmxSdE90b1hvaU5BT21samdhVmt2bE9mTUpURGZLU09DZDhkbU0xbmstOGpqRThja21OU0pwQnNjQlo5UHh4ZWp1bnpkSW0zdWFMaw?oc=5"
+      },
+      {
+       "titulo": "Bautista, nueva baja en Wimbledon por covid - Telemadrid",
+       "fuente": "Telemadrid",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUNyUjBldEVSRGdvNS13X0hPdG9aanBQa2ZVRkRLUlNEVTIzaldXLVhVYzZ1WkZYdVJxX3g5U2NWSTZxVnpEWmxaRFVnaUFnVDVmcDZxS1pjQndybVFuY2NHRzFaVTkwRnduTGhsdXdBbTRFaFJtMDRLeC1xMlUtR3hZTVJfYmJmdWJNQ1pNVXdwNGFNRzhmVmNOWl9oNzTSAZ8BQVVfeXFMTVFDclIwZXRFUkRnbzUtd19IT3RvWmpwUGtmVUZES1JTRFUyM2pXVy1YVWM2dVpGWHVScV94OVNjVkk2cVZ6RFpsWkRVZ2lBZ1Q1ZnA2cUtaY0J3cm1RbmNjR0cxWlU5MEZ3bkxobHV3QW00RWhSbTA0S3gtcTJVLUd4WU1SX2JiZnViTUNaTVV3cDRhTUc4ZlZjTlpfaDc0?oc=5"
+      },
+      {
+       "titulo": "Bautista, nueva baja en Wimbledon por covid - Telemadrid",
+       "fuente": "Telemadrid",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVE5UEVCODZfVklvUERTUVJSWDYzUUxmSng1U05ZVkRTRjBQUlhVbDdNUmFsbm9NYTlsZzBYUUhkUDJRdGZFRlIxdkR0RjdVZmNVaGdyeUxtLUlfSENYM0xGelFoVm5Va0RWVjAwVjctcUlZd1VEVzJTSFA1SDJlWjNqeXo0Ul81WmRXWUZfanRxS3E0RkZiNjV30gGfAUFVX3lxTE1RQ3JSMGV0RVJEZ281LXdfSE90b1pqcFBrZlVGREtSU0RVMjNqV1ctWFVjNnVaRlh1UnFfeDlTY1ZJNnFWekRabFpEVWdpQWdUNWZwNnFLWmNCd3JtUW5jY0dHMVpVOTBGd25MaGx1d0FtNEVoUm0wNEt4LXEyVS1HeFlNUl9iYmZ1Yk1DWk1Vd3A0YU1HOGZWY05aX2g3NA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "d52af5cb645ef831c4dbab0bbaf48dac": {
+   "id": "d52af5cb645ef831c4dbab0bbaf48dac",
+   "jugadores": [
+    "Alexandra Eala",
+    "Diana Shnaider"
+   ],
+   "inicio": "2026-10-30T04:00+00:00",
+   "torneo": "WTA Pan Pacific Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.341,
+   "elo_general": 0.366,
+   "elo_en_superficie": 0.316,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexandra Eala",
+     "mercado": 0.424,
+     "elo": 1815,
+     "elo_superficie": 1766,
+     "forma": [
+      "P hard vs Shi Han",
+      "G hard vs Diane Parry",
+      "P hard vs Diana Shnaider",
+      "G hard vs Mika Stojsavljevic",
+      "G hard vs Talia Gibson"
+     ],
+     "cansancio": "2 partidos, 5 sets y 39 juegos en 3 días; el último el 2026-10-28 contra Talia Gibson, ganó 4-6 6-2 6-0",
+     "noticias": [
+      {
+       "titulo": "Alexandra Eala vs Diana Shnaider · Quarterfinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
+      },
+      {
+       "titulo": "Alexandra Eala vs Talia Gibson · Round 2 · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtvSzMzSm8yZS1oQ3FCRFhVX0xBanFiOHNvYW94b0xfUk1WQTNtemRXQVIzVml2bS1ZRVFHNWctUjQtVjhlc0dLU051alFEWDYtRWlQVF91N25mVkpOcUVTVkI2VlNmc0ZCWk90bnZmcmtwWVE0Tk9uUnl6MHZzeWhncjdJRHp2X2hjb0N4V1FxZENpOHJ6QVFfdHYzMUhJZlhkRg?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Diana Shnaider",
+     "mercado": 0.576,
+     "elo": 1910,
+     "elo_superficie": 1900,
+     "forma": [
+      "G hard vs Yulia Putintseva",
+      "G hard vs Alexandra Eala",
+      "G hard vs Iva Jovic",
+      "P hard vs Elena Rybakina",
+      "G hard vs Aliaksandra Sasnovich"
+     ],
+     "cansancio": "1 partidos, 3 sets y 30 juegos en 3 días; el último el 2026-10-28 contra Aliaksandra Sasnovich, ganó 6-3 5-7 6-3 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "Alexandra Eala vs Diana Shnaider · Quarterfinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
+      },
+      {
+       "titulo": "Aliaksandra Sasnovich vs Diana Shnaider · Round 2 · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1Q4UER6M2FnMmF2bW9Yby1EODFZY2JPdFBrc3NwSFg4YVd1dnNyelBmck8tZjZXQnVNYUlud1Ayd0RZeG9JNXZqd21Tck5QdzlmTjVFMkRiMHhYQ19UTzd2UkxTS0tNNk5fcEtIdUxySS1Ob0NiMUNCVHFzX2JVcWRqN2d2UFdLVEliaTl1ekt3VG45WFV4cEFfVDdRY0FWMkZLakhIcU1fVjZVc0E?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "cc0834cac355e3a96bf64a85ce003e51": {
+   "id": "cc0834cac355e3a96bf64a85ce003e51",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Maya Joint"
+   ],
+   "inicio": "2026-10-30T04:00+00:00",
+   "torneo": "WTA Pan Pacific Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-29T14:10+00:00",
+   "elo": 0.427,
+   "elo_general": 0.432,
+   "elo_en_superficie": 0.422,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Kamilla Rakhimova",
+     "mercado": 0.454,
+     "elo": 1692,
+     "elo_superficie": 1684,
+     "forma": [
+      "G hard vs Tatiana Prozorova",
+      "P hard vs Marie Bouzkova",
+      "G hard vs Shiho Tsujioka",
+      "P hard vs Aliaksandra Sasnovich",
+      "G hard vs Ekaterina Alexandrova"
+     ],
+     "cansancio": "1 partidos, 3 sets y 33 juegos en 3 días; el último el 2026-10-28 contra Ekaterina Alexandrova, ganó 6-4 4-6 7-6 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "Kamilla Rakhimova vs Maya Joint · Quarterfinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnpTYjNSaWVXbnNDTjZ5VmRZU2lVTEt6cXFBcG4yNzlZZEdibkhoT2pUS1RxSHlyUm4yYUliRlBvcUlmX1hOTWVTeUlGY1psanBFUmoxLU11SGZ1T2hTNUp6cUJPejluN2cwMXozYVFSNUw2d3hKWi1mQjlRNWF0UFVwcGNpNDEtZ3BJeXc5STl2bFhrX3pwTGMyazEycW56NmRPTW10Z3ozZw?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Kamilla Rakhimova vs Maya Joint - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1htczNKc3RMLU5KMU1MR3hhbEMzRXpHeFdUQ1l6dEUyZDNyckppWDlqVEpfc0lUUjh1djIxVHVfc3VQdHVDNWhoUjZ6TkxKOERjRzBPV0dDN3Fjd0wzWGw5aEhlTWtKRnRkWTQ5dlNoTkhPN29YYU9rVTVjTjVWTnpnanR6YmRjYkE?oc=5"
+      },
+      {
+       "titulo": "Ellas son las clasificadas a cuartos de final WTA 500 de Tokio - El Horizonte",
+       "fuente": "El Horizonte",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX252QUJXWXRhWEFQS0kzVXpqTTQ1VXYxTERJVC04NmFvMG5XYkNYUkUwVFN3MElHcU5EVUxqVmdQblFTdjNDMjBwbktjS29RM2NMc0syR1JQY29WS3FIcXhzb0oyQk1DZGRFWHBBWmczMHNTV04yLWZ1S0NzYTlnOHlhTzlrWGQ0aUxFWXJrelp3a1NOQ1JIY21ZZXBWcmVqM1VmN1V4ekw2cWstbGc?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Maya Joint",
+     "mercado": 0.546,
+     "elo": 1740,
+     "elo_superficie": 1738,
+     "forma": [
+      "P hard vs Zeynep Sonmez",
+      "G hard vs Viktorija Golubic",
+      "G hard vs Mai Hontama",
+      "G hard vs Sorana Cirstea",
+      "G hard vs Cristina Bucsa"
+     ],
+     "cansancio": "2 partidos, 5 sets y 47 juegos en 3 días; el último el 2026-10-28 contra Cristina Bucsa, ganó 6-1 2-6 6-4",
+     "noticias": [
+      {
+       "titulo": "Kamilla Rakhimova vs Maya Joint · Quarterfinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnpTYjNSaWVXbnNDTjZ5VmRZU2lVTEt6cXFBcG4yNzlZZEdibkhoT2pUS1RxSHlyUm4yYUliRlBvcUlmX1hOTWVTeUlGY1psanBFUmoxLU11SGZ1T2hTNUp6cUJPejluN2cwMXozYVFSNUw2d3hKWi1mQjlRNWF0UFVwcGNpNDEtZ3BJeXc5STl2bFhrX3pwTGMyazEycW56NmRPTW10Z3ozZw?oc=5"
+      },
+      {
+       "titulo": "Perez / Schuurs vs Hunter / Joint · Quarterfinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXY2c3ZBMDZNMjlZQzRSQ25weHlTem14elFFUnVwejY4VUtsWHN1VGNkd25kcGpKU1g1SFhyUnYyVzBBOVlVOHhFUzl4allJbUxEcmlETzUwb2VwUnpsYzNuWGhCMlR5NDFmOW1DTVZFQ3daOEV3eEtUaVNESzBYdkkyOHBCWmo3Sk5oQzg0VmFOYW56d193bGtGZFFLenE1WUN0Uzh5OFpYcmVTdnFHMkEzUUkzY2FuaTRGVjNn?oc=5"
+      },
+      {
+       "titulo": "Joint upsets Cirstea in Tokyo for second time in 2026 - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekx0MEs3UkhTcVpUN2s0cFkwLWlBaWY2a244VXhvdTBlWUY5QzhxQUpyTGR3RTdqOTk5Zzhyem1NRjVwX2tJb25WR056TFZBNWg1SWZBVGEydE9pTE9ZTjRjYkdFcGxkM3JJTW5HQWhnWl9XOFl5c2VpSTNRVzZRaE03X0dCcFpuTUxkN3ZvNktmTHJUQjdBeFVB?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "sala_aciertos": {
+  "favorito": [
+   0,
+   0
+  ],
+  "sorpresa": [
+   0,
+   0
+  ]
+ }
 }
