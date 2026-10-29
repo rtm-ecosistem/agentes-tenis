@@ -15,8 +15,8 @@ import calendar
 import shutil
 from datetime import datetime, timedelta
 
-from agentes import aprendizaje, avisos as avisos_mod, boletos, comun, config, cuotas, elo as elo_mod, ia as ia_mod, \
-    noticias, oficina, prompts, resultados, sala, web
+from agentes import aprendizaje, avisos as avisos_mod, boletos, comun, config, cuotas, elo as elo_mod, emociones, \
+    ia as ia_mod, noticias, oficina, prompts, resultados, sala, web
 
 ESPECIALISTAS = ("estadistico", "reportero", "superficies")
 
@@ -62,6 +62,7 @@ def en_ahorro(estado: dict, momento: datetime) -> bool:
 def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, cartelera: list[dict], extra: str,
                 sala_txt: str, ia, momento: datetime) -> tuple[dict, list[dict], list[dict]]:
     mercados = config.BOTES[bote_id]["mercados"]
+    emocion = emociones.actualizar(agente, estado, apuestas, momento)["emocion"]
     texto, mapa = prompts.codificar(cartelera, mercados)
     if not mapa:
         return {"resumen": "Hoy no hay partidos con cuotas: no apuesto."}, [], []
@@ -75,6 +76,7 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
     for b in nuevos:
         b["casa"] = estado.get("casa")
         b["temporada"] = estado["temporada"]["nombre"]
+        b["emocion"] = emocion
     boletos.apuntar(agente, apuestas, nuevos)
     descarte = None
     codigo = str(r.get("descarte_seleccion") or "").strip()
@@ -86,7 +88,8 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
     oficina.guardar_informe(agente, {
         "fecha": fecha, "hora": comun.iso(momento), "bote": bote_id, "resumen": str(r.get("resumen", "")).strip(),
         "informe": {k: str(v).strip() for k, v in (r.get("informe") or {}).items()},
-        "descarte": str(r.get("descarte", "") or "").strip(), "descarte_opcion": descarte, "apuestas": [b["id"] for b in nuevos], "rechazos": rechazos})
+        "descarte": str(r.get("descarte", "") or "").strip(), "descarte_opcion": descarte, "apuestas": [b["id"] for b in nuevos], "rechazos": rechazos,
+        "emocion": emocion, "animo": str(r.get("animo", "") or "").strip()[:300]})
     print(f"{agente['nombre']} (bote {bote_id}): {len(nuevos)} apuestas" + (f"; rechazadas: {rechazos}" if rechazos else ""))
     return r, propuestas, nuevos
 
@@ -132,6 +135,7 @@ def decision(forzar: bool = False, momento: datetime | None = None, api=None, ia
         print("Hoy ya se decidió o aún no son las 9:00 en España: nada que hacer.")
         return
     estado["ultima_decision"] = hoy
+    estado.setdefault("emociones_desde", comun.iso(momento))
     api = api or cuotas.OddsAPI()
     ia = ia or ia_mod.crear_ia(prisa=True)
     avisos = avisos or avisos_mod.GitHub()
@@ -356,7 +360,12 @@ def cierre(momento: datetime | None = None, api=None, ia=None, avisos=None) -> N
         n = guardar_cierres(estado, apuestas, api, momento)
         if n:
             print(f"Cuota de cierre de Pinnacle guardada en {n} apuestas")
+    pendientes_antes = {a["id"] for a in apuestas if a["estado"] == "pendiente"}
     n = liquidar_pendientes(estado, apuestas, api, momento)
+    for agente in oficina.activos(estado):
+        emociones.por_liquidadas(agente, [a for a in apuestas if a["agente"] == agente["id"] and a["id"] in pendientes_antes
+                                          and a["estado"] != "pendiente"], momento)
+        emociones.actualizar(agente, estado, apuestas, momento)
     resultados.rellenar(momento)
     elo_mod.actualizar()
     if n:

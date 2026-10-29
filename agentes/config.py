@@ -61,6 +61,10 @@ EXCLUIR_TORNEOS = ("challenger", "itf", "125", "doubles", "dobles", "utr", "exhi
 HORA_DECISION = 9
 HORAS_SALA = (8, 14, 20)
 
+# --- Emociones -------------------------------------------------------------------------------------------
+# Con 0 los analistas dejan de leer su ánimo antes de decidir (se sigue calculando y guardando para comparar)
+EMOCIONES_EN_DECISION = os.environ.get("EMOCIONES_EN_DECISION", "1").strip() != "0"
+
 # --- IA -------------------------------------------------------------------------------------------------
 PROVEEDOR_IA = os.environ.get("PROVEEDOR_IA", "gemini").strip() or "gemini"
 MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-3.8-flash").strip() or "gemini-3.8-flash"
