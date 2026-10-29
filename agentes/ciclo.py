@@ -76,10 +76,17 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
         b["casa"] = estado.get("casa")
         b["temporada"] = estado["temporada"]["nombre"]
     boletos.apuntar(agente, apuestas, nuevos)
+    descarte = None
+    codigo = str(r.get("descarte_seleccion") or "").strip()
+    if codigo in mapa:
+        opciones = {o["id"]: (p, o) for p in cartelera for o in p["opciones"]}
+        p, o = opciones[mapa[codigo]]
+        descarte = {"partido": p["id"], "jugadores": p["jugadores"], "inicio": p["inicio"], "mercado": o["mercado"],
+                    "seleccion": o["nombre"], "punto": o["punto"], "cuota": o["cuota"], "descripcion": cuotas.descripcion(o)}
     oficina.guardar_informe(agente, {
         "fecha": fecha, "hora": comun.iso(momento), "bote": bote_id, "resumen": str(r.get("resumen", "")).strip(),
         "informe": {k: str(v).strip() for k, v in (r.get("informe") or {}).items()},
-        "descarte": str(r.get("descarte", "") or "").strip(), "apuestas": [b["id"] for b in nuevos], "rechazos": rechazos})
+        "descarte": str(r.get("descarte", "") or "").strip(), "descarte_opcion": descarte, "apuestas": [b["id"] for b in nuevos], "rechazos": rechazos})
     print(f"{agente['nombre']} (bote {bote_id}): {len(nuevos)} apuestas" + (f"; rechazadas: {rechazos}" if rechazos else ""))
     return r, propuestas, nuevos
 
@@ -137,6 +144,7 @@ def decision(forzar: bool = False, momento: datetime | None = None, api=None, ia
         mercados = ["h2h"]
     cartelera = cuotas.cartelera(api, estado, mercados, momento)
     anotar_creditos(estado, api, momento, avisos)
+    aprendizaje.apuntar_tonta(estado, cartelera, momento)
     comun.guardar(config.CARTELERA, {"actualizado": comun.iso(momento), "casa": estado.get("casa"), "partidos": cartelera})
     oficina.anotar(estado, momento, f"🎾 Cartelera: {len(cartelera)} partidos en las próximas 24 horas "
                                     f"(casa: {config.NOMBRES_CASA.get(estado.get('casa'), estado.get('casa'))}).")
@@ -174,8 +182,11 @@ def tarea_sala(momento: datetime | None = None, ia=None, forzar: bool = False) -
     datos_noticias = noticias.recoger(sorted({j for p in cartelera for j in p["jugadores"]}))
     if cartelera:
         sala.escribir(estado, cartelera, comun.leer(config.ELO, {}), datos_noticias, ia, momento)
+    if hora.hour >= config.HORAS_SALA[-1]:
+        oficina.lecciones(estado, apuestas, ia, momento)
     if hora.weekday() == 6 and hora.hour >= 19:
         oficina.reflexiones(estado, apuestas, ia, momento)
+        oficina.ordenar_biblioteca(estado, apuestas, ia, momento)
     comun.guardar(config.ESTADO, estado)
     web.generar(estado, apuestas)
 
@@ -222,6 +233,8 @@ def liquidar_pendientes(estado: dict, apuestas: list[dict], api, momento: dateti
                 leidos.append(dia)
     resultados.guardar_historial(partidos, leidos)
     aprendizaje.puntuar_sala(estado, partidos, momento)
+    aprendizaje.puntuar_descartes(estado, partidos, momento)
+    aprendizaje.liquidar_tonta(estado, partidos, momento)
     liquidadas, consultados = 0, {}
     for a in pendientes:
         r = resultados.buscar(a, partidos)

@@ -234,7 +234,8 @@ Responde SOLO con un JSON con esta forma:
     "situacion": "Cómo ves tu puesto y qué vas a hacer al respecto (1-2 frases)."
   }},
   "apuestas": [{{"seleccion": "P03b", "confianza": 2, "probabilidad": 0.55, "motivo": "Por qué, con los datos."}}],
-  "descarte": "La mejor apuesta que has dejado pasar y por qué, en una frase (vacío si ninguna)."
+  "descarte": "La mejor apuesta que has dejado pasar y por qué, en una frase (vacío si ninguna).",
+  "descarte_seleccion": "El código de esa apuesta (por ejemplo P05a), o vacío."
 }}
 "probabilidad" es la que TÚ crees que tiene de salir (de 0 a 1). Si no apuestas, devuelve "apuestas": [].
 El informe completo debe tener unas 200-300 palabras."""
@@ -250,7 +251,8 @@ def esquema_analista(codigos: list[str]) -> dict:
         "apuestas": {"type": "ARRAY", "maxItems": 10, "items": {"type": "OBJECT", "properties": {
             "seleccion": seleccion, "confianza": {"type": "INTEGER"},
             "probabilidad": {"type": "NUMBER"}, "motivo": texto}, "required": ["seleccion", "confianza", "motivo"]}},
-        "descarte": texto}, "required": ["resumen", "informe", "apuestas"]}
+        "descarte": texto, "descarte_seleccion": {"type": "STRING", **({"enum": sorted(codigos) + [""]} if codigos else {})}},
+        "required": ["resumen", "informe", "apuestas"]}
 
 
 def instrucciones(agente: dict) -> str:
@@ -314,6 +316,12 @@ TUS APUESTAS PENDIENTES
 TUS REGLAS
 {aprendizaje.texto_reglas(agente)}
 
+TUS ÚLTIMAS LECCIONES (las escribes cada noche sobre las apuestas del día)
+{aprendizaje.texto_lecciones(agente)}
+
+LO QUE DEJASTE PASAR
+{aprendizaje.texto_descartes(agente)}
+
 DÓNDE GANAS Y DÓNDE PIERDES (todas tus apuestas liquidadas)
 {aprendizaje.texto_desglose(todas)}
 
@@ -345,6 +353,9 @@ CLASIFICACIÓN DE LA OFICINA
 {clasificacion(estado, apuestas)}
 
 {memoria(agente, apuestas)}
+{aprendizaje.texto_tonta(estado, agente, apuestas)}
+
+{aprendizaje.texto_biblioteca(estado)}
 {cartas_oficina(estado)}
 
 CARTELERA (próximas 24 horas: código, apuesta, cuota de la casa y cuota de Pinnacle)
@@ -368,6 +379,47 @@ def texto_especialistas(informes: list[tuple[dict, dict, list[dict]]], apuestas:
                         aprendizaje.texto_desglose([a for a in apuestas if a["agente"] == agente["id"]]).replace("\n", "\n   ")
                         if apuestas is not None else ""))
     return "LO QUE PROPONEN HOY LOS TRES ESPECIALISTAS\n" + ("\n\n".join(bloques) or "(nadie ha podido decidir hoy)")
+
+
+# --- Lección de cada día y biblioteca ---------------------------------------------------------------------
+INSTRUCCIONES_LECCION = """Eres {nombre}, {titulo} de una oficina de apuestas de tenis (dinero ficticio). Es de noche y repasas
+las apuestas tuyas que se han resuelto hoy. Escribe UNA lección concreta y útil para mañana, en primera persona, citando
+el dato que la apoya (cuota, cierre de Pinnacle, resultado). Si todo salió como esperabas, di qué hay que mantener.
+Responde SOLO con un JSON: {{"leccion": "1-2 frases."}}"""
+
+
+def mensaje_leccion(agente: dict, hoy: list[dict]) -> str:
+    lista = "\n".join(f"- {a['descripcion']} @ {a['cuota']:.2f} (Pinnacle al apostar {a.get('pinnacle_apuesta') or '-'}, "
+                      f"cierre {a.get('pinnacle_cierre') or '-'}; tu probabilidad {_pct(a.get('probabilidad'))}): "
+                      f"{a['estado']}, {a['ganancia']:+.2f} €. {a.get('resultado') or ''}. Tu motivo: {a.get('motivo', '')[:160]}"
+                      for a in hoy)
+    return f"""Tu método: {agente['como_decide']}
+Tus reglas:
+{aprendizaje.texto_reglas(agente)}
+Tus apuestas resueltas hoy:
+{lista}
+Tus lecciones anteriores:
+{aprendizaje.texto_lecciones(agente)}"""
+
+
+INSTRUCCIONES_BIBLIOTECA = """Eres {nombre}, la Manager de una oficina de apuestas de tenis (dinero ficticio). Cada domingo
+ordenas la biblioteca de la oficina: como mucho 10 aprendizajes cortos que todos leen antes de apostar. Quédate con
+los que los datos respaldan, quita los repetidos o los que han dejado de funcionar y añade lo mejor de esta semana.
+Responde SOLO con un JSON: {{"biblioteca": [{{"texto": "Una frase concreta.", "autor": "Nombre de quien lo aprendió", "fecha": "AAAA-MM-DD"}}]}}"""
+
+
+def mensaje_biblioteca(estado: dict, apuestas: list[dict]) -> str:
+    actual = "\n".join(f"- {e['texto']} ({e['autor']}, {e['fecha']})" for e in estado.get("biblioteca", [])) or "- (vacía)"
+    semana = []
+    for a in estado["agentes"]:
+        if a["estado"] != "activo":
+            continue
+        r = boletos.resumen([x for x in apuestas if x["agente"] == a["id"]])
+        semana.append(f"{a['nombre']} ({a['titulo']}; {r['apuestas']} apuestas, rendimiento {r['yield']:+.1%}, bate el cierre en "
+                      f"{_pct(r['pct_cierre'])}):\n  Reglas: " + "; ".join(x["texto"] for x in a.get("reglas", [])) +
+                      "\n  Lecciones: " + " | ".join(x["texto"] for x in a.get("lecciones", [])[-5:]) +
+                      ("\n  Reflexión: " + a["reflexiones"][-1]["texto"] if a.get("reflexiones") else ""))
+    return f"BIBLIOTECA ACTUAL\n{actual}\n\nLO DE ESTA SEMANA\n" + "\n".join(semana) + "\n\n" + cartas_oficina(estado, 3)
 
 
 # --- Vida: reflexión semanal, carta de despedida y sustituto ------------------------------------------

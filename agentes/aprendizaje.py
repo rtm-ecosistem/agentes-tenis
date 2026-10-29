@@ -5,9 +5,11 @@ from __future__ import annotations
 
 from datetime import datetime
 
-from agentes import boletos, comun, resultados
+from agentes import boletos, comun, config, resultados
 
 MAX_REGLAS = 3
+MAX_LECCIONES = 10
+MAX_BIBLIOTECA = 10
 TRAMOS_CUOTA = ((0, 1.6, "cuotas bajas (< 1.60)"), (1.6, 2.2, "cuotas medias (1.60-2.19)"),
                 (2.2, 99, "cuotas altas (≥ 2.20)"))
 TRAMOS_PROB = ((0, .4), (.4, .5), (.5, .6), (.6, .7), (.7, 1.01))
@@ -140,3 +142,138 @@ def texto_sala_aciertos(estado: dict) -> str:
     partes = [f"cuando dijisteis «{v}» acertasteis {m[v][0]} de {m[v][1]} ({m[v][0] / m[v][1]:.0%})"
               for v in ("favorito", "sorpresa") if m[v][1]]
     return "VUESTRO HISTORIAL: " + "; ".join(partes) + ". Tenedlo en cuenta antes de ir contra el favorito."
+
+
+# --- Lo que dejaron pasar -------------------------------------------------------------------------------
+def puntuar_descartes(estado: dict, partidos: list[dict], momento: datetime) -> int:
+    """Comprueba si la mejor apuesta que cada analista dejó pasar habría ganado (a 1 unidad, a su cuota)."""
+    n = 0
+    for agente in estado["agentes"]:
+        cuenta = agente.setdefault("descartes", {"ganadas": 0, "perdidas": 0, "nulas": 0, "unidades": 0.0})
+        for inf in agente.get("informes", []):
+            d = inf.get("descarte_opcion")
+            if not d or "puntos" in d or comun.fecha_hora(d["inicio"]) > momento:
+                continue
+            r = resultados.buscar({"jugadores": d["jugadores"], "inicio": d["inicio"], "partido": d["partido"]}, partidos)
+            if r is None:
+                continue
+            puntos = boletos.puntuar(d, r)
+            if puntos is None:
+                continue
+            d["puntos"] = puntos
+            clave = "ganadas" if puntos > 0 else "perdidas" if puntos < 0 else "nulas"
+            cuenta[clave] += 1
+            cuenta["unidades"] = round(cuenta["unidades"] + (puntos * (d["cuota"] - 1) if puntos > 0 else puntos), 3)
+            n += 1
+    return n
+
+
+def texto_descartes(agente: dict) -> str:
+    c = agente.get("descartes") or {}
+    total = c.get("ganadas", 0) + c.get("perdidas", 0)
+    if not total:
+        return "(todavía no se ha jugado ninguno de tus descartes)"
+    consejo = ("dejas pasar apuestas buenas: quizá eres demasiado prudente" if c["unidades"] > 0 else
+               "haces bien en descartarlas")
+    return (f"La mejor apuesta que dejaste pasar cada día habría ganado {c['ganadas']} de {total} veces "
+            f"({c['unidades']:+.2f} unidades apostando 1 cada vez): {consejo}.")
+
+
+# --- Lección de cada día ----------------------------------------------------------------------------------
+def guardar_leccion(agente: dict, texto: str, fecha: str, apuestas: int) -> None:
+    texto = str(texto or "").strip()[:400]
+    if texto:
+        agente["lecciones"] = (agente.get("lecciones", []) + [{"fecha": fecha, "texto": texto, "apuestas": apuestas}])[-MAX_LECCIONES:]
+
+
+def texto_lecciones(agente: dict, maximo: int = 3) -> str:
+    return "\n".join(f"- {x['fecha']}: {x['texto']}" for x in agente.get("lecciones", [])[-maximo:]) or "(ninguna todavía)"
+
+
+# --- Biblioteca común -------------------------------------------------------------------------------------
+def poner_biblioteca(estado: dict, entradas: list, fecha: str) -> None:
+    autores = {a["nombre"] for a in estado["agentes"]}
+    nuevas = []
+    for e in entradas:
+        if isinstance(e, dict) and str(e.get("texto", "")).strip():
+            autor = str(e.get("autor", "")).strip()
+            nuevas.append({"texto": str(e["texto"]).strip()[:300], "autor": autor if autor in autores else "La oficina",
+                           "fecha": str(e.get("fecha") or fecha)[:10]})
+    if nuevas:
+        estado["biblioteca"] = nuevas[:MAX_BIBLIOTECA]
+
+
+def anadir_biblioteca(estado: dict, texto: str, autor: str, fecha: str) -> None:
+    if texto:
+        estado["biblioteca"] = (estado.get("biblioteca", []) + [{"texto": texto[:300], "autor": autor, "fecha": fecha}])[-MAX_BIBLIOTECA:]
+
+
+def texto_biblioteca(estado: dict) -> str:
+    b = estado.get("biblioteca", [])
+    if not b:
+        return ""
+    return "BIBLIOTECA DE LA OFICINA (lo mejor que ha aprendido la oficina; tenlo presente)\n" + "\n".join(
+        f"- {e['texto']} ({e['autor']}, {e['fecha']})" for e in b)
+
+
+# --- La estrategia tonta ------------------------------------------------------------------------------------
+def apuntar_tonta(estado: dict, cartelera: list[dict], momento: datetime) -> int:
+    """Apunta una apuesta de 1 unidad al favorito de Pinnacle en cada partido de la cartelera, a la cuota de la casa."""
+    t = estado.setdefault("tonta", {"apuestas": 0, "ganadas": 0, "unidades": 0.0, "pendientes": []})
+    ya = {x["partido"] for x in t["pendientes"]} | set(t.get("vistos", []))
+    n = 0
+    for p in cartelera:
+        fav = favorito(p)
+        op = next((o for o in p["opciones"] if o["mercado"] == "h2h" and o["nombre"] == fav), None)
+        if not fav or not op or p["id"] in ya or comun.fecha_hora(p["inicio"]) <= momento:
+            continue
+        t["pendientes"].append({"partido": p["id"], "jugadores": p["jugadores"], "inicio": p["inicio"], "mercado": "h2h",
+                                "seleccion": fav, "punto": None, "cuota": op["cuota"]})
+        n += 1
+    return n
+
+
+def liquidar_tonta(estado: dict, partidos: list[dict], momento: datetime) -> int:
+    t = estado.get("tonta")
+    if not t:
+        return 0
+    quedan, n = [], 0
+    for x in t["pendientes"]:
+        r = resultados.buscar(x, partidos) if comun.fecha_hora(x["inicio"]) < momento else None
+        puntos = boletos.puntuar(x, r) if r else None
+        if puntos is None:
+            # Sin resultado en 4 días se olvida
+            if (momento - comun.fecha_hora(x["inicio"])).days < 4:
+                quedan.append(x)
+            continue
+        t["vistos"] = (t.get("vistos", []) + [x["partido"]])[-400:]
+        if puntos == 0:
+            continue
+        t["apuestas"] += 1
+        t["ganadas"] += int(puntos > 0)
+        t["unidades"] = round(t["unidades"] + (x["cuota"] - 1 if puntos > 0 else -1), 3)
+        n += 1
+    t["pendientes"] = quedan
+    return n
+
+
+def resumen_tonta(estado: dict) -> dict | None:
+    t = estado.get("tonta")
+    if not t or not t["apuestas"]:
+        return None
+    return {"apuestas": t["apuestas"], "aciertos": t["ganadas"] / t["apuestas"], "yield": t["unidades"] / t["apuestas"]}
+
+
+def texto_tonta(estado: dict, agente: dict | None = None, apuestas: list[dict] | None = None) -> str:
+    r = resumen_tonta(estado)
+    if not r:
+        return ""
+    texto = (f"LA ESTRATEGIA TONTA (apostar siempre lo mismo al favorito de Pinnacle en todos los partidos): "
+             f"{r['apuestas']} apuestas, acierta el {r['aciertos']:.0%} y su rendimiento es {r['yield']:+.1%}.")
+    if agente is not None and apuestas is not None:
+        mio = boletos.resumen([a for a in apuestas if a["agente"] == agente["id"]])
+        if mio["apuestas"]:
+            mejor = mio["yield"] > r["yield"]
+            texto += (f" El tuyo es {mio['yield']:+.1%}: " + ("le ganas, tu método aporta algo." if mejor else
+                      "NO le ganas: tu método todavía no aporta nada frente a apostar al favorito."))
+    return texto

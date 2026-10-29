@@ -1,7 +1,7 @@
 from datetime import timedelta
 
 from agentes import aprendizaje, comun, oficina, prompts
-from tests.conftest import AHORA, FakeIA
+from tests.conftest import AHORA, FakeAPI, FakeAvisos, FakeIA
 from tests.test_ciclo import decidir
 
 
@@ -109,3 +109,65 @@ def test_la_ficha_del_partido_guarda_sus_datos_siete_dias():
     from agentes import sala
     sala.guardar_analisis(estado, [], {}, {}, AHORA)
     assert "viejo" not in estado["partidos_info"] and "e1" in estado["partidos_info"]
+
+
+class IALecciones(FakeIA):
+    def pedir_json(self, instrucciones, mensaje, esquema=None):
+        self.mensajes.append((instrucciones, mensaje))
+        if "repasas" in instrucciones:
+            return {"leccion": "Los totales en pista rápida se me escapan."}
+        if "biblioteca" in instrucciones:
+            return {"biblioteca": [{"texto": "Sin ventaja sobre Pinnacle no hay apuesta.", "autor": "Óscar", "fecha": "2026-10-25"},
+                                   {"texto": "x", "autor": "Desconocido"}]}
+        return super().pedir_json(instrucciones, mensaje, esquema)
+
+
+def test_leccion_diaria_y_biblioteca():
+    estado = oficina.estado_inicial(AHORA)
+    ap = {**apuesta("perdida", ganancia=-10.0), "liquidada": comun.iso(AHORA - timedelta(hours=3)), "descripcion": "Over 22.5",
+          "motivo": "m", "resultado": "Ganó A"}
+    ia = IALecciones()
+    assert oficina.lecciones(estado, [ap], ia, AHORA) == 1
+    assert oficina.lecciones(estado, [ap], ia, AHORA) == 0  # una al día
+    oscar = estado["agentes"][0]
+    assert oscar["lecciones"][-1]["texto"].startswith("Los totales")
+    assert "Los totales" in prompts.memoria(oscar, [])
+    oficina.ordenar_biblioteca(estado, [ap], ia, AHORA)
+    assert [e["autor"] for e in estado["biblioteca"]] == ["Óscar", "La oficina"]
+    assert "BIBLIOTECA DE LA OFICINA" in aprendizaje.texto_biblioteca(estado)
+
+
+def test_descartes_y_estrategia_tonta():
+    ia, estado, _ = decidir({})
+    # La estrategia tonta apunta al favorito de Pinnacle de cada partido
+    assert [x["seleccion"] for x in estado["tonta"]["pendientes"]] == ["Carlos Alcaraz", "Jannik Sinner"]
+    oscar = estado["agentes"][0]
+    oscar["informes"][-1]["descarte_opcion"] = {"partido": "e1", "jugadores": ["Carlos Alcaraz", "Alex de Minaur"],
+                                                "inicio": comun.iso(AHORA + timedelta(hours=4)), "mercado": "h2h",
+                                                "seleccion": "Alex de Minaur", "punto": None, "cuota": 2.05}
+    luego = AHORA + timedelta(hours=12)
+    partidos = [{"jugadores": ["Carlos Alcaraz", "Alex de Minaur"], "ganador": 1, "completo": True, "sets": [[4, 6], [4, 6]],
+                 "fecha": AHORA.date().isoformat()},
+                {"jugadores": ["Jannik Sinner", "Casper Ruud"], "ganador": 0, "completo": True, "sets": [[6, 1], [6, 1]],
+                 "fecha": AHORA.date().isoformat()}]
+    assert aprendizaje.puntuar_descartes(estado, partidos, luego) == 1
+    assert oscar["descartes"]["ganadas"] == 1 and oscar["descartes"]["unidades"] == 1.05
+    assert "habría ganado 1 de 1" in aprendizaje.texto_descartes(oscar)
+    assert aprendizaje.liquidar_tonta(estado, partidos, luego) == 2
+    t = aprendizaje.resumen_tonta(estado)
+    assert t["apuestas"] == 2 and t["aciertos"] == 0.5 and abs(t["yield"] - (0.3 - 1) / 2) < 1e-9
+    assert "ESTRATEGIA TONTA" in aprendizaje.texto_tonta(estado)
+    assert not estado["tonta"]["pendientes"]
+
+
+def test_el_descarte_se_guarda_con_su_codigo():
+    class IADescarte(FakeIA):
+        def pedir_json(self, instrucciones, mensaje, esquema=None):
+            r = super().pedir_json(instrucciones, mensaje, esquema)
+            if instrucciones.startswith("Eres Óscar,"):
+                r = {**r, "descarte": "De Minaur", "descarte_seleccion": "P01b"}
+            return r
+    from agentes import ciclo, config
+    ciclo.decision(momento=AHORA, api=FakeAPI(), ia=IADescarte({"Óscar": []}), avisos=FakeAvisos())
+    oscar = comun.leer(config.ESTADO, None)["agentes"][0]
+    assert oscar["informes"][-1]["descarte_opcion"]["seleccion"] == "Alex de Minaur"
