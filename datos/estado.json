@@ -18,7 +18,7 @@
    "alta": "2026-10-28T18:10+00:00",
    "botes": {
     "1": {
-     "saldo": 1000.0,
+     "saldo": 970.0,
      "inicial": 1000.0,
      "maximo": 1000.0
     }
@@ -43,6 +43,25 @@
      },
      "descarte": "P10b (Daniil Medvedev gana @ 1.20) descartado porque la cuota ofrece un margen insuficiente frente a la probabilidad real estimada.",
      "apuestas": [],
+     "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Apostamos por la ventaja matemática detectada en el partido de Ben Shelton en Basilea y Flavio Cobolli en Viena.",
+     "informe": {
+      "jornada": "La jornada presenta varios encuentros muy decantados por el Elo en pista dura, donde el modelo encuentra valor principalmente en duelos específicos. El cruce entre Ben Shelton y Jerome Kym ofrece una probabilidad estimada del 88% para Shelton frente a una cuota de 1.30 que supera con margen nuestro cálculo matemático. Del mismo modo, el enfrentamiento entre Flavio Cobolli y Matteo Berrettini muestra divergencias interesantes frente a la igualdad que fija el mercado.",
+      "a_favor": "El modelo de Elo por superficie respalda con solidez el rendimiento de Ben Shelton en pistas duras con un 90% de efectividad en su métrica particular, lo que unido a su superioridad general justifica la entrada. En el caso de Flavio Cobolli, nuestro cálculo le otorga un 63% de probabilidades frente al 50% implícito que ofrecen las cuotas de 1.91, creando un margen de valor evidente.",
+      "en_contra": "Podría argumentarse que las cuotas de los favoritos como Shelton ya están muy ajustadas y dejan poco margen al error, o que el duelo entre Cobolli y Berrettini es excesivamente imprevisible por el nivel de saque de Berrettini. Sin embargo, cuando la cuota multiplicada por la probabilidad supera holgadamente la unidad con el margen requerido, la disciplina estadística exige ejecutar la orden sin atender a corazonadas.",
+      "riesgos": "El principal riesgo radica en una mala racha de aciertos en los partidos nivelados o que la fatiga acumulada en esta fase de la temporada afecte el rendimiento de los tenistas en pista rápida.",
+      "situacion": "Comenzamos el periodo con el bote intacto en 1000.00 € y cero apuestas liquidadas, manteniendo una gestión del riesgo estricta sin superar nunca los límites permitidos de exposición."
+     },
+     "descarte": "Se descarta la victoria de Daniel Altmaier (P07a) a cuota 5.00 porque, aunque su Elo del 25% es ligeramente superior al 16% implícito del mercado, la diferencia absoluta no compensa el riesgo del perfil.",
+     "apuestas": [
+      "2026-10-29-estadistico-1-1-1-53d4ccf8",
+      "2026-10-29-estadistico-1-1-2-3b65bc65"
+     ],
      "rechazos": []
     }
    ],
@@ -87,6 +106,22 @@
       "situacion": "Mi puesto está totalmente inalterado con 0 apuestas y el bote intacto en 1000 euros; mi objetivo es mantener la cabeza fría, vigilar de cerca los movimientos de cierre y golpear solo cuando detecte verdadero valor."
      },
      "descarte": "P08b: Tallon Griekspoor gana a Zverev @ 5.50, porque aunque la cuota es alta, la diferencia de nivel en pista dura indoor es demasiado abrumadora.",
+     "apuestas": [],
+     "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Analizo la jornada del 29 de octubre de 2026 y decido no arriesgar capital al no encontrar diferencias claras ni valor suficiente respecto a la cuota de cierre de Pinnacle.",
+     "informe": {
+      "jornada": "La jornada en los torneos de Viena y Basilea presenta a claros favoritos como Alexander Zverev y Novak Djokovic con abrumadoras ventajas en las estadísticas de Elo en pista dura. Sin embargo, las cuotas ofrecidas por las casas de apuestas ya reflejan con extrema precisión esta superioridad teórica, dejando un margen de valor muy estrecho para nuestras apuestas. Por otro lado, duelos muy igualados como el de Flavio Cobolli frente a Matteo Berrettini ofrecen incertidumbre y sugieren mantenerse al margen.",
+      "a_favor": "El mejor argumento a favor de buscar alguna oportunidad en los favoritos es su inmensa solidez en superficies rápidas y la motivación de asegurar puntos de cara al tramo final de la temporada. Jugadores como Zverev y Alcaraz poseen un rendimiento histórico muy fiable en estas rondas previas de torneos ATP 500.",
+      "en_contra": "El principal argumento en contra es que las cuotas de la casa de apuestas están perfectamente alineadas o incluso ligeramente por debajo de las cotizaciones de referencia de Pinnacle, lo que destruye cualquier ventaja matemática a largo plazo. Apostar por inercia sin un margen de valor claro es la forma más rápida de perder el puesto en este experimento.",
+      "riesgos": "El mayor riesgo de la jornada es que se produzca alguna sorpresa por fatiga acumulada en los tenistas de la parte alta, o que un partido muy nivelado como el de Berrettini y Cobolli decida resolverse por pequeños detalles imprevisibles.",
+      "situacion": "Mi puesto se mantiene intacto con 0 apuestas realizadas y el bote completo en 1000.00 €, esperando pacientemente una oportunidad con valor real donde nuestras probabilidades estimadas superen las implícitas del mercado."
+     },
+     "descarte": "Descarto la victoria de Alexander Zverev ante Tallon Griekspoor porque la cuota de 1.22 no compensa el riesgo frente a la cuota de cierre de 1.27 de Pinnacle.",
      "apuestas": [],
      "rechazos": []
     }
@@ -134,6 +169,22 @@
      "descarte": "P01b: Learner Tien vs Alex de Minaur @ 1.95, descartado por falta de datos suficientes de rendimiento en esta superficie específica.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar suficiente valor de superficie que compense el riesgo, manteniendo la disciplina del especialista.",
+     "informe": {
+      "jornada": "La jornada en las pistas duras de Basilea y Viena presenta diferencias de Elo muy marcadas entre los favoritos y sus rivales. Los botes de los tenistas en superficies rápidas reflejan una clara jerarquía que el mercado ya ha descontado con precisión milimétrica. Como exentrenador, sé que un bote rápido y un bote lento exigen lecturas distintas, y hoy los números no muestran desajustes suficientes.",
+      "a_favor": "El mejor argumento a favor de entrar con cuotas bajas como las de Carlos Alcaraz o Ben Shelton es su aplastante superioridad en el Elo de pista dura y su constancia en superficies rápidas. Su adaptación al bote vivo y sin irregularidades garantiza un rendimiento muy estable que rara vez da sorpresas.",
+      "en_contra": "El mejor argumento en contra de abstenerse es que dejamos escapar oportunidades de sumar aciertos con favoritos muy sólidos, pero apostar sin un margen de valor claro en las cuotas es el camino más rápido al despido. Prefiero esperar a que el mercado desatienda las virtudes de un especialista en superficies concretas.",
+      "riesgos": "El principal riesgo de quedarse al margen es perderse una jornada tranquila donde los favoritos cumplan con solidez y nuestras métricas se queden sin validar frente a la cuota de cierre de Pinnacle.",
+      "situacion": "Mi puesto está intacto con el bote inicial de 1000 euros al no llevar apuestas liquidadas, y mantendré la paciencia analítica para cuando la superficie dicte una auténtica oportunidad de valor."
+     },
+     "descarte": "P03b: Tommy Paul gana a Luciano Darderi @ 1.25, porque aunque su dominio en dura es claro, la cuota no ofrece suficiente margen de valor según mi método.",
+     "apuestas": [],
+     "rechazos": []
     }
    ],
    "reflexiones": [],
@@ -177,6 +228,22 @@
       "situacion": "Mi puesto está intacto con 1.000 euros y cero apuestas liquidadas, y mantendré la disciplina de no arriesgar hasta encontrar una oportunidad clara."
      },
      "descarte": "",
+     "apuestas": [],
+     "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar un margen de valor claro frente a las cuotas de cierre de Pinnacle.",
+     "informe": {
+      "jornada": "La jornada en los torneos de Viena y Basilea presenta a claros favoritos como Alexander Zverev y Novak Djokovic con abrumadoras ventajas teóricas y estadísticas de Elo en pista dura. Sin embargo, las cuotas ofrecidas por las casas ya reflejan con suma precisión esta superioridad, dejando un margen de valor muy estrecho. Por otro lado, duelos nivelados como el de Flavio Cobolli frente a Matteo Berrettini ofrecen demasiada incertidumbre y aconsejan mantenerse al margen.",
+      "a_favor": "El principal argumento para no arriesgar es la estricta disciplina de esperar divergencias reales entre la cuota de la casa y la de Pinnacle. Apostar por inercia a cuotas muy bajas o en partidos igualados es la forma más rápida de erosionar el bote y poner en riesgo el puesto.",
+      "en_contra": "Podría argumentarse que dejamos escapar oportunidades de sumar aciertos con favoritos muy sólidos como Ben Shelton u Oskar, pero la prudencia exige que la probabilidad estimada supere con holgura la cuota ofrecida para justificar la inversión.",
+      "riesgos": "El riesgo de no apostar es nulo en términos de capital, aunque nos mantiene con cero apuestas liquidadas en el inicio de este periodo de evaluación de cara a las 100 requeridas.",
+      "situacion": "Mi puesto está intacto al no tener aún apuestas liquidadas, y mantendré la paciencia analítica hasta que los especialistas detecten una oportunidad con valor matemático real."
+     },
+     "descarte": "P11a (Ben Shelton gana @ 1.30) porque aunque el modelo de Óscar estima un 88% de probabilidad, el escaso margen de valor en una cuota tan baja no compensa el riesgo de la inversión.",
      "apuestas": [],
      "rechazos": []
     }
@@ -257,6 +324,32 @@
      "motivo": ""
     }
    ]
+  },
+  {
+   "hora": "2026-10-29T08:16+00:00",
+   "datos": "Los números muestran una gran superioridad teórica para los favoritos en varios duelos de la jornada, destacando el Elo en dura de Alexander Zverev con un 80% y Ben Shelton con un 90%. En enfrentamientos como el de Flavio Cobolli y Matteo Berrettini las probabilidades están muy niveladas con un 62% para Cobolli en pista dura y cuotas idénticas en las casas de apuestas. El mercado y las estadísticas coinciden en otorgar pocas opciones a jugadores como Nikoloz Basilashvili, cuyo Elo en superficie es de apenas el 16%.",
+   "noticias": "En el apartado físico, se destaca la retirada previa de Fearnley que clasificó a Arthur Fery en Viena, mientras que otros jugadores como Daniil Medvedev y Carlos Alcaraz buscan mantener el ritmo tras solventar sus compromisos iniciales. Varios tenistas jóvenes como Maya Joint y Alexandra Eala llegan con carga de partidos tras avanzar a los cuartos de final en Tokio. No se reportan lesiones graves de última hora que fuercen bajas en los cuadros principales de Basilea y Viena.",
+   "ambiente": "La prensa y las redes sociales giran en torno a los homenajes y despedidas de leyendas como Stan Wawrinka, además de las declaraciones de Novak Djokovic sobre su relación estrictamente profesional con Roger Federer. La motivación de asegurar puntos para el tramo final de la temporada y las Finales ATP impulsa el favoritismo de los tenistas más consagrados ante un público entregado en Europa.",
+   "favorito": "Apoyar a los claros favoritos como Alexander Zverev y Novak Djokovic se sustenta en una tremenda solidez histórica en pista dura y una superioridad abrumadora en Elo general frente a sus rivales de hoy. Su experiencia en instancias decisivas y la necesidad de sumar puntos garantizan un rendimiento fiable sin sorpresas indeseadas en las cuotas bajas de 1.25 o menos del mercado actual de Basilea y Viena.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa más la jerarquía de los cabezas de serie en superficies duras y la diferencia de Elo acumulado a lo largo del año. Hay que vigilar los partidos más equilibrados, como el de Cobolli ante Berrettini, y la posible fatiga acumulada en los torneos asiáticos y europeos.",
+   "partidos": [
+    {
+     "partido": "P05 (Nikoloz Basilashvili vs Carlos Alcaraz)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P09 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P12 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -269,22 +362,32 @@
    "hora": "2026-10-28T18:25+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T08:16+00:00",
+   "texto": "🎾 Cartelera: 14 partidos en las próximas 24 horas (casa: William Hill).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T08:16+00:00",
+   "texto": "🧾 Decisión del día: 2 apuestas nuevas por 30.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 9,
-  "restantes": 491,
-  "usados": 9,
-  "actualizado": "2026-10-28T18:25+00:00",
+  "gastados_mes": 18,
+  "restantes": 482,
+  "usados": 18,
+  "actualizado": "2026-10-29T08:16+00:00",
   "prevision_mes": 1
  },
  "casa": "williamhill",
  "cobertura": {
-  "williamhill": 15015,
-  "sport888": 15015,
-  "betsson": 14027
+  "williamhill": 14014,
+  "sport888": 14014,
+  "betsson": 14028
  },
- "ultima_decision": "2026-10-28",
+ "ultima_decision": "2026-10-29",
  "ultima_sala": "2026-10-28-20"
 }

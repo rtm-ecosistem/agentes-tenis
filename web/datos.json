@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T07:43+00:00",
+ "actualizado": "2026-10-29T08:19+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,16 +13,16 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 15015,
-  "sport888": 15015,
-  "betsson": 14027
+  "williamhill": 14014,
+  "sport888": 14014,
+  "betsson": 14028
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 9,
-  "restantes": 491,
-  "usados": 9,
-  "actualizado": "2026-10-28T18:25+00:00",
+  "gastados_mes": 18,
+  "restantes": 482,
+  "usados": 18,
+  "actualizado": "2026-10-29T08:16+00:00",
   "prevision_mes": 1
  },
  "reglas": {
@@ -81,7 +81,7 @@
    "listo_real": null,
    "total": {
     "apuestas": 0,
-    "pendientes": 0,
+    "pendientes": 2,
     "apostado": 0,
     "ganancia": 0,
     "yield": 0.0,
@@ -93,7 +93,7 @@
    "botes": {
     "1": {
      "apuestas": 0,
-     "pendientes": 0,
+     "pendientes": 2,
      "apostado": 0,
      "ganancia": 0,
      "yield": 0.0,
@@ -102,7 +102,7 @@
      "baten_cierre": 0,
      "pct_cierre": null,
      "valor": 1000.0,
-     "saldo": 1000.0,
+     "saldo": 970.0,
      "inicial": 1000.0
     }
    },
@@ -118,7 +118,7 @@
    },
    "real": {
     "apuestas": 0,
-    "pendientes": 0,
+    "pendientes": 2,
     "apostado": 0,
     "ganancia": 0,
     "yield": 0.0,
@@ -144,6 +144,25 @@
      },
      "descarte": "P10b (Daniil Medvedev gana @ 1.20) descartado porque la cuota ofrece un margen insuficiente frente a la probabilidad real estimada.",
      "apuestas": [],
+     "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Apostamos por la ventaja matemática detectada en el partido de Ben Shelton en Basilea y Flavio Cobolli en Viena.",
+     "informe": {
+      "jornada": "La jornada presenta varios encuentros muy decantados por el Elo en pista dura, donde el modelo encuentra valor principalmente en duelos específicos. El cruce entre Ben Shelton y Jerome Kym ofrece una probabilidad estimada del 88% para Shelton frente a una cuota de 1.30 que supera con margen nuestro cálculo matemático. Del mismo modo, el enfrentamiento entre Flavio Cobolli y Matteo Berrettini muestra divergencias interesantes frente a la igualdad que fija el mercado.",
+      "a_favor": "El modelo de Elo por superficie respalda con solidez el rendimiento de Ben Shelton en pistas duras con un 90% de efectividad en su métrica particular, lo que unido a su superioridad general justifica la entrada. En el caso de Flavio Cobolli, nuestro cálculo le otorga un 63% de probabilidades frente al 50% implícito que ofrecen las cuotas de 1.91, creando un margen de valor evidente.",
+      "en_contra": "Podría argumentarse que las cuotas de los favoritos como Shelton ya están muy ajustadas y dejan poco margen al error, o que el duelo entre Cobolli y Berrettini es excesivamente imprevisible por el nivel de saque de Berrettini. Sin embargo, cuando la cuota multiplicada por la probabilidad supera holgadamente la unidad con el margen requerido, la disciplina estadística exige ejecutar la orden sin atender a corazonadas.",
+      "riesgos": "El principal riesgo radica en una mala racha de aciertos en los partidos nivelados o que la fatiga acumulada en esta fase de la temporada afecte el rendimiento de los tenistas en pista rápida.",
+      "situacion": "Comenzamos el periodo con el bote intacto en 1000.00 € y cero apuestas liquidadas, manteniendo una gestión del riesgo estricta sin superar nunca los límites permitidos de exposición."
+     },
+     "descarte": "Se descarta la victoria de Daniel Altmaier (P07a) a cuota 5.00 porque, aunque su Elo del 25% es ligeramente superior al 16% implícito del mercado, la diferencia absoluta no compensa el riesgo del perfil.",
+     "apuestas": [
+      "2026-10-29-estadistico-1-1-1-53d4ccf8",
+      "2026-10-29-estadistico-1-1-2-3b65bc65"
+     ],
      "rechazos": []
     }
    ]
@@ -231,6 +250,22 @@
       "situacion": "Mi puesto está totalmente inalterado con 0 apuestas y el bote intacto en 1000 euros; mi objetivo es mantener la cabeza fría, vigilar de cerca los movimientos de cierre y golpear solo cuando detecte verdadero valor."
      },
      "descarte": "P08b: Tallon Griekspoor gana a Zverev @ 5.50, porque aunque la cuota es alta, la diferencia de nivel en pista dura indoor es demasiado abrumadora.",
+     "apuestas": [],
+     "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Analizo la jornada del 29 de octubre de 2026 y decido no arriesgar capital al no encontrar diferencias claras ni valor suficiente respecto a la cuota de cierre de Pinnacle.",
+     "informe": {
+      "jornada": "La jornada en los torneos de Viena y Basilea presenta a claros favoritos como Alexander Zverev y Novak Djokovic con abrumadoras ventajas en las estadísticas de Elo en pista dura. Sin embargo, las cuotas ofrecidas por las casas de apuestas ya reflejan con extrema precisión esta superioridad teórica, dejando un margen de valor muy estrecho para nuestras apuestas. Por otro lado, duelos muy igualados como el de Flavio Cobolli frente a Matteo Berrettini ofrecen incertidumbre y sugieren mantenerse al margen.",
+      "a_favor": "El mejor argumento a favor de buscar alguna oportunidad en los favoritos es su inmensa solidez en superficies rápidas y la motivación de asegurar puntos de cara al tramo final de la temporada. Jugadores como Zverev y Alcaraz poseen un rendimiento histórico muy fiable en estas rondas previas de torneos ATP 500.",
+      "en_contra": "El principal argumento en contra es que las cuotas de la casa de apuestas están perfectamente alineadas o incluso ligeramente por debajo de las cotizaciones de referencia de Pinnacle, lo que destruye cualquier ventaja matemática a largo plazo. Apostar por inercia sin un margen de valor claro es la forma más rápida de perder el puesto en este experimento.",
+      "riesgos": "El mayor riesgo de la jornada es que se produzca alguna sorpresa por fatiga acumulada en los tenistas de la parte alta, o que un partido muy nivelado como el de Berrettini y Cobolli decida resolverse por pequeños detalles imprevisibles.",
+      "situacion": "Mi puesto se mantiene intacto con 0 apuestas realizadas y el bote completo en 1000.00 €, esperando pacientemente una oportunidad con valor real donde nuestras probabilidades estimadas superen las implícitas del mercado."
+     },
+     "descarte": "Descarto la victoria de Alexander Zverev ante Tallon Griekspoor porque la cuota de 1.22 no compensa el riesgo frente a la cuota de cierre de 1.27 de Pinnacle.",
      "apuestas": [],
      "rechazos": []
     }
@@ -321,6 +356,22 @@
      "descarte": "P01b: Learner Tien vs Alex de Minaur @ 1.95, descartado por falta de datos suficientes de rendimiento en esta superficie específica.",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar suficiente valor de superficie que compense el riesgo, manteniendo la disciplina del especialista.",
+     "informe": {
+      "jornada": "La jornada en las pistas duras de Basilea y Viena presenta diferencias de Elo muy marcadas entre los favoritos y sus rivales. Los botes de los tenistas en superficies rápidas reflejan una clara jerarquía que el mercado ya ha descontado con precisión milimétrica. Como exentrenador, sé que un bote rápido y un bote lento exigen lecturas distintas, y hoy los números no muestran desajustes suficientes.",
+      "a_favor": "El mejor argumento a favor de entrar con cuotas bajas como las de Carlos Alcaraz o Ben Shelton es su aplastante superioridad en el Elo de pista dura y su constancia en superficies rápidas. Su adaptación al bote vivo y sin irregularidades garantiza un rendimiento muy estable que rara vez da sorpresas.",
+      "en_contra": "El mejor argumento en contra de abstenerse es que dejamos escapar oportunidades de sumar aciertos con favoritos muy sólidos, pero apostar sin un margen de valor claro en las cuotas es el camino más rápido al despido. Prefiero esperar a que el mercado desatienda las virtudes de un especialista en superficies concretas.",
+      "riesgos": "El principal riesgo de quedarse al margen es perderse una jornada tranquila donde los favoritos cumplan con solidez y nuestras métricas se queden sin validar frente a la cuota de cierre de Pinnacle.",
+      "situacion": "Mi puesto está intacto con el bote inicial de 1000 euros al no llevar apuestas liquidadas, y mantendré la paciencia analítica para cuando la superficie dicte una auténtica oportunidad de valor."
+     },
+     "descarte": "P03b: Tommy Paul gana a Luciano Darderi @ 1.25, porque aunque su dominio en dura es claro, la cuota no ofrece suficiente margen de valor según mi método.",
+     "apuestas": [],
+     "rechazos": []
     }
    ]
   },
@@ -409,47 +460,29 @@
      "descarte": "",
      "apuestas": [],
      "rechazos": []
+    },
+    {
+     "fecha": "2026-10-29",
+     "hora": "2026-10-29T08:16+00:00",
+     "bote": "1",
+     "resumen": "Hoy decido no realizar ninguna apuesta al no encontrar un margen de valor claro frente a las cuotas de cierre de Pinnacle.",
+     "informe": {
+      "jornada": "La jornada en los torneos de Viena y Basilea presenta a claros favoritos como Alexander Zverev y Novak Djokovic con abrumadoras ventajas teóricas y estadísticas de Elo en pista dura. Sin embargo, las cuotas ofrecidas por las casas ya reflejan con suma precisión esta superioridad, dejando un margen de valor muy estrecho. Por otro lado, duelos nivelados como el de Flavio Cobolli frente a Matteo Berrettini ofrecen demasiada incertidumbre y aconsejan mantenerse al margen.",
+      "a_favor": "El principal argumento para no arriesgar es la estricta disciplina de esperar divergencias reales entre la cuota de la casa y la de Pinnacle. Apostar por inercia a cuotas muy bajas o en partidos igualados es la forma más rápida de erosionar el bote y poner en riesgo el puesto.",
+      "en_contra": "Podría argumentarse que dejamos escapar oportunidades de sumar aciertos con favoritos muy sólidos como Ben Shelton u Oskar, pero la prudencia exige que la probabilidad estimada supere con holgura la cuota ofrecida para justificar la inversión.",
+      "riesgos": "El riesgo de no apostar es nulo en términos de capital, aunque nos mantiene con cero apuestas liquidadas en el inicio de este periodo de evaluación de cara a las 100 requeridas.",
+      "situacion": "Mi puesto está intacto al no tener aún apuestas liquidadas, y mantendré la paciencia analítica hasta que los especialistas detecten una oportunidad con valor matemático real."
+     },
+     "descarte": "P11a (Ben Shelton gana @ 1.30) porque aunque el modelo de Óscar estima un 88% de probabilidad, el escaso margen de valor en una cuota tan baja no compensa el riesgo de la inversión.",
+     "apuestas": [],
+     "rechazos": []
     }
    ]
   }
  ],
  "cartelera": {
-  "actualizado": "2026-10-28T18:25+00:00",
+  "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
-   {
-    "id": "1fa60410ca17efcd43616ab025a3b0e4",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-29T08:00+00:00",
-    "jugadores": [
-     "Elena Rybakina",
-     "Yulia Putintseva"
-    ],
-    "opciones": [
-     {
-      "id": "1fa60410ca17efcd43616ab025a3b0e4|h2h|Elena Rybakina|",
-      "mercado": "h2h",
-      "nombre": "Elena Rybakina",
-      "punto": null,
-      "cuota": 1.12,
-      "pinnacle": 1.13
-     },
-     {
-      "id": "1fa60410ca17efcd43616ab025a3b0e4|h2h|Yulia Putintseva|",
-      "mercado": "h2h",
-      "nombre": "Yulia Putintseva",
-      "punto": null,
-      "cuota": 6.0,
-      "pinnacle": 7.17
-     }
-    ],
-    "pinnacle_h2h": {
-     "Elena Rybakina": 1.13,
-     "Yulia Putintseva": 7.17
-    }
-   },
    {
     "id": "f7fa6060659fec573d7a7df3881aff82",
     "deporte": "tennis_atp_swiss_indoors",
@@ -476,78 +509,13 @@
       "nombre": "Valentin Vacherot",
       "punto": null,
       "cuota": 3.3,
-      "pinnacle": 3.47
+      "pinnacle": 3.44
      }
     ],
     "pinnacle_h2h": {
      "Rafael Jodar": 1.36,
-     "Valentin Vacherot": 3.47
+     "Valentin Vacherot": 3.44
     }
-   },
-   {
-    "id": "6822571863f93fa4654e76e114874060",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T12:00+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Tallon Griekspoor"
-    ],
-    "opciones": [
-     {
-      "id": "6822571863f93fa4654e76e114874060|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.14,
-      "pinnacle": 1.21
-     },
-     {
-      "id": "6822571863f93fa4654e76e114874060|h2h|Tallon Griekspoor|",
-      "mercado": "h2h",
-      "nombre": "Tallon Griekspoor",
-      "punto": null,
-      "cuota": 5.5,
-      "pinnacle": 4.88
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.21,
-     "Tallon Griekspoor": 4.88
-    }
-   },
-   {
-    "id": "704555fd36bea990169b89857cf51075",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T12:00+00:00",
-    "jugadores": [
-     "Arthur Fery",
-     "Lorenzo Musetti"
-    ],
-    "opciones": [
-     {
-      "id": "704555fd36bea990169b89857cf51075|h2h|Arthur Fery|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fery",
-      "punto": null,
-      "cuota": 2.9,
-      "pinnacle": null
-     },
-     {
-      "id": "704555fd36bea990169b89857cf51075|h2h|Lorenzo Musetti|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Musetti",
-      "punto": null,
-      "cuota": 1.4,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {}
    },
    {
     "id": "9744d2cb822ca005f4607e336b1b2b81",
@@ -555,7 +523,7 @@
     "torneo": "ATP Vienna Open",
     "circuito": "ATP",
     "superficie": "hard",
-    "inicio": "2026-10-29T12:00+00:00",
+    "inicio": "2026-10-29T12:30+00:00",
     "jugadores": [
      "Cameron Norrie",
      "Daniil Medvedev"
@@ -567,7 +535,7 @@
       "nombre": "Cameron Norrie",
       "punto": null,
       "cuota": 4.5,
-      "pinnacle": 5.1
+      "pinnacle": 5.13
      },
      {
       "id": "9744d2cb822ca005f4607e336b1b2b81|h2h|Daniil Medvedev|",
@@ -579,42 +547,8 @@
      }
     ],
     "pinnacle_h2h": {
-     "Cameron Norrie": 5.1,
+     "Cameron Norrie": 5.13,
      "Daniil Medvedev": 1.2
-    }
-   },
-   {
-    "id": "3b65bc657a2d7391944d9e343c189c52",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T12:00+00:00",
-    "jugadores": [
-     "Flavio Cobolli",
-     "Matteo Berrettini"
-    ],
-    "opciones": [
-     {
-      "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Flavio Cobolli|",
-      "mercado": "h2h",
-      "nombre": "Flavio Cobolli",
-      "punto": null,
-      "cuota": 1.91,
-      "pinnacle": 1.97
-     },
-     {
-      "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Matteo Berrettini|",
-      "mercado": "h2h",
-      "nombre": "Matteo Berrettini",
-      "punto": null,
-      "cuota": 1.91,
-      "pinnacle": 1.92
-     }
-    ],
-    "pinnacle_h2h": {
-     "Flavio Cobolli": 1.97,
-     "Matteo Berrettini": 1.92
     }
    },
    {
@@ -623,7 +557,7 @@
     "torneo": "ATP Vienna Open",
     "circuito": "ATP",
     "superficie": "hard",
-    "inicio": "2026-10-29T12:00+00:00",
+    "inicio": "2026-10-29T12:30+00:00",
     "jugadores": [
      "Tommy Paul",
      "Luciano Darderi"
@@ -634,21 +568,21 @@
       "mercado": "h2h",
       "nombre": "Luciano Darderi",
       "punto": null,
-      "cuota": 4.5,
-      "pinnacle": 4.68
+      "cuota": 4.0,
+      "pinnacle": 4.32
      },
      {
       "id": "9f79477cee7d1e998aa4b8a7beec9b28|h2h|Tommy Paul|",
       "mercado": "h2h",
       "nombre": "Tommy Paul",
       "punto": null,
-      "cuota": 1.2,
-      "pinnacle": 1.23
+      "cuota": 1.25,
+      "pinnacle": 1.26
      }
     ],
     "pinnacle_h2h": {
-     "Luciano Darderi": 4.68,
-     "Tommy Paul": 1.23
+     "Luciano Darderi": 4.32,
+     "Tommy Paul": 1.26
     }
    },
    {
@@ -669,7 +603,7 @@
       "nombre": "Alex Michelsen",
       "punto": null,
       "cuota": 2.75,
-      "pinnacle": 2.85
+      "pinnacle": 2.92
      },
      {
       "id": "17b7cfaa2dc6c21f39412e6017f54e9b|h2h|Arthur Fils|",
@@ -677,12 +611,80 @@
       "nombre": "Arthur Fils",
       "punto": null,
       "cuota": 1.44,
-      "pinnacle": 1.48
+      "pinnacle": 1.47
      }
     ],
     "pinnacle_h2h": {
-     "Alex Michelsen": 2.85,
-     "Arthur Fils": 1.48
+     "Alex Michelsen": 2.92,
+     "Arthur Fils": 1.47
+    }
+   },
+   {
+    "id": "dd5bca16b0bbd8de2684f82a2797f042",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T14:00+00:00",
+    "jugadores": [
+     "Nikoloz Basilashvili",
+     "Carlos Alcaraz"
+    ],
+    "opciones": [
+     {
+      "id": "dd5bca16b0bbd8de2684f82a2797f042|h2h|Carlos Alcaraz|",
+      "mercado": "h2h",
+      "nombre": "Carlos Alcaraz",
+      "punto": null,
+      "cuota": 1.11,
+      "pinnacle": 1.1
+     },
+     {
+      "id": "dd5bca16b0bbd8de2684f82a2797f042|h2h|Nikoloz Basilashvili|",
+      "mercado": "h2h",
+      "nombre": "Nikoloz Basilashvili",
+      "punto": null,
+      "cuota": 6.5,
+      "pinnacle": 7.71
+     }
+    ],
+    "pinnacle_h2h": {
+     "Carlos Alcaraz": 1.1,
+     "Nikoloz Basilashvili": 7.71
+    }
+   },
+   {
+    "id": "9da35734a02ec2627cd4034086584157",
+    "deporte": "tennis_atp_swiss_indoors",
+    "torneo": "ATP Swiss Indoors Basel",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T14:10+00:00",
+    "jugadores": [
+     "Taylor Fritz",
+     "Denis Shapovalov"
+    ],
+    "opciones": [
+     {
+      "id": "9da35734a02ec2627cd4034086584157|h2h|Denis Shapovalov|",
+      "mercado": "h2h",
+      "nombre": "Denis Shapovalov",
+      "punto": null,
+      "cuota": 2.75,
+      "pinnacle": 2.96
+     },
+     {
+      "id": "9da35734a02ec2627cd4034086584157|h2h|Taylor Fritz|",
+      "mercado": "h2h",
+      "nombre": "Taylor Fritz",
+      "punto": null,
+      "cuota": 1.44,
+      "pinnacle": 1.45
+     }
+    ],
+    "pinnacle_h2h": {
+     "Denis Shapovalov": 2.96,
+     "Taylor Fritz": 1.45
     }
    },
    {
@@ -702,21 +704,123 @@
       "mercado": "h2h",
       "nombre": "Daniel Altmaier",
       "punto": null,
-      "cuota": 6.0,
-      "pinnacle": 5.92
+      "cuota": 5.0,
+      "pinnacle": 5.89
      },
      {
       "id": "381536c46bd1e16a9236502df3f748e5|h2h|Jiri Lehecka|",
       "mercado": "h2h",
       "nombre": "Jiri Lehecka",
       "punto": null,
-      "cuota": 1.12,
+      "cuota": 1.17,
       "pinnacle": 1.16
      }
     ],
     "pinnacle_h2h": {
-     "Daniel Altmaier": 5.92,
+     "Daniel Altmaier": 5.89,
      "Jiri Lehecka": 1.16
+    }
+   },
+   {
+    "id": "704555fd36bea990169b89857cf51075",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T16:00+00:00",
+    "jugadores": [
+     "Arthur Fery",
+     "Lorenzo Musetti"
+    ],
+    "opciones": [
+     {
+      "id": "704555fd36bea990169b89857cf51075|h2h|Arthur Fery|",
+      "mercado": "h2h",
+      "nombre": "Arthur Fery",
+      "punto": null,
+      "cuota": 3.3,
+      "pinnacle": 3.58
+     },
+     {
+      "id": "704555fd36bea990169b89857cf51075|h2h|Lorenzo Musetti|",
+      "mercado": "h2h",
+      "nombre": "Lorenzo Musetti",
+      "punto": null,
+      "cuota": 1.33,
+      "pinnacle": 1.33
+     }
+    ],
+    "pinnacle_h2h": {
+     "Arthur Fery": 3.58,
+     "Lorenzo Musetti": 1.33
+    }
+   },
+   {
+    "id": "6822571863f93fa4654e76e114874060",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T16:30+00:00",
+    "jugadores": [
+     "Alexander Zverev",
+     "Tallon Griekspoor"
+    ],
+    "opciones": [
+     {
+      "id": "6822571863f93fa4654e76e114874060|h2h|Alexander Zverev|",
+      "mercado": "h2h",
+      "nombre": "Alexander Zverev",
+      "punto": null,
+      "cuota": 1.22,
+      "pinnacle": 1.27
+     },
+     {
+      "id": "6822571863f93fa4654e76e114874060|h2h|Tallon Griekspoor|",
+      "mercado": "h2h",
+      "nombre": "Tallon Griekspoor",
+      "punto": null,
+      "cuota": 4.2,
+      "pinnacle": 4.15
+     }
+    ],
+    "pinnacle_h2h": {
+     "Alexander Zverev": 1.27,
+     "Tallon Griekspoor": 4.15
+    }
+   },
+   {
+    "id": "e17ec974bac4e8094cbe45dfeb471b1e",
+    "deporte": "tennis_atp_swiss_indoors",
+    "torneo": "ATP Swiss Indoors Basel",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T17:00+00:00",
+    "jugadores": [
+     "Novak Djokovic",
+     "Jan-Lennard Struff"
+    ],
+    "opciones": [
+     {
+      "id": "e17ec974bac4e8094cbe45dfeb471b1e|h2h|Jan-Lennard Struff|",
+      "mercado": "h2h",
+      "nombre": "Jan-Lennard Struff",
+      "punto": null,
+      "cuota": 4.0,
+      "pinnacle": 3.99
+     },
+     {
+      "id": "e17ec974bac4e8094cbe45dfeb471b1e|h2h|Novak Djokovic|",
+      "mercado": "h2h",
+      "nombre": "Novak Djokovic",
+      "punto": null,
+      "cuota": 1.25,
+      "pinnacle": 1.28
+     }
+    ],
+    "pinnacle_h2h": {
+     "Jan-Lennard Struff": 3.99,
+     "Novak Djokovic": 1.28
     }
    },
    {
@@ -736,27 +840,218 @@
       "mercado": "h2h",
       "nombre": "Ben Shelton",
       "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.33
+      "cuota": 1.3,
+      "pinnacle": 1.32
      },
      {
       "id": "53d4ccf860436088aa717efdf2c38d25|h2h|Jerome Kym|",
       "mercado": "h2h",
       "nombre": "Jerome Kym",
       "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.62
+      "cuota": 3.5,
+      "pinnacle": 3.74
      }
     ],
     "pinnacle_h2h": {
-     "Ben Shelton": 1.33,
-     "Jerome Kym": 3.62
+     "Ben Shelton": 1.32,
+     "Jerome Kym": 3.74
+    }
+   },
+   {
+    "id": "3b65bc657a2d7391944d9e343c189c52",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-29T19:00+00:00",
+    "jugadores": [
+     "Flavio Cobolli",
+     "Matteo Berrettini"
+    ],
+    "opciones": [
+     {
+      "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Flavio Cobolli|",
+      "mercado": "h2h",
+      "nombre": "Flavio Cobolli",
+      "punto": null,
+      "cuota": 1.91,
+      "pinnacle": 1.95
+     },
+     {
+      "id": "3b65bc657a2d7391944d9e343c189c52|h2h|Matteo Berrettini|",
+      "mercado": "h2h",
+      "nombre": "Matteo Berrettini",
+      "punto": null,
+      "cuota": 1.91,
+      "pinnacle": 1.95
+     }
+    ],
+    "pinnacle_h2h": {
+     "Flavio Cobolli": 1.95,
+     "Matteo Berrettini": 1.95
+    }
+   },
+   {
+    "id": "d52af5cb645ef831c4dbab0bbaf48dac",
+    "deporte": "tennis_wta_pan_pacific_open",
+    "torneo": "WTA Pan Pacific Open",
+    "circuito": "WTA",
+    "superficie": "hard",
+    "inicio": "2026-10-30T04:00+00:00",
+    "jugadores": [
+     "Alexandra Eala",
+     "Diana Shnaider"
+    ],
+    "opciones": [
+     {
+      "id": "d52af5cb645ef831c4dbab0bbaf48dac|h2h|Alexandra Eala|",
+      "mercado": "h2h",
+      "nombre": "Alexandra Eala",
+      "punto": null,
+      "cuota": 2.2,
+      "pinnacle": 2.3
+     },
+     {
+      "id": "d52af5cb645ef831c4dbab0bbaf48dac|h2h|Diana Shnaider|",
+      "mercado": "h2h",
+      "nombre": "Diana Shnaider",
+      "punto": null,
+      "cuota": 1.67,
+      "pinnacle": 1.69
+     }
+    ],
+    "pinnacle_h2h": {
+     "Alexandra Eala": 2.3,
+     "Diana Shnaider": 1.69
+    }
+   },
+   {
+    "id": "cc0834cac355e3a96bf64a85ce003e51",
+    "deporte": "tennis_wta_pan_pacific_open",
+    "torneo": "WTA Pan Pacific Open",
+    "circuito": "WTA",
+    "superficie": "hard",
+    "inicio": "2026-10-30T04:00+00:00",
+    "jugadores": [
+     "Kamilla Rakhimova",
+     "Maya Joint"
+    ],
+    "opciones": [
+     {
+      "id": "cc0834cac355e3a96bf64a85ce003e51|h2h|Kamilla Rakhimova|",
+      "mercado": "h2h",
+      "nombre": "Kamilla Rakhimova",
+      "punto": null,
+      "cuota": 2.1,
+      "pinnacle": 2.15
+     },
+     {
+      "id": "cc0834cac355e3a96bf64a85ce003e51|h2h|Maya Joint|",
+      "mercado": "h2h",
+      "nombre": "Maya Joint",
+      "punto": null,
+      "cuota": 1.73,
+      "pinnacle": 1.79
+     }
+    ],
+    "pinnacle_h2h": {
+     "Kamilla Rakhimova": 2.15,
+     "Maya Joint": 1.79
     }
    }
   ]
  },
- "apuestas": [],
+ "apuestas": [
+  {
+   "id": "2026-10-29-estadistico-1-1-1-53d4ccf8",
+   "agente": "estadistico-1",
+   "bote": "1",
+   "fecha": "2026-10-29",
+   "hora": "2026-10-29T08:16+00:00",
+   "partido": "53d4ccf860436088aa717efdf2c38d25",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "jugadores": [
+    "Ben Shelton",
+    "Jerome Kym"
+   ],
+   "inicio": "2026-10-29T18:10+00:00",
+   "mercado": "h2h",
+   "seleccion": "Ben Shelton",
+   "punto": null,
+   "descripcion": "Ben Shelton gana el partido",
+   "cuota": 1.3,
+   "casa": "williamhill",
+   "pinnacle_apuesta": 1.32,
+   "pinnacle_cierre": null,
+   "confianza": 2,
+   "stake": 20.0,
+   "motivo": "Ben Shelton posee un Elo en dura del 90% y general de 1902 frente a los 1582 de Jerome Kym, con una probabilidad calculada del 88% que supera claramente la cuota de 1.30.",
+   "estado": "pendiente",
+   "ganancia": null,
+   "resultado": null,
+   "temporada": "prueba"
+  },
+  {
+   "id": "2026-10-29-estadistico-1-1-2-3b65bc65",
+   "agente": "estadistico-1",
+   "bote": "1",
+   "fecha": "2026-10-29",
+   "hora": "2026-10-29T08:16+00:00",
+   "partido": "3b65bc657a2d7391944d9e343c189c52",
+   "deporte": "tennis_atp_vienna_open",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "jugadores": [
+    "Flavio Cobolli",
+    "Matteo Berrettini"
+   ],
+   "inicio": "2026-10-29T19:00+00:00",
+   "mercado": "h2h",
+   "seleccion": "Flavio Cobolli",
+   "punto": null,
+   "descripcion": "Flavio Cobolli gana el partido",
+   "cuota": 1.91,
+   "casa": "williamhill",
+   "pinnacle_apuesta": 1.95,
+   "pinnacle_cierre": null,
+   "confianza": 1,
+   "stake": 10.0,
+   "motivo": "Flavio Cobolli registra un Elo en superficie del 62% y un total de 1781 frente a 1687 de Matteo Berrettini, estimando nuestra probabilidad en un 63% frente a la cuota de 1.91 del mercado.",
+   "estado": "pendiente",
+   "ganancia": null,
+   "resultado": null,
+   "temporada": "prueba"
+  }
+ ],
  "sala": [
+  {
+   "hora": "2026-10-29T08:16+00:00",
+   "datos": "Los números muestran una gran superioridad teórica para los favoritos en varios duelos de la jornada, destacando el Elo en dura de Alexander Zverev con un 80% y Ben Shelton con un 90%. En enfrentamientos como el de Flavio Cobolli y Matteo Berrettini las probabilidades están muy niveladas con un 62% para Cobolli en pista dura y cuotas idénticas en las casas de apuestas. El mercado y las estadísticas coinciden en otorgar pocas opciones a jugadores como Nikoloz Basilashvili, cuyo Elo en superficie es de apenas el 16%.",
+   "noticias": "En el apartado físico, se destaca la retirada previa de Fearnley que clasificó a Arthur Fery en Viena, mientras que otros jugadores como Daniil Medvedev y Carlos Alcaraz buscan mantener el ritmo tras solventar sus compromisos iniciales. Varios tenistas jóvenes como Maya Joint y Alexandra Eala llegan con carga de partidos tras avanzar a los cuartos de final en Tokio. No se reportan lesiones graves de última hora que fuercen bajas en los cuadros principales de Basilea y Viena.",
+   "ambiente": "La prensa y las redes sociales giran en torno a los homenajes y despedidas de leyendas como Stan Wawrinka, además de las declaraciones de Novak Djokovic sobre su relación estrictamente profesional con Roger Federer. La motivación de asegurar puntos para el tramo final de la temporada y las Finales ATP impulsa el favoritismo de los tenistas más consagrados ante un público entregado en Europa.",
+   "favorito": "Apoyar a los claros favoritos como Alexander Zverev y Novak Djokovic se sustenta en una tremenda solidez histórica en pista dura y una superioridad abrumadora en Elo general frente a sus rivales de hoy. Su experiencia en instancias decisivas y la necesidad de sumar puntos garantizan un rendimiento fiable sin sorpresas indeseadas en las cuotas bajas de 1.25 o menos del mercado actual de Basilea y Viena.",
+   "contra": "",
+   "conclusion": "En esta jornada pesa más la jerarquía de los cabezas de serie en superficies duras y la diferencia de Elo acumulado a lo largo del año. Hay que vigilar los partidos más equilibrados, como el de Cobolli ante Berrettini, y la posible fatiga acumulada en los torneos asiáticos y europeos.",
+   "partidos": [
+    {
+     "partido": "P05 (Nikoloz Basilashvili vs Carlos Alcaraz)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P09 (Alexander Zverev vs Tallon Griekspoor)",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P12 (Flavio Cobolli vs Matteo Berrettini)",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
+  },
   {
    "hora": "2026-10-28T19:26+00:00",
    "datos": "Los números muestran diferencias claras de Elo en varios duelos, destacando el 78% de probabilidad para Alexander Zverev frente a Tallon Griekspoor en Viena. En el torneo de Tokio, Leylah Fernandez cuenta con un sólido 72% de Elo en pista dura frente a Elise Mertens. Por otro lado, enfrentamientos como el de Flavio Cobolli y Matteo Berrettini están muy ajustados, con un 45% de Elo para Cobolli y cuotas casi idénticas en el mercado. En Basilea, Jiri Lehecka domina claramente en los pronósticos con un Elo del 22% para su rival Daniel Altmaier.",
@@ -832,6 +1127,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-29T08:16+00:00",
+   "texto": "🧾 Decisión del día: 2 apuestas nuevas por 30.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T08:16+00:00",
+   "texto": "🎾 Cartelera: 14 partidos en las próximas 24 horas (casa: William Hill).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-28T18:25+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -842,5 +1147,5 @@
    "tipo": "info"
   }
  ],
- "ultima_decision": "2026-10-28"
+ "ultima_decision": "2026-10-29"
 }
