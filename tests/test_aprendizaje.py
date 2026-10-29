@@ -96,3 +96,16 @@ def test_cansancio_de_los_ultimos_tres_dias():
     lola = [m for i, m in ia.mensajes if i.startswith("Eres Lola,")][0]
     assert "CANSANCIO" in lola and "Tommy Paul" in lola
     assert "CANSANCIO" in [m for i, m in ia.mensajes if i.startswith("Sois la sala")][0]
+
+
+def test_la_ficha_del_partido_guarda_sus_datos_siete_dias():
+    from agentes import config
+    _, estado, _ = decidir({})
+    info = estado["partidos_info"]["e1"]
+    assert info["jugadores"] == ["Carlos Alcaraz", "Alex de Minaur"]
+    assert info["detalle"][0]["mercado"] is not None and "cansancio" in info["detalle"][1]
+    assert "e1" in comun.leer(config.WEB_DIR / "datos.json", {})["partidos_info"]
+    estado["partidos_info"]["viejo"] = {**info, "inicio": comun.iso(AHORA - timedelta(days=8))}
+    from agentes import sala
+    sala.guardar_analisis(estado, [], {}, {}, AHORA)
+    assert "viejo" not in estado["partidos_info"] and "e1" in estado["partidos_info"]

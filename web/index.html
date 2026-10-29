@@ -59,6 +59,8 @@ body.ampliada .escena { cursor: grab; } .escena.moviendo, .escena.moviendo canva
   font: 600 12px/1.3 var(--pixel); opacity: 0; transition: opacity .25s; pointer-events: none; box-shadow: 3px 3px 0 rgba(0, 0, 0, .35); }
 .bocadillo::after { content: ""; position: absolute; left: 50%; bottom: -8px; transform: translateX(-50%); border: 6px solid transparent; border-top-color: #1d140c; border-bottom: 0; }
 .bocadillo.visible { opacity: 1; }
+.bocadillo.visible.enlace { pointer-events: auto; cursor: pointer; }
+.bocadillo.enlace::before { content: "🔎 "; }
 .bocadillo small { color: #6b4a2c; font-weight: 700; }
 .cartel { position: absolute; transform: translate(-50%, -100%); background: #ffd55a; color: #3d2c00; font: 700 11px var(--pixel); padding: 2px 7px; border: 2px solid #3d2c00; border-radius: 3px; }
 /* Letrero de luces en la pared del fondo (va inclinado como la pared) */
@@ -142,6 +144,7 @@ h4 { font: 700 15px var(--pixel); margin: 18px 2px 8px; color: var(--ambar); }
 .superficie.hard { background: #3466b0; } .superficie.clay { background: #c0602e; } .superficie.grass { background: #3d8a3a; }
 
 /* Boletos: papel claro con bordes troquelados */
+.buscar { width: 100%; margin: 2px 0 8px; padding: 8px 12px; border-radius: 999px; border: 1px solid var(--borde); background: var(--tarjeta); color: var(--texto); font: inherit; font-size: 14px; }
 .filtros { display: flex; gap: 6px; flex-wrap: wrap; margin: 2px 0 10px; }
 .filtros button { border: 1px solid var(--borde); background: var(--tarjeta); border-radius: 999px; padding: 4px 12px; cursor: pointer; font-size: 13px; }
 .filtros button[aria-pressed="true"] { background: var(--acento); color: #17240b; border-color: var(--acento); font-weight: 700; }
@@ -197,6 +200,14 @@ details.plegable[open] > summary::before { content: "▾ "; }
 .calib .barras i.dijo { background: rgba(255, 236, 210, .22); }
 .calib .barras i.salio { top: 4px; bottom: 4px; }
 .reglas li { margin: 4px 0; }
+.duelo { display: grid; grid-template-columns: 104px 1fr auto; gap: 8px; align-items: center; font-size: 12.5px; margin-top: 5px; }
+.duelo .num { white-space: nowrap; }
+.barra-duelo { height: 10px; border-radius: 5px; background: rgba(255, 236, 210, .14); overflow: hidden; }
+.barra-duelo i { display: block; height: 100%; background: var(--acento); }
+.rejilla.dos-fijas { grid-template-columns: 1fr 1fr; margin-top: 10px; }
+.jugador { font-size: 13px; } .jugador p { margin: 5px 0; } .jugador small { color: var(--suave); }
+.noticias { margin: 2px 0 0; padding-left: 16px; } .noticias li { margin: 3px 0; } .noticias a { color: var(--texto); }
+@media (max-width: 480px) { .rejilla.dos-fijas { grid-template-columns: 1fr; } }
 .reglas small, .retiradas { color: var(--suave); }
 .ayuda { display: inline-grid; place-items: center; width: 15px; height: 15px; margin-left: 3px; padding: 0; border: 1px solid currentColor; border-radius: 50%;
   background: none; color: var(--suave); font: 700 10px/1 system-ui, sans-serif; cursor: help; vertical-align: 1px; opacity: .75; }
@@ -749,18 +760,29 @@ function frasesDe(g, f) {
   if (f === 'noche') return ['Zzz…'];
   if (f === 'pre') { const s = D.sala[0]; return ['📰 Leyendo la prensa de tenis…', ...(s ? ['📋 ' + corta(s.noticias, 90)] : [])]; }
   if (f === 'decide') return ['✍️ Repaso la cartelera y las cuotas…', '🤔 ¿Hay valor en algún partido?'];
-  if (ult && ult.resumen) lista.push('📝 ' + corta(ult.resumen, 100));
+  const reales = [], de = (texto, partido) => reales.push(partido ? { t: texto, partido } : texto);
+  if (ult && ult.resumen) de('📝 ' + corta(ult.resumen, 100));
   const mias = D.apuestas.filter(x => x.agente === a.id), pend = mias.filter(x => x.estado === 'pendiente');
-  if (pend.length) lista.push(`🧾 ${pend.length} ${pend.length === 1 ? 'boleto' : 'boletos'} en juego: ${corta(pend[0].descripcion, 50)} @ ${pend[0].cuota.toFixed(2)}`);
+  for (const b of pend.slice(0, 3)) {
+    de(`🧾 Aposté: ${corta(b.descripcion, 50)} @ ${b.cuota.toFixed(2)}${b.motivo ? '. ' + corta(b.motivo, 70) : ''}`, b.partido);
+    const info = D.partidos_info?.[b.partido];
+    const cansado = info?.detalle?.find(j => /partido largo/.test(j.cansancio));
+    if (cansado) de(`🥵 Ojo: ${cansado.nombre} viene de ${corta(cansado.cansancio, 70)}`, b.partido);
+    const op = D.sala.flatMap(x => x.partidos || []).find(x => x.id === b.partido);
+    if (op) de(`📋 La sala lo ve «${op.vista}»: ${corta(op.motivo, 70)}`, b.partido);
+  }
   const hecha = mias.find(x => x.estado !== 'pendiente');
-  if (hecha) lista.push(hecha.ganancia > 0 ? `🎉 ¡Cobrada! ${corta(hecha.descripcion, 50)} (${eur(hecha.ganancia, true)})` : hecha.ganancia < 0 ? `😤 Perdí con ${corta(hecha.descripcion, 50)}. Siguiente.` : `🤷 Me anularon ${corta(hecha.descripcion, 50)}.`);
-  if (t.pct_cierre != null) lista.push(`📈 Bato el cierre de Pinnacle en el ${pct(t.pct_cierre, false, 0)} de mis apuestas`);
-  lista.push(...({
+  if (hecha) de(hecha.ganancia > 0 ? `🎉 ¡Cobrada! ${corta(hecha.descripcion, 50)} (${eur(hecha.ganancia, true)})` : hecha.ganancia < 0 ? `😤 Perdí con ${corta(hecha.descripcion, 50)}. Siguiente.` : `🤷 Me anularon ${corta(hecha.descripcion, 50)}.`, hecha.partido);
+  for (const r of (a.reglas || []).slice(0, 2)) de(`📏 Mi regla: ${corta(r.texto, 80)}`);
+  if (t.pct_cierre != null) de(`📈 Bato el cierre de Pinnacle en el ${pct(t.pct_cierre, false, 0)} de mis apuestas`);
+  const ambiente = ({
     estadistico: ['El Elo no tiene días malos.', 'Si la cuota paga más que mi probabilidad, apuesto.', 'Sin ventaja no hay apuesta.'],
     reportero: ['¿Habéis leído lo de Punto de Break?', 'Ojo con los que vienen de jugar tres sets ayer.', 'Una ampolla cambia un partido.'],
     superficies: ['Esta pista es más rápida de lo que parece.', 'De tierra a dura en dos días… no todos se adaptan.', 'Bajo techo el saque manda.'],
     manager: ['¿En qué coincidís hoy?', 'Si dos de vosotros lo veis claro, me lo pienso.', 'Prefiero no apostar a apostar mal.'],
-  }[a.rol] || []));
+  }[a.rol] || []);
+  // Dos frases reales por cada una de ambiente
+  for (let i = 0, k = 0; i < reales.length || k < ambiente.length; i += 2, k++) lista.push(...reales.slice(i, i + 2), ...(ambiente[k] ? [ambiente[k]] : []));
   return lista;
 }
 function frasesSala(k) {
@@ -802,7 +824,10 @@ function hablar(dt, f) {
     if (g.proxFrase <= 0) {
       const fr = frasesDe(g, f);
       g.indice = ((g.indice ?? Math.random() * fr.length | 0) + 1) % fr.length;
-      g.bo.textContent = fr[g.indice]; g.bo.classList.add('visible');
+      const fra = fr[g.indice];
+      g.bo.textContent = fra.t || fra; g.bo.classList.toggle('enlace', !!fra.partido);
+      if (fra.partido) g.bo.dataset.partido = fra.partido; else delete g.bo.dataset.partido;
+      g.bo.classList.add('visible');
       g.finFrase = f === 'noche' ? 3 : 5.5; g.proxFrase = g.finFrase + 4 + Math.random() * 8;
     }
   }
@@ -1059,7 +1084,7 @@ function pintarCartelera() {
         ${boletos.length ? `<div class="apostado">${boletos.map(b => { const a = agentePor(b.agente); return `<span class="chip bien">${esc(a?.nombre)}: ${esc(b.descripcion)} @ ${b.cuota.toFixed(2)}</span>`; }).join('')}</div>` : ''}</div>`;
     }).join('') + '</div>').join('');
 }
-let FILTRO = { agente: '', estado: '' };
+let FILTRO = { agente: '', estado: '', mercado: '', texto: '' };
 function boleto(b) {
   const a = agentePor(b.agente) || { nombre: b.agente, id: b.agente, color: '#777' };
   const bate = b.pinnacle_cierre ? b.cuota > b.pinnacle_cierre : null;
@@ -1074,12 +1099,28 @@ function boleto(b) {
     ${b.estado !== 'pendiente' ? `<div class="linea"><span>${esc(b.resultado || '')}</span><b class="num ${clase(b.ganancia)}">${eur(b.ganancia, true)}</b></div>` : ''}
     ${b.motivo ? `<details class="plegable"><summary>Por qué</summary>${esc(b.motivo)}</details>` : ''}</article>`;
 }
+const sinTildes = t => (t || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+function pasaFiltro(b) {
+  const e = FILTRO.estado, q = sinTildes(FILTRO.texto.trim());
+  return (!FILTRO.agente || b.agente === FILTRO.agente) && (!FILTRO.mercado || b.mercado === FILTRO.mercado)
+    && (!e || (e === 'ganada' ? b.estado.endsWith('ganada') : e === 'perdida' ? b.estado.endsWith('perdida') : b.estado === e))
+    && (!q || sinTildes(`${b.jugadores.join(' ')} ${b.torneo} ${b.descripcion}`).includes(q));
+}
+function pintarListaBoletos() {
+  const lista = D.apuestas.filter(pasaFiltro), r = lista.filter(b => b.estado !== 'pendiente'), gan = r.reduce((x, b) => x + (b.ganancia || 0), 0);
+  $('#lista-boletos').innerHTML = (lista.length ? `<p style="margin:0 0 10px;color:var(--suave);font-size:13px">${lista.length} boletos${r.length ? ` · liquidados ${r.length}: <b class="${clase(gan)}">${eur(gan, true)}</b>` : ''}</p>` : '') +
+    `<div class="boletos">${lista.slice(0, 120).map(boleto).join('') || '<p class="vacio">No hay boletos con estos filtros.</p>'}</div>`;
+}
 function pintarBoletos() {
-  const lista = D.apuestas.filter(b => (!FILTRO.agente || b.agente === FILTRO.agente) && (!FILTRO.estado || (FILTRO.estado === 'liquidada' ? b.estado !== 'pendiente' : b.estado === FILTRO.estado)));
   const boton = (campo, valor, texto) => `<button aria-pressed="${FILTRO[campo] === valor}" data-filtro="${campo}" data-valor="${valor}">${esc(texto)}</button>`;
-  $('#boletos').innerHTML = `<div class="filtros">${boton('agente', '', 'Todos')}${D.agentes.filter(a => D.apuestas.some(b => b.agente === a.id) || a.estado === 'activo').map(a => boton('agente', a.id, a.nombre)).join('')}</div>
-    <div class="filtros">${boton('estado', '', 'Todos')}${boton('estado', 'pendiente', 'En juego')}${boton('estado', 'liquidada', 'Liquidados')}</div>
-    <div class="boletos">${lista.slice(0, 120).map(boleto).join('') || '<p class="vacio">Todavía no hay boletos.</p>'}</div>`;
+  const mercados = [...new Set(D.apuestas.map(b => b.mercado))];
+  $('#boletos').innerHTML = `<input class="buscar" type="search" id="buscar-boletos" placeholder="Buscar jugador o torneo…" value="${esc(FILTRO.texto)}" aria-label="Buscar jugador o torneo">
+    <div class="filtros">${boton('agente', '', 'Todos')}${D.agentes.filter(a => D.apuestas.some(b => b.agente === a.id) || a.estado === 'activo').map(a => boton('agente', a.id, a.nombre)).join('')}</div>
+    <div class="filtros">${boton('estado', '', 'Todos')}${boton('estado', 'pendiente', 'En juego')}${boton('estado', 'ganada', 'Ganados')}${boton('estado', 'perdida', 'Perdidos')}${boton('estado', 'nula', 'Anulados')}</div>
+    ${mercados.length > 1 ? `<div class="filtros">${boton('mercado', '', 'Todos los mercados')}${mercados.map(m => boton('mercado', m, NOM_MERCADO[m] || m)).join('')}</div>` : ''}
+    <div id="lista-boletos"></div>`;
+  $('#buscar-boletos').oninput = e => { FILTRO.texto = e.target.value; pintarListaBoletos(); };
+  pintarListaBoletos();
 }
 const MEDALLAS = ['🥇', '🥈', '🥉'];
 function filaClas(a, i, valor) {
@@ -1171,15 +1212,29 @@ function graficaTodos(ags) {
 function datosPartido(id) {
   const cart = D.cartelera.partidos.find(p => p.id === id), bols = D.apuestas.filter(b => b.partido === id);
   const opiniones = D.sala.flatMap(s => (s.partidos || []).filter(p => p.id === id).map(p => ({ ...p, hora: s.hora })));
-  const ref = cart || bols[0] || opiniones[0]; if (!ref) return null;
-  return { cart, bols, opiniones, jugadores: ref.jugadores, torneo: cart?.torneo || bols[0]?.torneo || '', superficie: cart?.superficie || bols[0]?.superficie,
+  const ref = cart || bols[0] || opiniones[0] || D.partidos_info?.[id]; if (!ref) return null;
+  return { cart, bols, opiniones, jugadores: ref.jugadores, torneo: ref.torneo || '', superficie: ref.superficie,
            inicio: ref.inicio, resultado: bols.find(b => b.resultado)?.resultado };
+}
+function tarjetaDatos(info) {
+  if (!info) return '';
+  const [a, b] = info.detalle, barra = (x, txt) => x == null ? '' : `<div class="duelo"><span>${esc(txt)}</span><div class="barra-duelo"><i style="width:${(x * 100).toFixed(0)}%"></i></div><span class="num">${pct(x, false, 0)} – ${pct(1 - x, false, 0)}</span></div>`;
+  const jug = j => `<div class="tarjeta jugador"><b>${esc(j.nombre)}</b>
+    ${j.elo != null ? `<p>Elo${A('elo')} ${j.elo} · en esta superficie ${j.elo_superficie}</p>` : '<p class="vacio">Sin Elo suficiente.</p>'}
+    ${j.forma?.length ? `<p><small>Últimos partidos:</small><br>${j.forma.map(esc).join('<br>')}</p>` : ''}
+    <p><small>Cansancio:</small> ${esc(j.cansancio)}</p>
+    ${j.noticias?.length ? `<p><small>Noticias:</small></p><ul class="noticias">${j.noticias.map(n => `<li>${n.enlace ? `<a href="${esc(n.enlace)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>` : esc(n.titulo)} <small>${esc(n.fuente)} · ${esc(n.fecha)}</small></li>`).join('')}</ul>` : '<p><small>Sin noticias recientes.</small></p>'}</div>`;
+  return `<div class="tarjeta"><h3>Los datos que leyeron</h3><p style="margin:0 0 8px;color:var(--suave);font-size:12.5px">Probabilidad de que gane ${esc(a.nombre)} frente a ${esc(b.nombre)}. Actualizado ${cuando(info.actualizado)}.</p>
+    ${barra(info.elo, 'Elo')}${barra(info.elo_en_superficie, 'Elo en ' + (SUPERFICIE[info.superficie] || info.superficie).toLowerCase())}${barra(a.mercado, 'Mercado (Pinnacle)')}
+    ${info.cara_a_cara ? `<p style="margin:8px 0 0;font-size:13px">Cara a cara: ${info.cara_a_cara[0]}–${info.cara_a_cara[1]}</p>` : ''}</div>
+    <div class="rejilla dos-fijas">${jug(a)}${jug(b)}</div>`;
 }
 function abrirPartido(id) {
   const p = datosPartido(id); if (!p) return;
   FICHA_ID = 'p:' + id;
   const grupos = {}; for (const o of p.cart?.opciones || []) (grupos[o.mercado] ||= []).push(o);
   $('#ficha').innerHTML = `<div class="cabecera"><div style="font-size:30px">🎾</div><div><h2>${esc(p.jugadores[0])} – ${esc(p.jugadores[1])}</h2><div style="color:var(--suave)">${esc(p.torneo)}${p.superficie ? ` · <span class="superficie ${esc(p.superficie)}">${SUPERFICIE[p.superficie] || esc(p.superficie)}</span>` : ''} · ${cuando(p.inicio)}</div></div><button class="cerrar" aria-label="Cerrar">✕</button></div>
+    ${tarjetaDatos(D.partidos_info?.[id])}
     ${p.resultado ? `<div class="tarjeta"><h3>Resultado</h3><p style="margin:0">${esc(p.resultado)}</p></div>` : ''}
     ${p.cart ? `<div class="tarjeta"><h3>Cuotas</h3><p style="margin:0 0 6px;color:var(--suave);font-size:12.5px">De ${esc(D.nombres_casa[D.casa] || 'la casa')} y, en pequeño, las de Pinnacle.</p><div class="mercados">${Object.entries(grupos).map(([m, ops]) => `<div class="mercado"><b>${NOM_MERCADO[m] || m}${GLOSARIO[m] ? A(m) : ''}</b>${ops.map(o =>
       `<div class="opcion"><span>${esc(etiquetaOpcion(o))}</span><span><span class="q">${o.cuota.toFixed(2)}</span> <span class="p">${o.pinnacle ? o.pinnacle.toFixed(2) : '–'}</span></span></div>`).join('')}</div>`).join('')}</div></div>` : ''}
