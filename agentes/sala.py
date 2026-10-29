@@ -5,7 +5,7 @@ from __future__ import annotations
 
 from datetime import datetime, timedelta
 
-from agentes import comun, config, prompts
+from agentes import aprendizaje, comun, config, prompts
 
 MAX_HISTORIAL = 45  # unas dos semanas con tres informes al día
 
@@ -16,17 +16,20 @@ def escribir(estado: dict, cartelera: list[dict], elo: dict, datos_noticias: dic
     try:
         r = ia.pedir_json(prompts.INSTRUCCIONES_SALA,
                           prompts.mensaje_sala(momento, texto_cartelera, prompts.datos_estadisticos(cartelera, elo),
-                                               prompts.datos_noticias(cartelera, datos_noticias), anterior),
+                                               prompts.datos_noticias(cartelera, datos_noticias), anterior,
+                                               aprendizaje.texto_sala_aciertos(estado)),
                           prompts.ESQUEMA_SALA)
     except Exception as e:  # noqa: BLE001
         print(f"La sala de analistas no pudo escribir su informe: {e}")
         return None
     debate = r.get("debate") if isinstance(r.get("debate"), dict) else {}
-    nombres = {f"P{i:02d}": f"{p['jugadores'][0]} vs {p['jugadores'][1]}" for i, p in enumerate(cartelera, 1)}
+    por_codigo = {f"P{i:02d}": p for i, p in enumerate(cartelera, 1)}
     partidos = []
     for d in r.get("partidos") or []:
-        if isinstance(d, dict) and d.get("partido") in nombres:
-            partidos.append({"partido": f"{d['partido']} ({nombres[d['partido']]})",
+        if isinstance(d, dict) and d.get("partido") in por_codigo:
+            p = por_codigo[d["partido"]]
+            partidos.append({"partido": f"{d['partido']} ({p['jugadores'][0]} vs {p['jugadores'][1]})", "id": p["id"],
+                             "jugadores": p["jugadores"], "inicio": p["inicio"], "favorito": aprendizaje.favorito(p),
                              "vista": d.get("vista") if d.get("vista") in ("favorito", "sorpresa", "dudoso") else "dudoso",
                              "motivo": str(d.get("motivo", "")).strip()})
     informe = {"hora": comun.iso(momento), "datos": str(r.get("datos", "")).strip(),

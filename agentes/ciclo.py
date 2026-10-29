@@ -15,7 +15,7 @@ import calendar
 import shutil
 from datetime import datetime, timedelta
 
-from agentes import avisos as avisos_mod, boletos, comun, config, cuotas, elo as elo_mod, ia as ia_mod, \
+from agentes import aprendizaje, avisos as avisos_mod, boletos, comun, config, cuotas, elo as elo_mod, ia as ia_mod, \
     noticias, oficina, prompts, resultados, sala, web
 
 ESPECIALISTAS = ("estadistico", "reportero", "superficies")
@@ -110,7 +110,7 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
                 continue
             try:
                 decidir_uno(agente, estado, apuestas, bote_id, cartelera, (nota + "\n\n" if nota else "") +
-                            prompts.texto_especialistas(hechos), sala_txt, ia, momento)
+                            prompts.texto_especialistas(hechos, apuestas), sala_txt, ia, momento)
             except Exception as e:  # noqa: BLE001
                 oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir: {e}", "error")
 
@@ -219,6 +219,7 @@ def liquidar_pendientes(estado: dict, apuestas: list[dict], api, momento: dateti
             if dia < (momento - timedelta(days=1)).date():
                 leidos.append(dia)
     resultados.guardar_historial(partidos, leidos)
+    aprendizaje.puntuar_sala(estado, partidos, momento)
     liquidadas, consultados = 0, {}
     for a in pendientes:
         r = resultados.buscar(a, partidos)

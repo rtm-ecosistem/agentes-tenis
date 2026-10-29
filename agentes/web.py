@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
-from agentes import boletos, comun, config, oficina, prompts
+from agentes import aprendizaje, boletos, comun, config, oficina, prompts
 
 CAMPOS_AGENTE = ("id", "rol", "nombre", "titulo", "color", "personalidad", "como_decide", "que_lee", "estado", "alta",
-                 "despedido", "carta", "carta_recibida", "sustituye_a", "sustituto", "reflexiones", "revisiones", "listo_real")
+                 "despedido", "carta", "carta_recibida", "sustituye_a", "sustituto", "reflexiones", "revisiones", "listo_real",
+                 "reglas", "reglas_retiradas")
 
 
 def _agente(a: dict, apuestas: list[dict]) -> dict:
@@ -22,7 +23,8 @@ def _agente(a: dict, apuestas: list[dict]) -> dict:
     return {**datos, "total": boletos.resumen(suyas), "botes": por_bote, "serie": serie[-300:],
             "situacion": prompts.situacion(a, apuestas) if a["estado"] == "activo" else None,
             "real": oficina.progreso_real(a, apuestas) if a["estado"] == "activo" else None,
-            "informes": a.get("informes", [])[-12:]}
+            "informes": a.get("informes", [])[-12:],
+            "desglose": aprendizaje.desglose(suyas), "calibracion": aprendizaje.calibracion(suyas)}
 
 
 def generar(estado: dict, apuestas: list[dict]) -> dict:
@@ -48,6 +50,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "sala": estado.get("sala", [])[-12:][::-1],
         "bitacora": estado.get("bitacora", [])[-30:][::-1],
         "ultima_decision": estado.get("ultima_decision"),
+        "sala_aciertos": {k: v for k, v in estado.get("sala_aciertos", {}).items() if k != "vistos"},
     }
     # Si no ha cambiado nada más que la hora, no se reescribe (así no hay un cambio nuevo cada hora)
     previo = comun.leer(config.WEB_DIR / "datos.json", {})
