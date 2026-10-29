@@ -1337,6 +1337,7 @@ function boleto(b) {
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>
+    ${b.estado === 'pendiente' ? `<div class="linea"><span>Si acierta cobra <b class="num">${eur(b.stake * b.cuota)}</b></span><b class="num sube">${eur(b.stake * (b.cuota - 1), true)}</b></div>` : ''}
     <div class="linea"><span>Pinnacle${A('cierre')}: ${b.pinnacle_apuesta ? b.pinnacle_apuesta.toFixed(2) : '–'} → cierre ${b.pinnacle_cierre ? b.pinnacle_cierre.toFixed(2) : '–'}</span>
       ${bate == null ? '' : `<span class="chip ${bate ? 'bien' : 'mal'}">${bate ? '✓ batió el cierre' : '✗ peor que el cierre'}</span>`}</div>
     ${b.estado !== 'pendiente' ? `<div class="linea"><span>${esc(b.resultado || '')}</span><b class="num ${clase(b.ganancia)}">${eur(b.ganancia, true)}</b></div>` : ''}
