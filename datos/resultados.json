@@ -235861,6 +235861,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Miriam Bulgaru",
+    "Nadia Podoroska"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
