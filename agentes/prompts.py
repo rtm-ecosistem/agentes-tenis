@@ -151,13 +151,18 @@ Responde SOLO con un JSON:
   "ambiente": "2-3 frases sobre prensa, redes y motivación.",
   "debate": {"favorito": "El mejor argumento a favor de los favoritos de hoy (2-3 frases).", "contra": "El mejor argumento para ir contra ellos (2-3 frases)."},
   "conclusion": "2-3 frases: qué pesa más y qué hay que vigilar.",
-  "partidos": [{"partido": "P01", "vista": "favorito, sorpresa o dudoso", "motivo": "Una frase con el dato en que os basáis."}]
+  "partidos": [{"partido": "P01", "vista": "favorito, sorpresa o dudoso", "motivo": "Una frase con el dato en que os basáis."}],
+  "importantes": ["P03"]
 }
-Incluid entre 0 y 8 partidos destacados (los códigos de la cartelera)."""
+Incluid entre 0 y 8 partidos destacados (los códigos de la cartelera). Si os damos NOTICIAS NUEVAS, en "importantes"
+poned solo los códigos de los partidos en los que esas noticias pueden cambiar lo que vale apostar (una lesión, una
+retirada, cansancio, un cambio de pista o de condiciones, un problema personal). Una entrevista, una previa o un
+resultado ya conocido no cuentan. Pedir cuotas nuevas cuesta créditos: ante la duda, dejadlo fuera. Sin noticias
+nuevas, dejadlo vacío."""
 
 
 def mensaje_sala(momento: datetime, cartelera_txt: str, estadisticos: str, noticias_txt: str, anterior: dict | None,
-                 historial: str = "", cansancio: str = "(sin datos)") -> str:
+                 historial: str = "", cansancio: str = "(sin datos)", nuevas: str = "") -> str:
     previo = f"Vuestra conclusión anterior ({anterior['hora'][:16]}): {anterior['conclusion']}" if anterior else ""
     return f"""Ahora: {momento.astimezone(comun.MADRID):%A %d/%m/%Y %H:%M} (hora de España)
 
@@ -175,7 +180,7 @@ NOTICIAS
 
 {previo}
 
-{historial}"""
+{historial}""" + (f"\n\nNOTICIAS NUEVAS DESDE EL ÚLTIMO INFORME (decid en \"importantes\" si cambian algún partido)\n{nuevas}" if nuevas else "")
 
 
 ESQUEMA_SALA = {"type": "OBJECT", "properties": {
@@ -184,7 +189,8 @@ ESQUEMA_SALA = {"type": "OBJECT", "properties": {
     "conclusion": {"type": "STRING"},
     "partidos": {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
         "partido": {"type": "STRING"}, "vista": {"type": "STRING", "enum": ["favorito", "sorpresa", "dudoso"]},
-        "motivo": {"type": "STRING"}}}}},
+        "motivo": {"type": "STRING"}}}},
+    "importantes": {"type": "ARRAY", "items": {"type": "STRING"}}},
     "required": ["datos", "noticias", "ambiente", "debate", "conclusion"]}
 
 

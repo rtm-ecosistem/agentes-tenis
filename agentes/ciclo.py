@@ -272,14 +272,17 @@ def creditos_hora_disponibles(estado: dict, momento: datetime) -> int:
     c = estado.setdefault("creditos", {}).setdefault("noticias", {})
     hoy = comun.hoy_madrid(momento)
     if c.get("dia") != hoy:
-        c.update({"dia": hoy, "gastados": 0})
+        c.update({"dia": hoy, "gastados": 0, "partidos": [], "pendientes": {}})
+    c.setdefault("partidos", [])
+    c.setdefault("pendientes", {})
     return max(0, config.CREDITOS_NOTICIAS_DIA - c["gastados"])
 
 
 def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: datetime) -> int:
-    """Lee las noticias de los jugadores que aún no han jugado. Si hay alguna nueva, la sala actualiza su informe
-    y, con cuotas recién pedidas (solo el ganador y solo de los torneos afectados), los analistas deciden sobre esos
-    partidos. Devuelve cuántas apuestas nuevas hay."""
+    """Lee las noticias de los jugadores que aún no han jugado. Si hay alguna nueva, la sala actualiza su informe y
+    dice en qué partidos cambia algo. Solo esos esperan cuotas nuevas (solo el ganador, 1 crédito por torneo y nunca
+    dos veces el mismo partido en el día). Si se pidieron cuotas hace poco y el partido aún queda lejos, se espera para
+    juntar noticias. Con las cuotas, los analistas deciden sobre esos partidos. Devuelve cuántas apuestas nuevas hay."""
     guardada = comun.leer(config.CARTELERA, {"partidos": []})
     margen_inicio = momento + timedelta(minutes=config.MINUTOS_SIN_APUESTAS)
     partidos = [p for p in guardada.get("partidos", []) if comun.fecha_hora(p["inicio"]) > margen_inicio]
@@ -298,26 +301,50 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
             for n in noticias.de_jugador(datos, j):
                 if n["id"] not in vistas:
                     nuevas.setdefault(p["id"], []).append(n)
-    if not nuevas:
+    disponibles = creditos_hora_disponibles(estado, momento)
+    c = estado["creditos"]["noticias"]
+    vivos = {p["id"]: p for p in partidos}
+    c["pendientes"] = {k: v for k, v in c["pendientes"].items() if k in vivos and k not in c["partidos"]}
+    decidido = estado.get("ultima_decision") == comun.hoy_madrid(momento)
+    ia, elo = None, comun.leer(config.ELO, {})
+    if nuevas:
+        afectados = [p for p in partidos if p["id"] in nuevas]
+        nombres = ", ".join(" – ".join(p["jugadores"]) for p in afectados[:3]) + ("…" if len(afectados) > 3 else "")
+        oficina.anotar(estado, momento, f"📰 Noticias nuevas de {nombres}: la sala actualiza su informe.")
+        ia = crear_ia()
+        informe = sala.escribir(estado, partidos, elo, datos, ia, momento, nuevas) or {}
+        if decidido:
+            importantes = [i for i in informe.get("importantes", []) if i not in c["partidos"]]
+            for i in importantes:
+                c["pendientes"][i] = list(dict.fromkeys(c["pendientes"].get(i, []) + [n["titulo"] for n in nuevas[i]]))[-6:]
+            if importantes:
+                oficina.anotar(estado, momento, "🚨 La sala cree que las noticias cambian " + ", ".join(
+                    " – ".join(vivos[i]["jugadores"]) for i in importantes) + ".")
+            else:
+                oficina.anotar(estado, momento, "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.")
+    else:
         print("Sin noticias nuevas de los jugadores que quedan por jugar.")
-        return 0
-    afectados = [p for p in partidos if p["id"] in nuevas]
-    titulares = "; ".join(dict.fromkeys(n["titulo"] for p in afectados for n in nuevas[p["id"]]))
-    nombres = ", ".join(" – ".join(p["jugadores"]) for p in afectados[:3]) + ("…" if len(afectados) > 3 else "")
-    oficina.anotar(estado, momento, f"📰 Noticias nuevas de {nombres}: la sala actualiza su informe.")
-    ia = crear_ia()
-    elo = comun.leer(config.ELO, {})
-    sala.escribir(estado, partidos, elo, datos, ia, momento)
-    if estado.get("ultima_decision") != comun.hoy_madrid(momento):
+    if not decidido or not c["pendientes"]:
         return 0  # antes de la decisión de las 9:00 solo se informa
     if api is None or en_ahorro(estado, momento):
-        oficina.anotar(estado, momento, "Sin cuotas nuevas: los créditos de The Odds API van justos este mes.")
+        if nuevas:
+            oficina.anotar(estado, momento, "Sin cuotas nuevas: los créditos de The Odds API van justos este mes.")
         return 0
-    disponibles = creditos_hora_disponibles(estado, momento)
-    deportes = sorted({p["deporte"] for p in afectados})[:disponibles]
-    if not deportes:
+    if not disponibles:
         oficina.anotar(estado, momento, "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.")
+        c["pendientes"] = {}
         return 0
+    falta = min(comun.fecha_hora(vivos[i]["inicio"]) for i in c["pendientes"]) - momento
+    if (c.get("ultimo") and momento - comun.fecha_hora(c["ultimo"]) < timedelta(hours=config.HORAS_ENTRE_CREDITOS_NOTICIAS)
+            and falta > timedelta(hours=config.HORAS_URGENTE_NOTICIAS)):
+        if nuevas:
+            oficina.anotar(estado, momento, "⏳ Hace poco que se pidieron cuotas y los partidos aún quedan lejos: "
+                                            "se espera por si salen más noticias.")
+        return 0
+    afectados = [vivos[i] for i in c["pendientes"]]
+    deportes = sorted({p["deporte"] for p in afectados})[:disponibles]
+    afectados = [p for p in afectados if p["deporte"] in deportes]
+    titulares = "; ".join(dict.fromkeys(t for p in afectados for t in c["pendientes"][p["id"]]))
     casa, frescos = estado.get("casa") or "williamhill", []
     antes = api.gastados
     for d in deportes:
@@ -330,13 +357,18 @@ def noticias_hora(estado: dict, apuestas: list[dict], api, crear_ia, momento: da
             if p["deporte"] == d and p["id"] in eventos:
                 frescos.append(cuotas.partido(eventos[p["id"]], {"key": d, "title": p["torneo"]}, casa))
     gastados = max(api.gastados - antes, len(deportes))
-    estado["creditos"]["noticias"]["gastados"] += gastados
+    c["gastados"] += gastados
+    c["ultimo"] = comun.iso(momento)
+    for p in afectados:
+        c["partidos"].append(p["id"])
+        c["pendientes"].pop(p["id"], None)
     frescos = [p for p in frescos if p["opciones"]]
     if not frescos:
         return 0
     nota = ("ACTUALIZACIÓN DE LA TARDE: han salido noticias nuevas de estos partidos (" + titulares[:600] + "). "
             "Solo hay cuotas nuevas del ganador. Apuesta únicamente si las noticias cambian de verdad tu opinión; "
             "si no, no apuestes (ya decidiste esta mañana).")
+    ia = ia or crear_ia()
     n_antes = len(apuestas)
     decidir_todos(estado, apuestas, frescos, elo, datos, prompts.texto_sala(sala.para_decidir(estado, momento)), ia,
                   momento, nota)
