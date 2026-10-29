@@ -1,5 +1,8 @@
 {
  "dias": [
+  "2025-10-30",
+  "2025-10-31",
+  "2025-11-01",
   "2025-11-02",
   "2025-11-03",
   "2025-11-04",
@@ -1729,6 +1732,132 @@
    "completo": true
   },
   {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mariana Isabel Higuita Barraza",
+    "Ana Candiotto"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gergana Topalova",
+    "Rebeca Pereira"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Jose Sanchez Uribe",
+    "Martina Okalova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noelia Zeballos",
+    "Sabastiani Leon"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Vergara Rivera",
+    "Isabella Ascencio Jaramillo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-26",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carla Markus",
+    "Maria Isabel Suarez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2025-10-27",
    "torneo": "Rolex Paris Masters",
    "circuito": "ATP",
@@ -2374,6 +2503,186 @@
     [
      6,
      7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gergana Topalova",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carla Markus",
+    "Maria Jose Sanchez Uribe"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noelia Zeballos",
+    "Ana Candiotto"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leyre Romero Gormaz",
+    "Selena Janicijevic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Vergara Rivera",
+    "Katarina Jokic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polona Hercog",
+    "Tina Nadine Smith"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Maria Camila Torres Murcia"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-27",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Paulina Perez Garcia",
+    "Yuliana Lizarazo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     1,
+     6
     ]
    ],
    "completo": true
@@ -3040,6 +3349,262 @@
     [
      6,
      1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Antonia Vergara Rivera",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gabriela Lee",
+    "Carla Markus"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Noelia Zeballos"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ekaterine Gorgodze",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Anastasia Zolotareva",
+    "Nicole Fossa Huergo"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Eva Vedder",
+    "Sara Bejlek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Hanna Chang"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Valeriya Strakhova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Valentina Mediorreal Arias",
+    "Despina Papamichail"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Ana Candiotto"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-28",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alicia Herrero Linana",
+    "Jessica Pieri"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
     ]
    ],
    "completo": true
@@ -3840,6 +4405,178 @@
    "completo": true
   },
   {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Gabriela Lee"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tina Nadine Smith",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Sara Bejlek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Oleksandra Oliynykova"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Selena Janicijevic",
+    "Anastasia Zolotareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Despina Papamichail"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-29",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yuliana Lizarazo",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
    "fecha": "2025-10-30",
    "torneo": "Rolex Paris Masters",
    "circuito": "ATP",
@@ -4374,6 +5111,69 @@
    "sets": [
     [
      3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Selena Janicijevic",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Varvara Lepchenko",
+    "Panna Udvardy"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-10-30",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Sara Bejlek"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
      6
     ],
     [
@@ -5284,6 +6084,73 @@
     [
      5,
      7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Panna Udvardy",
+    "Sara Bejlek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Sinja Kraus"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2025-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sinja Kraus",
+    "Panna Udvardy"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
     ]
    ],
    "completo": true
@@ -234517,6 +235384,31 @@
     ],
     [
      3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-29",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Xinran Sun",
+    "Maria Timofeeva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
      6
     ]
    ],

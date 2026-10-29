@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T09:32+00:00",
+ "actualizado": "2026-10-29T11:23+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -483,40 +483,6 @@
  "cartelera": {
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
-   {
-    "id": "f7fa6060659fec573d7a7df3881aff82",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T11:00+00:00",
-    "jugadores": [
-     "Valentin Vacherot",
-     "Rafael Jodar"
-    ],
-    "opciones": [
-     {
-      "id": "f7fa6060659fec573d7a7df3881aff82|h2h|Rafael Jodar|",
-      "mercado": "h2h",
-      "nombre": "Rafael Jodar",
-      "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.36
-     },
-     {
-      "id": "f7fa6060659fec573d7a7df3881aff82|h2h|Valentin Vacherot|",
-      "mercado": "h2h",
-      "nombre": "Valentin Vacherot",
-      "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.44
-     }
-    ],
-    "pinnacle_h2h": {
-     "Rafael Jodar": 1.36,
-     "Valentin Vacherot": 3.44
-    }
-   },
    {
     "id": "9744d2cb822ca005f4607e336b1b2b81",
     "deporte": "tennis_atp_vienna_open",
