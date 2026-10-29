@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T17:31+00:00",
+ "actualizado": "2026-10-29T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -61,19 +61,18 @@
    "nombre": "Daniel Altmaier",
    "circuito": "ATP",
    "elo": {
-    "all": 1608.0,
-    "hard": 1597.5,
+    "all": 1599.9,
+    "hard": 1587.3,
     "clay": 1498.1,
     "grass": 1465.7
    },
    "n": {
-    "all": 135,
-    "hard": 93,
+    "all": 136,
+    "hard": 94,
     "clay": 34,
     "grass": 8
    },
    "ultimos": [
-    "2026-08-26 P hard vs Ignacio Buse",
     "2026-09-02 P hard vs Zachary Svajda",
     "2026-09-28 P hard vs Cui Jie",
     "2026-10-07 G hard vs Holger Rune",
@@ -82,7 +81,8 @@
     "2026-10-22 G hard vs Borna Gojo",
     "2026-10-23 P hard vs Taylor Fritz",
     "2026-10-24 G hard vs Henry Bernet",
-    "2026-10-25 P hard vs Juan Manuel Cerundolo"
+    "2026-10-25 P hard vs Juan Manuel Cerundolo",
+    "2026-10-29 P hard vs Jiri Lehecka"
    ]
   },
   "tu|l": {
@@ -1037,19 +1037,18 @@
    "nombre": "Jiri Lehecka",
    "circuito": "ATP",
    "elo": {
-    "all": 1814.3,
-    "hard": 1784.9,
+    "all": 1821.8,
+    "hard": 1793.7,
     "clay": 1694.1,
     "grass": 1735.0
    },
    "n": {
-    "all": 167,
-    "hard": 133,
+    "all": 168,
+    "hard": 134,
     "clay": 20,
     "grass": 14
    },
    "ultimos": [
-    "2026-10-01 G hard vs Zizou Bergs",
     "2026-10-03 G hard vs Ugo Humbert",
     "2026-10-04 G hard vs Adolfo Daniel Vallejo",
     "2026-10-05 G hard vs Valentin Vacherot",
@@ -1058,7 +1057,8 @@
     "2026-10-12 P hard vs Rafael Jodar",
     "2026-10-22 G hard vs Raphael Collignon",
     "2026-10-23 P hard vs Tallon Griekspoor",
-    "2026-10-27 G hard vs Stan Wawrinka"
+    "2026-10-27 G hard vs Stan Wawrinka",
+    "2026-10-29 G hard vs Daniel Altmaier"
    ]
   },
   "zverev|a": {
@@ -1205,19 +1205,18 @@
    "nombre": "Taylor Fritz",
    "circuito": "ATP",
    "elo": {
-    "all": 1837.5,
-    "hard": 1833.3,
+    "all": 1847.6,
+    "hard": 1846.2,
     "clay": 1558.6,
     "grass": 1916.4
    },
    "n": {
-    "all": 210,
-    "hard": 147,
+    "all": 211,
+    "hard": 148,
     "clay": 31,
     "grass": 32
    },
    "ultimos": [
-    "2026-09-03 G hard vs Mattia Bellucci",
     "2026-09-05 P hard vs Francisco Cerundolo",
     "2026-10-01 P hard vs Jaume Munar",
     "2026-10-10 G hard vs Matteo Arnaldi",
@@ -1226,7 +1225,8 @@
     "2026-10-23 G hard vs Daniel Altmaier",
     "2026-10-24 G hard vs Tommy Paul",
     "2026-10-25 P hard vs Lorenzo Musetti",
-    "2026-10-28 G hard vs Rinky Hijikata"
+    "2026-10-28 G hard vs Rinky Hijikata",
+    "2026-10-29 G hard vs Denis Shapovalov"
    ]
   },
   "jarry|n": {
@@ -2674,19 +2674,18 @@
    "nombre": "Denis Shapovalov",
    "circuito": "ATP",
    "elo": {
-    "all": 1726.0,
-    "hard": 1752.1,
+    "all": 1714.1,
+    "hard": 1737.6,
     "clay": 1427.7,
     "grass": 1450.2
    },
    "n": {
-    "all": 136,
-    "hard": 107,
+    "all": 137,
+    "hard": 108,
     "clay": 20,
     "grass": 9
    },
    "ultimos": [
-    "2026-08-30 G hard vs Miomir Kecmanovic",
     "2026-09-02 G hard vs Luca Van Assche",
     "2026-09-05 P hard vs Ben Shelton",
     "2026-09-24 G hard vs Tallon Griekspoor",
@@ -2695,7 +2694,8 @@
     "2026-09-28 P hard vs Hubert Hurkacz",
     "2026-10-01 G hard vs Sho Shimabukuro",
     "2026-10-03 G hard vs Alejandro Tabilo",
-    "2026-10-28 G hard vs Remy Bertola"
+    "2026-10-28 G hard vs Remy Bertola",
+    "2026-10-29 P hard vs Taylor Fritz"
    ]
   },
   "carballes baena|r": {
@@ -48464,7 +48464,7 @@
   ],
   "altmaier|d~lehecka|j": [
    0,
-   1
+   2
   ],
   "giron|m~rinderknech|a": [
    1,
@@ -50543,7 +50543,7 @@
    0
   ],
   "fritz|t~shapovalov|d": [
-   1,
+   2,
    1
   ],
   "mmoh|m~ruud|c": [
@@ -90907,5 +90907,5 @@
    0
   ]
  },
- "propios": 10400
+ "propios": 10402
 }

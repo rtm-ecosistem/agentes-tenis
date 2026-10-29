@@ -53,13 +53,14 @@
   "cuota": 1.91,
   "casa": "williamhill",
   "pinnacle_apuesta": 1.95,
-  "pinnacle_cierre": null,
+  "pinnacle_cierre": 1.97,
   "confianza": 1,
   "stake": 10.0,
   "motivo": "Flavio Cobolli registra un Elo en superficie del 62% y un total de 1781 frente a 1687 de Matteo Berrettini, estimando nuestra probabilidad en un 63% frente a la cuota de 1.91 del mercado.",
   "estado": "pendiente",
   "ganancia": null,
   "resultado": null,
-  "temporada": "prueba"
+  "temporada": "prueba",
+  "hora_cierre": "2026-10-29T18:10+00:00"
  }
 ]

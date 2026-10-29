@@ -126,7 +126,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T17:31+00:00",
+    "hora": "2026-10-29T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -242,7 +242,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T17:31+00:00",
+    "hora": "2026-10-29T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -353,7 +353,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T17:31+00:00",
+    "hora": "2026-10-29T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T17:31+00:00",
+    "hora": "2026-10-29T18:10+00:00",
     "rent": 0.0
    }
   }
@@ -724,6 +724,29 @@
      "motivo": ""
     }
    ]
+  },
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "datos": "Los modelos de Elo en superficie dura sitúan a Flavio Cobolli con un 62% de opciones frente a Matteo Berrettini, mientras que el mercado ofrece cuotas muy igualadas de 1.91. En el torneo WTA de Tokio, Diana Shnaider posee un Elo superior de 1910 frente a los 1815 de Alexandra Eala, reflejado en su favoritismo a cuota 1.67. Por su parte, Maya Joint llega con mejor forma reciente y un Elo de 1740 para medirse a Kamilla Rakhimova en cuartos de final.",
+   "noticias": "En el apartado físico destaca la acumulación de partidos largos en Tokio, como el de Diana Shnaider que necesitó 30 juegos y tres sets frente a Sasnovich, o el desgaste de Maya Joint con 47 juegos en los últimos tres días. Flavio Cobolli llega tras superar un exigente duelo de tres sets y 28 juegos ante Grigor Dimitrov en Viena. Además, circulan noticias sobre tensiones extradeportivas que podrían afectar la concentración en el circuito.",
+   "ambiente": "La prensa destaca la emoción por los cuartos de final en Tokio y el duelo fratricida italiano en Viena entre Cobolli y Berrettini. La motivación es máxima al encontrarse en fases avanzadas de torneos ATP 500 y WTA 500.",
+   "favorito": "Defender a los favoritos como Diana Shnaider se sustenta en su mayor ranking general de Elo (1910) y su solvencia en pista dura para superar rondas decisivas. En Viena, la potencia de Matteo Berrettini avala su capacidad para resolver partidos ajustados sin ceder terreno al resto con su potente servicio en superficies rápidas a cubierto.",
+   "contra": "",
+   "conclusion": "La combinación entre el desgaste físico de los partidos largos previos y las cuotas tan ajustadas del mercado obliga a extremar la cautela en las elecciones. Es fundamental vigilar la recuperación tras los maratones de tres sets disputados en Tokio antes de decantarse por cualquier bando.",
+   "partidos": [
+    {
+     "partido": "P01 (Flavio Cobolli vs Matteo Berrettini)",
+     "id": "3b65bc657a2d7391944d9e343c189c52",
+     "jugadores": [
+      "Flavio Cobolli",
+      "Matteo Berrettini"
+     ],
+     "inicio": "2026-10-29T19:00+00:00",
+     "favorito": "Flavio Cobolli",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -786,14 +809,24 @@
    "hora": "2026-10-29T16:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Flavio Cobolli – Matteo Berrettini, Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 22,
-  "restantes": 478,
-  "usados": 22,
-  "actualizado": "2026-10-29T17:10+00:00",
+  "gastados_mes": 23,
+  "restantes": 477,
+  "usados": 23,
+  "actualizado": "2026-10-29T18:10+00:00",
   "prevision_mes": 2,
   "noticias": {
    "dia": "2026-10-29",
@@ -809,7 +842,11 @@
  "ultima_decision": "2026-10-29",
  "ultima_sala": "2026-10-29-14",
  "noticias_vistas": [
+  "dd7c74d0c5f2",
+  "2cae19bff43f",
+  "61e658ee81a3",
   "e2f692315450",
+  "4e693fdac740",
   "9b7775c9e9c9",
   "2504b32b2bdc",
   "6f94695e79de",
@@ -823,6 +860,7 @@
   "bb22eedd475f",
   "013799b9f095",
   "e0d8a8ce28b0",
+  "b4569e259c3f",
   "506b94494847",
   "10d6d41d20e0",
   "5ae9a5e40773",
@@ -832,14 +870,23 @@
   "307e0986011e",
   "6d1d4c230bc2",
   "558f25ec7e8c",
+  "d331ab3f242e",
+  "f3432b4e5032",
+  "26be6cb4c11a",
+  "975e69ea6591",
+  "aaa5c0b5cd1a",
+  "c39a5a97695f",
+  "f8cda1eb4d1a",
   "6faff91f7f09",
   "7dc78c387fa9",
   "3bfce1f8e746",
   "b84c9b7e0a14",
+  "38edf193686e",
   "ce4bdcf339a1",
   "2ddd6a3a9b79",
   "26d05eeb4e03",
   "d290942acc97",
+  "b481d95627c6",
   "e2e70086df08",
   "2d84abd70177",
   "69031ddb6931",
@@ -866,8 +913,8 @@
   "00236eca5e96",
   "c4683173797e",
   "9be044fbfb0d",
-  "b481d95627c6",
   "ef43ea2a6868",
+  "f8fd9cf878a4",
   "0a82d05b80e9",
   "265c4885c5b2",
   "e0799cc0a0e2",
@@ -889,7 +936,6 @@
   "cfabf3a9cba7",
   "7cc5ca350ebc",
   "78065079b8cd",
-  "b4569e259c3f",
   "6665fafde330",
   "34c948943f3f",
   "87d1fe5ac919",
@@ -985,6 +1031,7 @@
   "46c814b6d461",
   "a788e4063a84",
   "3de543778a82",
+  "16827821fb1e",
   "d030b62e10f8",
   "6cc905260212",
   "318751614fe7",
@@ -1022,6 +1069,7 @@
   "45a28d276fd9",
   "b114c79fa62d",
   "7e1f0ae7df5d",
+  "812cdc53da00",
   "fce60c3aead7",
   "67305c89e44e",
   "0ebac81c844f",
@@ -1544,6 +1592,7 @@
   "d181d3e39f53",
   "4164c460cef3",
   "436a48a53867",
+  "867343fcf58f",
   "d15221698a28",
   "d7fd77934908",
   "6feee6a5d292",
@@ -1592,23 +1641,7 @@
   "6c152761eefc",
   "d0666165b2d3",
   "038bd6cbd715",
-  "b45c170a6d7b",
-  "f9479cec7aae",
-  "8e11f4eca754",
-  "81bd6c2b814e",
-  "5ed08132babc",
-  "984bc14aa62e",
-  "3974329a841c",
-  "fc824e764414",
-  "2c8582426be4",
-  "383b74455fc1",
-  "1dd7231e9267",
-  "bea873f2efaf",
-  "d67665f5af5c",
-  "5b836d3d05d7",
-  "d2f6dc5b1f31",
-  "eee2228688ed",
-  "ce07934347f9"
+  "b45c170a6d7b"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -2071,7 +2104,7 @@
    "inicio": "2026-10-29T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.625,
    "elo_general": 0.632,
    "elo_en_superficie": 0.617,
@@ -2095,6 +2128,12 @@
      "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-10-27 contra Grigor Dimitrov, ganó 6-4 3-6 6-3",
      "noticias": [
       {
+       "titulo": "Flavio Cobolli - Matteo Berrettini, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSWp5TUJneTEtRWM1V0JwcldPbTBuNC1ZejBpMkFkQ1VGWDVUUm1sbEY3NTRKRGdVNUxLNGFKeXRuNXgxd1lvcTdfcGtjMjBvRHpMZ3cxaXg0Vi1TNW9Gd1BzcHhoZkhHbXRrZWFyOE9XSndmVXAzWUVzQ2FLUzhSS1JnWk1qQmppcHVZN2UxRXVIRXJaVjBGSXFPYkNIZC15Y0RoQng2ZWNDR3BsYWx0OWdiSlBLcnBTbDB1S1d5OHRHUVFjaklFRDBwdTcwX1ZXV3ZRbTN3RUR0SlpwYzZSeDh6eUZjUE9ZNEIxdndONA?oc=5"
+      },
+      {
        "titulo": "Flavio Cobolli vs Matteo Berrettini · Round 2 · ATP Vienna - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-29",
@@ -2105,12 +2144,6 @@
        "fuente": "Odds Scanner",
        "fecha": "2026-10-28",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04aXBZOG1WWVN3Q1phRVFGdE1BbnBwT2E1TXZBbzUxSHRVbzV3aW1LZjNBS0dNNC1oTHFDZnZJbWFJa215Q0dXRjltZ2g5LVBMOUZXMHRtbXhWMXozM3dZNld1UFMzbF9JemQweVhxSXBsZTN3STlZ?oc=5"
-      },
-      {
-       "titulo": "Marcador en vivo y H2H de Flavio Cobolli Matteo Berrettini - Sofascore",
-       "fuente": "Sofascore",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVh3LXdYVkxwQWE1emFySVAzX2Z4NkxWRFU1SXFqSlExQW1wVHd3RUpqOVM0VDRqSElIb05PaFN1Q2lVMVhwSlJqX3NXN1J5NFFpWmItZ2VvOU0yVnc0ajhKV1NtbG5jb0xacFBsVFJ4cDFPaTM1d0d6cWVSVUV5bEptUzhkRlEwU2VybFl6cw?oc=5"
       }
      ]
     },
@@ -2129,22 +2162,22 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-26 contra Tomas Martin Etcheverry, ganó 6-3 6-4",
      "noticias": [
       {
-       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
-       "fuente": "Infobae",
+       "titulo": "Flavio Cobolli - Matteo Berrettini, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQzRSa2FHc05mSDBGQkQ3eXVnNDlRVVE3ZHdLVU9qSGs2ZTlEa2x6THdWMjZ2c2ZXN3YwS2gyWGNidmVtQ0FLMGhoMG1aUWxUNnpRaTdtRGtZRlJaMWNqRm1oaVpxOE5mSkFEV2QyUkVhTHcwRmlhWE1SZ1VXTjZoTEdxMUxpRF9tLUpjYkswN2l0ZXlMamkwamFxRi1zYUVvVWNvOVZfbWVfNWdWZTdLU01oV1hXaW4yNGFrWGIxM1NQcmNKSmxFaTNZdTVOWW85OFBaeV91UndaS2dGSGtvY0oyVEtlUnVEeURhM1FFalVaNXhFRFpramRRYW5IMXFNWGd1M0JWQXRwNUZwNEpIVnpfWlJReEXSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSWp5TUJneTEtRWM1V0JwcldPbTBuNC1ZejBpMkFkQ1VGWDVUUm1sbEY3NTRKRGdVNUxLNGFKeXRuNXgxd1lvcTdfcGtjMjBvRHpMZ3cxaXg0Vi1TNW9Gd1BzcHhoZkhHbXRrZWFyOE9XSndmVXAzWUVzQ2FLUzhSS1JnWk1qQmppcHVZN2UxRXVIRXJaVjBGSXFPYkNIZC15Y0RoQng2ZWNDR3BsYWx0OWdiSlBLcnBTbDB1S1d5OHRHUVFjaklFRDBwdTcwX1ZXV3ZRbTN3RUR0SlpwYzZSeDh6eUZjUE9ZNEIxdndONA?oc=5"
       },
       {
-       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
-       "fuente": "Infobae",
+       "titulo": "Flavio Cobolli vs Matteo Berrettini · Round 2 · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjMxSEd0OUZId0RlWG8xMFZpM3JqMTJkdzBZR0xfWW5hWS1vWkJGX1M0Y25SWG1sdWRyQ2llMkVNTWtaZ0RUdml0Uk1LS0Yxc2N3UzBrTmFZOW13Qm1QcUdWUEN3MG9KUU9CQ2ZjaDlab1Z0NFJCdmlZM0tQUjhmZ25hYXluSUc5WVJKc21qaTFVZHhDcnNjcDBmN3lWb3dBVGJmcUI0NTRkRUk0YWJSY3c4N2xQLXFLWEowX2VyQlY5eVlJN1ZVWUMyXy1kWXJMSV9NSF9ObjZ4alk1YloydzNITjgtSkY1eElRdmxYZjRzWW5vYmozdHFZd3JNb1p3ckozbUpkZ3J3LTdmQmdhajJKRVk5OW9KR05ZLUllYnQwYWNHQ3VsNnJJQmJlb3FYQlHSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHp1SWlxSkJqYk9SQzBNSGdIOFJwRHJZU1p3enhPdVBlU2FfcHdNUXFmR0plX3NKRF8wZXZBRTF3cmJPUjVnSHBSZE5MZ09Zd0FfMzVSRlZJaVB6M3F3ckI4QktZMGE2N0xHR0tLOHVJek8wSDdoWDl3RW9welQxeW1oVm14TXYzOTdIVTVSZFVJZG5CUE1xcG1pZw?oc=5"
       },
       {
-       "titulo": "Quién es Vanessa Bellini, la bailarina envuelta en el escándalo de Matteo Berrettini y Lorenzo Musetti - TN",
-       "fuente": "TN",
+       "titulo": "Highlights: Berrettini ruge en su estreno esta semana en Viena - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkhoVHJlbmgtOExCTW52anpRTFVMUWp1N3lSbGtIaDRJb1FlVl9YaHlvZVJkSE5IN0Y1UWFVQVhJMXlPR2VETmlXd1pDTXNra2VWNDJpaVg5blZuYUZXUmR2bmE1aUlFakNtZHQ0dTlDMmM2eXVsUW16UDQ2MGpMdl9MMnZ3ZDcwQVNNdkk1WHVWMWt2OGxBX0ltMXpvd2k2Z0ZDVjBvUlVRcEs2ZzVaUmp2UktZdDRsT01teWlpVnE4VXNyT0kyRW5VRVZTekZDTFFqeDRITEpxaGR1Z0Uw0gHzAUFVX3lxTE5Hcno2STZKWFUxcklsVVZ2QTFfYTVCWWhKUlh3SWRSTVFJdG9LSnE4c2RXSUdKV2NXakNqRDFEVzBtNjJXQUxFeXlBcTdHWUpPMDRXMzdTLW1wS0lsSGo0UlRud0NjcGV3LVFUZFRqN21XN250bmtCU0ZGSXpnaWRFNU9WdDZNay1MTklMVEpuVFpOYW1jYURWcHRnSmxwZXRXQ1dqSG8wSmxSdE90b1hvaU5BT21samdhVmt2bE9mTUpURGZLU09DZDhkbU0xbmstOGpqRThja21OU0pwQnNjQlo5UHh4ZWp1bnpkSW0zdWFMaw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1NLLXo4RUNrRVNGekRrZ0ZyVElpWnkzeXBIT0JHYV9IaGpiQUVYRmpsNTZoVWxDM0hzcUxKN3NncDcwZU16OVNUdjBVUmdDX1dVandoUVNpT2E2NWszVU4wODM1ejlXaEl4NGxWSFlvZFBibWw1c1pESGZOczNGb2RZek9qc2NySHdCajdUaWFILW5vTm4zc2ZJZ2RLR0tpa2V6N0I4OG5EcTFoalNPS29KVkM3SkhwWG9NVG1JX1hkMGM?oc=5"
       }
      ]
     }
@@ -2159,7 +2192,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -2189,16 +2222,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
       },
       {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3Y2SjRaZTUxNkdkY0RKZjU5MzlYTG1lS2VNMUNiZlZFQ2tSV2xuVGhTaVFsYlU4eVl5MVFINmw3YWJiUmpnUlNSZFBDdWNTTVZsNWNUS0JuLW5ZbHM5UmcyWFZ2WHljeURHeU9fcER4bUUzTS16enRvOTNINl9BcENOR1J2eTFVbmZj?oc=5"
+      },
+      {
        "titulo": "Alexandra Eala vs Talia Gibson · Round 2 · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtvSzMzSm8yZS1oQ3FCRFhVX0xBanFiOHNvYW94b0xfUk1WQTNtemRXQVIzVml2bS1ZRVFHNWctUjQtVjhlc0dLU051alFEWDYtRWlQVF91N25mVkpOcUVTVkI2VlNmc0ZCWk90bnZmcmtwWVE0Tk9uUnl6MHZzeWhncjdJRHp2X2hjb0N4V1FxZENpOHJ6QVFfdHYzMUhJZlhkRg?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
       }
      ]
     },
@@ -2223,16 +2256,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
       },
       {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3Y2SjRaZTUxNkdkY0RKZjU5MzlYTG1lS2VNMUNiZlZFQ2tSV2xuVGhTaVFsYlU4eVl5MVFINmw3YWJiUmpnUlNSZFBDdWNTTVZsNWNUS0JuLW5ZbHM5UmcyWFZ2WHljeURHeU9fcER4bUUzTS16enRvOTNINl9BcENOR1J2eTFVbmZj?oc=5"
+      },
+      {
        "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
-      },
-      {
-       "titulo": "En el WTA 500 de Tokio Alexandra Eala se citó con Diana Shnaider en cuartos de finales - Diario Deportes",
-       "fuente": "Diario Deportes",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlYxSndibHVlR2JpdTNaMWVSa2ttMkF3OGhaM2UwNElxdjdXS2Z0c2dSUVpVTFJ1Q21IZktTRjJqS0dveGIxUEdWYk5FX0xUbXZaTzRQakFYel9ROFRLMHNQd25GRG1idWpVWDhDMEhMV3lid3BZaGpRcHZQN29kRjIwTHh6b3g0ZkwwZ1ZqT1VSLWp2ZUxpcFJwUDhicGoyUjdEVFZKQnVVLWhHUDJXSEc0MURTVjBiaTlmbGRJX0IwdkpkTE1SMWZfb2hSQkZyX3c?oc=5"
       }
      ]
     }
@@ -2247,7 +2280,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T17:31+00:00",
+ "actualizado": "2026-10-29T18:12+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,10 +19,10 @@
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 22,
-  "restantes": 478,
-  "usados": 22,
-  "actualizado": "2026-10-29T17:10+00:00",
+  "gastados_mes": 23,
+  "restantes": 477,
+  "usados": 23,
+  "actualizado": "2026-10-29T18:10+00:00",
   "prevision_mes": 2,
   "noticias": {
    "dia": "2026-10-29",
@@ -777,40 +777,6 @@
   "actualizado": "2026-10-29T08:16+00:00",
   "partidos": [
    {
-    "id": "53d4ccf860436088aa717efdf2c38d25",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-29T18:10+00:00",
-    "jugadores": [
-     "Ben Shelton",
-     "Jerome Kym"
-    ],
-    "opciones": [
-     {
-      "id": "53d4ccf860436088aa717efdf2c38d25|h2h|Ben Shelton|",
-      "mercado": "h2h",
-      "nombre": "Ben Shelton",
-      "punto": null,
-      "cuota": 1.3,
-      "pinnacle": 1.32
-     },
-     {
-      "id": "53d4ccf860436088aa717efdf2c38d25|h2h|Jerome Kym|",
-      "mercado": "h2h",
-      "nombre": "Jerome Kym",
-      "punto": null,
-      "cuota": 3.5,
-      "pinnacle": 3.74
-     }
-    ],
-    "pinnacle_h2h": {
-     "Ben Shelton": 1.32,
-     "Jerome Kym": 3.74
-    }
-   },
-   {
     "id": "3b65bc657a2d7391944d9e343c189c52",
     "deporte": "tennis_atp_vienna_open",
     "torneo": "ATP Vienna Open",
@@ -969,17 +935,41 @@
    "cuota": 1.91,
    "casa": "williamhill",
    "pinnacle_apuesta": 1.95,
-   "pinnacle_cierre": null,
+   "pinnacle_cierre": 1.97,
    "confianza": 1,
    "stake": 10.0,
    "motivo": "Flavio Cobolli registra un Elo en superficie del 62% y un total de 1781 frente a 1687 de Matteo Berrettini, estimando nuestra probabilidad en un 63% frente a la cuota de 1.91 del mercado.",
    "estado": "pendiente",
    "ganancia": null,
    "resultado": null,
-   "temporada": "prueba"
+   "temporada": "prueba",
+   "hora_cierre": "2026-10-29T18:10+00:00"
   }
  ],
  "sala": [
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "datos": "Los modelos de Elo en superficie dura sitúan a Flavio Cobolli con un 62% de opciones frente a Matteo Berrettini, mientras que el mercado ofrece cuotas muy igualadas de 1.91. En el torneo WTA de Tokio, Diana Shnaider posee un Elo superior de 1910 frente a los 1815 de Alexandra Eala, reflejado en su favoritismo a cuota 1.67. Por su parte, Maya Joint llega con mejor forma reciente y un Elo de 1740 para medirse a Kamilla Rakhimova en cuartos de final.",
+   "noticias": "En el apartado físico destaca la acumulación de partidos largos en Tokio, como el de Diana Shnaider que necesitó 30 juegos y tres sets frente a Sasnovich, o el desgaste de Maya Joint con 47 juegos en los últimos tres días. Flavio Cobolli llega tras superar un exigente duelo de tres sets y 28 juegos ante Grigor Dimitrov en Viena. Además, circulan noticias sobre tensiones extradeportivas que podrían afectar la concentración en el circuito.",
+   "ambiente": "La prensa destaca la emoción por los cuartos de final en Tokio y el duelo fratricida italiano en Viena entre Cobolli y Berrettini. La motivación es máxima al encontrarse en fases avanzadas de torneos ATP 500 y WTA 500.",
+   "favorito": "Defender a los favoritos como Diana Shnaider se sustenta en su mayor ranking general de Elo (1910) y su solvencia en pista dura para superar rondas decisivas. En Viena, la potencia de Matteo Berrettini avala su capacidad para resolver partidos ajustados sin ceder terreno al resto con su potente servicio en superficies rápidas a cubierto.",
+   "contra": "",
+   "conclusion": "La combinación entre el desgaste físico de los partidos largos previos y las cuotas tan ajustadas del mercado obliga a extremar la cautela en las elecciones. Es fundamental vigilar la recuperación tras los maratones de tres sets disputados en Tokio antes de decantarse por cualquier bando.",
+   "partidos": [
+    {
+     "partido": "P01 (Flavio Cobolli vs Matteo Berrettini)",
+     "id": "3b65bc657a2d7391944d9e343c189c52",
+     "jugadores": [
+      "Flavio Cobolli",
+      "Matteo Berrettini"
+     ],
+     "inicio": "2026-10-29T19:00+00:00",
+     "favorito": "Flavio Cobolli",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ]
+  },
   {
    "hora": "2026-10-29T16:10+00:00",
    "datos": "Los números muestran a Novak Djokovic y Ben Shelton con claros porcentajes de favoritismo en pista dura según el Elo, 81% y 91% respectivamente. En el duelo entre Cobolli y Berrettini las opciones están muy niveladas con un Elo del 62% para el italiano. En el cuadro femenino, Diana Shnaider y Maya Joint parten con ligeras ventajas estadísticas frente a Eala y Rakhimova en Tokio.",
@@ -1225,6 +1215,16 @@
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-29T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Flavio Cobolli – Matteo Berrettini, Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-29T16:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
@@ -1757,7 +1757,7 @@
    "inicio": "2026-10-29T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.625,
    "elo_general": 0.632,
    "elo_en_superficie": 0.617,
@@ -1781,6 +1781,12 @@
      "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-10-27 contra Grigor Dimitrov, ganó 6-4 3-6 6-3",
      "noticias": [
       {
+       "titulo": "Flavio Cobolli - Matteo Berrettini, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSWp5TUJneTEtRWM1V0JwcldPbTBuNC1ZejBpMkFkQ1VGWDVUUm1sbEY3NTRKRGdVNUxLNGFKeXRuNXgxd1lvcTdfcGtjMjBvRHpMZ3cxaXg0Vi1TNW9Gd1BzcHhoZkhHbXRrZWFyOE9XSndmVXAzWUVzQ2FLUzhSS1JnWk1qQmppcHVZN2UxRXVIRXJaVjBGSXFPYkNIZC15Y0RoQng2ZWNDR3BsYWx0OWdiSlBLcnBTbDB1S1d5OHRHUVFjaklFRDBwdTcwX1ZXV3ZRbTN3RUR0SlpwYzZSeDh6eUZjUE9ZNEIxdndONA?oc=5"
+      },
+      {
        "titulo": "Flavio Cobolli vs Matteo Berrettini · Round 2 · ATP Vienna - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-29",
@@ -1791,12 +1797,6 @@
        "fuente": "Odds Scanner",
        "fecha": "2026-10-28",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04aXBZOG1WWVN3Q1phRVFGdE1BbnBwT2E1TXZBbzUxSHRVbzV3aW1LZjNBS0dNNC1oTHFDZnZJbWFJa215Q0dXRjltZ2g5LVBMOUZXMHRtbXhWMXozM3dZNld1UFMzbF9JemQweVhxSXBsZTN3STlZ?oc=5"
-      },
-      {
-       "titulo": "Marcador en vivo y H2H de Flavio Cobolli Matteo Berrettini - Sofascore",
-       "fuente": "Sofascore",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVh3LXdYVkxwQWE1emFySVAzX2Z4NkxWRFU1SXFqSlExQW1wVHd3RUpqOVM0VDRqSElIb05PaFN1Q2lVMVhwSlJqX3NXN1J5NFFpWmItZ2VvOU0yVnc0ajhKV1NtbG5jb0xacFBsVFJ4cDFPaTM1d0d6cWVSVUV5bEptUzhkRlEwU2VybFl6cw?oc=5"
       }
      ]
     },
@@ -1815,22 +1815,22 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-26 contra Tomas Martin Etcheverry, ganó 6-3 6-4",
      "noticias": [
       {
-       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
-       "fuente": "Infobae",
+       "titulo": "Flavio Cobolli - Matteo Berrettini, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQzRSa2FHc05mSDBGQkQ3eXVnNDlRVVE3ZHdLVU9qSGs2ZTlEa2x6THdWMjZ2c2ZXN3YwS2gyWGNidmVtQ0FLMGhoMG1aUWxUNnpRaTdtRGtZRlJaMWNqRm1oaVpxOE5mSkFEV2QyUkVhTHcwRmlhWE1SZ1VXTjZoTEdxMUxpRF9tLUpjYkswN2l0ZXlMamkwamFxRi1zYUVvVWNvOVZfbWVfNWdWZTdLU01oV1hXaW4yNGFrWGIxM1NQcmNKSmxFaTNZdTVOWW85OFBaeV91UndaS2dGSGtvY0oyVEtlUnVEeURhM1FFalVaNXhFRFpramRRYW5IMXFNWGd1M0JWQXRwNUZwNEpIVnpfWlJReEXSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSWp5TUJneTEtRWM1V0JwcldPbTBuNC1ZejBpMkFkQ1VGWDVUUm1sbEY3NTRKRGdVNUxLNGFKeXRuNXgxd1lvcTdfcGtjMjBvRHpMZ3cxaXg0Vi1TNW9Gd1BzcHhoZkhHbXRrZWFyOE9XSndmVXAzWUVzQ2FLUzhSS1JnWk1qQmppcHVZN2UxRXVIRXJaVjBGSXFPYkNIZC15Y0RoQng2ZWNDR3BsYWx0OWdiSlBLcnBTbDB1S1d5OHRHUVFjaklFRDBwdTcwX1ZXV3ZRbTN3RUR0SlpwYzZSeDh6eUZjUE9ZNEIxdndONA?oc=5"
       },
       {
-       "titulo": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis - Infobae",
-       "fuente": "Infobae",
+       "titulo": "Flavio Cobolli vs Matteo Berrettini · Round 2 · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjMxSEd0OUZId0RlWG8xMFZpM3JqMTJkdzBZR0xfWW5hWS1vWkJGX1M0Y25SWG1sdWRyQ2llMkVNTWtaZ0RUdml0Uk1LS0Yxc2N3UzBrTmFZOW13Qm1QcUdWUEN3MG9KUU9CQ2ZjaDlab1Z0NFJCdmlZM0tQUjhmZ25hYXluSUc5WVJKc21qaTFVZHhDcnNjcDBmN3lWb3dBVGJmcUI0NTRkRUk0YWJSY3c4N2xQLXFLWEowX2VyQlY5eVlJN1ZVWUMyXy1kWXJMSV9NSF9ObjZ4alk1YloydzNITjgtSkY1eElRdmxYZjRzWW5vYmozdHFZd3JNb1p3ckozbUpkZ3J3LTdmQmdhajJKRVk5OW9KR05ZLUllYnQwYWNHQ3VsNnJJQmJlb3FYQlHSAbICQVVfeXFMTnYzMUhHdDlGSHdEZVhvMTBWaTNyajEyZHcwWUdMX1luYVktb1pCRl9TNGNuUlhtbHVkckNpZTJFTU1rWmdEVHZpdFJNS0tGMXNjd1Mwa05hWTltd0JtUHFHVlBDdzBvSlFPQkNmY2g5Wm9WdDRSQnZpWTNLUFI4ZmduYWF5bklHOVlSSnNtamkxVWR4Q3JzY3AwZjd5Vm93QVRiZnFCNDU0ZEVJNGFiUmN3ODdsUC1xS1hKMF9lckJWOXlZSTdWVVlDMl8tZFlyTElfTUhfTm42eGpZNWJaMnczSE44LUpGNXhJUXZsWGY0c1lub2JqM3RxWXdyTW9ad3JKM21KZGdydy03ZkJnYWoySkVZOTlvSkdOWS1JZWJ0MGFjR0N1bDZySUJiZW9xWEJR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHp1SWlxSkJqYk9SQzBNSGdIOFJwRHJZU1p3enhPdVBlU2FfcHdNUXFmR0plX3NKRF8wZXZBRTF3cmJPUjVnSHBSZE5MZ09Zd0FfMzVSRlZJaVB6M3F3ckI4QktZMGE2N0xHR0tLOHVJek8wSDdoWDl3RW9welQxeW1oVm14TXYzOTdIVTVSZFVJZG5CUE1xcG1pZw?oc=5"
       },
       {
-       "titulo": "Quién es Vanessa Bellini, la bailarina envuelta en el escándalo de Matteo Berrettini y Lorenzo Musetti - TN",
-       "fuente": "TN",
+       "titulo": "Highlights: Berrettini ruge en su estreno esta semana en Viena - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkhoVHJlbmgtOExCTW52anpRTFVMUWp1N3lSbGtIaDRJb1FlVl9YaHlvZVJkSE5IN0Y1UWFVQVhJMXlPR2VETmlXd1pDTXNra2VWNDJpaVg5blZuYUZXUmR2bmE1aUlFakNtZHQ0dTlDMmM2eXVsUW16UDQ2MGpMdl9MMnZ3ZDcwQVNNdkk1WHVWMWt2OGxBX0ltMXpvd2k2Z0ZDVjBvUlVRcEs2ZzVaUmp2UktZdDRsT01teWlpVnE4VXNyT0kyRW5VRVZTekZDTFFqeDRITEpxaGR1Z0Uw0gHzAUFVX3lxTE5Hcno2STZKWFUxcklsVVZ2QTFfYTVCWWhKUlh3SWRSTVFJdG9LSnE4c2RXSUdKV2NXakNqRDFEVzBtNjJXQUxFeXlBcTdHWUpPMDRXMzdTLW1wS0lsSGo0UlRud0NjcGV3LVFUZFRqN21XN250bmtCU0ZGSXpnaWRFNU9WdDZNay1MTklMVEpuVFpOYW1jYURWcHRnSmxwZXRXQ1dqSG8wSmxSdE90b1hvaU5BT21samdhVmt2bE9mTUpURGZLU09DZDhkbU0xbmstOGpqRThja21OU0pwQnNjQlo5UHh4ZWp1bnpkSW0zdWFMaw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ1NLLXo4RUNrRVNGekRrZ0ZyVElpWnkzeXBIT0JHYV9IaGpiQUVYRmpsNTZoVWxDM0hzcUxKN3NncDcwZU16OVNUdjBVUmdDX1dVandoUVNpT2E2NWszVU4wODM1ejlXaEl4NGxWSFlvZFBibWw1c1pESGZOczNGb2RZek9qc2NySHdCajdUaWFILW5vTm4zc2ZJZ2RLR0tpa2V6N0I4OG5EcTFoalNPS29KVkM3SkhwWG9NVG1JX1hkMGM?oc=5"
       }
      ]
     }
@@ -1845,7 +1845,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.341,
    "elo_general": 0.366,
    "elo_en_superficie": 0.316,
@@ -1875,16 +1875,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
       },
       {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3Y2SjRaZTUxNkdkY0RKZjU5MzlYTG1lS2VNMUNiZlZFQ2tSV2xuVGhTaVFsYlU4eVl5MVFINmw3YWJiUmpnUlNSZFBDdWNTTVZsNWNUS0JuLW5ZbHM5UmcyWFZ2WHljeURHeU9fcER4bUUzTS16enRvOTNINl9BcENOR1J2eTFVbmZj?oc=5"
+      },
+      {
        "titulo": "Alexandra Eala vs Talia Gibson · Round 2 · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGtvSzMzSm8yZS1oQ3FCRFhVX0xBanFiOHNvYW94b0xfUk1WQTNtemRXQVIzVml2bS1ZRVFHNWctUjQtVjhlc0dLU051alFEWDYtRWlQVF91N25mVkpOcUVTVkI2VlNmc0ZCWk90bnZmcmtwWVE0Tk9uUnl6MHZzeWhncjdJRHp2X2hjb0N4V1FxZENpOHJ6QVFfdHYzMUhJZlhkRg?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
       }
      ]
     },
@@ -1909,16 +1909,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVYyX1VUYVl5dFNNVzJTU2lkREdHRVhqVjR0Wl9YQU9qbm1PNkswdl9jTlZCWjhwZXlRRzdadGNETzRLMy1FYWtQNmY2Zks4dElwYUdsbXM2NTd1ZWw4QndTWkRydWRDakV3dFo5YmhtNGdQajBjRjBVSUxlb2hUODdUSHVMMFNFV0lMejZkU1d6WnFxVjczQjFqakRhMVFvQTkxMGdKOA?oc=5"
       },
       {
+       "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuotas y estadísticas - 29 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3Y2SjRaZTUxNkdkY0RKZjU5MzlYTG1lS2VNMUNiZlZFQ2tSV2xuVGhTaVFsYlU4eVl5MVFINmw3YWJiUmpnUlNSZFBDdWNTTVZsNWNUS0JuLW5ZbHM5UmcyWFZ2WHljeURHeU9fcER4bUUzTS16enRvOTNINl9BcENOR1J2eTFVbmZj?oc=5"
+      },
+      {
        "titulo": "Pronóstico Alexandra Eala vs Diana Shnaider - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUFKdUJkLV9fTWxWTUJxMXhId1ZHdWc5TFQ3cURybXRVYmJkcnBCRloybzhxbUJpdmlzbFJjMWJDSnlSamdTd25jd1J3UnVTTzFpTVgyZURYVjF0WTNqQ2g2em9LMndlVHBBT0UxN0tSczlOQU8wOUpKRXl0MVV2akc3TVZGUFNLeUplZUZOUQ?oc=5"
-      },
-      {
-       "titulo": "En el WTA 500 de Tokio Alexandra Eala se citó con Diana Shnaider en cuartos de finales - Diario Deportes",
-       "fuente": "Diario Deportes",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlYxSndibHVlR2JpdTNaMWVSa2ttMkF3OGhaM2UwNElxdjdXS2Z0c2dSUVpVTFJ1Q21IZktTRjJqS0dveGIxUEdWYk5FX0xUbXZaTzRQakFYel9ROFRLMHNQd25GRG1idWpVWDhDMEhMV3lid3BZaGpRcHZQN29kRjIwTHh6b3g0ZkwwZ1ZqT1VSLWp2ZUxpcFJwUDhicGoyUjdEVFZKQnVVLWhHUDJXSEc0MURTVjBiaTlmbGRJX0IwdkpkTE1SMWZfb2hSQkZyX3c?oc=5"
       }
      ]
     }
@@ -1933,7 +1933,7 @@
    "inicio": "2026-10-30T04:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
+   "actualizado": "2026-10-29T18:10+00:00",
    "elo": 0.427,
    "elo_general": 0.432,
    "elo_en_superficie": 0.422,
