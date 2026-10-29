@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T19:10+00:00",
+ "actualizado": "2026-10-29T19:32+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -925,19 +925,18 @@
    "nombre": "Tallon Griekspoor",
    "circuito": "ATP",
    "elo": {
-    "all": 1684.5,
-    "hard": 1700.6,
+    "all": 1680.1,
+    "hard": 1693.2,
     "clay": 1632.4,
     "grass": 1620.2
    },
    "n": {
-    "all": 156,
-    "hard": 106,
+    "all": 157,
+    "hard": 107,
     "clay": 37,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-31 P hard vs Ben Shelton",
     "2026-09-24 P hard vs Denis Shapovalov",
     "2026-10-01 P hard vs Andrey Rublev",
     "2026-10-08 P hard vs Pavel Kotov",
@@ -946,7 +945,8 @@
     "2026-10-23 G hard vs Jiri Lehecka",
     "2026-10-24 G hard vs Francisco Cerundolo",
     "2026-10-25 G hard vs Jan-Lennard Struff",
-    "2026-10-28 G hard vs Brandon Nakashima"
+    "2026-10-28 G hard vs Brandon Nakashima",
+    "2026-10-29 P hard vs Alexander Zverev"
    ]
   },
   "coric|b": {
@@ -1065,19 +1065,18 @@
    "nombre": "Alexander Zverev",
    "circuito": "ATP",
    "elo": {
-    "all": 2004.2,
-    "hard": 1946.5,
+    "all": 2007.9,
+    "hard": 1952.8,
     "clay": 1979.4,
     "grass": 1854.4
    },
    "n": {
-    "all": 254,
-    "hard": 163,
+    "all": 255,
+    "hard": 164,
     "clay": 67,
     "grass": 24
    },
    "ultimos": [
-    "2026-09-13 G hard vs Ben Shelton",
     "2026-10-01 G hard vs Cameron Norrie",
     "2026-10-03 G hard vs Shang Juncheng",
     "2026-10-04 P hard vs Novak Djokovic",
@@ -1086,7 +1085,8 @@
     "2026-10-13 G hard vs Alexander Bublik",
     "2026-10-15 G hard vs Alex de Minaur",
     "2026-10-17 P hard vs Alejandro Davidovich Fokina",
-    "2026-10-27 G hard vs Martin Landaluce"
+    "2026-10-27 G hard vs Martin Landaluce",
+    "2026-10-29 G hard vs Tallon Griekspoor"
    ]
   },
   "sonego|l": {
@@ -41709,7 +41709,7 @@
   ],
   "griekspoor|t~zverev|a": [
    2,
-   8
+   9
   ],
   "lennard struff|j~sinner|j": [
    0,
@@ -90912,5 +90912,5 @@
    0
   ]
  },
- "propios": 10404
+ "propios": 10405
 }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T19:15+00:00",
+ "actualizado": "2026-10-29T19:32+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -992,7 +992,8 @@
      "inicio": "2026-10-29T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P02 (Novak Djokovic vs Jan-Lennard Struff)",
@@ -1993,8 +1994,8 @@
  },
  "sala_aciertos": {
   "favorito": [
-   0,
-   0
+   1,
+   1
   ],
   "sorpresa": [
    0,
