@@ -236398,6 +236398,77 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jiri Lehecka",
+    "Jerome Kym"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Leyre Romero Gormaz"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Solana Sierra",
+    "Julia Riera"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }

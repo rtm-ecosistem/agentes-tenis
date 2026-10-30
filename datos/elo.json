@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T18:10+00:00",
+ "actualizado": "2026-10-30T19:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1037,19 +1037,18 @@
    "nombre": "Jiri Lehecka",
    "circuito": "ATP",
    "elo": {
-    "all": 1821.8,
-    "hard": 1793.7,
+    "all": 1830.1,
+    "hard": 1802.6,
     "clay": 1694.1,
     "grass": 1735.0
    },
    "n": {
-    "all": 168,
-    "hard": 134,
+    "all": 169,
+    "hard": 135,
     "clay": 20,
     "grass": 14
    },
    "ultimos": [
-    "2026-10-03 G hard vs Ugo Humbert",
     "2026-10-04 G hard vs Adolfo Daniel Vallejo",
     "2026-10-05 G hard vs Valentin Vacherot",
     "2026-10-06 P hard vs Carlos Alcaraz",
@@ -1058,7 +1057,8 @@
     "2026-10-22 G hard vs Raphael Collignon",
     "2026-10-23 P hard vs Tallon Griekspoor",
     "2026-10-27 G hard vs Stan Wawrinka",
-    "2026-10-29 G hard vs Daniel Altmaier"
+    "2026-10-29 G hard vs Daniel Altmaier",
+    "2026-10-30 G hard vs Jerome Kym"
    ]
   },
   "zverev|a": {
@@ -10102,19 +10102,18 @@
    "nombre": "Jerome Kym",
    "circuito": "ATP",
    "elo": {
-    "all": 1639.5,
-    "hard": 1607.7,
+    "all": 1622.1,
+    "hard": 1587.6,
     "clay": 1529.9,
     "grass": 1554.1
    },
    "n": {
-    "all": 22,
-    "hard": 13,
+    "all": 23,
+    "hard": 14,
     "clay": 6,
     "grass": 3
    },
    "ultimos": [
-    "2026-05-19 P clay vs Tom Gentzsch",
     "2026-06-22 G grass vs Gonzalo Bueno",
     "2026-06-24 G grass vs August Holmgren",
     "2026-06-25 P grass vs Roman Safiullin",
@@ -10123,7 +10122,8 @@
     "2026-08-25 G hard vs Dan Added",
     "2026-08-26 P hard vs Colton Smith",
     "2026-10-27 G hard vs Arthur Rinderknech",
-    "2026-10-29 G hard vs Ben Shelton"
+    "2026-10-29 G hard vs Ben Shelton",
+    "2026-10-30 P hard vs Jiri Lehecka"
    ]
   },
   "bertola|r": {
@@ -16178,19 +16178,18 @@
    "nombre": "Leyre Romero Gormaz",
    "circuito": "WTA",
    "elo": {
-    "all": 1640.8,
-    "hard": 1668.9,
+    "all": 1619.8,
+    "hard": 1645.0,
     "clay": 1541.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 52,
-    "hard": 42,
+    "all": 53,
+    "hard": 43,
     "clay": 9,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-15 P hard vs Martina Trevisan",
     "2026-09-21 G hard vs Polona Hercog",
     "2026-09-23 P hard vs Jessica Pieri",
     "2026-10-12 G hard vs Alice Rame",
@@ -16199,7 +16198,8 @@
     "2026-10-17 G hard vs Dalma Galfi",
     "2026-10-18 P hard vs Clara Burel",
     "2026-10-26 G hard vs Julia Konishi Camargo Silva",
-    "2026-10-28 G hard vs Antonia Vergara Rivera"
+    "2026-10-28 G hard vs Antonia Vergara Rivera",
+    "2026-10-30 P hard vs Julia Grabher"
    ]
   },
   "jokic|k": {
@@ -17198,19 +17198,18 @@
    "nombre": "Julia Riera",
    "circuito": "WTA",
    "elo": {
-    "all": 1570.0,
-    "hard": 1564.7,
+    "all": 1597.8,
+    "hard": 1589.4,
     "clay": 1572.3,
     "grass": 1505.3
    },
    "n": {
-    "all": 35,
-    "hard": 30,
+    "all": 36,
+    "hard": 31,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-25 P hard vs Viktoria Hruncakova",
     "2026-09-09 G hard vs Dominika Salkova",
     "2026-09-10 G hard vs Mary Stoiana",
     "2026-09-11 P hard vs Anna Blinkova",
@@ -17219,7 +17218,8 @@
     "2026-09-28 G hard vs Anna Siskova",
     "2026-09-30 P hard vs Antonia Ruzic",
     "2026-10-27 G hard vs Rebeka Masarova",
-    "2026-10-29 G hard vs Yasmine Kabbaj"
+    "2026-10-29 G hard vs Yasmine Kabbaj",
+    "2026-10-30 G hard vs Solana Sierra"
    ]
   },
   "oliynykova|o": {
@@ -17364,19 +17364,18 @@
    "nombre": "Julia Grabher",
    "circuito": "WTA",
    "elo": {
-    "all": 1693.8,
-    "hard": 1707.3,
+    "all": 1715.6,
+    "hard": 1731.5,
     "clay": 1586.6,
     "grass": 1522.5
    },
    "n": {
-    "all": 47,
-    "hard": 40,
+    "all": 48,
+    "hard": 41,
     "clay": 3,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-24 G hard vs Alice Tubello",
     "2026-09-25 G hard vs Nuria Brancaccio",
     "2026-09-26 G hard vs Oksana Selekhmeteva",
     "2026-09-27 G hard vs Guiomar Maristany Zuleta De Reales",
@@ -17385,7 +17384,8 @@
     "2026-10-14 G grass vs Lidia Encheva",
     "2026-10-16 P grass vs Ariana Geerlings",
     "2026-10-27 G hard vs Carolina Alves",
-    "2026-10-29 G hard vs Maria Lourdes Carle"
+    "2026-10-29 G hard vs Maria Lourdes Carle",
+    "2026-10-30 G hard vs Leyre Romero Gormaz"
    ]
   },
   "chang|h": {
@@ -19605,19 +19605,18 @@
    "nombre": "Solana Sierra",
    "circuito": "WTA",
    "elo": {
-    "all": 1560.3,
-    "hard": 1501.0,
+    "all": 1535.3,
+    "hard": 1476.9,
     "clay": 1637.9,
     "grass": 1520.5
    },
    "n": {
-    "all": 47,
-    "hard": 32,
+    "all": 48,
+    "hard": 33,
     "clay": 10,
     "grass": 5
    },
    "ultimos": [
-    "2026-07-01 P grass vs Coco Gauff",
     "2026-07-27 P hard vs Tatiana Prozorova",
     "2026-08-04 P hard vs Sloane Stephens",
     "2026-08-12 P hard vs Aoi Ito",
@@ -19626,7 +19625,8 @@
     "2026-09-17 P hard vs Suzan Lamens",
     "2026-09-23 P hard vs Deniz Dilek",
     "2026-10-27 G hard vs Justina Gonzalez Daniele",
-    "2026-10-28 G hard vs Gabriela Ce"
+    "2026-10-28 G hard vs Gabriela Ce",
+    "2026-10-30 P hard vs Julia Riera"
    ]
   },
   "bulgaru|m": {
@@ -90988,7 +90988,19 @@
   "jacquemot|e~yaneva|e": [
    1,
    0
+  ],
+  "kym|j~lehecka|j": [
+   0,
+   1
+  ],
+  "grabher|j~romero gormaz|l": [
+   1,
+   0
+  ],
+  "riera|j~sierra|s": [
+   1,
+   0
   ]
  },
- "propios": 10433
+ "propios": 10436
 }

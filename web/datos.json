@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T19:05+00:00",
+ "actualizado": "2026-10-30T19:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1172,7 +1172,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P02 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1246,7 +1247,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1320,7 +1322,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1394,7 +1397,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1517,7 +1521,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1630,7 +1635,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1743,7 +1749,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1856,7 +1863,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -2107,9 +2115,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 4,
-  "aciertos": 0.75,
-  "yield": -0.0875
+  "apuestas": 5,
+  "aciertos": 0.8,
+  "yield": -0.004
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

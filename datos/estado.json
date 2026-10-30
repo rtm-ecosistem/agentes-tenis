@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T18:10+00:00",
+    "hora": "2026-10-30T19:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,7 +325,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T18:10+00:00",
+    "hora": "2026-10-30T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -471,7 +471,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T18:10+00:00",
+    "hora": "2026-10-30T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -630,7 +630,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T18:10+00:00",
+    "hora": "2026-10-30T19:10+00:00",
     "rent": 0.0
    }
   }
@@ -1067,7 +1067,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1178,7 +1179,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1291,7 +1293,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1404,7 +1407,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1517,7 +1521,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1630,7 +1635,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1743,7 +1749,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1827,7 +1834,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1877,7 +1885,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -1951,7 +1960,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
@@ -2012,7 +2022,8 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P02 (Jan-Lennard Struff vs Nuno Borges)",
@@ -2385,9 +2396,16 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
+  "6d2cb10b09f0",
+  "fb7a1bdfc607",
+  "7d64ddda314d",
+  "48f2775ac858",
+  "d55ec95482f6",
+  "ce95c03092ba",
   "5df54bac6e66",
   "a6a704e68806",
   "0b6ffcd4969e",
+  "83e3c6b96d11",
   "aebcf8b9a2b2",
   "cb873c8b2921",
   "6f94695e79de",
@@ -2399,16 +2417,18 @@
   "ee6bb99ed8bb",
   "8efcd86aea9b",
   "ba144a7f0353",
+  "3076c8b08a93",
+  "b35e942f038e",
+  "e3a4c68f4959",
   "f7facc31dea6",
   "f578551e4803",
-  "6682337af4b0",
   "a5f137b87ecb",
   "32ae7d6b9f9b",
   "734e52f509ef",
   "71b8ea58530b",
   "78a151d08055",
   "fcafed0f0744",
-  "b35e942f038e",
+  "92ee25f2ac65",
   "22bfcf79ee80",
   "d458c902f4da",
   "bcebb0397566",
@@ -2435,18 +2455,18 @@
   "10a98821520b",
   "9e0c2410faa9",
   "f610b60bc7ce",
-  "7d64ddda314d",
   "5aa75ce3b3fc",
   "4b9174b8a76c",
   "de9f52f160ac",
-  "ce95c03092ba",
   "4454a5d25e87",
   "0bce5e985025",
+  "0e29e4410be8",
   "80eeee83f3aa",
   "0d281278ff95",
   "42d5776347c9",
   "cae16c997813",
   "5d5c65cef4b0",
+  "1a741c0b55c6",
   "bfbadc025ba6",
   "23a802456937",
   "c1880cda1718",
@@ -2460,15 +2480,14 @@
   "f88b630f834c",
   "228a682c2e26",
   "2eecf5e151e9",
-  "92ee25f2ac65",
   "f48a0b825101",
   "481b2832c2c2",
+  "f4102d64a589",
   "4f70310aa2eb",
   "c62a460833a7",
   "82322e1fdb39",
   "24858c4415e3",
   "e8f4169e17c5",
-  "3076c8b08a93",
   "3b7192dc3135",
   "b4eb90030a4d",
   "40699ce5b034",
@@ -2485,6 +2504,7 @@
   "c31cf2482d15",
   "9c35b61703d1",
   "81766af17bb3",
+  "6682337af4b0",
   "7ccf4e64cfbb",
   "bc092b5af1c5",
   "bb386498d04b",
@@ -2730,7 +2750,6 @@
   "00236eca5e96",
   "c4683173797e",
   "9be044fbfb0d",
-  "567993df2d17",
   "779bcf2a9a44",
   "ef43ea2a6868",
   "f8fd9cf878a4",
@@ -2741,6 +2760,7 @@
   "e440af100a83",
   "0c4c9437cfb2",
   "d5dccd93da4c",
+  "567993df2d17",
   "4a0faf620b58",
   "8ab12c2d7c98",
   "391839457664",
@@ -2825,6 +2845,7 @@
   "e0d8a8ce28b0",
   "9b7775c9e9c9",
   "6d29ddee43ae",
+  "cb64b42eb490",
   "8911da18acb8",
   "0a2a9aa3c4f1",
   "0d7c9bde073f",
@@ -2983,10 +3004,12 @@
   "9c73dcea3a72",
   "5962ec6c5e41",
   "89415354b727",
+  "dd1e264b9f37",
   "59590a1c0589",
   "913916e2657d",
   "66e3ba7dbc27",
   "ed7317cfface",
+  "559c2054e564",
   "6a3414ef9b16",
   "30d690f4d6b9",
   "8fc641d7a642",
@@ -3006,7 +3029,6 @@
   "cd6b999fe7f4",
   "e6608eb0825a",
   "9b9623d64026",
-  "559c2054e564",
   "91baafeaf34e",
   "1f4879883833",
   "874a4c122380",
@@ -3173,18 +3195,7 @@
   "9a7a4031263a",
   "52b31bb1cb42",
   "8826e89477ee",
-  "23c810f00a28",
-  "b585508a7e2f",
-  "af16f419c5b3",
-  "2c5e1ebecb7e",
-  "65eb603fafb8",
-  "310c9911b6f2",
-  "368960c2cd42",
-  "19de10fedeb3",
-  "d4bb904d89a4",
-  "37296e69d9d1",
-  "e38bae3d303e",
-  "9dd79e5cb5b7"
+  "23c810f00a28"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3203,6 +3214,7 @@
    "cc0834cac355e3a96bf64a85ce003e51",
    "cc4564f7b80beae29935d650d1ccb4cb",
    "d52af5cb645ef831c4dbab0bbaf48dac",
+   "e01a16acf3ce50a010714d85d5ff6374",
    "e17ec974bac4e8094cbe45dfeb471b1e"
   ]
  },
@@ -4706,22 +4718,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 4,
-  "ganadas": 3,
-  "unidades": -0.35,
+  "apuestas": 5,
+  "ganadas": 4,
+  "unidades": -0.02,
   "pendientes": [
-   {
-    "partido": "e01a16acf3ce50a010714d85d5ff6374",
-    "jugadores": [
-     "Jerome Kym",
-     "Jiri Lehecka"
-    ],
-    "inicio": "2026-10-30T17:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Jiri Lehecka",
-    "punto": null,
-    "cuota": 1.33
-   },
    {
     "partido": "e66be09cbf07f4ca7b22ef19c32bcb30",
     "jugadores": [
@@ -4764,7 +4764,8 @@
    "4eebb3b42f713eff0e760f9abef41572",
    "f8b84ec001244b604176bf0bc6f21f16",
    "cc4564f7b80beae29935d650d1ccb4cb",
-   "69ae427eb9d45bc2bc6b0ad750e25934"
+   "69ae427eb9d45bc2bc6b0ad750e25934",
+   "e01a16acf3ce50a010714d85d5ff6374"
   ]
  }
 }
