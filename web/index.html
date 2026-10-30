@@ -1333,7 +1333,7 @@ function boleto(b) {
   const bate = b.pinnacle_cierre ? b.cuota > b.pinnacle_cierre : null;
   const sello = b.estado.startsWith('media') ? b.estado.split(' ')[1] : b.estado;
   return `<article class="boleto"><span class="sello ${sello}">${ESTADOS[b.estado] || b.estado}</span>
-    <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}${b.emocion && EMOCIONES[b.emocion] ? ` · ${EMOCIONES[b.emocion][0]} ${EMOCIONES[b.emocion][1].toLowerCase()}` : ''}</small></div>
+    <div class="quien"><img class="pix mini" data-pix="${esc(a.id)}" src="${retrato(a)}" alt="">${esc(a.nombre)} <small>bote ${b.bote}${b.practica ? ' · 🎯 práctica' : ''}${b.emocion && EMOCIONES[b.emocion] ? ` · ${EMOCIONES[b.emocion][0]} ${EMOCIONES[b.emocion][1].toLowerCase()}` : ''}</small></div>
     <div class="sel">${esc(b.descripcion)}</div>
     <div class="det"><button class="ver-partido" data-partido="${esc(b.partido)}">${esc(b.jugadores.join(' – '))}</button> · ${esc(b.torneo)} · ${cuando(b.inicio)}</div>
     <div class="linea"><span>Cuota <b class="num">${b.cuota.toFixed(2)}</b> (${esc(D.nombres_casa[b.casa] || b.casa || '')})</span><span>Apuesta <b class="num">${eur(b.stake)}</b></span></div>

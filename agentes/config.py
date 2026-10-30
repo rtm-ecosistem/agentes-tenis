@@ -23,6 +23,8 @@ STAKE_POR_CONFIANZA = {1: 0.01, 2: 0.02, 3: 0.03}   # del 1 % al 3 % del bote, s
 MAX_STAKE = 0.03
 MAX_PENDIENTE = 0.10        # como mucho el 10 % del bote en apuestas pendientes a la vez
 MIN_STAKE_EUR = 1.0
+# Temporada de prueba: quien no apuesta en la decisión de las 9:00 juega su descarte con la cantidad mínima, para aprender
+APUESTA_PRACTICA = os.environ.get("APUESTA_PRACTICA", "1").strip() != "0"
 CUOTA_MIN = 1.10            # por debajo no compensa ni el riesgo de una retirada
 CUOTA_MAX = 15.0
 

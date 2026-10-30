@@ -60,12 +60,14 @@ def en_ahorro(estado: dict, momento: datetime) -> bool:
 
 # --- Decisión diaria ---------------------------------------------------------------------------------
 def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, cartelera: list[dict], extra: str,
-                sala_txt: str, ia, momento: datetime) -> tuple[dict, list[dict], list[dict]]:
+                sala_txt: str, ia, momento: datetime, practica: bool = False) -> tuple[dict, list[dict], list[dict]]:
     mercados = config.BOTES[bote_id]["mercados"]
     emocion = emociones.actualizar(agente, estado, apuestas, momento)["emocion"]
     texto, mapa = prompts.codificar(cartelera, mercados)
     if not mapa:
         return {"resumen": "Hoy no hay partidos con cuotas: no apuesto."}, [], []
+    if practica:
+        extra = PRACTICA + "\n\n" + extra
     r = ia.pedir_json(prompts.instrucciones(agente),
                       prompts.mensaje_analista(agente, estado, apuestas, bote_id, texto, extra, sala_txt, momento),
                       prompts.esquema_analista(list(mapa)))
@@ -73,13 +75,19 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
     convertidas = [{**p, "seleccion": mapa.get(str(p.get("seleccion", "")).strip(), str(p.get("seleccion")))} for p in propuestas]
     fecha = comun.hoy_madrid(momento)
     nuevos, rechazos = boletos.validar(agente, apuestas, bote_id, convertidas, cartelera, momento, fecha)
+    codigo = str(r.get("descarte_seleccion") or "").strip()
+    if practica and not nuevos and codigo in mapa:  # no apuesta: su descarte va como apuesta de práctica
+        nuevos, _ = boletos.validar(agente, apuestas, bote_id, [{
+            "seleccion": mapa[codigo], "confianza": 1, "motivo": "Apuesta de práctica (su mejor descarte): " +
+            str(r.get("descarte", "") or "").strip()}], cartelera, momento, fecha)
+        for b in nuevos:
+            b["practica"] = True
     for b in nuevos:
         b["casa"] = estado.get("casa")
         b["temporada"] = estado["temporada"]["nombre"]
         b["emocion"] = emocion
     boletos.apuntar(agente, apuestas, nuevos)
     descarte = None
-    codigo = str(r.get("descarte_seleccion") or "").strip()
     if codigo in mapa:
         opciones = {o["id"]: (p, o) for p in cartelera for o in p["opciones"]}
         p, o = opciones[mapa[codigo]]
@@ -90,8 +98,13 @@ def decidir_uno(agente: dict, estado: dict, apuestas: list[dict], bote_id: str, 
         "informe": {k: str(v).strip() for k, v in (r.get("informe") or {}).items()},
         "descarte": str(r.get("descarte", "") or "").strip(), "descarte_opcion": descarte, "apuestas": [b["id"] for b in nuevos], "rechazos": rechazos,
         "emocion": emocion, "animo": str(r.get("animo", "") or "").strip()[:300]})
-    print(f"{agente['nombre']} (bote {bote_id}): {len(nuevos)} apuestas" + (f"; rechazadas: {rechazos}" if rechazos else ""))
+    print(f"{agente['nombre']} (bote {bote_id}): {len(nuevos)} apuestas" + (" (de práctica)" if any(b.get("practica") for b in nuevos) else "") + (f"; rechazadas: {rechazos}" if rechazos else ""))
     return r, propuestas, nuevos
+
+
+PRACTICA = ("APUESTA DE PRÁCTICA: estamos en la temporada de prueba y hay que aprender con datos. Si hoy no apuestas, "
+            "tu descarte se jugará como apuesta de práctica con la cantidad mínima (confianza 1), así que elige bien "
+            "en \"descarte_seleccion\" la mejor opción que ves aunque no te convenza del todo. Si apuestas, no hay práctica.")
 
 
 def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo: dict, datos_noticias: dict,
@@ -104,6 +117,7 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
     extras = {k: v + "\n\n" + cansancio for k, v in extras.items()}
     if nota:
         extras = {k: nota + "\n\n" + v for k, v in extras.items()}
+    practica = config.APUESTA_PRACTICA and not nota  # solo en la decisión de las 9:00
     for bote_id, bote in config.BOTES.items():
         if not bote["activo"] or not cartelera:
             continue
@@ -113,7 +127,7 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
                 continue
             try:
                 r, propuestas, _ = decidir_uno(agente, estado, apuestas, bote_id, cartelera, extras[agente["rol"]],
-                                               sala_txt, ia, momento)
+                                               sala_txt, ia, momento, practica)
                 hechos.append((agente, r, propuestas))
             except Exception as e:  # noqa: BLE001
                 oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir: {e}", "error")
@@ -122,7 +136,7 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
                 continue
             try:
                 decidir_uno(agente, estado, apuestas, bote_id, cartelera, (nota + "\n\n" if nota else "") +
-                            prompts.texto_especialistas(hechos, apuestas), sala_txt, ia, momento)
+                            prompts.texto_especialistas(hechos, apuestas), sala_txt, ia, momento, practica)
             except Exception as e:  # noqa: BLE001
                 oficina.anotar(estado, momento, f"{agente['nombre']} no pudo decidir: {e}", "error")
 

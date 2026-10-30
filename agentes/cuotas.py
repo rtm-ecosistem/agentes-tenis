@@ -129,6 +129,17 @@ def cobertura(eventos: list[dict]) -> dict[str, int]:
     return puntos
 
 
+def mercados_por_casa(eventos: list[dict]) -> dict[str, dict[str, int]]:
+    """En cuántos partidos da cada casa española cada mercado, para saber qué casa ofrece más."""
+    cuenta = {c: {} for c in config.CASAS_ESPANA}
+    for e in eventos:
+        for c in e.get("bookmakers", []):
+            if c.get("key") in cuenta:
+                for m in c.get("markets", []):
+                    cuenta[c["key"]][m["key"]] = cuenta[c["key"]].get(m["key"], 0) + 1
+    return cuenta
+
+
 def elegir_casa(eventos: list[dict], actual: str | None = None) -> str:
     """La casa española que cubre más partidos de tenis; si están igualadas, William Hill. Una vez elegida se
     mantiene (para comparar a todos con la misma), salvo que se fije otra a mano con la variable CASA."""
@@ -192,6 +203,7 @@ def cartelera(api: OddsAPI, estado: dict, mercados: list[str], momento: datetime
         except requests.HTTPError as e:
             print(f"No se pudieron leer las cuotas de {t['key']}: {e}")
     estado["cobertura"] = cobertura([e for e, _ in eventos])
+    estado["mercados_casas"] = mercados_por_casa([e for e, _ in eventos])
     if eventos:
         estado["casa"] = elegir_casa([e for e, _ in eventos], estado.get("casa"))
     casa = estado.get("casa") or "williamhill"

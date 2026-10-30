@@ -259,3 +259,24 @@ def test_una_noticia_grave_permite_consultar_otra_vez_y_se_mide_si_vale_la_pena(
     assert [a["origen"] for a in apuestas] == ["noticias"]
     datos = comun.leer(config.WEB_DIR / "datos.json", {})
     assert datos["por_noticias"]["noticias"]["pendientes"] == 1 and datos["por_noticias"]["manana"]["pendientes"] == 0
+
+
+def test_quien_no_apuesta_juega_su_descarte_como_practica(monkeypatch):
+    ia = FakeIA({"Óscar": [{"seleccion": "P01b", "confianza": 2, "motivo": "Elo"}]}, descartes={"Óscar": "P02a", "Lola": "P02a"})
+    ciclo.decision(momento=AHORA, api=FakeAPI(), ia=ia, avisos=FakeAvisos())
+    apuestas = comun.leer(config.APUESTAS, [])
+    oscar = [a for a in apuestas if a["agente"] == "estadistico-1"]
+    assert len(oscar) == 1 and not oscar[0].get("practica")   # Óscar apostó: sin práctica
+    lola = [a for a in apuestas if a["agente"] == "reportero-1"]
+    assert len(lola) == 1 and lola[0]["practica"] and lola[0]["confianza"] == 1 and lola[0]["stake"] == 10.0
+    assert lola[0]["motivo"].startswith("Apuesta de práctica")
+    assert "APUESTA DE PRÁCTICA" in [m for i, m in ia.mensajes if i.startswith("Eres Lola,")][0]
+    assert len(apuestas) == 2   # sin descarte no hay práctica
+
+
+def test_sin_practica_si_se_apaga(monkeypatch):
+    monkeypatch.setattr(config, "APUESTA_PRACTICA", False)
+    ciclo.decision(momento=AHORA, api=FakeAPI(), ia=FakeIA(descartes={"Lola": "P02a"}), avisos=FakeAvisos())
+    assert comun.leer(config.APUESTAS, []) == []
+    estado = comun.leer(config.ESTADO, None)
+    assert estado["mercados_casas"]["williamhill"] == {"h2h": 2, "spreads": 2, "totals": 2}
