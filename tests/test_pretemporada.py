@@ -106,3 +106,9 @@ def test_lee_los_ficheros_subidos_si_tennis_data_no_deja_descargar():
     (carpeta / "2026.xlsx").write_bytes(Sesion().atp)
     p = pretemporada.avanzar(1, "2026-07-01", "2026-07-06", ia=FakeIA(descartes={"Óscar": "P01a"}), sesion=Bloqueada())
     assert p["dias"] == 1
+
+
+def test_tope_diario_de_llamadas(monkeypatch):
+    monkeypatch.setattr(config, "LLAMADAS_PRETEMPORADA_DIA", 15)
+    p = pretemporada.avanzar(5, "2026-07-01", "2026-07-06", ia=FakeIA(), sesion=Sesion())
+    assert p["dias"] == 1 and p["hoy"]["llamadas"] > 0   # un día (unas 9 llamadas) y para antes de pasarse

@@ -257,8 +257,13 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
         print("Sin datos de tennis-data: se prueba en la siguiente ejecución.")
         return progreso
     if ia is None:
+        # Más despacio que la oficina (como mucho 10 llamadas por minuto) para no quitarle sitio
+        ia_mod.ESPACIO_GEMINI[config.MODELO_PRETEMPORADA] = max(ia_mod.ESPACIO_GEMINI.get(config.MODELO_PRETEMPORADA, 0), 6.0)
         ia = ia_mod.Claude() if config.PROVEEDOR_IA == "claude" else ia_mod.Gemini(config.MODELO_PRETEMPORADA, respaldo=None)
     contador = Contador(ia)
+    hoy_real = comun.ahora().date().isoformat()
+    if progreso.get("hoy", {}).get("fecha") != hoy_real:
+        progreso["hoy"] = {"fecha": hoy_real, "llamadas": 0}
     con_partidos = sorted({p["fecha"] for p in todos if p["cuotas"]})
     hechos = 0
     dia = date.fromisoformat(progreso["siguiente"])
@@ -270,6 +275,9 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
                 break
             dia += timedelta(days=1)
             continue
+        if progreso["hoy"]["llamadas"] + contador.llamadas + 15 > config.LLAMADAS_PRETEMPORADA_DIA:
+            print("Tope diario de llamadas de la pretemporada: sigue mañana (la oficina tiene prioridad).")
+            break
         copia, copia_apuestas, antes = copy.deepcopy(estado), copy.deepcopy(apuestas), contador.fallos
         simular_dia(estado, apuestas, dia, base, todos, contador)
         if contador.fallos > antes:  # la IA no respondió (sin cuota): se repite el día otro rato
@@ -284,6 +292,7 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
             progreso["terminada"] = True
     progreso["siguiente"] = dia.isoformat()
     progreso["llamadas"] += contador.llamadas
+    progreso["hoy"]["llamadas"] += contador.llamadas
     progreso["resumen"] = resumen(estado, apuestas)
     comun.guardar(f["estado"], estado)
     comun.guardar(f["apuestas"], apuestas)
