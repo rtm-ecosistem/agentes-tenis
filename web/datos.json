@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T13:43+00:00",
+ "actualizado": "2026-10-30T14:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -976,74 +976,6 @@
   "actualizado": "2026-10-30T08:00+00:00",
   "partidos": [
    {
-    "id": "cc4564f7b80beae29935d650d1ccb4cb",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T14:00+00:00",
-    "jugadores": [
-     "Tommy Paul",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "cc4564f7b80beae29935d650d1ccb4cb|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.29,
-      "pinnacle": 1.28
-     },
-     {
-      "id": "cc4564f7b80beae29935d650d1ccb4cb|h2h|Tommy Paul|",
-      "mercado": "h2h",
-      "nombre": "Tommy Paul",
-      "punto": null,
-      "cuota": 3.6,
-      "pinnacle": 3.99
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.28,
-     "Tommy Paul": 3.99
-    }
-   },
-   {
-    "id": "f8b84ec001244b604176bf0bc6f21f16",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T14:10+00:00",
-    "jugadores": [
-     "Taylor Fritz",
-     "Arthur Fils"
-    ],
-    "opciones": [
-     {
-      "id": "f8b84ec001244b604176bf0bc6f21f16|h2h|Arthur Fils|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fils",
-      "punto": null,
-      "cuota": 1.85,
-      "pinnacle": 1.92
-     },
-     {
-      "id": "f8b84ec001244b604176bf0bc6f21f16|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 1.95,
-      "pinnacle": 1.97
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fils": 1.92,
-     "Taylor Fritz": 1.97
-    }
-   },
-   {
     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
     "deporte": "tennis_atp_vienna_open",
     "torneo": "ATP Vienna Open",
@@ -1284,6 +1216,55 @@
   }
  ],
  "sala": [
+  {
+   "hora": "2026-10-30T14:10+00:00",
+   "datos": "Alexander Zverev y Leylah Fernandez dominan claramente en las cuotas y en el Elo por superficie con porcentajes del 86% y 71% respectivamente. En contraste, duelos como el de Jan-Lennard Struff frente a Nuno Borges muestran un equilibrio técnico absoluto con un Elo del 50%. Los números también reflejan un gran desgaste reciente, especialmente en jugadoras como Kamilla Rakhimova con 64 juegos acumulados.",
+   "noticias": "Alexander Zverev acapara los titulares al confirmarse oficialmente que ascenderá al número uno del mundo la próxima semana. Por otro lado, la retirada de Elena Rybakina en Tokio por molestias físicas destaca la vulnerabilidad de las principales cabezas de serie en esta recta final de temporada. Matteo Berrettini también figura en la prensa rosa debido a un supuesto revuelo extradeportivo.",
+   "ambiente": "En redes sociales se celebra el histórico hito de Zverev y la gran revelación de Jerome Kym tras tumbar a Ben Shelton. La motivación está al máximo en los jugadores que buscan cerrar el año con buenas sensaciones, aunque la presión mediática empieza a pasar factura.",
+   "favorito": "Apoyar a los favoritos como Zverev o De Minaur se sustenta en su superioridad aplastante en el Elo y la solidez demostrada en momentos clave. Su mayor experiencia en rondas finales les otorga una ventaja competitiva muy difícil de contrarrestar para sus rivales en teoría inferiores.",
+   "contra": "",
+   "conclusion": "Pesa mucho el desgaste físico acumulado en partidos largos y el factor motivacional tras noticias importantes como el número uno de Zverev. Hay que vigilar el cansancio de los jugadores que vienen de disputar duelos muy exigentes antes de tomar cualquier decisión de apuesta.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexander Zverev vs Arthur Fery)",
+     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
+     "jugadores": [
+      "Alexander Zverev",
+      "Arthur Fery"
+     ],
+     "inicio": "2026-10-30T16:30+00:00",
+     "favorito": "Alexander Zverev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
+     "id": "e01a16acf3ce50a010714d85d5ff6374",
+     "jugadores": [
+      "Jerome Kym",
+      "Jiri Lehecka"
+     ],
+     "inicio": "2026-10-30T17:00+00:00",
+     "favorito": "Jiri Lehecka",
+     "vista": "sorpresa",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
+     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+     "jugadores": [
+      "Jan-Lennard Struff",
+      "Nuno Borges"
+     ],
+     "inicio": "2026-10-30T18:10+00:00",
+     "favorito": "Jan-Lennard Struff",
+     "vista": "dudoso",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
   {
    "hora": "2026-10-30T13:01+00:00",
    "datos": "Los números muestran a claros favoritos en pista dura como Carlos Alcaraz frente a Tommy Paul con un cara a cara de 0-5 y a Alexander Zverev con un 86% de probabilidad ante Arthur Fery. En partidos más ajustados, Jan-Lennard Struff y Nuno Borges comparten un pronóstico de 50% de Elo, mientras que Taylor Fritz y Arthur Fils presentan cuotas muy equilibradas en Basilea. Los apostadores deben tener en cuenta que las estadísticas previas respaldan el dominio de los cabezas de serie en los duelos más desiguales.",
@@ -2144,32 +2125,19 @@
    ],
    "importantes": [],
    "graves": []
-  },
-  {
-   "hora": "2026-10-29T18:10+00:00",
-   "datos": "Los modelos de Elo en superficie dura sitúan a Flavio Cobolli con un 62% de opciones frente a Matteo Berrettini, mientras que el mercado ofrece cuotas muy igualadas de 1.91. En el torneo WTA de Tokio, Diana Shnaider posee un Elo superior de 1910 frente a los 1815 de Alexandra Eala, reflejado en su favoritismo a cuota 1.67. Por su parte, Maya Joint llega con mejor forma reciente y un Elo de 1740 para medirse a Kamilla Rakhimova en cuartos de final.",
-   "noticias": "En el apartado físico destaca la acumulación de partidos largos en Tokio, como el de Diana Shnaider que necesitó 30 juegos y tres sets frente a Sasnovich, o el desgaste de Maya Joint con 47 juegos en los últimos tres días. Flavio Cobolli llega tras superar un exigente duelo de tres sets y 28 juegos ante Grigor Dimitrov en Viena. Además, circulan noticias sobre tensiones extradeportivas que podrían afectar la concentración en el circuito.",
-   "ambiente": "La prensa destaca la emoción por los cuartos de final en Tokio y el duelo fratricida italiano en Viena entre Cobolli y Berrettini. La motivación es máxima al encontrarse en fases avanzadas de torneos ATP 500 y WTA 500.",
-   "favorito": "Defender a los favoritos como Diana Shnaider se sustenta en su mayor ranking general de Elo (1910) y su solvencia en pista dura para superar rondas decisivas. En Viena, la potencia de Matteo Berrettini avala su capacidad para resolver partidos ajustados sin ceder terreno al resto con su potente servicio en superficies rápidas a cubierto.",
-   "contra": "",
-   "conclusion": "La combinación entre el desgaste físico de los partidos largos previos y las cuotas tan ajustadas del mercado obliga a extremar la cautela en las elecciones. Es fundamental vigilar la recuperación tras los maratones de tres sets disputados en Tokio antes de decantarse por cualquier bando.",
-   "partidos": [
-    {
-     "partido": "P01 (Flavio Cobolli vs Matteo Berrettini)",
-     "id": "3b65bc657a2d7391944d9e343c189c52",
-     "jugadores": [
-      "Flavio Cobolli",
-      "Matteo Berrettini"
-     ],
-     "inicio": "2026-10-29T19:00+00:00",
-     "favorito": "Flavio Cobolli",
-     "vista": "dudoso",
-     "motivo": ""
-    }
-   ]
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-30T14:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T14:10+00:00",
+   "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery, Jerome Kym – Jiri Lehecka, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-30T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
@@ -2307,16 +2275,6 @@
   },
   {
    "hora": "2026-10-29T16:10+00:00",
-   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Novak Djokovic – Jan-Lennard Struff, Flavio Cobolli – Matteo Berrettini: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T15:35+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
   }
@@ -3455,7 +3413,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:10+00:00",
+   "actualizado": "2026-10-30T14:10+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -3513,6 +3471,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-29 contra Lorenzo Musetti, ganó 6-4 5-7 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Zverez vence a Griekspoor y accede a cuartos de final en Viena - El Aragueño",
+       "fuente": "El Aragueño",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhqbVNqeWpUbG4ta2h4eGJhdDRqQjduYllLZkdod0JQSmhyUktiMEpMb1FtM1ZvSnFfUV9QZVRSMnBZSDBOUTdTdVhQMUJ0Y0FldTZicFUxWjlhYWRKZnBTcFczX1dYT1JjSnRSb1VpSzZoOW92Q0w5VWwtOHZDWkEwck5LTUFBSzJGNm1XVVNvcG8?oc=5"
+      },
+      {
        "titulo": "Pronóstico Alexander Zverev vs Arthur Fery - Cuota & Estadística - 30 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-30",
@@ -3523,12 +3487,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeU5YWXlmZ2k0UEo4YVl4TkVsZmxVU1lWdGRNWWJBQjJtU3lFcU5YWG5SNGFJS2M4WUxlYzFQOTJBODJnWlhlcGJaWVhkZ1RIUHFpYk5sYWN0bnRfS2FsT1NsOUt5UlJmR2QyT3FXRWxmMm9UWXFzYlFtd1VPajAwTTZmOEs3UGVPXzZLT2NDdG5JUQ?oc=5"
-      },
-      {
-       "titulo": "Highlights: Fery sorprende a Musetti rumbo a cuartos en Viena - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZ1Rk9DMDkwalBjR05kR0tidUU0SnhXd3FjT18xcFUyZHRIZkhsZzFsYlZGNGdqbFhzLUxka0Q3b3hFRzNYdU1zRHhpRWZaSVF0bW4yVjVKTVRyY1ZMc0ZlUFR5V3duWmtVMDg3UU9UZmpad1JiTDBkTXVPcjFlSHNSMGpsQUVsbXYtazhYbjlqX1FmUGxMeQ?oc=5"
       }
      ]
     }
@@ -3543,7 +3501,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:10+00:00",
+   "actualizado": "2026-10-30T14:10+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -3601,6 +3559,12 @@
      "cansancio": "2 partidos, 4 sets y 47 juegos en 3 días; el último el 2026-10-29 contra Daniel Altmaier, ganó 7-5 6-4",
      "noticias": [
       {
+       "titulo": "¿Cuál es la programación de Basilea? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1razVuNDhsS1pZaTZrM0VPN0RJMU96dXJHNUVhZkpNR093MlJCeFYwOFF2cmF4a1NjMG56MXNCS2kxWUZjaFpmczBjTlFmczAwTkZrempKQWt6RWhzMW5pWQ?oc=5"
+      },
+      {
        "titulo": "Jérôme Kym vs Jiri Lehečka · Quarterfinal · ATP Basel - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
@@ -3611,12 +3575,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NkEzcmpMVUl0QmlLUG1CMW9RZDBRWHFrTGRlUUNsUjQ2OGREeGdhOEVTMEFoZkJnZGNoTEJvUk96b3BvMEFPQlc3cHE4R1Y2SlZqa3NlSXVsSXZSSFFpV3pDT1BTcFAwX0tnNk1pSlBOSWhp?oc=5"
-      },
-      {
-       "titulo": "TBD vs Jiri Lehečka · Quarterfinal · ATP Basel - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUZjUktKWHpvVmkwSV9MWlN1T1V4c1ZRLTRPcnBPbGMyMGd3RHlGZEw4amJvMUt2RlBkbk81NGJEeWoycktGVVBpR05fU0pra0llel9iTDFHZENxZ0hpeE5QTVNOUzVDWWZNbUxyUkpPQllvTTFseWRpbDZWWFdwRWlEQ0FWd2xvNkwzNDdiNi12dm9J?oc=5"
       }
      ]
     }
@@ -3631,7 +3589,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:10+00:00",
+   "actualizado": "2026-10-30T14:10+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -3719,7 +3677,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:10+00:00",
+   "actualizado": "2026-10-30T14:10+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -3807,7 +3765,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:10+00:00",
+   "actualizado": "2026-10-30T14:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3831,6 +3789,12 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número 1 - HolaNews",
+       "fuente": "HolaNews",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0NKMzZhalliT1Y2cVU2N3JXLVhWcjlnUEI1cHVYdkdad2w4c3lieFFoY2FHczVubUtqaDJSVmV1aVYyczhPYkswczRVU2tOd0htbkRVMXdlZWNMemQ4X0JoWFZVUXFQVHlTeXZ6Q1o4ZkctR3k2LTh5ZnpUZGJzSmhsVVMzVmJ2SFN2LWtKb0Q5ZDMxUE00MU82Y0NISk4wYXNkeg?oc=5"
+      },
+      {
        "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
@@ -3841,12 +3805,6 @@
        "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1pES3VoVV9KS2ZLV3dYSlV1aHdfTUpyUkluNkZRUFl5V0FIb3EzeVNjVTVGMGRGX3k0d0NUUGxfVlpQaE81bjZackVsNzZjUE1mYlFMRU5IZThSRHRIVVRJRDQ2Nkh3eUpKOU82dVA0RzVoYmtXUTMtV3dpdjVyalYzTVpXcWVEaEU1R0pIZnByZ0dJM3Bsa2ltS1JJekRMTWxqNnJmSk5TRzhVR3Zv?oc=5"
-      },
-      {
-       "titulo": "La tenista número 1 del mundo Rybakina se retira de Tokio por lesión - www.metrolibre.com",
-       "fuente": "www.metrolibre.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkVvVFVleFJ2STY4X1JtUmRFQ1B6aWxFOEdBbWRuVkxQSDBLdWN6LVhGdGRDNU1IUE93by16aHI0OFVNdzl3a2tPSExPX1J3NGR5aTBtYkd0aHVNRzVBcDdMY08zUGtJd3JrNFdQQmVtYzN2a0hnb253OThvYk81SWdFTEx3WGR1VzdnajZMYnBmdlNWQU1hT3ZmZFppcTVLdXBjYS1sT2x4YnJubVBadkJ1TDhTZw?oc=5"
       }
      ]
     },
