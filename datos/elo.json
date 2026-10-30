@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T15:10+00:00",
+ "actualizado": "2026-10-30T15:32+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -841,19 +841,18 @@
    "nombre": "Holger Rune",
    "circuito": "ATP",
    "elo": {
-    "all": 1722.2,
-    "hard": 1745.3,
+    "all": 1707.4,
+    "hard": 1726.6,
     "clay": 1723.3,
     "grass": 1538.7
    },
    "n": {
-    "all": 131,
-    "hard": 89,
+    "all": 132,
+    "hard": 90,
     "clay": 33,
     "grass": 9
    },
    "ultimos": [
-    "2025-09-24 G hard vs Ugo Humbert",
     "2025-09-24 G hard vs Giovanni Mpetshi Perricard",
     "2025-09-24 P hard vs Valentin Vacherot",
     "2025-10-13 G hard vs Marton Fucsovics",
@@ -862,7 +861,8 @@
     "2026-10-01 P hard vs Kyrian Jacquet",
     "2026-10-07 P hard vs Daniel Altmaier",
     "2026-10-26 G hard vs Quentin Halys",
-    "2026-10-28 G hard vs Hubert Hurkacz"
+    "2026-10-28 G hard vs Hubert Hurkacz",
+    "2026-10-30 P hard vs Valentin Vacherot"
    ]
   },
   "purcell|m": {
@@ -6930,19 +6930,18 @@
    "nombre": "Valentin Vacherot",
    "circuito": "ATP",
    "elo": {
-    "all": 1776.9,
-    "hard": 1772.4,
+    "all": 1795.8,
+    "hard": 1795.0,
     "clay": 1559.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 68,
-    "hard": 54,
+    "all": 69,
+    "hard": 55,
     "clay": 14,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-26 P hard vs Lloyd Harris",
     "2026-09-30 G hard vs Alexander Blockx",
     "2026-10-02 G hard vs Stefanos Tsitsipas",
     "2026-10-04 G hard vs Arthur Fils",
@@ -6951,7 +6950,8 @@
     "2026-10-12 P hard vs Tommy Paul",
     "2026-10-22 P hard vs Luca Van Assche",
     "2026-10-26 G hard vs Mariano Navone",
-    "2026-10-29 G hard vs Rafael Jodar"
+    "2026-10-29 G hard vs Rafael Jodar",
+    "2026-10-30 G hard vs Holger Rune"
    ]
   },
   "antonio vergara del puerto|m": {
@@ -56479,7 +56479,7 @@
   ],
   "rune|h~vacherot|v": [
    0,
-   1
+   2
   ],
   "bergs|z~djokovic|n": [
    0,
@@ -90982,5 +90982,5 @@
    1
   ]
  },
- "propios": 10427
+ "propios": 10428
 }

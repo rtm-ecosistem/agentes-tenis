@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T15:10+00:00",
+    "hora": "2026-10-30T15:32+00:00",
     "rent": -0.02
    }
   },
@@ -314,7 +314,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:10+00:00",
+    "hora": "2026-10-30T15:32+00:00",
     "rent": 0.0
    }
   },
@@ -456,7 +456,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:10+00:00",
+    "hora": "2026-10-30T15:32+00:00",
     "rent": 0.0
    }
   },
@@ -611,7 +611,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:10+00:00",
+    "hora": "2026-10-30T15:32+00:00",
     "rent": 0.0
    }
   }
@@ -997,7 +997,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1105,7 +1106,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1215,7 +1217,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1325,7 +1328,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1435,7 +1439,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1545,7 +1550,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1655,7 +1661,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1835,6 +1842,79 @@
      "inicio": "2026-10-30T17:00+00:00",
      "favorito": "Jiri Lehecka",
      "vista": "sorpresa",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
+     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+     "jugadores": [
+      "Jan-Lennard Struff",
+      "Nuno Borges"
+     ],
+     "inicio": "2026-10-30T18:10+00:00",
+     "favorito": "Jan-Lennard Struff",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P04 (Matteo Berrettini vs Alex de Minaur)",
+     "id": "94ca068a80e8dbb6686fd96d402bde0e",
+     "jugadores": [
+      "Matteo Berrettini",
+      "Alex de Minaur"
+     ],
+     "inicio": "2026-10-30T19:00+00:00",
+     "favorito": "Alex de Minaur",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
+   "hora": "2026-10-30T15:32+00:00",
+   "datos": "Los números muestran una clara ventaja en Elo por superficie para favoritos como Alexander Zverev con un 87% y Leylah Fernandez con un 71%. En duelos más apretados como el de Jan-Lennard Struff y Nuno Borges, el Elo está completamente empatado en un 50% y 49% respectivamente. Los mercados sitúan cuotas muy bajas para los favoritos en los duelos más desiguales, mientras que en otros hay opciones interesantes.",
+   "noticias": "Destacan las noticias sobre el buen momento de Zverev y su posición en lo más alto del ranking ATP. En el lado negativo, varios jugadores acumulan partidos muy largos y exigentes en las últimas jornadas. No hay partes médicos graves que impidan la participación de los tenistas programados.",
+   "ambiente": "La prensa destaca las sorpresas de la jornada anterior, como la victoria de Jerome Kym frente a Ben Shelton y la de Struff ante Novak Djokovic. Hay mucha motivación y presión mediática sobre los favoritos que buscan asegurar plazas para las finales.",
+   "favorito": "Apoyar al favorito tiene sentido estadístico porque jugadores como Zverev y Lehecka tienen una superioridad muy marcada en su Elo en pista dura y mayor regularidad. Su cuota refleja esa superioridad teórica basada en su ranking y experiencia en torneos ATP grandes a estas alturas de la temporada.",
+   "contra": "",
+   "conclusion": "Pesa mucho el desgaste físico acumulado tras los partidos largos de ayer y el factor anímico de las sorpresas recientes. Hay que vigilar de cerca la fatiga y la recuperación antes de decidir si apostar por la lógica o buscar una cuota alta.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexander Zverev vs Arthur Fery)",
+     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
+     "jugadores": [
+      "Alexander Zverev",
+      "Arthur Fery"
+     ],
+     "inicio": "2026-10-30T16:30+00:00",
+     "favorito": "Alexander Zverev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
+     "id": "e01a16acf3ce50a010714d85d5ff6374",
+     "jugadores": [
+      "Jerome Kym",
+      "Jiri Lehecka"
+     ],
+     "inicio": "2026-10-30T17:00+00:00",
+     "favorito": "Jiri Lehecka",
+     "vista": "favorito",
      "motivo": ""
     },
     {
@@ -2093,6 +2173,16 @@
    "hora": "2026-10-30T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T15:32+00:00",
+   "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T15:32+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2118,9 +2208,17 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-14",
  "noticias_vistas": [
+  "78a151d08055",
+  "b35e942f038e",
+  "22bfcf79ee80",
+  "3076c8b08a93",
+  "d458c902f4da",
+  "bcebb0397566",
   "aef2ee14239f",
   "55e026b9207d",
+  "8a5d14e67bb1",
   "58b85498d933",
+  "f85cfdb4fa54",
   "90eb359ef394",
   "c8d2c3857d10",
   "a10ab68e0460",
@@ -2128,7 +2226,6 @@
   "42e9d33654bd",
   "0a5e8263ca7b",
   "721763e32d94",
-  "3076c8b08a93",
   "eebbfca76fea",
   "2504b32b2bdc",
   "248c45b145c0",
@@ -2139,13 +2236,14 @@
   "f610b60bc7ce",
   "7d64ddda314d",
   "5aa75ce3b3fc",
+  "10a98821520b",
   "4b9174b8a76c",
   "ce95c03092ba",
   "0bce5e985025",
   "80eeee83f3aa",
   "0d281278ff95",
   "42d5776347c9",
-  "10a98821520b",
+  "5d5c65cef4b0",
   "bfbadc025ba6",
   "23a802456937",
   "c1880cda1718",
@@ -2163,6 +2261,7 @@
   "bb22eedd475f",
   "0588280ecec3",
   "92ee25f2ac65",
+  "f48a0b825101",
   "f88b630f834c",
   "481b2832c2c2",
   "7dc78c387fa9",
@@ -2174,7 +2273,6 @@
   "3b7192dc3135",
   "b4eb90030a4d",
   "40699ce5b034",
-  "d458c902f4da",
   "f68aa072519b",
   "53df1ac6ed6c",
   "f422fc13b554",
@@ -2378,6 +2476,8 @@
   "c607db4dcffb",
   "bac47558b674",
   "b8d79f800bab",
+  "4e2a5d1d0a4c",
+  "091fdb4ce24c",
   "055090f80b15",
   "3bfce1f8e746",
   "b84c9b7e0a14",
@@ -2436,6 +2536,7 @@
   "b537c876d947",
   "e440af100a83",
   "0c4c9437cfb2",
+  "d5dccd93da4c",
   "4a0faf620b58",
   "8ab12c2d7c98",
   "391839457664",
@@ -2736,6 +2837,7 @@
   "f72a10397af1",
   "53430f2b656b",
   "db0163c7a732",
+  "559c2054e564",
   "248133c9b0f3",
   "cbf289e7713d",
   "d24b6d79eb75",
@@ -2774,7 +2876,6 @@
   "efa6d45ba9a3",
   "699dad76ee35",
   "50d6a34e0e55",
-  "559c2054e564",
   "b9b5b0738fa4",
   "7ebdf7c9d536",
   "312f3c974548",
@@ -2906,18 +3007,7 @@
   "0345dfe28e56",
   "525496b5e163",
   "d1e6f424f13b",
-  "b511cf09db8e",
-  "c3038a3687d1",
-  "7ae5ae21f47c",
-  "c1403b0c5642",
-  "2b9a8cf2ac08",
-  "bb13b0a01bcb",
-  "849eb376054a",
-  "9ffd7003c43b",
-  "176c1965fd80",
-  "74fbc10b14e0",
-  "4cce6635f7db",
-  "a525a8c06e9c"
+  "b511cf09db8e"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -2929,6 +3019,7 @@
    0
   ],
   "vistos": [
+   "4eebb3b42f713eff0e760f9abef41572",
    "6822571863f93fa4654e76e114874060",
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "cc0834cac355e3a96bf64a85ce003e51",
@@ -4002,7 +4093,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -4026,6 +4117,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-10-29 contra Tallon Griekspoor, ganó 6-4 7-5",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
+      },
+      {
        "titulo": "Zverev ocupa por fin su lugar en lo más alto - Yahoo",
        "fuente": "Yahoo",
        "fecha": "2026-10-30",
@@ -4036,12 +4133,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFBPTnFEUnJ6dDhXdDBwTF9yTl95SXpMd1VOWUNQYlRaZkJrb3duTExOU3V1eDJkNll2cG8tcVRoaGs2UmZEaGpPbjQzY2U1di1BR0RDNTRsSTNWdUx0ZXRUNnMxeDVyaWU5MkoxbVp1bVU4VG41VEtPNkpMVnRlQXFiMmMzMi1MdUVNbXczN3F1YU9hVHF1LV9GTTJFbkZqYmxibDV4MHVtd1l3N3ZWLVBFcw?oc=5"
-      },
-      {
-       "titulo": "\"La frutilla del postre\": Zverev y el N°1 del mundo, una historia que irremediablemente cruzaría sus caminos - ESPN Deportes",
-       "fuente": "ESPN Deportes",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0E1OU5ITjA2WjRQUEU3aV9iUFNnY3hGeWJOOGc0NVgwd0tTUzhjazFEZ1VTM2hsSWRaSDdJOVNTaGJFQXpXNjQ4a0MwandQa1B3eWdpWDBMbk5rd1h3RWotUllkUEdOMHZORzhRS0dqT3UxREJ4enJrbU44NTAwalVRbFV6VGdua1EwLVMyeWJwTkUzcWU2cnRLRkNGWHhrVDUyYmdxVkZoMks5dU5PQ3dwYUNDbWtHQ0d5cEhzS1FVRWZ3bG5TQk9VcHdiang1OTgxUUs0TWVCWlAwZkkxWm5FNE9Ydmw4ekVSYUprWTJnTTRxWUxBQjFmbEFYdw?oc=5"
       }
      ]
     },
@@ -4060,6 +4151,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-29 contra Lorenzo Musetti, ganó 6-4 5-7 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
+      },
+      {
        "titulo": "Zverez vence a Griekspoor y accede a cuartos de final en Viena - El Aragueño",
        "fuente": "El Aragueño",
        "fecha": "2026-10-30",
@@ -4070,12 +4167,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDZBbUxtMHhrOW1vVHN6ZDRrQkZOak1ibVRQTnBvUkttMWU4Ti1uSE45Q21MM2k3UlpydllqRURlYlVGM1BZdVlWRFdkRDBJREFiLXRGbGN5UmVNVHlZbUNla3lNRmd2dTR2ODB6RjRZd2Vrelh2eGozbXR5UHdDcHkzNFliZDludDhlTXF3?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev vs Arthur Fery · Quarterfinal · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeU5YWXlmZ2k0UEo4YVl4TkVsZmxVU1lWdGRNWWJBQjJtU3lFcU5YWG5SNGFJS2M4WUxlYzFQOTJBODJnWlhlcGJaWVhkZ1RIUHFpYk5sYWN0bnRfS2FsT1NsOUt5UlJmR2QyT3FXRWxmMm9UWXFzYlFtd1VPajAwTTZmOEs3UGVPXzZLT2NDdG5JUQ?oc=5"
       }
      ]
     }
@@ -4090,7 +4181,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -4178,7 +4269,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -4266,7 +4357,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -4354,7 +4445,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -4436,22 +4527,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 1,
+  "apuestas": 2,
   "ganadas": 1,
-  "unidades": 0.25,
+  "unidades": -0.75,
   "pendientes": [
-   {
-    "partido": "4eebb3b42f713eff0e760f9abef41572",
-    "jugadores": [
-     "Holger Rune",
-     "Valentin Vacherot"
-    ],
-    "inicio": "2026-10-30T13:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Holger Rune",
-    "punto": null,
-    "cuota": 1.67
-   },
    {
     "partido": "cc4564f7b80beae29935d650d1ccb4cb",
     "jugadores": [
@@ -4538,7 +4617,8 @@
    }
   ],
   "vistos": [
-   "7e16ce6f4bf3a1b6f3ecf28768bb8653"
+   "7e16ce6f4bf3a1b6f3ecf28768bb8653",
+   "4eebb3b42f713eff0e760f9abef41572"
   ]
  }
 }

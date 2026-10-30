@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T15:13+00:00",
+ "actualizado": "2026-10-30T15:32+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1217,6 +1217,79 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-30T15:32+00:00",
+   "datos": "Los números muestran una clara ventaja en Elo por superficie para favoritos como Alexander Zverev con un 87% y Leylah Fernandez con un 71%. En duelos más apretados como el de Jan-Lennard Struff y Nuno Borges, el Elo está completamente empatado en un 50% y 49% respectivamente. Los mercados sitúan cuotas muy bajas para los favoritos en los duelos más desiguales, mientras que en otros hay opciones interesantes.",
+   "noticias": "Destacan las noticias sobre el buen momento de Zverev y su posición en lo más alto del ranking ATP. En el lado negativo, varios jugadores acumulan partidos muy largos y exigentes en las últimas jornadas. No hay partes médicos graves que impidan la participación de los tenistas programados.",
+   "ambiente": "La prensa destaca las sorpresas de la jornada anterior, como la victoria de Jerome Kym frente a Ben Shelton y la de Struff ante Novak Djokovic. Hay mucha motivación y presión mediática sobre los favoritos que buscan asegurar plazas para las finales.",
+   "favorito": "Apoyar al favorito tiene sentido estadístico porque jugadores como Zverev y Lehecka tienen una superioridad muy marcada en su Elo en pista dura y mayor regularidad. Su cuota refleja esa superioridad teórica basada en su ranking y experiencia en torneos ATP grandes a estas alturas de la temporada.",
+   "contra": "",
+   "conclusion": "Pesa mucho el desgaste físico acumulado tras los partidos largos de ayer y el factor anímico de las sorpresas recientes. Hay que vigilar de cerca la fatiga y la recuperación antes de decidir si apostar por la lógica o buscar una cuota alta.",
+   "partidos": [
+    {
+     "partido": "P01 (Alexander Zverev vs Arthur Fery)",
+     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
+     "jugadores": [
+      "Alexander Zverev",
+      "Arthur Fery"
+     ],
+     "inicio": "2026-10-30T16:30+00:00",
+     "favorito": "Alexander Zverev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
+     "id": "e01a16acf3ce50a010714d85d5ff6374",
+     "jugadores": [
+      "Jerome Kym",
+      "Jiri Lehecka"
+     ],
+     "inicio": "2026-10-30T17:00+00:00",
+     "favorito": "Jiri Lehecka",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Jan-Lennard Struff vs Nuno Borges)",
+     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+     "jugadores": [
+      "Jan-Lennard Struff",
+      "Nuno Borges"
+     ],
+     "inicio": "2026-10-30T18:10+00:00",
+     "favorito": "Jan-Lennard Struff",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P04 (Matteo Berrettini vs Alex de Minaur)",
+     "id": "94ca068a80e8dbb6686fd96d402bde0e",
+     "jugadores": [
+      "Matteo Berrettini",
+      "Alex de Minaur"
+     ],
+     "inicio": "2026-10-30T19:00+00:00",
+     "favorito": "Alex de Minaur",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
    "hora": "2026-10-30T15:10+00:00",
    "datos": "Los números muestran a Alexander Zverev y Leylah Fernandez como claros favoritos con un Elo en pista dura del 87% y 71% respectivamente. En partidos como el de Struff contra Borges, el Elo está completamente igualado al 49-50% en superficie dura. Las cuotas de Pinnacle reflejan bien estas diferencias, ofreciendo un gran valor si se busca la sorpresa en duelos parejos.",
    "noticias": "Zverev llega con la resaca emocional y mediática tras alcanzar oficialmente el número uno del mundo. Kamilla Rakhimova acumula un gran desgaste con un partido muy largo de tres sets en Tokio, al igual que Struff que viene de jugar tres mangas intensas contra Djokovic.",
@@ -1392,7 +1465,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1502,7 +1576,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1612,7 +1687,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1722,7 +1798,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1832,7 +1909,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -1942,7 +2020,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -2052,7 +2131,8 @@
      "inicio": "2026-10-30T13:00+00:00",
      "favorito": "Holger Rune",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
@@ -2127,48 +2207,19 @@
      "motivo": ""
     }
    ]
-  },
-  {
-   "hora": "2026-10-29T23:10+00:00",
-   "datos": "En el partido P01, el Elo otorga un 34% de opciones a Alexandra Eala frente al 1815 de Elo general frente a los 1910 de Diana Shnaider, con un cara a cara previo de 0-1. En el duelo P02, Kamilla Rakhimova registra un 43% de probabilidad según el Elo y un Elo general de 1692 frente a los 1740 de Maya Joint. El mercado sitúa a las favoritas Shnaider y Joint con cuotas de 1.67 y 1.73 respectivamente en pistas duras.",
-   "noticias": "Alexandra Eala acumula un mayor desgaste físico con 2 partidos, 5 sets y 39 juegos en los últimos 3 días, mientras que Diana Shnaider disputó 30 juegos en su último encuentro. Kamilla Rakhimova eclosionó un partido largo de 33 juegos y Maya Joint llega con 47 juegos acumulados en 5 sets recientes.",
-   "ambiente": "En la prensa y redes se destaca la emoción por los cuartos de final del torneo WTA en Tokio, resaltando la gran motivación de las tenistas jóvenes por avanzar de ronda. La igualdad en las previas genera expectación y presión sobre las favoritas.",
-   "favorito": "Las favoritas Diana Shnaider y Maya Joint muestran una superioridad clara en el ranking Elo por superficie y llegan con algo menos de fatiga acumulada en sus piernas, lo que avala su favoritismo en las cuotas. Además, Shnaider ya sabe lo que es ganar a Eala en el cara a cara previo, dándole confianza táctica para este duelo de cuartos de final en Tokio.",
-   "contra": "",
-   "conclusion": "El factor físico y el cansancio acumulado por partidos recientes de tres sets pesan mucho en esta fase del torneo, por lo que hay que vigilar la recuperación de las jugadoras. No se recomiendan apuestas cerradas, siendo clave la gestión de bankroll y la atención a las condiciones de pista dura.",
-   "partidos": [
-    {
-     "partido": "P01 (Alexandra Eala vs Diana Shnaider)",
-     "id": "d52af5cb645ef831c4dbab0bbaf48dac",
-     "jugadores": [
-      "Alexandra Eala",
-      "Diana Shnaider"
-     ],
-     "inicio": "2026-10-30T04:00+00:00",
-     "favorito": "Diana Shnaider",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": true
-    },
-    {
-     "partido": "P02 (Kamilla Rakhimova vs Maya Joint)",
-     "id": "cc0834cac355e3a96bf64a85ce003e51",
-     "jugadores": [
-      "Kamilla Rakhimova",
-      "Maya Joint"
-     ],
-     "inicio": "2026-10-30T04:00+00:00",
-     "favorito": "Maya Joint",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": false
-    }
-   ],
-   "importantes": [],
-   "graves": []
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-30T15:32+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T15:32+00:00",
+   "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-30T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
@@ -2308,16 +2359,6 @@
    "hora": "2026-10-29T19:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T19:10+00:00",
-   "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T18:10+00:00",
-   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-10-30",
@@ -2388,9 +2429,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 1,
-  "aciertos": 1.0,
-  "yield": 0.25
+  "apuestas": 2,
+  "aciertos": 0.5,
+  "yield": -0.375
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -3458,7 +3499,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -3482,6 +3523,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-10-29 contra Tallon Griekspoor, ganó 6-4 7-5",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
+      },
+      {
        "titulo": "Zverev ocupa por fin su lugar en lo más alto - Yahoo",
        "fuente": "Yahoo",
        "fecha": "2026-10-30",
@@ -3492,12 +3539,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFBPTnFEUnJ6dDhXdDBwTF9yTl95SXpMd1VOWUNQYlRaZkJrb3duTExOU3V1eDJkNll2cG8tcVRoaGs2UmZEaGpPbjQzY2U1di1BR0RDNTRsSTNWdUx0ZXRUNnMxeDVyaWU5MkoxbVp1bVU4VG41VEtPNkpMVnRlQXFiMmMzMi1MdUVNbXczN3F1YU9hVHF1LV9GTTJFbkZqYmxibDV4MHVtd1l3N3ZWLVBFcw?oc=5"
-      },
-      {
-       "titulo": "\"La frutilla del postre\": Zverev y el N°1 del mundo, una historia que irremediablemente cruzaría sus caminos - ESPN Deportes",
-       "fuente": "ESPN Deportes",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0E1OU5ITjA2WjRQUEU3aV9iUFNnY3hGeWJOOGc0NVgwd0tTUzhjazFEZ1VTM2hsSWRaSDdJOVNTaGJFQXpXNjQ4a0MwandQa1B3eWdpWDBMbk5rd1h3RWotUllkUEdOMHZORzhRS0dqT3UxREJ4enJrbU44NTAwalVRbFV6VGdua1EwLVMyeWJwTkUzcWU2cnRLRkNGWHhrVDUyYmdxVkZoMks5dU5PQ3dwYUNDbWtHQ0d5cEhzS1FVRWZ3bG5TQk9VcHdiang1OTgxUUs0TWVCWlAwZkkxWm5FNE9Ydmw4ekVSYUprWTJnTTRxWUxBQjFmbEFYdw?oc=5"
       }
      ]
     },
@@ -3516,6 +3557,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-29 contra Lorenzo Musetti, ganó 6-4 5-7 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
+      },
+      {
        "titulo": "Zverez vence a Griekspoor y accede a cuartos de final en Viena - El Aragueño",
        "fuente": "El Aragueño",
        "fecha": "2026-10-30",
@@ -3526,12 +3573,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDZBbUxtMHhrOW1vVHN6ZDRrQkZOak1ibVRQTnBvUkttMWU4Ti1uSE45Q21MM2k3UlpydllqRURlYlVGM1BZdVlWRFdkRDBJREFiLXRGbGN5UmVNVHlZbUNla3lNRmd2dTR2ODB6RjRZd2Vrelh2eGozbXR5UHdDcHkzNFliZDludDhlTXF3?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev vs Arthur Fery · Quarterfinal · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeU5YWXlmZ2k0UEo4YVl4TkVsZmxVU1lWdGRNWWJBQjJtU3lFcU5YWG5SNGFJS2M4WUxlYzFQOTJBODJnWlhlcGJaWVhkZ1RIUHFpYk5sYWN0bnRfS2FsT1NsOUt5UlJmR2QyT3FXRWxmMm9UWXFzYlFtd1VPajAwTTZmOEs3UGVPXzZLT2NDdG5JUQ?oc=5"
       }
      ]
     }
@@ -3546,7 +3587,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -3634,7 +3675,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -3722,7 +3763,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -3810,7 +3851,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:10+00:00",
+   "actualizado": "2026-10-30T15:32+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3951,5 +3992,6 @@
    "baten_cierre": 0,
    "pct_cierre": 0.0
   }
- }
+ },
+ "pretemporada": null
 }

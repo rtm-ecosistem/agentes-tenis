@@ -236268,6 +236268,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Holger Rune"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
