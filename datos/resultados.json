@@ -236180,6 +236180,94 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Adrian Mannarino"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shi Han",
+    "Lilli Tagger"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Valle D'Aosta Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noma Noha Akugue",
+    "Ayla Aksu"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Valle D'Aosta Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alina Charaeva",
+    "Marina Bassols Ribera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
   }
  ]
 }

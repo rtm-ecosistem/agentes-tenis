@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T12:10+00:00",
+ "actualizado": "2026-10-30T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1121,19 +1121,18 @@
    "nombre": "Adrian Mannarino",
    "circuito": "ATP",
    "elo": {
-    "all": 1699.6,
-    "hard": 1710.2,
+    "all": 1691.0,
+    "hard": 1701.0,
     "clay": 1275.0,
     "grass": 1453.8
    },
    "n": {
-    "all": 127,
-    "hard": 103,
+    "all": 128,
+    "hard": 104,
     "clay": 10,
     "grass": 14
    },
    "ultimos": [
-    "2026-09-29 P hard vs Pablo Carreno Busta",
     "2026-10-09 G hard vs Flavio Cobolli",
     "2026-10-11 P hard vs Karen Khachanov",
     "2026-10-19 G hard vs Aleksandar Vukic",
@@ -1142,7 +1141,8 @@
     "2026-10-24 G hard vs Thiago Agustin Tirante",
     "2026-10-25 G hard vs Alex Molcan",
     "2026-10-27 G hard vs Ignacio Buse",
-    "2026-10-28 G hard vs Jakub Mensik"
+    "2026-10-28 G hard vs Jakub Mensik",
+    "2026-10-30 P hard vs Daniil Medvedev"
    ]
   },
   "norrie|c": {
@@ -3553,19 +3553,18 @@
    "nombre": "Daniil Medvedev",
    "circuito": "ATP",
    "elo": {
-    "all": 1897.1,
-    "hard": 1909.3,
+    "all": 1904.3,
+    "hard": 1917.3,
     "clay": 1688.2,
     "grass": 1697.9
    },
    "n": {
-    "all": 201,
-    "hard": 151,
+    "all": 202,
+    "hard": 152,
     "clay": 31,
     "grass": 19
    },
    "ultimos": [
-    "2026-10-10 G hard vs Jan-Lennard Struff",
     "2026-10-12 G hard vs Dalibor Svrcina",
     "2026-10-14 G hard vs Stefanos Tsitsipas",
     "2026-10-16 G hard vs Tommy Paul",
@@ -3574,7 +3573,8 @@
     "2026-10-23 G hard vs Terence Atmane",
     "2026-10-25 G hard vs Nikoloz Basilashvili",
     "2026-10-28 G hard vs Daniel Merida",
-    "2026-10-29 G hard vs Cameron Norrie"
+    "2026-10-29 G hard vs Cameron Norrie",
+    "2026-10-30 G hard vs Adrian Mannarino"
    ]
   },
   "atmane|t": {
@@ -14682,19 +14682,18 @@
    "nombre": "Shi Han",
    "circuito": "WTA",
    "elo": {
-    "all": 1764.7,
-    "hard": 1749.0,
+    "all": 1726.1,
+    "hard": 1708.0,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 22,
-    "hard": 22,
+    "all": 23,
+    "hard": 23,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-05 G hard vs Yang Yidi",
     "2026-10-06 P hard vs Renata Zarazua",
     "2026-10-10 G hard vs Peyton Stearns",
     "2026-10-11 G hard vs Kamilla Rakhimova",
@@ -14703,7 +14702,8 @@
     "2026-10-18 G hard vs Alina Korneeva",
     "2026-10-19 P hard vs Sorana Cirstea",
     "2026-10-26 G hard vs Alevtina Ibragimova",
-    "2026-10-28 G hard vs Dayana Yastremska"
+    "2026-10-28 G hard vs Dayana Yastremska",
+    "2026-10-30 P hard vs Lilli Tagger"
    ]
   },
   "yufei|r": {
@@ -16926,19 +16926,18 @@
    "nombre": "Lilli Tagger",
    "circuito": "WTA",
    "elo": {
-    "all": 1710.7,
-    "hard": 1669.0,
+    "all": 1738.7,
+    "hard": 1701.3,
     "clay": 1720.9,
     "grass": 1350.7
    },
    "n": {
-    "all": 55,
-    "hard": 44,
+    "all": 56,
+    "hard": 45,
     "clay": 9,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-24 P hard vs Yuliia Starodubtseva",
     "2026-08-31 G hard vs Tamara Korpatsch",
     "2026-09-03 P hard vs Amanda Anisimova",
     "2026-09-30 P hard vs Elena-Gabriela Ruse",
@@ -16947,7 +16946,8 @@
     "2026-10-21 G hard vs Tereza Valentova",
     "2026-10-23 P hard vs Ann Li",
     "2026-10-27 G hard vs Venus Williams",
-    "2026-10-29 G hard vs Magda Linette"
+    "2026-10-29 G hard vs Magda Linette",
+    "2026-10-30 G hard vs Shi Han"
    ]
   },
   "zhu|c": {
@@ -20221,19 +20221,18 @@
    "nombre": "Alina Charaeva",
    "circuito": "WTA",
    "elo": {
-    "all": 1719.6,
-    "hard": 1717.6,
+    "all": 1735.1,
+    "hard": 1734.0,
     "clay": 1543.7,
     "grass": 1577.3
    },
    "n": {
-    "all": 65,
-    "hard": 48,
+    "all": 66,
+    "hard": 49,
     "clay": 12,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-18 P hard vs Anna Blinkova",
     "2026-09-22 G hard vs Sofia Kenin",
     "2026-09-24 P hard vs Anna Bondar",
     "2026-10-01 G hard vs Yuliia Starodubtseva",
@@ -20242,7 +20241,8 @@
     "2026-10-07 P hard vs Zheng Qinwen",
     "2026-10-13 P hard vs Martyna Kubka",
     "2026-10-27 G hard vs Enola Chiesa",
-    "2026-10-28 G hard vs Gabriela Knutson"
+    "2026-10-28 G hard vs Gabriela Knutson",
+    "2026-10-30 G hard vs Marina Bassols Ribera"
    ]
   },
   "kostovic|t": {
@@ -20852,19 +20852,18 @@
    "nombre": "Marina Bassols Ribera",
    "circuito": "WTA",
    "elo": {
-    "all": 1604.0,
-    "hard": 1587.2,
+    "all": 1586.4,
+    "hard": 1568.3,
     "clay": 1691.8,
     "grass": 1532.1
    },
    "n": {
-    "all": 46,
-    "hard": 32,
+    "all": 47,
+    "hard": 33,
     "clay": 10,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-08 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-09-14 G hard vs Eva Bennemann",
     "2026-09-17 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-09-28 G hard vs Olivia Nicholls",
@@ -20873,7 +20872,8 @@
     "2026-10-13 G grass vs Ida Wobker",
     "2026-10-14 P grass vs Francesca Curmi",
     "2026-10-27 G hard vs Victoria Jimenez Kasintseva",
-    "2026-10-29 G hard vs Erika Andreeva"
+    "2026-10-29 G hard vs Erika Andreeva",
+    "2026-10-30 P hard vs Alina Charaeva"
    ]
   },
   "martynov|d": {
@@ -26452,19 +26452,18 @@
    "nombre": "Noma Noha Akugue",
    "circuito": "WTA",
    "elo": {
-    "all": 1569.8,
-    "hard": 1613.8,
+    "all": 1605.5,
+    "hard": 1651.1,
     "clay": 1497.6,
     "grass": 1449.4
    },
    "n": {
-    "all": 41,
-    "hard": 31,
+    "all": 42,
+    "hard": 32,
     "clay": 6,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-13 P hard vs Fiona Ferro",
     "2026-09-15 G hard vs Ayana Akli",
     "2026-09-17 P hard vs Malaika Rapolu",
     "2026-09-28 P hard vs Fiona Crawley",
@@ -26473,7 +26472,8 @@
     "2026-10-07 P hard vs Lucrezia Stefanini",
     "2026-10-13 P grass vs Rebeka Masarova",
     "2026-10-27 G hard vs Danka Kovinic",
-    "2026-10-28 G hard vs Linda Klimovicova"
+    "2026-10-28 G hard vs Linda Klimovicova",
+    "2026-10-30 G hard vs Ayla Aksu"
    ]
   },
   "lanca|s": {
@@ -28352,19 +28352,18 @@
    "nombre": "Ayla Aksu",
    "circuito": "ATP",
    "elo": {
-    "all": 1684.8,
-    "hard": 1703.0,
+    "all": 1642.5,
+    "hard": 1661.2,
     "clay": 1465.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 25,
-    "hard": 22,
+    "all": 26,
+    "hard": 23,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-21 G hard vs Yuki Naito",
     "2026-09-23 P hard vs Shi Han",
     "2026-09-29 P hard vs Elena Pridankina",
     "2026-10-06 G hard vs Emiliana Arango",
@@ -28373,7 +28372,8 @@
     "2026-10-10 G hard vs Himeno Sakatsume",
     "2026-10-11 G hard vs Lucrezia Stefanini",
     "2026-10-26 G hard vs Lisa Zaar",
-    "2026-10-29 G hard vs Lucrezia Stefanini"
+    "2026-10-29 G hard vs Lucrezia Stefanini",
+    "2026-10-30 P hard vs Noma Noha Akugue"
    ]
   },
   "andreeva|e": {
@@ -48067,7 +48067,7 @@
   ],
   "mannarino|a~medvedev|d": [
    0,
-   2
+   3
   ],
   "bu|y~musetti|l": [
    1,
@@ -90968,7 +90968,19 @@
   "liu|c~sun|x": [
    0,
    1
+  ],
+  "han|s~tagger|l": [
+   0,
+   1
+  ],
+  "aksu|a~noha akugue|n": [
+   0,
+   1
+  ],
+  "bassols ribera|m~charaeva|a": [
+   0,
+   1
   ]
  },
- "propios": 10423
+ "propios": 10427
 }
