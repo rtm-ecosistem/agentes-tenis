@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T19:29+00:00",
+    "hora": "2026-10-30T20:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,7 +325,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T19:29+00:00",
+    "hora": "2026-10-30T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -471,7 +471,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T19:29+00:00",
+    "hora": "2026-10-30T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -630,7 +630,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T19:29+00:00",
+    "hora": "2026-10-30T20:10+00:00",
     "rent": 0.0
    }
   }
@@ -1080,7 +1080,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1192,7 +1193,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1306,7 +1308,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1420,7 +1423,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1534,7 +1538,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1648,7 +1653,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1762,7 +1768,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
@@ -1847,7 +1854,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1898,7 +1906,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Matteo Berrettini vs Alex de Minaur)",
@@ -1973,7 +1982,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Matteo Berrettini vs Alex de Minaur)",
@@ -2035,7 +2045,8 @@
      "inicio": "2026-10-30T18:10+00:00",
      "favorito": "Jan-Lennard Struff",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P03 (Matteo Berrettini vs Alex de Minaur)",
@@ -2396,6 +2407,11 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
+  "b355aca280cc",
+  "4270532ec55d",
+  "3ebd27c3f5aa",
+  "22a3b1e21b3c",
+  "8efcd86aea9b",
   "527f37d8c4c8",
   "6d2cb10b09f0",
   "fb7a1bdfc607",
@@ -2406,11 +2422,13 @@
   "d55ec95482f6",
   "401af4472e42",
   "ce95c03092ba",
+  "f597079c6631",
   "5df54bac6e66",
   "a6a704e68806",
   "0b6ffcd4969e",
   "83e3c6b96d11",
   "aebcf8b9a2b2",
+  "630eeea63891",
   "cb873c8b2921",
   "6f94695e79de",
   "2504b32b2bdc",
@@ -2419,7 +2437,7 @@
   "3d34f5ce3ecd",
   "4f8a44da9c31",
   "ee6bb99ed8bb",
-  "8efcd86aea9b",
+  "0a074b987fed",
   "ba144a7f0353",
   "b35e942f038e",
   "e3a4c68f4959",
@@ -2511,11 +2529,11 @@
   "c31cf2482d15",
   "9c35b61703d1",
   "81766af17bb3",
+  "6682337af4b0",
   "7ccf4e64cfbb",
   "bc092b5af1c5",
   "bb386498d04b",
   "0a82d05b80e9",
-  "6682337af4b0",
   "683016dc8b03",
   "8b3b7313a186",
   "09b1bb6b4704",
@@ -2527,7 +2545,6 @@
   "ca611d37496f",
   "2f07a0952b00",
   "ea39709bb732",
-  "f597079c6631",
   "6194d645f01f",
   "3d7a6d6952f8",
   "35c3121d3d93",
@@ -2539,7 +2556,6 @@
   "f8cda1eb4d1a",
   "ab66c08aece6",
   "2088acc8eda2",
-  "b481d95627c6",
   "6e19dc6753c5",
   "b7241a537bc2",
   "34a1df4a40b2",
@@ -2633,6 +2649,7 @@
   "2c932d082a77",
   "b075df7ccb3b",
   "04b8204993d1",
+  "58d3f0f3706a",
   "e7a192ee8007",
   "4b20ccefd8c9",
   "8602bd3f10c4",
@@ -2747,6 +2764,7 @@
   "32498f9eadcb",
   "d21163364548",
   "451d292ef105",
+  "b481d95627c6",
   "876533ce79cb",
   "373119df1b19",
   "83e89e171303",
@@ -2902,6 +2920,7 @@
   "16827821fb1e",
   "a72d2c0000db",
   "742346174c70",
+  "7663c07698e2",
   "40f4b5a12fe3",
   "186884939ec9",
   "5a74ca9bf580",
@@ -3030,6 +3049,7 @@
   "badfd20b1268",
   "5fc61ac98c7d",
   "ea4a292e22c3",
+  "31ceb4899746",
   "b3326c19740f",
   "86c7504a2a82",
   "619e78e11c47",
@@ -3186,16 +3206,7 @@
   "412b9c43fcad",
   "137f14d86e2b",
   "d084c17c5e9c",
-  "ba7e455dafb1",
-  "d33c874bf3a0",
-  "27e0107b2f5a",
-  "e5a3181a4de2",
-  "5be830a7af06",
-  "0b45e674c900",
-  "cb4a712a6c24",
-  "d03ccaab4b7b",
-  "9bca66896583",
-  "4765bd32b54e"
+  "ba7e455dafb1"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3215,7 +3226,8 @@
    "cc4564f7b80beae29935d650d1ccb4cb",
    "d52af5cb645ef831c4dbab0bbaf48dac",
    "e01a16acf3ce50a010714d85d5ff6374",
-   "e17ec974bac4e8094cbe45dfeb471b1e"
+   "e17ec974bac4e8094cbe45dfeb471b1e",
+   "e66be09cbf07f4ca7b22ef19c32bcb30"
   ]
  },
  "partidos_info": {
@@ -4718,22 +4730,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 5,
-  "ganadas": 4,
-  "unidades": -0.02,
+  "apuestas": 6,
+  "ganadas": 5,
+  "unidades": 0.78,
   "pendientes": [
-   {
-    "partido": "e66be09cbf07f4ca7b22ef19c32bcb30",
-    "jugadores": [
-     "Jan-Lennard Struff",
-     "Nuno Borges"
-    ],
-    "inicio": "2026-10-30T18:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Jan-Lennard Struff",
-    "punto": null,
-    "cuota": 1.8
-   },
    {
     "partido": "94ca068a80e8dbb6686fd96d402bde0e",
     "jugadores": [
@@ -4765,7 +4765,8 @@
    "f8b84ec001244b604176bf0bc6f21f16",
    "cc4564f7b80beae29935d650d1ccb4cb",
    "69ae427eb9d45bc2bc6b0ad750e25934",
-   "e01a16acf3ce50a010714d85d5ff6374"
+   "e01a16acf3ce50a010714d85d5ff6374",
+   "e66be09cbf07f4ca7b22ef19c32bcb30"
   ]
  }
 }

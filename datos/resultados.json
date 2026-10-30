@@ -236469,6 +236469,44 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Nuno Borges",
+    "Jan-Lennard Struff"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Nauhany Vitoria Leme Da Silva",
+    "Francesca Jones"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": false
   }
  ]
 }

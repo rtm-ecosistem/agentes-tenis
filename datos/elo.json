@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T19:10+00:00",
+ "actualizado": "2026-10-30T20:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1505,19 +1505,18 @@
    "nombre": "Nuno Borges",
    "circuito": "ATP",
    "elo": {
-    "all": 1726.3,
-    "hard": 1697.5,
+    "all": 1710.2,
+    "hard": 1677.8,
     "clay": 1589.1,
     "grass": 1615.1
    },
    "n": {
-    "all": 163,
-    "hard": 101,
+    "all": 164,
+    "hard": 102,
     "clay": 44,
     "grass": 18
    },
    "ultimos": [
-    "2026-08-14 G hard vs Thanasi Kokkinakis",
     "2026-08-16 G hard vs Francisco Cerundolo",
     "2026-08-18 G hard vs Andrey Rublev",
     "2026-08-19 P hard vs Brandon Nakashima",
@@ -1526,7 +1525,8 @@
     "2026-10-08 G hard vs Facundo Diaz Acosta",
     "2026-10-10 P hard vs Jiri Lehecka",
     "2026-10-26 G hard vs Mika Brunold",
-    "2026-10-28 G hard vs Casper Ruud"
+    "2026-10-28 G hard vs Casper Ruud",
+    "2026-10-30 P hard vs Jan-Lennard Struff"
    ]
   },
   "musetti|l": {
@@ -1701,19 +1701,18 @@
    "nombre": "Jan-Lennard Struff",
    "circuito": "ATP",
    "elo": {
-    "all": 1727.4,
-    "hard": 1691.6,
+    "all": 1744.5,
+    "hard": 1712.8,
     "clay": 1550.9,
     "grass": 1673.2
    },
    "n": {
-    "all": 140,
-    "hard": 83,
+    "all": 141,
+    "hard": 84,
     "clay": 36,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-03 P hard vs Daniil Medvedev",
     "2026-10-08 G hard vs Martin Landaluce",
     "2026-10-10 P hard vs Daniil Medvedev",
     "2026-10-20 G hard vs Marcos Giron",
@@ -1722,7 +1721,8 @@
     "2026-10-24 G hard vs Arthur Fils",
     "2026-10-25 P hard vs Tallon Griekspoor",
     "2026-10-28 G hard vs Yannick Hanfmann",
-    "2026-10-29 G hard vs Novak Djokovic"
+    "2026-10-29 G hard vs Novak Djokovic",
+    "2026-10-30 G hard vs Nuno Borges"
    ]
   },
   "cilic|m": {
@@ -77587,7 +77587,7 @@
   ],
   "borges|n~lennard struff|j": [
    1,
-   0
+   1
   ],
   "buse|i~tsitsipas|s": [
    1,
@@ -91002,5 +91002,5 @@
    0
   ]
  },
- "propios": 10436
+ "propios": 10438
 }
