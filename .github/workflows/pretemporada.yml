@@ -10,7 +10,7 @@ on:
       dias:
         description: "Días a simular en esta ejecución"
         type: number
-        default: 8
+        default: 12
       activar:
         description: "Desde ahora sigue sola cada 3 horas hasta terminar"
         type: boolean
@@ -52,7 +52,7 @@ jobs:
           MODELO_PRETEMPORADA: ${{ vars.MODELO_PRETEMPORADA }}
           MODELO_CLAUDE: ${{ vars.MODELO_CLAUDE }}
         run: >-
-          python -m agentes.pretemporada --dias ${{ inputs.dias || 8 }}
+          python -m agentes.pretemporada --dias ${{ inputs.dias || 12 }}
           ${{ github.event_name == 'schedule' && '--solo-si-activa' || '' }}
           ${{ inputs.activar && '--activar' || '' }}
       # Al terminar, una sola vez: lo aprendido pasa a la oficina (con la firma del dueño, para que Vercel publique)

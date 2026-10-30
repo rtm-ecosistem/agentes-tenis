@@ -21,6 +21,7 @@ import copy
 import hashlib
 import io
 from datetime import date, datetime, time, timedelta
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -261,7 +262,8 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
         ia_mod.ESPACIO_GEMINI[config.MODELO_PRETEMPORADA] = max(ia_mod.ESPACIO_GEMINI.get(config.MODELO_PRETEMPORADA, 0), 8.0)
         ia = ia_mod.Claude() if config.PROVEEDOR_IA == "claude" else ia_mod.Gemini(config.MODELO_PRETEMPORADA, respaldo=None)
     contador = Contador(ia)
-    hoy_real = comun.ahora().date().isoformat()
+    # La cuota gratuita de Gemini se reinicia a medianoche de California
+    hoy_real = datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
     if progreso.get("hoy", {}).get("fecha") != hoy_real:
         progreso["hoy"] = {"fecha": hoy_real, "llamadas": 0}
     con_partidos = sorted({p["fecha"] for p in todos if p["cuotas"]})
