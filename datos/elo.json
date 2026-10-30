@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T17:10+00:00",
+ "actualizado": "2026-10-30T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1065,19 +1065,18 @@
    "nombre": "Alexander Zverev",
    "circuito": "ATP",
    "elo": {
-    "all": 2007.9,
-    "hard": 1952.8,
+    "all": 2011.6,
+    "hard": 1957.1,
     "clay": 1979.4,
     "grass": 1854.4
    },
    "n": {
-    "all": 255,
-    "hard": 164,
+    "all": 256,
+    "hard": 165,
     "clay": 67,
     "grass": 24
    },
    "ultimos": [
-    "2026-10-01 G hard vs Cameron Norrie",
     "2026-10-03 G hard vs Shang Juncheng",
     "2026-10-04 P hard vs Novak Djokovic",
     "2026-10-09 G hard vs Wu Yibing",
@@ -1086,7 +1085,8 @@
     "2026-10-15 G hard vs Alex de Minaur",
     "2026-10-17 P hard vs Alejandro Davidovich Fokina",
     "2026-10-27 G hard vs Martin Landaluce",
-    "2026-10-29 G hard vs Tallon Griekspoor"
+    "2026-10-29 G hard vs Tallon Griekspoor",
+    "2026-10-30 G hard vs Arthur Fery"
    ]
   },
   "sonego|l": {
@@ -9264,19 +9264,18 @@
    "nombre": "Arthur Fery",
    "circuito": "ATP",
    "elo": {
-    "all": 1688.4,
-    "hard": 1627.2,
+    "all": 1680.8,
+    "hard": 1618.8,
     "clay": 1485.3,
     "grass": 1722.3
    },
    "n": {
-    "all": 39,
-    "hard": 26,
+    "all": 40,
+    "hard": 27,
     "clay": 2,
     "grass": 11
    },
    "ultimos": [
-    "2026-08-25 G hard vs Cruz Hewitt",
     "2026-08-26 G hard vs Mees Rottgering",
     "2026-08-28 G hard vs Aleksandar Kovacevic",
     "2026-08-29 P hard vs Ignacio Buse",
@@ -9285,7 +9284,8 @@
     "2026-10-07 G hard vs Marin Cilic",
     "2026-10-09 P hard vs Karen Khachanov",
     "2026-10-20 P hard vs Borna Gojo",
-    "2026-10-29 G hard vs Lorenzo Musetti"
+    "2026-10-29 G hard vs Lorenzo Musetti",
+    "2026-10-30 P hard vs Alexander Zverev"
    ]
   },
   "lajal|m": {
@@ -21069,19 +21069,18 @@
    "nombre": "Elsa Jacquemot",
    "circuito": "WTA",
    "elo": {
-    "all": 1533.1,
-    "hard": 1523.8,
+    "all": 1564.4,
+    "hard": 1559.2,
     "clay": 1446.8,
     "grass": 1480.6
    },
    "n": {
-    "all": 50,
-    "hard": 37,
+    "all": 51,
+    "hard": 38,
     "clay": 10,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-15 P hard vs Liudmila Samsonova",
     "2026-09-28 G hard vs Li Zongyu",
     "2026-09-29 G hard vs Vivian Wolff",
     "2026-09-30 P hard vs Magdalena Frech",
@@ -21090,7 +21089,8 @@
     "2026-10-12 P hard vs Lea Boskovic",
     "2026-10-13 P hard vs Teodora Kostovic",
     "2026-10-28 G hard vs Caroline Werner",
-    "2026-10-29 G hard vs Susan Bandecchi"
+    "2026-10-29 G hard vs Susan Bandecchi",
+    "2026-10-30 G hard vs Elizara Yaneva"
    ]
   },
   "stefanini|l": {
@@ -29569,19 +29569,18 @@
    "nombre": "Elizara Yaneva",
    "circuito": "WTA",
    "elo": {
-    "all": 1619.6,
-    "hard": 1617.2,
+    "all": 1581.2,
+    "hard": 1571.4,
     "clay": 1515.2,
     "grass": 1568.2
    },
    "n": {
-    "all": 28,
-    "hard": 17,
+    "all": 29,
+    "hard": 18,
     "clay": 6,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-07 P clay vs Gabriela Knutson",
     "2026-08-25 P hard vs Lucie Havlickova",
     "2026-09-07 G hard vs Weronika Falkowska",
     "2026-09-09 G hard vs Zhibek Kulambayeva",
@@ -29590,7 +29589,8 @@
     "2026-10-14 G grass vs Carole Monnet",
     "2026-10-16 P grass vs Francesca Curmi",
     "2026-10-27 G hard vs Jessica Pieri",
-    "2026-10-28 G hard vs Oksana Selekhmeteva"
+    "2026-10-28 G hard vs Oksana Selekhmeteva",
+    "2026-10-30 P hard vs Elsa Jacquemot"
    ]
   },
   "curmi|f": {
@@ -79155,7 +79155,7 @@
   ],
   "fery|a~zverev|a": [
    0,
-   1
+   2
   ],
   "curmi|f~vandromme|j": [
    0,
@@ -90984,7 +90984,11 @@
   "blinkova|a~kubka|m": [
    1,
    0
+  ],
+  "jacquemot|e~yaneva|e": [
+   1,
+   0
   ]
  },
- "propios": 10431
+ "propios": 10433
 }

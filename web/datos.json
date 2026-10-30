@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T17:25+00:00",
+ "actualizado": "2026-10-30T18:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -548,11 +548,11 @@
    "animo": {
     "mezcla": [
      {
-      "emocion": "calma",
-      "cara": "😌",
-      "nombre": "Calma",
+      "emocion": "impaciencia",
+      "cara": "😑",
+      "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "No hay nada que le preocupe ni le emocione."
+      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
@@ -748,10 +748,17 @@
    "animo": {
     "mezcla": [
      {
+      "emocion": "impaciencia",
+      "cara": "😑",
+      "nombre": "Impaciencia",
+      "pct": 0.6,
+      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
+     },
+     {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 1.0,
+      "pct": 0.4,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -961,11 +968,11 @@
    "animo": {
     "mezcla": [
      {
-      "emocion": "calma",
-      "cara": "😌",
-      "nombre": "Calma",
+      "emocion": "impaciencia",
+      "cara": "😑",
+      "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "No hay nada que le preocupe ni le emocione."
+      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
@@ -975,40 +982,6 @@
  "cartelera": {
   "actualizado": "2026-10-30T08:00+00:00",
   "partidos": [
-   {
-    "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T18:10+00:00",
-    "jugadores": [
-     "Jan-Lennard Struff",
-     "Nuno Borges"
-    ],
-    "opciones": [
-     {
-      "id": "e66be09cbf07f4ca7b22ef19c32bcb30|h2h|Jan-Lennard Struff|",
-      "mercado": "h2h",
-      "nombre": "Jan-Lennard Struff",
-      "punto": null,
-      "cuota": 1.8,
-      "pinnacle": 1.81
-     },
-     {
-      "id": "e66be09cbf07f4ca7b22ef19c32bcb30|h2h|Nuno Borges|",
-      "mercado": "h2h",
-      "nombre": "Nuno Borges",
-      "punto": null,
-      "cuota": 2.0,
-      "pinnacle": 2.11
-     }
-    ],
-    "pinnacle_h2h": {
-     "Jan-Lennard Struff": 1.81,
-     "Nuno Borges": 2.11
-    }
-   },
    {
     "id": "94ca068a80e8dbb6686fd96d402bde0e",
     "deporte": "tennis_atp_vienna_open",
@@ -1149,6 +1122,43 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-30T18:10+00:00",
+   "datos": "Los números muestran un claro favoritismo para Alex de Minaur sobre Matteo Berrettini en Viena, con un 27 por ciento de Elo por superficie frente al 23 por ciento del italiano. En Tokio, Leylah Fernandez domina con un 71 por ciento de Elo general y de superficie ante Kamilla Rakhimova. El cara a cara está empatado entre Berrettini y De Minaur, mientras que Rakhimova lidera el histórico frente a Fernandez. Las cuotas de las casas de apuestas respaldan firmemente a los favoritos en ambos encuentros.",
+   "noticias": "En las noticias destaca la previa del duelo entre Berrettini y De Minaur en Viena, y la retirada de Rybakina en Tokio por molestias. No hay lesiones de gravedad notificadas directamente para los protagonistas de los partidos de nuestra cartelera de hoy. Berrettini avanzó a cuartos tras la retirada previa de Cobolli, lo que le ha otorgado descanso. Rakhimova llega con mayor desgaste físico tras un partido largo de tres sets frente a Maya Joint.",
+   "ambiente": "Se habla mucho en la prensa rosa sobre la vida personal de Berrettini, lo que podría desviar su atención en la pista. Por otro lado, la motivación de Leylah Fernandez es alta para avanzar en el torneo asiático tras consolidar buenas sensaciones en sus últimos encuentros. El público de Viena espera un gran espectáculo en el choque de cuartos de final.",
+   "favorito": "Alex de Minaur y Leylah Fernandez cuentan con la solidez de sus puestos en el ranking y un mejor rendimiento reciente en pista dura. Los datos de Elo y el menor desgaste físico de De Minaur avalan su victoria lógica hoy. Además, nuestro historial favorable del 71 por ciento en aciertos con los favoritos respalda esta opción frente a sorpresas innecesarias.",
+   "contra": "",
+   "conclusion": "Pesa mucho el rendimiento superior en pista dura de los favoritos y la ventaja física de no haber jugado partidos maratonianos recientes. Hay que vigilar el estado anímico de Berrettini tras las distracciones extradeportivas y la posible fatiga acumulada de Rakhimova.",
+   "partidos": [
+    {
+     "partido": "P01 (Matteo Berrettini vs Alex de Minaur)",
+     "id": "94ca068a80e8dbb6686fd96d402bde0e",
+     "jugadores": [
+      "Matteo Berrettini",
+      "Alex de Minaur"
+     ],
+     "inicio": "2026-10-30T19:00+00:00",
+     "favorito": "Alex de Minaur",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
    "hora": "2026-10-30T16:10+00:00",
    "datos": "Los números muestran un claro favoritismo para Jiri Lehecka (1822 de Elo) frente a Jerome Kym (1640), y para Leylah Fernandez (1878) ante Kamilla Rakhimova (1719). En el partido de Struff y Borges la igualdad es máxima con 1727 y 1726 de Elo respectivamente. Matteo Berrettini cuenta con un 25% de opciones según su superficie ante Alex de Minaur.",
    "noticias": "Destacan el gran desgaste físico y los partidos largos de Jerome Kym y Jan-Lennard Struff en las últimas jornadas. Kamilla Rakhimova también llega muy castigada tras disputar tres sets largos en Tokio. La retirada de la número uno del mundo por molestias en el mismo torneo añade incertidumbre en el cuadro femenino.",
@@ -1228,7 +1238,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
@@ -1301,7 +1312,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
@@ -1374,7 +1386,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P02 (Jerome Kym vs Jiri Lehecka)",
@@ -1496,7 +1509,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
@@ -1608,7 +1622,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
@@ -1720,7 +1735,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
@@ -1832,7 +1848,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
@@ -1944,7 +1961,8 @@
      "inicio": "2026-10-30T16:30+00:00",
      "favorito": "Alexander Zverev",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
@@ -1985,121 +2003,19 @@
    ],
    "importantes": [],
    "graves": []
-  },
-  {
-   "hora": "2026-10-30T08:10+00:00",
-   "datos": "En los partidos de hoy, las probabilidades de Elo muestran diferencias notables, destacando el 86% de favoritismo para Alexander Zverev frente a Arthur Fery y el 71% para Leylah Fernandez ante Kamilla Rakhimova. En duelos más apretados como el de Taylor Fritz (43%) y Arthur Fils (45% en hard), el mercado está prácticamente al 50%. En cuanto al historial cara a cara, Carlos Alcaraz domina con un claro 5-0 sobre Tommy Paul en superficie dura.",
-   "noticias": "En el apartado físico y de bajas, destaca la retirada por lesión de Elena Rybakina en Tokio, lo que otorga el pase directo a semifinales a Leylah Fernandez. Por otro lado, Daniil Medvedev llega tras salvar una bola de partido ante Cameron Norrie en un encuentro muy largo de 52 juegos. Asimismo, Matteo Berrettini se benefició en la ronda previa del abandono por lesión de Flavio Cobolli.",
-   "ambiente": "En las redes y la prensa se habla mucho del ascenso de Alexander Zverev al número uno del mundo casi con 30 años, lo que eleva su motivación. También hay gran expectación en torno al duelo generacional entre Alcaraz y un frustrado Tommy Paul que reconoce lo difícil que es ganarle.",
-   "favorito": "Los favoritos de hoy avalan su condición con un ranking superior, un Elo consolidado en superficie dura como el de Medvedev (1897) o Alcaraz (2128), y un rodaje competitivo muy sólido. Respaldar a los cabezas de serie sigue siendo la opción más lógica según los precedentes directos y la consistencia general en el circuito ATP y WTA. Ir en contra de ellos repetidamente ha demostrado ser estadísticamente arriesgado en nuestro historial reciente de aciertos (33%).",
-   "contra": "",
-   "conclusion": "El desgaste físico tras partidos muy largos de tres sets sigue siendo un factor determinante que puede pesar en las piernas de los favoritos. Hay que vigilar de cerca las cuotas de valor en los duelos más igualados y el impacto de las recientes retiradas y lesiones en el cuadro.",
-   "partidos": [
-    {
-     "partido": "P01 (Adrian Mannarino vs Daniil Medvedev)",
-     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-     "jugadores": [
-      "Adrian Mannarino",
-      "Daniil Medvedev"
-     ],
-     "inicio": "2026-10-30T12:30+00:00",
-     "favorito": "Daniil Medvedev",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P02 (Holger Rune vs Valentin Vacherot)",
-     "id": "4eebb3b42f713eff0e760f9abef41572",
-     "jugadores": [
-      "Holger Rune",
-      "Valentin Vacherot"
-     ],
-     "inicio": "2026-10-30T13:00+00:00",
-     "favorito": "Holger Rune",
-     "vista": "dudoso",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
-     "id": "cc4564f7b80beae29935d650d1ccb4cb",
-     "jugadores": [
-      "Tommy Paul",
-      "Carlos Alcaraz"
-     ],
-     "inicio": "2026-10-30T14:00+00:00",
-     "favorito": "Carlos Alcaraz",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P04 (Taylor Fritz vs Arthur Fils)",
-     "id": "f8b84ec001244b604176bf0bc6f21f16",
-     "jugadores": [
-      "Taylor Fritz",
-      "Arthur Fils"
-     ],
-     "inicio": "2026-10-30T14:10+00:00",
-     "favorito": "Arthur Fils",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P05 (Alexander Zverev vs Arthur Fery)",
-     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
-     "jugadores": [
-      "Alexander Zverev",
-      "Arthur Fery"
-     ],
-     "inicio": "2026-10-30T16:30+00:00",
-     "favorito": "Alexander Zverev",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
-     "id": "e01a16acf3ce50a010714d85d5ff6374",
-     "jugadores": [
-      "Jerome Kym",
-      "Jiri Lehecka"
-     ],
-     "inicio": "2026-10-30T17:00+00:00",
-     "favorito": "Jiri Lehecka",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
-     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-     "jugadores": [
-      "Jan-Lennard Struff",
-      "Nuno Borges"
-     ],
-     "inicio": "2026-10-30T18:10+00:00",
-     "favorito": "Jan-Lennard Struff",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
-     "id": "94ca068a80e8dbb6686fd96d402bde0e",
-     "jugadores": [
-      "Matteo Berrettini",
-      "Alex de Minaur"
-     ],
-     "inicio": "2026-10-30T19:00+00:00",
-     "favorito": "Alex de Minaur",
-     "vista": "favorito",
-     "motivo": ""
-    }
-   ],
-   "importantes": [],
-   "graves": []
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-30T18:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Matteo Berrettini – Alex de Minaur, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-30T16:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
@@ -2239,16 +2155,6 @@
    "hora": "2026-10-29T23:10+00:00",
    "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T21:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T21:10+00:00",
-   "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-10-30",
@@ -2319,9 +2225,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 3,
-  "aciertos": 0.6666666666666666,
-  "yield": -0.15333333333333335
+  "apuestas": 4,
+  "aciertos": 0.75,
+  "yield": -0.0875
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -3653,7 +3559,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T16:10+00:00",
+   "actualizado": "2026-10-30T18:10+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -3677,6 +3583,12 @@
      "cansancio": "1 partidos, 1 sets y 7 juegos en 3 días; el último el 2026-10-29 contra Flavio Cobolli, ganó 5-2",
      "noticias": [
       {
+       "titulo": "Matteo Berrettini - Alex de Minaur, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE1ZZnI4d2FUX3BoUFZPUEFWMWRMb2g3S0lJSHcxcXAycm1Md1ktTFFLQkw2Qm5vaVRqZkpUVWZod1U2Y3Z1THp3dXN4emZJY2lGUllQbnV1cDFhWHZWMTJEZGZtUm5QNVBqeDROcnF0V19YVnBhVUdNMlAtbDVxNktYeDhWcHNsODdrcGJ5X25uSWhuUnVXOFhuR012ZVo4cTZxSzFPSkhCOXpCVjVPOTNtbWJ4a2lIcmFPdE1aaXR2ZnlrQzIzSU1hSDZIcGpvRC1VNkpMdTFWR2QzT0wteDZMeWJRdHRlNG5F?oc=5"
+      },
+      {
        "titulo": "El supuesto triángulo amoroso que revoluciona el tenis: \"¿Si le he sido infiel a Berrettini? Lávate la boca\" - MARCA",
        "fuente": "MARCA",
        "fecha": "2026-10-30",
@@ -3687,12 +3599,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWhpLVZycDJSTlZfYWtleXlsYlpnN3ZuMERBbF9hQTdjN2lfb3BXUUpPY1p0N1VCeXA4VUZCempDc29WU24xOU9fb2xmTWVHMjNZM19ydTJEdXFBV2VKbG1Db2JKVlZBZmJvN0h0OTRPSnRHYjhUN2hTVUVFRERKNUtWWjhIaTBXRElRN2xwNXprQUEwLTdPRk5GMVhEWjdERGxZX2dDSQ?oc=5"
-      },
-      {
-       "titulo": "Highlights: Berrettini ruge en su estreno esta semana en Viena - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3l5NExCSUIyQnpCLWVXbDhQb0JIaHcwMTBJV3JsbFY4amtOMndMLUhaN1ZGWDJQa0dhanhITE9tdXVWYlZvaFE5b2tBN1M4SzRvUDhKMDFOMXhEVFBNVlA0VXhaNzFKeXpoWEZZR2t6WW1XOHNHdlhrQVNyZHl6dnV3VW9TVENDVmNGQ2NxU1BQbWVvaTNDWXZ3S0RrbGlyVC1pSGo1MU1iQWZjc1lOSA?oc=5"
       }
      ]
     },
@@ -3711,6 +3617,12 @@
      "cansancio": "1 partidos, 2 sets y 18 juegos en 3 días; el último el 2026-10-28 contra Learner Tien, ganó 6-4 6-2",
      "noticias": [
       {
+       "titulo": "Matteo Berrettini - Alex de Minaur, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE1ZZnI4d2FUX3BoUFZPUEFWMWRMb2g3S0lJSHcxcXAycm1Md1ktTFFLQkw2Qm5vaVRqZkpUVWZod1U2Y3Z1THp3dXN4emZJY2lGUllQbnV1cDFhWHZWMTJEZGZtUm5QNVBqeDROcnF0V19YVnBhVUdNMlAtbDVxNktYeDhWcHNsODdrcGJ5X25uSWhuUnVXOFhuR012ZVo4cTZxSzFPSkhCOXpCVjVPOTNtbWJ4a2lIcmFPdE1aaXR2ZnlrQzIzSU1hSDZIcGpvRC1VNkpMdTFWR2QzT0wteDZMeWJRdHRlNG5F?oc=5"
+      },
+      {
        "titulo": "Marcadores en directo y resultados de los H2H Learner Tien Alex de Minaur - Sofascore",
        "fuente": "Sofascore",
        "fecha": "2026-10-30",
@@ -3721,12 +3633,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUU1lNlhXNDRONEVUV1BwV3Fjd0JTVlVjWkt6ODhtVEJBRkxyVWpzbjZzZmY1Z19XbVV6ZVJTcUdlaHZzQXVUUGlIcXpSVzZzNFZHdDBFVG1DVXRaN1dLVVFQaC1fOXBjOW9KZVIwTzlVWjh1UTh3VHVLWjkyYnpDWnhkdENzVjJ6YTBHS0FCcEJxMS1YLVV4Z2k5VHVTR3FvdlpQMlpkeVk0Zw?oc=5"
-      },
-      {
-       "titulo": "Matteo Berrettini vs Alex de Minaur · Quarterfinal · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTVlMFBKb3NpRE5sTkhfT3U5cGItNzhxcTVSVkVFQmdxbGZlVm5wcnhzbmNnWUdZWDJFSlU0MmxWX0VISWFaeVRaYk5mdTZkelp1Um9lWE5nOVZzLUhCRlVLMmlGWDN5eEVUSDAzS0VOZEJKeVlZVzhNak9iTW41ZUtFQnBMM1VabTVPd3lncmZIczlFM0ctRVBDR0J5UQ?oc=5"
       }
      ]
     }
@@ -3741,7 +3647,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T16:10+00:00",
+   "actualizado": "2026-10-30T18:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3777,10 +3683,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWhERi1nQ0VXWlJsenFkdE4xcTkzdWhKclRjYlNOeE41OGhTcV9DTGxuRzB6Z0ZITUtxbmhqZkVBZ3hxUjE3RVg2akxZNVJrU2JVaWdSMlc3Q3hqZENQSlBHWFJMOHJEcC1DVjhPbWpNNWItY2kxUVNHNWZLVmtWeldkLW5vZ0xhWGNhbG81NkwwdEIzMGJhX21n0gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
       },
       {
-       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número 1 - HolaNews",
-       "fuente": "HolaNews",
+       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno - El Periódico",
+       "fuente": "El Periódico",
        "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0NKMzZhalliT1Y2cVU2N3JXLVhWcjlnUEI1cHVYdkdad2w4c3lieFFoY2FHczVubUtqaDJSVmV1aVYyczhPYkswczRVU2tOd0htbkRVMXdlZWNMemQ4X0JoWFZVUXFQVHlTeXZ6Q1o4ZkctR3k2LTh5ZnpUZGJzSmhsVVMzVmJ2SFN2LWtKb0Q5ZDMxUE00MU82Y0NISk4wYXNkeg?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW43THdORDA3ZlhsOGtqSXRxRE9aci1GSnNHVy1iS0RKLVo0RGZnSzUxWkRjdGdienYzbzNOSXhyTE83TDltc0xER2lRTWtUV2FZVHBJSVhsNUI2RGdzRFVkWjNnQkdBQjhfT1QxTUQzSDdHTjBUcDJkVVl0RkpjTmlwR1dtYWVNeDJiUlVpeHdCRnRlUzZEX0t30gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
       }
      ]
     },
@@ -3823,8 +3729,8 @@
  },
  "sala_aciertos": {
   "favorito": [
-   4,
-   6
+   5,
+   7
   ],
   "sorpresa": [
    0,
