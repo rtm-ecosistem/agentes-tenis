@@ -25,11 +25,12 @@
   "confianza": 2,
   "stake": 20.0,
   "motivo": "Ben Shelton posee un Elo en dura del 90% y general de 1902 frente a los 1582 de Jerome Kym, con una probabilidad calculada del 88% que supera claramente la cuota de 1.30.",
-  "estado": "pendiente",
-  "ganancia": null,
-  "resultado": null,
+  "estado": "perdida",
+  "ganancia": -20.0,
+  "resultado": "Ganó Jerome Kym (6-3 6-7 7-6)",
   "temporada": "prueba",
-  "hora_cierre": "2026-10-29T17:10+00:00"
+  "hora_cierre": "2026-10-29T17:10+00:00",
+  "liquidada": "2026-10-30T00:10+00:00"
  },
  {
   "id": "2026-10-29-estadistico-1-1-2-3b65bc65",

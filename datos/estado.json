@@ -127,14 +127,16 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.35
+     "envidia": 0.35,
+     "sorpresa": 0.4
     },
     "motivos": {
-     "tension": "Va un poco por debajo de lo que empezó (+0,0 %).",
-     "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
+     "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
+     "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
+     "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-29T23:19+00:00",
-    "rent": 0.0
+    "hora": "2026-10-30T00:10+00:00",
+    "rent": -0.02
    }
   },
   {
@@ -250,7 +252,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T23:19+00:00",
+    "hora": "2026-10-30T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -361,7 +363,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T23:19+00:00",
+    "hora": "2026-10-30T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -485,7 +487,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-29T23:19+00:00",
+    "hora": "2026-10-30T00:10+00:00",
     "rent": 0.0
    }
   }
@@ -935,6 +937,11 @@
    "hora": "2026-10-29T23:10+00:00",
    "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T00:10+00:00",
+   "texto": "🏁 1 apuestas liquidadas.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -960,6 +967,7 @@
  "ultima_decision": "2026-10-29",
  "ultima_sala": "2026-10-29-20",
  "noticias_vistas": [
+  "a180d4eb49a1",
   "4c6f31cabc35",
   "70fcf910e099",
   "327eebdc2cf0",
@@ -991,10 +999,12 @@
   "1f1e93ff91a4",
   "edc1804aaf1e",
   "3bb97fd9e11a",
+  "1c4a924b8ec3",
   "921cfe5270ab",
   "ef58b1039bfc",
   "78b3467d6442",
   "1b20f3d8d9bd",
+  "ebcbad1a9f97",
   "2c932d082a77",
   "e7a192ee8007",
   "b9b5caf7f8d4",
@@ -1058,6 +1068,7 @@
   "24232611d516",
   "b481d95627c6",
   "8917ffbcccbb",
+  "b9e21d200e22",
   "567993df2d17",
   "c8932395a46b",
   "10a7b42664ef",
@@ -1066,7 +1077,6 @@
   "ca80fd76676c",
   "93ec09c9ff42",
   "8730bad1fc3c",
-  "dca43dc22deb",
   "d4562a88a764",
   "edcf9479103b",
   "9954a1f0b245",
@@ -1076,11 +1086,12 @@
   "37eb15fa99bf",
   "a386025daa28",
   "876533ce79cb",
-  "92ee25f2ac65",
   "373119df1b19",
   "83e89e171303",
   "e15b72e5379d",
   "e1abf5e12fa6",
+  "92ee25f2ac65",
+  "0d7c9bde073f",
   "b51d162d54a7",
   "67d31b5b9b63",
   "00236eca5e96",
@@ -1112,7 +1123,6 @@
   "34c948943f3f",
   "87d1fe5ac919",
   "511277ef6d60",
-  "b9e21d200e22",
   "a29ea2ddc5f3",
   "222540179098",
   "bbdb6b2dbf4d",
@@ -1139,13 +1149,13 @@
   "de9f52f160ac",
   "bfbadc025ba6",
   "0abe000e69b8",
+  "dca43dc22deb",
   "fff41fe8aed4",
   "0ac5aad9277d",
   "57791d23d2d6",
   "12f495b4da74",
   "7fd7b430d715",
   "ff07e29ce04f",
-  "0d7c9bde073f",
   "2a89b2c4e3e8",
   "245a0a37f7bc",
   "6759ff925889",
@@ -1247,6 +1257,7 @@
   "9f3ab90c1b51",
   "84ef7ac408ee",
   "e50f1e509698",
+  "dda83b2d5838",
   "9e3414ca42ed",
   "45a28d276fd9",
   "b114c79fa62d",
@@ -1457,7 +1468,6 @@
   "3771e02a39e2",
   "a279e1123871",
   "c4f2f082d3b1",
-  "dda83b2d5838",
   "165bd18514df",
   "7faa78b0c688",
   "66a20253df5d",
@@ -1471,6 +1481,7 @@
   "0b45e674c900",
   "cb4a712a6c24",
   "d03ccaab4b7b",
+  "9bca66896583",
   "786cc982155a",
   "58787d460ecf",
   "74b8e8158cb9",
@@ -1716,6 +1727,7 @@
   "41bb3b81e977",
   "7340aa8b4d19",
   "07f803a6b4bd",
+  "b847f47801b1",
   "1b8eef13a3de",
   "c1185981f437",
   "d8a5593035e8",
@@ -1741,6 +1753,7 @@
   "8caf197422b4",
   "1505a73c7aad",
   "e00c90fa2c35",
+  "3e6d275654ae",
   "ecba3e6a5b2e",
   "2f6a19112fb5",
   "54a5277f4291",
@@ -1752,14 +1765,8 @@
   "adae3aa9e363",
   "fc59e04a9fff",
   "931f1195488b",
-  "3e6d275654ae",
   "f796bb9bb7f3",
-  "7d10944f15ba",
-  "ab5fa12cf44e",
-  "286e484de06c",
-  "b847f47801b1",
-  "5ee29a477915",
-  "a919d69a9034"
+  "7d10944f15ba"
  ],
  "sala_aciertos": {
   "favorito": [

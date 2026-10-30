@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T23:19+00:00",
+ "actualizado": "2026-10-30T00:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -100,28 +100,28 @@
     "revancha": 0.5
    },
    "total": {
-    "apuestas": 1,
-    "pendientes": 1,
-    "apostado": 0,
-    "ganancia": 0,
-    "yield": 0.0,
+    "apuestas": 2,
+    "pendientes": 0,
+    "apostado": 20.0,
+    "ganancia": -20.0,
+    "yield": -1.0,
     "aciertos": 0.0,
-    "con_cierre": 1,
+    "con_cierre": 2,
     "baten_cierre": 0,
     "pct_cierre": 0.0
    },
    "botes": {
     "1": {
-     "apuestas": 1,
-     "pendientes": 1,
-     "apostado": 0,
-     "ganancia": 0,
-     "yield": 0.0,
+     "apuestas": 2,
+     "pendientes": 0,
+     "apostado": 20.0,
+     "ganancia": -20.0,
+     "yield": -1.0,
      "aciertos": 0.0,
-     "con_cierre": 1,
+     "con_cierre": 2,
      "baten_cierre": 0,
      "pct_cierre": 0.0,
-     "valor": 1000.0,
+     "valor": 980.0,
      "saldo": 980.0,
      "inicial": 1000.0
     }
@@ -130,25 +130,29 @@
     [
      "2026-10-29",
      1000.0
+    ],
+    [
+     "2026-10-30",
+     980.0
     ]
    ],
    "situacion": {
-    "liquidadas": 1,
-    "faltan": 99,
-    "valor": 1000.0,
+    "liquidadas": 2,
+    "faltan": 98,
+    "valor": 980.0,
     "valor_inicio": 1000.0,
-    "rentabilidad": 0.0,
+    "rentabilidad": -0.020000000000000018,
     "pct_cierre": 0.0,
-    "con_cierre": 1
+    "con_cierre": 2
    },
    "real": {
-    "apuestas": 1,
-    "pendientes": 1,
-    "apostado": 0,
-    "ganancia": 0,
-    "yield": 0.0,
+    "apuestas": 2,
+    "pendientes": 0,
+    "apostado": 20.0,
+    "ganancia": -20.0,
+    "yield": -1.0,
     "aciertos": 0.0,
-    "con_cierre": 1,
+    "con_cierre": 2,
     "baten_cierre": 0,
     "pct_cierre": 0.0,
     "objetivo": 500,
@@ -240,31 +244,42 @@
    "desglose": {
     "mercado": {
      "ganador": {
-      "apuestas": 1,
+      "apuestas": 2,
       "pendientes": 0,
-      "apostado": 0,
-      "ganancia": 0,
-      "yield": 0.0,
+      "apostado": 20.0,
+      "ganancia": -20.0,
+      "yield": -1.0,
       "aciertos": 0.0,
-      "con_cierre": 1,
+      "con_cierre": 2,
       "baten_cierre": 0,
       "pct_cierre": 0.0
      }
     },
     "superficie": {
      "pista dura": {
-      "apuestas": 1,
+      "apuestas": 2,
       "pendientes": 0,
-      "apostado": 0,
-      "ganancia": 0,
-      "yield": 0.0,
+      "apostado": 20.0,
+      "ganancia": -20.0,
+      "yield": -1.0,
       "aciertos": 0.0,
-      "con_cierre": 1,
+      "con_cierre": 2,
       "baten_cierre": 0,
       "pct_cierre": 0.0
      }
     },
     "cuota": {
+     "cuotas bajas (< 1.60)": {
+      "apuestas": 1,
+      "pendientes": 0,
+      "apostado": 20.0,
+      "ganancia": -20.0,
+      "yield": -1.0,
+      "aciertos": 0.0,
+      "con_cierre": 1,
+      "baten_cierre": 0,
+      "pct_cierre": 0.0
+     },
      "cuotas medias (1.60-2.19)": {
       "apuestas": 1,
       "pendientes": 0,
@@ -282,18 +297,25 @@
    "animo": {
     "mezcla": [
      {
+      "emocion": "sorpresa",
+      "cara": "😲",
+      "nombre": "Sorpresa",
+      "pct": 0.381,
+      "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
+     },
+     {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.538,
+      "pct": 0.333,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.462,
-      "motivo": "Va un poco por debajo de lo que empezó (+0,0 %)."
+      "pct": 0.286,
+      "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
     "por_emocion": {}
@@ -926,11 +948,12 @@
    "confianza": 2,
    "stake": 20.0,
    "motivo": "Ben Shelton posee un Elo en dura del 90% y general de 1902 frente a los 1582 de Jerome Kym, con una probabilidad calculada del 88% que supera claramente la cuota de 1.30.",
-   "estado": "pendiente",
-   "ganancia": null,
-   "resultado": null,
+   "estado": "perdida",
+   "ganancia": -20.0,
+   "resultado": "Ganó Jerome Kym (6-3 6-7 7-6)",
    "temporada": "prueba",
-   "hora_cierre": "2026-10-29T17:10+00:00"
+   "hora_cierre": "2026-10-29T17:10+00:00",
+   "liquidada": "2026-10-30T00:10+00:00"
   },
   {
    "id": "2026-10-29-estadistico-1-1-2-3b65bc65",
@@ -1313,6 +1336,11 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-30T00:10+00:00",
+   "texto": "🏁 1 apuestas liquidadas.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-29T23:10+00:00",
    "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
    "tipo": "info"
@@ -1416,44 +1444,55 @@
  "ultima_decision": "2026-10-29",
  "oficina": {
   "total": {
-   "apuestas": 1,
-   "pendientes": 1,
-   "apostado": 0,
-   "ganancia": 0,
-   "yield": 0.0,
+   "apuestas": 2,
+   "pendientes": 0,
+   "apostado": 20.0,
+   "ganancia": -20.0,
+   "yield": -1.0,
    "aciertos": 0.0,
-   "con_cierre": 1,
+   "con_cierre": 2,
    "baten_cierre": 0,
    "pct_cierre": 0.0
   },
   "desglose": {
    "mercado": {
     "ganador": {
-     "apuestas": 1,
+     "apuestas": 2,
      "pendientes": 0,
-     "apostado": 0,
-     "ganancia": 0,
-     "yield": 0.0,
+     "apostado": 20.0,
+     "ganancia": -20.0,
+     "yield": -1.0,
      "aciertos": 0.0,
-     "con_cierre": 1,
+     "con_cierre": 2,
      "baten_cierre": 0,
      "pct_cierre": 0.0
     }
    },
    "superficie": {
     "pista dura": {
-     "apuestas": 1,
+     "apuestas": 2,
      "pendientes": 0,
-     "apostado": 0,
-     "ganancia": 0,
-     "yield": 0.0,
+     "apostado": 20.0,
+     "ganancia": -20.0,
+     "yield": -1.0,
      "aciertos": 0.0,
-     "con_cierre": 1,
+     "con_cierre": 2,
      "baten_cierre": 0,
      "pct_cierre": 0.0
     }
    },
    "cuota": {
+    "cuotas bajas (< 1.60)": {
+     "apuestas": 1,
+     "pendientes": 0,
+     "apostado": 20.0,
+     "ganancia": -20.0,
+     "yield": -1.0,
+     "aciertos": 0.0,
+     "con_cierre": 1,
+     "baten_cierre": 0,
+     "pct_cierre": 0.0
+    },
     "cuotas medias (1.60-2.19)": {
      "apuestas": 1,
      "pendientes": 0,
@@ -2201,13 +2240,13 @@
    "pct_cierre": null
   },
   "manana": {
-   "apuestas": 1,
-   "pendientes": 1,
-   "apostado": 0,
-   "ganancia": 0,
-   "yield": 0.0,
+   "apuestas": 2,
+   "pendientes": 0,
+   "apostado": 20.0,
+   "ganancia": -20.0,
+   "yield": -1.0,
    "aciertos": 0.0,
-   "con_cierre": 1,
+   "con_cierre": 2,
    "baten_cierre": 0,
    "pct_cierre": 0.0
   }
