@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T05:10+00:00",
+ "actualizado": "2026-10-30T06:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -18032,19 +18032,18 @@
    "nombre": "Mia Pohankova",
    "circuito": "WTA",
    "elo": {
-    "all": 1796.1,
-    "hard": 1796.3,
+    "all": 1809.9,
+    "hard": 1811.5,
     "clay": 1500.0,
     "grass": 1468.2
    },
    "n": {
-    "all": 25,
-    "hard": 22,
+    "all": 26,
+    "hard": 23,
     "clay": 0,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-19 P hard vs Gabriela Knutson",
     "2026-09-22 G hard vs Francisca Jorge",
     "2026-09-24 G hard vs Veronika Podrez",
     "2026-09-25 G hard vs Katie Swan",
@@ -18053,7 +18052,8 @@
     "2026-10-13 G hard vs Wang Xiyu",
     "2026-10-15 P hard vs Maria Sakkari",
     "2026-10-27 G hard vs Tereza Valentova",
-    "2026-10-29 G hard vs Naomi Osaka"
+    "2026-10-29 G hard vs Naomi Osaka",
+    "2026-10-30 G hard vs Alycia Parks"
    ]
   },
   "hibino|n": {
@@ -18172,19 +18172,18 @@
    "nombre": "Alycia Parks",
    "circuito": "WTA",
    "elo": {
-    "all": 1571.5,
-    "hard": 1583.4,
+    "all": 1562.0,
+    "hard": 1572.5,
     "clay": 1536.3,
     "grass": 1416.5
    },
    "n": {
-    "all": 73,
-    "hard": 58,
+    "all": 74,
+    "hard": 59,
     "clay": 11,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-22 G hard vs Mei Yamaguchi",
     "2026-09-23 P hard vs Leylah Fernandez",
     "2026-10-01 P hard vs Zhu Lin",
     "2026-10-10 P hard vs Aoi Ito",
@@ -18193,7 +18192,8 @@
     "2026-10-24 G hard vs Ena Shibahara",
     "2026-10-25 G hard vs Heather Watson",
     "2026-10-26 G hard vs Wang Xinyu",
-    "2026-10-29 G hard vs Kimberly Birrell"
+    "2026-10-29 G hard vs Kimberly Birrell",
+    "2026-10-30 P hard vs Mia Pohankova"
    ]
   },
   "iatcenko|p": {
@@ -90951,7 +90951,11 @@
   "herrero linana|a~zidansek|t": [
    1,
    0
+  ],
+  "parks|a~pohankova|m": [
+   0,
+   1
   ]
  },
- "propios": 10418
+ "propios": 10419
 }
