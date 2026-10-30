@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T01:42+00:00",
+ "actualizado": "2026-10-30T04:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -15739,19 +15739,18 @@
    "nombre": "Maya Joint",
    "circuito": "WTA",
    "elo": {
-    "all": 1740.1,
-    "hard": 1738.5,
+    "all": 1711.1,
+    "hard": 1707.0,
     "clay": 1438.3,
     "grass": 1450.3
    },
    "n": {
-    "all": 48,
-    "hard": 40,
+    "all": 49,
+    "hard": 41,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-27 P hard vs Kimberly Birrell",
     "2026-09-30 P hard vs Sinja Kraus",
     "2026-10-10 P hard vs Mananchaya Sawangkaew",
     "2026-10-17 G hard vs Kyoka Okamura",
@@ -15760,7 +15759,8 @@
     "2026-10-24 G hard vs Viktorija Golubic",
     "2026-10-25 G hard vs Mai Hontama",
     "2026-10-27 G hard vs Sorana Cirstea",
-    "2026-10-28 G hard vs Cristina Bucsa"
+    "2026-10-28 G hard vs Cristina Bucsa",
+    "2026-10-30 P hard vs Kamilla Rakhimova"
    ]
   },
   "sevastova|a": {
@@ -16702,19 +16702,18 @@
    "nombre": "Kamilla Rakhimova",
    "circuito": "WTA",
    "elo": {
-    "all": 1692.5,
-    "hard": 1683.9,
+    "all": 1718.7,
+    "hard": 1712.0,
     "clay": 1504.2,
     "grass": 1444.6
    },
    "n": {
-    "all": 63,
-    "hard": 55,
+    "all": 64,
+    "hard": 56,
     "clay": 5,
     "grass": 3
    },
    "ultimos": [
-    "2026-10-03 G hard vs Leylah Fernandez",
     "2026-10-05 P hard vs Iva Jovic",
     "2026-10-10 G hard vs Sofia Kenin",
     "2026-10-11 P hard vs Shi Han",
@@ -16723,7 +16722,8 @@
     "2026-10-19 P hard vs Marie Bouzkova",
     "2026-10-24 G hard vs Shiho Tsujioka",
     "2026-10-25 P hard vs Aliaksandra Sasnovich",
-    "2026-10-28 G hard vs Ekaterina Alexandrova"
+    "2026-10-28 G hard vs Ekaterina Alexandrova",
+    "2026-10-30 G hard vs Maya Joint"
    ]
   },
   "bencic|b": {
@@ -90943,7 +90943,11 @@
   "andreescu|b~cherubini|d": [
    1,
    0
+  ],
+  "joint|m~rakhimova|k": [
+   0,
+   1
   ]
  },
- "propios": 10416
+ "propios": 10417
 }

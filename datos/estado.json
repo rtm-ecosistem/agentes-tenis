@@ -135,7 +135,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T03:25+00:00",
+    "hora": "2026-10-30T04:10+00:00",
     "rent": -0.02
    }
   },
@@ -252,7 +252,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T03:25+00:00",
+    "hora": "2026-10-30T04:10+00:00",
     "rent": 0.0
    }
   },
@@ -363,7 +363,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T03:25+00:00",
+    "hora": "2026-10-30T04:10+00:00",
     "rent": 0.0
    }
   },
@@ -487,7 +487,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T03:25+00:00",
+    "hora": "2026-10-30T04:10+00:00",
     "rent": 0.0
    }
   }
@@ -699,7 +699,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ]
   },
@@ -793,7 +794,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -830,7 +832,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": false
     }
    ],
    "importantes": [],
@@ -1771,7 +1774,7 @@
  "sala_aciertos": {
   "favorito": [
    1,
-   2
+   3
   ],
   "sorpresa": [
    0,
@@ -1779,6 +1782,7 @@
   ],
   "vistos": [
    "6822571863f93fa4654e76e114874060",
+   "cc0834cac355e3a96bf64a85ce003e51",
    "e17ec974bac4e8094cbe45dfeb471b1e"
   ]
  },

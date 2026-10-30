@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T03:25+00:00",
+ "actualizado": "2026-10-30T04:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -850,76 +850,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-10-29T08:16+00:00",
-  "partidos": [
-   {
-    "id": "d52af5cb645ef831c4dbab0bbaf48dac",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-30T04:00+00:00",
-    "jugadores": [
-     "Alexandra Eala",
-     "Diana Shnaider"
-    ],
-    "opciones": [
-     {
-      "id": "d52af5cb645ef831c4dbab0bbaf48dac|h2h|Alexandra Eala|",
-      "mercado": "h2h",
-      "nombre": "Alexandra Eala",
-      "punto": null,
-      "cuota": 2.2,
-      "pinnacle": 2.3
-     },
-     {
-      "id": "d52af5cb645ef831c4dbab0bbaf48dac|h2h|Diana Shnaider|",
-      "mercado": "h2h",
-      "nombre": "Diana Shnaider",
-      "punto": null,
-      "cuota": 1.67,
-      "pinnacle": 1.69
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexandra Eala": 2.3,
-     "Diana Shnaider": 1.69
-    }
-   },
-   {
-    "id": "cc0834cac355e3a96bf64a85ce003e51",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-30T04:00+00:00",
-    "jugadores": [
-     "Kamilla Rakhimova",
-     "Maya Joint"
-    ],
-    "opciones": [
-     {
-      "id": "cc0834cac355e3a96bf64a85ce003e51|h2h|Kamilla Rakhimova|",
-      "mercado": "h2h",
-      "nombre": "Kamilla Rakhimova",
-      "punto": null,
-      "cuota": 2.1,
-      "pinnacle": 2.15
-     },
-     {
-      "id": "cc0834cac355e3a96bf64a85ce003e51|h2h|Maya Joint|",
-      "mercado": "h2h",
-      "nombre": "Maya Joint",
-      "punto": null,
-      "cuota": 1.73,
-      "pinnacle": 1.79
-     }
-    ],
-    "pinnacle_h2h": {
-     "Kamilla Rakhimova": 2.15,
-     "Maya Joint": 1.79
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
@@ -1021,7 +952,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": false
     }
    ],
    "importantes": [],
@@ -1058,7 +990,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "dudoso",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1180,7 +1113,8 @@
      "inicio": "2026-10-30T04:00+00:00",
      "favorito": "Maya Joint",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ]
   },
@@ -2218,7 +2152,7 @@
  "sala_aciertos": {
   "favorito": [
    1,
-   2
+   3
   ],
   "sorpresa": [
    0,
