@@ -17,6 +17,12 @@ Antes de empezar en serio, los analistas repasan día a día los partidos ya jug
   `MODELO_GEMINI_LIGERO`), unas 10 llamadas por día simulado. Si la IA se queda sin cuota, ese día se repite
   en la siguiente ejecución.
 
+## Los ficheros de tennis-data
+
+tennis-data.co.uk no deja descargar desde los servidores de GitHub (responde 403). Por eso los ficheros del año
+se suben a mano a `datos/tennis-data/`: `2026.xlsx` (ATP) y `2026w.xlsx` (WTA). El Elo de años anteriores sale
+de las otras fuentes públicas.
+
 ## Cómo se lanza
 
 En GitHub, Actions → «Pretemporada simulada» → Run workflow:

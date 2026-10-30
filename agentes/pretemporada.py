@@ -98,21 +98,33 @@ def _num_juegos(valor) -> int | None:
         return None
 
 
+def fichero_local(anio: int, w: str):
+    """tennis-data no deja descargar desde GitHub: sus ficheros se pueden subir a datos/tennis-data
+    (2026.xlsx para la ATP y 2026w.xlsx para la WTA)."""
+    f = config.DATOS / "tennis-data" / f"{anio}{w}.xlsx"
+    return f.read_bytes() if f.exists() else None
+
+
 def descargar(anios: tuple[int, ...], sesion=None) -> tuple[list[dict], list[dict]]:
     """(partidos para el Elo de los tres últimos años, partidos con cuotas y resultado de `anios`)."""
     sesion = sesion or requests
     base, dias = [], []
     for circuito, w in (("ATP", ""), ("WTA", "w")):
         for a in range(min(anios) - 2, max(anios) + 1):
-            try:
-                r = sesion.get(elo_mod.TENNIS_DATA.format(anio=a, w=w), headers=elo_mod.CABECERAS, timeout=60)
-                r.raise_for_status()
-            except Exception as e:  # noqa: BLE001
-                print(f"tennis-data {circuito} {a}: {e}")
-                continue
-            base += elo_mod.leer_tennis_data(r.content, circuito)
+            contenido = fichero_local(a, w)
+            if contenido is None:
+                try:
+                    r = sesion.get(elo_mod.TENNIS_DATA.format(anio=a, w=w), headers=elo_mod.CABECERAS, timeout=60)
+                    r.raise_for_status()
+                    contenido = r.content
+                except Exception as e:  # noqa: BLE001
+                    print(f"tennis-data {circuito} {a}: {e}")
+                    continue
+            base += elo_mod.leer_tennis_data(contenido, circuito)
             if a in anios:
-                dias += leer_dias(r.content, circuito)
+                dias += leer_dias(contenido, circuito)
+    if len({p["fecha"][:4] for p in base}) < 3:  # faltan años para el Elo: se completan con las otras fuentes
+        base += elo_mod.descargar_base(max(anios), sesion)
     print(f"Pretemporada: {len(base)} partidos para el Elo y {len(dias)} con resultado")
     return base, dias
 
