@@ -112,3 +112,15 @@ def test_tope_diario_de_llamadas(monkeypatch):
     monkeypatch.setattr(config, "LLAMADAS_PRETEMPORADA_DIA", 15)
     p = pretemporada.avanzar(5, "2026-07-01", "2026-07-06", ia=FakeIA(), sesion=Sesion())
     assert p["dias"] == 1 and p["hoy"]["llamadas"] > 0   # un día (unas 9 llamadas) y para antes de pasarse
+
+
+def test_funcionamiento_y_leccion_de_practica():
+    ap = [{"fecha": "2026-01-04", "agente": f"a{i}", "seleccion": "X", "cuota": 1.5, "pinnacle_apuesta": 1.6,
+           "practica": i > 0} for i in range(4)]
+    f = pretemporada.funcionamiento(ap, {"fallos_ia": 2})
+    assert f == {"apuestas": 4, "practica": 3, "dias": 1, "dias_sin_reales": 0, "con_valor": 0, "con_referencia": 4,
+                 "dias_copiados": 1, "fallos_ia": 2}
+    from agentes import prompts
+    b = {"descripcion": "X gana", "cuota": 1.5, "estado": "perdida", "ganancia": -1.0, "practica": True, "emocion": "revancha"}
+    m = prompts.mensaje_leccion({"como_decide": "", "reglas": [], "lecciones": []}, [b])
+    assert "DE PRÁCTICA" in m and "revancha" not in m
