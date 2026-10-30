@@ -6,7 +6,8 @@ Antes de empezar en serio, los analistas repasan día a día los partidos ya jug
 ## Qué se simula
 
 - **Cartelera:** los partidos reales de cada día (como mucho 16, los de mejor ranking), sacados de
-  tennis-data.co.uk. Llevan la cuota de Bet365 (o la media del mercado, si falta) y la de Pinnacle. Solo hay
+  tennis-data.co.uk. Llevan la cuota de Bet365 (o la media del mercado, si falta) y, como referencia, la de cierre de
+  Pinnacle o, si falta (tennis-data no la da desde febrero de 2026), la de Betfair Exchange. Solo hay
   ganador del partido: ni hándicap ni totales.
 - **El día:** la sala escribe su informe, los analistas deciden (con la apuesta de práctica) y por la noche se
   liquida con el resultado real. Después cada uno escribe su lección, y los domingos llegan la reflexión con
