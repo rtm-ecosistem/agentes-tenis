@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T11:10+00:00",
+ "actualizado": "2026-10-30T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17005,19 +17005,18 @@
    "nombre": "Claire Liu",
    "circuito": "WTA",
    "elo": {
-    "all": 1654.9,
-    "hard": 1605.4,
+    "all": 1633.2,
+    "hard": 1584.8,
     "clay": 1593.1,
     "grass": 1673.1
    },
    "n": {
-    "all": 44,
-    "hard": 31,
+    "all": 45,
+    "hard": 32,
     "clay": 7,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-11 G hard vs Leolia Jeanjean",
     "2026-09-12 G hard vs Anna Blinkova",
     "2026-09-16 P hard vs Mary Stoiana",
     "2026-10-05 G hard vs Elsa Jacquemot",
@@ -17026,7 +17025,8 @@
     "2026-10-17 G hard vs Kanon Sawashiro",
     "2026-10-18 G hard vs Maddison Inglis",
     "2026-10-20 P hard vs Magda Linette",
-    "2026-10-27 G hard vs Antonia Ruzic"
+    "2026-10-27 G hard vs Antonia Ruzic",
+    "2026-10-30 P hard vs Xinran Sun"
    ]
   },
   "zhuoxuan|b": {
@@ -30685,14 +30685,14 @@
    "nombre": "Xinran Sun",
    "circuito": "WTA",
    "elo": {
-    "all": 1716.9,
-    "hard": 1716.3,
+    "all": 1756.3,
+    "hard": 1749.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 6,
-    "hard": 6,
+    "all": 7,
+    "hard": 7,
     "clay": 0,
     "grass": 0
    },
@@ -30702,7 +30702,8 @@
     "2026-10-03 G hard vs Cristina Bucsa",
     "2026-10-05 P hard vs Coco Gauff",
     "2026-10-27 G hard vs Mananchaya Sawangkaew",
-    "2026-10-29 G hard vs Maria Timofeeva"
+    "2026-10-29 G hard vs Maria Timofeeva",
+    "2026-10-30 G hard vs Claire Liu"
    ]
   },
   "cadenasso|g": {
@@ -90963,7 +90964,11 @@
   "quevedo|k~teichmann|j": [
    1,
    0
+  ],
+  "liu|c~sun|x": [
+   0,
+   1
   ]
  },
- "propios": 10422
+ "propios": 10423
 }

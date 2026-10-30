@@ -236159,6 +236159,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Claire Liu",
+    "Xinran Sun"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }
