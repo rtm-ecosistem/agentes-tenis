@@ -75,7 +75,7 @@ PROVEEDOR_IA = os.environ.get("PROVEEDOR_IA", "gemini").strip() or "gemini"
 MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-3.8-flash").strip() or "gemini-3.8-flash"
 MODELO_GEMINI_LIGERO = os.environ.get("MODELO_GEMINI_LIGERO", "gemini-3.5-flash-lite").strip() or "gemini-3.5-flash-lite"
 MODELO_PRETEMPORADA = os.environ.get("MODELO_PRETEMPORADA", "").strip() or MODELO_GEMINI_LIGERO  # la ligera tiene más cuota
-LLAMADAS_PRETEMPORADA_DIA = int(os.environ.get("LLAMADAS_PRETEMPORADA_DIA", "300"))  # tope diario: la ligera da 500 al día y la oficina va primero
+LLAMADAS_PRETEMPORADA_DIA = int(os.environ.get("LLAMADAS_PRETEMPORADA_DIA", "380"))  # tope diario: la ligera da 500 al día y la oficina va primero
 MODELO_CLAUDE = os.environ.get("MODELO_CLAUDE", "claude-haiku-5-5").strip() or "claude-haiku-5-5"
 
 # --- Noticias -------------------------------------------------------------------------------------------
