@@ -168,7 +168,14 @@
     },
     "hora": "2026-10-30T18:10+00:00",
     "rent": -0.02
-   }
+   },
+   "lecciones": [
+    {
+     "fecha": "2026-10-30",
+     "texto": "Mañana debo desconfiar de las cuotas tan bajas como el 1.30 de Shelton en partidos apretados, ya que perder 20.00 € por un desajuste del Elo en superficies rápidas demuestra que el margen no compensa el riesgo.",
+     "apuestas": 2
+    }
+   ]
   },
   {
    "id": "reportero-1",
@@ -2083,6 +2090,29 @@
    ],
    "importantes": [],
    "graves": []
+  },
+  {
+   "hora": "2026-10-30T19:00+00:00",
+   "datos": "Los números muestran un claro favoritismo para Leylah Fernandez con un Elo en pista dura del 71% frente al 1719 de Rakhimova y un Elo general superior de 1878. A pesar de que Rakhimova lidera el cara a cara previo por 1-0, su dinámica reciente en pista dura muestra más irregularidad. El mercado respalda a Fernandez otorgándole un 72% de opciones de victoria.",
+   "noticias": "En el torneo de Tokio se destaca la retirada de Rybakina por molestias físicas, mientras que Kamilla Rakhimova llega con más desgaste físico tras disputar un partido largo de tres sets y 64 juegos en los últimos tres días. Por su parte, Leylah Fernandez ha gestionado mejor sus esfuerzos con solo 39 juegos en el mismo periodo.",
+   "ambiente": "En las redes y la prensa se habla mucho de las sorpresas en el torneo asiático y la presión sobre las jugadoras en estas rondas finales. La motivación es máxima para ambas al alcanzar las semifinales del WTA Pan Pacific Open.",
+   "favorito": "Leylah Fernandez es la clara candidata porque llega mucho más descansada, con menor desgaste físico y un nivel de Elo en pista dura muy sólido del 71%. Además, el historial de aciertos de nuestro equipo con los favoritos es del 71%, lo que avala confiar en su victoria a cuota 1.33. Rakhimova acumula demasiados minutos en pista y lo puede pagar en el tramo final del encuentro.",
+   "contra": "",
+   "conclusion": "Pesa mucho la diferencia de descanso físico acumulado y la superioridad en las cifras de Elo de Fernandez sobre pista dura. Hay que vigilar el desgaste que arrastra Rakhimova tras su partido de tres sets y si Fernandez logra imponer su ritmo desde el inicio.",
+   "partidos": [
+    {
+     "partido": "P01 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ]
   }
  ],
  "bitacora": [
@@ -2353,7 +2383,7 @@
   "betsson": 9017
  },
  "ultima_decision": "2026-10-30",
- "ultima_sala": "2026-10-30-14",
+ "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
   "5df54bac6e66",
   "a6a704e68806",
@@ -4594,7 +4624,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T18:10+00:00",
+   "actualizado": "2026-10-30T19:00+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -4618,6 +4648,12 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
+      },
+      {
        "titulo": "La tenista número 1 del mundo se retira de Tokio - CR Hoy",
        "fuente": "CR Hoy",
        "fecha": "2026-10-30",
@@ -4628,12 +4664,6 @@
        "fuente": "El Periódico",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWhERi1nQ0VXWlJsenFkdE4xcTkzdWhKclRjYlNOeE41OGhTcV9DTGxuRzB6Z0ZITUtxbmhqZkVBZ3hxUjE3RVg2akxZNVJrU2JVaWdSMlc3Q3hqZENQSlBHWFJMOHJEcC1DVjhPbWpNNWItY2kxUVNHNWZLVmtWeldkLW5vZ0xhWGNhbG81NkwwdEIzMGJhX21n0gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
-      },
-      {
-       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno - El Periódico",
-       "fuente": "El Periódico",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW43THdORDA3ZlhsOGtqSXRxRE9aci1GSnNHVy1iS0RKLVo0RGZnSzUxWkRjdGdienYzbzNOSXhyTE83TDltc0xER2lRTWtUV2FZVHBJSVhsNUI2RGdzRFVkWjNnQkdBQjhfT1QxTUQzSDdHTjBUcDJkVVl0RkpjTmlwR1dtYWVNeDJiUlVpeHdCRnRlUzZEX0t30gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
       }
      ]
     },

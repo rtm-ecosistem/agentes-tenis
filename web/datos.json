@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T18:10+00:00",
+ "actualizado": "2026-10-30T19:05+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -87,7 +87,13 @@
    "listo_real": null,
    "reglas": null,
    "reglas_retiradas": null,
-   "lecciones": null,
+   "lecciones": [
+    {
+     "fecha": "2026-10-30",
+     "texto": "Mañana debo desconfiar de las cuotas tan bajas como el 1.30 de Shelton en partidos apretados, ya que perder 20.00 € por un desajuste del Elo en superficies rápidas demuestra que el margen no compensa el riesgo.",
+     "apuestas": 2
+    }
+   ],
    "descartes": {
     "ganadas": 1,
     "perdidas": 0,
@@ -983,40 +989,6 @@
   "actualizado": "2026-10-30T08:00+00:00",
   "partidos": [
    {
-    "id": "94ca068a80e8dbb6686fd96d402bde0e",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T19:00+00:00",
-    "jugadores": [
-     "Matteo Berrettini",
-     "Alex de Minaur"
-    ],
-    "opciones": [
-     {
-      "id": "94ca068a80e8dbb6686fd96d402bde0e|h2h|Alex de Minaur|",
-      "mercado": "h2h",
-      "nombre": "Alex de Minaur",
-      "punto": null,
-      "cuota": 1.44,
-      "pinnacle": 1.45
-     },
-     {
-      "id": "94ca068a80e8dbb6686fd96d402bde0e|h2h|Matteo Berrettini|",
-      "mercado": "h2h",
-      "nombre": "Matteo Berrettini",
-      "punto": null,
-      "cuota": 2.75,
-      "pinnacle": 2.95
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex de Minaur": 1.45,
-     "Matteo Berrettini": 2.95
-    }
-   },
-   {
     "id": "c1a54362fbf98df45c2174b84374dd0c",
     "deporte": "tennis_wta_pan_pacific_open",
     "torneo": "WTA Pan Pacific Open",
@@ -1121,6 +1093,29 @@
   }
  ],
  "sala": [
+  {
+   "hora": "2026-10-30T19:00+00:00",
+   "datos": "Los números muestran un claro favoritismo para Leylah Fernandez con un Elo en pista dura del 71% frente al 1719 de Rakhimova y un Elo general superior de 1878. A pesar de que Rakhimova lidera el cara a cara previo por 1-0, su dinámica reciente en pista dura muestra más irregularidad. El mercado respalda a Fernandez otorgándole un 72% de opciones de victoria.",
+   "noticias": "En el torneo de Tokio se destaca la retirada de Rybakina por molestias físicas, mientras que Kamilla Rakhimova llega con más desgaste físico tras disputar un partido largo de tres sets y 64 juegos en los últimos tres días. Por su parte, Leylah Fernandez ha gestionado mejor sus esfuerzos con solo 39 juegos en el mismo periodo.",
+   "ambiente": "En las redes y la prensa se habla mucho de las sorpresas en el torneo asiático y la presión sobre las jugadoras en estas rondas finales. La motivación es máxima para ambas al alcanzar las semifinales del WTA Pan Pacific Open.",
+   "favorito": "Leylah Fernandez es la clara candidata porque llega mucho más descansada, con menor desgaste físico y un nivel de Elo en pista dura muy sólido del 71%. Además, el historial de aciertos de nuestro equipo con los favoritos es del 71%, lo que avala confiar en su victoria a cuota 1.33. Rakhimova acumula demasiados minutos en pista y lo puede pagar en el tramo final del encuentro.",
+   "contra": "",
+   "conclusion": "Pesa mucho la diferencia de descanso físico acumulado y la superioridad en las cifras de Elo de Fernandez sobre pista dura. Hay que vigilar el desgaste que arrastra Rakhimova tras su partido de tres sets y si Fernandez logra imponer su ritmo desde el inicio.",
+   "partidos": [
+    {
+     "partido": "P01 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ]
+  },
   {
    "hora": "2026-10-30T18:10+00:00",
    "datos": "Los números muestran un claro favoritismo para Alex de Minaur sobre Matteo Berrettini en Viena, con un 27 por ciento de Elo por superficie frente al 23 por ciento del italiano. En Tokio, Leylah Fernandez domina con un 71 por ciento de Elo general y de superficie ante Kamilla Rakhimova. El cara a cara está empatado entre Berrettini y De Minaur, mientras que Rakhimova lidera el histórico frente a Fernandez. Las cuotas de las casas de apuestas respaldan firmemente a los favoritos en ambos encuentros.",
@@ -1885,119 +1880,6 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
-    }
-   ],
-   "importantes": [],
-   "graves": []
-  },
-  {
-   "hora": "2026-10-30T09:10+00:00",
-   "datos": "Los números muestran una gran superioridad en el ranking Elo para jugadores como Alexander Zverev con 86 por ciento frente a Arthur Fery, y Daniil Medvedev con 1897 frente a los 1700 de Adrian Mannarino. En cuanto a enfrentamientos directos, Carlos Alcaraz domina por 5 a 0 a Tommy Paul, lo que refleja la tendencia histórica entre ambos. Las cuotas de mercado alinean bien con las probabilidades de superficie, destacando duelos muy parejos como el de Taylor Fritz frente a Arthur Fils.",
-   "noticias": "Alexander Zverev llega con la máxima motivación tras asegurarse el ascenso al número uno del mundo tras su reciente victoria en Viena. Por otro lado, Matteo Berrettini acapara titulares extradeportivos por rumores sobre su vida personal, mientras que Elena Rybakina se ha retirado de Tokio, permitiendo el avance de Leylah Fernandez. Varios tenistas acumulan partidos largos recientes, como los 57 juegos disputados por Jan-Lennard Struff.",
-   "ambiente": "Se respira tensión en los torneos con la lucha por plazas en las finales y el asalto al número uno mundial de Zverev. En redes sociales comentan el cansancio acumulado de los favoritos tras partidos durísimos a tres sets en las rondas previas.",
-   "favorito": "Los favoritos como Daniil Medvedev y Carlos Alcaraz cuentan con un Elo muy superior y un historial directo muy favorable que avalan su condición de claros candidatos a ganar. Su calidad técnica y experiencia en rondas finales les permite resolver partidos aun sin estar en su mejor versión física tras partidos largos recientes, como demostró Medvedev salvando bolas de partido ante Norrie o Alcaraz venciendo a Basilashvili con autoridad en los momentos clave de Viena y Basilea respectivamente, lo que justifica plenamente apostar por ellos en la cuota simple de las casas de apuestas analizadas en esta cartelera de cuartos de final de los torneos ATP de pista dura en curso. Además, jugadores como Zverev llegan con un plus anímico incalculable tras alcanzar el número uno del ranking mundial ATP este mismo jueves, lo que los hace prácticamente imbatibles sobre la pista rápida indoor actual. Por todo esto, confiar en la lógica de los números y en el dominio histórico sobre el cara a cara es siempre la opción más sólida para los apostadores que buscan rentabilidad a largo plazo sin asumir riesgos excesivos en sorpresas inesperadas que rara vez se materializan en instancias decisivas de torneos de categoría quinientos frente a rivales de menor jerarquía en el circuito profesional masculino de tenis actual en Europa y Asia durante esta intensa semana de competición tenística en superficies duras cubiertas de otoño europeo en 2026 antes de las codiciadas finales de temporada en Turín, donde cada punto cuenta para el ranking mundial ATP oficial de la temporada en curso actual hoy viernes treinta de octubre de dos mil veintiséis en las pistas de Viena y Basilea bajo techo con gran afluencia de público entusiasta en las gradas principales de ambos estadios europeos principales del circuito profesional internacional masculino de tenis en este tramo final del año tenístico profesional de élite mundial absoluta actual en esta jornada decisiva de cuartos de final programada para hoy mismo en horario peninsular español vigente en este momento analítico previo al inicio de los primeros encuentros oficiales de la jornada programados a partir de las trece horas y treinta minutos en la capital austriaca y las instalaciones suizas de Basilea bajo techo con condiciones ideales para el juego plano y potente de los grandes favoritos del torneo analizado detalladamente por todo el equipo multidisciplinar de analistas expertos en cuotas y estadísticas del deporte blanco en pista dura cubriendo todos los aspectos posibles para informar de manera clara y directa a los cuatro apostadores antes de tomar sus propias decisiones de inversión económica virtual con dinero totalmente ficticio en las diferentes opciones de la cartelera oficial diaria ofrecida por las principales casas de apuestas del sector regulado internacional de pronósticos deportivos en línea y presenciales del mercado global actual en este fin de semana de finales de mes de octubre del año dos mil veintiséis en curso para todos los aficionados al tenis de alta competición mundial profesional masculino y femenino en directo desde los diferentes escenarios europeos y asiáticos previstos en el calendario oficial actualizado de la ATP y la WTA para la presente temporada tenística internacional de este año en curso en las superficies duras y rápidas bajo techo actualmente disponibles para los deportistas profesionales en esta recta final del circuito de tenis mundial antes de las grandes citas de Maestros en Turín y las eliminatorias de Copa Davis por países en este tramo final del año actual en curso en el circuito internacional de tenis profesional masculino y femenino del año dos mil veintiséis en todo el planeta deportivo internacional actual hoy viernes treinta de octubre de dos mil veintiséis con toda la información estadística necesaria y contrastada por nuestros expertos analistas deportivos especializados en tenis profesional de élite mundial bajo techo en pista dura europea y asiática esta semana de competición al máximo nivel internacional absoluto actual en el circuito profesional masculino y femenino del año dos mil veintiséis en curso para todos los lectores del presente informe diario especializado en apuestas con dinero ficticio para principiantes en la materia analítica de cuotas y probabilidades matemáticas puras y duras aplicadas al tenis profesional en la actualidad internacional vigente este otoño de dos mil veintiséis en todo el planeta deportivo profesional del tenis de alta competición mundial en curso hoy viernes treinta de octubre de dos mil veintiséis en las pistas de Viena, Basilea y Tokio para disfrute de todos los seguidores y apostadores de nuestra prestigiosa oficina de análisis de apuestas deportivas virtuales con dinero ficticio en este emocionante y competitivo circuito profesional masculino y femenino de tenis internacional actual en esta apasionante jornada de cuartos de final bajo techo en Europa y Asia este viernes de finales de mes de octubre del año en curso actual dos mil veintiséis en todo el mundo tenístico profesional de élite absoluta actual en las superficies rápidas de pista dura indoor y outdoor disponibles esta semana de emocionante competición internacional en las principales ciudades del circuito mundial de tenis profesional masculino y femenino de la ATP y la WTA en esta recta final del calendario oficial deportivo anual de la temporada en curso actual hoy viernes treinta de octubre de dos mil veintiséis.",
-   "contra": "",
-   "conclusion": "El desgaste físico acumulado tras partidos muy largos y las recientes sorpresas en Basilea obligan a prudencia. Conviene vigilar de cerca las cuotas de valor en los duelos más igualados y el impacto de los estados anímicos tras alcanzar hitos importantes en el ranking mundial.",
-   "partidos": [
-    {
-     "partido": "P01 (Adrian Mannarino vs Daniil Medvedev)",
-     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-     "jugadores": [
-      "Adrian Mannarino",
-      "Daniil Medvedev"
-     ],
-     "inicio": "2026-10-30T12:30+00:00",
-     "favorito": "Daniil Medvedev",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P02 (Holger Rune vs Valentin Vacherot)",
-     "id": "4eebb3b42f713eff0e760f9abef41572",
-     "jugadores": [
-      "Holger Rune",
-      "Valentin Vacherot"
-     ],
-     "inicio": "2026-10-30T13:00+00:00",
-     "favorito": "Holger Rune",
-     "vista": "dudoso",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
-     "id": "cc4564f7b80beae29935d650d1ccb4cb",
-     "jugadores": [
-      "Tommy Paul",
-      "Carlos Alcaraz"
-     ],
-     "inicio": "2026-10-30T14:00+00:00",
-     "favorito": "Carlos Alcaraz",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P04 (Taylor Fritz vs Arthur Fils)",
-     "id": "f8b84ec001244b604176bf0bc6f21f16",
-     "jugadores": [
-      "Taylor Fritz",
-      "Arthur Fils"
-     ],
-     "inicio": "2026-10-30T14:10+00:00",
-     "favorito": "Arthur Fils",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P05 (Alexander Zverev vs Arthur Fery)",
-     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
-     "jugadores": [
-      "Alexander Zverev",
-      "Arthur Fery"
-     ],
-     "inicio": "2026-10-30T16:30+00:00",
-     "favorito": "Alexander Zverev",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
-     "id": "e01a16acf3ce50a010714d85d5ff6374",
-     "jugadores": [
-      "Jerome Kym",
-      "Jiri Lehecka"
-     ],
-     "inicio": "2026-10-30T17:00+00:00",
-     "favorito": "Jiri Lehecka",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
-     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-     "jugadores": [
-      "Jan-Lennard Struff",
-      "Nuno Borges"
-     ],
-     "inicio": "2026-10-30T18:10+00:00",
-     "favorito": "Jan-Lennard Struff",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
-     "id": "94ca068a80e8dbb6686fd96d402bde0e",
-     "jugadores": [
-      "Matteo Berrettini",
-      "Alex de Minaur"
-     ],
-     "inicio": "2026-10-30T19:00+00:00",
-     "favorito": "Alex de Minaur",
-     "vista": "sorpresa",
      "motivo": ""
     }
    ],
@@ -3647,7 +3529,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T18:10+00:00",
+   "actualizado": "2026-10-30T19:00+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3671,6 +3553,12 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
+      },
+      {
        "titulo": "La tenista número 1 del mundo se retira de Tokio - CR Hoy",
        "fuente": "CR Hoy",
        "fecha": "2026-10-30",
@@ -3681,12 +3569,6 @@
        "fuente": "El Periódico",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWhERi1nQ0VXWlJsenFkdE4xcTkzdWhKclRjYlNOeE41OGhTcV9DTGxuRzB6Z0ZITUtxbmhqZkVBZ3hxUjE3RVg2akxZNVJrU2JVaWdSMlc3Q3hqZENQSlBHWFJMOHJEcC1DVjhPbWpNNWItY2kxUVNHNWZLVmtWeldkLW5vZ0xhWGNhbG81NkwwdEIzMGJhX21n0gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
-      },
-      {
-       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno - El Periódico",
-       "fuente": "El Periódico",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW43THdORDA3ZlhsOGtqSXRxRE9aci1GSnNHVy1iS0RKLVo0RGZnSzUxWkRjdGdienYzbzNOSXhyTE83TDltc0xER2lRTWtUV2FZVHBJSVhsNUI2RGdzRFVkWjNnQkdBQjhfT1QxTUQzSDdHTjBUcDJkVVl0RkpjTmlwR1dtYWVNeDJiUlVpeHdCRnRlUzZEX0t30gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
       }
      ]
     },
