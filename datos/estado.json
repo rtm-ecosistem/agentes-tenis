@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T15:32+00:00",
+    "hora": "2026-10-30T16:10+00:00",
     "rent": -0.02
    }
   },
@@ -314,7 +314,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:32+00:00",
+    "hora": "2026-10-30T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -456,7 +456,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:32+00:00",
+    "hora": "2026-10-30T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -611,7 +611,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T15:32+00:00",
+    "hora": "2026-10-30T16:10+00:00",
     "rent": 0.0
    }
   }
@@ -1956,6 +1956,67 @@
    ],
    "importantes": [],
    "graves": []
+  },
+  {
+   "hora": "2026-10-30T16:10+00:00",
+   "datos": "Los números muestran un claro favoritismo para Jiri Lehecka (1822 de Elo) frente a Jerome Kym (1640), y para Leylah Fernandez (1878) ante Kamilla Rakhimova (1719). En el partido de Struff y Borges la igualdad es máxima con 1727 y 1726 de Elo respectivamente. Matteo Berrettini cuenta con un 25% de opciones según su superficie ante Alex de Minaur.",
+   "noticias": "Destacan el gran desgaste físico y los partidos largos de Jerome Kym y Jan-Lennard Struff en las últimas jornadas. Kamilla Rakhimova también llega muy castigada tras disputar tres sets largos en Tokio. La retirada de la número uno del mundo por molestias en el mismo torneo añade incertidumbre en el cuadro femenino.",
+   "ambiente": "La prensa y las redes hablan mucho de las sorpresas recientes en Basilea, como la victoria de Kym sobre Shelton y la de Struff ante Djokovic. La motivación está por las nubes para los menos habituales en rondas finales, aunque el cansancio acumula presión psicológica.",
+   "favorito": "Apoyar a los favoritos como Lehecka o Fernandez se sustenta en su superioridad clara en la clasificación de Elo y un menor número de sobresaltos en su rendimiento general. Su mayor consistencia en pista dura les otorga un plus de fiabilidad para avanzar rondas sin ceder sets decisivos contra rivales teóricamente inferiores en ranking global y superficie específica.",
+   "contra": "",
+   "conclusion": "Pesa mucho el desgaste físico acumulado tras los partidos largos de ayer y el factor anímico de las sorpresas recientes. Hay que vigilar de cerca la fatiga y la recuperación antes de decidir si apostar por la lógica o buscar una cuota alta.",
+   "partidos": [
+    {
+     "partido": "P01 (Jerome Kym vs Jiri Lehecka)",
+     "id": "e01a16acf3ce50a010714d85d5ff6374",
+     "jugadores": [
+      "Jerome Kym",
+      "Jiri Lehecka"
+     ],
+     "inicio": "2026-10-30T17:00+00:00",
+     "favorito": "Jiri Lehecka",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Jan-Lennard Struff vs Nuno Borges)",
+     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+     "jugadores": [
+      "Jan-Lennard Struff",
+      "Nuno Borges"
+     ],
+     "inicio": "2026-10-30T18:10+00:00",
+     "favorito": "Jan-Lennard Struff",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Matteo Berrettini vs Alex de Minaur)",
+     "id": "94ca068a80e8dbb6686fd96d402bde0e",
+     "jugadores": [
+      "Matteo Berrettini",
+      "Alex de Minaur"
+     ],
+     "inicio": "2026-10-30T19:00+00:00",
+     "favorito": "Alex de Minaur",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P04 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
   }
  ],
  "bitacora": [
@@ -2183,6 +2244,16 @@
    "hora": "2026-10-30T15:32+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T16:10+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Nuno Borges, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T16:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2208,7 +2279,12 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-14",
  "noticias_vistas": [
+  "f7facc31dea6",
+  "f578551e4803",
+  "a5f137b87ecb",
+  "71b8ea58530b",
   "78a151d08055",
+  "fcafed0f0744",
   "b35e942f038e",
   "22bfcf79ee80",
   "3076c8b08a93",
@@ -2219,6 +2295,7 @@
   "8a5d14e67bb1",
   "58b85498d933",
   "f85cfdb4fa54",
+  "a265af8ec1d6",
   "90eb359ef394",
   "c8d2c3857d10",
   "a10ab68e0460",
@@ -2238,7 +2315,9 @@
   "5aa75ce3b3fc",
   "10a98821520b",
   "4b9174b8a76c",
+  "de9f52f160ac",
   "ce95c03092ba",
+  "4454a5d25e87",
   "0bce5e985025",
   "80eeee83f3aa",
   "0d281278ff95",
@@ -2256,16 +2335,16 @@
   "cb873c8b2921",
   "70fcf910e099",
   "6f94695e79de",
+  "f88b630f834c",
   "228a682c2e26",
   "2eecf5e151e9",
   "bb22eedd475f",
   "0588280ecec3",
   "92ee25f2ac65",
   "f48a0b825101",
-  "f88b630f834c",
   "481b2832c2c2",
   "7dc78c387fa9",
-  "de9f52f160ac",
+  "4f70310aa2eb",
   "c62a460833a7",
   "82322e1fdb39",
   "24858c4415e3",
@@ -2306,13 +2385,16 @@
   "35c3121d3d93",
   "5816547a98a5",
   "59d59adb4e23",
+  "6c86a7ec1fa7",
   "18c9633a7835",
   "0ecaa8901633",
   "f8cda1eb4d1a",
   "ab66c08aece6",
   "2088acc8eda2",
+  "b481d95627c6",
   "6e19dc6753c5",
   "b7241a537bc2",
+  "34a1df4a40b2",
   "edb77d7f1d45",
   "d445a65e7018",
   "74a60a79eb0c",
@@ -2328,6 +2410,7 @@
   "6d6ec6b1cc70",
   "502c73fefbd6",
   "91307a9400b7",
+  "815eaaed86f6",
   "4ad05434caae",
   "ede209284f4f",
   "be83d3c3575a",
@@ -2336,6 +2419,7 @@
   "a180d4eb49a1",
   "5f0ecb4de729",
   "2d6d4128a141",
+  "dca43dc22deb",
   "27104a55fe15",
   "d2fdfaf1ea30",
   "f313e48d6530",
@@ -2359,6 +2443,7 @@
   "6b5039e775ad",
   "9d3042121c10",
   "4fa7efc42380",
+  "8917ffbcccbb",
   "bf799671b544",
   "97d1da5dd2e4",
   "34c250809b26",
@@ -2453,7 +2538,6 @@
   "278d168712b4",
   "10d6d41d20e0",
   "8cb08bb7fe19",
-  "dca43dc22deb",
   "5ae9a5e40773",
   "31ce4208059b",
   "fad8f3d52d80",
@@ -2496,7 +2580,6 @@
   "b314fdf1b6c6",
   "69031ddb6931",
   "24232611d516",
-  "b481d95627c6",
   "c8932395a46b",
   "10a7b42664ef",
   "95be1185ab93",
@@ -2525,7 +2608,6 @@
   "00236eca5e96",
   "c4683173797e",
   "9be044fbfb0d",
-  "8917ffbcccbb",
   "567993df2d17",
   "779bcf2a9a44",
   "ef43ea2a6868",
@@ -2683,6 +2765,7 @@
   "a788e4063a84",
   "3de543778a82",
   "d030b62e10f8",
+  "a2ce97c0af09",
   "6cc905260212",
   "06228fec765b",
   "318751614fe7",
@@ -2883,7 +2966,6 @@
   "92cfb2258771",
   "7723aa1adbec",
   "0f2b9073603e",
-  "4454a5d25e87",
   "93b5b0161fb6",
   "17a11abb09bf",
   "fc940ba8daa6",
@@ -2996,18 +3078,7 @@
   "171f3d987e98",
   "56cd777f0098",
   "6cf7f263b14c",
-  "568f887e1a01",
-  "f7331c121bbb",
-  "fda2d3690d32",
-  "f8fb583c20c8",
-  "6d7489da4560",
-  "054717721b30",
-  "56fabacdad9f",
-  "d4d662020c8c",
-  "0345dfe28e56",
-  "525496b5e163",
-  "d1e6f424f13b",
-  "b511cf09db8e"
+  "568f887e1a01"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -4181,7 +4252,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:32+00:00",
+   "actualizado": "2026-10-30T16:10+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -4269,7 +4340,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:32+00:00",
+   "actualizado": "2026-10-30T16:10+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -4327,6 +4398,12 @@
      "cansancio": "1 partidos, 3 sets y 26 juegos en 3 días; el último el 2026-10-28 contra Casper Ruud, ganó 1-6 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Henrique Rocha vence a un jugador del top 20 y se une a Nuno Borges en la tercera ronda de Roland-Garros - Portugal Resident",
+       "fuente": "Portugal Resident",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2ZqeFM4bTVqZ1ZGRDBjZWRDWGJhdjgwVVlSNXJ2b3kxQnVEbEx6cFV0RXlPN0dGUmstbW5zMnpyZGc5eko3azAwYlBGRzhFQ0JpN05jMEJVTWE3RDBJMW9ocmdzRDNpTTlBdUYyQTlhR0dhWmd4eXppVk1lNklBWmhhYU0yWE9OUkFlVFJHd3ZTRmVVWWkwc1daM0hCZE11TUk1dVlyd0lZOVhKMmlQWnc4WFNWM1NQYVppT25MV3RGQ2E3LWZhUmgyTVprQUFxbm1JTVBsNmdyQQ?oc=5"
+      },
+      {
        "titulo": "Pronóstico Jan-Lennard Struff Nuno Borges - ATP Basilea 30/10/26 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-10-30",
@@ -4337,12 +4414,6 @@
        "fuente": "Coinbase",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkplcG9ZdEtpMkJoNjgwek9tUWoza1RmT2ZQQTRxT0RmOVJqaEg0RHozMktabHp0R0w0V1RJVk96SFZaVHlvOEI1T2dXZzNJSm1ndmd4OVotRUxtVXlFakdqY2w1aVlwR1FpOTNYQ1dSVVRrVjJTaEM0N3R2MzJsYQ?oc=5"
-      },
-      {
-       "titulo": "Jan-Lennard Struff - Nuno Borges en directo - ATP Basilea 30 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2FOaFB5SXZGZzk2bWVJS0xLTUozdjVVcHJOb0pZT19BY1RBczlLS0Q5Sy1yZV9ES05xa0toandycEVCd3B1WWswWEYyeDZlTjlvTjZudEVWZTJvSnRPZEFGcWxkSVVScl9haEhJc3BUeXhvYTYyR3BldVlZWkhTQkhkenNyeXNYYVlUMnpFRQ?oc=5"
       }
      ]
     }
@@ -4357,7 +4428,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:32+00:00",
+   "actualizado": "2026-10-30T16:10+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -4445,7 +4516,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T15:32+00:00",
+   "actualizado": "2026-10-30T16:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -4469,22 +4540,22 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "La tenista número 1 del mundo se retira de Tokio - CR Hoy",
+       "fuente": "CR Hoy",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjNxQmVJcGJ6NzV1NWUtdW9PWktEbDlncVZkMjVKLUpvWTJudkl1RHN0bXdaRURBVFk1Y3d5c0pnYkR0UG5vdklOdHl3R2VXNFJwcFg2RWtscFdjRmVOQmhnbmY5OWx4MVNjWnRwdF9aTjkzY2tJT0IwRDhUQW9mSE5B?oc=5"
+      },
+      {
+       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno - El Periódico",
+       "fuente": "El Periódico",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWhERi1nQ0VXWlJsenFkdE4xcTkzdWhKclRjYlNOeE41OGhTcV9DTGxuRzB6Z0ZITUtxbmhqZkVBZ3hxUjE3RVg2akxZNVJrU2JVaWdSMlc3Q3hqZENQSlBHWFJMOHJEcC1DVjhPbWpNNWItY2kxUVNHNWZLVmtWeldkLW5vZ0xhWGNhbG81NkwwdEIzMGJhX21n0gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
+      },
+      {
        "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número 1 - HolaNews",
        "fuente": "HolaNews",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0NKMzZhalliT1Y2cVU2N3JXLVhWcjlnUEI1cHVYdkdad2w4c3lieFFoY2FHczVubUtqaDJSVmV1aVYyczhPYkswczRVU2tOd0htbkRVMXdlZWNMemQ4X0JoWFZVUXFQVHlTeXZ6Q1o4ZkctR3k2LTh5ZnpUZGJzSmhsVVMzVmJ2SFN2LWtKb0Q5ZDMxUE00MU82Y0NISk4wYXNkeg?oc=5"
-      },
-      {
-       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número 1 - Yahoo",
-       "fuente": "Yahoo",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVIzbVc2YXM5VE5Sd3RLV0Z0eXQ3RXNpTEVJa3lwQVJuVXBPN2dfeTNLc2xnM3BEd3JQbmVXSl9RRUg5N3VIQVFiRWFHdm4tZDduc2JySy1CdEQyRVlWUnJyOXJBRzNBdThPOVlieDJ0T0JQcXNMM2dGaElZSks3VVNwMVNMaXhwekktRjlERVBmb3FjVy00WUE1cjBoZw?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
       }
      ]
     },
@@ -4542,18 +4613,6 @@
     "seleccion": "Carlos Alcaraz",
     "punto": null,
     "cuota": 1.29
-   },
-   {
-    "partido": "f8b84ec001244b604176bf0bc6f21f16",
-    "jugadores": [
-     "Taylor Fritz",
-     "Arthur Fils"
-    ],
-    "inicio": "2026-10-30T14:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Arthur Fils",
-    "punto": null,
-    "cuota": 1.85
    },
    {
     "partido": "69ae427eb9d45bc2bc6b0ad750e25934",
@@ -4618,7 +4677,8 @@
   ],
   "vistos": [
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-   "4eebb3b42f713eff0e760f9abef41572"
+   "4eebb3b42f713eff0e760f9abef41572",
+   "f8b84ec001244b604176bf0bc6f21f16"
   ]
  }
 }

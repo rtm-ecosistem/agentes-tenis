@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T15:32+00:00",
+ "actualizado": "2026-10-30T16:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16842,19 +16842,18 @@
    "nombre": "Anna Blinkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1717.7,
-    "hard": 1711.7,
+    "all": 1735.9,
+    "hard": 1731.4,
     "clay": 1360.6,
     "grass": 1531.3
    },
    "n": {
-    "all": 70,
-    "hard": 57,
+    "all": 71,
+    "hard": 58,
     "clay": 6,
     "grass": 7
    },
    "ultimos": [
-    "2026-09-19 P hard vs Kaitlin Quevedo",
     "2026-09-28 G hard vs Emiliana Arango",
     "2026-09-30 G hard vs Viktoria Hruncakova",
     "2026-10-01 P hard vs Lois Boisson",
@@ -16863,7 +16862,8 @@
     "2026-10-09 G hard vs Bianca Andreescu",
     "2026-10-10 P hard vs Lucrezia Stefanini",
     "2026-10-27 G hard vs Dalma Galfi",
-    "2026-10-29 G hard vs Katarina Zavatska"
+    "2026-10-29 G hard vs Katarina Zavatska",
+    "2026-10-30 G hard vs Martyna Kubka"
    ]
   },
   "golubic|v": {
@@ -32601,19 +32601,18 @@
    "nombre": "Martyna Kubka",
    "circuito": "WTA",
    "elo": {
-    "all": 1653.0,
-    "hard": 1648.9,
+    "all": 1622.2,
+    "hard": 1616.6,
     "clay": 1496.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 15,
-    "hard": 13,
+    "all": 16,
+    "hard": 14,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-26 G hard vs Marina Bassols Ribera",
     "2026-08-28 P hard vs Kristina Liutova",
     "2026-09-22 P hard vs Berfu Cengiz",
     "2026-09-29 G hard vs Ksenia Efremova",
@@ -32622,7 +32621,8 @@
     "2026-10-15 G hard vs Teodora Kostovic",
     "2026-10-17 P hard vs Dominika Salkova",
     "2026-10-27 G hard vs Mia Ristic",
-    "2026-10-29 G hard vs Lisa Pigato"
+    "2026-10-29 G hard vs Lisa Pigato",
+    "2026-10-30 P hard vs Anna Blinkova"
    ]
   },
   "gray|a": {
@@ -90980,7 +90980,11 @@
   "bassols ribera|m~charaeva|a": [
    0,
    1
+  ],
+  "blinkova|a~kubka|m": [
+   1,
+   0
   ]
  },
- "propios": 10428
+ "propios": 10430
 }
