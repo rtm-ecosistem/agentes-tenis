@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T12:10+00:00",
+    "hora": "2026-10-30T13:10+00:00",
     "rent": -0.02
    }
   },
@@ -314,7 +314,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T12:10+00:00",
+    "hora": "2026-10-30T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -456,7 +456,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T12:10+00:00",
+    "hora": "2026-10-30T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -611,7 +611,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T12:10+00:00",
+    "hora": "2026-10-30T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -1934,6 +1934,16 @@
    "hora": "2026-10-30T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery, Jan-Lennard Struff – Nuno Borges: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -1959,17 +1969,33 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-14",
  "noticias_vistas": [
+  "2504b32b2bdc",
+  "248c45b145c0",
+  "9e0c2410faa9",
+  "9e550d007c50",
+  "6682337af4b0",
+  "9895b98b5200",
+  "f610b60bc7ce",
+  "7d64ddda314d",
+  "4b9174b8a76c",
+  "ce95c03092ba",
+  "0bce5e985025",
+  "80eeee83f3aa",
   "0d281278ff95",
-  "10a98821520b",
   "42d5776347c9",
+  "10a98821520b",
   "721763e32d94",
+  "c1880cda1718",
+  "4d43c3aa5f12",
+  "20da13285ed2",
+  "a9bb9d33c0f4",
   "3a233cf75d10",
   "b42d88efae4d",
   "cb873c8b2921",
   "70fcf910e099",
   "6f94695e79de",
-  "2504b32b2bdc",
   "228a682c2e26",
+  "2eecf5e151e9",
   "bb22eedd475f",
   "0588280ecec3",
   "92ee25f2ac65",
@@ -1988,6 +2014,7 @@
   "d458c902f4da",
   "f68aa072519b",
   "53df1ac6ed6c",
+  "f422fc13b554",
   "aef2ee14239f",
   "59723487fa05",
   "97e21efe9a7d",
@@ -1998,15 +2025,14 @@
   "9d7bba527184",
   "c31cf2482d15",
   "7ccf4e64cfbb",
-  "6682337af4b0",
   "bc092b5af1c5",
+  "bb386498d04b",
   "0a82d05b80e9",
   "683016dc8b03",
+  "8b3b7313a186",
   "09b1bb6b4704",
   "42bebcbc6c9e",
-  "7d64ddda314d",
   "ce553c7e2f1b",
-  "ce95c03092ba",
   "a386025daa28",
   "8705486bdf2e",
   "021a3d6650fc",
@@ -2115,7 +2141,6 @@
   "8602bd3f10c4",
   "810c465a9e0e",
   "3d50c9ae9fca",
-  "567993df2d17",
   "11e9fc9af3b4",
   "0ab3a91768aa",
   "8a06e56ea361",
@@ -2199,7 +2224,6 @@
   "26d05eeb4e03",
   "d290942acc97",
   "6006ac655dcc",
-  "0d7c9bde073f",
   "e2e70086df08",
   "2d84abd70177",
   "b314fdf1b6c6",
@@ -2233,6 +2257,7 @@
   "00236eca5e96",
   "c4683173797e",
   "9be044fbfb0d",
+  "567993df2d17",
   "779bcf2a9a44",
   "ef43ea2a6868",
   "f8fd9cf878a4",
@@ -2327,6 +2352,7 @@
   "9b7775c9e9c9",
   "8911da18acb8",
   "0a2a9aa3c4f1",
+  "0d7c9bde073f",
   "86cb8c877417",
   "eec6f5b4264e",
   "a12884894842",
@@ -2486,6 +2512,7 @@
   "9e3b0b98d395",
   "afe706f8ee4c",
   "5aa36c45461c",
+  "bc23574fc58a",
   "4f3ba5360639",
   "a1460f0c70ee",
   "badfd20b1268",
@@ -2584,6 +2611,7 @@
   "92cfb2258771",
   "7723aa1adbec",
   "0f2b9073603e",
+  "4454a5d25e87",
   "93b5b0161fb6",
   "17a11abb09bf",
   "fc940ba8daa6",
@@ -2740,25 +2768,7 @@
   "396fea5f851d",
   "cead336b0338",
   "d734960887ee",
-  "4fe08578aecc",
-  "89b572ccce6c",
-  "bfbbf9baef1d",
-  "e61e53d8780f",
-  "6f7e0712bd87",
-  "ed4c3e81b6fd",
-  "acaa1e7bb3be",
-  "1170e85168d1",
-  "74f6ef14a7b4",
-  "0db18be73b3e",
-  "dd5ce83d35b9",
-  "58ad27bc9d81",
-  "19b6e6f07f56",
-  "97cfb259e512",
-  "e7228cac05e8",
-  "97bd21e134b8",
-  "74f1b51d2c79",
-  "8e8c6d5425e2",
-  "389b8ef81384"
+  "4fe08578aecc"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3666,7 +3676,7 @@
    "inicio": "2026-10-30T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.199,
    "elo_general": 0.173,
    "elo_en_superficie": 0.224,
@@ -3690,6 +3700,12 @@
      "cansancio": "2 partidos, 4 sets y 34 juegos en 3 días; el último el 2026-10-29 contra Luciano Darderi, ganó 6-1 6-1",
      "noticias": [
       {
+       "titulo": "Tommy Paul - Carlos Alcaraz, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeldlNDdUNE9FeVlvZnV4c2I4NHFLS1FPT05MY0tVX3gzSGhGV3A5Vi1uMjB2d2xhVkkxX0dNYnJKZjUtRXZLZkg1LTVNOFk3ZEZIRzEya0J1SUlCSF9jaWkxcHYxNm5sdUdnMmZuNEp0RFhDODhObUc3ZWJzdzB3ZlpGSDJNUVd0SUREN05NMXVya0RYcEtzcmxsZ1lCUzNNMmROWnFPUUlMSWlMZEZUVEdaWl9pVVhXTGZ0VjNhUXJkZzQ5bi1Lelc3WUxuazJXX00yNTVDU2RXYTBoZnV5bXZJZ3ZJZw?oc=5"
+      },
+      {
        "titulo": "A qué hora juega Alcaraz hoy contra Tommy Paul y dónde ver su partido en el ATP 500 de Viena 2026 por TV y en directo - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-10-30",
@@ -3700,12 +3716,6 @@
        "fuente": "La Razón",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQWhhR2hrTXNRYU1ia3RvVzl4bE94dHp6Yk4td1JoNGpIOUgzWk9hbjhkNExERkJsZGNXNFdFZk5zWkQyUTZYMldmcmtoT1FrVDBIQmZaY0dEUkdnOFYxV3JHUjR1MG9uQkQtVTVJdzhQZ1htRzlLc1ZMc2FqUzE2UmxnM25iSVpJWlRhWGd0Ukl3d2pVT1dCNUthYm45MjdQczU3ZGR6RGprVnZ4WlZudDN4UFJ5Mk1XZkxuOTB4UnR2MndBWEo1X2RiRVo4dm9vcVZiZGxBbUUxMnlCTk1yU2hEVC3SAfgBQVVfeXFMTUNRVUVVZS16cmluc05NTTEzcmNaT2hfT1R6VHZnQ19KTHpSc3g2UmpzSkZhdDRoNXRxU1M2ZDhzQkNnTjZUdkdkTlBlQUtwaU1UbzNnSDViWHgyWXFoMkcxRDZ2ZHJrV0FKamtkdVg5YXdhcThBSUxDWURMengzOEl0WEROelFhUnpadFVMZ1lNamlBanJ5cjhRRXZRM09CQmx6cUJ3d19LcnRZbHdDcWFCd0dkamE1b1p4b3BlUTFaQ3hmdUtoYTFtM2d3akpxWVM1eVNTcVBfVWIyOHJZcHpHekhoYmQ4ZC15N0I4cmgxU01jc29HTWM?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Tommy Paul, horario y dónde ver hoy los cuartos de final del ATP 500 de Viena 2026 - La Razón",
-       "fuente": "La Razón",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ1FVRVVlLXpyaW5zTk1NMTNyY1pPaF9PVHpUdmdDX0pMelJzeDZSanNKRmF0NGg1dHFTUzZkOHNCQ2dONlR2R2ROUGVBS3BpTVRvM2dINWJYeDJZcWgyRzFENnZkcmtXQUpqa2R1WDlhd2FxOEFJTENZREx6eDM4SXRYRE56UWFSelp0VUxnWU1qaUFqcnlyOFFFdlEzT0JCbHpxQnd3X0tydFlsd0NxYUJ3R2RqYTVvWnhvcGVRMVpDeGZ1S2hhMW0zZ3dqSnFZUzV5U1NxUF9VYjI4cllwekd6SGhiZDhkLXk3QjhyaDFTTWNzb0dNY9IB-AFBVV95cUxNQ1FVRVVlLXpyaW5zTk1NMTNyY1pPaF9PVHpUdmdDX0pMelJzeDZSanNKRmF0NGg1dHFTUzZkOHNCQ2dONlR2R2ROUGVBS3BpTVRvM2dINWJYeDJZcWgyRzFENnZkcmtXQUpqa2R1WDlhd2FxOEFJTENZREx6eDM4SXRYRE56UWFSelp0VUxnWU1qaUFqcnlyOFFFdlEzT0JCbHpxQnd3X0tydFlsd0NxYUJ3R2RqYTVvWnhvcGVRMVpDeGZ1S2hhMW0zZ3dqSnFZUzV5U1NxUF9VYjI4cllwekd6SGhiZDhkLXk3QjhyaDFTTWNzb0dNYw?oc=5"
       }
      ]
     },
@@ -3724,22 +3734,22 @@
      "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-29 contra Nikoloz Basilashvili, ganó 6-1 7-6",
      "noticias": [
       {
+       "titulo": "Tommy Paul - Carlos Alcaraz, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeldlNDdUNE9FeVlvZnV4c2I4NHFLS1FPT05MY0tVX3gzSGhGV3A5Vi1uMjB2d2xhVkkxX0dNYnJKZjUtRXZLZkg1LTVNOFk3ZEZIRzEya0J1SUlCSF9jaWkxcHYxNm5sdUdnMmZuNEp0RFhDODhObUc3ZWJzdzB3ZlpGSDJNUVd0SUREN05NMXVya0RYcEtzcmxsZ1lCUzNNMmROWnFPUUlMSWlMZEZUVEdaWl9pVVhXTGZ0VjNhUXJkZzQ5bi1Lelc3WUxuazJXX00yNTVDU2RXYTBoZnV5bXZJZ3ZJZw?oc=5"
+      },
+      {
        "titulo": "Ferrero compara a Rafa Jódar con Carlos Alcaraz y responde: ¿Le entrenará en 2027? - LaSexta",
        "fuente": "LaSexta",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNG54TjJtRnlDOGFMTThETk11SzRraFI3YnI2aUcyQVJNaVl0M1FaMTE4cE15bEUyaXZzaE0zU3JTX3Jnd2NUUDliTVd2aDd5UHFxaDdiQnEzd3VseUI3Yk90VG1Bc0RhVWREMmZjOG9icENlYlNxelZIUlBBOFJXQkQtN1RTSEdpdGc2LVdlQ29MbkVydWRud3NkVDJEVWdLaGlZVktROHdCQS1zeTFkdU5FVzg0ZEt0S2lUOWNDRFNMLXZQb2c2OTQ2STN1ZG9kWU56SnFrMURPSEEyNGN0UXVzSXdvd9IB5gFBVV95cUxQNHFBZHZGTkRPcmV2ejlWaURxMkZVVko1Tm83SzJGQzU2SFpmc3dwNVZtTzBEUjNRLUE5SEhSV0did014djMzcHU1ZUxJY1loa2FaOUJ0TTYwN0J0NmFYTDNzZWdQWm9YbHZJN3V6eVFFcTVyUHFrdXhfYTRSUUN2LWhNQ0dnQjc5ZEFNUEJLQ1duNzc0eVhXaW55MVRybEVoZVJJODdJQWJaQlNIN2k3dktPYl9vVTFRZVJ2Z0pILTlZaEd4SVU3U1duNUdibVRNYTNGQ2d1X3lhemJxZWhPQTdyQ2xxQQ?oc=5"
       },
       {
-       "titulo": "A qué hora juega Alcaraz hoy contra Tommy Paul y dónde ver su partido en el ATP 500 de Viena 2026 por TV y en directo - SPORT",
-       "fuente": "SPORT",
+       "titulo": "Ferrero compara a Rafa Jódar con Carlos Alcaraz y responde: ¿Le entrenará en 2027? - LaSexta",
+       "fuente": "LaSexta",
        "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzdjVnNyaUdldFk1bVhTTnJkbW1Za2d3dE9DTG9Jcll5LU5FS3VVMUo5UllmVndkM1ZVRUp2OE5WNjM2MnYyRHI1dzdJUHFibDVTLXhoczBGcW9TZzlfQnUzVV9XRGZ0b2ltRXVTWVVyTXVOcFNLYm91UzdsTGoya1laRdIBgwFBVV95cUxOb0pmS1hwTzlSYlRTQzA0aVphenRGN2dOZXhIMVVrdmtrYlF3LXB1Y2ExZmx3Y3hSTEEyRVJHak9zRGJkdzZXQTN4MFMxc01ObTJuTGlqUHk1LWd3UDFTVEtpSEJramVaOVE3bGs3eVo3OFJzdnFWR0w3ZVB0MXVzRGd3bw?oc=5"
-      },
-      {
-       "titulo": "Juan Carlos Ferrero aclara su ruptura con Carlos Alcaraz: \"Mi relación con él no era paternal, ni mucho menos\" - Diez Minutos ES",
-       "fuente": "Diez Minutos ES",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG82aDNiSTVkRl9LTlNHTDNnaGhKVTd1NUh1SHM5NFJnd1NhRzF0Z09xamRkV2t6R0k3QlhUQjd1bXdpSHZSbVRJb05CWnJzTmxmUFZjZVVqNHh1NW81RjlvV25MUkNxWlhoTXJtLS1hdlMtM2FUelh0cnNRTzhvT0c3UnExNDV3OF9nLTBDR2NIS0poUGR3LXA4dHB6MVJyMkxJZXFfSzRHck5Nc3BmenlDRkNVcUFWalhyYnRUMmtJdTJVa2FBVUJfSWU?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNHFBZHZGTkRPcmV2ejlWaURxMkZVVko1Tm83SzJGQzU2SFpmc3dwNVZtTzBEUjNRLUE5SEhSV0did014djMzcHU1ZUxJY1loa2FaOUJ0TTYwN0J0NmFYTDNzZWdQWm9YbHZJN3V6eVFFcTVyUHFrdXhfYTRSUUN2LWhNQ0dnQjc5ZEFNUEJLQ1duNzc0eVhXaW55MVRybEVoZVJJODdJQWJaQlNIN2k3dktPYl9vVTFRZVJ2Z0pILTlZaEd4SVU3U1duNUdibVRNYTNGQ2d1X3lhemJxZWhPQTdyQ2xxQdIB5gFBVV95cUxQNHFBZHZGTkRPcmV2ejlWaURxMkZVVko1Tm83SzJGQzU2SFpmc3dwNVZtTzBEUjNRLUE5SEhSV0did014djMzcHU1ZUxJY1loa2FaOUJ0TTYwN0J0NmFYTDNzZWdQWm9YbHZJN3V6eVFFcTVyUHFrdXhfYTRSUUN2LWhNQ0dnQjc5ZEFNUEJLQ1duNzc0eVhXaW55MVRybEVoZVJJODdJQWJaQlNIN2k3dktPYl9vVTFRZVJ2Z0pILTlZaEd4SVU3U1duNUdibVRNYTNGQ2d1X3lhemJxZWhPQTdyQ2xxQQ?oc=5"
       }
      ]
     }
@@ -3754,7 +3764,7 @@
    "inicio": "2026-10-30T14:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.426,
    "elo_general": 0.399,
    "elo_en_superficie": 0.452,
@@ -3842,7 +3852,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -3866,6 +3876,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-10-29 contra Tallon Griekspoor, ganó 6-4 7-5",
      "noticias": [
       {
+       "titulo": "Zverev, trigésimo Nº1 de la historia del tenis - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFE4V3EyaG5qWGpPVkptblN0NF94dlQzeHdBSUlmbUlJMUphcFZqNDlIbGZWWjl5TFhyVm5EdnYxTDJHck5sbFVjQUZCaldOODZPSFExMXAzQlBPdDR5ZjhMdVVLTHVEQ0daU0pVYWxVRFFJT3VIcndJbmpxWkZvUlZVWW1uSVVweFQ3c9IBjAFBVV95cUxPY094bHNZY1hsRXRkU0tGLWxJQ1pSb0JVMllBSUdLYnk3a1pHT25NSTNCX1VlYi12RUx4WmJMUnBSR29FdjJET3ExckU2Yzg3WGJnRFpPOVhwOXMzc2tHSUNSVDdwNWxHLV9QQjY3S2xrenpZTXFnTElUREpJZEhyb2RHYjBleElUSW9ISg?oc=5"
+      },
+      {
        "titulo": "Zverez se convertirá el lunes en el 30º tenista que llega al número 1 en la historia del circuito masculino - EFE - Agencia de noticias",
        "fuente": "EFE - Agencia de noticias",
        "fecha": "2026-10-30",
@@ -3876,12 +3892,6 @@
        "fuente": "GQ España",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUEhzaEdDSW9zSGJ5NkpuQmhYaFk1VWhsdzhfdlplTlM5VnJxLV9NUnRuOFRoZ1dwTTlCUXRqUGtlbThXa3pJLW5uQ1o3UFZMblhHY2JUV0FnemlfVVQ2aUpUelE0NFhhTl9EbTZSdGtKWWktcWtxMHRNZkRHMlozLXh5QXRmc042UHJEelk5OHFFMkEyekdhVTVNMmRRcW95MnppdnQzNmNRcTlobzYzTW5fMHJaZzNvcHowa2xFOU1KUmlqM3ZV?oc=5"
-      },
-      {
-       "titulo": "Zverev lidera el ranking de victorias del ATP Tour en 2026 - Industria del Tenis",
-       "fuente": "Industria del Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04Qjd4MU5uaXdsOWIyZlJTWlF4ZHBERnZ4SFc2eDNRNnhmeFJXd1o3VkJNWTNLeTJON0N3dWRWa0V6NFFEXy0wMkIxNTF1WEFUdDRVXw?oc=5"
       }
      ]
     },
@@ -3930,7 +3940,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -4018,7 +4028,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -4042,6 +4052,12 @@
      "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-10-29 contra Novak Djokovic, ganó 6-7 7-5 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Novak Djokovic sufrió un nuevo 'golpe'; eliminado en octavos de final del ATP de Basilea - Noticias Caracol",
+       "fuente": "Noticias Caracol",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORkR4YzdxYlhXYkFvWnZwYThGOHZPMTU4XzdwUFpBS0gwMXVSMlYzSGxwSWVMMHZFZHBmT1VDanoyNjlnRVVrRXNWWnRVN0tYTmNHX2ZNR3VQV20yM0d6d3ZOYWhOWEx3bHp2cjY0WWJLSjF4WXlmanZySFhPOWhlS0I1R1diOWZkZHVSNm5sNzJnX1NlSC1ZNGN6NGFZRHFKZi1ZYkhSY0VFc25ZbDEwNEl6N3d5VF9hZlpnN1lMTDZtR285RVBydklCUG9wY0JRREFoWjlDa3NYUDlsRzlieUtOY9IB4wFBVV95cUxORkR4YzdxYlhXYkFvWnZwYThGOHZPMTU4XzdwUFpBS0gwMXVSMlYzSGxwSWVMMHZFZHBmT1VDanoyNjlnRVVrRXNWWnRVN0tYTmNHX2ZNR3VQV20yM0d6d3ZOYWhOWEx3bHp2cjY0WWJLSjF4WXlmanZySFhPOWhlS0I1R1diOWZkZHVSNm5sNzJnX1NlSC1ZNGN6NGFZRHFKZi1ZYkhSY0VFc25ZbDEwNEl6N3d5VF9hZlpnN1lMTDZtR285RVBydklCUG9wY0JRREFoWjlDa3NYUDlsRzlieUtOYw?oc=5"
+      },
+      {
        "titulo": "Highlights: Medvedev supera a Struff en su debut en Shanghái 2026 - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-10-30",
@@ -4052,12 +4068,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclVoMlNud0RzWXlVVEgwazA4RTFzRHdUbG03ZkpUcHpVR3p0eGpTUjNJVFlDcWNFZUZHLTFheXZqZFpLakZwTi14Z2htSFhOY1JhN2RvOVVzZzFuVjh2QW5DVlFtcjRxLWJYT1d4QkRoWm1TYnMyaGV5WW1rM0tsRzZ3RFNuZnBTMVE?oc=5"
-      },
-      {
-       "titulo": "Jan-Lennard Struff vs Nuno Borges: Game Spread - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkplcG9ZdEtpMkJoNjgwek9tUWoza1RmT2ZQQTRxT0RmOVJqaEg0RHozMktabHp0R0w0V1RJVk96SFZaVHlvOEI1T2dXZzNJSm1ndmd4OVotRUxtVXlFakdqY2w1aVlwR1FpOTNYQ1dSVVRrVjJTaEM0N3R2MzJsYQ?oc=5"
       }
      ]
     },
@@ -4106,7 +4116,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -4194,7 +4204,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T13:01+00:00",
+   "actualizado": "2026-10-30T13:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
