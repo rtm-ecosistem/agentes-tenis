@@ -95,3 +95,14 @@ def test_dia_sin_cuota_de_la_ia_se_repite():
     p = pretemporada.avanzar(3, "2026-07-01", "2026-07-06", ia=SinCuota(), sesion=Sesion())
     assert p["dias"] == 0 and p["siguiente"] == "2026-07-01"
     assert comun.leer(config.DATOS / "pretemporada" / "apuestas.json", []) == []
+
+
+def test_lee_los_ficheros_subidos_si_tennis_data_no_deja_descargar():
+    class Bloqueada(Sesion):
+        def get(self, url, headers=None, timeout=None):
+            return super().get("nada")
+    carpeta = config.DATOS / "tennis-data"
+    carpeta.mkdir(parents=True)
+    (carpeta / "2026.xlsx").write_bytes(Sesion().atp)
+    p = pretemporada.avanzar(1, "2026-07-01", "2026-07-06", ia=FakeIA(descartes={"Óscar": "P01a"}), sesion=Bloqueada())
+    assert p["dias"] == 1
