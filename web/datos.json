@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T12:11+00:00",
+ "actualizado": "2026-10-30T13:05+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -976,74 +976,6 @@
   "actualizado": "2026-10-30T08:00+00:00",
   "partidos": [
    {
-    "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T12:30+00:00",
-    "jugadores": [
-     "Adrian Mannarino",
-     "Daniil Medvedev"
-    ],
-    "opciones": [
-     {
-      "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653|h2h|Adrian Mannarino|",
-      "mercado": "h2h",
-      "nombre": "Adrian Mannarino",
-      "punto": null,
-      "cuota": 4.0,
-      "pinnacle": 4.31
-     },
-     {
-      "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653|h2h|Daniil Medvedev|",
-      "mercado": "h2h",
-      "nombre": "Daniil Medvedev",
-      "punto": null,
-      "cuota": 1.25,
-      "pinnacle": 1.25
-     }
-    ],
-    "pinnacle_h2h": {
-     "Adrian Mannarino": 4.31,
-     "Daniil Medvedev": 1.25
-    }
-   },
-   {
-    "id": "4eebb3b42f713eff0e760f9abef41572",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T13:00+00:00",
-    "jugadores": [
-     "Holger Rune",
-     "Valentin Vacherot"
-    ],
-    "opciones": [
-     {
-      "id": "4eebb3b42f713eff0e760f9abef41572|h2h|Holger Rune|",
-      "mercado": "h2h",
-      "nombre": "Holger Rune",
-      "punto": null,
-      "cuota": 1.67,
-      "pinnacle": 1.68
-     },
-     {
-      "id": "4eebb3b42f713eff0e760f9abef41572|h2h|Valentin Vacherot|",
-      "mercado": "h2h",
-      "nombre": "Valentin Vacherot",
-      "punto": null,
-      "cuota": 2.2,
-      "pinnacle": 2.3
-     }
-    ],
-    "pinnacle_h2h": {
-     "Holger Rune": 1.68,
-     "Valentin Vacherot": 2.3
-    }
-   },
-   {
     "id": "cc4564f7b80beae29935d650d1ccb4cb",
     "deporte": "tennis_atp_vienna_open",
     "torneo": "ATP Vienna Open",
@@ -1352,6 +1284,16 @@
   }
  ],
  "sala": [
+  {
+   "hora": "2026-10-30T13:01+00:00",
+   "datos": "Los números muestran a claros favoritos en pista dura como Carlos Alcaraz frente a Tommy Paul con un cara a cara de 0-5 y a Alexander Zverev con un 86% de probabilidad ante Arthur Fery. En partidos más ajustados, Jan-Lennard Struff y Nuno Borges comparten un pronóstico de 50% de Elo, mientras que Taylor Fritz y Arthur Fils presentan cuotas muy equilibradas en Basilea. Los apostadores deben tener en cuenta que las estadísticas previas respaldan el dominio de los cabezas de serie en los duelos más desiguales.",
+   "noticias": "Alexander Zverev acapara los titulares al confirmarse su ascenso al número uno del mundo, lo que supone un enorme impulso anímico para sus próximos encuentros. Por otro lado, Kamilla Rakhimova llega con un desgaste físico considerable tras disputar un partido muy largo de tres sets contra Maya Joint en Tokio. En cuanto a Matteo Berrettini, avanza en Viena tras la retirada previa de Cobolli, mientras que el resto de los tenistas mantienen sus agendas sin novedades médicas graves.",
+   "ambiente": "En las redes y la prensa se habla mucho del momento histórico de Zverev como nuevo número uno y de las sorpresas recientes en Basilea. Hay gran expectación por ver si los favoritos logran mantener la concentración tras partidos tan exigentes.",
+   "favorito": "Los favoritos como Carlos Alcaraz y Alexander Zverev tienen una superioridad aplastante en el ranking Elo y en su historial, lo que justifica su condición y reduce el margen para la sorpresa. Apostar por ellos es confiar en la lógica de los números y en su mayor experiencia en rondas finales de torneos importantes.",
+   "contra": "",
+   "conclusion": "Pesa mucho el desgaste físico acumulado en partidos largos y el factor motivacional tras noticias importantes como el número uno de Zverev. Hay que vigilar el cansancio de los jugadores que vienen de disputar duelos muy exigentes antes de tomar cualquier decisión de apuesta.",
+   "partidos": []
+  },
   {
    "hora": "2026-10-30T12:10+00:00",
    "datos": "Los números muestran que los favoritos como Carlos Alcaraz y Alexander Zverev tienen un claro dominio en Elo por superficie con un 22% y 87% respectivamente. En partidos como el de Jan-Lennard Struff y Nuno Borges, el Elo está muy igualado al 49% y 50%. En cuanto al cara a cara, Alcaraz domina con un 5-0 claro frente a Tommy Paul.",
@@ -2214,42 +2156,6 @@
    "partidos": [
     {
      "partido": "P01 (Flavio Cobolli vs Matteo Berrettini)",
-     "id": "3b65bc657a2d7391944d9e343c189c52",
-     "jugadores": [
-      "Flavio Cobolli",
-      "Matteo Berrettini"
-     ],
-     "inicio": "2026-10-29T19:00+00:00",
-     "favorito": "Flavio Cobolli",
-     "vista": "dudoso",
-     "motivo": ""
-    }
-   ]
-  },
-  {
-   "hora": "2026-10-29T16:10+00:00",
-   "datos": "Los números muestran a Novak Djokovic y Ben Shelton con claros porcentajes de favoritismo en pista dura según el Elo, 81% y 91% respectivamente. En el duelo entre Cobolli y Berrettini las opciones están muy niveladas con un Elo del 62% para el italiano. En el cuadro femenino, Diana Shnaider y Maya Joint parten con ligeras ventajas estadísticas frente a Eala y Rakhimova en Tokio.",
-   "noticias": "En el apartado extradeportivo, Matteo Berrettini acapara titulares debido a rumores de un triángulo amoroso que podrían afectar su concentración. Novak Djokovic busca sumar puntos decisivos en Basilea para acercarse a Turín tras superar a Humbert en tres sets. Maya Joint llega con mayor desgaste tras acumular cinco sets en dos partidos durante los últimos tres días.",
-   "ambiente": "En las redes sociales se habla mucho de la presión sobre los favoritos y de las posibles sorpresas en los torneos asiáticos. La motivación por asegurar plazas para las finales de temporada impulsa fuertemente a jugadores como Djokovic.",
-   "favorito": "Los favoritos de hoy cuentan con un Elo muy superior y una jerarquía consolidada en pista dura que hace muy difícil su derrota en rondas avanzadas. La experiencia en partidos a todo o nada suele decantar la balanza de su lado en los momentos clave del encuentro.",
-   "contra": "",
-   "conclusion": "La lógica del Elo y la jerarquía de los cabezas de serie siguen pesando más en la balanza analítica para esta jornada. Sin embargo, conviene vigilar de cerca el desgaste físico por partidos largos previos y las distracciones extradeportivas que salpican a algunos tenistas.",
-   "partidos": [
-    {
-     "partido": "P01 (Novak Djokovic vs Jan-Lennard Struff)",
-     "id": "e17ec974bac4e8094cbe45dfeb471b1e",
-     "jugadores": [
-      "Novak Djokovic",
-      "Jan-Lennard Struff"
-     ],
-     "inicio": "2026-10-29T17:00+00:00",
-     "favorito": "Novak Djokovic",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": false
-    },
-    {
-     "partido": "P03 (Flavio Cobolli vs Matteo Berrettini)",
      "id": "3b65bc657a2d7391944d9e343c189c52",
      "jugadores": [
       "Flavio Cobolli",
@@ -3373,7 +3279,7 @@
    "inicio": "2026-10-30T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.199,
    "elo_general": 0.173,
    "elo_en_superficie": 0.224,
@@ -3431,6 +3337,12 @@
      "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-29 contra Nikoloz Basilashvili, ganó 6-1 7-6",
      "noticias": [
       {
+       "titulo": "Ferrero compara a Rafa Jódar con Carlos Alcaraz y responde: ¿Le entrenará en 2027? - LaSexta",
+       "fuente": "LaSexta",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNG54TjJtRnlDOGFMTThETk11SzRraFI3YnI2aUcyQVJNaVl0M1FaMTE4cE15bEUyaXZzaE0zU3JTX3Jnd2NUUDliTVd2aDd5UHFxaDdiQnEzd3VseUI3Yk90VG1Bc0RhVWREMmZjOG9icENlYlNxelZIUlBBOFJXQkQtN1RTSEdpdGc2LVdlQ29MbkVydWRud3NkVDJEVWdLaGlZVktROHdCQS1zeTFkdU5FVzg0ZEt0S2lUOWNDRFNMLXZQb2c2OTQ2STN1ZG9kWU56SnFrMURPSEEyNGN0UXVzSXdvd9IB5gFBVV95cUxQNHFBZHZGTkRPcmV2ejlWaURxMkZVVko1Tm83SzJGQzU2SFpmc3dwNVZtTzBEUjNRLUE5SEhSV0did014djMzcHU1ZUxJY1loa2FaOUJ0TTYwN0J0NmFYTDNzZWdQWm9YbHZJN3V6eVFFcTVyUHFrdXhfYTRSUUN2LWhNQ0dnQjc5ZEFNUEJLQ1duNzc0eVhXaW55MVRybEVoZVJJODdJQWJaQlNIN2k3dktPYl9vVTFRZVJ2Z0pILTlZaEd4SVU3U1duNUdibVRNYTNGQ2d1X3lhemJxZWhPQTdyQ2xxQQ?oc=5"
+      },
+      {
        "titulo": "A qué hora juega Alcaraz hoy contra Tommy Paul y dónde ver su partido en el ATP 500 de Viena 2026 por TV y en directo - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-10-30",
@@ -3441,12 +3353,6 @@
        "fuente": "Diez Minutos ES",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG82aDNiSTVkRl9LTlNHTDNnaGhKVTd1NUh1SHM5NFJnd1NhRzF0Z09xamRkV2t6R0k3QlhUQjd1bXdpSHZSbVRJb05CWnJzTmxmUFZjZVVqNHh1NW81RjlvV25MUkNxWlhoTXJtLS1hdlMtM2FUelh0cnNRTzhvT0c3UnExNDV3OF9nLTBDR2NIS0poUGR3LXA4dHB6MVJyMkxJZXFfSzRHck5Nc3BmenlDRkNVcUFWalhyYnRUMmtJdTJVa2FBVUJfSWU?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Tommy Paul, horario y dónde ver hoy los cuartos de final del ATP 500 de Viena 2026 - La Razón",
-       "fuente": "La Razón",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQWhhR2hrTXNRYU1ia3RvVzl4bE94dHp6Yk4td1JoNGpIOUgzWk9hbjhkNExERkJsZGNXNFdFZk5zWkQyUTZYMldmcmtoT1FrVDBIQmZaY0dEUkdnOFYxV3JHUjR1MG9uQkQtVTVJdzhQZ1htRzlLc1ZMc2FqUzE2UmxnM25iSVpJWlRhWGd0Ukl3d2pVT1dCNUthYm45MjdQczU3ZGR6RGprVnZ4WlZudDN4UFJ5Mk1XZkxuOTB4UnR2MndBWEo1X2RiRVo4dm9vcVZiZGxBbUUxMnlCTk1yU2hEVC3SAfgBQVVfeXFMTUNRVUVVZS16cmluc05NTTEzcmNaT2hfT1R6VHZnQ19KTHpSc3g2UmpzSkZhdDRoNXRxU1M2ZDhzQkNnTjZUdkdkTlBlQUtwaU1UbzNnSDViWHgyWXFoMkcxRDZ2ZHJrV0FKamtkdVg5YXdhcThBSUxDWURMengzOEl0WEROelFhUnpadFVMZ1lNamlBanJ5cjhRRXZRM09CQmx6cUJ3d19LcnRZbHdDcWFCd0dkamE1b1p4b3BlUTFaQ3hmdUtoYTFtM2d3akpxWVM1eVNTcVBfVWIyOHJZcHpHekhoYmQ4ZC15N0I4cmgxU01jc29HTWM?oc=5"
       }
      ]
     }
@@ -3461,7 +3367,7 @@
    "inicio": "2026-10-30T14:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.426,
    "elo_general": 0.399,
    "elo_en_superficie": 0.452,
@@ -3549,7 +3455,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -3585,10 +3491,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUEhzaEdDSW9zSGJ5NkpuQmhYaFk1VWhsdzhfdlplTlM5VnJxLV9NUnRuOFRoZ1dwTTlCUXRqUGtlbThXa3pJLW5uQ1o3UFZMblhHY2JUV0FnemlfVVQ2aUpUelE0NFhhTl9EbTZSdGtKWWktcWtxMHRNZkRHMlozLXh5QXRmc042UHJEelk5OHFFMkEyekdhVTVNMmRRcW95MnppdnQzNmNRcTlobzYzTW5fMHJaZzNvcHowa2xFOU1KUmlqM3ZV?oc=5"
       },
       {
-       "titulo": "Zverev se asegura el ascenso al número uno del mundo tras su victoria en Viena - Yahoo",
-       "fuente": "Yahoo",
+       "titulo": "Zverev lidera el ranking de victorias del ATP Tour en 2026 - Industria del Tenis",
+       "fuente": "Industria del Tenis",
        "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMW9WREM0QUN0anpRdWNSWkN1SEpFaU1lNktONUxnYmViM0ZuOVcwaXRpMnY4bHZqX3VpX2lWbVAycEh3UnVCZkw1WWNyU0pid01zcUh2TktiQzZaYklwNTFPZUtJdk5ucF9yWlJocTZBOG5fWEVfNHVIZ0dvSlh3UUw1U1Y0R1N0M3cwVnZ1ekY5VER0djBlcmtkQTZpQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04Qjd4MU5uaXdsOWIyZlJTWlF4ZHBERnZ4SFc2eDNRNnhmeFJXd1o3VkJNWTNLeTJON0N3dWRWa0V6NFFEXy0wMkIxNTF1WEFUdDRVXw?oc=5"
       }
      ]
     },
@@ -3637,7 +3543,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -3725,7 +3631,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -3813,7 +3719,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -3901,7 +3807,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
+   "actualizado": "2026-10-30T13:01+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3925,6 +3831,12 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
+      },
+      {
        "titulo": "WTA Tokyo - L. Fernandez vs. K. Rakhimova: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
        "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-10-30",
@@ -3935,12 +3847,6 @@
        "fuente": "www.metrolibre.com",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkVvVFVleFJ2STY4X1JtUmRFQ1B6aWxFOEdBbWRuVkxQSDBLdWN6LVhGdGRDNU1IUE93by16aHI0OFVNdzl3a2tPSExPX1J3NGR5aTBtYkd0aHVNRzVBcDdMY08zUGtJd3JrNFdQQmVtYzN2a0hnb253OThvYk81SWdFTEx3WGR1VzdnajZMYnBmdlNWQU1hT3ZmZFppcTVLdXBjYS1sT2x4YnJubVBadkJ1TDhTZw?oc=5"
-      },
-      {
-       "titulo": "Rybakina withdraws from Tokyo, Fernandez advances to semifinals - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUNMVzlSNm1oQi1MbWJmTS1qaERSeDl3QjQ4aThWZTNITFRGVEpUaVNTVnpEV2d3Q1pzLXZ5NmNSUS1yRG1QcFRybE9remNiTnMzNVp1eGxVcWQ2alNUZmNQZ1Bta19iZy1LYWN3bE0xT2NlUFRNd01hU3lIUU9HSHhrTzlpNVlZUDFnUDg4cjgzMUtwOFowcHkwb1BWMHVreTJR?oc=5"
       }
      ]
     },
@@ -3959,6 +3865,12 @@
      "cansancio": "2 partidos, 6 sets y 64 juegos en 3 días; el último el 2026-10-30 contra Maya Joint, ganó 7-5 5-7 6-1 (partido largo)",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
+      },
+      {
        "titulo": "La número uno del mundo sorprende a los aficionados al tenis con un anuncio inesperado - Prensa Mercosur",
        "fuente": "Prensa Mercosur",
        "fecha": "2026-10-30",
@@ -3969,12 +3881,6 @@
        "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1pES3VoVV9KS2ZLV3dYSlV1aHdfTUpyUkluNkZRUFl5V0FIb3EzeVNjVTVGMGRGX3k0d0NUUGxfVlpQaE81bjZackVsNzZjUE1mYlFMRU5IZThSRHRIVVRJRDQ2Nkh3eUpKOU82dVA0RzVoYmtXUTMtV3dpdjVyalYzTVpXcWVEaEU1R0pIZnByZ0dJM3Bsa2ltS1JJekRMTWxqNnJmSk5TRzhVR3Zv?oc=5"
-      },
-      {
-       "titulo": "Kamilla Rakhimova vs Maya Joint · Quarterfinal · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnpTYjNSaWVXbnNDTjZ5VmRZU2lVTEt6cXFBcG4yNzlZZEdibkhoT2pUS1RxSHlyUm4yYUliRlBvcUlmX1hOTWVTeUlGY1psanBFUmoxLU11SGZ1T2hTNUp6cUJPejluN2cwMXozYVFSNUw2d3hKWi1mQjlRNWF0UFVwcGNpNDEtZ3BJeXc5STl2bFhrX3pwTGMyazEycW56NmRPTW10Z3ozZw?oc=5"
       }
      ]
     }
