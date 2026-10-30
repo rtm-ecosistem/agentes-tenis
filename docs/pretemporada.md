@@ -1,7 +1,7 @@
 # Pretemporada simulada
 
-Antes de empezar en serio, los analistas repasan día a día los partidos ya jugados entre el 1 de julio y el
-28 de octubre de 2026. Así llegan a la oficina con reglas, lecciones y una biblioteca hechas.
+Antes de empezar en serio, los analistas repasan día a día los partidos ya jugados de 2026 (del 1 de enero al
+25 de octubre). Así llegan a la oficina con reglas, lecciones y una biblioteca hechas.
 
 ## Qué se simula
 

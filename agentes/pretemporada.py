@@ -26,7 +26,7 @@ import requests
 
 from agentes import aprendizaje, boletos, ciclo, comun, config, elo as elo_mod, emociones, ia as ia_mod, oficina, prompts, resultados, sala
 
-DESDE, HASTA = "2026-07-01", "2026-10-25"
+DESDE, HASTA = "2026-01-01", "2026-10-25"
 MAX_PARTIDOS = 16            # como mucho 16 partidos al día (los de mejor ranking), como una cartelera normal
 CASAS = (("B365", "bet365", "Bet365"), ("Avg", "media", "Media del mercado"))
 NOTA = ("PRETEMPORADA: estás entrenando con días ya jugados. Decide igual que si fuera hoy. De esos días no hay "
