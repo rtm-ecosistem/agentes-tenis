@@ -16,7 +16,8 @@ Antes de empezar en serio, los analistas repasan día a día los partidos ya jug
   noticias, y no hay despidos.
 - **Coste:** no gasta créditos de cuotas. Usa la IA ligera (`MODELO_PRETEMPORADA`, por defecto la de
   `MODELO_GEMINI_LIGERO`), unas 10 llamadas por día simulado. Si la IA se queda sin cuota, ese día se repite
-  en la siguiente ejecución.
+  en la siguiente ejecución. Para no dejar sin cuota a la oficina, va despacio (una llamada cada 8 s) y como
+  mucho hace 300 llamadas al día (`LLAMADAS_PRETEMPORADA_DIA`; la ligera gratuita da 500).
 
 ## Los ficheros de tennis-data
 

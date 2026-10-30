@@ -258,7 +258,7 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
         return progreso
     if ia is None:
         # Más despacio que la oficina (como mucho 10 llamadas por minuto) para no quitarle sitio
-        ia_mod.ESPACIO_GEMINI[config.MODELO_PRETEMPORADA] = max(ia_mod.ESPACIO_GEMINI.get(config.MODELO_PRETEMPORADA, 0), 6.0)
+        ia_mod.ESPACIO_GEMINI[config.MODELO_PRETEMPORADA] = max(ia_mod.ESPACIO_GEMINI.get(config.MODELO_PRETEMPORADA, 0), 8.0)
         ia = ia_mod.Claude() if config.PROVEEDOR_IA == "claude" else ia_mod.Gemini(config.MODELO_PRETEMPORADA, respaldo=None)
     contador = Contador(ia)
     hoy_real = comun.ahora().date().isoformat()

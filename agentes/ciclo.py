@@ -427,7 +427,8 @@ def cierre(momento: datetime | None = None, api=None, ia=None, avisos=None) -> N
     if n:
         oficina.anotar(estado, momento, f"🏁 {n} apuestas liquidadas.")
     try:
-        noticias_hora(estado, apuestas, api, lambda: ia or ia_mod.crear_ia(prisa=True), momento)
+        # Cada hora va con la ligera: la principal solo da 20 peticiones al día y se guardan para las 9:00
+        noticias_hora(estado, apuestas, api, lambda: ia or ia_mod.crear_ia(ligera=True), momento)
     except Exception as e:  # noqa: BLE001
         print(f"Noticias de la hora: {e}")
     if api:
