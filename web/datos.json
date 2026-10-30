@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T22:10+00:00",
+ "actualizado": "2026-10-30T23:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-10-30T08:00+00:00",
   "prevision_mes": 1,
   "noticias": {
-   "dia": "2026-10-30",
+   "dia": "2026-10-31",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.385,
+      "pct": 0.386,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.327,
+      "pct": 0.324,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.288,
+      "pct": 0.29,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
@@ -1098,6 +1098,31 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-30T23:10+00:00",
+   "datos": "El modelo de Elo otorga un 71 por ciento de probabilidad de victoria a Leylah Fernandez frente a Kamilla Rakhimova sobre pista dura, respaldado por un Elo general superior de 1878 frente a 1719. El mercado sitúa las opciones de Fernandez en un 72 por ciento, mientras que el cara a cara previo muestra una ventaja de 0-1 favorable a Rakhimova. Ambas jugadoras llegan con una dinámica similar de cuatro victorias en sus últimos cinco encuentros en esta superficie.",
+   "noticias": "En el apartado físico, Leylah Fernandez ha acumulado 39 juegos en dos partidos durante los últimos tres días, mientras que Kamilla Rakhimova llega con un desgaste notable tras disputar 64 juegos en seis sets, incluyendo un duro partido reciente de tres mangas contra Maya Joint. Las noticias sobre la retirada de Rybakina en el torneo no afectan directamente a este enfrentamiento de semifinales. No constan lesiones graves ni problemas físicos reportados para ninguna de las dos contendientes.",
+   "ambiente": "La prensa destaca la emoción de esta semifinal en el torneo WTA de Tokio con dos tenistas muy luchadoras buscando la gran final. Las redes sociales reflejan expectación por ver si Fernandez logra imponer su mayor frescura física frente a la resistencia demostrada por Rakhimova.",
+   "favorito": "Leylah Fernandez es la clara favorita gracias a su superioridad en el Elo de pista dura (71 por ciento), un ranking superior y, sobre todo, un menor desgaste físico al haber cedido muchos menos juegos en sus encuentros recientes en Tokio. Su cuota de 1.33 refleja con justicia su condición de dominadora en los pronósticos previos basándose en su solidez sobre esta superficie y el histórico de nuestro acierto con los favoritos que alcanza el 75 por ciento de efectividad reciente en la sala de análisis.",
+   "contra": "",
+   "conclusion": "El factor clave a vigilar es la recuperación física de Rakhimova tras su maratón de tres sets frente a la mayor frescura con la que llega Leylah Fernandez. Pesa mucho la diferencia en el Elo y el menor cansancio acumulado, por lo que habrá que observar si el desgaste pasa factura a la no favorita desde el inicio del encuentro.",
+   "partidos": [
+    {
+     "partido": "P01 (Leylah Fernandez vs Kamilla Rakhimova)",
+     "id": "c1a54362fbf98df45c2174b84374dd0c",
+     "jugadores": [
+      "Leylah Fernandez",
+      "Kamilla Rakhimova"
+     ],
+     "inicio": "2026-10-31T03:00+00:00",
+     "favorito": "Leylah Fernandez",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
    "hora": "2026-10-30T19:00+00:00",
    "datos": "Los números muestran un claro favoritismo para Leylah Fernandez con un Elo en pista dura del 71% frente al 1719 de Rakhimova y un Elo general superior de 1878. A pesar de que Rakhimova lidera el cara a cara previo por 1-0, su dinámica reciente en pista dura muestra más irregularidad. El mercado respalda a Fernandez otorgándole un 72% de opciones de victoria.",
    "noticias": "En el torneo de Tokio se destaca la retirada de Rybakina por molestias físicas, mientras que Kamilla Rakhimova llega con más desgaste físico tras disputar un partido largo de tres sets y 64 juegos en los últimos tres días. Por su parte, Leylah Fernandez ha gestionado mejor sus esfuerzos con solo 39 juegos en el mismo periodo.",
@@ -1797,125 +1822,14 @@
    ],
    "importantes": [],
    "graves": []
-  },
-  {
-   "hora": "2026-10-30T09:32+00:00",
-   "datos": "Los números muestran diferencias claras de Elo en varios duelos, como el 86% de probabilidad para Alexander Zverev frente a Arthur Fery o el 71% para Leylah Fernandez ante Kamilla Rakhimova. En otros encuentros la igualdad es notable, destacando el 43% de Taylor Fritz frente al 43% de Arthur Fils y el 50% exacto entre Jan-Lennard Struff y Nuno Borges. Las estadísticas de cara a cara reflejan un dominio absoluto de Carlos Alcaraz sobre Tommy Paul por 5-0.",
-   "noticias": "Alexander Zverev llega con la máxima atención mediática tras confirmarse su ascenso al número uno del mundo y celebrarlo en Viena. En Tokio, Leylah Fernandez avanza directamente a semifinales tras la retirada por lesión de la cabeza de serie Elena Rybakina. Por su parte, Kamilla Rakhimova llega con un tremendo desgaste tras disputar un partido maratoniano de tres sets y 64 juegos.",
-   "ambiente": "En las redes y la prensa se habla mucho del hito de Zverev como nuevo número uno y de las sorpresas recientes en Basilea. La motivación está por las nubes en los jugadores que buscan asegurar plazas para las finales de temporada.",
-   "favorito": "Apoyar a los favoritos sólidos como Alexander Zverev (cuota 1.11) o Carlos Alcaraz (cuota 1.29) se sustenta en su superioridad abrumadora de Elo y su experiencia en rondas finales. Su jerarquía en pista dura los convierte en opciones muy lógicas para avanzar sin sorpresas mayores en Viena y Basilea respectivamente.",
-   "contra": "",
-   "conclusion": "Pesa mucho el desgaste físico acumulado en partidos largos y los cambios emocionales tras alcanzar hitos en el ranking. Hay que vigilar de cerca la fatiga de Rakhimova en Tokio y la resiliencia de los no favoritos ante cuotas tan atractivas.",
-   "partidos": [
-    {
-     "partido": "P01 (Adrian Mannarino vs Daniil Medvedev)",
-     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-     "jugadores": [
-      "Adrian Mannarino",
-      "Daniil Medvedev"
-     ],
-     "inicio": "2026-10-30T12:30+00:00",
-     "favorito": "Daniil Medvedev",
-     "vista": "sorpresa",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P02 (Holger Rune vs Valentin Vacherot)",
-     "id": "4eebb3b42f713eff0e760f9abef41572",
-     "jugadores": [
-      "Holger Rune",
-      "Valentin Vacherot"
-     ],
-     "inicio": "2026-10-30T13:00+00:00",
-     "favorito": "Holger Rune",
-     "vista": "dudoso",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
-     "id": "cc4564f7b80beae29935d650d1ccb4cb",
-     "jugadores": [
-      "Tommy Paul",
-      "Carlos Alcaraz"
-     ],
-     "inicio": "2026-10-30T14:00+00:00",
-     "favorito": "Carlos Alcaraz",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P04 (Taylor Fritz vs Arthur Fils)",
-     "id": "f8b84ec001244b604176bf0bc6f21f16",
-     "jugadores": [
-      "Taylor Fritz",
-      "Arthur Fils"
-     ],
-     "inicio": "2026-10-30T14:10+00:00",
-     "favorito": "Arthur Fils",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P05 (Alexander Zverev vs Arthur Fery)",
-     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
-     "jugadores": [
-      "Alexander Zverev",
-      "Arthur Fery"
-     ],
-     "inicio": "2026-10-30T16:30+00:00",
-     "favorito": "Alexander Zverev",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
-     "id": "e01a16acf3ce50a010714d85d5ff6374",
-     "jugadores": [
-      "Jerome Kym",
-      "Jiri Lehecka"
-     ],
-     "inicio": "2026-10-30T17:00+00:00",
-     "favorito": "Jiri Lehecka",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
-     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-     "jugadores": [
-      "Jan-Lennard Struff",
-      "Nuno Borges"
-     ],
-     "inicio": "2026-10-30T18:10+00:00",
-     "favorito": "Jan-Lennard Struff",
-     "vista": "dudoso",
-     "motivo": "",
-     "acierto": null
-    },
-    {
-     "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
-     "id": "94ca068a80e8dbb6686fd96d402bde0e",
-     "jugadores": [
-      "Matteo Berrettini",
-      "Alex de Minaur"
-     ],
-     "inicio": "2026-10-30T19:00+00:00",
-     "favorito": "Alex de Minaur",
-     "vista": "favorito",
-     "motivo": "",
-     "acierto": null
-    }
-   ],
-   "importantes": [],
-   "graves": []
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-30T23:10+00:00",
+   "texto": "📰 Noticias nuevas de Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-30T18:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
@@ -2059,11 +1973,6 @@
   {
    "hora": "2026-10-30T00:10+00:00",
    "texto": "🏁 1 apuestas liquidadas.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T23:10+00:00",
-   "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -3557,7 +3466,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T19:00+00:00",
+   "actualizado": "2026-10-30T23:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3581,6 +3490,12 @@
      "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-29 contra Elise Mertens, ganó 6-2 7-6",
      "noticias": [
       {
+       "titulo": "Resumen del Leylah Fernandez - Kamilla Rakhimova - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkw4WVJ3a1RLcVNXOFdGNjBsQklzWFdDSk4wTkZWTDhFcTc4RW1CY2hCdWp2ck0tbG00a3oteXE1VDc5ZHN6SlJZOVhpNWZSVFNIY01BNzlBRzdNelV5NkxJRlJfSllKSEtUcWFBMjNCY2dMTVJudldfbGY3Z3BWa0xQY3BQWDZIeERsUDUxOGJiMU10QW9SVFo0dFBmRlIwZlgyOGo3aVlQMWxS?oc=5"
+      },
+      {
        "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
@@ -3591,12 +3506,6 @@
        "fuente": "CR Hoy",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjNxQmVJcGJ6NzV1NWUtdW9PWktEbDlncVZkMjVKLUpvWTJudkl1RHN0bXdaRURBVFk1Y3d5c0pnYkR0UG5vdklOdHl3R2VXNFJwcFg2RWtscFdjRmVOQmhnbmY5OWx4MVNjWnRwdF9aTjkzY2tJT0IwRDhUQW9mSE5B?oc=5"
-      },
-      {
-       "titulo": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno - El Periódico",
-       "fuente": "El Periódico",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWhERi1nQ0VXWlJsenFkdE4xcTkzdWhKclRjYlNOeE41OGhTcV9DTGxuRzB6Z0ZITUtxbmhqZkVBZ3hxUjE3RVg2akxZNVJrU2JVaWdSMlc3Q3hqZENQSlBHWFJMOHJEcC1DVjhPbWpNNWItY2kxUVNHNWZLVmtWeldkLW5vZ0xhWGNhbG81NkwwdEIzMGJhX21n0gGaAUFVX3lxTFBFbjdMd05EMDdmWGw4a2pJdHFET1pyLUZKc0dXLWJLREotWjREZmdLNTFaRGN0Z2J6djNvM05JeHJMTzdMOW1zTERHaVFNa1RXYVlUcElJWGw1QjZEZ3NEVWRaM2dCR0FCOF9PVDFNRDNIN0dOMFRwMmRVWXRGSmNOaXBHV21hZU14MmJSVWl4d0JGdGVTNkRfS3c?oc=5"
       }
      ]
     },
@@ -3615,6 +3524,12 @@
      "cansancio": "2 partidos, 6 sets y 64 juegos en 3 días; el último el 2026-10-30 contra Maya Joint, ganó 7-5 5-7 6-1 (partido largo)",
      "noticias": [
       {
+       "titulo": "Resumen del Leylah Fernandez - Kamilla Rakhimova - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkw4WVJ3a1RLcVNXOFdGNjBsQklzWFdDSk4wTkZWTDhFcTc4RW1CY2hCdWp2ck0tbG00a3oteXE1VDc5ZHN6SlJZOVhpNWZSVFNIY01BNzlBRzdNelV5NkxJRlJfSllKSEtUcWFBMjNCY2dMTVJudldfbGY3Z3BWa0xQY3BQWDZIeERsUDUxOGJiMU10QW9SVFo0dFBmRlIwZlgyOGo3aVlQMWxS?oc=5"
+      },
+      {
        "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
@@ -3625,12 +3540,6 @@
        "fuente": "Prensa Mercosur",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDRwS01ZOFZqaXI4ejNnSWFVcTRyS1NfRDVfcGZTejYzeWxrcVBmWFRQSFBpVndfNTRjOGVTSDN0ZUJWWHhOQ0FaYmZ6cXNweURSV0hLOVlXM2VBV2Joa3Etai1mMWtOeWFmM0JScGNaYUFkZlprS1A2VkFSM1dpanFLZDRCSVdHT29FbklrTGxNYWl2eDVIWUZmV0JUbUt0UFdZUGRwcWEtOUZ3c2NDVk5PUzR5NElDT1lnTlFtV0I4WjA?oc=5"
-      },
-      {
-       "titulo": "WTA Tokyo - L. Fernandez vs. K. Rakhimova: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1pES3VoVV9KS2ZLV3dYSlV1aHdfTUpyUkluNkZRUFl5V0FIb3EzeVNjVTVGMGRGX3k0d0NUUGxfVlpQaE81bjZackVsNzZjUE1mYlFMRU5IZThSRHRIVVRJRDQ2Nkh3eUpKOU82dVA0RzVoYmtXUTMtV3dpdjVyalYzTVpXcWVEaEU1R0pIZnByZ0dJM3Bsa2ltS1JJekRMTWxqNnJmSk5TRzhVR3Zv?oc=5"
       }
      ]
     }

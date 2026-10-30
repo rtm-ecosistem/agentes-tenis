@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T22:10+00:00",
+ "actualizado": "2026-10-30T23:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16283,19 +16283,18 @@
    "nombre": "Jazmin Ortenzi",
    "circuito": "WTA",
    "elo": {
-    "all": 1555.0,
-    "hard": 1584.4,
+    "all": 1525.3,
+    "hard": 1552.9,
     "clay": 1503.1,
     "grass": 1434.3
    },
    "n": {
-    "all": 33,
-    "hard": 30,
+    "all": 34,
+    "hard": 31,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-06-18 P hard vs Elizara Yaneva",
     "2026-06-23 P grass vs Katherine Sebov",
     "2026-08-24 P hard vs Himeno Sakatsume",
     "2026-09-09 P hard vs Mary Stoiana",
@@ -16304,7 +16303,8 @@
     "2026-10-12 G hard vs Barbora Palicova",
     "2026-10-14 P hard vs Polona Hercog",
     "2026-10-26 G hard vs Victoria Bosio",
-    "2026-10-28 G hard vs Lourdes Ayala"
+    "2026-10-28 G hard vs Lourdes Ayala",
+    "2026-10-30 P hard vs Alice Tubello"
    ]
   },
   "camila torres murcia|m": {
@@ -23659,19 +23659,18 @@
    "nombre": "Alice Tubello",
    "circuito": "ATP",
    "elo": {
-    "all": 1548.5,
-    "hard": 1569.2,
+    "all": 1582.1,
+    "hard": 1604.6,
     "clay": 1438.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 23,
-    "hard": 21,
+    "all": 24,
+    "hard": 22,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-10 P hard vs Leolia Jeanjean",
     "2026-08-25 P hard vs Priscilla Hon",
     "2026-09-08 P hard vs Barbora Palicova",
     "2026-09-15 G hard vs Vivian Wolff",
@@ -23680,7 +23679,8 @@
     "2026-09-22 G hard vs Dalila Spiteri",
     "2026-09-24 P hard vs Julia Grabher",
     "2026-10-26 G hard vs Laura Samson",
-    "2026-10-28 G hard vs Luna Maria Cinalli"
+    "2026-10-28 G hard vs Luna Maria Cinalli",
+    "2026-10-30 G hard vs Jazmin Ortenzi"
    ]
   },
   "vickery|s": {
@@ -91004,7 +91004,11 @@
   "maria|t~strakhova|v": [
    1,
    0
+  ],
+  "ortenzi|j~tubello|a": [
+   0,
+   1
   ]
  },
- "propios": 10440
+ "propios": 10441
 }

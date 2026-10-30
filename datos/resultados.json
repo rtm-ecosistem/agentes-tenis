@@ -236549,6 +236549,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Jazmin Ortenzi",
+    "Alice Tubello"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
