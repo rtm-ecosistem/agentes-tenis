@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T10:10+00:00",
+ "actualizado": "2026-10-30T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -18144,19 +18144,18 @@
    "nombre": "Alexandra Eala",
    "circuito": "WTA",
    "elo": {
-    "all": 1814.6,
-    "hard": 1766.0,
+    "all": 1797.8,
+    "hard": 1749.8,
     "clay": 1428.3,
     "grass": 1727.8
    },
    "n": {
-    "all": 65,
-    "hard": 47,
+    "all": 66,
+    "hard": 48,
     "clay": 4,
     "grass": 14
    },
    "ultimos": [
-    "2026-08-18 P hard vs Amanda Anisimova",
     "2026-09-02 G hard vs Mary Stoiana",
     "2026-09-03 G hard vs Oleksandra Oliynykova",
     "2026-09-05 P hard vs Iva Jovic",
@@ -18165,7 +18164,8 @@
     "2026-10-19 G hard vs Diane Parry",
     "2026-10-22 P hard vs Diana Shnaider",
     "2026-10-26 G hard vs Mika Stojsavljevic",
-    "2026-10-28 G hard vs Talia Gibson"
+    "2026-10-28 G hard vs Talia Gibson",
+    "2026-10-30 P hard vs Diana Shnaider"
    ]
   },
   "parks|a": {
@@ -22908,19 +22908,18 @@
    "nombre": "Diana Shnaider",
    "circuito": "ATP",
    "elo": {
-    "all": 1909.8,
-    "hard": 1900.2,
+    "all": 1927.3,
+    "hard": 1917.0,
     "clay": 1779.9,
     "grass": 1431.0
    },
    "n": {
-    "all": 58,
-    "hard": 43,
+    "all": 59,
+    "hard": 44,
     "clay": 11,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-04 P hard vs Ekaterina Alexandrova",
     "2026-10-13 G hard vs Katie Boulter",
     "2026-10-14 G hard vs Yulia Putintseva",
     "2026-10-15 G hard vs Karolina Muchova",
@@ -22929,7 +22928,8 @@
     "2026-10-22 G hard vs Alexandra Eala",
     "2026-10-23 G hard vs Iva Jovic",
     "2026-10-24 P hard vs Elena Rybakina",
-    "2026-10-28 G hard vs Aliaksandra Sasnovich"
+    "2026-10-28 G hard vs Aliaksandra Sasnovich",
+    "2026-10-30 G hard vs Alexandra Eala"
    ]
   },
   "ostapenko|j": {
@@ -90118,7 +90118,7 @@
   ],
   "eala|a~shnaider|d": [
    0,
-   1
+   2
   ],
   "cerundolo|f~chidekh|c": [
    1,
@@ -90965,5 +90965,5 @@
    0
   ]
  },
- "propios": 10421
+ "propios": 10422
 }
