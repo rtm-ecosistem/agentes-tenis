@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T00:10+00:00",
+ "actualizado": "2026-10-30T01:42+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -19756,19 +19756,18 @@
    "nombre": "Diletta Cherubini",
    "circuito": "WTA",
    "elo": {
-    "all": 1410.7,
-    "hard": 1415.7,
+    "all": 1400.6,
+    "hard": 1404.6,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 13,
-    "hard": 13,
+    "all": 14,
+    "hard": 14,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2025-12-02 P hard vs Panna Udvardy",
     "2026-02-03 P hard vs Darja Semenistaja",
     "2026-04-28 G hard vs Ekaterina Reyngold",
     "2026-04-30 P hard vs Guo Hanyu",
@@ -19777,7 +19776,8 @@
     "2026-07-12 P hard vs Gina Feistel",
     "2026-09-13 G hard vs Isabella Shinikova",
     "2026-09-14 P hard vs Aran Teixido Garcia",
-    "2026-10-27 G hard vs Mell Reasco Gonzalez"
+    "2026-10-27 G hard vs Mell Reasco Gonzalez",
+    "2026-10-30 P hard vs Bianca Andreescu"
    ]
   },
   "cayetano|e": {
@@ -27957,19 +27957,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1743.0,
-    "hard": 1729.5,
+    "all": 1750.2,
+    "hard": 1738.0,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 38,
-    "hard": 30,
+    "all": 39,
+    "hard": 31,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-13 P hard vs Cristina Bucsa",
     "2026-10-06 G hard vs Alana Smith",
     "2026-10-08 G hard vs Mariam Bolkvadze",
     "2026-10-09 P hard vs Anna Blinkova",
@@ -27978,7 +27977,8 @@
     "2026-10-16 G hard vs Lucrezia Stefanini",
     "2026-10-17 G hard vs Lucie Havlickova",
     "2026-10-18 G hard vs Dominika Salkova",
-    "2026-10-27 G hard vs Katherine Hui"
+    "2026-10-27 G hard vs Katherine Hui",
+    "2026-10-30 G hard vs Diletta Cherubini"
    ]
   },
   "kumru|a": {
@@ -90939,7 +90939,11 @@
   "colmegna|m~maria|t": [
    0,
    1
+  ],
+  "andreescu|b~cherubini|d": [
+   1,
+   0
   ]
  },
- "propios": 10415
+ "propios": 10416
 }
