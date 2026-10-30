@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T04:10+00:00",
+ "actualizado": "2026-10-30T05:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17546,19 +17546,18 @@
    "nombre": "Alicia Herrero Linana",
    "circuito": "WTA",
    "elo": {
-    "all": 1658.6,
-    "hard": 1661.4,
+    "all": 1688.5,
+    "hard": 1689.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 25,
-    "hard": 25,
+    "all": 26,
+    "hard": 26,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-10 G hard vs Ane Mintegi Del Olmo",
     "2026-09-11 G hard vs Eva Bennemann",
     "2026-09-12 P hard vs Alevtina Ibragimova",
     "2026-09-15 G hard vs Lucia Cortez Llorca",
@@ -17567,7 +17566,8 @@
     "2026-09-19 G hard vs Yasmine Kabbaj",
     "2026-09-20 P hard vs Clara Burel",
     "2026-09-22 P hard vs Barbora Palicova",
-    "2026-10-27 G hard vs Victoria Rodriguez"
+    "2026-10-27 G hard vs Victoria Rodriguez",
+    "2026-10-30 G hard vs Tamara Zidansek"
    ]
   },
   "pieri|j": {
@@ -22000,19 +22000,18 @@
    "nombre": "Tamara Zidansek",
    "circuito": "WTA",
    "elo": {
-    "all": 1635.2,
-    "hard": 1613.7,
+    "all": 1611.2,
+    "hard": 1589.0,
     "clay": 1558.1,
     "grass": 1580.5
    },
    "n": {
-    "all": 47,
-    "hard": 35,
+    "all": 48,
+    "hard": 36,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-28 G hard vs Bianca Andreescu",
     "2026-08-31 P hard vs Maria Timofeeva",
     "2026-09-07 P hard vs Tessa Johanna Brockmann",
     "2026-09-22 P hard vs Kimberly Birrell",
@@ -22021,7 +22020,8 @@
     "2026-10-15 G grass vs Joelle Lilly Sophie Steur",
     "2026-10-16 G grass vs Rebeka Masarova",
     "2026-10-17 P grass vs Laura Samson",
-    "2026-10-27 G hard vs Katrina Scott"
+    "2026-10-27 G hard vs Katrina Scott",
+    "2026-10-30 P hard vs Alicia Herrero Linana"
    ]
   },
   "isabell guillen|g": {
@@ -90947,7 +90947,11 @@
   "joint|m~rakhimova|k": [
    0,
    1
+  ],
+  "herrero linana|a~zidansek|t": [
+   1,
+   0
   ]
  },
- "propios": 10417
+ "propios": 10418
 }

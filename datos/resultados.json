@@ -236042,6 +236042,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alicia Herrero Linana",
+    "Tamara Zidansek"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
