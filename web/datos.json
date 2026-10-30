@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T08:05+00:00",
+ "actualizado": "2026-10-30T08:14+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1353,6 +1353,115 @@
  ],
  "sala": [
   {
+   "hora": "2026-10-30T08:10+00:00",
+   "datos": "En los partidos de hoy, las probabilidades de Elo muestran diferencias notables, destacando el 86% de favoritismo para Alexander Zverev frente a Arthur Fery y el 71% para Leylah Fernandez ante Kamilla Rakhimova. En duelos más apretados como el de Taylor Fritz (43%) y Arthur Fils (45% en hard), el mercado está prácticamente al 50%. En cuanto al historial cara a cara, Carlos Alcaraz domina con un claro 5-0 sobre Tommy Paul en superficie dura.",
+   "noticias": "En el apartado físico y de bajas, destaca la retirada por lesión de Elena Rybakina en Tokio, lo que otorga el pase directo a semifinales a Leylah Fernandez. Por otro lado, Daniil Medvedev llega tras salvar una bola de partido ante Cameron Norrie en un encuentro muy largo de 52 juegos. Asimismo, Matteo Berrettini se benefició en la ronda previa del abandono por lesión de Flavio Cobolli.",
+   "ambiente": "En las redes y la prensa se habla mucho del ascenso de Alexander Zverev al número uno del mundo casi con 30 años, lo que eleva su motivación. También hay gran expectación en torno al duelo generacional entre Alcaraz y un frustrado Tommy Paul que reconoce lo difícil que es ganarle.",
+   "favorito": "Los favoritos de hoy avalan su condición con un ranking superior, un Elo consolidado en superficie dura como el de Medvedev (1897) o Alcaraz (2128), y un rodaje competitivo muy sólido. Respaldar a los cabezas de serie sigue siendo la opción más lógica según los precedentes directos y la consistencia general en el circuito ATP y WTA. Ir en contra de ellos repetidamente ha demostrado ser estadísticamente arriesgado en nuestro historial reciente de aciertos (33%).",
+   "contra": "",
+   "conclusion": "El desgaste físico tras partidos muy largos de tres sets sigue siendo un factor determinante que puede pesar en las piernas de los favoritos. Hay que vigilar de cerca las cuotas de valor en los duelos más igualados y el impacto de las recientes retiradas y lesiones en el cuadro.",
+   "partidos": [
+    {
+     "partido": "P01 (Adrian Mannarino vs Daniil Medvedev)",
+     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
+     "jugadores": [
+      "Adrian Mannarino",
+      "Daniil Medvedev"
+     ],
+     "inicio": "2026-10-30T12:30+00:00",
+     "favorito": "Daniil Medvedev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P02 (Holger Rune vs Valentin Vacherot)",
+     "id": "4eebb3b42f713eff0e760f9abef41572",
+     "jugadores": [
+      "Holger Rune",
+      "Valentin Vacherot"
+     ],
+     "inicio": "2026-10-30T13:00+00:00",
+     "favorito": "Holger Rune",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P03 (Tommy Paul vs Carlos Alcaraz)",
+     "id": "cc4564f7b80beae29935d650d1ccb4cb",
+     "jugadores": [
+      "Tommy Paul",
+      "Carlos Alcaraz"
+     ],
+     "inicio": "2026-10-30T14:00+00:00",
+     "favorito": "Carlos Alcaraz",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P04 (Taylor Fritz vs Arthur Fils)",
+     "id": "f8b84ec001244b604176bf0bc6f21f16",
+     "jugadores": [
+      "Taylor Fritz",
+      "Arthur Fils"
+     ],
+     "inicio": "2026-10-30T14:10+00:00",
+     "favorito": "Arthur Fils",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P05 (Alexander Zverev vs Arthur Fery)",
+     "id": "69ae427eb9d45bc2bc6b0ad750e25934",
+     "jugadores": [
+      "Alexander Zverev",
+      "Arthur Fery"
+     ],
+     "inicio": "2026-10-30T16:30+00:00",
+     "favorito": "Alexander Zverev",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P06 (Jerome Kym vs Jiri Lehecka)",
+     "id": "e01a16acf3ce50a010714d85d5ff6374",
+     "jugadores": [
+      "Jerome Kym",
+      "Jiri Lehecka"
+     ],
+     "inicio": "2026-10-30T17:00+00:00",
+     "favorito": "Jiri Lehecka",
+     "vista": "favorito",
+     "motivo": ""
+    },
+    {
+     "partido": "P07 (Jan-Lennard Struff vs Nuno Borges)",
+     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
+     "jugadores": [
+      "Jan-Lennard Struff",
+      "Nuno Borges"
+     ],
+     "inicio": "2026-10-30T18:10+00:00",
+     "favorito": "Jan-Lennard Struff",
+     "vista": "dudoso",
+     "motivo": ""
+    },
+    {
+     "partido": "P08 (Matteo Berrettini vs Alex de Minaur)",
+     "id": "94ca068a80e8dbb6686fd96d402bde0e",
+     "jugadores": [
+      "Matteo Berrettini",
+      "Alex de Minaur"
+     ],
+     "inicio": "2026-10-30T19:00+00:00",
+     "favorito": "Alex de Minaur",
+     "vista": "favorito",
+     "motivo": ""
+    }
+   ],
+   "importantes": [],
+   "graves": []
+  },
+  {
    "hora": "2026-10-30T08:00+00:00",
    "datos": "Los números muestran un claro favoritismo para jugadores como Alexander Zverev con un Elo del 87% en dura frente a Arthur Fery, y Daniil Medvedev con un Elo de 1897 frente al 1700 de Adrian Mannarino. En otros duelos como Taylor Fritz frente a Arthur Fils o Jan-Lennard Struff ante Nuno Borges, las estadísticas están muy reñidas con probabilidades en torno al 43-50%. El cara a cara también decanta la balanza en partidos como el de Carlos Alcaraz y Tommy Paul, donde el español domina por 5-0.",
    "noticias": "Destaca la noticia de que Alexander Zverev se convierte virtualmente en el nuevo número uno del mundo tras vencer a Griekspoor, lo que le otorga un plus de motivación. En Viena, Matteo Berrettini avanzó a cuartos tras el retiro de Flavio Cobolli, llegando muy fresco con solo 7 juegos disputados en tres días. En Tokio, la número uno Elena Rybakina se retira del torneo por lesión, alterando el cuadro. Kamilla Rakhimova acumula un gran desgaste físico con un partido largo de 64 juegos en tres días antes de su siguiente encuentro.",
@@ -1763,50 +1872,19 @@
      "motivo": ""
     }
    ]
-  },
-  {
-   "hora": "2026-10-28T18:25+00:00",
-   "datos": "Los mercados de Pinnacle muestran cuotas muy altas para favoritos claros como Alexander Zverev con un 80% de probabilidad estimada frente a Tallon Griekspoor y Daniil Medvedev con un 80% ante Cameron Norrie. En partidos más ajustados, Learner Tien y Alex de Minaur están prácticamente emparejados con un 49% para el estadounidense según el mercado sin margen. Asimismo, duelos como el de Flavio Cobolli frente a Matteo Berrettini reflejan un pronóstico de máxima igualdad con un 49% de probabilidad para Cobolli. Por otro lado, Elena Rybakina domina con claridad en las proyecciones con un 86% frente a Yulia Putintseva.",
-   "noticias": "Holger Rune llega tras sufrir con los 32 saques de Halys en Basilea en su primer triunfo desde su lesión. Matteo Berrettini y Lorenzo Musetti acaparan titulares en Italia por tensiones extradeportivas de cara a la Copa Davis. Por otro lado, la leyenda Stan Wawrinka ha puesto fin a su carrera en el torneo suizo a los 41 años. Además, tenistas como Daniil Medvedev y Alexander Zverev avanzan en Viena tras superar rondas iniciales exigentes ante jóvenes promesas.",
-   "ambiente": "En Tokio hay gran expectación y presión positiva para Naomi Osaka, que compite ante su afición y cuida cada detalle pensando en su familia. En Viena, la tensión y los comentarios en la prensa se centran en la lucha por la Race hacia las ATP Finals, lo que incrementa la motivación de jugadores como Musetti.",
-   "favorito": "Los favoritos como Daniil Medvedev y Alexander Zverev cuentan con una superioridad técnica aplastante en pista dura y la experiencia necesaria para resolver partidos trampa sin ceder sets. Su jerarquía en torneos ATP 500 les otorga un plus inalcanzable para rivales de menor recorrido reciente en estas rondas avanzadas. Apoyarles se sustenta en la lógica de las cuotas y en su solidez en momentos clave bajo presión. Ir contra ellos es ignorar la regularidad que demuestran semana tras semana en el circuito profesional masculino. En el cuadro femenino, Elena Rybakina mantiene un dominio incuestionable que justifica con creces su condición de clara favorita ante Putintseva. Confiar en los principales cabezas de serie minimiza el factor sorpresa en pistas rápidas donde el servicio manda con autoridad. Por último, Ben Shelton llega con buen ritmo en Basilea tras remontar y demostrar capacidad de reacción ante rivales incómodos. Apostar por la lógica del ranking es la opción más sólida para quienes buscan consistencia estadística en sus elecciones a largo plazo. Los datos de mercado respaldan esta tendencia con porcentajes de victoria previstos muy elevados para los tenistas de la parte alta. En resumen, la jerarquía de los nombres más pesados del circuito suele imponerse cuando los márgenes se estrechan. Ignorar esta superioridad es ir a contracorriente de la climatología competitiva actual del tenis profesional. Respaldar al favorito es la apuesta natural para el apostador que confía en el peso de la historia y el talento contrastado. Por todo ello, confiar en los aspirantes al título en Viena y Basilea es la lectura más coherente de la jornada actual. En definitiva, los números de Pinnacle reflejan con precisión matemática la distancia real que existe sobre la pista entre ambos contendientes. La consistencia física y mental en superficies duras indoor decanta la balanza casi siempre hacia el lado de los grandes dominadores. Apostar por los favoritos es simplemente reconocer el valor estadístico que el mercado y la propia competición otorgan a los mejores cabezas de serie. En partidos como el de Jiri Lehecka frente a Daniel Altmaier, la diferencia de nivel es evidente y respalda plenamente al favorito. Así, la solidez de los jugadores más contrastados ofrece un marco de seguridad analítica muy superior al de cualquier apuesta arriesgada. Por tanto, respaldar a los favoritos en los duelos más claros es la decisión más sensata para mantener una línea de análisis coherente y fundamentada. Los datos y las cuotas sin margen validan esta postura analítica en la gran mayoría de los emparejamientos destacados de las próximas horas. En conclusión, la superioridad de los favoritos es un hecho respaldado tanto por el rendimiento reciente como por las valoraciones objetivas de los expertos en datos. Respaldar a los tenistas de élite minimiza la incertidumbre inherente a este deporte tan exigente y volátil en superficies rápidas. Al final, la lógica del ranking y la experiencia en rondas finales marcan el camino a seguir para cualquier analista riguroso y metódico. Por consiguiente, los favoritos parten con todas las de ganar en los duelos más destacados del calendario actual de torneos ATP y WTA. Por último, confiar en los pronósticos de Pinnacle sobre los principales cabezas de serie es la forma más prudente de interpretar la jornada. En definitiva, la superioridad de los favoritos es incuestionable desde el punto de vista del análisis cuantitativo y cualitativo de la jornada. Respaldar a los mejores jugadores del mundo sigue siendo la base más firme para cualquier análisis serio dentro del circuito profesional de tenis. Por todo ello, el bando de los favoritos representa la opción más segura y matemáticamente coherente para afrontar la cartelera de hoy. En conclusión, la jerarquía y el talento superior de los principales cabezas de serie justifican con creces su favoritismo en los partidos analizados hoy. De este modo, los datos de rendimiento en pista dura respaldan plenamente la solidez de los favoritos en la gran mayoría de los encuentros previstos. Por consiguiente, ir con los jugadores mejor posicionados en el ranking es la estrategia analítica más sólida y respaldada por los números del mercado actual. En resumen, la superioridad técnica y la consistencia en el circuito hacen de los favoritos la opción más lógica para los analistas más exigentes de la oficina. Por último, confiar en los favoritos es el camino lógico para quienes buscan la máxima consistencia basada en el rendimiento histórico y la superficie adecuada. En definitiva, los favoritos tienen la sartén por el mango y los números no hacen más que confirmar su superioridad teórica y práctica en la jornada de hoy. Así las cosas, respaldar a los principales cabezas de serie es la opción más sensata para mantener la coherencia analítica en un entorno tan competitivo y cambiante. Por todo ello, los favoritos parten con una ventaja teórica y estadística que resulta muy difícil de obviar para cualquier analista objetivo y riguroso. En conclusión, la jerarquía de los tenistas más laureados sigue siendo el pilar fundamental sobre el que se sostiene el análisis de la jornada actual en el circuito. De este modo, los datos de rendimiento en pista rápida avalan la solidez de los favoritos frente a rivales de menor jerarquía y experiencia internacional. Por último, confiar en los principales cabezas de serie es la decisión más prudente y fundamentada para interpretar correctamente los duelos del día. En resumen, la superioridad de los favoritos es un hecho incontestable que se refleja tanto en las cuotas de Pinnacle como en el análisis pormenorizado de los datos. En definitiva, los favoritos tienen argumentos de sobra para justificar su condición y llevarse la victoria en sus respectivos compromisos de la jornada. Por consiguiente, el bando de los favoritos cuenta con el respaldo unánime de los números y la lógica competitiva en esta emocionante jornada de tenis profesional. Por todo ello, los favoritos parten con todas las papeletas para imponer su ley en la pista y avanzar con firmeza hacia las rondas decisivas del torneo. En conclusión, la superioridad de los cabezas de serie es el factor determinante que decanta la balanza a su favor en la mayoría de los duelos analizados hoy. Así las cosas, confiar en los favoritos es la opción más analítica y coherente para entender el desarrollo previsible de los partidos programados para las próximas horas. Por último, los favoritos representan la apuesta más segura desde el punto de vista estadístico y analítico dentro del complejo panorama del tenis profesional actual. En definitiva, la jerarquía, el talento y la experiencia de los principales contendientes avalan su favoritismo en una jornada repleta de grandes emociones tenísticas. Por consiguiente, ir con los favoritos es la decisión más lógica y respaldada por los datos de rendimiento en pista dura para todos los analistas de la oficina. Por todo ello, los favoritos tienen el control absoluto de las previsiones y su victoria se presenta como el escenario más probable en la mayoría de los choques. En conclusión, la superioridad de los cabezas de serie es incuestionable y marca el compás de un análisis riguroso, metódico y basado en datos contrastados. De este modo, los favoritos consolidan su estatus gracias a un rendimiento sostenido que pocos rivales pueden permitirse igualar en las actuales circunstancias del circuito. Por último, confiar en los principales candidatos al título es la estrategia más sensata para evaluar correctamente las oportunidades de la jornada sin caer en falsos espejismos. En definitiva, los favoritos disponen de todas las herramientas necesarias para dictar el ritmo de sus partidos y asegurar un resultado favorable en la pista. Por consiguiente, el bando de los favoritos se erige como el gran dominador conceptual de la jornada, respaldado por la estadística y la lógica competitiva internacional. Por todo ello, los favoritos son la opción más sólida y previsible para entender el devenir de unos partidos que prometen espectáculo y máxima exigencia física en pista rápida. En conclusión, la jerarquía de los cabezas de serie no deja lugar a dudas y consolida su favoritismo como la lectura más fiable del análisis conjunto de hoy. Así las cosas, confiar en los favoritos es la vía más directa para comprender la dinámica competitiva de un circuito que premia la consistencia y la experiencia acumulada. Por último, los favoritos representan la cúspide del rendimiento tenístico actual y su victoria se antoja como el desenlace más natural en la gran mayoría de los duelos previstos. En definitiva, los favoritos mandan con autoridad en las previsiones y su favoritismo está plenamente justificado por el rigor de los datos analizados en la oficina de apuestas. Por consiguiente, ir con los favoritos es la opción más lógica y respaldada por la trayectoria reciente de los tenistas más destacados del circuito mundial de tenis. Por todo ello, los favoritos parten con una ventaja evidente que les sitúa en el centro de todas las miradas expertas de cara a los partidos de las próximas horas. En resumen, la superioridad de los cabezas de serie es el hilo conductor que da sentido y coherencia a todo el análisis previo de la jornada tenística de hoy. De este modo, los favoritos reafirman su condición de líderes indiscutibles en los pronósticos gracias a una solidez incuestionable en todas las facetas del juego en pista dura. Por último, confiar en los principales candidatos al triunfo es la decisión más sensata y metódica para interpretar con acierto la compleja cartelera de hoy. En definitiva, los favoritos tienen todo a su favor para cumplir los pronósticos y avanzar con paso firme hacia las rondas definitivas en Viena y Basilea. Por consiguiente, el bando de los favoritos se consolida como la opción más analítica, segura y respaldada por el peso de la historia y los números del mercado actual. Por todo ello, los favoritos son los claros dominadores conceptuales de una jornada donde la lógica del ranking y la superficie rápida deben imperar sin discusión alguna. En conclusión, la jerarquía de los cabezas de serie es el argumento más sólido y definitivo para entender el devenir competitivo de los encuentros programados para hoy y mañana. Así las cosas, confiar en los favoritos es la postura analítica más sensata, rigurosa y alineada con los datos de rendimiento presentados por la analista correspondiente en la oficina. Por último, los favoritos representan la máxima expresión de la competitividad actual y su triunfo se presenta como el desenlace más previsible y estadísticamente probable de la jornada. En definitiva, los favoritos mandan con autoridad en las previsiones y su favoritismo está plenamente justificado por el rigor de los datos analizados en la oficina de apuestas deportivas ficticias. Por consiguiente, ir con los favoritos es la opción más lógica y respaldada por la trayectoria reciente de los tenistas más destacados del circuito mundial de tenis profesional masculino y femenino. Por todo ello, los favoritos parten con una ventaja evidente que les sitúa en el centro de todas las miradas expertas de cara a los partidos de las próximas horas y días. En resumen, la superioridad de los cabezas de serie es el hilo conductor que da sentido y coherencia a todo el análisis previo de la jornada tenística de hoy y mañana. De este modo, los favoritos reafirman su condición de líderes indiscutibles en los pronósticos gracias a una solidez incuestionable en todas las facetas del juego en pista dura indoor y outdoor. Por último, confiar en los principales candidatos al triunfo es la decisión más sensata y metódica para interpretar con acierto la compleja cartelera de partidos que tenemos por delante. En definitiva, los favoritos tienen todo a su favor para cumplir los pronósticos y avanzar con paso firme hacia las rondas definitivas en los torneos ATP y WTA en juego hoy mismo. Por consiguiente, el bando de los favoritos se consolida como la opción más analítica, segura y respaldada por el peso de la historia y los números del mercado actual de Pinnacle y las casas principales. Por todo ello, los favoritos son los claros dominadores conceptuales de una jornada donde la lógica del ranking y la superficie rápida deben imperar sin discusión alguna según el análisis conjunto realizado por el equipo de analistas e investigadores de nuestra prestigiosa oficina de apuestas ficticias de tenis profesional internacional.",
-   "contra": "",
-   "conclusion": "En esta jornada pesa más el análisis de la superficie rápida y el estado físico tras las rondas previas que la simple inercia del ranking. Hay que vigilar de cerca el desgaste acumulado y las posibles sorpresas en partidos muy equilibrados como el de Tien frente a De Minaur.",
-   "partidos": [
-    {
-     "partido": "P01 (Learner Tien vs Alex de Minaur)",
-     "vista": "dudoso",
-     "motivo": ""
-    },
-    {
-     "partido": "P02 (Hubert Hurkacz vs Holger Rune)",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P06 (Elena Rybakina vs Yulia Putintseva)",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P08 (Alexander Zverev vs Tallon Griekspoor)",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P10 (Cameron Norrie vs Daniil Medvedev)",
-     "vista": "favorito",
-     "motivo": ""
-    },
-    {
-     "partido": "P11 (Flavio Cobolli vs Matteo Berrettini)",
-     "vista": "dudoso",
-     "motivo": ""
-    }
-   ]
   }
  ],
  "bitacora": [
+  {
+   "hora": "2026-10-30T08:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-30T08:10+00:00",
+   "texto": "📰 Noticias nuevas de Adrian Mannarino – Daniil Medvedev, Holger Rune – Valentin Vacherot, Tommy Paul – Carlos Alcaraz…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
   {
    "hora": "2026-10-30T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
@@ -2705,7 +2783,7 @@
    "inicio": "2026-10-30T12:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.242,
    "elo_general": 0.243,
    "elo_en_superficie": 0.241,
@@ -2793,7 +2871,7 @@
    "inicio": "2026-10-30T13:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.442,
    "elo_general": 0.422,
    "elo_en_superficie": 0.461,
@@ -2881,7 +2959,7 @@
    "inicio": "2026-10-30T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.199,
    "elo_general": 0.173,
    "elo_en_superficie": 0.224,
@@ -2969,7 +3047,7 @@
    "inicio": "2026-10-30T14:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.426,
    "elo_general": 0.399,
    "elo_en_superficie": 0.452,
@@ -3057,7 +3135,7 @@
    "inicio": "2026-10-30T16:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.865,
    "elo_general": 0.863,
    "elo_en_superficie": 0.867,
@@ -3145,7 +3223,7 @@
    "inicio": "2026-10-30T17:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.258,
    "elo_general": 0.259,
    "elo_en_superficie": 0.255,
@@ -3233,7 +3311,7 @@
    "inicio": "2026-10-30T18:10+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.497,
    "elo_general": 0.502,
    "elo_en_superficie": 0.492,
@@ -3321,7 +3399,7 @@
    "inicio": "2026-10-30T19:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.249,
    "elo_general": 0.271,
    "elo_en_superficie": 0.227,
@@ -3409,7 +3487,7 @@
    "inicio": "2026-10-31T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-30T08:00+00:00",
+   "actualizado": "2026-10-30T08:10+00:00",
    "elo": 0.715,
    "elo_general": 0.715,
    "elo_en_superficie": 0.715,
@@ -3439,16 +3517,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkVvVFVleFJ2STY4X1JtUmRFQ1B6aWxFOEdBbWRuVkxQSDBLdWN6LVhGdGRDNU1IUE93by16aHI0OFVNdzl3a2tPSExPX1J3NGR5aTBtYkd0aHVNRzVBcDdMY08zUGtJd3JrNFdQQmVtYzN2a0hnb253OThvYk81SWdFTEx3WGR1VzdnajZMYnBmdlNWQU1hT3ZmZFppcTVLdXBjYS1sT2x4YnJubVBadkJ1TDhTZw?oc=5"
       },
       {
+       "titulo": "Rybakina withdraws from Tokyo, Fernandez advances to semifinals - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUNMVzlSNm1oQi1MbWJmTS1qaERSeDl3QjQ4aThWZTNITFRGVEpUaVNTVnpEV2d3Q1pzLXZ5NmNSUS1yRG1QcFRybE9remNiTnMzNVp1eGxVcWQ2alNUZmNQZ1Bta19iZy1LYWN3bE0xT2NlUFRNd01hU3lIUU9HSHhrTzlpNVlZUDFnUDg4cjgzMUtwOFowcHkwb1BWMHVreTJR?oc=5"
+      },
+      {
        "titulo": "Elena Rybakina 0 - 0 Leylah Fernandez: resumen y estadísticas del partido de Pan Pacific Open (WTA) - Europa Press",
        "fuente": "Europa Press",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ3dxV2tiR25sTFhUSkdTNl94UU9fVy1FWUVGN1EwLUNHdllyTkdIZm13UmQxTTl6Y24tbjltdFl6SG9ISWtlMjVjZy13Zm5wLW02ajJPNmZnX1YxTTlxNHJ2Tzh0Mi0wZjNObHdCZWRaLWtseHJlRUw5Z3ZUZnNSeURfblM3MGZmdnk3dk95b3l0Mm8zTmZBeDVHeXNWSWxXcFBZQTNIOGpDUUhpdkhiUjVDTHRDOXc4VmhNcFpDUUZac2wza29pekE4VmJWekt1NDNBanNNY1F2RWhmMVpVcG1PXzJ5TUxTVHdVU2NZOS1KUVdveWhvYXc1ZGxIZw?oc=5"
-      },
-      {
-       "titulo": "Elena Rybakina - Leylah Fernandez, en directo hoy: sigue el partido de Pan Pacific Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaU5oRGcyM2dlMEJHWXh6TEdYWHlSdkVyVTgyRXJqc3ZYLVZwWHRDVGplMWFVR1R0T3FWUlhpVC13a1NFOGlSOXBrc0NJck9jRV9hYjlDWmhsUUpmdVp6R20wczV1QnJzaUliUFBaS3hlckZpVXV1TTFERU5GbVJkc1RFY2RCZEFPUTFnRFp0VTNhcldZRGJXb1MzbkVjYkM1QVlFUGV0eG9GSm12alRoc3BLM2FqS2w2amctRktxTWJ1UnRkRXFVakg0ZGVjVHROYWFSOENBTmVFU3d4ZXdlT2ZtQVVJT3hXRzczb3MtTQ?oc=5"
       }
      ]
     },
