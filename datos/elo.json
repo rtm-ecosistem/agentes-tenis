@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T21:10+00:00",
+ "actualizado": "2026-10-30T22:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17440,19 +17440,18 @@
    "nombre": "Valeriya Strakhova",
    "circuito": "WTA",
    "elo": {
-    "all": 1496.6,
-    "hard": 1521.5,
+    "all": 1481.0,
+    "hard": 1498.9,
     "clay": 1438.4,
     "grass": 1500.0
    },
    "n": {
-    "all": 14,
-    "hard": 13,
+    "all": 15,
+    "hard": 14,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2025-12-01 G hard vs Tania Varela",
     "2025-12-02 P hard vs Mell Reasco Gonzalez",
     "2026-02-15 P hard vs Dalayna Hewitt",
     "2026-02-21 P hard vs Miriana Tona",
@@ -17461,7 +17460,8 @@
     "2026-10-26 G hard vs Gabriela Vilar",
     "2026-10-26 G hard vs Amelie Van Impe",
     "2026-10-27 G hard vs Sofia Costoulas",
-    "2026-10-29 G hard vs Polona Hercog"
+    "2026-10-29 G hard vs Polona Hercog",
+    "2026-10-30 P hard vs Tatjana Maria"
    ]
   },
   "papamichail|d": {
@@ -20773,19 +20773,18 @@
    "nombre": "Tatjana Maria",
    "circuito": "WTA",
    "elo": {
-    "all": 1734.1,
-    "hard": 1678.6,
+    "all": 1743.8,
+    "hard": 1694.3,
     "clay": 1510.6,
     "grass": 1618.2
    },
    "n": {
-    "all": 57,
-    "hard": 40,
+    "all": 58,
+    "hard": 41,
     "clay": 6,
     "grass": 11
    },
    "ultimos": [
-    "2026-07-29 P hard vs Renata Zarazua",
     "2026-08-01 G hard vs Isabella Marton",
     "2026-08-04 P hard vs Catherine McNally",
     "2026-08-13 G hard vs Dayana Yastremska",
@@ -20794,7 +20793,8 @@
     "2026-09-03 P hard vs Nikola Bartunkova",
     "2026-09-14 P hard vs Taylor Townsend",
     "2026-10-27 G hard vs Carlota Garibay Romero",
-    "2026-10-29 G hard vs Martina Colmegna"
+    "2026-10-29 G hard vs Martina Colmegna",
+    "2026-10-30 G hard vs Valeriya Strakhova"
    ]
   },
   "tikhonova|a": {
@@ -91000,7 +91000,11 @@
   "riera|j~sierra|s": [
    1,
    0
+  ],
+  "maria|t~strakhova|v": [
+   1,
+   0
   ]
  },
- "propios": 10439
+ "propios": 10440
 }

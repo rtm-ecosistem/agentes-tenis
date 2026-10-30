@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T21:18+00:00",
+ "actualizado": "2026-10-30T22:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.383,
+      "pct": 0.385,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.33,
+      "pct": 0.327,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.287,
+      "pct": 0.288,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
