@@ -1,0 +1,82 @@
+name: Pretemporada simulada
+
+on:
+  # Avanza unos días cada 3 horas, solo si se activó (ver docs/pretemporada.md). Al terminar pasa lo aprendido
+  # a la oficina. La simulación se guarda en la rama «pretemporada», que Vercel no publica.
+  schedule:
+    - cron: "40 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: "Días a simular en esta ejecución"
+        type: number
+        default: 8
+      activar:
+        description: "Desde ahora sigue sola cada 3 horas hasta terminar"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pretemporada
+  cancel-in-progress: false
+
+jobs:
+  tarea:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      PYTHONUNBUFFERED: "1"
+      RAMA: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Recuperar la simulación
+        run: |
+          mkdir -p datos/pretemporada
+          if git clone -q --depth 1 --branch pretemporada "$RAMA" /tmp/sim; then cp /tmp/sim/*.json datos/pretemporada/; else echo "Primera vez"; fi
+      - name: Simular
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PROVEEDOR_IA: ${{ vars.PROVEEDOR_IA }}
+          MODELO_GEMINI: ${{ vars.MODELO_GEMINI }}
+          MODELO_GEMINI_LIGERO: ${{ vars.MODELO_GEMINI_LIGERO }}
+          MODELO_PRETEMPORADA: ${{ vars.MODELO_PRETEMPORADA }}
+          MODELO_CLAUDE: ${{ vars.MODELO_CLAUDE }}
+        run: >-
+          python -m agentes.pretemporada --dias ${{ inputs.dias || 8 }}
+          ${{ github.event_name == 'schedule' && '--solo-si-activa' || '' }}
+          ${{ inputs.activar && '--activar' || '' }}
+      # Al terminar, una sola vez: lo aprendido pasa a la oficina (con la firma del dueño, para que Vercel publique)
+      - name: Pasar lo aprendido a la oficina
+        run: |
+          if ! python -c "import json,sys; p=json.load(open('datos/pretemporada/progreso.json')); sys.exit(0 if p.get('terminada') and not p.get('trasladada') else 1)"; then
+            echo "Aún no ha terminado"; exit 0
+          fi
+          git config user.name "rtm-ecosistem"
+          git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
+          git pull -q --rebase origin main
+          python -m agentes.pretemporada --trasladar
+          git add datos/estado.json web
+          git commit -m "Llegan de la pretemporada simulada"
+          git push || (git pull --rebase origin main && git push)
+      - name: Guardar la simulación en su rama
+        if: always()
+        run: |
+          cd datos/pretemporada
+          [ -f progreso.json ] || exit 0
+          printf '{"git": {"deploymentEnabled": false}}\n' > vercel.json
+          git init -q -b pretemporada
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Pretemporada $(date -u +%Y-%m-%dT%H:%M)"
+          git push -q --force "$RAMA" pretemporada

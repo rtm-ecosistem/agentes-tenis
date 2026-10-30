@@ -108,7 +108,7 @@ PRACTICA = ("APUESTA DE PRÁCTICA: estamos en la temporada de prueba y hay que a
 
 
 def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo: dict, datos_noticias: dict,
-                  sala_txt: str, ia, momento: datetime, nota: str = "") -> None:
+                  sala_txt: str, ia, momento: datetime, nota: str = "", practica: bool | None = None) -> None:
     """Deciden los tres especialistas y después la Manager, que lee lo que han propuesto."""
     extras = {"estadistico": "DATOS PARA TU MÉTODO (Elo por superficie frente al mercado)\n" + prompts.datos_estadisticos(cartelera, elo),
               "reportero": "NOTICIAS DE LOS JUGADORES DE HOY\n" + prompts.datos_noticias(cartelera, datos_noticias),
@@ -117,7 +117,8 @@ def decidir_todos(estado: dict, apuestas: list[dict], cartelera: list[dict], elo
     extras = {k: v + "\n\n" + cansancio for k, v in extras.items()}
     if nota:
         extras = {k: nota + "\n\n" + v for k, v in extras.items()}
-    practica = config.APUESTA_PRACTICA and not nota  # solo en la decisión de las 9:00
+    if practica is None:
+        practica = config.APUESTA_PRACTICA and not nota  # solo en la decisión de las 9:00
     for bote_id, bote in config.BOTES.items():
         if not bote["activo"] or not cartelera:
             continue
