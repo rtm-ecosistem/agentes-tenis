@@ -2,7 +2,7 @@
 
 Cada día de la simulación se hace lo mismo que en la oficina, pero con datos del pasado y sin gastar créditos de
 cuotas: la cartelera sale de tennis-data.co.uk (partidos reales con la cuota de Bet365, o la media del mercado, y
-la de Pinnacle), la sala escribe su informe, los analistas deciden (con la apuesta de práctica), por la noche se
+como referencia la de cierre de Pinnacle o, desde febrero de 2026 que tennis-data ya no la da, la de Betfair Exchange), la sala escribe su informe, los analistas deciden (con la apuesta de práctica), por la noche se
 liquida con el resultado real y cada uno escribe su lección; los domingos, la reflexión y la biblioteca.
 No hay noticias de esos días ni despidos. El Elo y el cansancio de cada día solo usan partidos anteriores.
 
@@ -26,11 +26,12 @@ import requests
 
 from agentes import aprendizaje, boletos, ciclo, comun, config, elo as elo_mod, emociones, ia as ia_mod, oficina, prompts, resultados, sala
 
-DESDE, HASTA = "2026-07-01", "2026-10-28"
+DESDE, HASTA = "2026-01-01", "2026-10-25"
 MAX_PARTIDOS = 16            # como mucho 16 partidos al día (los de mejor ranking), como una cartelera normal
 CASAS = (("B365", "bet365", "Bet365"), ("Avg", "media", "Media del mercado"))
 NOTA = ("PRETEMPORADA: estás entrenando con días ya jugados. Decide igual que si fuera hoy. De esos días no hay "
-        "noticias, solo hay cuotas del ganador y la cuota de Pinnacle es la de cierre.")
+        "noticias y solo hay cuotas del ganador. La cuota que pone «Pinnacle» es la de cierre del mercado más afinado "
+        "de esos días (Pinnacle o, si falta, Betfair Exchange).")
 
 
 # --- Datos de tennis-data --------------------------------------------------------------------------
@@ -82,7 +83,8 @@ def leer_dias(contenido: bytes, circuito: str) -> list[dict]:
             "sets": sets, "completo": comentario.lower().startswith("complet"), "comentario": comentario,
             "casa": casa[0] if casa else None,
             "cuotas": [_num(v(f, f"{_pre(casa[0])}W")), _num(v(f, f"{_pre(casa[0])}L"))] if casa else None,
-            "pinnacle": [_num(v(f, "PSW")), _num(v(f, "PSL"))],
+            "pinnacle": next(([_num(v(f, f"{pre}W")), _num(v(f, f"{pre}L"))] for pre in ("PS", "BFE")
+                              if _num(v(f, f"{pre}W")) and _num(v(f, f"{pre}L"))), [None, None]),
             "ranking": sum(r if r else 2000 for r in rangos)})
     return partidos
 
