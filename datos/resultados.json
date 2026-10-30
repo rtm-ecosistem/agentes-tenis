@@ -236507,6 +236507,27 @@
     ]
    ],
    "completo": false
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Matteo Berrettini"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
   }
  ]
 }

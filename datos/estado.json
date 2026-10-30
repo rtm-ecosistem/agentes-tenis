@@ -134,7 +134,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -146,9 +147,9 @@
    "revisiones": [],
    "descartes": {
     "ganadas": 1,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 0,
-    "unidades": 2.6
+    "unidades": 1.6
    },
    "temperamento": {
     "euforia": 0.5,
@@ -158,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.35,
+     "envidia": 0.345,
      "sorpresa": 0.4
     },
     "motivos": {
@@ -166,7 +167,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T20:10+00:00",
+    "hora": "2026-10-30T21:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -298,7 +299,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -310,9 +312,9 @@
    "revisiones": [],
    "descartes": {
     "ganadas": 0,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 1,
-    "unidades": 0.0
+    "unidades": -1.0
    },
    "temperamento": {
     "sorpresa": 1.5,
@@ -325,7 +327,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T20:10+00:00",
+    "hora": "2026-10-30T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -443,7 +445,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -455,9 +458,9 @@
    "revisiones": [],
    "descartes": {
     "ganadas": 0,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 0,
-    "unidades": 0.0
+    "unidades": -1.0
    },
    "temperamento": {
     "aburrimiento": 0.6,
@@ -471,7 +474,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T20:10+00:00",
+    "hora": "2026-10-30T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -602,7 +605,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -614,9 +618,9 @@
    "revisiones": [],
    "descartes": {
     "ganadas": 0,
-    "perdidas": 1,
+    "perdidas": 2,
     "nulas": 0,
-    "unidades": -1.0
+    "unidades": -2.0
    },
    "temperamento": {
     "miedo": 1.4,
@@ -630,7 +634,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T20:10+00:00",
+    "hora": "2026-10-30T21:10+00:00",
     "rent": 0.0
    }
   }
@@ -1093,7 +1097,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ]
   },
@@ -1206,7 +1211,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1321,7 +1327,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1436,7 +1443,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1551,7 +1559,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1666,7 +1675,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1781,7 +1791,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1919,7 +1930,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -1995,7 +2007,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -2058,7 +2071,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -2095,7 +2109,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P02 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -2407,7 +2422,10 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
+  "83e3c6b96d11",
   "b355aca280cc",
+  "02e7a13c10a3",
+  "0fe11a0b2380",
   "4270532ec55d",
   "3ebd27c3f5aa",
   "22a3b1e21b3c",
@@ -2415,18 +2433,19 @@
   "527f37d8c4c8",
   "6d2cb10b09f0",
   "fb7a1bdfc607",
+  "2e3b497f7e25",
   "88afdd486e64",
   "7d64ddda314d",
   "f93b54aba27e",
   "48f2775ac858",
   "d55ec95482f6",
   "401af4472e42",
+  "5d9f03546a94",
   "ce95c03092ba",
   "f597079c6631",
   "5df54bac6e66",
   "a6a704e68806",
   "0b6ffcd4969e",
-  "83e3c6b96d11",
   "aebcf8b9a2b2",
   "630eeea63891",
   "cb873c8b2921",
@@ -2461,6 +2480,7 @@
   "60b869baccd8",
   "e102ac252713",
   "5a60bb4e2f1e",
+  "725b76f5cbe5",
   "8a5d14e67bb1",
   "58b85498d933",
   "f85cfdb4fa54",
@@ -2872,6 +2892,7 @@
   "9b7775c9e9c9",
   "6d29ddee43ae",
   "cb64b42eb490",
+  "63a324fde714",
   "8911da18acb8",
   "0a2a9aa3c4f1",
   "0d7c9bde073f",
@@ -3200,18 +3221,12 @@
   "d67b956a2525",
   "a279e1123871",
   "c4f2f082d3b1",
-  "165bd18514df",
-  "7faa78b0c688",
-  "66a20253df5d",
-  "412b9c43fcad",
-  "137f14d86e2b",
-  "d084c17c5e9c",
-  "ba7e455dafb1"
+  "165bd18514df"
  ],
  "sala_aciertos": {
   "favorito": [
-   5,
-   7
+   6,
+   8
   ],
   "sorpresa": [
    0,
@@ -3222,6 +3237,7 @@
    "6822571863f93fa4654e76e114874060",
    "69ae427eb9d45bc2bc6b0ad750e25934",
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
+   "94ca068a80e8dbb6686fd96d402bde0e",
    "cc0834cac355e3a96bf64a85ce003e51",
    "cc4564f7b80beae29935d650d1ccb4cb",
    "d52af5cb645ef831c4dbab0bbaf48dac",
@@ -4730,22 +4746,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 6,
-  "ganadas": 5,
-  "unidades": 0.78,
+  "apuestas": 7,
+  "ganadas": 6,
+  "unidades": 1.22,
   "pendientes": [
-   {
-    "partido": "94ca068a80e8dbb6686fd96d402bde0e",
-    "jugadores": [
-     "Matteo Berrettini",
-     "Alex de Minaur"
-    ],
-    "inicio": "2026-10-30T19:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Alex de Minaur",
-    "punto": null,
-    "cuota": 1.44
-   },
    {
     "partido": "c1a54362fbf98df45c2174b84374dd0c",
     "jugadores": [
@@ -4766,7 +4770,8 @@
    "cc4564f7b80beae29935d650d1ccb4cb",
    "69ae427eb9d45bc2bc6b0ad750e25934",
    "e01a16acf3ce50a010714d85d5ff6374",
-   "e66be09cbf07f4ca7b22ef19c32bcb30"
+   "e66be09cbf07f4ca7b22ef19c32bcb30",
+   "94ca068a80e8dbb6686fd96d402bde0e"
   ]
  }
 }

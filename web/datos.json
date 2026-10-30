@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T20:10+00:00",
+ "actualizado": "2026-10-30T21:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -96,9 +96,9 @@
    ],
    "descartes": {
     "ganadas": 1,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 0,
-    "unidades": 2.6
+    "unidades": 1.6
    },
    "temperamento": {
     "euforia": 0.5,
@@ -270,7 +270,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -337,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.381,
+      "pct": 0.383,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.333,
+      "pct": 0.33,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.286,
+      "pct": 0.287,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
@@ -382,9 +383,9 @@
    "lecciones": null,
    "descartes": {
     "ganadas": 0,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 1,
-    "unidades": 0.0
+    "unidades": -1.0
    },
    "temperamento": {
     "sorpresa": 1.5,
@@ -537,7 +538,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -588,9 +590,9 @@
    "lecciones": null,
    "descartes": {
     "ganadas": 0,
-    "perdidas": 0,
+    "perdidas": 1,
     "nulas": 0,
-    "unidades": 0.0
+    "unidades": -1.0
    },
    "temperamento": {
     "aburrimiento": 0.6,
@@ -737,7 +739,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -795,9 +798,9 @@
    "lecciones": null,
    "descartes": {
     "ganadas": 0,
-    "perdidas": 1,
+    "perdidas": 2,
     "nulas": 0,
-    "unidades": -1.0
+    "unidades": -2.0
    },
    "temperamento": {
     "miedo": 1.4,
@@ -957,7 +960,8 @@
       "seleccion": "Matteo Berrettini",
       "punto": null,
       "cuota": 2.75,
-      "descripcion": "Matteo Berrettini gana el partido"
+      "descripcion": "Matteo Berrettini gana el partido",
+      "puntos": -1.0
      },
      "apuestas": [],
      "rechazos": [],
@@ -1135,7 +1139,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P02 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -1198,7 +1203,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -1274,7 +1280,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -1350,7 +1357,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P05 (Leylah Fernandez vs Kamilla Rakhimova)",
@@ -1551,7 +1559,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1666,7 +1675,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1781,7 +1791,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "sorpresa",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1896,7 +1907,8 @@
      "inicio": "2026-10-30T19:00+00:00",
      "favorito": "Alex de Minaur",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2123,9 +2135,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 6,
-  "aciertos": 0.8333333333333334,
-  "yield": 0.13
+  "apuestas": 7,
+  "aciertos": 0.8571428571428571,
+  "yield": 0.1742857142857143
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -3627,8 +3639,8 @@
  },
  "sala_aciertos": {
   "favorito": [
-   5,
-   7
+   6,
+   8
   ],
   "sorpresa": [
    0,

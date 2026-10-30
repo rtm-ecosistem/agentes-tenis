@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T20:10+00:00",
+ "actualizado": "2026-10-30T21:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1177,19 +1177,18 @@
    "nombre": "Alex de Minaur",
    "circuito": "ATP",
    "elo": {
-    "all": 1858.8,
-    "hard": 1852.3,
+    "all": 1866.6,
+    "hard": 1859.7,
     "clay": 1759.4,
     "grass": 1730.1
    },
    "n": {
-    "all": 215,
-    "hard": 157,
+    "all": 216,
+    "hard": 158,
     "clay": 39,
     "grass": 19
    },
    "ultimos": [
-    "2026-09-02 G hard vs Andrea Guerrieri",
     "2026-09-03 P hard vs Botic van de Zandschulp",
     "2026-10-01 G hard vs Mariano Navone",
     "2026-10-03 G hard vs Quentin Halys",
@@ -1198,7 +1197,8 @@
     "2026-10-13 G hard vs Karen Khachanov",
     "2026-10-15 P hard vs Alexander Zverev",
     "2026-10-26 G hard vs Tomas Machac",
-    "2026-10-28 G hard vs Learner Tien"
+    "2026-10-28 G hard vs Learner Tien",
+    "2026-10-30 G hard vs Matteo Berrettini"
    ]
   },
   "fritz|t": {
@@ -8164,19 +8164,18 @@
    "nombre": "Matteo Berrettini",
    "circuito": "ATP",
    "elo": {
-    "all": 1686.7,
-    "hard": 1639.8,
+    "all": 1676.9,
+    "hard": 1629.9,
     "clay": 1833.2,
     "grass": 1630.6
    },
    "n": {
-    "all": 119,
-    "hard": 75,
+    "all": 120,
+    "hard": 76,
     "clay": 31,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-14 G hard vs Titouan Droguet",
     "2026-08-15 P hard vs Jiri Lehecka",
     "2026-08-31 G hard vs Stan Wawrinka",
     "2026-09-02 P hard vs Mariano Navone",
@@ -8185,7 +8184,8 @@
     "2026-10-07 G hard vs Aleksandar Kovacevic",
     "2026-10-09 P hard vs Brandon Nakashima",
     "2026-10-20 P hard vs Kyrian Jacquet",
-    "2026-10-26 G hard vs Tomas Martin Etcheverry"
+    "2026-10-26 G hard vs Tomas Martin Etcheverry",
+    "2026-10-30 P hard vs Alex de Minaur"
    ]
   },
   "blanch|d": {
@@ -51747,7 +51747,7 @@
   ],
   "berrettini|m~de minaur|a": [
    1,
-   1
+   2
   ],
   "dimitrov|g~nakashima|b": [
    1,
@@ -91002,5 +91002,5 @@
    0
   ]
  },
- "propios": 10438
+ "propios": 10439
 }
