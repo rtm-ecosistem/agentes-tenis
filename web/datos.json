@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T16:10+00:00",
+ "actualizado": "2026-10-30T17:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -976,74 +976,6 @@
   "actualizado": "2026-10-30T08:00+00:00",
   "partidos": [
    {
-    "id": "69ae427eb9d45bc2bc6b0ad750e25934",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T16:30+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Arthur Fery"
-    ],
-    "opciones": [
-     {
-      "id": "69ae427eb9d45bc2bc6b0ad750e25934|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.11,
-      "pinnacle": 1.13
-     },
-     {
-      "id": "69ae427eb9d45bc2bc6b0ad750e25934|h2h|Arthur Fery|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fery",
-      "punto": null,
-      "cuota": 6.5,
-      "pinnacle": 6.88
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.13,
-     "Arthur Fery": 6.88
-    }
-   },
-   {
-    "id": "e01a16acf3ce50a010714d85d5ff6374",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-30T17:00+00:00",
-    "jugadores": [
-     "Jerome Kym",
-     "Jiri Lehecka"
-    ],
-    "opciones": [
-     {
-      "id": "e01a16acf3ce50a010714d85d5ff6374|h2h|Jerome Kym|",
-      "mercado": "h2h",
-      "nombre": "Jerome Kym",
-      "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.49
-     },
-     {
-      "id": "e01a16acf3ce50a010714d85d5ff6374|h2h|Jiri Lehecka|",
-      "mercado": "h2h",
-      "nombre": "Jiri Lehecka",
-      "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.35
-     }
-    ],
-    "pinnacle_h2h": {
-     "Jerome Kym": 3.49,
-     "Jiri Lehecka": 1.35
-    }
-   },
-   {
     "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
     "deporte": "tennis_atp_swiss_indoors",
     "torneo": "ATP Swiss Indoors Basel",
@@ -1539,7 +1471,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1650,7 +1583,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1761,7 +1695,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1872,7 +1807,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1983,7 +1919,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -2094,7 +2031,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -2381,9 +2319,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 2,
-  "aciertos": 0.5,
-  "yield": -0.375
+  "apuestas": 3,
+  "aciertos": 0.6666666666666666,
+  "yield": -0.15333333333333335
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -3885,8 +3823,8 @@
  },
  "sala_aciertos": {
   "favorito": [
-   3,
-   5
+   4,
+   6
   ],
   "sorpresa": [
    0,

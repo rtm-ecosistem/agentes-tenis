@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-30T16:10+00:00",
+ "actualizado": "2026-10-30T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -2484,19 +2484,18 @@
    "nombre": "Tommy Paul",
    "circuito": "ATP",
    "elo": {
-    "all": 1856.7,
-    "hard": 1852.8,
+    "all": 1851.2,
+    "hard": 1844.5,
     "clay": 1826.6,
     "grass": 1705.1
    },
    "n": {
-    "all": 171,
-    "hard": 114,
+    "all": 172,
+    "hard": 115,
     "clay": 39,
     "grass": 18
    },
    "ultimos": [
-    "2026-09-30 P hard vs Alejandro Tabilo",
     "2026-10-10 G hard vs Adolfo Daniel Vallejo",
     "2026-10-12 G hard vs Valentin Vacherot",
     "2026-10-14 G hard vs Zizou Bergs",
@@ -2505,7 +2504,8 @@
     "2026-10-23 G hard vs Corentin Moutet",
     "2026-10-24 P hard vs Taylor Fritz",
     "2026-10-27 G hard vs Andrey Rublev",
-    "2026-10-29 G hard vs Luciano Darderi"
+    "2026-10-29 G hard vs Luciano Darderi",
+    "2026-10-30 P hard vs Carlos Alcaraz"
    ]
   },
   "tabilo|a": {
@@ -3855,19 +3855,18 @@
    "nombre": "Carlos Alcaraz",
    "circuito": "ATP",
    "elo": {
-    "all": 2127.9,
-    "hard": 2068.3,
+    "all": 2133.2,
+    "hard": 2076.4,
     "clay": 2129.4,
     "grass": 1979.1
    },
    "n": {
-    "all": 188,
-    "hard": 122,
+    "all": 189,
+    "hard": 123,
     "clay": 45,
     "grass": 21
    },
    "ultimos": [
-    "2026-09-06 G hard vs Tommy Paul",
     "2026-09-09 P hard vs Ben Shelton",
     "2026-10-01 G hard vs Alex Michelsen",
     "2026-10-03 G hard vs Matteo Arnaldi",
@@ -3876,7 +3875,8 @@
     "2026-10-10 G hard vs Juan Manuel Cerundolo",
     "2026-10-12 P hard vs Zizou Bergs",
     "2026-10-27 G hard vs Karen Khachanov",
-    "2026-10-29 G hard vs Nikoloz Basilashvili"
+    "2026-10-29 G hard vs Nikoloz Basilashvili",
+    "2026-10-30 G hard vs Tommy Paul"
    ]
   },
   "blanchet|u": {
@@ -45302,7 +45302,7 @@
    0
   ],
   "alcaraz|c~paul|t": [
-   5,
+   6,
    0
   ],
   "alcaraz|c~djokovic|n": [
@@ -90986,5 +90986,5 @@
    0
   ]
  },
- "propios": 10430
+ "propios": 10431
 }

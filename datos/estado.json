@@ -166,7 +166,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T16:10+00:00",
+    "hora": "2026-10-30T17:10+00:00",
     "rent": -0.02
    }
   },
@@ -314,7 +314,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T16:10+00:00",
+    "hora": "2026-10-30T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -456,7 +456,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T16:10+00:00",
+    "hora": "2026-10-30T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -611,7 +611,7 @@
    "animo": {
     "mezcla": {},
     "motivos": {},
-    "hora": "2026-10-30T16:10+00:00",
+    "hora": "2026-10-30T17:10+00:00",
     "rent": 0.0
    }
   }
@@ -1010,7 +1010,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1119,7 +1120,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1230,7 +1232,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1341,7 +1344,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1452,7 +1456,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1563,7 +1568,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -1674,7 +1680,8 @@
      "inicio": "2026-10-30T14:00+00:00",
      "favorito": "Carlos Alcaraz",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     },
     {
      "partido": "P04 (Taylor Fritz vs Arthur Fils)",
@@ -2279,9 +2286,18 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-14",
  "noticias_vistas": [
+  "cb873c8b2921",
+  "2504b32b2bdc",
+  "7656673194b9",
+  "c21665b16b28",
+  "3d34f5ce3ecd",
+  "4f8a44da9c31",
+  "ba144a7f0353",
   "f7facc31dea6",
   "f578551e4803",
+  "6682337af4b0",
   "a5f137b87ecb",
+  "734e52f509ef",
   "71b8ea58530b",
   "78a151d08055",
   "fcafed0f0744",
@@ -2292,10 +2308,13 @@
   "bcebb0397566",
   "aef2ee14239f",
   "55e026b9207d",
+  "60b869baccd8",
+  "e102ac252713",
   "8a5d14e67bb1",
   "58b85498d933",
   "f85cfdb4fa54",
   "a265af8ec1d6",
+  "a171d2026d45",
   "90eb359ef394",
   "c8d2c3857d10",
   "a10ab68e0460",
@@ -2303,13 +2322,11 @@
   "42e9d33654bd",
   "0a5e8263ca7b",
   "721763e32d94",
+  "9895b98b5200",
+  "9e550d007c50",
   "eebbfca76fea",
-  "2504b32b2bdc",
   "248c45b145c0",
   "9e0c2410faa9",
-  "6682337af4b0",
-  "9e550d007c50",
-  "9895b98b5200",
   "f610b60bc7ce",
   "7d64ddda314d",
   "5aa75ce3b3fc",
@@ -2332,18 +2349,14 @@
   "a9bb9d33c0f4",
   "3a233cf75d10",
   "b42d88efae4d",
-  "cb873c8b2921",
   "70fcf910e099",
   "6f94695e79de",
   "f88b630f834c",
   "228a682c2e26",
   "2eecf5e151e9",
-  "bb22eedd475f",
-  "0588280ecec3",
   "92ee25f2ac65",
   "f48a0b825101",
   "481b2832c2c2",
-  "7dc78c387fa9",
   "4f70310aa2eb",
   "c62a460833a7",
   "82322e1fdb39",
@@ -2364,6 +2377,7 @@
   "9d7bba527184",
   "c31cf2482d15",
   "9c35b61703d1",
+  "81766af17bb3",
   "7ccf4e64cfbb",
   "bc092b5af1c5",
   "bb386498d04b",
@@ -2488,7 +2502,6 @@
   "4b20ccefd8c9",
   "8602bd3f10c4",
   "810c465a9e0e",
-  "0d7c9bde073f",
   "3d50c9ae9fca",
   "11e9fc9af3b4",
   "0ab3a91768aa",
@@ -2692,6 +2705,9 @@
   "0657d42106b3",
   "9df91032b8b0",
   "0e0118d62e22",
+  "bb22eedd475f",
+  "0588280ecec3",
+  "7dc78c387fa9",
   "b4569e259c3f",
   "4c6f31cabc35",
   "327eebdc2cf0",
@@ -2703,6 +2719,7 @@
   "6d29ddee43ae",
   "8911da18acb8",
   "0a2a9aa3c4f1",
+  "0d7c9bde073f",
   "86cb8c877417",
   "eec6f5b4264e",
   "a12884894842",
@@ -2713,6 +2730,7 @@
   "2f3b55887793",
   "b47becfb363b",
   "24650e1ca240",
+  "bb51c23fef9c",
   "c9ba25ae4f08",
   "6faff91f7f09",
   "bc90b2ac017c",
@@ -2916,7 +2934,6 @@
   "b207bda55b95",
   "8539a40b6673",
   "7143c30df01f",
-  "bb51c23fef9c",
   "f72a10397af1",
   "53430f2b656b",
   "db0163c7a732",
@@ -3068,22 +3085,12 @@
   "f3f838f2e192",
   "077490f5aa1c",
   "6f56803de1da",
-  "5261da761dcd",
-  "8bdbd4045ba8",
-  "970467b3da3a",
-  "4717ecca6cb4",
-  "0c44b55f70bd",
-  "0b996bdd280a",
-  "b2c6a189fb71",
-  "171f3d987e98",
-  "56cd777f0098",
-  "6cf7f263b14c",
-  "568f887e1a01"
+  "5261da761dcd"
  ],
  "sala_aciertos": {
   "favorito": [
-   3,
-   5
+   4,
+   6
   ],
   "sorpresa": [
    0,
@@ -3094,6 +3101,7 @@
    "6822571863f93fa4654e76e114874060",
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "cc0834cac355e3a96bf64a85ce003e51",
+   "cc4564f7b80beae29935d650d1ccb4cb",
    "d52af5cb645ef831c4dbab0bbaf48dac",
    "e17ec974bac4e8094cbe45dfeb471b1e"
   ]
@@ -4598,22 +4606,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 2,
-  "ganadas": 1,
-  "unidades": -0.75,
+  "apuestas": 3,
+  "ganadas": 2,
+  "unidades": -0.46,
   "pendientes": [
-   {
-    "partido": "cc4564f7b80beae29935d650d1ccb4cb",
-    "jugadores": [
-     "Tommy Paul",
-     "Carlos Alcaraz"
-    ],
-    "inicio": "2026-10-30T14:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Carlos Alcaraz",
-    "punto": null,
-    "cuota": 1.29
-   },
    {
     "partido": "69ae427eb9d45bc2bc6b0ad750e25934",
     "jugadores": [
@@ -4678,7 +4674,8 @@
   "vistos": [
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "4eebb3b42f713eff0e760f9abef41572",
-   "f8b84ec001244b604176bf0bc6f21f16"
+   "f8b84ec001244b604176bf0bc6f21f16",
+   "cc4564f7b80beae29935d650d1ccb4cb"
   ]
  }
 }

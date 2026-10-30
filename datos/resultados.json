@@ -236331,6 +236331,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Carlos Alcaraz",
+    "Tommy Paul"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
