@@ -1529,7 +1529,16 @@ function tarjetaPretemporada(p) {
   const fila = (n, r) => `<tr><td>${n}</td><td class="n">${r.apuestas}</td><td class="n">${r.apuestas ? pct(r.aciertos, false, 0) : '–'}</td><td class="n ${clase(r.yield)}">${r.apuestas ? pct(r.yield, true) : '–'}</td><td class="n">${pct(r.pct_cierre, false, 0)}</td></tr>`;
   return `<div class="tarjeta desplaza" style="margin-bottom:10px"><h3>🏋️ Pretemporada simulada</h3>
     <p style="margin:0 0 6px;font-size:13.5px">Antes de empezar repasaron ${p.dias} días ya jugados (del ${esc(p.desde)} al ${esc(p.hasta)}), con cuotas reales del ganador y sin noticias. De ahí vienen sus primeras reglas y lecciones. Así les fue:</p>
-    <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Aciertos</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${Object.values(p.agentes || {}).map(r => fila(esc(r.nombre), r)).join('')}${p.tonta ? fila('🤖 La estrategia tonta', p.tonta) : ''}</table></div>`;
+    <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Aciertos</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${Object.values(p.agentes || {}).map(r => fila(esc(r.nombre), r)).join('')}${p.tonta ? fila('🤖 La estrategia tonta', p.tonta) : ''}</table>${textoFuncionamiento(p.funcionamiento)}</div>`;
+}
+function textoFuncionamiento(f) {
+  if (!f || !f.apuestas) return '';
+  const pts = [
+    `${f.practica} de ${f.apuestas} apuestas fueron de práctica, y en ${f.dias_sin_reales} de ${f.dias} días nadie apostó de verdad.`,
+    f.con_referencia ? `La casa pagó más que Pinnacle solo en ${f.con_valor} de ${f.con_referencia} apuestas (${pct(f.con_valor / f.con_referencia, false, 0)}): con una sola casa casi nunca hay valor.` : '',
+    `En ${f.dias_copiados} de ${f.dias} días al menos tres analistas eligieron lo mismo.`,
+    f.fallos_ia ? `La IA se quedó sin cuota ${f.fallos_ia} veces (esos días se repitieron).` : 'La IA respondió siempre.'];
+  return `<h4 style="margin:10px 0 2px">Lo que enseñó del funcionamiento</h4><ul class="reglas">${pts.filter(Boolean).map(t => `<li>${esc(t)}</li>`).join('')}</ul>`;
 }
 function pintarAprendizaje() {
   $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, con qué ánimo acierta y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>

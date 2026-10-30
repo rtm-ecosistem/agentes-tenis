@@ -412,14 +412,16 @@ INSTRUCCIONES_LECCION = """Eres {nombre}, {titulo} de una oficina de apuestas de
 las apuestas tuyas que se han resuelto hoy. Escribe UNA lección concreta y útil para mañana, en primera persona, citando
 el dato que la apoya (cuota, cierre de Pinnacle, resultado). Si todo salió como esperabas, di qué hay que mantener.
 Si tu ánimo al apostar influyó (por ejemplo, apostaste con revancha o con euforia), dilo.
+Las apuestas marcadas «DE PRÁCTICA» no las elegiste tú: cuando no apuestas, la oficina juega tu mejor descarte con la
+cantidad mínima. No te culpes por hacerlas: úsalas para ver si tus descartes eran buenos o si eres demasiado prudente.
 Responde SOLO con un JSON: {{"leccion": "1-2 frases."}}"""
 
 
 def mensaje_leccion(agente: dict, hoy: list[dict]) -> str:
-    lista = "\n".join(f"- {a['descripcion']} @ {a['cuota']:.2f} (Pinnacle al apostar {a.get('pinnacle_apuesta') or '-'}, "
+    lista = "\n".join(f"- {'DE PRÁCTICA (tu mejor descarte, obligatoria): ' if a.get('practica') else ''}{a['descripcion']} @ {a['cuota']:.2f} (Pinnacle al apostar {a.get('pinnacle_apuesta') or '-'}, "
                       f"cierre {a.get('pinnacle_cierre') or '-'}; tu probabilidad {_pct(a.get('probabilidad'))}): "
                       f"{a['estado']}, {a['ganancia']:+.2f} €. {a.get('resultado') or ''}. Tu motivo: {a.get('motivo', '')[:160]}"
-                      + (f" Tu ánimo al apostar: {a['emocion']}." if a.get("emocion") else "")
+                      + (f" Tu ánimo al apostar: {a['emocion']}." if a.get("emocion") and not a.get("practica") else "")
                       for a in hoy)
     return f"""Tu método: {agente['como_decide']}
 Tus reglas:

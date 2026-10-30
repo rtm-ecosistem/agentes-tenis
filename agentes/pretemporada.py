@@ -284,6 +284,7 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
         simular_dia(estado, apuestas, dia, base, todos, contador)
         if contador.fallos > antes:  # la IA no respondió (sin cuota): se repite el día otro rato
             estado, apuestas = copia, copia_apuestas
+            progreso["fallos_ia"] = progreso.get("fallos_ia", 0) + 1
             print(f"La IA falló el {dia}: se para aquí y se repite en la siguiente ejecución.")
             break
         hechos += 1
@@ -295,7 +296,7 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
     progreso["siguiente"] = dia.isoformat()
     progreso["llamadas"] += contador.llamadas
     progreso["hoy"]["llamadas"] += contador.llamadas
-    progreso["resumen"] = resumen(estado, apuestas)
+    progreso["resumen"] = resumen(estado, apuestas, progreso)
     comun.guardar(f["estado"], estado)
     comun.guardar(f["apuestas"], apuestas)
     comun.guardar(f["progreso"], progreso)
@@ -304,8 +305,23 @@ def avanzar(dias: int, desde: str = DESDE, hasta: str = HASTA, ia=None, sesion=N
     return progreso
 
 
-def resumen(estado: dict, apuestas: list[dict]) -> dict:
-    return {"agentes": {a["id"]: {"nombre": a["nombre"], **boletos.resumen([x for x in apuestas if x["agente"] == a["id"]]),
+def funcionamiento(apuestas: list[dict], progreso: dict | None = None) -> dict:
+    """Lo que la simulación enseña del funcionamiento de la oficina, no de cada analista: si la casa llega a dar
+    valor, si los analistas se copian, cuántas apuestas son de práctica y si la IA falló."""
+    con_ref = [a for a in apuestas if a.get("pinnacle_apuesta")]
+    por_dia: dict = {}
+    for a in apuestas:
+        por_dia.setdefault(a["fecha"], []).append(a.get("seleccion"))
+    dias = len(por_dia)
+    return {"apuestas": len(apuestas), "practica": sum(1 for a in apuestas if a.get("practica")),
+            "dias": dias, "dias_sin_reales": sum(1 for f in por_dia if all(a.get("practica") for a in apuestas if a["fecha"] == f)),
+            "con_valor": sum(1 for a in con_ref if a["cuota"] > a["pinnacle_apuesta"]), "con_referencia": len(con_ref),
+            "dias_copiados": sum(1 for s in por_dia.values() if len(s) >= 3 and max(s.count(x) for x in s) >= 3),
+            "fallos_ia": (progreso or {}).get("fallos_ia", 0)}
+
+
+def resumen(estado: dict, apuestas: list[dict], progreso: dict | None = None) -> dict:
+    return {"funcionamiento": funcionamiento(apuestas, progreso),"agentes": {a["id"]: {"nombre": a["nombre"], **boletos.resumen([x for x in apuestas if x["agente"] == a["id"]]),
                                   "practica": sum(1 for x in apuestas if x["agente"] == a["id"] and x.get("practica"))}
                         for a in estado["agentes"]},
             "tonta": aprendizaje.resumen_tonta(estado), "sala": estado.get("sala_aciertos")}
@@ -337,7 +353,7 @@ def trasladar(momento: datetime | None = None) -> bool:
     if not estado.get("biblioteca"):
         estado["biblioteca"] = sim.get("biblioteca", [])
     estado["pretemporada"] = {"desde": progreso["desde"], "hasta": progreso["hasta"], "dias": progreso["dias"],
-                              **resumen(sim, apuestas_sim)}
+                              **resumen(sim, apuestas_sim, progreso)}
     oficina.anotar(estado, momento, f"🏋️ Llegan de la pretemporada simulada ({progreso['dias']} días del "
                                     f"{progreso['desde']} al {progreso['hasta']}) con sus reglas y lecciones.")
     progreso["trasladada"] = True
