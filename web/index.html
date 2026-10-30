@@ -1525,11 +1525,18 @@ function tarjetaNoticias(n) {
     <p style="margin:0 0 6px;font-size:13.5px">Cuando la sala ve una noticia importante se piden cuotas nuevas (cuesta créditos). ${m.gastados ? `Este mes van <b>${m.gastados} créditos</b> en ${m.consultas} ${m.consultas === 1 ? 'consulta' : 'consultas'}.` : 'Este mes aún no se ha gastado ninguno.'} Así van sus apuestas frente a las de las 9:00:</p>
     <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Ganancia</th><th class="n">Rendim.${A('rendimiento')}</th></tr>${fila('Por noticias', n.noticias)}${fila('De las 9:00', n.manana)}</table></div>`;
 }
+function tarjetaPretemporada(p) {
+  const fila = (n, r) => `<tr><td>${n}</td><td class="n">${r.apuestas}</td><td class="n">${r.apuestas ? pct(r.aciertos, false, 0) : '–'}</td><td class="n ${clase(r.yield)}">${r.apuestas ? pct(r.yield, true) : '–'}</td><td class="n">${pct(r.pct_cierre, false, 0)}</td></tr>`;
+  return `<div class="tarjeta desplaza" style="margin-bottom:10px"><h3>🏋️ Pretemporada simulada</h3>
+    <p style="margin:0 0 6px;font-size:13.5px">Antes de empezar repasaron ${p.dias} días ya jugados (del ${esc(p.desde)} al ${esc(p.hasta)}), con cuotas reales del ganador y sin noticias. De ahí vienen sus primeras reglas y lecciones. Así les fue:</p>
+    <table class="tabla desglose"><tr><th></th><th class="n">Apuestas</th><th class="n">Aciertos</th><th class="n">Rendim.${A('rendimiento')}</th><th class="n">Bate cierre${A('cierre')}</th></tr>${Object.values(p.agentes || {}).map(r => fila(esc(r.nombre), r)).join('')}${p.tonta ? fila('🤖 La estrategia tonta', p.tonta) : ''}</table></div>`;
+}
 function pintarAprendizaje() {
   $('#aprendizaje').innerHTML = `<p style="color:var(--suave);margin:0 0 10px">Lo que cada analista aprende de sus apuestas: las reglas que se pone cada domingo, dónde gana y dónde pierde, con qué ánimo acierta y si las probabilidades que da se cumplen. Todo esto lo leen ellos mismos antes de decidir.</p>
     <div class="tarjeta" style="margin-bottom:10px"><b>🎯 La sala:</b> ${esc(textoSalaAciertos())}</div>
     ${D.emociones ? tarjetaComparar(D.emociones) : ''}
     ${D.por_noticias ? tarjetaNoticias(D.por_noticias) : ''}
+    ${D.pretemporada ? tarjetaPretemporada(D.pretemporada) : ''}
     ${D.tonta ? `<div class="tarjeta" style="margin-bottom:10px"><b>🤖 La estrategia tonta:</b> apostar siempre lo mismo al favorito de Pinnacle en todos los partidos. Lleva ${D.tonta.apuestas} apuestas, acierta el ${pct(D.tonta.aciertos, false, 0)} y su rendimiento${A('rendimiento')} es <b class="${clase(D.tonta.yield)}">${pct(D.tonta.yield, true)}</b>. Quien no la supere no aporta nada.</div>` : ''}
     <div class="tarjeta" style="margin-bottom:10px"><h3>📚 La biblioteca de la oficina</h3>${D.biblioteca?.length ? `<ul class="reglas">${D.biblioteca.map(e => `<li>${esc(e.texto)} <small>${esc(e.autor)}, ${esc(e.fecha)}</small></li>`).join('')}</ul><small style="color:var(--suave)">Lo mejor que ha aprendido la oficina. Inés la ordena cada domingo y todos la leen antes de apostar.</small>` : '<p class="vacio">Inés la empezará a ordenar el domingo con lo mejor de cada uno.</p>'}</div>
     <div class="rejilla dos">${activos().map(a => {

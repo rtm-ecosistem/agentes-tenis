@@ -306,6 +306,15 @@ def clasificacion(estado: dict, apuestas: list[dict]) -> str:
     return "\n".join(filas)
 
 
+def texto_pretemporada(p: dict) -> str:
+    """Lo que hizo en la pretemporada simulada (partidos reales ya jugados, solo cuotas de ganador)."""
+    r = p["resumen"]
+    cierre = f", batió el cierre de Pinnacle en el {r['pct_cierre']:.0%}" if r.get("pct_cierre") is not None else ""
+    return (f"TU PRETEMPORADA (simulación con partidos reales del {p['desde']} al {p['hasta']}, solo ganador): "
+            f"{r['apuestas']} apuestas, acertaste el {r['aciertos']:.0%}, rendimiento {r['yield']:+.1%}{cierre}. "
+            f"Tus reglas y lecciones de antes vienen de ahí.")
+
+
 def memoria(agente: dict, apuestas: list[dict]) -> str:
     suyas = [a for a in apuestas if a["agente"] == agente["id"] and a["estado"] != "pendiente"][-12:]
     ultimas = "\n".join(f"- {a['fecha']} {a['descripcion']} @ {a['cuota']:.2f} (cierre Pinnacle "
@@ -316,6 +325,8 @@ def memoria(agente: dict, apuestas: list[dict]) -> str:
     reflexiones = "\n".join(f"- {r['fecha']}: {r['texto']}" for r in agente.get("reflexiones", [])[-2:])
     todas = [a for a in apuestas if a["agente"] == agente["id"]]
     carta = f"\nCARTA DE TU PREDECESOR (léela: es lo que aprendió antes de que le despidieran):\n{agente['carta_recibida']}" if agente.get("carta_recibida") else ""
+    if agente.get("pretemporada"):
+        carta += "\n" + texto_pretemporada(agente["pretemporada"])
     return f"""TUS ÚLTIMAS DECISIONES
 {decisiones}
 

@@ -76,6 +76,7 @@ def generar(estado: dict, apuestas: list[dict]) -> dict:
         "sala_aciertos": {k: v for k, v in estado.get("sala_aciertos", {}).items() if k != "vistos"},
         "emociones": comparar_emociones(estado, apuestas),
         "por_noticias": comparar_noticias(estado, apuestas),
+        "pretemporada": estado.get("pretemporada"),
     }
     # Si no ha cambiado nada más que la hora, no se reescribe (así no hay un cambio nuevo cada hora)
     previo = comun.leer(config.WEB_DIR / "datos.json", {})
