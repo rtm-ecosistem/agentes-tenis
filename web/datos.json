@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T07:36+00:00",
+ "actualizado": "2026-10-31T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 9009,
-  "sport888": 9009,
-  "betsson": 9017
+  "williamhill": 5005,
+  "sport888": 5005,
+  "betsson": 15030
  },
  "creditos": {
   "mes": "2026-10",
-  "gastados_mes": 32,
-  "restantes": 468,
-  "usados": 32,
-  "actualizado": "2026-10-30T08:00+00:00",
-  "prevision_mes": 1,
+  "gastados_mes": 44,
+  "restantes": 456,
+  "usados": 44,
+  "actualizado": "2026-10-31T08:00+00:00",
+  "prevision_mes": 0,
   "noticias": {
    "dia": "2026-10-31",
    "gastados": 0,
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.401,
+      "pct": 0.402,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.301,
+      "pct": 0.302,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.298,
+      "pct": 0.296,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -990,8 +990,346 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-10-30T08:00+00:00",
-  "partidos": []
+  "actualizado": "2026-10-31T08:00+00:00",
+  "partidos": [
+   {
+    "id": "2a5f1771a236171c3e21d21bdf56bff4",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T10:05+00:00",
+    "jugadores": [
+     "Jaime Faria",
+     "Rinky Hijikata"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Jaime Faria": 2.13,
+     "Rinky Hijikata": 1.75
+    }
+   },
+   {
+    "id": "b79cec36580dcc0d4a39f0e998bf6259",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T10:05+00:00",
+    "jugadores": [
+     "Pablo Carreno Busta",
+     "Mattia Bellucci"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Mattia Bellucci": 1.65,
+     "Pablo Carreno Busta": 2.28
+    }
+   },
+   {
+    "id": "8f1291f57aab2102a046f3688a5cb9da",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T10:05+00:00",
+    "jugadores": [
+     "Thiago Agustin Tirante",
+     "Zachary Svajda"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Thiago Agustin Tirante": 1.98,
+     "Zachary Svajda": 1.86
+    }
+   },
+   {
+    "id": "4eaa8a4094623f5bcb9871f3ed3916ce",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T11:05+00:00",
+    "jugadores": [
+     "Hugo Gaston",
+     "Vit Kopriva"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Hugo Gaston": 1.43,
+     "Vit Kopriva": 2.92
+    }
+   },
+   {
+    "id": "2885e6fd43f434fcec49d2f755b3e433",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T12:00+00:00",
+    "jugadores": [
+     "Juan Manuel Cerundolo",
+     "Aleksandar Kovacevic"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Aleksandar Kovacevic": 1.75,
+     "Juan Manuel Cerundolo": 2.13
+    }
+   },
+   {
+    "id": "07a663103251981d597b64c7120f808c",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T12:00+00:00",
+    "jugadores": [
+     "James Duckworth",
+     "Miomir Kecmanovic"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "James Duckworth": 2.24,
+     "Miomir Kecmanovic": 1.68
+    }
+   },
+   {
+    "id": "e8546c13023c2eba48ee1634f96f3ca8",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T12:00+00:00",
+    "jugadores": [
+     "Tomas Machac",
+     "Martin Landaluce"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Martin Landaluce": 2.7,
+     "Tomas Machac": 1.49
+    }
+   },
+   {
+    "id": "d2d80372138d7a9fb0ac07d2ff097c5e",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T13:00+00:00",
+    "jugadores": [
+     "Tallon Griekspoor",
+     "Benjamin Bonzi"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Benjamin Bonzi": 2.46,
+     "Tallon Griekspoor": 1.57
+    }
+   },
+   {
+    "id": "61c8928c277531cc3a82944398f6ee04",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T14:00+00:00",
+    "jugadores": [
+     "Sebastian Baez",
+     "Damir Dzumhur"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Damir Dzumhur": 1.68,
+     "Sebastian Baez": 2.23
+    }
+   },
+   {
+    "id": "26b452bf13520fa28ea016bf646a6cbc",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T14:00+00:00",
+    "jugadores": [
+     "Lorenzo Sonego",
+     "Jaume Munar"
+    ],
+    "opciones": [],
+    "pinnacle_h2h": {
+     "Jaume Munar": 1.57,
+     "Lorenzo Sonego": 2.46
+    }
+   },
+   {
+    "id": "5a856de2f4f6df9ea205100c2c304254",
+    "deporte": "tennis_atp_swiss_indoors",
+    "torneo": "ATP Swiss Indoors Basel",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T14:00+00:00",
+    "jugadores": [
+     "Valentin Vacherot",
+     "Taylor Fritz"
+    ],
+    "opciones": [
+     {
+      "id": "5a856de2f4f6df9ea205100c2c304254|h2h|Taylor Fritz|",
+      "mercado": "h2h",
+      "nombre": "Taylor Fritz",
+      "punto": null,
+      "cuota": 1.33,
+      "pinnacle": 1.32
+     },
+     {
+      "id": "5a856de2f4f6df9ea205100c2c304254|h2h|Valentin Vacherot|",
+      "mercado": "h2h",
+      "nombre": "Valentin Vacherot",
+      "punto": null,
+      "cuota": 3.3,
+      "pinnacle": 3.65
+     }
+    ],
+    "pinnacle_h2h": {
+     "Taylor Fritz": 1.32,
+     "Valentin Vacherot": 3.65
+    }
+   },
+   {
+    "id": "3f0addea74d69db2f1b7595d4fb2b1af",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T14:00+00:00",
+    "jugadores": [
+     "Daniil Medvedev",
+     "Carlos Alcaraz"
+    ],
+    "opciones": [
+     {
+      "id": "3f0addea74d69db2f1b7595d4fb2b1af|h2h|Carlos Alcaraz|",
+      "mercado": "h2h",
+      "nombre": "Carlos Alcaraz",
+      "punto": null,
+      "cuota": 1.44,
+      "pinnacle": 1.46
+     },
+     {
+      "id": "3f0addea74d69db2f1b7595d4fb2b1af|h2h|Daniil Medvedev|",
+      "mercado": "h2h",
+      "nombre": "Daniil Medvedev",
+      "punto": null,
+      "cuota": 2.75,
+      "pinnacle": 2.91
+     }
+    ],
+    "pinnacle_h2h": {
+     "Carlos Alcaraz": 1.46,
+     "Daniil Medvedev": 2.91
+    }
+   },
+   {
+    "id": "e29817fd8c010bb31e6c920398185da1",
+    "deporte": "tennis_atp_vienna_open",
+    "torneo": "ATP Vienna Open",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T15:30+00:00",
+    "jugadores": [
+     "Alexander Zverev",
+     "Alex de Minaur"
+    ],
+    "opciones": [
+     {
+      "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alexander Zverev|",
+      "mercado": "h2h",
+      "nombre": "Alexander Zverev",
+      "punto": null,
+      "cuota": 1.4,
+      "pinnacle": 1.4
+     },
+     {
+      "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alex de Minaur|",
+      "mercado": "h2h",
+      "nombre": "Alex de Minaur",
+      "punto": null,
+      "cuota": 2.9,
+      "pinnacle": 3.16
+     }
+    ],
+    "pinnacle_h2h": {
+     "Alexander Zverev": 1.4,
+     "Alex de Minaur": 3.16
+    }
+   },
+   {
+    "id": "552fda4930d6ed5d9fef41d162da947d",
+    "deporte": "tennis_atp_swiss_indoors",
+    "torneo": "ATP Swiss Indoors Basel",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-10-31T16:00+00:00",
+    "jugadores": [
+     "Jiri Lehecka",
+     "Jan-Lennard Struff"
+    ],
+    "opciones": [
+     {
+      "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jan-Lennard Struff|",
+      "mercado": "h2h",
+      "nombre": "Jan-Lennard Struff",
+      "punto": null,
+      "cuota": 2.75,
+      "pinnacle": 2.83
+     },
+     {
+      "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jiri Lehecka|",
+      "mercado": "h2h",
+      "nombre": "Jiri Lehecka",
+      "punto": null,
+      "cuota": 1.44,
+      "pinnacle": 1.48
+     }
+    ],
+    "pinnacle_h2h": {
+     "Jan-Lennard Struff": 2.83,
+     "Jiri Lehecka": 1.48
+    }
+   },
+   {
+    "id": "e33e004fe9457eef4c8e5a50d15392c0",
+    "deporte": "tennis_wta_pan_pacific_open",
+    "torneo": "WTA Pan Pacific Open",
+    "circuito": "WTA",
+    "superficie": "hard",
+    "inicio": "2026-11-01T03:00+00:00",
+    "jugadores": [
+     "Leylah Fernandez",
+     "Diana Shnaider"
+    ],
+    "opciones": [
+     {
+      "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Diana Shnaider|",
+      "mercado": "h2h",
+      "nombre": "Diana Shnaider",
+      "punto": null,
+      "cuota": 1.57,
+      "pinnacle": null
+     },
+     {
+      "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Leylah Fernandez|",
+      "mercado": "h2h",
+      "nombre": "Leylah Fernandez",
+      "punto": null,
+      "cuota": 2.38,
+      "pinnacle": null
+     }
+    ],
+    "pinnacle_h2h": {}
+   }
+  ]
  },
  "apuestas": [
   {
@@ -1797,6 +2135,36 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-10-31T08:00+00:00",
+   "texto": "🎾 Cartelera: 15 partidos en las próximas 24 horas (casa: William Hill).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-30T23:10+00:00",
    "texto": "📰 Noticias nuevas de Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
    "tipo": "info"
@@ -1915,39 +2283,9 @@
    "hora": "2026-10-30T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T09:10+00:00",
-   "texto": "📰 Noticias nuevas de Adrian Mannarino – Daniil Medvedev, Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Adrian Mannarino – Daniil Medvedev, Holger Rune – Valentin Vacherot, Tommy Paul – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T08:00+00:00",
-   "texto": "🎾 Cartelera: 9 partidos en las próximas 24 horas (casa: William Hill).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T00:10+00:00",
-   "texto": "🏁 1 apuestas liquidadas.",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-10-30",
+ "ultima_decision": "2026-10-31",
  "oficina": {
   "total": {
    "apuestas": 2,
@@ -3511,6 +3849,1233 @@
        "fuente": "Prensa Mercosur",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDRwS01ZOFZqaXI4ejNnSWFVcTRyS1NfRDVfcGZTejYzeWxrcVBmWFRQSFBpVndfNTRjOGVTSDN0ZUJWWHhOQ0FaYmZ6cXNweURSV0hLOVlXM2VBV2Joa3Etai1mMWtOeWFmM0JScGNaYUFkZlprS1A2VkFSM1dpanFLZDRCSVdHT29FbklrTGxNYWl2eDVIWUZmV0JUbUt0UFdZUGRwcWEtOUZ3c2NDVk5PUzR5NElDT1lnTlFtV0I4WjA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "2a5f1771a236171c3e21d21bdf56bff4": {
+   "id": "2a5f1771a236171c3e21d21bdf56bff4",
+   "jugadores": [
+    "Jaime Faria",
+    "Rinky Hijikata"
+   ],
+   "inicio": "2026-10-31T10:05+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.487,
+   "elo_general": 0.535,
+   "elo_en_superficie": 0.439,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Jaime Faria",
+     "mercado": 0.451,
+     "elo": 1612,
+     "elo_superficie": 1551,
+     "forma": [
+      "G hard vs Arthur Fery",
+      "P hard vs Jaume Munar",
+      "P hard vs Arthur Gea",
+      "P hard vs Felix Balshaw",
+      "P hard vs Mika Brunold"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Jaime Faria - Rinky Hijikata en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEx2LWRkbTBpTVlTMmh6ZjVLQWR6Qi0yTlpCaDNZM3VGZW5BZng1WFFTQlBTb2Y5NHdjUU5CWGl1SnBlcHF3c2t5UGlGME1CX1F4Z09oeG93SGc0d1JHc1NZNGlBVF93T1BYbERKLUl2Z3lTVktFRGxtcDdEU2ZVNTVieE1SWWdaT1kw?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz avanza a semifinales en Viena tras vencer a Tommy Paul - Uruguay Al Día",
+       "fuente": "Uruguay Al Día",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1NaS2tSMVpWenFrUWtCa1QtcHdMVzBRV2hjOU9NZWVSOEF2RXhyX3RVMDBKck8ya1d1bVRDRG5ETFVoY0VkU0hOcUVHcFZLUUZvb0M0TmJHdHdGVTB6LWZDaFNCeU1jcm1XVEtHaEVSaUNGcjVEY09NZnktZ3JLTDg2REhYVHhRXzFTYjFpS29fZVJqak5GT1V6aXZ4d2c?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev - Arthur Fery Resultado 2-0 - Erste Bank Open - 30 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQclZ4UXhQZmlVcGp1ekhseE41OUF1X1pONlJDYzl6SF9iYkNaNEZDM2NKN1E4VjJYYlFNZ0luMHJ4NEVTMURIU1g5Ujl2dkJIeHlJeFJWQmJrc05mSHZlcncxVnUyM3V1QU51Rll4VGR3YlVCUzdHZ3kxZ0h3WnZ4cTJZSTBWbEQ1Vl9abUp3?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Rinky Hijikata",
+     "mercado": 0.549,
+     "elo": 1587,
+     "elo_superficie": 1593,
+     "forma": [
+      "P hard vs Roman Safiullin",
+      "P hard vs Terence Atmane",
+      "G hard vs Miomir Kecmanovic",
+      "P hard vs Yannick Hanfmann",
+      "P hard vs Taylor Fritz"
+     ],
+     "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-28 contra Taylor Fritz, perdió 4-6 6-7",
+     "noticias": [
+      {
+       "titulo": "Jaime Faria - Rinky Hijikata en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEx2LWRkbTBpTVlTMmh6ZjVLQWR6Qi0yTlpCaDNZM3VGZW5BZng1WFFTQlBTb2Y5NHdjUU5CWGl1SnBlcHF3c2t5UGlGME1CX1F4Z09oeG93SGc0d1JHc1NZNGlBVF93T1BYbERKLUl2Z3lTVktFRGxtcDdEU2ZVNTVieE1SWWdaT1kw?oc=5"
+      },
+      {
+       "titulo": "Djokovic remonta ante Humbert y supera la primera ronda del ATP de Basilea - Diario Libre",
+       "fuente": "Diario Libre",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQW1FVjlGY1ZlT0hsRjFIWXdSWE55OHdydndreS1acDBMQWlubEdiX1g4QTVJeDE4Sm1DcWpMbldMM2JaV2x6THVUOEVOUVE2YVA5cVY3U1RITGN1eGx5elBaQ19ZNGUzbVdmTEFfakRHemRYQW04UnR5X1V6NDJOUHJ5SW9VMlNCY2RXZDJEamh0S2JKLXA1N2g2eUJEVzVJTjcwMHhFWU90QXc3NlpWRFVXRVdwSTlKYWEtdNIBvAFBVV95cUxOQW1FVjlGY1ZlT0hsRjFIWXdSWE55OHdydndreS1acDBMQWlubEdiX1g4QTVJeDE4Sm1DcWpMbldMM2JaV2x6THVUOEVOUVE2YVA5cVY3U1RITGN1eGx5elBaQ19ZNGUzbVdmTEFfakRHemRYQW04UnR5X1V6NDJOUHJ5SW9VMlNCY2RXZDJEamh0S2JKLXA1N2g2eUJEVzVJTjcwMHhFWU90QXc3NlpWRFVXRVdwSTlKYWEtdA?oc=5"
+      },
+      {
+       "titulo": "Hot Shot: Fritz se inspira en pleno tie-break en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pnWVVPNnJaUUxzbWJVZGM1RTJ3Wk5sU3JaaVdoOU5vX09fUllCWkNucXRZcnlOWkg0d2pvYU1rdTlRSnlIbHFoSFV3WTg3RE5mQmFUVUtLZE5QMGRTNEtxLS15VFVRcV9acS0tODZCZ3pZd05Mb09ZZlg4MDIwaFBaWF91UDZqSUpB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "b79cec36580dcc0d4a39f0e998bf6259": {
+   "id": "b79cec36580dcc0d4a39f0e998bf6259",
+   "jugadores": [
+    "Pablo Carreno Busta",
+    "Mattia Bellucci"
+   ],
+   "inicio": "2026-10-31T10:05+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.52,
+   "elo_general": 0.555,
+   "elo_en_superficie": 0.485,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Pablo Carreno Busta",
+     "mercado": 0.42,
+     "elo": 1622,
+     "elo_superficie": 1604,
+     "forma": [
+      "P hard vs Daniil Medvedev",
+      "G hard vs Mariano Navone",
+      "G hard vs Alejandro Tabilo",
+      "P hard vs Felix Auger-Aliassime",
+      "P hard vs Jacob Fearnley"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Pablo Carreño-Busta - Mattia Bellucci en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjJKOHVmcllQelJ0X0FDZ0tBamZWZFhRbGQ0YjBuQXo5cWdIcDQxR2JDUmJBWEhybjZraEp0OGltRUFUeHdEcUxQUDRxVmZaTU9iRVR0OTlXMWgtMGhpaF9YT0tjem9fbHF2blBYRE1ucmc0dFlsQ2dKVWwyd3lZa013aEQtV2l1N0JRM3d0LUxOem0tTlVV?oc=5"
+      },
+      {
+       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
+       "fuente": "Flashscore.es",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
+      },
+      {
+       "titulo": "Landaluce, Carreño y Munar, grandes protagonistas de la fase previa del Masters 1000 de París - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG95WGc1bjBNNGE3THhBQzVCV0FaWm5ZRzBkcXN4T1c0bFpCb3BTdjNtSllkVk9MczFzY2c5QUt5V0JqQWNia3VjaDlNM19Kc2ZMWFdWazVDLVNvc0hVWkZ3NjZoT0tfQjFJNjltMnJDZEZYdW5DRDBpYy1rZDhfWjJ0bmlyWkhCS2NKeGw4RXpkWTZZT1BHUzNVbHBZM3FfZ0dISWJra2RSZkgtWmxZdDBjTXFDQ1k?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Mattia Bellucci",
+     "mercado": 0.58,
+     "elo": 1584,
+     "elo_superficie": 1614,
+     "forma": [
+      "G hard vs Elias Ymer",
+      "G hard vs Alexandre Muller",
+      "P hard vs Zhou Yi",
+      "G hard vs Tomas Martin Etcheverry",
+      "P hard vs Terence Atmane"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Andrey Rublev - Tomas Martin Etcheverry en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTJiNGY4MjMzRl9NWHp5Q0I4bEpNa2JQRFZPNUNBZmRhVnRBT0F2WGl2cnhJdWJYNXBLcXFxNEFMbXdJR29mUHVISVRlY3p5NzdMSWdUVnkwY3RpczVEZ3ptUmYzRERkNV9uNjRCSWdmV0hienU1bThIY3M5WWtSXy1EeFFOOEtZU2hHSTc0YkVyck96T3RueQ?oc=5"
+      },
+      {
+       "titulo": "Pablo Carreño-Busta - Mattia Bellucci en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjJKOHVmcllQelJ0X0FDZ0tBamZWZFhRbGQ0YjBuQXo5cWdIcDQxR2JDUmJBWEhybjZraEp0OGltRUFUeHdEcUxQUDRxVmZaTU9iRVR0OTlXMWgtMGhpaF9YT0tjem9fbHF2blBYRE1ucmc0dFlsQ2dKVWwyd3lZa013aEQtV2l1N0JRM3d0LUxOem0tTlVV?oc=5"
+      },
+      {
+       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
+       "fuente": "Flashscore.es",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "8f1291f57aab2102a046f3688a5cb9da": {
+   "id": "8f1291f57aab2102a046f3688a5cb9da",
+   "jugadores": [
+    "Thiago Agustin Tirante",
+    "Zachary Svajda"
+   ],
+   "inicio": "2026-10-31T10:05+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.658,
+   "elo_general": 0.654,
+   "elo_en_superficie": 0.663,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Thiago Agustin Tirante",
+     "mercado": 0.484,
+     "elo": 1663,
+     "elo_superficie": 1640,
+     "forma": [
+      "P hard vs Jan-Lennard Struff",
+      "G hard vs Hamad Medjedovic",
+      "P hard vs Rafael Jodar",
+      "P hard vs Facundo Diaz Acosta",
+      "P hard vs Adrian Mannarino"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Thiago Agustin Tirante vs Zachary Svajda EN VIVO 31/10/2026 | Tenis - Flashscore.com.ar",
+       "fuente": "Flashscore.com.ar",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hVSFdYd3AtbFZvSDF5b2Njc2lwajJRcHdmNzBVZVYwUDhGTF9LTVNaQWg1OVFSWnJ2STFIWTBkX09SOFBCLUZJb19Sd09TX2N2dHhxOExFb2FLaFl1Y0wzMWdPZ0hJR2d5RjExNHRDWHRhSUtaTGRnQVZxN09vSDA5UHBFckYxY2tRVlB1VkxQd3oxXzRGdm9xaUdKRVJEMnc?oc=5"
+      },
+      {
+       "titulo": "Thiago Agustin Tirante - Zachary Svajda en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOG5vZ3JaQUlFZUwtRTU3djNGMUQ2bldOMUtJNDhKYWdtR3lzQWdLMWVzYk9RRXZlNnVvV3JxVzB2WVpnZDMwQ2ZGWVNhaHlnWjdaU24yOG1CQ1hGYkpwblNmdjloVmZwa044cFNLUmZfV0pZMHA5Snl5RmNvM1FTb0dYamZjSjBQdFJCanZqaE9pNWdaWGY4TmVB?oc=5"
+      },
+      {
+       "titulo": "Entry List ATP París 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1raXhLZlU0QkZ1aTZLNHBLOWl2NzBqRU54VEx4STgxVjNkRFUyQXdMZG9hSHh4MUZWVEZLazBrT0p1N3I2TVNkVUFlUkZ1NGd5NzlSWFZad2Z1YlRMMXc?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Zachary Svajda",
+     "mercado": 0.516,
+     "elo": 1552,
+     "elo_superficie": 1523,
+     "forma": [
+      "P hard vs Arthur Gea",
+      "P hard vs Aleksandar Kovacevic",
+      "G hard vs Fabian Marozsan",
+      "P hard vs Learner Tien",
+      "P hard vs Juan Manuel Cerundolo"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Thiago Agustin Tirante vs Zachary Svajda EN VIVO 31/10/2026 | Tenis - Flashscore.com.ar",
+       "fuente": "Flashscore.com.ar",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hVSFdYd3AtbFZvSDF5b2Njc2lwajJRcHdmNzBVZVYwUDhGTF9LTVNaQWg1OVFSWnJ2STFIWTBkX09SOFBCLUZJb19Sd09TX2N2dHhxOExFb2FLaFl1Y0wzMWdPZ0hJR2d5RjExNHRDWHRhSUtaTGRnQVZxN09vSDA5UHBFckYxY2tRVlB1VkxQd3oxXzRGdm9xaUdKRVJEMnc?oc=5"
+      },
+      {
+       "titulo": "Thiago Agustin Tirante - Zachary Svajda en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOG5vZ3JaQUlFZUwtRTU3djNGMUQ2bldOMUtJNDhKYWdtR3lzQWdLMWVzYk9RRXZlNnVvV3JxVzB2WVpnZDMwQ2ZGWVNhaHlnWjdaU24yOG1CQ1hGYkpwblNmdjloVmZwa044cFNLUmZfV0pZMHA5Snl5RmNvM1FTb0dYamZjSjBQdFJCanZqaE9pNWdaWGY4TmVB?oc=5"
+      },
+      {
+       "titulo": "Así debutarán los sudamericanos en el ATP Masters 1000 de París - Match Tenis",
+       "fuente": "Match Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQ1lLXzNETFl3SlFfMkFBUDR4UWtxdmp2Zko0ZjRkb3FOQmUxQkZ1M2JJOGN5OWc3ZVNUQmxyTTh5ODhBVFF5TVFILTN1Y202aXpNejZnVTZLa3puZzJQNVR1MXJPZw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "4eaa8a4094623f5bcb9871f3ed3916ce": {
+   "id": "4eaa8a4094623f5bcb9871f3ed3916ce",
+   "jugadores": [
+    "Hugo Gaston",
+    "Vit Kopriva"
+   ],
+   "inicio": "2026-10-31T11:05+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.53,
+   "elo_general": 0.537,
+   "elo_en_superficie": 0.523,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Hugo Gaston",
+     "mercado": 0.671,
+     "elo": 1521,
+     "elo_superficie": 1468,
+     "forma": [
+      "G hard vs Sho Shimabukuro",
+      "G hard vs Jaime Faria",
+      "P hard vs Andrey Rublev",
+      "P hard vs Liam Draxl",
+      "P hard vs Jacob Fearnley"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Hugo Gaston vs. Daniil Glinka Brest 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VU2VfbTlyQ0pmNnJySEhnei1zZjhpS1JSaTN6MGxId2UzMXBMZXJLamlaWTVVRVMwRVE4TGJLblVqOXE0V0hhRjNBZDg1aDBPR0doYmZKbXZxZGVGd3BpOGFvNHRHSlNQbkV3UDktX05LQ1U5U1RUc2lR?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Vit Kopriva",
+     "mercado": 0.329,
+     "elo": 1495,
+     "elo_superficie": 1453,
+     "forma": [
+      "G hard vs Hu Jia",
+      "P hard vs Denis Shapovalov",
+      "P hard vs Alex Molcan",
+      "P hard vs Zizou Bergs",
+      "P hard vs Lukas Neumayer"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Entry List ATP Challenger Lima 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nS0dTUjdJNHVLQWNKa1ltVjhOeU5zM2RLY3RITXRwejNOVlpHVENIWjJ6dVY5RFBCQ3BqOVZjMDJpX205V0ZUOTYya3dVZHc0bGpqbUJqV2NzcnBDUlJ5bGtkY3hBYVA3V05J?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "2885e6fd43f434fcec49d2f755b3e433": {
+   "id": "2885e6fd43f434fcec49d2f755b3e433",
+   "jugadores": [
+    "Juan Manuel Cerundolo",
+    "Aleksandar Kovacevic"
+   ],
+   "inicio": "2026-10-31T12:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.641,
+   "elo_general": 0.681,
+   "elo_en_superficie": 0.602,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Juan Manuel Cerundolo",
+     "mercado": 0.451,
+     "elo": 1653,
+     "elo_superficie": 1578,
+     "forma": [
+      "G hard vs Nicolas Mejia",
+      "P hard vs Carlos Alcaraz",
+      "P hard vs Mariano Navone",
+      "G hard vs Zachary Svajda",
+      "G hard vs Daniel Altmaier"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Arthur Rinderknech - Francisco Cerundolo en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3pDcDlXNENnX19xWXhoY2NhOHdDdy1RME00aDlIVWdRTlY4NHZHZzhUQW90VzZwV0JyQ0lJT0k5U2dPa2M0NTBSYUZUZERfUDByc0RFaDk1VmRUeU1qMUV2OGJWWjd2OHByUWEtTnpGYTJQZEFnYThwVk9GVU1RcThtV1R2UXVPa0xUTzFMYW1jZnJYdHdaRWpn?oc=5"
+      },
+      {
+       "titulo": "Cerúndolo / Etcheverry vs TBD · Semifinal · ATP Vienna - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3ZKdzNsQTYydFBja0JRMk5RUEI4SGZNLU4yeWl1VW9fd2ZZajdKdkVtUG5IZXVab2s0V3lhLWVGcGlkb1dnTW1SV3JBVXhzZkVVYi1qTzdsbkdrLWxGV2hXR1o5VmRkalozMldoY1pUWll5aFI2YWJjbEZBWDVhVW5jZE9uZE9sX05jWmR1WFIwU0hMMGIwQ2hPTHIxa0hqdkZQOQ?oc=5"
+      },
+      {
+       "titulo": "Maximo Gonzalez/Andres Molteni vs. Francisco Cerundolo/Tomas Martin Etcheverry Vienna 2026 Quarterfinal | Stats Centre - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxNG9laVd0QTZfeTk1ak9KUkJKRzIzeW5jREc5VHp2VFRXSy1FUG55bG5RMjdKSkxuVFhTbE8xQ1RnMUxrREp0RGJMdml0TWlwUjVpREpCNUJicTN0azFQdS11ZDNqYWJmZVg2QlNDWTZkVl9f?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Aleksandar Kovacevic",
+     "mercado": 0.549,
+     "elo": 1522,
+     "elo_superficie": 1506,
+     "forma": [
+      "P hard vs Matteo Berrettini",
+      "P hard vs Stefanos Tsitsipas",
+      "G hard vs James Duckworth",
+      "P hard vs Giovanni Mpetshi Perricard",
+      "P hard vs Ben Shelton"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Highlights: Shelton sobrevive a Kovacevic en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTER5RjBEUXFIM0w0N01Hd2c4R2NDY3JaLXlBNEJEN0VYLU1ZZ0VCN19Rd0g2QnlRT0t4TGUxQmJzMW1CMXZlb2swUVJKWkdTR0MwTFl0M19KR2Y1MmROQ2FSbzJ1MHMzNU9YQ1BGd2JKWmdWdnBsWmprZ0lvbU5UbEJuV08wQ3MzR2NpNTA0N3VwZll5SVQyMg?oc=5"
+      },
+      {
+       "titulo": "¡Bang, bang, bang, bang! Shelton dispara 4 aces seguidos en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1NTX0pQX0s4aVJLWWJ5cjhBekdmb0N0aXFvQWJ1RUNuTG5sNUFXeGJSWVhHWHJGZU1PSzBKVlRBZEZIRUlVUGYzRUNZb3gyVDQ5SjlILUx3RTVNX3F4Sjk0SkRlSHVPZ0gyZmhMbDlIRVZVNlpLMmd0YnpWM0pfN004RVpxZVQzVGw1VzVQblZaNFZPb2JsSlhGS2Y?oc=5"
+      },
+      {
+       "titulo": "Hot Shot: Shelton se luce con una volea media en Basilea 2026 - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1FaVENhZlhQdWZ4YXQ5OVZIa09WcGJfY3hvS2hocWNuc3RQM3pneVMxbW1sdmpHOXJWZm9KdWtHYThBUFAyTDRNcDZoWlpBcHRaWi00ODBzZXpkazBXWll4V3BVN09zbGUzakxKUFllaENYRVRBcDZ0QWVVZFhKYzNGM1ZrVmNWVWpCTHpyeG5EeWxYdmZNV3o0dWY2TU9ZZHVQellB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "07a663103251981d597b64c7120f808c": {
+   "id": "07a663103251981d597b64c7120f808c",
+   "jugadores": [
+    "James Duckworth",
+    "Miomir Kecmanovic"
+   ],
+   "inicio": "2026-10-31T12:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.622,
+   "elo_general": 0.613,
+   "elo_en_superficie": 0.632,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "James Duckworth",
+     "mercado": 0.429,
+     "elo": 1578,
+     "elo_superficie": 1564,
+     "forma": [
+      "P hard vs Hubert Hurkacz",
+      "G hard vs Miomir Kecmanovic",
+      "G hard vs Luciano Darderi",
+      "P hard vs Stefanos Tsitsipas",
+      "P hard vs Aleksandar Kovacevic"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Entry List ATP Challenger Taipéi 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtZVBBbjNrdktCNGR1VzhNMDNHNmdhdTZhdUc5SXhHcENGbGhpT2lkOGg0ZklRV3EtZW56WEZXUEE2ZnJMUW5ESnRWeTE0azNpcXdhaFN2bUtXbk9lQzFLTDRHZEEtMW0zUHgxcFBB?oc=5"
+      },
+      {
+       "titulo": "Tommy Paul - Luciano Darderi Resultado 2-0 - Erste Bank Open - 29 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjR4RmtvV18tSlk3eWtOaUZEMmxCanl4SU4zVG4tbjhHM21HeFlQZzVIUk16LXBoWFVZWnJEUDEyNmU4VDdhUlQxMlFSNVdfSXZ5Mk81RTdpeXY1emN5N3RndTNVU2RPSlJIZkd1M2FRRWJXWkJSdEhUYzd6Q0hTTmp1NTVQemkxYzZj?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Miomir Kecmanovic",
+     "mercado": 0.571,
+     "elo": 1498,
+     "elo_superficie": 1470,
+     "forma": [
+      "P hard vs Adrian Mannarino",
+      "G hard vs Sho Shimabukuro",
+      "P hard vs Jakub Mensik",
+      "P hard vs James Duckworth",
+      "P hard vs Rinky Hijikata"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": []
+    }
+   ]
+  },
+  "e8546c13023c2eba48ee1634f96f3ca8": {
+   "id": "e8546c13023c2eba48ee1634f96f3ca8",
+   "jugadores": [
+    "Tomas Machac",
+    "Martin Landaluce"
+   ],
+   "inicio": "2026-10-31T12:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.732,
+   "elo_general": 0.737,
+   "elo_en_superficie": 0.727,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Tomas Machac",
+     "mercado": 0.644,
+     "elo": 1644,
+     "elo_superficie": 1650,
+     "forma": [
+      "P hard vs Alexander Bublik",
+      "G hard vs Zangar Nurlanuly",
+      "P hard vs Karen Khachanov",
+      "G hard vs Corentin Moutet",
+      "P hard vs Alex de Minaur"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Tomas Machac - Martin Landaluce en directo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHp0eHZPWkMyRlVRc0dZcTIxdlBzZHcxbjY0WE1ORzZBUVp0djdBdUlNc2g2SkwyXzcxSF9iNGhDMFUxMkFtd05pWTRRWFQ0OEh5Nmk2bG0wbWs1dU1LLUVBSDFUeFVrMjdydGZtdzgydjU2STdkdEdfV0dDTndvakg5U2NaOXdJVE9mbEVB?oc=5"
+      },
+      {
+       "titulo": "Tomas Machac - Martin Landaluce en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZW9YQnJfeUxwclRNTzhldnhOdW13QzBwQjRTdE5PVk9jWTJzWEQzaW5wTHZJb00zTmlFcExEc3VSSk1BeWJ6NE9EUmluVlBWSkFRZ1RMS3NPOS1wWlVCR29HVkllZ2JVYkZ5WHRrenI5bmZ0WUVvd1VueVpENlFDLW53MEFvQTdaY3dvNkItWQ?oc=5"
+      },
+      {
+       "titulo": "Matteo Berrettini vs Alex De Minaur » Mejores Cuotas y Estadísticas - Odds Scanner",
+       "fuente": "Odds Scanner",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aVUZGUVozMndrWjV3YkdMaG9KR0JKei1HR2l6S1M3X0hNR0lOV0tYRzNFNFpqNG5XbFN1N2lmUW85UW5DSXM5UWRZRkN1WWpHcV9MbzJ2TF9BYlFoRFhtQk05bU5IMFpnLWxUZHhLUHlkVXFHZXRn?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Martin Landaluce",
+     "mercado": 0.356,
+     "elo": 1464,
+     "elo_superficie": 1480,
+     "forma": [
+      "P hard vs Jacob Fearnley",
+      "P hard vs Marco Trungelliti",
+      "P hard vs Jan-Lennard Struff",
+      "P hard vs Stan Wawrinka",
+      "P hard vs Alexander Zverev"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Tomas Machac - Martin Landaluce en directo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHp0eHZPWkMyRlVRc0dZcTIxdlBzZHcxbjY0WE1ORzZBUVp0djdBdUlNc2g2SkwyXzcxSF9iNGhDMFUxMkFtd05pWTRRWFQ0OEh5Nmk2bG0wbWs1dU1LLUVBSDFUeFVrMjdydGZtdzgydjU2STdkdEdfV0dDTndvakg5U2NaOXdJVE9mbEVB?oc=5"
+      },
+      {
+       "titulo": "Tomas Machac - Martin Landaluce en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZW9YQnJfeUxwclRNTzhldnhOdW13QzBwQjRTdE5PVk9jWTJzWEQzaW5wTHZJb00zTmlFcExEc3VSSk1BeWJ6NE9EUmluVlBWSkFRZ1RMS3NPOS1wWlVCR29HVkllZ2JVYkZ5WHRrenI5bmZ0WUVvd1VueVpENlFDLW53MEFvQTdaY3dvNkItWQ?oc=5"
+      },
+      {
+       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
+       "fuente": "Flashscore.es",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "d2d80372138d7a9fb0ac07d2ff097c5e": {
+   "id": "d2d80372138d7a9fb0ac07d2ff097c5e",
+   "jugadores": [
+    "Tallon Griekspoor",
+    "Benjamin Bonzi"
+   ],
+   "inicio": "2026-10-31T13:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.493,
+   "elo_general": 0.477,
+   "elo_en_superficie": 0.51,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Tallon Griekspoor",
+     "mercado": 0.61,
+     "elo": 1680,
+     "elo_superficie": 1693,
+     "forma": [
+      "G hard vs Jiri Lehecka",
+      "G hard vs Francisco Cerundolo",
+      "G hard vs Jan-Lennard Struff",
+      "G hard vs Brandon Nakashima",
+      "P hard vs Alexander Zverev"
+     ],
+     "cansancio": "2 partidos, 5 sets y 52 juegos en 3 días; el último el 2026-10-29 contra Alexander Zverev, perdió 4-6 5-7",
+     "noticias": [
+      {
+       "titulo": "Alemán Alexander Zverev se convierte automáticamente en el N° 1 del mundo, al vencer al neerlandés Tallon Griekspoor en el ATP 500, de Viena - El Informador Venezuela",
+       "fuente": "El Informador Venezuela",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZHV2WEZHZ2w4RU9xR0FGU2Y3aEZmZEpZNVBJWUhMampKQWoyNGJOV1BJdC1aZXJMWjJ3ZFRDTkdUNWlUU0xWRWRsbTl3d0VLMFlSMk5xUWdoZnFJeWludVJYWEkyRzdfSzdVenpRTlg0b29JOWxlTWtNcGlfYmZhU2RsN0V2NTU3SVlpYl9DdFJJWngxaFpoZi1pc2J5M2J2RWtIRFBZYWxUUm0tYlM4YW5ZSzUzNXFidHJqcXRzVk1vYU81U0ZRNVlaRE90cVhjRlh5WGlIVjZjUE5qR01sTEw1bHFNM0Q3X3V4RlRTVWkwWnh2UU9tbXIzUU4yYmYtUmdsUGJjVkxOcFZyY0FYSW8zSQ?oc=5"
+      },
+      {
+       "titulo": "Zverez vence a Griekspoor y accede a cuartos de final en Viena - El Aragueño",
+       "fuente": "El Aragueño",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhqbVNqeWpUbG4ta2h4eGJhdDRqQjduYllLZkdod0JQSmhyUktiMEpMb1FtM1ZvSnFfUV9QZVRSMnBZSDBOUTdTdVhQMUJ0Y0FldTZicFUxWjlhYWRKZnBTcFczX1dYT1JjSnRSb1VpSzZoOW92Q0w5VWwtOHZDWkEwck5LTUFBSzJGNm1XVVNvcG8?oc=5"
+      },
+      {
+       "titulo": "Zverev supera a Griekspoor en Viena y asegura su ascenso al No. 1 - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGenY0R2xBVTh0TkFvQl92Vm9jeElsM1p6NjdmNXdlQ3gxUDB3RGs5VXZHTkxIclRrbmxUYU9aalM1VVFsNTM0eUhQaTkycHcwS05EVTRwTDA3TnYwcDNFREQ2OTBTSkwwRU81LWUzWUVXclRRNVlwTUJB?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Benjamin Bonzi",
+     "mercado": 0.39,
+     "elo": 1696,
+     "elo_superficie": 1686,
+     "forma": [
+      "G hard vs Alex Molcan",
+      "G hard vs Ignacio Buse",
+      "P hard vs Karen Khachanov",
+      "G hard vs Cameron Norrie",
+      "P hard vs Tommy Paul"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "VIDEO: Medvedev golpea la cancha y lanza una crítica a la ATP: “Les gusta que la gente se lastime” - Excélsior",
+       "fuente": "Excélsior",
+       "fecha": "2026-10-29",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW04Zm40cmFPU2ZaUzRiTVhpMnU1dXR3Q2w0MTJOQU14eXFvWW1TOU5DaWhTVVNCd2h5aVlySkpHVmxBSGNiN0JvUFE4by01Qi1NTmMyTExBaTE4Zi1xbHVQMnNmdTVpUDdQbjhCdkFLa3RfTDJHNTlsNUdlMkh6OXFKT1FFemhub1HSAYoBQVVfeXFMT3VtOGZuNHJhT1NmWlM0Yk1YaTJ1NXV0d0NsNDEyTkFNeHlxb1ltUzlOQ2loU1VTQndoeWlZckpKR1ZsQUhjYjdCb1BROG8tNUItTU5jMkxMQWkxOGYtcWx1UDJzZnU1aVA3UG44QnZBS2t0X0wyRzU5bDVHZTJIejlxSk9RRXpobm9R?oc=5"
+      },
+      {
+       "titulo": "Protagonismo francés en las wildcards del Masters 1000 de París - Match Tenis",
+       "fuente": "Match Tenis",
+       "fecha": "2026-10-28",
+       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uNXZWWk9hRDZsbDh0N0dzamVwcHhsR05lQXpOMmQtUy10NGVHbjJyRUpRTkh2X09icF9FZ0Y4a1EzRTJDN3d3M3ZYQWNEN09zYWJBS2hJSjlHeThKMDlmZlVVZUV4UmZGNk96YnJJZHJTOHo5dEhB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "61c8928c277531cc3a82944398f6ee04": {
+   "id": "61c8928c277531cc3a82944398f6ee04",
+   "jugadores": [
+    "Sebastian Baez",
+    "Damir Dzumhur"
+   ],
+   "inicio": "2026-10-31T14:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.518,
+   "elo_general": 0.443,
+   "elo_en_superficie": 0.593,
+   "cara_a_cara": [
+    2,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Sebastian Baez",
+     "mercado": 0.43,
+     "elo": 1548,
+     "elo_superficie": 1548,
+     "forma": [
+      "P hard vs Shang Juncheng",
+      "G hard vs Marcos Giron",
+      "P hard vs Valentin Vacherot",
+      "P hard vs Pierre-Hugues Herbert",
+      "P hard vs Giovanni Mpetshi Perricard"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": []
+    },
+    {
+     "nombre": "Damir Dzumhur",
+     "mercado": 0.57,
+     "elo": 1587,
+     "elo_superficie": 1482,
+     "forma": [
+      "G clay vs Alex Molcan",
+      "P clay vs Daniel Merida",
+      "P hard vs Hubert Hurkacz",
+      "G hard vs Dino Prizmic",
+      "P hard vs Zizou Bergs"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": []
+    }
+   ]
+  },
+  "26b452bf13520fa28ea016bf646a6cbc": {
+   "id": "26b452bf13520fa28ea016bf646a6cbc",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Jaume Munar"
+   ],
+   "inicio": "2026-10-31T14:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.247,
+   "elo_general": 0.271,
+   "elo_en_superficie": 0.223,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Lorenzo Sonego",
+     "mercado": 0.39,
+     "elo": 1528,
+     "elo_superficie": 1502,
+     "forma": [
+      "P hard vs Kamil Majchrzak",
+      "P hard vs Aziz Dougaz",
+      "P hard vs Moise Kouame",
+      "G hard vs Adolfo Daniel Vallejo",
+      "P hard vs Jacob Fearnley"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Cuadro ATP París 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMXBWV3JpYmFkSVB0WUhqcEktRWJVOFdSN3NzQVc0bF9rZm5FLW1RWHJENW5ScTFvd1JOc0FYdkRZU2liY3BUNXl5WGJhUldkNlJQcWg4MHU?oc=5"
+      },
+      {
+       "titulo": "Ignacio Buse volverá a citarse con el belga Zizou Bergs por primera ronda del Masters 1000 de París 2026 - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVZuUzZXSkFqUFA3cWh0aEdxVlNNazl6b0pPdkZjYkZTY05PSkM1V185UVVyN1hzSUNmaGZYTk9vbDRSUHoxdlAyRVNINmt6YVk3ZzNzVDhzYVVDSnZ5WmFYQ3pXVkpYTnVBR1M2bHlDRXllNktyZEJzSnU5eEdjRzMwZmJzRHE2WW52a3NaOW5hVkpuRjRiY3VuR3pVNEFtd2JhYUViM2N4NGpEMGp1a0NwWlNJWE8yVmJ5Rk85cnFFNDFwYVR2RUdpOGZxaC14SWF1akRfTnJET0NTbXlpd1B3cExSbmdhMlHSAYQCQVVfeXFMTVpNd1d0dGk0alJJemQyMXJGcVV2NXRoR1F4aVVPTS1OZXlaZWlSbUpaQW1xeGtEV2NRLTFGSVRtOUFOMFBDb2hFR00wTXJQUXg0VGZDTnIyX2t6T21GSUhUU3h0blRtS3BGUWp3Q2VRTVJfZzRMNDRBTnFpS3pvcDFKWUQ4SHhoSlFBSGp3M25WMWFxTmRUX3ZvdGQ3ZWlGQVk3OTlFS3czRGRsVVJRMHVROG9DTU93TTBEM0NYLXVSQnEzc1V1ZmtQcV9xVXhCMVRrcXhqMkRJbC1wVDBuSzVWSnlpT1IwSUVzQlhMcmFBczVscl9COXpXT0Q5M2ZjYlVBNVk?oc=5"
+      },
+      {
+       "titulo": "Landaluce y Munar, grandes protagonistas de la fase previa del Masters 1000 de París - Puntodebreak",
+       "fuente": "Puntodebreak",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0xoWDBpWWRiOEFXLThHY1Q5bkxRLVBHSHRzcHFHMEdReFBzSjljeGVNeXJWUkRPdnYwamFGS21VMDhKNWJhYnpxZ3ZRYllTRjU3cS0wczM5THRnSTNZVXhSTXl1eW1CekFOZXM4Q0xTaXdCS1NXTkYxMkRrcFY5dUpjWTlSX25JWjM4S3pOd1ZCNDFxdlBFaTQtbWhiU21xcFRuVFpKeFY0ZE8z?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Jaume Munar",
+     "mercado": 0.61,
+     "elo": 1700,
+     "elo_superficie": 1719,
+     "forma": [
+      "G hard vs Jaime Faria",
+      "G hard vs Kyrian Jacquet",
+      "P hard vs Carlos Alcaraz",
+      "P hard vs Jenson Brooksby",
+      "G hard vs Federico Cina"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
+       "fuente": "Flashscore.es",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
+      },
+      {
+       "titulo": "¿Cómo ver por televisión ATP París en España? 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWUdDUS0xVURBSHduS2VobkJKaThDdXlCdVNOcDZlQUYxMVB2SmdfOHN4QTAwazFLdGlxbHAtVjJyeWlha29aTW5yRXJpbmV4Q1pEaDgzYjV5ZF8wamVFYVBaWkxXeE94a0Y0dDNkeE1RS2NIemc?oc=5"
+      },
+      {
+       "titulo": "Landaluce y Munar, grandes protagonistas de la fase previa del Masters 1000 de París - Puntodebreak",
+       "fuente": "Puntodebreak",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0xoWDBpWWRiOEFXLThHY1Q5bkxRLVBHSHRzcHFHMEdReFBzSjljeGVNeXJWUkRPdnYwamFGS21VMDhKNWJhYnpxZ3ZRYllTRjU3cS0wczM5THRnSTNZVXhSTXl1eW1CekFOZXM4Q0xTaXdCS1NXTkYxMkRrcFY5dUpjWTlSX25JWjM4S3pOd1ZCNDFxdlBFaTQtbWhiU21xcFRuVFpKeFY0ZE8z?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "5a856de2f4f6df9ea205100c2c304254": {
+   "id": "5a856de2f4f6df9ea205100c2c304254",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Taylor Fritz"
+   ],
+   "inicio": "2026-10-31T14:00+00:00",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.426,
+   "elo_general": 0.426,
+   "elo_en_superficie": 0.427,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Valentin Vacherot",
+     "mercado": 0.266,
+     "elo": 1796,
+     "elo_superficie": 1795,
+     "forma": [
+      "P hard vs Tommy Paul",
+      "P hard vs Luca Van Assche",
+      "G hard vs Mariano Navone",
+      "G hard vs Rafael Jodar",
+      "G hard vs Holger Rune"
+     ],
+     "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-10-30 contra Holger Rune, ganó 6-3 3-6 6-3",
+     "noticias": [
+      {
+       "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTBrWWU4ZHBjNjYwY1ZxRTh5ZTVZZENXN3NuN1dwNzRwdlpFQ1Z0N0Fvc2FoT1dnX3doa25QeXhLVTBzMVFwZ0s5UTRMcnBRSEc5SHVlUUJxaHFtRVBlQllYTDJweHU1aGcwTndURFppY3M2bUlNZG9nbWI3azdEOWI1X1ltM1hiaU9GQUZycFpDUGNrSmZac0lMc1o0RnFsNWZxTno4QzlHd9IBxAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c0?oc=5"
+      },
+      {
+       "titulo": "Valentin Vacherot vs Taylor Fritz · Semifinal · ATP Basel - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkpHWWZ5OUdIc09BTW42REVkNlhnZ0lsSW9laXhkbi01cVZFSDdhakhRS0FiaVoteUgyNGRTRUQtQ3h5VV94RzQwcHBrQ3dqSUtVQVhGc3ZIaElsWHU4NlRud1lMWGp6YjJIY3BZQkRURUEyUl9VUUE1VjFlajFiRWNpd0VjY1ExVGdaNUYxallRY1N3dHpIX1VWSQ?oc=5"
+      },
+      {
+       "titulo": "Vacherot también puede con Rune y va muy en serio en Basilea - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3hfNmRPY1RPTWlsNVlybGNrRGFDbXNXN0Nub2EyR3JNWE9SRHFqdlBVY2dOZGlocGYwdnp2ZG5TdnJsS012UXJacnQ0OV9mQUpPVHpkbHVzNjNLRnBzeDJhTTNaZ2YtSWJKVVJwTWdsaE9lQ2JWRGJ4eWhtV29nYQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Taylor Fritz",
+     "mercado": 0.734,
+     "elo": 1848,
+     "elo_superficie": 1846,
+     "forma": [
+      "G hard vs Daniel Altmaier",
+      "G hard vs Tommy Paul",
+      "P hard vs Lorenzo Musetti",
+      "G hard vs Rinky Hijikata",
+      "G hard vs Denis Shapovalov"
+     ],
+     "cansancio": "3 partidos, 5 sets y 49 juegos en 3 días; el último el 2026-10-30 contra Arthur Fils, ganó 5-2",
+     "noticias": [
+      {
+       "titulo": "¿Cuál es la programación de Basilea? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1razVuNDhsS1pZaTZrM0VPN0RJMU96dXJHNUVhZkpNR093MlJCeFYwOFF2cmF4a1NjMG56MXNCS2kxWUZjaFpmczBjTlFmczAwTkZrempKQWt6RWhzMW5pWQ?oc=5"
+      },
+      {
+       "titulo": "Hot Shot: Paul conecta un ángulo perfecto ante Fritz en Lyon - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVN3ZVhLUmxFdDZicTVpZGlTcjhiT09hV3M2TXZuUjd4bWEwbVVIZTgxVTdGUjhhNTBSZkxMX2FNTDdJaWlpQjhPSDVlSHl2OERCdDZvajBjaC1lWHJHRGRNdWlUcTluUmR3S2ItVWw2cEZha21MSUxaZUd6MHp5b2dLVDVWWExUMjJ4TmxXMkdDUQ?oc=5"
+      },
+      {
+       "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1czanNVWWFHaUxkVzRPVUIxbDJaTTVwM3RTekRHVkp4bUlmTURQZ3BkS0NPbTBSdENRRkJXRm8wMVZGQU5seFd1SllfNVRmSFk5WVVRbGVmN0VDTVlfaDZxVGRoS1ZnTFJ2anRsdTVQcmtIRmZBY05pUl9qelRSS291TW9LazhKamlDdGg0OGtGeTNfUWFWcHpFaGdqMlJmZkJGbUpqbFXSAbYBQVVfeXFMTV9wVExMWTVhZDQ0R0IzTndOUzVWSTJHT2pGOXFJbkZLRUFwR0g0dC1GT2pzQlQzenIyQzVMcUFQQWJlckJnU0NqWFVrbXNPUmhmY2RtWmd3dWFUYWh3ZnJYSnZzT19GcGtfYlo0TFdIZ2dCdURQeFR3bXBJdkxCT1k5RFRxLXhLUjhtRmh6cVltSkZfNXdZZmwyUXJPeVJjeDZsWVRvUVpDdFZqZnpJX01icUkwRlE?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "3f0addea74d69db2f1b7595d4fb2b1af": {
+   "id": "3f0addea74d69db2f1b7595d4fb2b1af",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Carlos Alcaraz"
+   ],
+   "inicio": "2026-10-31T14:00+00:00",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.249,
+   "elo_general": 0.211,
+   "elo_en_superficie": 0.286,
+   "cara_a_cara": [
+    1,
+    3
+   ],
+   "detalle": [
+    {
+     "nombre": "Daniil Medvedev",
+     "mercado": 0.334,
+     "elo": 1904,
+     "elo_superficie": 1917,
+     "forma": [
+      "G hard vs Terence Atmane",
+      "G hard vs Nikoloz Basilashvili",
+      "G hard vs Daniel Merida",
+      "G hard vs Cameron Norrie",
+      "G hard vs Adrian Mannarino"
+     ],
+     "cansancio": "3 partidos, 7 sets y 69 juegos en 3 días; el último el 2026-10-30 contra Adrian Mannarino, ganó 6-2 6-3",
+     "noticias": [
+      {
+       "titulo": "Alcaraz-Medvedev: horario y dónde ver hoy la semifinal de Viena por televisión - Sport Aragón",
+       "fuente": "Sport Aragón",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXQ1S0w1WXI4WVROd0V0d1JLV29ZdVZfY3FHTWo2TkRlNmNVUGxfX3JaWjVjaGNIUTd3UVJXcWgtOUdfbTNUeHNDbWpTVEQxZjliQkt5QnQxck9waUplNXExSzZKc3doaFVmRTJDSkE2YnNwTW1QU3ZiNWlCSlktUGVjZXF3WmxqNW84QkZ2SngyZDZsUDBvb2Q5VFRIRmRlQlNTcG83TGxBQzdPd1VhZ09TQjRHZw?oc=5"
+      },
+      {
+       "titulo": "A qué hora es el Medvedev - Alcaraz: horario y dónde ver hoy en TV el partido de semifinales del ATP 500 de Viena - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWE9zb3F1eGRuQ2FMN0dsNWRjWEpBRktPdmVmZGl5eUtEbTdnVWYzanJ2aXdxM1RfZ3U1b19JR3gtWk13dmlLTDVEMHAxb0tzbHlsby1LZ1d4ckxSRjZwekJKeFNEN3Jkc1JZblA3eXp6ek1WZi1lb1NYNzFteDRPZVJtYVRjOGhiUGlienRzYVZ2VFAyWVhydFJ5NHp6WXRiUFA2Mk1GYVBXNjJBXzRjc21kdmt4MXkwTkHSAboBQVVfeXFMUHprVUppdl9meW5XM0FZS3lhdWdibV93cnFRQllKZnVqMU12SkpiNEM5WmJ5S3gwbmctd0VSOUtTbEFXenBZUWRGNE5NU3B1S2ZUN2F0eVlKS1REc1h5b2NSc2VydFVmUTlOb054UmNaOFRBa2Z1clJLVG5kSWVyYWhEMGE3Q2JrRWpkQlNFYmlLb3dFeVJLUU5oUXA4NU1pRHdvR0paN0UyUjRmQWZLaTBqNEhiMHo0N1h3?oc=5"
+      },
+      {
+       "titulo": "Alcaraz tumba a Paul y se cita con Medvedev en un duelo de gigantes en las semifinales de Viena - MurciaEconomía.com",
+       "fuente": "MurciaEconomía.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTN3ZUVBMTR0THB6V0hOZFNMNFE0SjVsaWFiak9qUzZaLWw2TThrbXlfRjE0UkhXZTc5aGNhS2t5U0VVMlBkbDFENU0wbXl2VHNXMUlEUXV0dUNKTmFPb3BoMy1Dd1RnS1RseGUwOFR5cjVZWTk1T1lMdDJkeU1Kb3lpRHE1Vmw4Tm5TZXNZUk03WFV0Rl94N0sxTHNUckgxUUxtNkVVdGRNNmRHUHREdkU2bmxoM0toeDJuMUt0NUV4WDVGX2FwNjBFTmdxZw?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Carlos Alcaraz",
+     "mercado": 0.666,
+     "elo": 2133,
+     "elo_superficie": 2076,
+     "forma": [
+      "G hard vs Juan Manuel Cerundolo",
+      "P hard vs Zizou Bergs",
+      "G hard vs Karen Khachanov",
+      "G hard vs Nikoloz Basilashvili",
+      "G hard vs Tommy Paul"
+     ],
+     "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-30 contra Tommy Paul, ganó 6-4 7-6",
+     "noticias": [
+      {
+       "titulo": "Alcaraz-Medvedev: horario y dónde ver hoy la semifinal de Viena por televisión - Sport Aragón",
+       "fuente": "Sport Aragón",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXQ1S0w1WXI4WVROd0V0d1JLV29ZdVZfY3FHTWo2TkRlNmNVUGxfX3JaWjVjaGNIUTd3UVJXcWgtOUdfbTNUeHNDbWpTVEQxZjliQkt5QnQxck9waUplNXExSzZKc3doaFVmRTJDSkE2YnNwTW1QU3ZiNWlCSlktUGVjZXF3WmxqNW84QkZ2SngyZDZsUDBvb2Q5VFRIRmRlQlNTcG83TGxBQzdPd1VhZ09TQjRHZw?oc=5"
+      },
+      {
+       "titulo": "A qué hora es el Medvedev - Alcaraz: horario y dónde ver hoy en TV el partido de semifinales del ATP 500 de Viena - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWE9zb3F1eGRuQ2FMN0dsNWRjWEpBRktPdmVmZGl5eUtEbTdnVWYzanJ2aXdxM1RfZ3U1b19JR3gtWk13dmlLTDVEMHAxb0tzbHlsby1LZ1d4ckxSRjZwekJKeFNEN3Jkc1JZblA3eXp6ek1WZi1lb1NYNzFteDRPZVJtYVRjOGhiUGlienRzYVZ2VFAyWVhydFJ5NHp6WXRiUFA2Mk1GYVBXNjJBXzRjc21kdmt4MXkwTkHSAboBQVVfeXFMUHprVUppdl9meW5XM0FZS3lhdWdibV93cnFRQllKZnVqMU12SkpiNEM5WmJ5S3gwbmctd0VSOUtTbEFXenBZUWRGNE5NU3B1S2ZUN2F0eVlKS1REc1h5b2NSc2VydFVmUTlOb054UmNaOFRBa2Z1clJLVG5kSWVyYWhEMGE3Q2JrRWpkQlNFYmlLb3dFeVJLUU5oUXA4NU1pRHdvR0paN0UyUjRmQWZLaTBqNEhiMHo0N1h3?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz sufre ante Tommy Paul pero se clasifica para las semifinales de Viena - COPE",
+       "fuente": "COPE",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcm5UR3Jkb3A3bVk2NjZkMlNlOXc0YUhRNWJTLVo5MFRBWi14OE1ZN1R0S3dKc3ViNDNyS2Zyd0M1VUd2OGpHbUV6Yml2SVFKV3VDaDY3TFlzYllYLTlqZ0VydWxZSDAxbWRjaDc0WG0weEg4SFI4V0tPTTZ5WThHRkJmRVZHUG91T3BDR2VxcWlCdHZrdF9CaFFKanpZM0NWSGl0Y3hQNmg3ZUUzZzFGY0JFSDZLNWVVR1pGM2RlT3g5UjREVEJfSEo5eTBLTDhlZmpiYkdmanlvS2lHUDd2Njc5T1hlTWtQeko5SG9iejRpejFuQ2toaHRYN0VoTUVSZ0VJT3ZZVzVEbXRxcWRsSHVRVDZRUEZyaVl5cWxuTTM?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "e29817fd8c010bb31e6c920398185da1": {
+   "id": "e29817fd8c010bb31e6c920398185da1",
+   "jugadores": [
+    "Alexander Zverev",
+    "Alex de Minaur"
+   ],
+   "inicio": "2026-10-31T15:30+00:00",
+   "torneo": "ATP Vienna Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.667,
+   "elo_general": 0.697,
+   "elo_en_superficie": 0.637,
+   "cara_a_cara": [
+    3,
+    2
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.693,
+     "elo": 2012,
+     "elo_superficie": 1957,
+     "forma": [
+      "G hard vs Alex de Minaur",
+      "P hard vs Alejandro Davidovich Fokina",
+      "G hard vs Martin Landaluce",
+      "G hard vs Tallon Griekspoor",
+      "G hard vs Arthur Fery"
+     ],
+     "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-10-30 contra Arthur Fery, ganó 6-0 6-2",
+     "noticias": [
+      {
+       "titulo": "Zverev se harta de la ATP: \"El tenis va en la dirección equivocada\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb0hiSG5IZXVqZkJub2t6UUp0YkZQWE40STVNZUdvNUhPMG5DQXpnWkVYVE5Id2dzZVFfQkJKSXE0M1FOajJRNTJhUlhxNlZmemgxaWc2Tmp4TU8taVNmMGIydTFTR09WZlhVUFRMeEJlaEJDSHdzaW5HUjdyMGIxcjFOTlY5MGNrNFlZ?oc=5"
+      },
+      {
+       "titulo": "Alemán Alexander Zverev se convierte automáticamente en el N° 1 del mundo, al vencer al neerlandés Tallon Griekspoor en el ATP 500, de Viena - El Informador Venezuela",
+       "fuente": "El Informador Venezuela",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZHV2WEZHZ2w4RU9xR0FGU2Y3aEZmZEpZNVBJWUhMampKQWoyNGJOV1BJdC1aZXJMWjJ3ZFRDTkdUNWlUU0xWRWRsbTl3d0VLMFlSMk5xUWdoZnFJeWludVJYWEkyRzdfSzdVenpRTlg0b29JOWxlTWtNcGlfYmZhU2RsN0V2NTU3SVlpYl9DdFJJWngxaFpoZi1pc2J5M2J2RWtIRFBZYWxUUm0tYlM4YW5ZSzUzNXFidHJqcXRzVk1vYU81U0ZRNVlaRE90cVhjRlh5WGlIVjZjUE5qR01sTEw1bHFNM0Q3X3V4RlRTVWkwWnh2UU9tbXIzUU4yYmYtUmdsUGJjVkxOcFZyY0FYSW8zSQ?oc=5"
+      },
+      {
+       "titulo": "Zverev eases past ailing Fery, into his third Vienna SF - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43THlfNnkwYndwTmw4RGVwY2FZNDR1WmtkMU1OdGRtYUZxNzhaX3VtTUFXSlZieko5Z1QxTkQ2ZzRuYnNEd1JwWVVTeXpKMVZyUjVqWHJoV2FPTXZsRHowYlVlVVB1T05qRElKcWY2WQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Alex de Minaur",
+     "mercado": 0.307,
+     "elo": 1867,
+     "elo_superficie": 1860,
+     "forma": [
+      "G hard vs Karen Khachanov",
+      "P hard vs Alexander Zverev",
+      "G hard vs Tomas Machac",
+      "G hard vs Learner Tien",
+      "G hard vs Matteo Berrettini"
+     ],
+     "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-10-30 contra Matteo Berrettini, ganó 7-6 6-2",
+     "noticias": [
+      {
+       "titulo": "Highlights: De Miñaur pasa a Berrettini en CFs de Vienna 2026, llega a su 350º triunfo en el Tour - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDhfeFhNdkhQUGZJQkpIUTNEd3pZZ3kxN0J2ZWFaZ3VQWlhsQ2JSS2U4N204Sm5EZ0JEeENEb3JveEg3UnRIdS1vcndkbUJIeURmWHRXc2ZoWDFwZHprYVRRZmxFYjQzTE9teHFFM1pmd2sxeVNNdkdMc2h0elhEUVk4SE9ObVVsS08teGw0MUR0NWVpRGZ0LVlST0dveVhGdUIxU2VsV3NGMkdQa2d3YkFJWlhWaThUQlBr?oc=5"
+      },
+      {
+       "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1czanNVWWFHaUxkVzRPVUIxbDJaTTVwM3RTekRHVkp4bUlmTURQZ3BkS0NPbTBSdENRRkJXRm8wMVZGQU5seFd1SllfNVRmSFk5WVVRbGVmN0VDTVlfaDZxVGRoS1ZnTFJ2anRsdTVQcmtIRmZBY05pUl9qelRSS291TW9LazhKamlDdGg0OGtGeTNfUWFWcHpFaGdqMlJmZkJGbUpqbFXSAbYBQVVfeXFMTV9wVExMWTVhZDQ0R0IzTndOUzVWSTJHT2pGOXFJbkZLRUFwR0g0dC1GT2pzQlQzenIyQzVMcUFQQWJlckJnU0NqWFVrbXNPUmhmY2RtWmd3dWFUYWh3ZnJYSnZzT19GcGtfYlo0TFdIZ2dCdURQeFR3bXBJdkxCT1k5RFRxLXhLUjhtRmh6cVltSkZfNXdZZmwyUXJPeVJjeDZsWVRvUVpDdFZqZnpJX01icUkwRlE?oc=5"
+      },
+      {
+       "titulo": "Matteo Berrettini 0 - 2 Alex de Minaur: resumen y estadísticas del partido de Erste Bank Open (ATP) - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSEl2djlJNXNQdk5OV1NsRDRsWGZETDFjU2tiTEFwaVZxYjRNVzJkQkhnRHdfeEJUZ2hRMnN0cG5JVElHRnUzdUxOWnYyWkNMMEFUUlRJNHZCY1pPMXlQQm5XbTgtY0VzLS03dUNyOWJESEdaNG41OU03OENPX1AwRGNOZXlUX0VnT2dQMFljb3Q1Tk50SERxQTNsaWMxc2VNR3BZRllDT2JKVWl2QWFPU2FrMS1sM0dWRjN1VjZHNmV4TXItNmozd0xxa1NFRG1IQ01KMk43MXdPWmxKSWtUekNpamh3UVFLRVFJRXJvQUE5YkZnbm5lQ3pn?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "552fda4930d6ed5d9fef41d162da947d": {
+   "id": "552fda4930d6ed5d9fef41d162da947d",
+   "jugadores": [
+    "Jiri Lehecka",
+    "Jan-Lennard Struff"
+   ],
+   "inicio": "2026-10-31T16:00+00:00",
+   "torneo": "ATP Swiss Indoors Basel",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.624,
+   "elo_general": 0.621,
+   "elo_en_superficie": 0.626,
+   "cara_a_cara": [
+    2,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Jiri Lehecka",
+     "mercado": 0.657,
+     "elo": 1830,
+     "elo_superficie": 1803,
+     "forma": [
+      "G hard vs Raphael Collignon",
+      "P hard vs Tallon Griekspoor",
+      "G hard vs Stan Wawrinka",
+      "G hard vs Daniel Altmaier",
+      "G hard vs Jerome Kym"
+     ],
+     "cansancio": "2 partidos, 4 sets y 40 juegos en 3 días; el último el 2026-10-30 contra Jerome Kym, ganó 6-4 6-2",
+     "noticias": [
+      {
+       "titulo": "Jiri Lehečka vs Jan-Lennard Struff · Semifinal · ATP Basel - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVFQLTZVLXRGajkxTFVja0V5OFl3Z081TjZiRm56YUNiSzBMdGhnY3YzUVBNLWk5emMxWU9BUzkxbG9uOXhERGdsSEFVYTE0azQ1OFNlcWhwc1BEUkpKMHgtN2NSQnJoc1owaDVvX0gxN1Nkb2RaaGhNa3VKSHJzWDFhV0JxeG5JSWMzNzNwN3NZNXZJUVNVcUI1TQ?oc=5"
+      },
+      {
+       "titulo": "Jirí Lehecka - Jan-Lennard Struff en directo - ATP Basilea: Resultados y resúmenes de Tenis - 31/10/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJicEQ0eVlQbHpWcTVFTmhhOE80X2VXOXY3R2dUa3pkM3dtY3hJN0V6Sl82MDJWNllnYmNJMVVlMG04OXRCZmoyenJSLV9mejhweHRDWGZXQ2JxOHZub2ZCV0EwWXgzWl9vZUtfcTRCSkQ0U3RwR3JnU0thSEZiTmtPWnZlakhveWxWenRsbDk1aWR6LTFpUDd0aEROVDR6ZUpYSVlUOWEwWG8?oc=5"
+      },
+      {
+       "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTBrWWU4ZHBjNjYwY1ZxRTh5ZTVZZENXN3NuN1dwNzRwdlpFQ1Z0N0Fvc2FoT1dnX3doa25QeXhLVTBzMVFwZ0s5UTRMcnBRSEc5SHVlUUJxaHFtRVBlQllYTDJweHU1aGcwTndURFppY3M2bUlNZG9nbWI3azdEOWI1X1ltM1hiaU9GQUZycFpDUGNrSmZac0lMc1o0RnFsNWZxTno4QzlHd9IBxAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c0?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Jan-Lennard Struff",
+     "mercado": 0.343,
+     "elo": 1744,
+     "elo_superficie": 1713,
+     "forma": [
+      "G hard vs Arthur Fils",
+      "P hard vs Tallon Griekspoor",
+      "G hard vs Yannick Hanfmann",
+      "G hard vs Novak Djokovic",
+      "G hard vs Nuno Borges"
+     ],
+     "cansancio": "3 partidos, 7 sets y 74 juegos en 3 días; el último el 2026-10-30 contra Nuno Borges, ganó 6-2 6-3",
+     "noticias": [
+      {
+       "titulo": "Jiri Lehečka vs Jan-Lennard Struff · Semifinal · ATP Basel - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVFQLTZVLXRGajkxTFVja0V5OFl3Z081TjZiRm56YUNiSzBMdGhnY3YzUVBNLWk5emMxWU9BUzkxbG9uOXhERGdsSEFVYTE0azQ1OFNlcWhwc1BEUkpKMHgtN2NSQnJoc1owaDVvX0gxN1Nkb2RaaGhNa3VKSHJzWDFhV0JxeG5JSWMzNzNwN3NZNXZJUVNVcUI1TQ?oc=5"
+      },
+      {
+       "titulo": "Highlights: Struff pasa a Borges en CFs de Basilea 2026 - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2t1Z2sxSGlCR01xckFnb3dQUnFXazJpbEMyU2dWMk55UFhtaGk5SXZtdFJzN2N1bXFvSmdGQzB0UkdFQmE3TlhDWEhLRHRNb1pxdlJfYkJUWVRfOEdjV3hmcXd6cGNVcWxMdHVKR3FFV0V6X0hweFlJQmtxNzNVNFMydENEUTBvVWs3b0NBQ05SZw?oc=5"
+      },
+      {
+       "titulo": "Jirí Lehecka - Jan-Lennard Struff en directo - ATP Basilea: Resultados y resúmenes de Tenis - 31/10/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJicEQ0eVlQbHpWcTVFTmhhOE80X2VXOXY3R2dUa3pkM3dtY3hJN0V6Sl82MDJWNllnYmNJMVVlMG04OXRCZmoyenJSLV9mejhweHRDWGZXQ2JxOHZub2ZCV0EwWXgzWl9vZUtfcTRCSkQ0U3RwR3JnU0thSEZiTmtPWnZlakhveWxWenRsbDk1aWR6LTFpUDd0aEROVDR6ZUpYSVlUOWEwWG8?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "e33e004fe9457eef4c8e5a50d15392c0": {
+   "id": "e33e004fe9457eef4c8e5a50d15392c0",
+   "jugadores": [
+    "Leylah Fernandez",
+    "Diana Shnaider"
+   ],
+   "inicio": "2026-11-01T03:00+00:00",
+   "torneo": "WTA Pan Pacific Open",
+   "superficie": "hard",
+   "actualizado": "2026-10-31T08:00+00:00",
+   "elo": 0.428,
+   "elo_general": 0.426,
+   "elo_en_superficie": 0.429,
+   "cara_a_cara": [
+    0,
+    2
+   ],
+   "detalle": [
+    {
+     "nombre": "Leylah Fernandez",
+     "mercado": null,
+     "elo": 1892,
+     "elo_superficie": 1886,
+     "forma": [
+      "G hard vs Marie Bouzkova",
+      "P hard vs Elena Rybakina",
+      "G hard vs Himeno Sakatsume",
+      "G hard vs Elise Mertens",
+      "G hard vs Kamilla Rakhimova"
+     ],
+     "cansancio": "2 partidos, 4 sets y 42 juegos en 3 días; el último el 2026-10-31 contra Kamilla Rakhimova, ganó 7-5 6-3",
+     "noticias": [
+      {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
+      },
+      {
+       "titulo": "Fernandez rallies from break down in both sets to reach third final of 2026 - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDdRcEVkWlNRSDhEazFveEFXR0o0RUhUMUo3NVBURl83Y1Jxc3lFVWVlSUJpU0dJY2lRUUhSOG5FZ3JCanVhUTBCM2dlbWtnTU5TRnFXQWQ5bGxOcHdZaHMxcTk4Y0JhZVFZS2V4R2hBTk4wc002aEtLWXNUc1lxNllwcExZa2w2eEpPNl92STlpNXJRRVhWcm1XYnpRWHo5djlGaFRqNUZUNkN2UGVZUkZIUVVENkE?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Diana Shnaider",
+     "mercado": null,
+     "elo": 1943,
+     "elo_superficie": 1936,
+     "forma": [
+      "G hard vs Iva Jovic",
+      "P hard vs Elena Rybakina",
+      "G hard vs Aliaksandra Sasnovich",
+      "G hard vs Alexandra Eala",
+      "G hard vs Mia Pohankova"
+     ],
+     "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
+     "noticias": [
+      {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
+      },
+      {
+       "titulo": "Shnaider erases early break deficit, saves set point in second to reach Tokyo final - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHlQUU9VamFua3dOS3o3cHM2ek16dDJCekpqUFlVRjdlX3lHYjFjU3pvOG03R2FXeTdUc25yZmh2ZVFVclpRTDJhdmFsaThOVDNOUVhacGZUM3hXVmRVajNjMmExVWc1cG4wZzlmN2RfQnBsSW1xZXE4S1hTVHNPVUNhZDFPX29GU3VqeVBId3pHZEZSbzVPY1k0bzVteW9sbHAydTRtT185VTVxLUpVSE9DN1U5TUlVWTJ1VXo1dTQ?oc=5"
+      },
+      {
+       "titulo": "Shnaider Tokyo SF HLs - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14eVBIWEpVUnEtZzUwQk9nYkpSX3VDRTZoSWZDSXZObHZ0WEJKQzAtcndFdkJwcU9lZm9XekxjOFFYaGdyb0JobEtIUnlNNlhOYXlMVDRfMG5GanVtalBkMzZEVmhNMHV1ZDdvcXoxZw?oc=5"
       }
      ]
     }

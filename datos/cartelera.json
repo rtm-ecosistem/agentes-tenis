@@ -1,312 +1,343 @@
 {
- "actualizado": "2026-10-30T08:00+00:00",
+ "actualizado": "2026-10-31T08:00+00:00",
  "casa": "williamhill",
  "partidos": [
   {
-   "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-   "deporte": "tennis_atp_vienna_open",
-   "torneo": "ATP Vienna Open",
+   "id": "2a5f1771a236171c3e21d21bdf56bff4",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-10-30T12:30+00:00",
+   "inicio": "2026-10-31T10:05+00:00",
    "jugadores": [
-    "Adrian Mannarino",
-    "Daniil Medvedev"
+    "Jaime Faria",
+    "Rinky Hijikata"
    ],
-   "opciones": [
-    {
-     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653|h2h|Adrian Mannarino|",
-     "mercado": "h2h",
-     "nombre": "Adrian Mannarino",
-     "punto": null,
-     "cuota": 4.0,
-     "pinnacle": 4.31
-    },
-    {
-     "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653|h2h|Daniil Medvedev|",
-     "mercado": "h2h",
-     "nombre": "Daniil Medvedev",
-     "punto": null,
-     "cuota": 1.25,
-     "pinnacle": 1.25
-    }
-   ],
+   "opciones": [],
    "pinnacle_h2h": {
-    "Adrian Mannarino": 4.31,
-    "Daniil Medvedev": 1.25
+    "Jaime Faria": 2.13,
+    "Rinky Hijikata": 1.75
    }
   },
   {
-   "id": "4eebb3b42f713eff0e760f9abef41572",
+   "id": "b79cec36580dcc0d4a39f0e998bf6259",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T10:05+00:00",
+   "jugadores": [
+    "Pablo Carreno Busta",
+    "Mattia Bellucci"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Mattia Bellucci": 1.65,
+    "Pablo Carreno Busta": 2.28
+   }
+  },
+  {
+   "id": "8f1291f57aab2102a046f3688a5cb9da",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T10:05+00:00",
+   "jugadores": [
+    "Thiago Agustin Tirante",
+    "Zachary Svajda"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Thiago Agustin Tirante": 1.98,
+    "Zachary Svajda": 1.86
+   }
+  },
+  {
+   "id": "4eaa8a4094623f5bcb9871f3ed3916ce",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T11:05+00:00",
+   "jugadores": [
+    "Hugo Gaston",
+    "Vit Kopriva"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Hugo Gaston": 1.43,
+    "Vit Kopriva": 2.92
+   }
+  },
+  {
+   "id": "2885e6fd43f434fcec49d2f755b3e433",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T12:00+00:00",
+   "jugadores": [
+    "Juan Manuel Cerundolo",
+    "Aleksandar Kovacevic"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Aleksandar Kovacevic": 1.75,
+    "Juan Manuel Cerundolo": 2.13
+   }
+  },
+  {
+   "id": "07a663103251981d597b64c7120f808c",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T12:00+00:00",
+   "jugadores": [
+    "James Duckworth",
+    "Miomir Kecmanovic"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "James Duckworth": 2.24,
+    "Miomir Kecmanovic": 1.68
+   }
+  },
+  {
+   "id": "e8546c13023c2eba48ee1634f96f3ca8",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T12:00+00:00",
+   "jugadores": [
+    "Tomas Machac",
+    "Martin Landaluce"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Martin Landaluce": 2.7,
+    "Tomas Machac": 1.49
+   }
+  },
+  {
+   "id": "d2d80372138d7a9fb0ac07d2ff097c5e",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T13:00+00:00",
+   "jugadores": [
+    "Tallon Griekspoor",
+    "Benjamin Bonzi"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Benjamin Bonzi": 2.46,
+    "Tallon Griekspoor": 1.57
+   }
+  },
+  {
+   "id": "61c8928c277531cc3a82944398f6ee04",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T14:00+00:00",
+   "jugadores": [
+    "Sebastian Baez",
+    "Damir Dzumhur"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Damir Dzumhur": 1.68,
+    "Sebastian Baez": 2.23
+   }
+  },
+  {
+   "id": "26b452bf13520fa28ea016bf646a6cbc",
+   "deporte": "tennis_atp_paris_masters",
+   "torneo": "ATP Paris Masters",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T14:00+00:00",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Jaume Munar"
+   ],
+   "opciones": [],
+   "pinnacle_h2h": {
+    "Jaume Munar": 1.57,
+    "Lorenzo Sonego": 2.46
+   }
+  },
+  {
+   "id": "5a856de2f4f6df9ea205100c2c304254",
    "deporte": "tennis_atp_swiss_indoors",
    "torneo": "ATP Swiss Indoors Basel",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-10-30T13:00+00:00",
+   "inicio": "2026-10-31T14:00+00:00",
    "jugadores": [
-    "Holger Rune",
-    "Valentin Vacherot"
+    "Valentin Vacherot",
+    "Taylor Fritz"
    ],
    "opciones": [
     {
-     "id": "4eebb3b42f713eff0e760f9abef41572|h2h|Holger Rune|",
+     "id": "5a856de2f4f6df9ea205100c2c304254|h2h|Taylor Fritz|",
      "mercado": "h2h",
-     "nombre": "Holger Rune",
+     "nombre": "Taylor Fritz",
      "punto": null,
-     "cuota": 1.67,
-     "pinnacle": 1.68
+     "cuota": 1.33,
+     "pinnacle": 1.32
     },
     {
-     "id": "4eebb3b42f713eff0e760f9abef41572|h2h|Valentin Vacherot|",
+     "id": "5a856de2f4f6df9ea205100c2c304254|h2h|Valentin Vacherot|",
      "mercado": "h2h",
      "nombre": "Valentin Vacherot",
      "punto": null,
-     "cuota": 2.2,
-     "pinnacle": 2.3
+     "cuota": 3.3,
+     "pinnacle": 3.65
     }
    ],
    "pinnacle_h2h": {
-    "Holger Rune": 1.68,
-    "Valentin Vacherot": 2.3
+    "Taylor Fritz": 1.32,
+    "Valentin Vacherot": 3.65
    }
   },
   {
-   "id": "cc4564f7b80beae29935d650d1ccb4cb",
+   "id": "3f0addea74d69db2f1b7595d4fb2b1af",
    "deporte": "tennis_atp_vienna_open",
    "torneo": "ATP Vienna Open",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-10-30T14:00+00:00",
+   "inicio": "2026-10-31T14:00+00:00",
    "jugadores": [
-    "Tommy Paul",
+    "Daniil Medvedev",
     "Carlos Alcaraz"
    ],
    "opciones": [
     {
-     "id": "cc4564f7b80beae29935d650d1ccb4cb|h2h|Carlos Alcaraz|",
+     "id": "3f0addea74d69db2f1b7595d4fb2b1af|h2h|Carlos Alcaraz|",
      "mercado": "h2h",
      "nombre": "Carlos Alcaraz",
      "punto": null,
-     "cuota": 1.29,
-     "pinnacle": 1.28
+     "cuota": 1.44,
+     "pinnacle": 1.46
     },
     {
-     "id": "cc4564f7b80beae29935d650d1ccb4cb|h2h|Tommy Paul|",
+     "id": "3f0addea74d69db2f1b7595d4fb2b1af|h2h|Daniil Medvedev|",
      "mercado": "h2h",
-     "nombre": "Tommy Paul",
+     "nombre": "Daniil Medvedev",
      "punto": null,
-     "cuota": 3.6,
-     "pinnacle": 3.99
+     "cuota": 2.75,
+     "pinnacle": 2.91
     }
    ],
    "pinnacle_h2h": {
-    "Carlos Alcaraz": 1.28,
-    "Tommy Paul": 3.99
+    "Carlos Alcaraz": 1.46,
+    "Daniil Medvedev": 2.91
    }
   },
   {
-   "id": "f8b84ec001244b604176bf0bc6f21f16",
-   "deporte": "tennis_atp_swiss_indoors",
-   "torneo": "ATP Swiss Indoors Basel",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-10-30T14:10+00:00",
-   "jugadores": [
-    "Taylor Fritz",
-    "Arthur Fils"
-   ],
-   "opciones": [
-    {
-     "id": "f8b84ec001244b604176bf0bc6f21f16|h2h|Arthur Fils|",
-     "mercado": "h2h",
-     "nombre": "Arthur Fils",
-     "punto": null,
-     "cuota": 1.85,
-     "pinnacle": 1.92
-    },
-    {
-     "id": "f8b84ec001244b604176bf0bc6f21f16|h2h|Taylor Fritz|",
-     "mercado": "h2h",
-     "nombre": "Taylor Fritz",
-     "punto": null,
-     "cuota": 1.95,
-     "pinnacle": 1.97
-    }
-   ],
-   "pinnacle_h2h": {
-    "Arthur Fils": 1.92,
-    "Taylor Fritz": 1.97
-   }
-  },
-  {
-   "id": "69ae427eb9d45bc2bc6b0ad750e25934",
+   "id": "e29817fd8c010bb31e6c920398185da1",
    "deporte": "tennis_atp_vienna_open",
    "torneo": "ATP Vienna Open",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-10-30T16:30+00:00",
+   "inicio": "2026-10-31T15:30+00:00",
    "jugadores": [
     "Alexander Zverev",
-    "Arthur Fery"
-   ],
-   "opciones": [
-    {
-     "id": "69ae427eb9d45bc2bc6b0ad750e25934|h2h|Alexander Zverev|",
-     "mercado": "h2h",
-     "nombre": "Alexander Zverev",
-     "punto": null,
-     "cuota": 1.11,
-     "pinnacle": 1.13
-    },
-    {
-     "id": "69ae427eb9d45bc2bc6b0ad750e25934|h2h|Arthur Fery|",
-     "mercado": "h2h",
-     "nombre": "Arthur Fery",
-     "punto": null,
-     "cuota": 6.5,
-     "pinnacle": 6.88
-    }
-   ],
-   "pinnacle_h2h": {
-    "Alexander Zverev": 1.13,
-    "Arthur Fery": 6.88
-   }
-  },
-  {
-   "id": "e01a16acf3ce50a010714d85d5ff6374",
-   "deporte": "tennis_atp_swiss_indoors",
-   "torneo": "ATP Swiss Indoors Basel",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-10-30T17:00+00:00",
-   "jugadores": [
-    "Jerome Kym",
-    "Jiri Lehecka"
-   ],
-   "opciones": [
-    {
-     "id": "e01a16acf3ce50a010714d85d5ff6374|h2h|Jerome Kym|",
-     "mercado": "h2h",
-     "nombre": "Jerome Kym",
-     "punto": null,
-     "cuota": 3.3,
-     "pinnacle": 3.49
-    },
-    {
-     "id": "e01a16acf3ce50a010714d85d5ff6374|h2h|Jiri Lehecka|",
-     "mercado": "h2h",
-     "nombre": "Jiri Lehecka",
-     "punto": null,
-     "cuota": 1.33,
-     "pinnacle": 1.35
-    }
-   ],
-   "pinnacle_h2h": {
-    "Jerome Kym": 3.49,
-    "Jiri Lehecka": 1.35
-   }
-  },
-  {
-   "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-   "deporte": "tennis_atp_swiss_indoors",
-   "torneo": "ATP Swiss Indoors Basel",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-10-30T18:10+00:00",
-   "jugadores": [
-    "Jan-Lennard Struff",
-    "Nuno Borges"
-   ],
-   "opciones": [
-    {
-     "id": "e66be09cbf07f4ca7b22ef19c32bcb30|h2h|Jan-Lennard Struff|",
-     "mercado": "h2h",
-     "nombre": "Jan-Lennard Struff",
-     "punto": null,
-     "cuota": 1.8,
-     "pinnacle": 1.81
-    },
-    {
-     "id": "e66be09cbf07f4ca7b22ef19c32bcb30|h2h|Nuno Borges|",
-     "mercado": "h2h",
-     "nombre": "Nuno Borges",
-     "punto": null,
-     "cuota": 2.0,
-     "pinnacle": 2.11
-    }
-   ],
-   "pinnacle_h2h": {
-    "Jan-Lennard Struff": 1.81,
-    "Nuno Borges": 2.11
-   }
-  },
-  {
-   "id": "94ca068a80e8dbb6686fd96d402bde0e",
-   "deporte": "tennis_atp_vienna_open",
-   "torneo": "ATP Vienna Open",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-10-30T19:00+00:00",
-   "jugadores": [
-    "Matteo Berrettini",
     "Alex de Minaur"
    ],
    "opciones": [
     {
-     "id": "94ca068a80e8dbb6686fd96d402bde0e|h2h|Alex de Minaur|",
+     "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alexander Zverev|",
+     "mercado": "h2h",
+     "nombre": "Alexander Zverev",
+     "punto": null,
+     "cuota": 1.4,
+     "pinnacle": 1.4
+    },
+    {
+     "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alex de Minaur|",
      "mercado": "h2h",
      "nombre": "Alex de Minaur",
      "punto": null,
-     "cuota": 1.44,
-     "pinnacle": 1.45
-    },
-    {
-     "id": "94ca068a80e8dbb6686fd96d402bde0e|h2h|Matteo Berrettini|",
-     "mercado": "h2h",
-     "nombre": "Matteo Berrettini",
-     "punto": null,
-     "cuota": 2.75,
-     "pinnacle": 2.95
+     "cuota": 2.9,
+     "pinnacle": 3.16
     }
    ],
    "pinnacle_h2h": {
-    "Alex de Minaur": 1.45,
-    "Matteo Berrettini": 2.95
+    "Alexander Zverev": 1.4,
+    "Alex de Minaur": 3.16
    }
   },
   {
-   "id": "c1a54362fbf98df45c2174b84374dd0c",
+   "id": "552fda4930d6ed5d9fef41d162da947d",
+   "deporte": "tennis_atp_swiss_indoors",
+   "torneo": "ATP Swiss Indoors Basel",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-10-31T16:00+00:00",
+   "jugadores": [
+    "Jiri Lehecka",
+    "Jan-Lennard Struff"
+   ],
+   "opciones": [
+    {
+     "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jan-Lennard Struff|",
+     "mercado": "h2h",
+     "nombre": "Jan-Lennard Struff",
+     "punto": null,
+     "cuota": 2.75,
+     "pinnacle": 2.83
+    },
+    {
+     "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jiri Lehecka|",
+     "mercado": "h2h",
+     "nombre": "Jiri Lehecka",
+     "punto": null,
+     "cuota": 1.44,
+     "pinnacle": 1.48
+    }
+   ],
+   "pinnacle_h2h": {
+    "Jan-Lennard Struff": 2.83,
+    "Jiri Lehecka": 1.48
+   }
+  },
+  {
+   "id": "e33e004fe9457eef4c8e5a50d15392c0",
    "deporte": "tennis_wta_pan_pacific_open",
    "torneo": "WTA Pan Pacific Open",
    "circuito": "WTA",
    "superficie": "hard",
-   "inicio": "2026-10-31T03:00+00:00",
+   "inicio": "2026-11-01T03:00+00:00",
    "jugadores": [
     "Leylah Fernandez",
-    "Kamilla Rakhimova"
+    "Diana Shnaider"
    ],
    "opciones": [
     {
-     "id": "c1a54362fbf98df45c2174b84374dd0c|h2h|Kamilla Rakhimova|",
+     "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Diana Shnaider|",
      "mercado": "h2h",
-     "nombre": "Kamilla Rakhimova",
+     "nombre": "Diana Shnaider",
      "punto": null,
-     "cuota": 3.3,
-     "pinnacle": 3.46
+     "cuota": 1.57,
+     "pinnacle": null
     },
     {
-     "id": "c1a54362fbf98df45c2174b84374dd0c|h2h|Leylah Fernandez|",
+     "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Leylah Fernandez|",
      "mercado": "h2h",
      "nombre": "Leylah Fernandez",
      "punto": null,
-     "cuota": 1.33,
-     "pinnacle": 1.35
+     "cuota": 2.38,
+     "pinnacle": null
     }
    ],
-   "pinnacle_h2h": {
-    "Kamilla Rakhimova": 3.46,
-    "Leylah Fernandez": 1.35
-   }
+   "pinnacle_h2h": {}
   }
  ]
 }
