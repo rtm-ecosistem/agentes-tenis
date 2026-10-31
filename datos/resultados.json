@@ -236692,6 +236692,90 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Toray Pan Pacific Open Tennis",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kamilla Rakhimova",
+    "Leylah Fernandez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Bianca Andreescu",
+    "Alicia Herrero Linana"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Heather Watson",
+    "Emerson Jones"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Cheuk Ying Shek",
+    "Aliaksandra Sasnovich"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

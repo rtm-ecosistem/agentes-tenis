@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T04:10+00:00",
+ "actualizado": "2026-10-31T05:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.395,
+      "pct": 0.397,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.309,
+      "pct": 0.306,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.296,
+      "pct": 0.298,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
@@ -1081,7 +1081,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     }
    ],
    "importantes": [],
@@ -1106,7 +1107,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ]
   },
@@ -1142,7 +1144,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1206,7 +1209,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1283,7 +1287,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -1360,7 +1365,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2009,9 +2015,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 7,
-  "aciertos": 0.8571428571428571,
-  "yield": 0.1742857142857143
+  "apuestas": 8,
+  "aciertos": 0.875,
+  "yield": 0.19375
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -3513,8 +3519,8 @@
  },
  "sala_aciertos": {
   "favorito": [
-   6,
-   8
+   7,
+   9
   ],
   "sorpresa": [
    0,

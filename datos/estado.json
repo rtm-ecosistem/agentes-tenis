@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.313,
+     "envidia": 0.308,
      "sorpresa": 0.4
     },
     "motivos": {
@@ -167,7 +167,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-31T04:10+00:00",
+    "hora": "2026-10-31T05:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -327,7 +327,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T04:10+00:00",
+    "hora": "2026-10-31T05:10+00:00",
     "rent": 0.0
    }
   },
@@ -474,7 +474,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T04:10+00:00",
+    "hora": "2026-10-31T05:10+00:00",
     "rent": 0.0
    }
   },
@@ -634,7 +634,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T04:10+00:00",
+    "hora": "2026-10-31T05:10+00:00",
     "rent": 0.0
    }
   }
@@ -1943,7 +1943,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2020,7 +2021,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2084,7 +2086,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2122,7 +2125,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ],
    "importantes": [],
@@ -2147,7 +2151,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": null
     }
    ]
   },
@@ -2170,7 +2175,8 @@
      "inicio": "2026-10-31T03:00+00:00",
      "favorito": "Leylah Fernandez",
      "vista": "favorito",
-     "motivo": ""
+     "motivo": "",
+     "acierto": true
     }
    ],
    "importantes": [],
@@ -3255,8 +3261,8 @@
  ],
  "sala_aciertos": {
   "favorito": [
-   6,
-   8
+   7,
+   9
   ],
   "sorpresa": [
    0,
@@ -3268,6 +3274,7 @@
    "69ae427eb9d45bc2bc6b0ad750e25934",
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "94ca068a80e8dbb6686fd96d402bde0e",
+   "c1a54362fbf98df45c2174b84374dd0c",
    "cc0834cac355e3a96bf64a85ce003e51",
    "cc4564f7b80beae29935d650d1ccb4cb",
    "d52af5cb645ef831c4dbab0bbaf48dac",
@@ -4776,23 +4783,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 7,
-  "ganadas": 6,
-  "unidades": 1.22,
-  "pendientes": [
-   {
-    "partido": "c1a54362fbf98df45c2174b84374dd0c",
-    "jugadores": [
-     "Leylah Fernandez",
-     "Kamilla Rakhimova"
-    ],
-    "inicio": "2026-10-31T03:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Leylah Fernandez",
-    "punto": null,
-    "cuota": 1.33
-   }
-  ],
+  "apuestas": 8,
+  "ganadas": 7,
+  "unidades": 1.55,
+  "pendientes": [],
   "vistos": [
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "4eebb3b42f713eff0e760f9abef41572",
@@ -4801,7 +4795,8 @@
    "69ae427eb9d45bc2bc6b0ad750e25934",
    "e01a16acf3ce50a010714d85d5ff6374",
    "e66be09cbf07f4ca7b22ef19c32bcb30",
-   "94ca068a80e8dbb6686fd96d402bde0e"
+   "94ca068a80e8dbb6686fd96d402bde0e",
+   "c1a54362fbf98df45c2174b84374dd0c"
   ]
  }
 }

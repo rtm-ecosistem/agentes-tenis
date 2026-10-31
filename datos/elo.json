@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T04:10+00:00",
+ "actualizado": "2026-10-31T05:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16619,19 +16619,18 @@
    "nombre": "Leylah Fernandez",
    "circuito": "WTA",
    "elo": {
-    "all": 1878.2,
-    "hard": 1871.4,
+    "all": 1891.6,
+    "hard": 1886.2,
     "clay": 1604.0,
     "grass": 1405.6
    },
    "n": {
-    "all": 60,
-    "hard": 46,
+    "all": 61,
+    "hard": 47,
     "clay": 10,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-12 G hard vs Ekaterina Alexandrova",
     "2026-10-14 G hard vs Shi Han",
     "2026-10-15 P hard vs Jelena Ostapenko",
     "2026-10-19 G hard vs Elise Mertens",
@@ -16640,7 +16639,8 @@
     "2026-10-24 G hard vs Marie Bouzkova",
     "2026-10-25 P hard vs Elena Rybakina",
     "2026-10-27 G hard vs Himeno Sakatsume",
-    "2026-10-29 G hard vs Elise Mertens"
+    "2026-10-29 G hard vs Elise Mertens",
+    "2026-10-31 G hard vs Kamilla Rakhimova"
    ]
   },
   "xiyu|w": {
@@ -16703,19 +16703,18 @@
    "nombre": "Kamilla Rakhimova",
    "circuito": "WTA",
    "elo": {
-    "all": 1718.7,
-    "hard": 1712.0,
+    "all": 1705.6,
+    "hard": 1698.2,
     "clay": 1504.2,
     "grass": 1444.6
    },
    "n": {
-    "all": 64,
-    "hard": 56,
+    "all": 65,
+    "hard": 57,
     "clay": 5,
     "grass": 3
    },
    "ultimos": [
-    "2026-10-05 P hard vs Iva Jovic",
     "2026-10-10 G hard vs Sofia Kenin",
     "2026-10-11 P hard vs Shi Han",
     "2026-10-17 G hard vs Dayana Yastremska",
@@ -16724,7 +16723,8 @@
     "2026-10-24 G hard vs Shiho Tsujioka",
     "2026-10-25 P hard vs Aliaksandra Sasnovich",
     "2026-10-28 G hard vs Ekaterina Alexandrova",
-    "2026-10-30 G hard vs Maya Joint"
+    "2026-10-30 G hard vs Maya Joint",
+    "2026-10-31 P hard vs Leylah Fernandez"
    ]
   },
   "bencic|b": {
@@ -16759,19 +16759,18 @@
    "nombre": "Aliaksandra Sasnovich",
    "circuito": "WTA",
    "elo": {
-    "all": 1709.2,
-    "hard": 1720.0,
+    "all": 1718.1,
+    "hard": 1729.1,
     "clay": 1459.2,
     "grass": 1528.5
    },
    "n": {
-    "all": 63,
-    "hard": 54,
+    "all": 64,
+    "hard": 55,
     "clay": 5,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-05 G hard vs Yao Xinxin",
     "2026-10-07 G hard vs Linda Fruhvirtova",
     "2026-10-09 P hard vs Elvina Kalieva",
     "2026-10-17 G hard vs Anna Bondar",
@@ -16780,7 +16779,8 @@
     "2026-10-24 G hard vs Yuliia Starodubtseva",
     "2026-10-25 G hard vs Kamilla Rakhimova",
     "2026-10-27 G hard vs Nikola Bartunkova",
-    "2026-10-28 P hard vs Diana Shnaider"
+    "2026-10-28 P hard vs Diana Shnaider",
+    "2026-10-31 G hard vs Cheuk Ying Shek"
    ]
   },
   "shuai|z": {
@@ -17547,19 +17547,18 @@
    "nombre": "Alicia Herrero Linana",
    "circuito": "WTA",
    "elo": {
-    "all": 1688.5,
-    "hard": 1689.1,
+    "all": 1662.4,
+    "hard": 1661.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 26,
-    "hard": 26,
+    "all": 27,
+    "hard": 27,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-11 G hard vs Eva Bennemann",
     "2026-09-12 P hard vs Alevtina Ibragimova",
     "2026-09-15 G hard vs Lucia Cortez Llorca",
     "2026-09-17 G hard vs Rebeka Masarova",
@@ -17568,7 +17567,8 @@
     "2026-09-20 P hard vs Clara Burel",
     "2026-09-22 P hard vs Barbora Palicova",
     "2026-10-27 G hard vs Victoria Rodriguez",
-    "2026-10-30 G hard vs Tamara Zidansek"
+    "2026-10-30 G hard vs Tamara Zidansek",
+    "2026-10-31 P hard vs Bianca Andreescu"
    ]
   },
   "pieri|j": {
@@ -22646,19 +22646,18 @@
    "nombre": "Emerson Jones",
    "circuito": "ATP",
    "elo": {
-    "all": 1552.9,
-    "hard": 1563.9,
+    "all": 1579.3,
+    "hard": 1588.4,
     "clay": 1451.5,
     "grass": 1449.4
    },
    "n": {
-    "all": 35,
-    "hard": 31,
+    "all": 36,
+    "hard": 32,
     "clay": 1,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-28 G hard vs Haruka Kaji",
     "2026-09-30 G hard vs Chenting Zhu",
     "2026-10-02 G hard vs Kyoka Okamura",
     "2026-10-03 P hard vs Alexandra Shubladze",
@@ -22667,7 +22666,8 @@
     "2026-10-17 G hard vs Heather Watson",
     "2026-10-20 P hard vs Ann Li",
     "2026-10-24 G hard vs Hong Yi Cody Wong",
-    "2026-10-25 P hard vs Dayana Yastremska"
+    "2026-10-25 P hard vs Dayana Yastremska",
+    "2026-10-31 G hard vs Heather Watson"
    ]
   },
   "yibing|w": {
@@ -27654,19 +27654,18 @@
    "nombre": "Heather Watson",
    "circuito": "WTA",
    "elo": {
-    "all": 1526.9,
-    "hard": 1502.0,
+    "all": 1495.4,
+    "hard": 1472.1,
     "clay": 1500.0,
     "grass": 1519.4
    },
    "n": {
-    "all": 21,
-    "hard": 17,
+    "all": 22,
+    "hard": 18,
     "clay": 0,
     "grass": 4
    },
    "ultimos": [
-    "2026-06-25 P grass vs Maria Timofeeva",
     "2026-07-25 G hard vs Kamilla Rakhimova",
     "2026-07-26 P hard vs Julieta Pareja",
     "2026-08-01 P hard vs Anna Blinkova",
@@ -27675,7 +27674,8 @@
     "2026-08-28 P hard vs Harriet Dart",
     "2026-10-17 P hard vs Emerson Jones",
     "2026-10-24 G hard vs Liudmila Samsonova",
-    "2026-10-25 P hard vs Alycia Parks"
+    "2026-10-25 P hard vs Alycia Parks",
+    "2026-10-31 P hard vs Emerson Jones"
    ]
   },
   "tona|m": {
@@ -27958,19 +27958,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1750.2,
-    "hard": 1738.0,
+    "all": 1772.9,
+    "hard": 1763.6,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 39,
-    "hard": 31,
+    "all": 40,
+    "hard": 32,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-06 G hard vs Alana Smith",
     "2026-10-08 G hard vs Mariam Bolkvadze",
     "2026-10-09 P hard vs Anna Blinkova",
     "2026-10-13 G hard vs Mia Ristic",
@@ -27979,7 +27978,8 @@
     "2026-10-17 G hard vs Lucie Havlickova",
     "2026-10-18 G hard vs Dominika Salkova",
     "2026-10-27 G hard vs Katherine Hui",
-    "2026-10-30 G hard vs Diletta Cherubini"
+    "2026-10-30 G hard vs Diletta Cherubini",
+    "2026-10-31 G hard vs Alicia Herrero Linana"
    ]
   },
   "kumru|a": {
@@ -38107,19 +38107,20 @@
    "nombre": "Cheuk Ying Shek",
    "circuito": "WTA",
    "elo": {
-    "all": 1459.4,
-    "hard": 1463.5,
+    "all": 1435.9,
+    "hard": 1440.8,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-24 P hard vs Harriet Dart"
+    "2026-10-24 P hard vs Harriet Dart",
+    "2026-10-31 P hard vs Aliaksandra Sasnovich"
    ]
   },
   "tsujioka|s": {
@@ -88124,7 +88125,7 @@
    1
   ],
   "fernandez|l~rakhimova|k": [
-   0,
+   1,
    1
   ],
   "bencic|b~zakharova|a": [
@@ -89668,7 +89669,7 @@
    0
   ],
   "jones|e~watson|h": [
-   1,
+   2,
    0
   ],
   "kenin|s~yamaguchi|m": [
@@ -91026,7 +91027,15 @@
   "ibragimova|a~stojsavljevic|m": [
    0,
    1
+  ],
+  "andreescu|b~herrero linana|a": [
+   1,
+   0
+  ],
+  "sasnovich|a~ying shek|c": [
+   1,
+   0
   ]
  },
- "propios": 10446
+ "propios": 10450
 }
