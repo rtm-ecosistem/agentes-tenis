@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T11:10+00:00",
+    "hora": "2026-10-31T11:15+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T11:10+00:00",
+    "hora": "2026-10-31T11:15+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T11:10+00:00",
+    "hora": "2026-10-31T11:15+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T11:10+00:00",
+    "hora": "2026-10-31T11:15+00:00",
     "rent": 0.0
    }
   }
@@ -2515,6 +2515,16 @@
    "hora": "2026-10-31T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T11:15+00:00",
+   "texto": "📰 Noticias nuevas de Tallon Griekspoor – Benjamin Bonzi, Jiri Lehecka – Jan-Lennard Struff: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T11:15+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2579,11 +2589,14 @@
   "95a857d191d7",
   "0a82d05b80e9",
   "a079d7f527a9",
+  "e648dca2a59d",
   "0ab3a91768aa",
   "97cfb259e512",
   "d07e512f5a99",
   "e677fabcca71",
+  "11d59c0fe8f2",
   "a42982ea6faa",
+  "476682650c27",
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
@@ -2595,7 +2608,6 @@
   "67fff5476530",
   "5e78a8ecfa44",
   "0936ef7bf756",
-  "6f94695e79de",
   "7e9fd0c59d7c",
   "4975f834387a",
   "2f866266d771",
@@ -2606,6 +2618,7 @@
   "aef2ee14239f",
   "3f70f7129473",
   "0cf7ce0db23b",
+  "c5b09c895c60",
   "ba5473c8ffcd",
   "a948c26b85b3",
   "e6c1a6077f6d",
@@ -2618,6 +2631,7 @@
   "099f6b17dd28",
   "8640d18da241",
   "8f7208e2f5c6",
+  "fcef4e029884",
   "158b9d3c68e1",
   "88afdd486e64",
   "b41d1ecbc44b",
@@ -2640,10 +2654,10 @@
   "12aa34e5d9ee",
   "323ea2929fb4",
   "d3cb8b672877",
+  "b0ae16ddcdee",
   "33a20812d1c5",
   "127ddc5db01f",
   "7e89d9f649a4",
-  "b0ae16ddcdee",
   "d9836208c7e5",
   "f2d3898e59eb",
   "bca8c607ee7c",
@@ -2739,6 +2753,7 @@
   "edada4534e28",
   "bf2d5e9f4086",
   "ce5aaff092b2",
+  "fd42b97af10c",
   "edd5e25e8603",
   "bfbadc025ba6",
   "ba144a7f0353",
@@ -2827,6 +2842,7 @@
   "24ad16c08000",
   "b481d95627c6",
   "4f70310aa2eb",
+  "7c3983589b8b",
   "4e8376158f1c",
   "c62a460833a7",
   "82322e1fdb39",
@@ -2858,6 +2874,7 @@
   "bb386498d04b",
   "683016dc8b03",
   "8b3b7313a186",
+  "6f94695e79de",
   "09b1bb6b4704",
   "42bebcbc6c9e",
   "ce553c7e2f1b",
@@ -3332,14 +3349,7 @@
   "84ef7ac408ee",
   "e755badd4e23",
   "e50f1e509698",
-  "dda83b2d5838",
-  "9e3414ca42ed",
-  "45a28d276fd9",
-  "b114c79fa62d",
-  "8e8c2fb44a2a",
-  "7e1f0ae7df5d",
-  "812cdc53da00",
-  "fce60c3aead7"
+  "dda83b2d5838"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -5217,7 +5227,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.641,
    "elo_general": 0.681,
    "elo_en_superficie": 0.602,
@@ -5305,7 +5315,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.622,
    "elo_general": 0.613,
    "elo_en_superficie": 0.632,
@@ -5387,7 +5397,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.732,
    "elo_general": 0.737,
    "elo_en_superficie": 0.727,
@@ -5475,7 +5485,7 @@
    "inicio": "2026-10-31T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.493,
    "elo_general": 0.477,
    "elo_en_superficie": 0.51,
@@ -5539,16 +5549,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5"
       },
       {
+       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHVUb3dxM3JYakJGNVpNaXRkcVR3M1N6bElJZHRpeWZzY3EzdzI2MGNtUHdielJiYzhHckNkWEpKU1R6b0JfVU12UVctTmM2aVBnR3dxNjBwdVR5d3BodXFZbGEzQ3BpNHM5NUt2bUNIbEdjSkE2T01JOHNCUUI0NXA1LVMxX2NnSjNQNzdwQQ?oc=5"
+      },
+      {
        "titulo": "VIDEO: Medvedev golpea la cancha y lanza una crítica a la ATP: “Les gusta que la gente se lastime” - Excélsior",
        "fuente": "Excélsior",
        "fecha": "2026-10-29",
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW04Zm40cmFPU2ZaUzRiTVhpMnU1dXR3Q2w0MTJOQU14eXFvWW1TOU5DaWhTVVNCd2h5aVlySkpHVmxBSGNiN0JvUFE4by01Qi1NTmMyTExBaTE4Zi1xbHVQMnNmdTVpUDdQbjhCdkFLa3RfTDJHNTlsNUdlMkh6OXFKT1FFemhub1HSAYoBQVVfeXFMT3VtOGZuNHJhT1NmWlM0Yk1YaTJ1NXV0d0NsNDEyTkFNeHlxb1ltUzlOQ2loU1VTQndoeWlZckpKR1ZsQUhjYjdCb1BROG8tNUItTU5jMkxMQWkxOGYtcWx1UDJzZnU1aVA3UG44QnZBS2t0X0wyRzU5bDVHZTJIejlxSk9RRXpobm9R?oc=5"
-      },
-      {
-       "titulo": "Protagonismo francés en las wildcards del Masters 1000 de París - Match Tenis",
-       "fuente": "Match Tenis",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uNXZWWk9hRDZsbDh0N0dzamVwcHhsR05lQXpOMmQtUy10NGVHbjJyRUpRTkh2X09icF9FZ0Y4a1EzRTJDN3d3M3ZYQWNEN09zYWJBS2hJSjlHeThKMDlmZlVVZUV4UmZGNk96YnJJZHJTOHo5dEhB?oc=5"
       }
      ]
     }
@@ -5563,7 +5573,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.518,
    "elo_general": 0.443,
    "elo_en_superficie": 0.593,
@@ -5593,16 +5603,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWxaclUycENFM1FJSEZaaU9lYkhEQWdCRVUwMnA3U3piVXc0YU1VSjY1RnN2aXE0VkxHWEhJYm1sZjJ4dTV5SnhSNFF1OXIyTmJfTGI5ZFFQeXBFUGxHbVpFd2RhSWtGcGVFR2xGMmJEZTF6LUlYMlpXZGlsNFUtNUdUc0dHVEZYd2Q3MA?oc=5"
       },
       {
-       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
-      },
-      {
        "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Daniel Mérida Aguilar vs Alexander Blockx - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2drRWZkM0pQa3h6WjlvbFFnWGZ3TTFIX3I2X05MaHdUYm5rM3dnWElqYkdRaG5vX2VQaTg5NzRFVmEyZ2RxSHp6cTBPWV91aEVPRFFKMDVBSzFDYmpUT3UwczNONlJLRUNUSDdNbVp4QnY2YVEwdjFRZTZOc3BmaHJPOHZSenFLMGZwVVRRS3hhNUlWSXFDM0l5RQ?oc=5"
       }
      ]
     },
@@ -5621,6 +5631,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
+      },
+      {
        "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-31",
@@ -5631,12 +5647,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDA5QzQySW9Pd0dCdlpidktBV3NOd1gtcURIUUJwN2QwREVwaGhYX3FibkxhZVFrc3FtQWx5cFZyQXZpQzljMVAzeWhDNHhXbkVqSjBPcHd2OFNLNGJEMFZ3RXBxQTZnOFBRM2lXV21jUFkxbHNJa0Jia0Z5dVh4cFpkUWliZ3M?oc=5"
-      },
-      {
-       "titulo": "Así debutarán los sudamericanos en el ATP Masters 1000 de París - Match Tenis",
-       "fuente": "Match Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQ1lLXzNETFl3SlFfMkFBUDR4UWtxdmp2Zko0ZjRkb3FOQmUxQkZ1M2JJOGN5OWc3ZVNUQmxyTTh5ODhBVFF5TVFILTN1Y202aXpNejZnVTZLa3puZzJQNVR1MXJPZw?oc=5"
       }
      ]
     }
@@ -5651,7 +5661,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.247,
    "elo_general": 0.271,
    "elo_en_superficie": 0.223,
@@ -5739,7 +5749,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.426,
    "elo_general": 0.426,
    "elo_en_superficie": 0.427,
@@ -5827,7 +5837,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.249,
    "elo_general": 0.211,
    "elo_en_superficie": 0.286,
@@ -5915,7 +5925,7 @@
    "inicio": "2026-10-31T15:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.667,
    "elo_general": 0.697,
    "elo_en_superficie": 0.637,
@@ -6003,7 +6013,7 @@
    "inicio": "2026-10-31T16:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.624,
    "elo_general": 0.621,
    "elo_en_superficie": 0.626,
@@ -6061,6 +6071,12 @@
      "cansancio": "3 partidos, 7 sets y 74 juegos en 3 días; el último el 2026-10-30 contra Nuno Borges, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Djokovic fue eliminado en la segunda ronda del Torneo de Tenis de Basilea. - Vietnam.vn",
+       "fuente": "Vietnam.vn",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVE1SjdOZ1kzTklzRHF3czdYUEhCTEo4LXRSeVFyWVdyMGJCTzZTVGc4bl9CUFZ0SmxuSkEwVEx0eXRjUThtVHFId3dxLWVzbkw1cThpaGJNNmpiZEdMRlNkV1N2b3BlZWlSLWRHc29EeGotY0RJUThnMzhQZEJqaQ?oc=5"
+      },
+      {
        "titulo": "Djokovic cae ante Struff en Basilea y complica su pase a las ATP Finals - https://fomoera.com/",
        "fuente": "https://fomoera.com/",
        "fecha": "2026-10-30",
@@ -6071,12 +6087,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVFQLTZVLXRGajkxTFVja0V5OFl3Z081TjZiRm56YUNiSzBMdGhnY3YzUVBNLWk5emMxWU9BUzkxbG9uOXhERGdsSEFVYTE0azQ1OFNlcWhwc1BEUkpKMHgtN2NSQnJoc1owaDVvX0gxN1Nkb2RaaGhNa3VKSHJzWDFhV0JxeG5JSWMzNzNwN3NZNXZJUVNVcUI1TQ?oc=5"
-      },
-      {
-       "titulo": "Highlights: Struff pasa a Borges en CFs de Basilea 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2t1Z2sxSGlCR01xckFnb3dQUnFXazJpbEMyU2dWMk55UFhtaGk5SXZtdFJzN2N1bXFvSmdGQzB0UkdFQmE3TlhDWEhLRHRNb1pxdlJfYkJUWVRfOEdjV3hmcXd6cGNVcWxMdHVKR3FFV0V6X0hweFlJQmtxNzNVNFMydENEUTBvVWs3b0NBQ05SZw?oc=5"
       }
      ]
     }
@@ -6091,7 +6101,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T11:10+00:00",
+   "actualizado": "2026-10-31T11:15+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,

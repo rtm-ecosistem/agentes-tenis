@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T11:10+00:00",
+ "actualizado": "2026-10-31T11:15+00:00",
  "noticias": [
   {
    "id": "60ebb3d8eb35",
@@ -116,7 +116,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5",
    "fecha": "2026-10-31T09:25+00:00",
    "fuente": "Wincomparator",
-   "jugador": "James Duckworth"
+   "jugador": "Damir Dzumhur"
   },
   {
    "id": "0cffe2deb806",
@@ -143,7 +143,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5",
    "fecha": "2026-10-31T09:05+00:00",
    "fuente": "Wincomparator",
-   "jugador": "Sebastian Baez"
+   "jugador": "Lorenzo Sonego"
   },
   {
    "id": "e1527138f131",
@@ -210,7 +210,7 @@
    "titulo": "Noah Poser - WTA Tennis",
    "resumen": "Noah Poser WTA Tennis",
    "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lTmRQUHJLMFlmbU5sYVZpRlc2bnZGZFlqTFlickdtXzQxUzc4SjRhT0hSR0hiTVlCVTlHWGdBbF83UEdfb2VmVUtEbzZ1Y2xlandPNmtkblplVm1UTm9aWDRB?oc=5",
-   "fecha": "2026-10-31T08:48+00:00",
+   "fecha": "2026-10-31T08:47+00:00",
    "fuente": "WTA"
   },
   {
@@ -337,6 +337,14 @@
    "jugador": "Tomas Machac"
   },
   {
+   "id": "e648dca2a59d",
+   "titulo": "Brooke Lynn Schafer vs Alaina Lisanti · UTR PTT Fayetteville Women 01 - Tennis.com",
+   "resumen": "Brooke Lynn Schafer vs Alaina Lisanti · UTR PTT Fayetteville Women 01 Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGQxR0RmWXdvcDRzYWtNX2s5am5jY0tsZGZ6cks5MXRjb0ttNDR2RVJvY2d6UDNqZEU3NElLZkFqdEFlLXk2YlR5VFEwWVhDWFl2Nk9ySWhnZzlNNllQalQxT0p5M0ZiS0NubFBQYkVWazFJT0lIZmNEVkpueE9EUHVmRS16N2VBY3J0UUpJUHV3d3lQVDVaUkFsaThybHlQNlQ0VUJnajBLQQ?oc=5",
+   "fecha": "2026-10-31T07:01+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "0ab3a91768aa",
    "titulo": "Highlights: Zverev vence a Landaluce en Viena tras salvar cuatro match points - ATP Tour",
    "resumen": "Highlights: Zverev vence a Landaluce en Viena tras salvar cuatro match points ATP Tour",
@@ -371,10 +379,26 @@
    "fuente": "Tennis.com"
   },
   {
+   "id": "11d59c0fe8f2",
+   "titulo": "Daria Koreshkova vs Mariam Ibrahim Metwally · UTR PTT Fayetteville Women 01 - Tennis.com",
+   "resumen": "Daria Koreshkova vs Mariam Ibrahim Metwally · UTR PTT Fayetteville Women 01 Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlNFLW9vbmhqUklOcnBQSFJIdmthcS1BbjgwVkFpNThuMnN6OUFoYVNwc0tFWGsybFdUVjNNMkRmdDNlc3RmM01yek1PbVRtN3Q3RTVRVk9ZUUY5YU51dnBTa0V5Vi0zZ1pvVVRsU0U3aXFsTG1NNzNBVHlIemFaU1FYWGpyYWxadWhQSUNBUHd3c3RNY3pmTG92TDE1NnlJUDNXRWdZdU03eEtuMHpuQndXTTBvRDdRU0EyR3VKUFU?oc=5",
+   "fecha": "2026-10-31T06:30+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "a42982ea6faa",
    "titulo": "Olga Bienzobas Fernandez vs Lauren Nolan · UTR PTT Fayetteville Women 01 - Tennis.com",
    "resumen": "Olga Bienzobas Fernandez vs Lauren Nolan · UTR PTT Fayetteville Women 01 Tennis.com",
    "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREFEOVZmOWpJYy04RGRtUUtmc25DRFJVc1dmMUdJOERuaTlwWXJZWng2YVFfVnBCOUlRajN5ZTFuMTFfd3hOR1c0Z0JhN29xRWd5Mnc0VkVQRWJ6cHVuQzVpUWhaVFExRVhtVXpibm56T2RxR1F3d05SdGRJcW5CWkdydWs4M2RjeV9aOEtWWGc0R1k4SWFfUGppRHVfWlZMQTA5QlY1ZU9oTll5bkJLWjhNT1hxdnM?oc=5",
+   "fecha": "2026-10-31T06:29+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "476682650c27",
+   "titulo": "Alexandra Panagiotidou vs Anjali Kirana Junarto · UTR PTT Fayetteville Women 01 - Tennis.com",
+   "resumen": "Alexandra Panagiotidou vs Anjali Kirana Junarto · UTR PTT Fayetteville Women 01 Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObk9JS1FGN2owMDd6Z3R6MFFic3dkb0xhZFpMOFUyZmtvNjB6dXkycEVRbklxQWNkMFNjWVRUWmV1OThhNVdGTDl6aEo3LS1Lem9LSU9xMXhCbUUyMnZIMDR3UnZMWEdKQ2x5WHF0NW1zdS1KbEw4d09RRFQ0Q3pwYmpZa2cydEhpREl4UDVyU1JLY0VmQ1BlZHFZYlhTTVZ2WFQ4cVg1R2RzZ1pNRDRhaA?oc=5",
    "fecha": "2026-10-31T06:29+00:00",
    "fuente": "Tennis.com"
   },
@@ -472,14 +496,6 @@
    "jugador": "Daniil Medvedev"
   },
   {
-   "id": "6f94695e79de",
-   "titulo": "Muhammad / Zhang vs Errani / Paolini · Quarterfinal · WTA Tokyo - Tennis.com",
-   "resumen": "Muhammad / Zhang vs Errani / Paolini · Quarterfinal · WTA Tokyo Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlZRdHdMUUhuY25saVQ5bVU4d2ZHMjdLSDBOUWtfRmZNYnNpc3RMZWctc0tkZHlZY25PTWVDR2oxYmxLaER5TC1udzdOeENJVWpjdFl0dmVwU0tONGppWmZtSWpybDIwd29QODRxUHhwYUFYZmNSQ053cVV5TEZDeGR1UHJDS3FlMU54RXh3UTgydWhlVDAtQ24yX1hLUmt4dXQ5dkU4dnlpeTNRbzRLRkxDbUhBQ1VPOFgyUnBBenhEZw?oc=5",
-   "fecha": "2026-10-31T05:05+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
    "id": "7e9fd0c59d7c",
    "titulo": "TBD vs TBD · Final · WTA Tokyo - Tennis.com",
    "resumen": "TBD vs TBD · Final · WTA Tokyo Tennis.com",
@@ -564,6 +580,15 @@
    "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQUpLb09QdTI3MG5FVXo5eW4tTHRrWTVQV2tjU1VYcEphZnJEaDNKUnlGenpyVFFnM0piZ090bmlBTTNSNy1rS2NmUDNBdGtrUFJfWWNKSW01cFZZZ0hGS2czMWs5YWhHdk5LbHJsNzVmOEtV?oc=5",
    "fecha": "2026-10-31T02:52+00:00",
    "fuente": "WTA"
+  },
+  {
+   "id": "c5b09c895c60",
+   "titulo": "Djokovic fue eliminado en la segunda ronda del Torneo de Tenis de Basilea. - Vietnam.vn",
+   "resumen": "Djokovic fue eliminado en la segunda ronda del Torneo de Tenis de Basilea. Vietnam.vn",
+   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVE1SjdOZ1kzTklzRHF3czdYUEhCTEo4LXRSeVFyWVdyMGJCTzZTVGc4bl9CUFZ0SmxuSkEwVEx0eXRjUThtVHFId3dxLWVzbkw1cThpaGJNNmpiZEdMRlNkV1N2b3BlZWlSLWRHc29EeGotY0RJUThnMzhQZEJqaQ?oc=5",
+   "fecha": "2026-10-31T02:51+00:00",
+   "fuente": "Vietnam.vn",
+   "jugador": "Jan-Lennard Struff"
   },
   {
    "id": "ba5473c8ffcd",
@@ -667,6 +692,15 @@
    "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
    "resumen": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 Wincomparator",
    "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5",
+   "fecha": "2026-10-31T00:10+00:00",
+   "fuente": "Wincomparator",
+   "jugador": "Benjamin Bonzi"
+  },
+  {
+   "id": "fcef4e029884",
+   "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
+   "resumen": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuotas y estadísticas - 31 de octubre de 2026 Wincomparator",
+   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHVUb3dxM3JYakJGNVpNaXRkcVR3M1N6bElJZHRpeWZzY3EzdzI2MGNtUHdielJiYzhHckNkWEpKU1R6b0JfVU12UVctTmM2aVBnR3dxNjBwdVR5d3BodXFZbGEzQ3BpNHM5NUt2bUNIbEdjSkE2T01JOHNCUUI0NXA1LVMxX2NnSjNQNzdwQQ?oc=5",
    "fecha": "2026-10-31T00:10+00:00",
    "fuente": "Wincomparator",
    "jugador": "Benjamin Bonzi"
@@ -863,6 +897,15 @@
    "jugador": "Diana Shnaider"
   },
   {
+   "id": "b0ae16ddcdee",
+   "titulo": "¿Cómo ver por televisión ATP París en España? 2026 - Canal Tenis",
+   "resumen": "¿Cómo ver por televisión ATP París en España? 2026 Canal Tenis",
+   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWUdDUS0xVURBSHduS2VobkJKaThDdXlCdVNOcDZlQUYxMVB2SmdfOHN4QTAwazFLdGlxbHAtVjJyeWlha29aTW5yRXJpbmV4Q1pEaDgzYjV5ZF8wamVFYVBaWkxXeE94a0Y0dDNkeE1RS2NIemc?oc=5",
+   "fecha": "2026-10-30T21:45+00:00",
+   "fuente": "Canal Tenis",
+   "jugador": "Jaume Munar"
+  },
+  {
    "id": "33a20812d1c5",
    "titulo": "Se sorteó el cuadro del Masters 1000 de París: contra quiénes debutan los argentinos - Olé",
    "resumen": "Se sorteó el cuadro del Masters 1000 de París: contra quiénes debutan los argentinos Olé",
@@ -887,15 +930,6 @@
    "fecha": "2026-10-30T21:35+00:00",
    "fuente": "El Imparcial - Diario liberal e independiente",
    "jugador": "Alexander Zverev"
-  },
-  {
-   "id": "b0ae16ddcdee",
-   "titulo": "¿Cómo ver por televisión ATP París en España? 2026 - Canal Tenis",
-   "resumen": "¿Cómo ver por televisión ATP París en España? 2026 Canal Tenis",
-   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWUdDUS0xVURBSHduS2VobkJKaThDdXlCdVNOcDZlQUYxMVB2SmdfOHN4QTAwazFLdGlxbHAtVjJyeWlha29aTW5yRXJpbmV4Q1pEaDgzYjV5ZF8wamVFYVBaWkxXeE94a0Y0dDNkeE1RS2NIemc?oc=5",
-   "fecha": "2026-10-30T21:33+00:00",
-   "fuente": "Canal Tenis",
-   "jugador": "Jaume Munar"
   },
   {
    "id": "d9836208c7e5",
@@ -1688,6 +1722,14 @@
    "fuente": "Tennis.com"
   },
   {
+   "id": "fd42b97af10c",
+   "titulo": "Patrik Homola vs Ivan Sabanov · UTR Olomouc M04 - Tennis.com",
+   "resumen": "Patrik Homola vs Ivan Sabanov · UTR Olomouc M04 Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGlHcEphV2t3Q2ZvRUh4RmlPX1M5bjBfQVZfNnpHSDVmRi1OZnBqcnhCWEplMnd4aGU2ZldOUkJzQ0ZpNmxjS0pFMV9mS1dRVGwzNVluRjNIclE0VnhqSzlsUm1fTTNGLTZQazhZNmZ1M2tQOW85N3BDOFFNVDQ4N0pYUDM2N3kyZi1xS1RpS1lxRkFETXc?oc=5",
+   "fecha": "2026-10-30T16:39+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "edd5e25e8603",
    "titulo": "Taylor Fritz 1 - 0 Arthur Fils: resumen y estadísticas del partido de Swiss Indoors Basel (ATP) - Europa Press",
    "resumen": "Taylor Fritz 1 - 0 Arthur Fils: resumen y estadísticas del partido de Swiss Indoors Basel (ATP) Europa Press",
@@ -1698,8 +1740,8 @@
   },
   {
    "id": "bfbadc025ba6",
-   "titulo": "Toray Pan Pacific Open Tennis 2026 Order of Play | WTA Official - WTA Tennis",
-   "resumen": "Toray Pan Pacific Open Tennis 2026 Order of Play | WTA Official WTA Tennis",
+   "titulo": "Toray Pan Pacific Open Tennis 2026 Order of Play - WTA Tennis",
+   "resumen": "Toray Pan Pacific Open Tennis 2026 Order of Play WTA Tennis",
    "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2N1QkdobUdJUGhGV3NzWUVJTldfSjRZWTVqUWt6LWpBdXZRUWNtSVJZWWY4bERGNnNGSzFla01SYzR5aFlKelFCWUxicGxtb0dBam1TSXBoNEZ1V3V3U3VBT2FSRUJGNklMMk93M0stSTJQQUtabm1qSVQ5Y05fVTcyaWNvQU1XMEtmWldUQVNkVVdxZ3c?oc=5",
    "fecha": "2026-10-30T16:26+00:00",
    "fuente": "WTA"
@@ -2421,6 +2463,14 @@
    "jugador": "Nuno Borges"
   },
   {
+   "id": "7c3983589b8b",
+   "titulo": "WTA Tokio 2026 - Punto de Break",
+   "resumen": "WTA Tokio 2026 Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14NmxuTDBTVXkwMEYtR09MQnFKZUxOT29hM3ZQdnR4elB2THloVjlaRE1QMnFCSG5FemQwMC0wMVRBMHJOWU9JYzNLNzZLaGNRSFJDU1ZwZHp1dlRUdUE?oc=5",
+   "fecha": "2026-10-30T09:18+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
    "id": "4e8376158f1c",
    "titulo": "Atmane, Terence - Hong, Seong Chan, Centre Court - ATP Tour",
    "resumen": "Atmane, Terence - Hong, Seong Chan, Centre Court ATP Tour",
@@ -2685,6 +2735,14 @@
    "fecha": "2026-10-30T07:10+00:00",
    "fuente": "Revista Gerente - Colombia",
    "jugador": "Alexander Zverev"
+  },
+  {
+   "id": "6f94695e79de",
+   "titulo": "Muhammad / Zhang vs Errani / Paolini · Quarterfinal · WTA Tokyo - Tennis.com",
+   "resumen": "Muhammad / Zhang vs Errani / Paolini · Quarterfinal · WTA Tokyo Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlZRdHdMUUhuY25saVQ5bVU4d2ZHMjdLSDBOUWtfRmZNYnNpc3RMZWctc0tkZHlZY25PTWVDR2oxYmxLaER5TC1udzdOeENJVWpjdFl0dmVwU0tONGppWmZtSWpybDIwd29QODRxUHhwYUFYZmNSQ053cVV5TEZDeGR1UHJDS3FlMU54RXh3UTgydWhlVDAtQ24yX1hLUmt4dXQ5dkU4dnlpeTNRbzRLRkxDbUhBQ1VPOFgyUnBBenhEZw?oc=5",
+   "fecha": "2026-10-30T07:00+00:00",
+   "fuente": "Tennis.com"
   },
   {
    "id": "09b1bb6b4704",
@@ -6658,67 +6716,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbm14SkpNWllycU9yY0dLYnR5TlRjV21kcXB0R2tuWXZ6Y0c3a3U2ajRDanBBWDZpVEZxX0ZrQkM5YVFmanRwdXA3MFREQ1NlNWZyNmZiSDFXblp3UnI4aHJMUFktX0ZLZlJlQ2xsblY0ODA5YUxQMF9rLWlMYzNFeGJEbTllc1R6NmFYVkZwNTFMX1Bja0hGRDc2Tm1CdkViRVlrUUpHRC03eWl3N2Nz?oc=5",
    "fecha": "2026-10-28T21:09+00:00",
    "fuente": "WTA"
-  },
-  {
-   "id": "9e3414ca42ed",
-   "titulo": "Jueves, 29 de octubre de 2026 - Infobae",
-   "resumen": "Jueves, 29 de octubre de 2026 Infobae",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEJIalltZXNxdmV6Q2RpbjJRNVdxRjZ1c3ZvdkhzVFdzYmE0OV9qZUV6M1diaGM4TDZzVzJGWUNvQ3ktbTBFSS1nbW02azhzYzlyZG5WcFctR0ZJLUZBSVBMY3Bsak5ZV0M4eUNrMHlMZ21GOEVfdllHUU1DWUg0VzRzSGl0UDlMZk4taXRwOVlKRFdXZlJqa0dkWXJjbEJkOFHSAaIBQVVfeXFMTXRCSGpZbWVzcXZlekNkaW4yUTVXcUY2dXN2b3ZIc1RXc2JhNDlfamVFejNXYmhjOEw2c1cyRllDb0N5LW0wRUktZ21tNms4c2M5cmRuVnBXLUdGSS1GQUlQTGNwbGpOWVdDOHlDazB5TGdtRjhFX3ZZR1FNQ1lINFc0c0hpdFA5TGZOLWl0cDlZSkRXV2ZSamtHZFlyY2xCZDhR?oc=5",
-   "fecha": "2026-10-28T21:08+00:00",
-   "fuente": "Infobae",
-   "jugador": "Tallon Griekspoor"
-  },
-  {
-   "id": "45a28d276fd9",
-   "titulo": "Valentin Vacherot - Rafael Jódar: pronóstico y cuotas | ATP Basilea - BetBrothers.es",
-   "resumen": "Valentin Vacherot - Rafael Jódar: pronóstico y cuotas | ATP Basilea BetBrothers.es",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaC0zVFo2djZnakc3bDd4YUJXM2tkVGNqTHRPaFJkM1Vyd3pxRFNsQzVUSFRfT3gxRzZQRS1QUThmbXNYRHJxQU1zRFhBZVNVMEU5ZUlmRGxyR2xKR1pRVnlJQTM1ZXBiaUctNXA0SWRmLVY1M0FHUGNQZGdVcW52RzZ0X3pOeXdkSGtlQm5vZzltekFrdXcyUTdB?oc=5",
-   "fecha": "2026-10-28T21:06+00:00",
-   "fuente": "BetBrothers.es",
-   "jugador": "Valentin Vacherot"
-  },
-  {
-   "id": "b114c79fa62d",
-   "titulo": "Medvedev frena a Mérida y avanza en Viena - Diario Las Américas",
-   "resumen": "Medvedev frena a Mérida y avanza en Viena Diario Las Américas",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzRxeE1SSC1rRkJLRkFsVkVLN2FaSExGMVo5TGZGWGVOeHFqMG1aNzhWamcwc19zWmtlM0xCcENmdlRVaTVTMkN2aW5aS3Z2X19xdmIzYXhkbHdxZ3pWNWRfcTB6dXpSUlJLWFkwdkx4NUVVVHNhX3VPeWlra2c2c0gtX20wMXlsbDBmbk1kZTM1Z9IBlwFBVV95cUxQRVNwVk5rT2pMRDFpdXlHa3pOS3Q1eVd4QWNtRlpyRTEtc3JWUi00cXhpNXQxUnJYaXd2RU15NlQxVFAyQWZEVWpfWnNfRlNPVF9PTXBvUTFtNlNjNDlzMXVwcjc1MExNczFqUXNEcmlqRk45QTk5QTNaaGNzNFVWZGVkaVdPM2lLMU5RejV5Nkt2LW41LWdn?oc=5",
-   "fecha": "2026-10-28T20:54+00:00",
-   "fuente": "Diario Las Américas",
-   "jugador": "Daniil Medvedev"
-  },
-  {
-   "id": "8e8c2fb44a2a",
-   "titulo": "Learner Tien 0 - 2 Alex de Minaur: resumen y estadísticas del partido de Erste Bank Open (ATP) - Europa Press",
-   "resumen": "Learner Tien 0 - 2 Alex de Minaur: resumen y estadísticas del partido de Erste Bank Open (ATP) Europa Press",
-   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVTFxVzhQSGphTF8tWElFN3RhVlk3YnZrSm92Y0o2M3BqaVBlMVYxckF1ZW0zdm5vRUkydk9neVhXZ3FLay1ORC1LWjc3SDlwa3p3Um8weFJjckJ3RFB1WUZXY2M3RWhzZGdJaFRYS0xwbnRNdXdHUDhFNjJiSHJ3ZlNhZ01Tb0M1QkRzNE5TWkxrMGFVeGtSRFVUV2JKMFZ6bmdXa0pMbFdDSVREdDZrUi1UTmhMMFlGRkVTRTEzM0RYb0o0bjFfOUNrSE50MktvYTd0Z1BZM2xEREJzTFRYZVNmM3RSN2xvS0kwNklnN243RVE?oc=5",
-   "fecha": "2026-10-28T20:41+00:00",
-   "fuente": "Europa Press",
-   "jugador": "Alex de Minaur"
-  },
-  {
-   "id": "7e1f0ae7df5d",
-   "titulo": "Nikoloz Basilashvili vs Carlos Alcaraz · Round 2 · ATP Vienna - Tennis.com",
-   "resumen": "Nikoloz Basilashvili vs Carlos Alcaraz · Round 2 · ATP Vienna Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0FkaDZuQlVxelZSMHFhSDFiSXN6end3aE9LQWc1UEUxTngzUmpORlhIN0RoMnlodDN6MGlpcURHclFSRnhoam1hbTZkSjdjeDFMcHRuaS1jNV9Ka0FIMVFmMmItLXNackV2UGFpTXdDVDdWbkRlS25VNUxpRGdadXB2MDBwMy1jMWpkMkN5RWZ0WVRWS3JKak4yLUpldw?oc=5",
-   "fecha": "2026-10-28T20:39+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "812cdc53da00",
-   "titulo": "Highlights: Fritz beats Hijikata for birthday win in Basel 2026 - ATP Tour",
-   "resumen": "Highlights: Fritz beats Hijikata for birthday win in Basel 2026 ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmlZZzVyVDlJQ3RLNWtVajQ1a05TMW5wcVdySWZUOXZpN0IxVUNqbGREODZIZkw2STA3QXdYSVdhcV9Ma29renV1LUJpVjROYTFFcVhGQ0tKSTdoeFlBdHR5OG5hMlA4WXlLcC0wMk5yQ2NwdHZ6dFpDdkpxM0ZYcUx6Nkd0RVlaZEdOOHFRVS1EcjVZZnIwZ1MzVQ?oc=5",
-   "fecha": "2026-10-28T20:36+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "fce60c3aead7",
-   "titulo": "Taylor Fritz conecta 19 aces para vencer a Rinky Hijikata en Basilea - Sofascore",
-   "resumen": "Taylor Fritz conecta 19 aces para vencer a Rinky Hijikata en Basilea Sofascore",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2NFY1A4c1BXei15dktoSXdWTnBxNXB3ZTJjWUktTEtxVmk1eUpGYk11MHlobGVvYmRZSzBhYzJ5N1ZSaTBtQ29ObmlLWWowTllMQWxVMmpZTDRnZHdmTDhGNmdwZzFwTGZCc0ZZUkdiZDhQeURHbG1vQnc3RUJpNE1WV3hNSkd0eE9iN1ljempXaG81OUFtbktWa056aUMwX1Z5Uw?oc=5",
-   "fecha": "2026-10-28T20:35+00:00",
-   "fuente": "Sofascore",
-   "jugador": "Rinky Hijikata"
   }
  ]
 }
