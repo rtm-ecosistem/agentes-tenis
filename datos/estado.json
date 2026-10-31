@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.27,
+     "envidia": 0.266,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T14:10+00:00",
+    "hora": "2026-10-31T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T14:10+00:00",
+    "hora": "2026-10-31T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T14:10+00:00",
+    "hora": "2026-10-31T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T14:10+00:00",
+    "hora": "2026-10-31T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2545,6 +2545,16 @@
    "hora": "2026-10-31T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2570,13 +2580,18 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-14",
  "noticias_vistas": [
+  "f4a916daa3dc",
+  "60ebb3d8eb35",
+  "869925f71786",
   "7b0fe4410ec6",
   "66383fa40448",
+  "2506b21507a5",
   "0d1ffb6ba7d8",
+  "af464d333dd4",
   "120e70140ad1",
   "9403b3b1ec99",
   "92ee25f2ac65",
-  "af464d333dd4",
+  "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
   "7d64ddda314d",
@@ -2593,7 +2608,6 @@
   "24c524569df6",
   "0f3c4f376c24",
   "0ce65bae0fa4",
-  "60ebb3d8eb35",
   "ce95c03092ba",
   "cb873c8b2921",
   "b480d3f3db68",
@@ -2602,10 +2616,10 @@
   "ceae7bbbb12e",
   "7d9931d4d33e",
   "3c16fd8f6ffb",
+  "99aea68adc22",
   "55562ee432ed",
   "5786ec5c8976",
   "37c0fb2d5092",
-  "99aea68adc22",
   "0ab995037ca5",
   "6909ded69609",
   "492cc8269ae1",
@@ -2621,17 +2635,18 @@
   "87a059e82c49",
   "0a5e8263ca7b",
   "55ba2cfce63e",
-  "13dd2f31df10",
   "aff6f145b524",
-  "7d1887b7aad6",
   "559c2054e564",
+  "7d1887b7aad6",
   "e0cd5e9a278f",
   "62976e7849c4",
   "74cd967f3214",
+  "909673432f5e",
   "4d8b04bb0aa3",
   "dfc1d5b67f4c",
   "819f8dd5d4c5",
   "e57d31fb025e",
+  "13dd2f31df10",
   "a3207dd9a353",
   "f8cc507fbc05",
   "f9c26263b82c",
@@ -2656,6 +2671,7 @@
   "826e49b95b0a",
   "b17ceac56f76",
   "9fdf08550e39",
+  "b35e942f038e",
   "19e09a87e4d7",
   "67fff5476530",
   "5e78a8ecfa44",
@@ -2676,7 +2692,6 @@
   "e6c1a6077f6d",
   "c15a792b06f9",
   "000170762886",
-  "b35e942f038e",
   "464fed4c1a7b",
   "1fa87f224775",
   "b25bf9621eca",
@@ -2712,6 +2727,7 @@
   "b0ae16ddcdee",
   "33a20812d1c5",
   "127ddc5db01f",
+  "53f30eea43df",
   "7e89d9f649a4",
   "d9836208c7e5",
   "f2d3898e59eb",
@@ -2723,10 +2739,10 @@
   "3eb1ac58774b",
   "801d6c788a8e",
   "58755f45f2b9",
+  "6682337af4b0",
   "5c8a8f549029",
   "281df040e85e",
   "8374be0a9039",
-  "f88b630f834c",
   "10f7d3627a01",
   "64737ee5dd30",
   "d6b4fe28b75d",
@@ -2745,7 +2761,6 @@
   "b8ab9ce93c28",
   "895319a587c1",
   "4270532ec55d",
-  "6682337af4b0",
   "b5ce24a09991",
   "169b3ee4f792",
   "7b2eaa77f860",
@@ -2823,7 +2838,6 @@
   "cbb4e88060bd",
   "f578551e4803",
   "f069e8163642",
-  "10a98821520b",
   "a5f137b87ecb",
   "32ae7d6b9f9b",
   "734e52f509ef",
@@ -2856,11 +2870,12 @@
   "42e9d33654bd",
   "721763e32d94",
   "9485f23d2fd4",
-  "9895b98b5200",
-  "9e550d007c50",
   "dc706a2fa5eb",
   "248c45b145c0",
+  "6faff91f7f09",
   "9e0c2410faa9",
+  "9e550d007c50",
+  "9895b98b5200",
   "f610b60bc7ce",
   "16f5c7b48090",
   "5aa75ce3b3fc",
@@ -2875,6 +2890,7 @@
   "80eeee83f3aa",
   "0d281278ff95",
   "42d5776347c9",
+  "10a98821520b",
   "cae16c997813",
   "5d5c65cef4b0",
   "f15965dd1cf2",
@@ -2894,10 +2910,10 @@
   "2eecf5e151e9",
   "a9cd01f78097",
   "f48a0b825101",
+  "f88b630f834c",
   "481b2832c2c2",
   "f4102d64a589",
   "24ad16c08000",
-  "b481d95627c6",
   "4f70310aa2eb",
   "7c3983589b8b",
   "4e8376158f1c",
@@ -2990,7 +3006,6 @@
   "a180d4eb49a1",
   "5f0ecb4de729",
   "2d6d4128a141",
-  "dca43dc22deb",
   "27104a55fe15",
   "d2fdfaf1ea30",
   "f313e48d6530",
@@ -3185,6 +3200,7 @@
   "32498f9eadcb",
   "d21163364548",
   "451d292ef105",
+  "b481d95627c6",
   "876533ce79cb",
   "373119df1b19",
   "83e89e171303",
@@ -3238,7 +3254,6 @@
   "f87ac203d138",
   "31a3e0340e42",
   "aab957e05b22",
-  "12f495b4da74",
   "891d94d6ae6f",
   "675fdf35e0ae",
   "9424a94966fa",
@@ -3269,9 +3284,11 @@
   "fff41fe8aed4",
   "0ac5aad9277d",
   "57791d23d2d6",
+  "12f495b4da74",
   "7fd7b430d715",
   "ff07e29ce04f",
   "2a89b2c4e3e8",
+  "dca43dc22deb",
   "245a0a37f7bc",
   "6759ff925889",
   "9e9510c5f1b1",
@@ -3316,7 +3333,6 @@
   "bb51c23fef9c",
   "f72a10397af1",
   "c9ba25ae4f08",
-  "6faff91f7f09",
   "bc90b2ac017c",
   "818a7c63cc78",
   "9491aec1e837",
@@ -3363,13 +3379,7 @@
   "a92dc8c937bc",
   "8c074dcdbfbf",
   "e687b8de89f9",
-  "d8cd99f591ec",
-  "46c814b6d461",
-  "d72c5866889c",
-  "a788e4063a84",
-  "3de543778a82",
-  "d030b62e10f8",
-  "a2ce97c0af09"
+  "d8cd99f591ec"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6033,7 +6043,7 @@
    "inicio": "2026-10-31T16:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
+   "actualizado": "2026-10-31T15:10+00:00",
    "elo": 0.624,
    "elo_general": 0.621,
    "elo_en_superficie": 0.626,
@@ -6121,7 +6131,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
+   "actualizado": "2026-10-31T15:10+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -6145,22 +6155,22 @@
      "cansancio": "2 partidos, 4 sets y 42 juegos en 3 días; el último el 2026-10-31 contra Kamilla Rakhimova, ganó 7-5 6-3",
      "noticias": [
       {
-       "titulo": "Semifinal WTA Tokio: Leylah Fernandez derrota a Kamilla Rakhimova 7-5, 6-3 - Sofascore",
-       "fuente": "Sofascore",
+       "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - Manistee News Advocate",
+       "fuente": "Manistee News Advocate",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWZqWHlWYlBDa2x0Q04zXzNWNFEyUnpWek5yZWVaeEtBWVpYbzNNbkhLeTFkUTFkOTJSLUVsc2x1QVlBUEszSTNZWk12SHBhRDZveG94R2Z4VUxnbFJ6Z2QxWVVKeVZhMlFqRGlWMENfZHlud1lyb09YYlRCNEVTMHByOWhyS0hoX0RQbTl0bEN6UWhzdW1CT1AyN05TRTJMOGIxVkFFdw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk9yR3FVbmZKRDJpMkNXUTRETnU3NW5fUjREcU9sdzEzNW1pZGhac2VHX0RDakhvMzM4cFUxelp3WERHMHpaQWdQNV80djk4QTlLREcxaFV6NXNVQWlvMGp0MmFoeUtsWlFvZG1XbjM0RmdRbGFKZVZjQnl2SzFzOHZvS0cyY0pwOXNvM2RHRDBGY0V1SmZOQ0p5aWxUa1BwNE1XWEYxRGdVUQ?oc=5"
       },
       {
-       "titulo": "Leylah Fernandez vs Kamilla Rakhimova · Semifinal · WTA Tokyo - Tennis.com",
+       "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
+       "fuente": "San Antonio Express-News",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTS1RNXpIQURmZ3RnZk5uNHk1VndhZFduNnYtNmt6QlhBNHQ0OTV0TDZjbHc5Q0p1a010OEVGWUtkcmNjdGt0WDltRzRNUWF3V0M5NEh4VHY3YlprRkVpa0RoZnB2Vk9kdzhZTTliWGhUejFPbEVsUG9SUFJ2amg3M21CNDZ6MWgyLWJmVk9kQ2FHN2E1QlVvc3RtOG82UTFtVmhQbm9PSTk?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
-      },
-      {
-       "titulo": "Shnaider, Fernandez win big points down the stretch to set up Tokyo Final showdown - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjU3TktUR0ROZ0ZLc2wxbW1zNmpGM1hOVWJpeDJBNjNrVnJKTnkwaFYwWU1JVHdPYzFQOHFGU05JVmxucnNKdUxhWXdsaEk4TGFzUWkydmNxOVRscFVuUmQyWHo4M1hiSGQ1dDMzcUNPNzF2RnpFejhoLThhRTlxZGRzN1RJcUs3ZWlwV09ibkVFbXNZbkItckg4S1ZrUTk2b1pCVFdxTng5NGNuT0VwQm9FQmd1N3Q1UUlFUA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
       }
      ]
     },
@@ -6179,22 +6189,22 @@
      "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
+       "fuente": "San Antonio Express-News",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTS1RNXpIQURmZ3RnZk5uNHk1VndhZFduNnYtNmt6QlhBNHQ0OTV0TDZjbHc5Q0p1a010OEVGWUtkcmNjdGt0WDltRzRNUWF3V0M5NEh4VHY3YlprRkVpa0RoZnB2Vk9kdzhZTTliWGhUejFPbEVsUG9SUFJ2amg3M21CNDZ6MWgyLWJmVk9kQ2FHN2E1QlVvc3RtOG82UTFtVmhQbm9PSTk?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
+      },
+      {
        "titulo": "Shnaider vence a Pohankova y llega a la final WTA de Tokio - Sofascore",
        "fuente": "Sofascore",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQy1iZG5vX2tpM202R3RSYUZBZmpVbGhTOENKOGlOM2FpLV91aURqYVYtNVFPTmljeldraHI4TGtFUTJvNzAzSEFEQktLd29IZmN3RVpBYkZ6cmxveW1ITi1QOWlKVUZTRmF2WV9FLV93cFB6Qm1ncmRiN3BZX0tGSEc5Y0NUOXFnQUJrbnlOQm5RejJSSUhj?oc=5"
-      },
-      {
-       "titulo": "Shnaider, Fernandez win big points down the stretch to set up Tokyo Final showdown - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjU3TktUR0ROZ0ZLc2wxbW1zNmpGM1hOVWJpeDJBNjNrVnJKTnkwaFYwWU1JVHdPYzFQOHFGU05JVmxucnNKdUxhWXdsaEk4TGFzUWkydmNxOVRscFVuUmQyWHo4M1hiSGQ1dDMzcUNPNzF2RnpFejhoLThhRTlxZGRzN1RJcUs3ZWlwV09ibkVFbXNZbkItckg4S1ZrUTk2b1pCVFdxTng5NGNuT0VwQm9FQmd1N3Q1UUlFUA?oc=5"
-      },
-      {
-       "titulo": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRVaGpNYTRHZi15OU5ZNlZiTThWclhHeWFkLXdCaVBwakxnVjBfQ2NMWXFjYmtUY1NqQVBhdXlRLWtfUVYxNS1oWWUtX04xdnZJVHFrTzhmRmpiZTg3VUpSbHVaSFdjVWFkaDZpbjVCTjZJTEV3b0F6dTJYNG8zQVZqWTZia28xVnRGalc1dlVRaFpZbVR5MTR0ZzZZSkw4OW4zVVAwNDNJdw?oc=5"
       }
      ]
     }
