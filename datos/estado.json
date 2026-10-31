@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.258,
+     "envidia": 0.255,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:14+00:00",
+    "hora": "2026-10-31T18:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:14+00:00",
+    "hora": "2026-10-31T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:14+00:00",
+    "hora": "2026-10-31T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:14+00:00",
+    "hora": "2026-10-31T18:10+00:00",
     "rent": 0.0
    }
   }
@@ -2565,6 +2565,16 @@
    "hora": "2026-10-31T17:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T18:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2590,12 +2600,15 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-14",
  "noticias_vistas": [
-  "cd40016f4efd",
   "d6f7c92644fb",
+  "cd40016f4efd",
   "78225ddda3f6",
   "60ebb3d8eb35",
+  "ce95c03092ba",
+  "cb873c8b2921",
   "66383fa40448",
   "9248580c1351",
+  "fd3a215fab65",
   "0c05030478b9",
   "039cb0de817e",
   "a61cb3eda77d",
@@ -2610,26 +2623,29 @@
   "f4a916daa3dc",
   "1730d9178393",
   "869925f71786",
+  "ce37677187b7",
   "7b0fe4410ec6",
   "6d42e4595230",
   "78d83485e8a6",
   "2506b21507a5",
   "370b4cd08ddf",
+  "0c19f6526845",
   "fc2b6b895408",
   "af464d333dd4",
   "0d1ffb6ba7d8",
   "120e70140ad1",
   "9403b3b1ec99",
+  "999f776be5ad",
   "92ee25f2ac65",
   "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
-  "999f776be5ad",
   "7d64ddda314d",
+  "cf622b02ec44",
   "fe40ad32dbd4",
   "f7be87c793f4",
-  "cf622b02ec44",
   "14370880f3d5",
+  "ed3dafdd9537",
   "5136292a0ff5",
   "7dafc0048328",
   "e5ee2b38f697",
@@ -2638,8 +2654,6 @@
   "24c524569df6",
   "0f3c4f376c24",
   "0ce65bae0fa4",
-  "ce95c03092ba",
-  "cb873c8b2921",
   "b480d3f3db68",
   "ffbbdbc29649",
   "361981353646",
@@ -2692,6 +2706,7 @@
   "97cfb259e512",
   "d07e512f5a99",
   "b3c81fcebf40",
+  "9fdf08550e39",
   "e677fabcca71",
   "11d59c0fe8f2",
   "a42982ea6faa",
@@ -2701,7 +2716,6 @@
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
-  "9fdf08550e39",
   "826e49b95b0a",
   "b17ceac56f76",
   "19e09a87e4d7",
@@ -2736,6 +2750,7 @@
   "d3f80b69c58d",
   "88afdd486e64",
   "b41d1ecbc44b",
+  "0d686b95872b",
   "1d5d8b1e6ace",
   "ea5be9f0fad3",
   "2504b32b2bdc",
@@ -3200,6 +3215,7 @@
   "091fdb4ce24c",
   "055090f80b15",
   "3bfce1f8e746",
+  "b114c5a93b73",
   "b84c9b7e0a14",
   "38edf193686e",
   "303f3a261358",
@@ -3214,10 +3230,12 @@
   "2d84abd70177",
   "b314fdf1b6c6",
   "69031ddb6931",
+  "360e31191945",
   "24232611d516",
   "cc288e374b7b",
   "c8932395a46b",
   "10a7b42664ef",
+  "0d0b9d0738cf",
   "95be1185ab93",
   "5d1ed1a37e45",
   "ca80fd76676c",
@@ -3303,7 +3321,9 @@
   "2cedabb3b797",
   "5ff66395453d",
   "265742252385",
+  "4d180abf41d3",
   "c3ccc8dee994",
+  "8c7c6c98e5a5",
   "3a2b57a66075",
   "2490d3774f82",
   "46f5bdc2800f",
@@ -3379,17 +3399,7 @@
   "12a740a00bb9",
   "1ca0f35087b7",
   "85473a5dbc62",
-  "5a1284feb6af",
-  "17efabbb4b74",
-  "ede0d84e29ee",
-  "5d0a3e523359",
-  "7558ed305029",
-  "8c2448fae8ae",
-  "5429a7b6b430",
-  "a31f7cb567d5",
-  "bf899606bc38",
-  "b0350027b067",
-  "124824a1474d"
+  "5a1284feb6af"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6141,7 +6151,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T17:10+00:00",
+   "actualizado": "2026-10-31T18:10+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -6199,6 +6209,12 @@
      "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Leylah Fernández avanza a la final del Abierto de Japón - El Horizonte",
+       "fuente": "El Horizonte",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDhoaGxjVG5nUFdVZWthdkZDTVpVb1N3eHg1OG9PX1RLeXdqWkdyRi1iSjNCX0c5WEU4ZS1pdUs5Mm0yTmpkOU9DNjlXQVNjaDlPNWdBaEhQelNHaEhIbWRGa2R4bC1yalBtVWQwOTd2Z1hrS1pSQVM1dWNuVkZxRXdpeVNKQWZvdEs0VU5tV3h1UTdhaTZXV09TeFNhNVBfT1hzVQ?oc=5"
+      },
+      {
        "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
        "fuente": "San Antonio Express-News",
        "fecha": "2026-10-31",
@@ -6209,12 +6225,6 @@
        "fuente": "ESPN Deportes",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHdKUlB1WjdkZlNGeVFBWVhNNEhMZ3plWGFsS1IzcURsRVVkbGQ2dFZadTZOaGZUbzYzSmNUNWxGQmJiY0FaRUktN3c3QUJaMGZ0X3JHTjBtSFpKMk91Q2YyS0pJUXNpZHRWM1g4NDR2N0o3N21GM1JOT2JGTVFreTM3YTJYMUNaNmxrbDRCdjRxVm5ncWxCV3FVVU4tcHU2ZGxpbVJrTkF0VmJMU1FaMTdBSDRrWUtMWDFseXhpXzV1MmZrbXhPa1lsMVdRdFVVUGpCVFpZZ0ctVGZVNzR3?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
       }
      ]
     }

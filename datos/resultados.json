@@ -237459,6 +237459,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Adrian Mannarino",
+    "Nuno Borges"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniel Altmaier",
+    "Alex Molcan"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }
