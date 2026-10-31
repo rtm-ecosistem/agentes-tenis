@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T11:10+00:00",
+ "actualizado": "2026-10-31T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -117,19 +117,18 @@
    "nombre": "Rinky Hijikata",
    "circuito": "ATP",
    "elo": {
-    "all": 1587.1,
-    "hard": 1593.1,
+    "all": 1606.5,
+    "hard": 1610.8,
     "clay": 1311.7,
     "grass": 1336.1
    },
    "n": {
-    "all": 120,
-    "hard": 92,
+    "all": 121,
+    "hard": 93,
     "clay": 15,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-31 P hard vs Felix Auger-Aliassime",
     "2026-09-24 G hard vs Dalibor Svrcina",
     "2026-09-25 P hard vs Andrey Rublev",
     "2026-09-28 G hard vs Camilo Ugo Carabelli",
@@ -138,7 +137,8 @@
     "2026-10-20 P hard vs Terence Atmane",
     "2026-10-24 G hard vs Miomir Kecmanovic",
     "2026-10-25 P hard vs Yannick Hanfmann",
-    "2026-10-28 P hard vs Taylor Fritz"
+    "2026-10-28 P hard vs Taylor Fritz",
+    "2026-10-31 G hard vs Jaime Faria"
    ]
   },
   "kokkinakis|t": {
@@ -7258,19 +7258,18 @@
    "nombre": "Zachary Svajda",
    "circuito": "ATP",
    "elo": {
-    "all": 1552.2,
-    "hard": 1522.6,
+    "all": 1536.1,
+    "hard": 1505.6,
     "clay": 1588.0,
     "grass": 1549.2
    },
    "n": {
-    "all": 62,
-    "hard": 50,
+    "all": 63,
+    "hard": 51,
     "clay": 6,
     "grass": 6
    },
    "ultimos": [
-    "2026-07-25 G hard vs Stefan Kozlov",
     "2026-07-27 P hard vs Aleksandar Vukic",
     "2026-08-05 P hard vs Arthur Fils",
     "2026-08-14 P hard vs Mattia Bellucci",
@@ -7279,7 +7278,8 @@
     "2026-09-28 P hard vs Aleksandar Kovacevic",
     "2026-10-08 G hard vs Fabian Marozsan",
     "2026-10-10 P hard vs Learner Tien",
-    "2026-10-24 P hard vs Juan Manuel Cerundolo"
+    "2026-10-24 P hard vs Juan Manuel Cerundolo",
+    "2026-10-31 P hard vs Thiago Agustin Tirante"
    ]
   },
   "johnson|s": {
@@ -7445,19 +7445,18 @@
    "nombre": "Thiago Agustin Tirante",
    "circuito": "ATP",
    "elo": {
-    "all": 1662.7,
-    "hard": 1640.0,
+    "all": 1678.3,
+    "hard": 1658.1,
     "clay": 1606.6,
     "grass": 1442.4
    },
    "n": {
-    "all": 68,
-    "hard": 42,
+    "all": 69,
+    "hard": 43,
     "clay": 23,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-15 G hard vs Novak Djokovic",
     "2026-08-17 G hard vs Martin Landaluce",
     "2026-08-19 G hard vs Jakub Mensik",
     "2026-08-21 P hard vs Arthur Fils",
@@ -7466,7 +7465,8 @@
     "2026-10-08 G hard vs Hamad Medjedovic",
     "2026-10-10 P hard vs Rafael Jodar",
     "2026-10-19 P hard vs Facundo Diaz Acosta",
-    "2026-10-24 P hard vs Adrian Mannarino"
+    "2026-10-24 P hard vs Adrian Mannarino",
+    "2026-10-31 G hard vs Zachary Svajda"
    ]
   },
   "comesana|f": {
@@ -8328,19 +8328,18 @@
    "nombre": "Jaime Faria",
    "circuito": "ATP",
    "elo": {
-    "all": 1611.7,
-    "hard": 1550.8,
+    "all": 1587.8,
+    "hard": 1525.7,
     "clay": 1663.9,
     "grass": 1621.9
    },
    "n": {
-    "all": 69,
-    "hard": 35,
+    "all": 70,
+    "hard": 36,
     "clay": 28,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-03 P hard vs Carlos Alcaraz",
     "2026-09-24 G hard vs Terence Atmane",
     "2026-09-25 P hard vs Hugo Gaston",
     "2026-09-28 G hard vs Shintaro Mochizuki",
@@ -8349,7 +8348,8 @@
     "2026-10-02 P hard vs Jaume Munar",
     "2026-10-07 P hard vs Arthur Gea",
     "2026-10-19 P hard vs Felix Balshaw",
-    "2026-10-24 P hard vs Mika Brunold"
+    "2026-10-24 P hard vs Mika Brunold",
+    "2026-10-31 P hard vs Rinky Hijikata"
    ]
   },
   "ritschard|a": {
@@ -8924,19 +8924,18 @@
    "nombre": "Mattia Bellucci",
    "circuito": "ATP",
    "elo": {
-    "all": 1584.1,
-    "hard": 1614.2,
+    "all": 1607.1,
+    "hard": 1636.0,
     "clay": 1375.6,
     "grass": 1476.6
    },
    "n": {
-    "all": 85,
-    "hard": 68,
+    "all": 86,
+    "hard": 69,
     "clay": 9,
     "grass": 8
    },
    "ultimos": [
-    "2026-08-23 G hard vs Martin Landaluce",
     "2026-08-25 P hard vs Luciano Darderi",
     "2026-09-01 G hard vs Zsombor Piros",
     "2026-09-03 P hard vs Taylor Fritz",
@@ -8945,26 +8944,26 @@
     "2026-10-06 G hard vs Alexandre Muller",
     "2026-10-07 P hard vs Zhou Yi",
     "2026-10-21 G hard vs Tomas Martin Etcheverry",
-    "2026-10-22 P hard vs Terence Atmane"
+    "2026-10-22 P hard vs Terence Atmane",
+    "2026-10-31 G hard vs Pablo Carreno Busta"
    ]
   },
   "carreno busta|p": {
    "nombre": "Pablo Carreno Busta",
    "circuito": "ATP",
    "elo": {
-    "all": 1622.3,
-    "hard": 1603.9,
+    "all": 1598.5,
+    "hard": 1580.5,
     "clay": 1559.3,
     "grass": 1392.5
    },
    "n": {
-    "all": 77,
-    "hard": 56,
+    "all": 78,
+    "hard": 57,
     "clay": 19,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-14 G hard vs Tomas Machac",
     "2026-08-16 P hard vs Andrey Rublev",
     "2026-08-30 P hard vs Jiri Lehecka",
     "2026-09-28 G hard vs Zhou Yi",
@@ -8973,7 +8972,8 @@
     "2026-10-08 G hard vs Mariano Navone",
     "2026-10-10 G hard vs Alejandro Tabilo",
     "2026-10-12 P hard vs Felix Auger-Aliassime",
-    "2026-10-24 P hard vs Jacob Fearnley"
+    "2026-10-24 P hard vs Jacob Fearnley",
+    "2026-10-31 P hard vs Mattia Bellucci"
    ]
   },
   "hugues herbert|p": {
@@ -14283,19 +14283,18 @@
    "nombre": "Viktoria Morvayova",
    "circuito": "WTA",
    "elo": {
-    "all": 1422.1,
-    "hard": 1461.4,
+    "all": 1461.9,
+    "hard": 1497.9,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 19,
-    "hard": 18,
+    "all": 20,
+    "hard": 19,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-06-16 P hard vs Katarina Kuzmova",
     "2026-07-11 G hard vs Franziska Sziedat",
     "2026-07-12 G hard vs Elina Nepliy",
     "2026-07-13 P hard vs Sara Bejlek",
@@ -14304,7 +14303,8 @@
     "2026-09-20 P hard vs Joanna Garland",
     "2026-09-24 P hard vs Talia Gibson",
     "2026-09-29 P hard vs Sara Sorribes Tormo",
-    "2026-10-13 P hard vs Irene Burillo"
+    "2026-10-13 P hard vs Irene Burillo",
+    "2026-10-31 G hard vs Shrivalli Bhamidipaty"
    ]
   },
   "appleton|e": {
@@ -14428,19 +14428,18 @@
    "nombre": "Kyoka Okamura",
    "circuito": "WTA",
    "elo": {
-    "all": 1588.7,
-    "hard": 1606.5,
+    "all": 1607.9,
+    "hard": 1624.6,
     "clay": 1422.2,
     "grass": 1500.0
    },
    "n": {
-    "all": 23,
-    "hard": 22,
+    "all": 24,
+    "hard": 23,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-02 P hard vs Emerson Jones",
     "2026-10-04 G hard vs Priska Nugroho",
     "2026-10-05 G hard vs Wei Sijia",
     "2026-10-06 G hard vs Darja Vidmanova",
@@ -14449,7 +14448,8 @@
     "2026-10-10 G hard vs Elvina Kalieva",
     "2026-10-11 P hard vs Rebecca Sramkova",
     "2026-10-17 P hard vs Maya Joint",
-    "2026-10-24 P hard vs Sayaka Ishii"
+    "2026-10-24 P hard vs Sayaka Ishii",
+    "2026-10-31 G hard vs Diya Ramesh Ramesh"
    ]
   },
   "meiqi|g": {
@@ -15141,19 +15141,20 @@
    "nombre": "Diya Ramesh Ramesh",
    "circuito": "WTA",
    "elo": {
-    "all": 1434.3,
-    "hard": 1434.3,
+    "all": 1398.8,
+    "hard": 1401.3,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2025-10-25 P hard vs Arina Rodionova"
+    "2025-10-25 P hard vs Arina Rodionova",
+    "2026-10-31 P hard vs Kyoka Okamura"
    ]
   },
   "adkar|v": {
@@ -17772,21 +17773,22 @@
    "nombre": "Shrivalli Bhamidipaty",
    "circuito": "WTA",
    "elo": {
-    "all": 1469.0,
-    "hard": 1469.0,
+    "all": 1407.3,
+    "hard": 1413.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 3,
-    "hard": 3,
+    "all": 4,
+    "hard": 4,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2025-10-29 G hard vs Maaya Rajeshwaran Revathi",
     "2025-10-30 P hard vs Kimberly Birrell",
-    "2026-02-03 P hard vs Kristiana Sidorova"
+    "2026-02-03 P hard vs Kristiana Sidorova",
+    "2026-10-31 P hard vs Viktoria Morvayova"
    ]
   },
   "rajeshwaran revathi|m": {
@@ -59094,7 +59096,7 @@
    0
   ],
   "bellucci|m~carreno busta|p": [
-   0,
+   1,
    1
   ],
   "cazaux|a~landaluce|m": [
@@ -91080,7 +91082,23 @@
   "falei|a~yashina|e": [
    1,
    0
+  ],
+  "agustin tirante|t~svajda|z": [
+   1,
+   0
+  ],
+  "faria|j~hijikata|r": [
+   0,
+   1
+  ],
+  "okamura|k~ramesh ramesh|d": [
+   1,
+   0
+  ],
+  "bhamidipaty|s~morvayova|v": [
+   0,
+   1
   ]
  },
- "propios": 10457
+ "propios": 10462
 }

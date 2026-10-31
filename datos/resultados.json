@@ -236931,6 +236931,115 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Mattia Bellucci",
+    "Pablo Carreno Busta"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Zachary Svajda",
+    "Thiago Agustin Tirante"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rinky Hijikata",
+    "Jaime Faria"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diya Ramesh Ramesh",
+    "Kyoka Okamura"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Shrivalli Bhamidipaty",
+    "Viktoria Morvayova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
