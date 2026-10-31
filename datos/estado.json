@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T21:10+00:00",
+    "hora": "2026-10-31T21:16+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T21:10+00:00",
+    "hora": "2026-10-31T21:16+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T21:10+00:00",
+    "hora": "2026-10-31T21:16+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T21:10+00:00",
+    "hora": "2026-10-31T21:16+00:00",
     "rent": 0.0
    }
   }
@@ -2623,6 +2623,7 @@
   "c6eef0ec3ac5",
   "7e7da61a13a3",
   "a9abe20dc1bc",
+  "e2a9888485ba",
   "7d68120f8d4f",
   "7d64ddda314d",
   "67f212efa36e",
@@ -2930,6 +2931,7 @@
   "f4102d64a589",
   "255c4bf7f0dd",
   "760e94efa67f",
+  "9dd91be6b349",
   "e3a4c68f4959",
   "c6da46454a98",
   "f7facc31dea6",
@@ -3102,6 +3104,7 @@
   "be83d3c3575a",
   "fc80536a1c31",
   "98b268137439",
+  "52d6bb6ac362",
   "1e9f33dc3299",
   "a180d4eb49a1",
   "5f0ecb4de729",
@@ -3406,10 +3409,7 @@
   "b6117f1e6e71",
   "c1eb0c10022b",
   "8a51578a1ed5",
-  "4cfa538c87fb",
-  "10f0486de222",
-  "68b181fb0379",
-  "fb1293347681"
+  "4cfa538c87fb"
  ],
  "sala_aciertos": {
   "favorito": [
