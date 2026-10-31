@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T09:10+00:00",
+ "actualizado": "2026-10-31T09:22+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -2142,6 +2142,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-31T09:22+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T09:22+00:00",
+   "texto": "📰 Noticias nuevas de Pablo Carreno Busta – Mattia Bellucci, Valentin Vacherot – Taylor Fritz, Daniil Medvedev – Carlos Alcaraz…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-31T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2278,16 +2288,6 @@
   },
   {
    "hora": "2026-10-30T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
   }
@@ -3870,7 +3870,7 @@
    "inicio": "2026-10-31T10:05+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.487,
    "elo_general": 0.535,
    "elo_en_superficie": 0.439,
@@ -3958,7 +3958,7 @@
    "inicio": "2026-10-31T10:05+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.52,
    "elo_general": 0.555,
    "elo_en_superficie": 0.485,
@@ -3994,10 +3994,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjJKOHVmcllQelJ0X0FDZ0tBamZWZFhRbGQ0YjBuQXo5cWdIcDQxR2JDUmJBWEhybjZraEp0OGltRUFUeHdEcUxQUDRxVmZaTU9iRVR0OTlXMWgtMGhpaF9YT0tjem9fbHF2blBYRE1ucmc0dFlsQ2dKVWwyd3lZa013aEQtV2l1N0JRM3d0LUxOem0tTlVV?oc=5"
       },
       {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
-       "fuente": "Flashscore.es",
+       "titulo": "Alejandro Tabilo vs Pablo Carreno-Busta » Mejores Cuotas y Estadísticas - Odds Scanner",
+       "fuente": "Odds Scanner",
        "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qRnRncDlvVUpsVEFDam5ZZ09MZWh1ek5LWmUyQXY1TS1iTjBvRGFBNzZMaGRndDJpbjNiTTl6V0pRdFRyczNqUUUwelNyYW83UllrNWFGa0dtRXJPX0p2OVpxUUNnUGVUZk4ydG5SWHRYYVFxQ2tzdzhyZVk?oc=5"
       }
      ]
     },
@@ -4046,7 +4046,7 @@
    "inicio": "2026-10-31T10:05+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.658,
    "elo_general": 0.654,
    "elo_en_superficie": 0.663,
@@ -4134,7 +4134,7 @@
    "inicio": "2026-10-31T11:05+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.53,
    "elo_general": 0.537,
    "elo_en_superficie": 0.523,
@@ -4186,12 +4186,6 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Grigor Dimitrov - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjd1RnJObXo1ZnE1bmJKNkxVenlxYnJuVGd2cjZkdVRGZ2dfb214eXVuaTJzcVRrX0d5dHVtX21sMlBaUWZqRS05T3F3aGVhckZ0cklJM05wQkIxek5xNEZ3cjI2ZEIycUVXdVhHZEVUV2Q0RG1oNWx2NzN5UUR3VEtSMkUzUHVwWUNTSGpsUFlVdmVxeUVfOTJB?oc=5"
-      },
-      {
        "titulo": "Pronóstico Hugo Gastón vs Vit Kopriva - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-30",
@@ -4216,7 +4210,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.641,
    "elo_general": 0.681,
    "elo_en_superficie": 0.602,
@@ -4304,7 +4298,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.622,
    "elo_general": 0.613,
    "elo_en_superficie": 0.632,
@@ -4367,7 +4361,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.732,
    "elo_general": 0.737,
    "elo_en_superficie": 0.727,
@@ -4455,7 +4449,7 @@
    "inicio": "2026-10-31T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.493,
    "elo_general": 0.477,
    "elo_en_superficie": 0.51,
@@ -4543,7 +4537,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.518,
    "elo_general": 0.443,
    "elo_en_superficie": 0.593,
@@ -4593,6 +4587,12 @@
        "fuente": "Wincomparator",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5"
       }
      ]
     }
@@ -4607,7 +4607,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.247,
    "elo_general": 0.271,
    "elo_en_superficie": 0.223,
@@ -4637,16 +4637,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
       },
       {
+       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
+       "fuente": "Flashscore.cl",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXBmaDB2OVlweUgzOWE4UzFiUmdjNFJheXNESmlDMTR6Z1dEZ1J2SW5sZ2h3M0xhSTlPWk1XQW5kVkZuOTRzN3VwbzRsSG1WclpWVzNiUXp5RGZLdmROMUw3UDlELTZOdkZoRG9nTWFONXZjNHVzSnRIRzJ3cHFZbWFSTm9oS3labm40djNRZDdhRjNVVHNOQg?oc=5"
+      },
+      {
        "titulo": "Alejandro Davidovich Fokina - Moise Kouame en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGo0RHBiRlEtOXpEeTBQd3R3X1NnTERzaDNha0JHdlpMMlQyM00yTG02WXVMQ01hcGJMUTRnNmRmV0NBS2pNVEVHZU91dy1haE85UFhiZldRVTR2c2pNV3hXbXVPS2I5RlhNdUhCa1lYUkozZ2tWNTVBcG1kcGJ4M0ZKSmYzQjRGWDBxeW5LY1FtWkY1TVpQOEZOZTRGdw?oc=5"
-      },
-      {
-       "titulo": "Cuadro ATP París 2026 - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMXBWV3JpYmFkSVB0WUhqcEktRWJVOFdSN3NzQVc0bF9rZm5FLW1RWHJENW5ScTFvd1JOc0FYdkRZU2liY3BUNXl5WGJhUldkNlJQcWg4MHU?oc=5"
       }
      ]
     },
@@ -4671,16 +4671,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
       },
       {
-       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
-       "fuente": "Flashscore.cl",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXBmaDB2OVlweUgzOWE4UzFiUmdjNFJheXNESmlDMTR6Z1dEZ1J2SW5sZ2h3M0xhSTlPWk1XQW5kVkZuOTRzN3VwbzRsSG1WclpWVzNiUXp5RGZLdmROMUw3UDlELTZOdkZoRG9nTWFONXZjNHVzSnRIRzJ3cHFZbWFSTm9oS3labm40djNRZDdhRjNVVHNOQg?oc=5"
-      },
-      {
        "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.com.ar",
        "fuente": "Flashscore.com.ar",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
+      },
+      {
+       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
+       "fuente": "Flashscore.es",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
       }
      ]
     }
@@ -4695,7 +4695,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.426,
    "elo_general": 0.426,
    "elo_en_superficie": 0.427,
@@ -4719,6 +4719,12 @@
      "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-10-30 contra Holger Rune, ganó 6-3 3-6 6-3",
      "noticias": [
       {
+       "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3BUTExZNWFkNDRHQjNOd05TNVZJMkdPakY5cUluRktFQXBHSDR0LUZPanNCVDN6cjJDNUxxQVBBYmVyQmdTQ2pYVWttc09SaGZjZG1aZ3d1YVRhaHdmclhKdnNPX0Zwa19iWjRMV0hnZ0J1RFB4VHdtcEl2TEJPWTlEVHEteEtSOG1GaHpxWW1KRl81d1lmbDJRck95UmN4NmxZVG9RWkN0VmpmeklfTWJxSTBGUdIBtgFBVV95cUxNX3BUTExZNWFkNDRHQjNOd05TNVZJMkdPakY5cUluRktFQXBHSDR0LUZPanNCVDN6cjJDNUxxQVBBYmVyQmdTQ2pYVWttc09SaGZjZG1aZ3d1YVRhaHdmclhKdnNPX0Zwa19iWjRMV0hnZ0J1RFB4VHdtcEl2TEJPWTlEVHEteEtSOG1GaHpxWW1KRl81d1lmbDJRck95UmN4NmxZVG9RWkN0VmpmeklfTWJxSTBGUQ?oc=5"
+      },
+      {
        "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
        "fuente": "Infobae",
        "fecha": "2026-10-30",
@@ -4729,12 +4735,6 @@
        "fuente": "Infobae",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c00gHEAUFVX3lxTE1sMG5UaEFQa3czRFJIOVFBRjkzV2l4eUo0SXdrczg3WDlsdUNicjFsdmMyZHNvRDFSdDhmazhBQkVpQzVfems1SmZ2V09iX0VsSER2aGE4ZTVCMkpaeXhWMGNpU2ZndFp3dXd0N1V1Z2JrVWx3cV9lbmVaZDZSSm5TYUVxMXl3QUpXWXVrS1lpWEpod2RYT292WG9wTldYOXdsS2JZSE43VlI4OVF5OE1CYXd6dmRyU1hvbE5kUm1pa0tXdzQ?oc=5"
-      },
-      {
-       "titulo": "Valentin Vacherot vs Taylor Fritz · Semifinal · ATP Basel - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkpHWWZ5OUdIc09BTW42REVkNlhnZ0lsSW9laXhkbi01cVZFSDdhakhRS0FiaVoteUgyNGRTRUQtQ3h5VV94RzQwcHBrQ3dqSUtVQVhGc3ZIaElsWHU4NlRud1lMWGp6YjJIY3BZQkRURUEyUl9VUUE1VjFlajFiRWNpd0VjY1ExVGdaNUYxallRY1N3dHpIX1VWSQ?oc=5"
       }
      ]
     },
@@ -4753,10 +4753,10 @@
      "cansancio": "3 partidos, 5 sets y 49 juegos en 3 días; el último el 2026-10-30 contra Arthur Fils, ganó 5-2",
      "noticias": [
       {
-       "titulo": "¿Cuál es la programación de Basilea? - ATP Tour",
+       "titulo": "¿Cuáles fueron los resultados de Basilea? - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1razVuNDhsS1pZaTZrM0VPN0RJMU96dXJHNUVhZkpNR093MlJCeFYwOFF2cmF4a1NjMG56MXNCS2kxWUZjaFpmczBjTlFmczAwTkZrempKQWt6RWhzMW5pWQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxWXJ0NHVRUnFmSlNSc04yNjRhazFTU3dPMjlzMXM2bUZBQy02QjlaaHlqRzFLdmhDNF91YUhNeWM3c0JLYjdLOWdJREdLR0Z3QXFuazlibGowNFRteG9n?oc=5"
       },
       {
        "titulo": "Hot Shot: Paul conecta un ángulo perfecto ante Fritz en Lyon - ATP Tour",
@@ -4783,7 +4783,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.249,
    "elo_general": 0.211,
    "elo_en_superficie": 0.286,
@@ -4807,6 +4807,12 @@
      "cansancio": "3 partidos, 7 sets y 69 juegos en 3 días; el último el 2026-10-30 contra Adrian Mannarino, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Alcaraz vs. Medvedev: horario y dónde ver por TV el partido de semifinales del ATP 500 de Viena - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUi1TeDZBbXZiRzBsVHd6TjlYeGgwOHZxMXhnaTR1Qzg5cWpha3F2YUQ0eDNtSFFXbWpOWGgxaTZ1NzVYbVFRdzZDbEx6b0RzU2pOcmtPWUpSNXRhcXlCRjhSeC13RXRkUVU2THhWbVE1RmJHMktUMlR0elpsaWJpNXRjMmJxS0NsdzNWWl9FblRQNXdLMXRvWXM2elJwVW5hQjNiNUl3WDRnNjJQMFFqN0lXYnYyS3BuMUpseDFIRmM3WmJn?oc=5"
+      },
+      {
        "titulo": "Alcaraz-Medvedev: horario y dónde ver hoy la semifinal de Viena por televisión - Sport Aragón",
        "fuente": "Sport Aragón",
        "fecha": "2026-10-31",
@@ -4817,12 +4823,6 @@
        "fuente": "MARCA",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWE9zb3F1eGRuQ2FMN0dsNWRjWEpBRktPdmVmZGl5eUtEbTdnVWYzanJ2aXdxM1RfZ3U1b19JR3gtWk13dmlLTDVEMHAxb0tzbHlsby1LZ1d4ckxSRjZwekJKeFNEN3Jkc1JZblA3eXp6ek1WZi1lb1NYNzFteDRPZVJtYVRjOGhiUGlienRzYVZ2VFAyWVhydFJ5NHp6WXRiUFA2Mk1GYVBXNjJBXzRjc21kdmt4MXkwTkHSAboBQVVfeXFMUHprVUppdl9meW5XM0FZS3lhdWdibV93cnFRQllKZnVqMU12SkpiNEM5WmJ5S3gwbmctd0VSOUtTbEFXenBZUWRGNE5NU3B1S2ZUN2F0eVlKS1REc1h5b2NSc2VydFVmUTlOb054UmNaOFRBa2Z1clJLVG5kSWVyYWhEMGE3Q2JrRWpkQlNFYmlLb3dFeVJLUU5oUXA4NU1pRHdvR0paN0UyUjRmQWZLaTBqNEhiMHo0N1h3?oc=5"
-      },
-      {
-       "titulo": "Alcaraz tumba a Paul y se cita con Medvedev en un duelo de gigantes en las semifinales de Viena - MurciaEconomía.com",
-       "fuente": "MurciaEconomía.com",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTN3ZUVBMTR0THB6V0hOZFNMNFE0SjVsaWFiak9qUzZaLWw2TThrbXlfRjE0UkhXZTc5aGNhS2t5U0VVMlBkbDFENU0wbXl2VHNXMUlEUXV0dUNKTmFPb3BoMy1Dd1RnS1RseGUwOFR5cjVZWTk1T1lMdDJkeU1Kb3lpRHE1Vmw4Tm5TZXNZUk03WFV0Rl94N0sxTHNUckgxUUxtNkVVdGRNNmRHUHREdkU2bmxoM0toeDJuMUt0NUV4WDVGX2FwNjBFTmdxZw?oc=5"
       }
      ]
     },
@@ -4841,6 +4841,12 @@
      "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-30 contra Tommy Paul, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Alcaraz vs. Medvedev: horario y dónde ver por TV el partido de semifinales del ATP 500 de Viena - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUi1TeDZBbXZiRzBsVHd6TjlYeGgwOHZxMXhnaTR1Qzg5cWpha3F2YUQ0eDNtSFFXbWpOWGgxaTZ1NzVYbVFRdzZDbEx6b0RzU2pOcmtPWUpSNXRhcXlCRjhSeC13RXRkUVU2THhWbVE1RmJHMktUMlR0elpsaWJpNXRjMmJxS0NsdzNWWl9FblRQNXdLMXRvWXM2elJwVW5hQjNiNUl3WDRnNjJQMFFqN0lXYnYyS3BuMUpseDFIRmM3WmJn?oc=5"
+      },
+      {
        "titulo": "\"Lo de Alcaraz es algo que este deporte nunca ha visto\" - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-10-31",
@@ -4851,12 +4857,6 @@
        "fuente": "Sport Aragón",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXQ1S0w1WXI4WVROd0V0d1JLV29ZdVZfY3FHTWo2TkRlNmNVUGxfX3JaWjVjaGNIUTd3UVJXcWgtOUdfbTNUeHNDbWpTVEQxZjliQkt5QnQxck9waUplNXExSzZKc3doaFVmRTJDSkE2YnNwTW1QU3ZiNWlCSlktUGVjZXF3WmxqNW84QkZ2SngyZDZsUDBvb2Q5VFRIRmRlQlNTcG83TGxBQzdPd1VhZ09TQjRHZw?oc=5"
-      },
-      {
-       "titulo": "A qué hora es el Medvedev - Alcaraz: horario y dónde ver hoy en TV el partido de semifinales del ATP 500 de Viena - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWE9zb3F1eGRuQ2FMN0dsNWRjWEpBRktPdmVmZGl5eUtEbTdnVWYzanJ2aXdxM1RfZ3U1b19JR3gtWk13dmlLTDVEMHAxb0tzbHlsby1LZ1d4ckxSRjZwekJKeFNEN3Jkc1JZblA3eXp6ek1WZi1lb1NYNzFteDRPZVJtYVRjOGhiUGlienRzYVZ2VFAyWVhydFJ5NHp6WXRiUFA2Mk1GYVBXNjJBXzRjc21kdmt4MXkwTkHSAboBQVVfeXFMUHprVUppdl9meW5XM0FZS3lhdWdibV93cnFRQllKZnVqMU12SkpiNEM5WmJ5S3gwbmctd0VSOUtTbEFXenBZUWRGNE5NU3B1S2ZUN2F0eVlKS1REc1h5b2NSc2VydFVmUTlOb054UmNaOFRBa2Z1clJLVG5kSWVyYWhEMGE3Q2JrRWpkQlNFYmlLb3dFeVJLUU5oUXA4NU1pRHdvR0paN0UyUjRmQWZLaTBqNEhiMHo0N1h3?oc=5"
       }
      ]
     }
@@ -4871,7 +4871,7 @@
    "inicio": "2026-10-31T15:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.667,
    "elo_general": 0.697,
    "elo_en_superficie": 0.637,
@@ -4959,7 +4959,7 @@
    "inicio": "2026-10-31T16:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.624,
    "elo_general": 0.621,
    "elo_en_superficie": 0.626,
@@ -4983,6 +4983,12 @@
      "cansancio": "2 partidos, 4 sets y 40 juegos en 3 días; el último el 2026-10-30 contra Jerome Kym, ganó 6-4 6-2",
      "noticias": [
       {
+       "titulo": "¿Cuál es la programación de Basilea? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1razVuNDhsS1pZaTZrM0VPN0RJMU96dXJHNUVhZkpNR093MlJCeFYwOFF2cmF4a1NjMG56MXNCS2kxWUZjaFpmczBjTlFmczAwTkZrempKQWt6RWhzMW5pWQ?oc=5"
+      },
+      {
        "titulo": "Jiri Lehečka vs Jan-Lennard Struff · Semifinal · ATP Basel - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-30",
@@ -4993,12 +4999,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJicEQ0eVlQbHpWcTVFTmhhOE80X2VXOXY3R2dUa3pkM3dtY3hJN0V6Sl82MDJWNllnYmNJMVVlMG04OXRCZmoyenJSLV9mejhweHRDWGZXQ2JxOHZub2ZCV0EwWXgzWl9vZUtfcTRCSkQ0U3RwR3JnU0thSEZiTmtPWnZlakhveWxWenRsbDk1aWR6LTFpUDd0aEROVDR6ZUpYSVlUOWEwWG8?oc=5"
-      },
-      {
-       "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTBrWWU4ZHBjNjYwY1ZxRTh5ZTVZZENXN3NuN1dwNzRwdlpFQ1Z0N0Fvc2FoT1dnX3doa25QeXhLVTBzMVFwZ0s5UTRMcnBRSEc5SHVlUUJxaHFtRVBlQllYTDJweHU1aGcwTndURFppY3M2bUlNZG9nbWI3azdEOWI1X1ltM1hiaU9GQUZycFpDUGNrSmZac0lMc1o0RnFsNWZxTno4QzlHd9IBxAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c0?oc=5"
       }
      ]
     },
@@ -5047,7 +5047,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:10+00:00",
+   "actualizado": "2026-10-31T09:22+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -5077,16 +5077,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUt3TGc0MDEwX3VlNmdsYlkwV3VTWktMQXpscy1aTVZvQXRvdVFXemIweklxVnZ5X1ktaTcyVHRCcHRQbElOOHh2ZWFxdjFvbmR6STR3ZEVGMml2UzZ3b2tscW1RbWpZYU1QdkQ4SzFkWDZERFprbVlXVDI4OFF0WFlZX2hZcEUtMEdVRFBPRlk1QzZTZkxuV2FTd0REaG9xd0tVSFFUWlVJU0Y4Y3lrMmpBakEtZ9IB0AFBVV95cUxNMnhmdk4tN1JfblQ4andRUTVfYnhHZHBFOXF4Y2padmw5ckV1MnYyZHBMbGNQblhnOTk5RFFTeU1mc2hON3hYNUJRSDlwOEpBOGpENi10Mjc3dFJlMWZMRlFXWmNkRDZ0XzhWcmZpRFVtNEhrUDBKclFFWllRZzZLYmlES2VNWG1SMmhSaXVmYktHS0RuY0RqOTI1NGsyVE83Q0hiRkE3N0xDaHdkTEplTTU4VUgtMmZtdHphN25QRTJUN2txdlNKZ1VBeXdzQnJL?oc=5"
       },
       {
+       "titulo": "Leylah Fernández y Diana Shnaider se citan en la final de Tokio - www.abc.com.py",
+       "fuente": "www.abc.com.py",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGxkdnVnM0FZYUlodTlEb2xXcUNDWl9haXE3WGpkMFZKV1hZNDdSQ1cweG94Unh5ZXl1RnpOdXQwRDFUc1hfZFVUUUJRSkxaOW9tX2FsR2dZel9BWFV0MVZ3TWJYaEFzU18zNGF2OVdwcldLQUZVT0lWeWl3UlV4bUlPbGZYSDZTUHFIM1JEbll3NjQzSEh3VnJaampjMXljV09ZV2NNMGU1ek5nWHhlT05VaktPT3YzMWlUZjBEN2JWMmxObGVZ?oc=5"
+      },
+      {
        "titulo": "Leylah Fernández y Shnaider se citan en la final de Tokio - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFl2XzY1M3ZmMjduMzRSclVRUFZSRjAxYVJIQ2ZjS2tlM3IwSDVWS2liRFZ4TjRaNjRPbGhLTk1kOThvUlgyZXdweDlUNkRwU1czclRNeUFCaGdsZnlOdDlONDdOZTF2c000UURNZGZKeWNySUdISng5UXNKV2ptS0NMcFBwYlFMSW80?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
       }
      ]
     },
@@ -5111,16 +5111,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUt3TGc0MDEwX3VlNmdsYlkwV3VTWktMQXpscy1aTVZvQXRvdVFXemIweklxVnZ5X1ktaTcyVHRCcHRQbElOOHh2ZWFxdjFvbmR6STR3ZEVGMml2UzZ3b2tscW1RbWpZYU1QdkQ4SzFkWDZERFprbVlXVDI4OFF0WFlZX2hZcEUtMEdVRFBPRlk1QzZTZkxuV2FTd0REaG9xd0tVSFFUWlVJU0Y4Y3lrMmpBakEtZ9IB0AFBVV95cUxNMnhmdk4tN1JfblQ4andRUTVfYnhHZHBFOXF4Y2padmw5ckV1MnYyZHBMbGNQblhnOTk5RFFTeU1mc2hON3hYNUJRSDlwOEpBOGpENi10Mjc3dFJlMWZMRlFXWmNkRDZ0XzhWcmZpRFVtNEhrUDBKclFFWllRZzZLYmlES2VNWG1SMmhSaXVmYktHS0RuY0RqOTI1NGsyVE83Q0hiRkE3N0xDaHdkTEplTTU4VUgtMmZtdHphN25QRTJUN2txdlNKZ1VBeXdzQnJL?oc=5"
       },
       {
+       "titulo": "Leylah Fernández y Diana Shnaider se citan en la final de Tokio - www.abc.com.py",
+       "fuente": "www.abc.com.py",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGxkdnVnM0FZYUlodTlEb2xXcUNDWl9haXE3WGpkMFZKV1hZNDdSQ1cweG94Unh5ZXl1RnpOdXQwRDFUc1hfZFVUUUJRSkxaOW9tX2FsR2dZel9BWFV0MVZ3TWJYaEFzU18zNGF2OVdwcldLQUZVT0lWeWl3UlV4bUlPbGZYSDZTUHFIM1JEbll3NjQzSEh3VnJaampjMXljV09ZV2NNMGU1ek5nWHhlT05VaktPT3YzMWlUZjBEN2JWMmxObGVZ?oc=5"
+      },
+      {
        "titulo": "Leylah Fernández y Shnaider se citan en la final de Tokio - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFl2XzY1M3ZmMjduMzRSclVRUFZSRjAxYVJIQ2ZjS2tlM3IwSDVWS2liRFZ4TjRaNjRPbGhLTk1kOThvUlgyZXdweDlUNkRwU1czclRNeUFCaGdsZnlOdDlONDdOZTF2c000UURNZGZKeWNySUdISng5UXNKV2ptS0NMcFBwYlFMSW80?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
       }
      ]
     }
