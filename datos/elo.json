@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T00:10+00:00",
+ "actualizado": "2026-10-31T01:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -19530,19 +19530,18 @@
    "nombre": "Carole Monnet",
    "circuito": "WTA",
    "elo": {
-    "all": 1564.2,
-    "hard": 1545.3,
+    "all": 1597.9,
+    "hard": 1583.6,
     "clay": 1473.3,
     "grass": 1476.0
    },
    "n": {
-    "all": 49,
-    "hard": 43,
+    "all": 50,
+    "hard": 44,
     "clay": 3,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-13 G hard vs Katrina Scott",
     "2026-09-14 P hard vs Sloane Stephens",
     "2026-09-22 G hard vs Fiona Crawley",
     "2026-09-24 P hard vs Anastasia Gasanova",
@@ -19551,7 +19550,8 @@
     "2026-10-13 G grass vs Daria Yesypchuk",
     "2026-10-14 P grass vs Elizara Yaneva",
     "2026-10-27 G hard vs Leolia Jeanjean",
-    "2026-10-28 G hard vs Carmen Andreea Herea"
+    "2026-10-28 G hard vs Carmen Andreea Herea",
+    "2026-10-30 G hard vs Nadia Podoroska"
    ]
   },
   "avanesyan|e": {
@@ -32923,19 +32923,18 @@
    "nombre": "Nadia Podoroska",
    "circuito": "ATP",
    "elo": {
-    "all": 1683.2,
-    "hard": 1709.8,
+    "all": 1634.0,
+    "hard": 1653.1,
     "clay": 1372.8,
     "grass": 1434.3
    },
    "n": {
-    "all": 16,
-    "hard": 13,
+    "all": 17,
+    "hard": 14,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-03 P hard vs Iga Swiatek",
     "2026-09-08 G hard vs Ena Koike",
     "2026-09-10 P hard vs Anna Blinkova",
     "2026-09-15 G hard vs Lucrezia Stefanini",
@@ -32944,7 +32943,8 @@
     "2026-09-19 G hard vs Paula Badosa",
     "2026-09-21 P hard vs Kaitlin Quevedo",
     "2026-10-28 G hard vs Alice Rame",
-    "2026-10-29 G hard vs Miriam Bulgaru"
+    "2026-10-29 G hard vs Miriam Bulgaru",
+    "2026-10-30 P hard vs Carole Monnet"
    ]
   },
   "williams|s": {
@@ -91008,7 +91008,11 @@
   "ortenzi|j~tubello|a": [
    0,
    1
+  ],
+  "monnet|c~podoroska|n": [
+   1,
+   0
   ]
  },
- "propios": 10441
+ "propios": 10442
 }
