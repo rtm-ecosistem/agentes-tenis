@@ -237279,6 +237279,115 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Erste Bank Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Carlos Alcaraz",
+    "Daniil Medvedev"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Taylor Fritz",
+    "Valentin Vacherot"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Julia Riera"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Benjamin Bonzi",
+    "Tallon Griekspoor"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Damir Dzumhur",
+    "Sebastian Baez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }

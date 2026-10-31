@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.266,
+     "envidia": 0.262,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T15:15+00:00",
+    "hora": "2026-10-31T16:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T15:15+00:00",
+    "hora": "2026-10-31T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T15:15+00:00",
+    "hora": "2026-10-31T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T15:15+00:00",
+    "hora": "2026-10-31T16:10+00:00",
     "rent": 0.0
    }
   }
@@ -2580,32 +2580,36 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-14",
  "noticias_vistas": [
+  "039cb0de817e",
+  "c4b1138db750",
   "f4a916daa3dc",
   "60ebb3d8eb35",
   "869925f71786",
   "7b0fe4410ec6",
   "66383fa40448",
   "6d42e4595230",
+  "78d83485e8a6",
   "2506b21507a5",
-  "0d1ffb6ba7d8",
+  "370b4cd08ddf",
   "af464d333dd4",
+  "0d1ffb6ba7d8",
   "120e70140ad1",
   "9403b3b1ec99",
   "92ee25f2ac65",
   "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
+  "999f776be5ad",
   "7d64ddda314d",
   "fe40ad32dbd4",
   "f7be87c793f4",
+  "cf622b02ec44",
   "14370880f3d5",
-  "999f776be5ad",
   "5136292a0ff5",
   "7dafc0048328",
   "e5ee2b38f697",
   "bc5f3c4aee07",
   "dfcfc8b891ea",
-  "cf622b02ec44",
   "24c524569df6",
   "0f3c4f376c24",
   "0ce65bae0fa4",
@@ -2669,9 +2673,9 @@
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
+  "9fdf08550e39",
   "826e49b95b0a",
   "b17ceac56f76",
-  "9fdf08550e39",
   "19e09a87e4d7",
   "67fff5476530",
   "5e78a8ecfa44",
@@ -2683,6 +2687,7 @@
   "ef0817761f82",
   "47570e2e657c",
   "38eefc00c6a6",
+  "9895b98b5200",
   "aef2ee14239f",
   "3f70f7129473",
   "0cf7ce0db23b",
@@ -2876,7 +2881,6 @@
   "6faff91f7f09",
   "9e0c2410faa9",
   "9e550d007c50",
-  "9895b98b5200",
   "f610b60bc7ce",
   "16f5c7b48090",
   "5aa75ce3b3fc",
@@ -2951,6 +2955,7 @@
   "8b3b7313a186",
   "0a82d05b80e9",
   "6f94695e79de",
+  "16827821fb1e",
   "09b1bb6b4704",
   "42bebcbc6c9e",
   "ce553c7e2f1b",
@@ -3365,7 +3370,6 @@
   "763b89220267",
   "53aa95914c77",
   "76d7a543b049",
-  "16827821fb1e",
   "a72d2c0000db",
   "742346174c70",
   "7663c07698e2",
@@ -3375,11 +3379,7 @@
   "69eb63207415",
   "ba88e1c56eb0",
   "5a9e9f1673c2",
-  "b41377ed1d0d",
-  "1a8f48f64a3c",
-  "74713cfd91a5",
-  "8163c6bdc95e",
-  "a92dc8c937bc"
+  "b41377ed1d0d"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6213,34 +6213,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 8,
-  "ganadas": 7,
-  "unidades": 1.55,
+  "apuestas": 10,
+  "ganadas": 8,
+  "unidades": 0.99,
   "pendientes": [
-   {
-    "partido": "5a856de2f4f6df9ea205100c2c304254",
-    "jugadores": [
-     "Valentin Vacherot",
-     "Taylor Fritz"
-    ],
-    "inicio": "2026-10-31T14:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Taylor Fritz",
-    "punto": null,
-    "cuota": 1.33
-   },
-   {
-    "partido": "3f0addea74d69db2f1b7595d4fb2b1af",
-    "jugadores": [
-     "Daniil Medvedev",
-     "Carlos Alcaraz"
-    ],
-    "inicio": "2026-10-31T14:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Carlos Alcaraz",
-    "punto": null,
-    "cuota": 1.44
-   },
    {
     "partido": "e29817fd8c010bb31e6c920398185da1",
     "jugadores": [
@@ -6287,7 +6263,9 @@
    "e01a16acf3ce50a010714d85d5ff6374",
    "e66be09cbf07f4ca7b22ef19c32bcb30",
    "94ca068a80e8dbb6686fd96d402bde0e",
-   "c1a54362fbf98df45c2174b84374dd0c"
+   "c1a54362fbf98df45c2174b84374dd0c",
+   "5a856de2f4f6df9ea205100c2c304254",
+   "3f0addea74d69db2f1b7595d4fb2b1af"
   ]
  },
  "mercados_casas": {

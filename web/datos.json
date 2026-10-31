@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T15:15+00:00",
+ "actualizado": "2026-10-31T16:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,28 +338,28 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.304,
+      "pct": 0.305,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.266,
+      "pct": 0.267,
       "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.228,
+      "pct": 0.229,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.202,
+      "pct": 0.2,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -999,74 +999,6 @@
  "cartelera": {
   "actualizado": "2026-10-31T08:00+00:00",
   "partidos": [
-   {
-    "id": "e29817fd8c010bb31e6c920398185da1",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-31T15:30+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Alex de Minaur"
-    ],
-    "opciones": [
-     {
-      "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.4,
-      "pinnacle": 1.4
-     },
-     {
-      "id": "e29817fd8c010bb31e6c920398185da1|h2h|Alex de Minaur|",
-      "mercado": "h2h",
-      "nombre": "Alex de Minaur",
-      "punto": null,
-      "cuota": 2.9,
-      "pinnacle": 3.16
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.4,
-     "Alex de Minaur": 3.16
-    }
-   },
-   {
-    "id": "552fda4930d6ed5d9fef41d162da947d",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-10-31T16:00+00:00",
-    "jugadores": [
-     "Jiri Lehecka",
-     "Jan-Lennard Struff"
-    ],
-    "opciones": [
-     {
-      "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jan-Lennard Struff|",
-      "mercado": "h2h",
-      "nombre": "Jan-Lennard Struff",
-      "punto": null,
-      "cuota": 2.75,
-      "pinnacle": 2.83
-     },
-     {
-      "id": "552fda4930d6ed5d9fef41d162da947d|h2h|Jiri Lehecka|",
-      "mercado": "h2h",
-      "nombre": "Jiri Lehecka",
-      "punto": null,
-      "cuota": 1.44,
-      "pinnacle": 1.48
-     }
-    ],
-    "pinnacle_h2h": {
-     "Jan-Lennard Struff": 2.83,
-     "Jiri Lehecka": 1.48
-    }
-   },
    {
     "id": "e33e004fe9457eef4c8e5a50d15392c0",
     "deporte": "tennis_wta_pan_pacific_open",
@@ -2122,9 +2054,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 8,
-  "aciertos": 0.875,
-  "yield": 0.19375
+  "apuestas": 10,
+  "aciertos": 0.8,
+  "yield": 0.099
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
