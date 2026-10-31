@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T16:10+00:00",
+ "actualizado": "2026-10-31T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1093,19 +1093,18 @@
    "nombre": "Lorenzo Sonego",
    "circuito": "ATP",
    "elo": {
-    "all": 1528.1,
-    "hard": 1502.3,
+    "all": 1552.6,
+    "hard": 1532.8,
     "clay": 1448.1,
     "grass": 1621.7
    },
    "n": {
-    "all": 145,
-    "hard": 97,
+    "all": 146,
+    "hard": 98,
     "clay": 28,
     "grass": 20
    },
    "ultimos": [
-    "2026-08-26 G hard vs Adrian Mannarino",
     "2026-08-26 P hard vs James Duckworth",
     "2026-09-02 P hard vs Alexander Zverev",
     "2026-09-24 G hard vs James Duckworth",
@@ -1114,7 +1113,8 @@
     "2026-10-05 P hard vs Aziz Dougaz",
     "2026-10-19 P hard vs Moise Kouame",
     "2026-10-24 G hard vs Adolfo Daniel Vallejo",
-    "2026-10-25 P hard vs Jacob Fearnley"
+    "2026-10-25 P hard vs Jacob Fearnley",
+    "2026-10-31 G hard vs Jaume Munar"
    ]
   },
   "mannarino|a": {
@@ -2868,19 +2868,18 @@
    "nombre": "Jaume Munar",
    "circuito": "ATP",
    "elo": {
-    "all": 1699.7,
-    "hard": 1719.0,
+    "all": 1674.1,
+    "hard": 1684.8,
     "clay": 1483.7,
     "grass": 1555.0
    },
    "n": {
-    "all": 130,
-    "hard": 72,
+    "all": 131,
+    "hard": 73,
     "clay": 45,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-30 G hard vs Terence Atmane",
     "2026-09-02 P hard vs Arthur Rinderknech",
     "2026-09-28 G hard vs Marcos Giron",
     "2026-09-29 G hard vs Aleksandar Kovacevic",
@@ -2889,7 +2888,8 @@
     "2026-10-04 G hard vs Kyrian Jacquet",
     "2026-10-05 P hard vs Carlos Alcaraz",
     "2026-10-08 P hard vs Jenson Brooksby",
-    "2026-10-19 G hard vs Federico Cina"
+    "2026-10-19 G hard vs Federico Cina",
+    "2026-10-31 P hard vs Lorenzo Sonego"
    ]
   },
   "garin|c": {
@@ -23663,19 +23663,18 @@
    "nombre": "Alice Tubello",
    "circuito": "ATP",
    "elo": {
-    "all": 1582.1,
-    "hard": 1604.6,
+    "all": 1615.2,
+    "hard": 1639.1,
     "clay": 1438.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 24,
-    "hard": 22,
+    "all": 25,
+    "hard": 23,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-25 P hard vs Priscilla Hon",
     "2026-09-08 P hard vs Barbora Palicova",
     "2026-09-15 G hard vs Vivian Wolff",
     "2026-09-16 G hard vs Dalma Galfi",
@@ -23684,7 +23683,8 @@
     "2026-09-24 P hard vs Julia Grabher",
     "2026-10-26 G hard vs Laura Samson",
     "2026-10-28 G hard vs Luna Maria Cinalli",
-    "2026-10-30 G hard vs Jazmin Ortenzi"
+    "2026-10-30 G hard vs Jazmin Ortenzi",
+    "2026-10-31 G hard vs Nauhany Vitoria Leme Da Silva"
    ]
   },
   "vickery|s": {
@@ -29682,14 +29682,14 @@
    "nombre": "Nauhany Vitoria Leme Da Silva",
    "circuito": "ATP",
    "elo": {
-    "all": 1588.2,
-    "hard": 1615.2,
+    "all": 1537.5,
+    "hard": 1561.7,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 5,
-    "hard": 4,
+    "all": 6,
+    "hard": 5,
     "clay": 1,
     "grass": 0
    },
@@ -29698,7 +29698,8 @@
     "2026-09-16 G hard vs Astra Sharma",
     "2026-09-17 P hard vs Kaitlin Quevedo",
     "2026-10-26 G hard vs Despina Papamichail",
-    "2026-10-28 G hard vs Luisina Giovannini"
+    "2026-10-28 G hard vs Luisina Giovannini",
+    "2026-10-31 P hard vs Alice Tubello"
    ]
   },
   "camelia begu|i": {
@@ -55255,7 +55256,7 @@
   ],
   "munar|j~sonego|l": [
    1,
-   0
+   1
   ],
   "mpetshi perricard|g~muller|a": [
    1,
@@ -91160,7 +91161,11 @@
   "bonzi|b~griekspoor|t": [
    1,
    0
+  ],
+  "tubello|a~vitoria leme da silva|n": [
+   1,
+   0
   ]
  },
- "propios": 10478
+ "propios": 10480
 }

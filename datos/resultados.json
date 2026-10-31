@@ -237388,6 +237388,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alice Tubello",
+    "Nauhany Vitoria Leme Da Silva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Jaume Munar",
+    "Lorenzo Sonego"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
