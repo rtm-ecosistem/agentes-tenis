@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.335,
+     "envidia": 0.331,
      "sorpresa": 0.4
     },
     "motivos": {
@@ -167,7 +167,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-30T23:15+00:00",
+    "hora": "2026-10-31T00:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -327,7 +327,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T23:15+00:00",
+    "hora": "2026-10-31T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -474,7 +474,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T23:15+00:00",
+    "hora": "2026-10-31T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -634,7 +634,7 @@
     "motivos": {
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-30T23:15+00:00",
+    "hora": "2026-10-31T00:10+00:00",
     "rent": 0.0
    }
   }
@@ -2452,12 +2452,15 @@
  "ultima_decision": "2026-10-30",
  "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
+  "88afdd486e64",
   "6f94695e79de",
   "2504b32b2bdc",
   "ea164afa67ae",
   "4785748a50ac",
   "d9836208c7e5",
+  "bca8c607ee7c",
   "d458c902f4da",
+  "5c8a8f549029",
   "64737ee5dd30",
   "d9f8c3bdbfdd",
   "83e3c6b96d11",
@@ -2476,7 +2479,6 @@
   "fb7a1bdfc607",
   "2e3b497f7e25",
   "6fecbcec9739",
-  "88afdd486e64",
   "7d64ddda314d",
   "f93b54aba27e",
   "48f2775ac858",
@@ -2554,6 +2556,7 @@
   "10a98821520b",
   "9e0c2410faa9",
   "f610b60bc7ce",
+  "16f5c7b48090",
   "5aa75ce3b3fc",
   "4b9174b8a76c",
   "de9f52f160ac",
@@ -2561,6 +2564,7 @@
   "0bce5e985025",
   "0e29e4410be8",
   "2fa412aeaba0",
+  "ce1a09039ebc",
   "80eeee83f3aa",
   "0d281278ff95",
   "42d5776347c9",
@@ -2581,6 +2585,7 @@
   "f88b630f834c",
   "228a682c2e26",
   "2eecf5e151e9",
+  "37eb15fa99bf",
   "f48a0b825101",
   "481b2832c2c2",
   "f4102d64a589",
@@ -2678,7 +2683,6 @@
   "aa4591ce55ba",
   "ab76d6324a18",
   "b867bd045c07",
-  "37eb15fa99bf",
   "7c5dc438cd9e",
   "9b0655922d7f",
   "a6aec282b473",
@@ -2703,6 +2707,7 @@
   "0bcb70151c2d",
   "7735467ec6f7",
   "7cc2cfe91c6a",
+  "b59e91700b81",
   "ffd51ccd63db",
   "970a628b0962",
   "1f1e93ff91a4",
@@ -3246,12 +3251,7 @@
   "aff6f145b524",
   "631b3aafe059",
   "cd87e3744888",
-  "37c828792b63",
-  "01ebbe44f208",
-  "a26ff64ad330",
-  "5a7f9070f8db",
-  "1eb5f89bd91d",
-  "4d6a8e248ac9"
+  "37c828792b63"
  ],
  "sala_aciertos": {
   "favorito": [
