@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.251,
+     "envidia": 0.25,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T19:10+00:00",
+    "hora": "2026-10-31T19:22+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T19:10+00:00",
+    "hora": "2026-10-31T19:22+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T19:10+00:00",
+    "hora": "2026-10-31T19:22+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T19:10+00:00",
+    "hora": "2026-10-31T19:22+00:00",
     "rent": 0.0
    }
   }
@@ -2610,6 +2610,7 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "0d1ffb6ba7d8",
   "73907ab7942c",
   "039cb0de817e",
   "7d68120f8d4f",
@@ -2663,9 +2664,8 @@
   "2506b21507a5",
   "370b4cd08ddf",
   "0c19f6526845",
-  "af464d333dd4",
   "fc2b6b895408",
-  "0d1ffb6ba7d8",
+  "af464d333dd4",
   "120e70140ad1",
   "9403b3b1ec99",
   "92ee25f2ac65",
@@ -2713,12 +2713,12 @@
   "0a5e8263ca7b",
   "aff6f145b524",
   "10b4724a82a0",
-  "559c2054e564",
   "7d1887b7aad6",
   "e0cd5e9a278f",
   "62976e7849c4",
   "74cd967f3214",
   "909673432f5e",
+  "559c2054e564",
   "4d8b04bb0aa3",
   "dfc1d5b67f4c",
   "819f8dd5d4c5",
