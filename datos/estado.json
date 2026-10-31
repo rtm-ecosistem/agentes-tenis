@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.255,
+     "envidia": 0.251,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T18:10+00:00",
+    "hora": "2026-10-31T19:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T18:10+00:00",
+    "hora": "2026-10-31T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T18:10+00:00",
+    "hora": "2026-10-31T19:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T18:10+00:00",
+    "hora": "2026-10-31T19:10+00:00",
     "rent": 0.0
    }
   }
@@ -2575,6 +2575,16 @@
    "hora": "2026-10-31T18:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T19:10+00:00",
+   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T19:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2600,28 +2610,51 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "73907ab7942c",
+  "039cb0de817e",
+  "7d68120f8d4f",
+  "7d64ddda314d",
+  "67f212efa36e",
   "d6f7c92644fb",
   "cd40016f4efd",
   "78225ddda3f6",
+  "d580d3f7ceb7",
+  "4f4cff2ce13f",
+  "b3d57ad551f1",
+  "e5e3236ce6af",
+  "c85b24bb68a9",
   "60ebb3d8eb35",
   "ce95c03092ba",
   "cb873c8b2921",
   "66383fa40448",
   "9248580c1351",
+  "b87818347baa",
+  "727b44b4bd5e",
+  "86a22a0f4705",
+  "f52214d9e315",
+  "d5f3734154c2",
+  "2358fdcad795",
+  "2bff7d9c001d",
+  "3c655895307d",
+  "581e243e8379",
   "fd3a215fab65",
+  "23198f3ab07b",
+  "55ed9d9ab971",
+  "c6197193958a",
   "0c05030478b9",
-  "039cb0de817e",
   "a61cb3eda77d",
   "ab48922dd679",
   "a6a7b082ba31",
   "6046f0df38d5",
   "21e73aa701d7",
   "6e410f2a9dc4",
+  "dc897b979e24",
   "21e02784f93e",
   "0e71cde628f3",
   "c4b1138db750",
   "f4a916daa3dc",
   "1730d9178393",
+  "635102502403",
   "869925f71786",
   "ce37677187b7",
   "7b0fe4410ec6",
@@ -2630,20 +2663,20 @@
   "2506b21507a5",
   "370b4cd08ddf",
   "0c19f6526845",
-  "fc2b6b895408",
   "af464d333dd4",
+  "fc2b6b895408",
   "0d1ffb6ba7d8",
   "120e70140ad1",
   "9403b3b1ec99",
-  "999f776be5ad",
   "92ee25f2ac65",
+  "999f776be5ad",
   "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
-  "7d64ddda314d",
-  "cf622b02ec44",
+  "137f7249dc7d",
   "fe40ad32dbd4",
   "f7be87c793f4",
+  "cf622b02ec44",
   "14370880f3d5",
   "ed3dafdd9537",
   "5136292a0ff5",
@@ -2678,7 +2711,6 @@
   "247681c2cfba",
   "87a059e82c49",
   "0a5e8263ca7b",
-  "55ba2cfce63e",
   "aff6f145b524",
   "10b4724a82a0",
   "559c2054e564",
@@ -2702,6 +2734,8 @@
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
+  "c641e383119e",
+  "320befac0a9c",
   "0ab3a91768aa",
   "97cfb259e512",
   "d07e512f5a99",
@@ -2718,6 +2752,7 @@
   "64aeffd91771",
   "826e49b95b0a",
   "b17ceac56f76",
+  "fd9dc1b95cbb",
   "19e09a87e4d7",
   "67fff5476530",
   "5e78a8ecfa44",
@@ -2729,7 +2764,6 @@
   "ef0817761f82",
   "47570e2e657c",
   "38eefc00c6a6",
-  "9895b98b5200",
   "3f70f7129473",
   "0cf7ce0db23b",
   "c5b09c895c60",
@@ -2753,7 +2787,6 @@
   "0d686b95872b",
   "1d5d8b1e6ace",
   "ea5be9f0fad3",
-  "2504b32b2bdc",
   "ea164afa67ae",
   "b41aa18f5950",
   "4785748a50ac",
@@ -2778,6 +2811,7 @@
   "7e89d9f649a4",
   "d9836208c7e5",
   "f2d3898e59eb",
+  "9d068b3daade",
   "bca8c607ee7c",
   "01d1c0e91dde",
   "98ac27d121f4",
@@ -2877,6 +2911,7 @@
   "bfbadc025ba6",
   "ba144a7f0353",
   "b35e942f038e",
+  "f4102d64a589",
   "255c4bf7f0dd",
   "760e94efa67f",
   "e3a4c68f4959",
@@ -2923,6 +2958,7 @@
   "6faff91f7f09",
   "9e0c2410faa9",
   "9e550d007c50",
+  "9895b98b5200",
   "f610b60bc7ce",
   "16f5c7b48090",
   "5aa75ce3b3fc",
@@ -2959,7 +2995,6 @@
   "f48a0b825101",
   "f88b630f834c",
   "481b2832c2c2",
-  "f4102d64a589",
   "24ad16c08000",
   "4f70310aa2eb",
   "7c3983589b8b",
@@ -2994,6 +3029,7 @@
   "bb386498d04b",
   "683016dc8b03",
   "8b3b7313a186",
+  "2504b32b2bdc",
   "aef2ee14239f",
   "0a82d05b80e9",
   "6f94695e79de",
@@ -3091,6 +3127,7 @@
   "a0bf84cee985",
   "7761e53c9da1",
   "6727a9872777",
+  "307d7fc034f4",
   "078145769027",
   "23701c7b0bc5",
   "547361693fad",
@@ -3132,6 +3169,7 @@
   "4b20ccefd8c9",
   "8602bd3f10c4",
   "810c465a9e0e",
+  "74ad2e54bea2",
   "3d50c9ae9fca",
   "11e9fc9af3b4",
   "8a06e56ea361",
@@ -3191,6 +3229,7 @@
   "31ce4208059b",
   "fad8f3d52d80",
   "2bb5c2b34e2a",
+  "55ba2cfce63e",
   "123114c445a6",
   "3b0942b849ac",
   "307e0986011e",
@@ -3226,6 +3265,7 @@
   "2ddd6a3a9b79",
   "26d05eeb4e03",
   "d290942acc97",
+  "6006ac655dcc",
   "e2e70086df08",
   "2d84abd70177",
   "b314fdf1b6c6",
@@ -3355,7 +3395,6 @@
   "0657d42106b3",
   "9df91032b8b0",
   "0e0118d62e22",
-  "6006ac655dcc",
   "bb22eedd475f",
   "0588280ecec3",
   "7dc78c387fa9",
@@ -3370,36 +3409,7 @@
   "6d29ddee43ae",
   "cb64b42eb490",
   "63a324fde714",
-  "de63ad88d6af",
-  "690e142adb9f",
-  "8911da18acb8",
-  "0a2a9aa3c4f1",
-  "86cb8c877417",
-  "eec6f5b4264e",
-  "a12884894842",
-  "e99cd62fa2d7",
-  "d1b603325559",
-  "9dc5b25466dd",
-  "798ae05b7b13",
-  "c640d3ea88b2",
-  "2f3b55887793",
-  "b47becfb363b",
-  "24650e1ca240",
-  "bb51c23fef9c",
-  "f72a10397af1",
-  "c9ba25ae4f08",
-  "bc90b2ac017c",
-  "818a7c63cc78",
-  "9491aec1e837",
-  "492eaaf98dd2",
-  "d284e2e7aadc",
-  "92df831c6f76",
-  "e0ab2eb5e166",
-  "bea93d9d5223",
-  "12a740a00bb9",
-  "1ca0f35087b7",
-  "85473a5dbc62",
-  "5a1284feb6af"
+  "de63ad88d6af"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6151,7 +6161,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T19:00+00:00",
+   "actualizado": "2026-10-31T19:10+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -6209,12 +6219,6 @@
      "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
      "noticias": [
       {
-       "titulo": "Leylah Fernández avanza a la final del Abierto de Japón - El Horizonte",
-       "fuente": "El Horizonte",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDhoaGxjVG5nUFdVZWthdkZDTVpVb1N3eHg1OG9PX1RLeXdqWkdyRi1iSjNCX0c5WEU4ZS1pdUs5Mm0yTmpkOU9DNjlXQVNjaDlPNWdBaEhQelNHaEhIbWRGa2R4bC1yalBtVWQwOTd2Z1hrS1pSQVM1dWNuVkZxRXdpeVNKQWZvdEs0VU5tV3h1UTdhaTZXV09TeFNhNVBfT1hzVQ?oc=5"
-      },
-      {
        "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
        "fuente": "San Antonio Express-News",
        "fecha": "2026-10-31",
@@ -6225,6 +6229,12 @@
        "fuente": "ESPN Deportes",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHdKUlB1WjdkZlNGeVFBWVhNNEhMZ3plWGFsS1IzcURsRVVkbGQ2dFZadTZOaGZUbzYzSmNUNWxGQmJiY0FaRUktN3c3QUJaMGZ0X3JHTjBtSFpKMk91Q2YyS0pJUXNpZHRWM1g4NDR2N0o3N21GM1JOT2JGTVFreTM3YTJYMUNaNmxrbDRCdjRxVm5ncWxCV3FVVU4tcHU2ZGxpbVJrTkF0VmJMU1FaMTdBSDRrWUtMWDFseXhpXzV1MmZrbXhPa1lsMVdRdFVVUGpCVFpZZ0ctVGZVNzR3?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
       }
      ]
     }
@@ -6233,34 +6243,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 10,
-  "ganadas": 8,
-  "unidades": 0.99,
+  "apuestas": 12,
+  "ganadas": 9,
+  "unidades": 0.43,
   "pendientes": [
-   {
-    "partido": "e29817fd8c010bb31e6c920398185da1",
-    "jugadores": [
-     "Alexander Zverev",
-     "Alex de Minaur"
-    ],
-    "inicio": "2026-10-31T15:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Alexander Zverev",
-    "punto": null,
-    "cuota": 1.4
-   },
-   {
-    "partido": "552fda4930d6ed5d9fef41d162da947d",
-    "jugadores": [
-     "Jiri Lehecka",
-     "Jan-Lennard Struff"
-    ],
-    "inicio": "2026-10-31T16:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Jiri Lehecka",
-    "punto": null,
-    "cuota": 1.44
-   },
    {
     "partido": "e33e004fe9457eef4c8e5a50d15392c0",
     "jugadores": [
@@ -6285,7 +6271,9 @@
    "94ca068a80e8dbb6686fd96d402bde0e",
    "c1a54362fbf98df45c2174b84374dd0c",
    "5a856de2f4f6df9ea205100c2c304254",
-   "3f0addea74d69db2f1b7595d4fb2b1af"
+   "3f0addea74d69db2f1b7595d4fb2b1af",
+   "e29817fd8c010bb31e6c920398185da1",
+   "552fda4930d6ed5d9fef41d162da947d"
   ]
  },
  "mercados_casas": {

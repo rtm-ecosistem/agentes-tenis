@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T18:10+00:00",
+ "actualizado": "2026-10-31T19:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1037,19 +1037,18 @@
    "nombre": "Jiri Lehecka",
    "circuito": "ATP",
    "elo": {
-    "all": 1830.1,
-    "hard": 1802.6,
+    "all": 1842.1,
+    "hard": 1815.5,
     "clay": 1694.1,
     "grass": 1735.0
    },
    "n": {
-    "all": 169,
-    "hard": 135,
+    "all": 170,
+    "hard": 136,
     "clay": 20,
     "grass": 14
    },
    "ultimos": [
-    "2026-10-04 G hard vs Adolfo Daniel Vallejo",
     "2026-10-05 G hard vs Valentin Vacherot",
     "2026-10-06 P hard vs Carlos Alcaraz",
     "2026-10-10 G hard vs Nuno Borges",
@@ -1058,26 +1057,26 @@
     "2026-10-23 P hard vs Tallon Griekspoor",
     "2026-10-27 G hard vs Stan Wawrinka",
     "2026-10-29 G hard vs Daniel Altmaier",
-    "2026-10-30 G hard vs Jerome Kym"
+    "2026-10-30 G hard vs Jerome Kym",
+    "2026-10-31 G hard vs Jan-Lennard Struff"
    ]
   },
   "zverev|a": {
    "nombre": "Alexander Zverev",
    "circuito": "ATP",
    "elo": {
-    "all": 2011.6,
-    "hard": 1957.1,
+    "all": 1992.8,
+    "hard": 1936.7,
     "clay": 1979.4,
     "grass": 1854.4
    },
    "n": {
-    "all": 256,
-    "hard": 165,
+    "all": 257,
+    "hard": 166,
     "clay": 67,
     "grass": 24
    },
    "ultimos": [
-    "2026-10-03 G hard vs Shang Juncheng",
     "2026-10-04 P hard vs Novak Djokovic",
     "2026-10-09 G hard vs Wu Yibing",
     "2026-10-11 G hard vs Quentin Halys",
@@ -1086,7 +1085,8 @@
     "2026-10-17 P hard vs Alejandro Davidovich Fokina",
     "2026-10-27 G hard vs Martin Landaluce",
     "2026-10-29 G hard vs Tallon Griekspoor",
-    "2026-10-30 G hard vs Arthur Fery"
+    "2026-10-30 G hard vs Arthur Fery",
+    "2026-10-31 P hard vs Alex de Minaur"
    ]
   },
   "sonego|l": {
@@ -1177,19 +1177,18 @@
    "nombre": "Alex de Minaur",
    "circuito": "ATP",
    "elo": {
-    "all": 1866.6,
-    "hard": 1859.7,
+    "all": 1886.7,
+    "hard": 1880.5,
     "clay": 1759.4,
     "grass": 1730.1
    },
    "n": {
-    "all": 216,
-    "hard": 158,
+    "all": 217,
+    "hard": 159,
     "clay": 39,
     "grass": 19
    },
    "ultimos": [
-    "2026-09-03 P hard vs Botic van de Zandschulp",
     "2026-10-01 G hard vs Mariano Navone",
     "2026-10-03 G hard vs Quentin Halys",
     "2026-10-04 G hard vs Andrey Rublev",
@@ -1198,7 +1197,8 @@
     "2026-10-15 P hard vs Alexander Zverev",
     "2026-10-26 G hard vs Tomas Machac",
     "2026-10-28 G hard vs Learner Tien",
-    "2026-10-30 G hard vs Matteo Berrettini"
+    "2026-10-30 G hard vs Matteo Berrettini",
+    "2026-10-31 G hard vs Alexander Zverev"
    ]
   },
   "fritz|t": {
@@ -1701,19 +1701,18 @@
    "nombre": "Jan-Lennard Struff",
    "circuito": "ATP",
    "elo": {
-    "all": 1744.5,
-    "hard": 1712.8,
+    "all": 1731.5,
+    "hard": 1697.3,
     "clay": 1550.9,
     "grass": 1673.2
    },
    "n": {
-    "all": 141,
-    "hard": 84,
+    "all": 142,
+    "hard": 85,
     "clay": 36,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-08 G hard vs Martin Landaluce",
     "2026-10-10 P hard vs Daniil Medvedev",
     "2026-10-20 G hard vs Marcos Giron",
     "2026-10-21 G hard vs Gauthier Onclin",
@@ -1722,7 +1721,8 @@
     "2026-10-25 P hard vs Tallon Griekspoor",
     "2026-10-28 G hard vs Yannick Hanfmann",
     "2026-10-29 G hard vs Novak Djokovic",
-    "2026-10-30 G hard vs Nuno Borges"
+    "2026-10-30 G hard vs Nuno Borges",
+    "2026-10-31 P hard vs Jiri Lehecka"
    ]
   },
   "cilic|m": {
@@ -38827,7 +38827,7 @@
    1
   ],
   "de minaur|a~zverev|a": [
-   2,
+   3,
    3
   ],
   "hurkacz|h~mannarino|a": [
@@ -53319,7 +53319,7 @@
    1
   ],
   "lehecka|j~lennard struff|j": [
-   2,
+   3,
    0
   ],
   "fucsovics|m~rinderknech|a": [
@@ -91171,5 +91171,5 @@
    0
   ]
  },
- "propios": 10483
+ "propios": 10485
 }
