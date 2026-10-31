@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T13:30+00:00",
+ "actualizado": "2026-10-31T14:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -729,19 +729,18 @@
    "nombre": "James Duckworth",
    "circuito": "ATP",
    "elo": {
-    "all": 1578.2,
-    "hard": 1563.5,
+    "all": 1552.6,
+    "hard": 1533.9,
     "clay": 1391.5,
     "grass": 1453.5
    },
    "n": {
-    "all": 82,
-    "hard": 61,
+    "all": 83,
+    "hard": 62,
     "clay": 8,
     "grass": 13
    },
    "ultimos": [
-    "2026-08-26 G hard vs Lorenzo Sonego",
     "2026-08-28 G hard vs Fabian Marozsan",
     "2026-08-31 G hard vs Matteo Arnaldi",
     "2026-09-02 P hard vs Wu Yibing",
@@ -750,7 +749,8 @@
     "2026-10-19 G hard vs Miomir Kecmanovic",
     "2026-10-21 G hard vs Luciano Darderi",
     "2026-10-23 P hard vs Stefanos Tsitsipas",
-    "2026-10-24 P hard vs Aleksandar Kovacevic"
+    "2026-10-24 P hard vs Aleksandar Kovacevic",
+    "2026-10-31 P hard vs Miomir Kecmanovic"
    ]
   },
   "wolf|j": {
@@ -1869,19 +1869,18 @@
    "nombre": "Miomir Kecmanovic",
    "circuito": "ATP",
    "elo": {
-    "all": 1498.5,
-    "hard": 1469.7,
+    "all": 1518.6,
+    "hard": 1493.3,
     "clay": 1485.0,
     "grass": 1559.7
    },
    "n": {
-    "all": 154,
-    "hard": 111,
+    "all": 155,
+    "hard": 112,
     "clay": 26,
     "grass": 17
    },
    "ultimos": [
-    "2026-08-15 P hard vs Flavio Cobolli",
     "2026-08-23 G hard vs Sho Shimabukuro",
     "2026-08-26 P hard vs Fabian Marozsan",
     "2026-08-30 P hard vs Denis Shapovalov",
@@ -1890,7 +1889,8 @@
     "2026-10-07 G hard vs Sho Shimabukuro",
     "2026-10-09 P hard vs Jakub Mensik",
     "2026-10-19 P hard vs James Duckworth",
-    "2026-10-24 P hard vs Rinky Hijikata"
+    "2026-10-24 P hard vs Rinky Hijikata",
+    "2026-10-31 G hard vs James Duckworth"
    ]
   },
   "daniel|t": {
@@ -3092,19 +3092,18 @@
    "nombre": "Aleksandar Kovacevic",
    "circuito": "ATP",
    "elo": {
-    "all": 1521.5,
-    "hard": 1506.3,
+    "all": 1510.0,
+    "hard": 1490.4,
     "clay": 1476.0,
     "grass": 1352.0
    },
    "n": {
-    "all": 122,
-    "hard": 93,
+    "all": 123,
+    "hard": 94,
     "clay": 21,
     "grass": 8
    },
    "ultimos": [
-    "2026-08-28 P hard vs Arthur Fery",
     "2026-08-31 P hard vs Valentin Vacherot",
     "2026-09-24 P hard vs Lloyd Harris",
     "2026-09-28 G hard vs Zachary Svajda",
@@ -3113,7 +3112,8 @@
     "2026-10-20 P hard vs Stefanos Tsitsipas",
     "2026-10-24 G hard vs James Duckworth",
     "2026-10-25 P hard vs Giovanni Mpetshi Perricard",
-    "2026-10-27 P hard vs Ben Shelton"
+    "2026-10-27 P hard vs Ben Shelton",
+    "2026-10-31 P hard vs Juan Manuel Cerundolo"
    ]
   },
   "raonic|m": {
@@ -7669,19 +7669,18 @@
    "nombre": "Juan Manuel Cerundolo",
    "circuito": "ATP",
    "elo": {
-    "all": 1653.2,
-    "hard": 1578.0,
+    "all": 1667.5,
+    "hard": 1601.5,
     "clay": 1752.9,
     "grass": 1517.1
    },
    "n": {
-    "all": 69,
-    "hard": 32,
+    "all": 70,
+    "hard": 33,
     "clay": 33,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-27 P hard vs Ignacio Buse",
     "2026-09-01 P hard vs Arthur Gea",
     "2026-09-24 G hard vs Zhou Yi",
     "2026-09-26 P hard vs Alejandro Davidovich Fokina",
@@ -7690,7 +7689,8 @@
     "2026-10-10 P hard vs Carlos Alcaraz",
     "2026-10-20 P hard vs Mariano Navone",
     "2026-10-24 G hard vs Zachary Svajda",
-    "2026-10-25 G hard vs Daniel Altmaier"
+    "2026-10-25 G hard vs Daniel Altmaier",
+    "2026-10-31 G hard vs Aleksandar Kovacevic"
    ]
   },
   "cressy|m": {
@@ -15008,19 +15008,18 @@
    "nombre": "Mei Yamaguchi",
    "circuito": "WTA",
    "elo": {
-    "all": 1417.8,
-    "hard": 1418.3,
+    "all": 1456.8,
+    "hard": 1457.3,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 17,
-    "hard": 17,
+    "all": 18,
+    "hard": 18,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-05-06 P hard vs Hayu Kinoshita",
     "2026-07-09 P hard vs Greet Minnen",
     "2026-07-25 P hard vs Polina Kudermetova",
     "2026-09-19 G hard vs Ulrikke Eikeri",
@@ -15029,7 +15028,8 @@
     "2026-09-28 P hard vs Zheng Wushuang",
     "2026-10-17 P hard vs Sofia Kenin",
     "2026-10-24 G hard vs Linda Fruhvirtova",
-    "2026-10-25 P hard vs Harriet Dart"
+    "2026-10-25 P hard vs Harriet Dart",
+    "2026-10-31 G hard vs Zeel Desai"
    ]
   },
   "raina|a": {
@@ -25201,19 +25201,20 @@
    "nombre": "Zeel Desai",
    "circuito": "WTA",
    "elo": {
-    "all": 1443.6,
-    "hard": 1443.6,
+    "all": 1378.0,
+    "hard": 1378.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-01-31 P hard vs Kristiana Sidorova"
+    "2026-01-31 P hard vs Kristiana Sidorova",
+    "2026-10-31 P hard vs Mei Yamaguchi"
    ]
   },
   "matsuda|m": {
@@ -30020,19 +30021,18 @@
    "nombre": "Weronika Falkowska",
    "circuito": "WTA",
    "elo": {
-    "all": 1539.7,
-    "hard": 1541.7,
+    "all": 1571.9,
+    "hard": 1575.6,
     "clay": 1567.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 17,
-    "hard": 14,
+    "all": 18,
+    "hard": 15,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-05 G clay vs Noma Noha Akugue",
     "2026-08-06 P clay vs Carol Young Suh Lee",
     "2026-09-07 P hard vs Elizara Yaneva",
     "2026-09-15 G hard vs Kristina Novak",
@@ -30041,7 +30041,8 @@
     "2026-09-22 G hard vs Ilay Yoruk",
     "2026-09-23 P hard vs Polina Iatcenko",
     "2026-10-04 G hard vs Doga Turkmen",
-    "2026-10-05 P hard vs Caroline Werner"
+    "2026-10-05 P hard vs Caroline Werner",
+    "2026-10-31 G hard vs Jensi Dipakbhai Kanabar"
    ]
   },
   "buyukakcay|c": {
@@ -38588,6 +38589,25 @@
    },
    "ultimos": [
     "2026-10-31 P hard vs Carol Young Suh Lee"
+   ]
+  },
+  "dipakbhai kanabar|j": {
+   "nombre": "Jensi Dipakbhai Kanabar",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1441.8,
+    "hard": 1442.2,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-10-31 P hard vs Weronika Falkowska"
    ]
   }
  },
@@ -52362,7 +52382,7 @@
   ],
   "kovacevic|a~manuel cerundolo|j": [
    0,
-   1
+   2
   ],
   "cina|f~wong|c": [
    1,
@@ -89886,7 +89906,7 @@
   ],
   "duckworth|j~kecmanovic|m": [
    1,
-   0
+   1
   ],
   "kukushkin|m~sakellaridis|s": [
    1,
@@ -91111,7 +91131,15 @@
   "landaluce|m~machac|t": [
    0,
    1
+  ],
+  "dipakbhai kanabar|j~falkowska|w": [
+   0,
+   1
+  ],
+  "desai|z~yamaguchi|m": [
+   0,
+   1
   ]
  },
- "propios": 10466
+ "propios": 10470
 }
