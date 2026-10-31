@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.274,
+     "envidia": 0.273,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T13:10+00:00",
+    "hora": "2026-10-31T13:30+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T13:10+00:00",
+    "hora": "2026-10-31T13:30+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T13:10+00:00",
+    "hora": "2026-10-31T13:30+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T13:10+00:00",
+    "hora": "2026-10-31T13:30+00:00",
     "rent": 0.0
    }
   }
@@ -2570,6 +2570,7 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-14",
  "noticias_vistas": [
+  "0d1ffb6ba7d8",
   "120e70140ad1",
   "9403b3b1ec99",
   "92ee25f2ac65",
@@ -2600,6 +2601,7 @@
   "55562ee432ed",
   "5786ec5c8976",
   "37c0fb2d5092",
+  "99aea68adc22",
   "0ab995037ca5",
   "6909ded69609",
   "492cc8269ae1",
@@ -2615,7 +2617,6 @@
   "87a059e82c49",
   "0a5e8263ca7b",
   "55ba2cfce63e",
-  "99aea68adc22",
   "aff6f145b524",
   "559c2054e564",
   "e0cd5e9a278f",
@@ -2623,15 +2624,16 @@
   "74cd967f3214",
   "7d1887b7aad6",
   "4d8b04bb0aa3",
+  "dfc1d5b67f4c",
+  "819f8dd5d4c5",
   "e57d31fb025e",
   "13dd2f31df10",
   "a3207dd9a353",
-  "0d1ffb6ba7d8",
   "f8cc507fbc05",
   "f9c26263b82c",
   "f0a3f90ae24f",
   "95a857d191d7",
-  "0a82d05b80e9",
+  "c58fad1c36b3",
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
@@ -2642,6 +2644,7 @@
   "11d59c0fe8f2",
   "a42982ea6faa",
   "476682650c27",
+  "34d78917bfd2",
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
@@ -2668,6 +2671,7 @@
   "e6c1a6077f6d",
   "c15a792b06f9",
   "000170762886",
+  "b35e942f038e",
   "464fed4c1a7b",
   "1fa87f224775",
   "b25bf9621eca",
@@ -2735,6 +2739,7 @@
   "b8ab9ce93c28",
   "895319a587c1",
   "4270532ec55d",
+  "6682337af4b0",
   "b5ce24a09991",
   "169b3ee4f792",
   "7b2eaa77f860",
@@ -2798,10 +2803,11 @@
   "bf2d5e9f4086",
   "ce5aaff092b2",
   "fd42b97af10c",
+  "67201e7a5346",
+  "63b94d0cef0b",
   "edd5e25e8603",
   "bfbadc025ba6",
   "ba144a7f0353",
-  "b35e942f038e",
   "255c4bf7f0dd",
   "760e94efa67f",
   "e3a4c68f4959",
@@ -2912,7 +2918,6 @@
   "9c35b61703d1",
   "81766af17bb3",
   "997ac2aa2602",
-  "6682337af4b0",
   "7ccf4e64cfbb",
   "bc092b5af1c5",
   "647ee5dee093",
@@ -2920,6 +2925,7 @@
   "bb386498d04b",
   "683016dc8b03",
   "8b3b7313a186",
+  "0a82d05b80e9",
   "6f94695e79de",
   "09b1bb6b4704",
   "42bebcbc6c9e",
@@ -3286,6 +3292,7 @@
   "cb64b42eb490",
   "63a324fde714",
   "de63ad88d6af",
+  "690e142adb9f",
   "8911da18acb8",
   "0a2a9aa3c4f1",
   "86cb8c877417",
@@ -3362,14 +3369,7 @@
   "318751614fe7",
   "438a83a0fbeb",
   "9ec74398c18b",
-  "2653bdbb8400",
-  "2fb5591119dc",
-  "d8873c1e36a1",
-  "674d40d67afe",
-  "728c622a83e6",
-  "7cb7d0b89b4e",
-  "af0ed789a0ba",
-  "609303cea020"
+  "2653bdbb8400"
  ],
  "sala_aciertos": {
   "favorito": [

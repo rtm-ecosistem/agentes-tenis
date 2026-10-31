@@ -237103,6 +237103,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Martin Landaluce",
+    "Tomas Machac"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

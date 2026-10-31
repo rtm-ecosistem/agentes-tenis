@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T13:10+00:00",
+ "actualizado": "2026-10-31T13:30+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -173,19 +173,18 @@
    "nombre": "Tomas Machac",
    "circuito": "ATP",
    "elo": {
-    "all": 1643.7,
-    "hard": 1650.1,
+    "all": 1652.8,
+    "hard": 1660.7,
     "clay": 1585.8,
     "grass": 1491.4
    },
    "n": {
-    "all": 135,
-    "hard": 99,
+    "all": 136,
+    "hard": 100,
     "clay": 28,
     "grass": 8
    },
    "ultimos": [
-    "2026-08-30 P hard vs Toby Samuel",
     "2026-09-28 G hard vs Yannick Hanfmann",
     "2026-09-29 P hard vs Arthur Gea",
     "2026-10-01 P hard vs Alex Molcan",
@@ -194,7 +193,8 @@
     "2026-10-21 G hard vs Zangar Nurlanuly",
     "2026-10-22 P hard vs Karen Khachanov",
     "2026-10-24 G hard vs Corentin Moutet",
-    "2026-10-26 P hard vs Alex de Minaur"
+    "2026-10-26 P hard vs Alex de Minaur",
+    "2026-10-31 G hard vs Martin Landaluce"
    ]
   },
   "martin etcheverry|t": {
@@ -8248,19 +8248,18 @@
    "nombre": "Martin Landaluce",
    "circuito": "ATP",
    "elo": {
-    "all": 1464.4,
-    "hard": 1480.1,
+    "all": 1451.8,
+    "hard": 1465.9,
     "clay": 1429.3,
     "grass": 1418.6
    },
    "n": {
-    "all": 57,
-    "hard": 46,
+    "all": 58,
+    "hard": 47,
     "clay": 9,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-03 P hard vs Nicolas Mejia",
     "2026-08-13 G hard vs Jack Draper",
     "2026-08-15 G hard vs Matteo Arnaldi",
     "2026-08-17 P hard vs Thiago Agustin Tirante",
@@ -8269,7 +8268,8 @@
     "2026-09-28 P hard vs Marco Trungelliti",
     "2026-10-08 P hard vs Jan-Lennard Struff",
     "2026-10-21 P hard vs Stan Wawrinka",
-    "2026-10-27 P hard vs Alexander Zverev"
+    "2026-10-27 P hard vs Alexander Zverev",
+    "2026-10-31 P hard vs Tomas Machac"
    ]
   },
   "choinski|j": {
@@ -91107,7 +91107,11 @@
   "kobori|m~matsuda|r": [
    1,
    0
+  ],
+  "landaluce|m~machac|t": [
+   0,
+   1
   ]
  },
- "propios": 10465
+ "propios": 10466
 }

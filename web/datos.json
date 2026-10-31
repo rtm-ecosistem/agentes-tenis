@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T13:10+00:00",
+ "actualizado": "2026-10-31T13:30+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.264,
+      "pct": 0.265,
       "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.207,
+      "pct": 0.206,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
