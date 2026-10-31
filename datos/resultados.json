@@ -237555,6 +237555,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Grigor Dimitrov",
+    "Adolfo Daniel Vallejo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
