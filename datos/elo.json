@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T07:10+00:00",
+ "actualizado": "2026-10-31T08:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14116,14 +14116,14 @@
    "nombre": "Zhang Ying",
    "circuito": "WTA",
    "elo": {
-    "all": 1389.0,
-    "hard": 1389.2,
+    "all": 1369.1,
+    "hard": 1369.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 4,
-    "hard": 4,
+    "all": 5,
+    "hard": 5,
     "clay": 0,
     "grass": 0
    },
@@ -14131,7 +14131,8 @@
     "2025-10-25 P hard vs You Xiaodi",
     "2026-07-12 G hard vs Arina Arifullina",
     "2026-07-13 P hard vs Darya Khamutsianskaya",
-    "2026-09-26 P hard vs Wang Jiaqi"
+    "2026-09-26 P hard vs Wang Jiaqi",
+    "2026-10-31 P hard vs Alexandra Shubladze"
    ]
   },
   "sidorova|k": {
@@ -32877,19 +32878,18 @@
    "nombre": "Alexandra Shubladze",
    "circuito": "ATP",
    "elo": {
-    "all": 1639.1,
-    "hard": 1645.6,
+    "all": 1654.2,
+    "hard": 1660.5,
     "clay": 1500.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 13,
-    "hard": 12,
+    "all": 14,
+    "hard": 13,
     "clay": 0,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-25 G hard vs Anastasiia Sobolieva",
     "2026-08-26 P hard vs Darja Semenistaja",
     "2026-09-19 G hard vs Gaeul Jang",
     "2026-09-20 P hard vs Darya Astakhova",
@@ -32898,7 +32898,8 @@
     "2026-10-02 G hard vs Wei Sijia",
     "2026-10-03 G hard vs Emerson Jones",
     "2026-10-04 G hard vs Jessica Bouzas Maneiro",
-    "2026-10-24 P hard vs Polina Iatcenko"
+    "2026-10-24 P hard vs Polina Iatcenko",
+    "2026-10-31 G hard vs Zhang Ying"
    ]
   },
   "adeshina|e": {
@@ -91066,7 +91067,11 @@
   "laam lai|c~young suh lee|c": [
    0,
    1
+  ],
+  "shubladze|a~ying|z": [
+   1,
+   0
   ]
  },
- "propios": 10453
+ "propios": 10454
 }
