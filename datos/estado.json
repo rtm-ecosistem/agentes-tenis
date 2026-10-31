@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:10+00:00",
+    "hora": "2026-10-31T17:14+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:10+00:00",
+    "hora": "2026-10-31T17:14+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:10+00:00",
+    "hora": "2026-10-31T17:14+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T17:10+00:00",
+    "hora": "2026-10-31T17:14+00:00",
     "rent": 0.0
    }
   }
@@ -2590,10 +2590,13 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-31-14",
  "noticias_vistas": [
+  "cd40016f4efd",
   "d6f7c92644fb",
   "78225ddda3f6",
   "60ebb3d8eb35",
   "66383fa40448",
+  "9248580c1351",
+  "0c05030478b9",
   "039cb0de817e",
   "a61cb3eda77d",
   "ab48922dd679",
@@ -2601,6 +2604,8 @@
   "6046f0df38d5",
   "21e73aa701d7",
   "6e410f2a9dc4",
+  "21e02784f93e",
+  "0e71cde628f3",
   "c4b1138db750",
   "f4a916daa3dc",
   "1730d9178393",
@@ -2679,6 +2684,7 @@
   "f0a3f90ae24f",
   "95a857d191d7",
   "c58fad1c36b3",
+  "fd49fb110769",
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
@@ -2691,6 +2697,7 @@
   "a42982ea6faa",
   "476682650c27",
   "34d78917bfd2",
+  "092bfab87238",
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
@@ -3203,7 +3210,6 @@
   "2ddd6a3a9b79",
   "26d05eeb4e03",
   "d290942acc97",
-  "6006ac655dcc",
   "e2e70086df08",
   "2d84abd70177",
   "b314fdf1b6c6",
@@ -3329,6 +3335,7 @@
   "0657d42106b3",
   "9df91032b8b0",
   "0e0118d62e22",
+  "6006ac655dcc",
   "bb22eedd475f",
   "0588280ecec3",
   "7dc78c387fa9",
@@ -3382,14 +3389,7 @@
   "a31f7cb567d5",
   "bf899606bc38",
   "b0350027b067",
-  "124824a1474d",
-  "12854a851dea",
-  "6935da2a156a",
-  "7993d3f9c746",
-  "c062abed9775",
-  "763b89220267",
-  "53aa95914c77",
-  "76d7a543b049"
+  "124824a1474d"
  ],
  "sala_aciertos": {
   "favorito": [
