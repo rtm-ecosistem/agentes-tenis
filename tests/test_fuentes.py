@@ -53,6 +53,8 @@ def test_elegir_casa():
     assert cuotas.elegir_casa([ev("betsson", "sport888"), ev("sport888")]) == "sport888"
     assert cuotas.elegir_casa([ev("betsson", "williamhill")]) == "williamhill"  # empate: William Hill
     assert cuotas.elegir_casa([ev("betsson")], actual="sport888") == "sport888"  # una vez elegida, se mantiene
+    # salvo que otra cubra claramente más partidos
+    assert cuotas.elegir_casa([ev("betsson", "williamhill")] * 5 + [ev("betsson")] * 10, actual="williamhill") == "betsson"
 
 
 def test_nombres():
