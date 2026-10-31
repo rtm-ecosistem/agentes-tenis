@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T08:10+00:00",
+ "actualizado": "2026-10-31T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14634,19 +14634,18 @@
    "nombre": "Aliona Falei",
    "circuito": "WTA",
    "elo": {
-    "all": 1569.1,
-    "hard": 1571.0,
+    "all": 1580.5,
+    "hard": 1585.5,
     "clay": 1497.2,
     "grass": 1500.0
    },
    "n": {
-    "all": 18,
-    "hard": 15,
+    "all": 19,
+    "hard": 16,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-03 G clay vs Urszula Radwanska",
     "2026-08-05 P clay vs Carol Young Suh Lee",
     "2026-08-24 P hard vs Elena Pridankina",
     "2026-09-21 P hard vs Tian Fangran",
@@ -14655,7 +14654,8 @@
     "2026-10-02 G hard vs Sara Sorribes Tormo",
     "2026-10-03 P hard vs Jessica Bouzas Maneiro",
     "2026-10-06 G hard vs Guo Hanyu",
-    "2026-10-09 P hard vs Rebecca Sramkova"
+    "2026-10-09 P hard vs Rebecca Sramkova",
+    "2026-10-31 G hard vs Ekaterina Yashina"
    ]
   },
   "yuhan|w": {
@@ -15089,19 +15089,18 @@
    "nombre": "Ekaterina Yashina",
    "circuito": "WTA",
    "elo": {
-    "all": 1280.6,
-    "hard": 1321.8,
+    "all": 1267.4,
+    "hard": 1305.5,
     "clay": 1422.5,
     "grass": 1500.0
    },
    "n": {
-    "all": 11,
-    "hard": 10,
+    "all": 12,
+    "hard": 11,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-13 P hard vs Magdalena Frech",
     "2026-07-11 G hard vs Lina Glushko",
     "2026-07-12 P hard vs Mina Hodzic",
     "2026-07-19 P clay vs Mona Barthel",
@@ -15110,7 +15109,8 @@
     "2026-09-20 G hard vs Semra Aksu",
     "2026-09-21 P hard vs Marie Vogt",
     "2026-09-26 P hard vs Yujia Huang",
-    "2026-10-04 P hard vs Caroline Werner"
+    "2026-10-04 P hard vs Caroline Werner",
+    "2026-10-31 P hard vs Aliona Falei"
    ]
   },
   "rodionova|a": {
@@ -24493,19 +24493,18 @@
    "nombre": "Harriet Dart",
    "circuito": "ATP",
    "elo": {
-    "all": 1762.1,
-    "hard": 1782.3,
+    "all": 1790.2,
+    "hard": 1809.9,
     "clay": 1482.2,
     "grass": 1343.4
    },
    "n": {
-    "all": 35,
-    "hard": 29,
+    "all": 36,
+    "hard": 30,
     "clay": 2,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-01 G hard vs Qu Yihan",
     "2026-10-03 P hard vs Iva Jovic",
     "2026-10-17 G hard vs Rina Saigo",
     "2026-10-18 G hard vs Aoi Ito",
@@ -24514,7 +24513,8 @@
     "2026-10-25 G hard vs Mei Yamaguchi",
     "2026-10-26 G hard vs Tatiana Prozorova",
     "2026-10-28 G hard vs Janice Tjen",
-    "2026-10-30 G hard vs Paula Badosa"
+    "2026-10-30 G hard vs Paula Badosa",
+    "2026-10-31 G hard vs Xinran Sun"
    ]
   },
   "zheng|m": {
@@ -30687,14 +30687,14 @@
    "nombre": "Xinran Sun",
    "circuito": "WTA",
    "elo": {
-    "all": 1756.3,
-    "hard": 1749.4,
+    "all": 1710.8,
+    "hard": 1707.5,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 7,
-    "hard": 7,
+    "all": 8,
+    "hard": 8,
     "clay": 0,
     "grass": 0
    },
@@ -30705,7 +30705,8 @@
     "2026-10-05 P hard vs Coco Gauff",
     "2026-10-27 G hard vs Mananchaya Sawangkaew",
     "2026-10-29 G hard vs Maria Timofeeva",
-    "2026-10-30 G hard vs Claire Liu"
+    "2026-10-30 G hard vs Claire Liu",
+    "2026-10-31 P hard vs Harriet Dart"
    ]
   },
   "cadenasso|g": {
@@ -91071,7 +91072,15 @@
   "shubladze|a~ying|z": [
    1,
    0
+  ],
+  "dart|h~sun|x": [
+   1,
+   0
+  ],
+  "falei|a~yashina|e": [
+   1,
+   0
   ]
  },
- "propios": 10454
+ "propios": 10457
 }
