@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T03:25+00:00",
+ "actualizado": "2026-10-31T04:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14032,19 +14032,18 @@
    "nombre": "Himeno Sakatsume",
    "circuito": "WTA",
    "elo": {
-    "all": 1572.9,
-    "hard": 1583.1,
+    "all": 1591.7,
+    "hard": 1602.2,
     "clay": 1549.4,
     "grass": 1466.4
    },
    "n": {
-    "all": 53,
-    "hard": 45,
+    "all": 54,
+    "hard": 46,
     "clay": 3,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-28 G hard vs Mia Ristic",
     "2026-08-31 G hard vs Anhelina Kalinina",
     "2026-09-03 P hard vs Cristina Bucsa",
     "2026-09-22 P hard vs Taylah Preston",
@@ -14053,7 +14052,8 @@
     "2026-10-09 G hard vs Simona Waltert",
     "2026-10-10 P hard vs Ayla Aksu",
     "2026-10-20 P hard vs Katie Boulter",
-    "2026-10-27 P hard vs Leylah Fernandez"
+    "2026-10-27 P hard vs Leylah Fernandez",
+    "2026-10-31 G hard vs Hong Yi Cody Wong"
    ]
   },
   "kulikova|a": {
@@ -15712,14 +15712,14 @@
    "nombre": "Hong Yi Cody Wong",
    "circuito": "WTA",
    "elo": {
-    "all": 1488.7,
-    "hard": 1486.5,
+    "all": 1455.5,
+    "hard": 1454.8,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 9,
-    "hard": 9,
+    "all": 10,
+    "hard": 10,
     "clay": 0,
     "grass": 0
    },
@@ -15732,7 +15732,8 @@
     "2026-07-28 G hard vs Wei Sijia",
     "2026-07-29 P hard vs Himeno Sakatsume",
     "2026-08-23 P hard vs Katie Volynets",
-    "2026-10-24 P hard vs Emerson Jones"
+    "2026-10-24 P hard vs Emerson Jones",
+    "2026-10-31 P hard vs Himeno Sakatsume"
    ]
   },
   "joint|m": {
@@ -25728,19 +25729,18 @@
    "nombre": "Alevtina Ibragimova",
    "circuito": "WTA",
    "elo": {
-    "all": 1615.9,
-    "hard": 1587.2,
+    "all": 1574.3,
+    "hard": 1542.4,
     "clay": 1650.1,
     "grass": 1500.0
    },
    "n": {
-    "all": 33,
-    "hard": 25,
+    "all": 34,
+    "hard": 26,
     "clay": 8,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-13 P hard vs Rositsa Dencheva",
     "2026-09-19 G hard vs Rina Saigo",
     "2026-09-20 G hard vs Sara Saito",
     "2026-09-22 P hard vs Yeonwoo Ku",
@@ -25749,7 +25749,8 @@
     "2026-10-05 P hard vs Rebecca Sramkova",
     "2026-10-24 G hard vs Rina Saigo",
     "2026-10-25 G hard vs Polina Iatcenko",
-    "2026-10-26 P hard vs Shi Han"
+    "2026-10-26 P hard vs Shi Han",
+    "2026-10-31 P hard vs Mika Stojsavljevic"
    ]
   },
   "chaudhari|v": {
@@ -31818,14 +31819,14 @@
    "nombre": "Mika Stojsavljevic",
    "circuito": "WTA",
    "elo": {
-    "all": 1457.8,
-    "hard": 1442.1,
+    "all": 1523.8,
+    "hard": 1522.2,
     "clay": 1500.0,
     "grass": 1446.3
    },
    "n": {
-    "all": 7,
-    "hard": 2,
+    "all": 8,
+    "hard": 3,
     "clay": 0,
     "grass": 5
    },
@@ -31836,7 +31837,8 @@
     "2026-06-09 P hard vs Donna Vekic",
     "2026-06-13 P grass vs Himeno Sakatsume",
     "2026-06-29 P grass vs Belinda Bencic",
-    "2026-10-26 P hard vs Alexandra Eala"
+    "2026-10-26 P hard vs Alexandra Eala",
+    "2026-10-31 G hard vs Alevtina Ibragimova"
    ]
   },
   "paganetti|v": {
@@ -81670,7 +81672,7 @@
    0
   ],
   "sakatsume|h~yi cody wong|h": [
-   1,
+   2,
    0
   ],
   "costoulas|s~inglis|m": [
@@ -91020,7 +91022,11 @@
   "ferro|f~mandlik|e": [
    1,
    0
+  ],
+  "ibragimova|a~stojsavljevic|m": [
+   0,
+   1
   ]
  },
- "propios": 10444
+ "propios": 10446
 }
