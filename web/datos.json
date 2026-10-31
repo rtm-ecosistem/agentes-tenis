@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T22:10+00:00",
+ "actualizado": "2026-10-31T23:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-10-31T08:00+00:00",
   "prevision_mes": 0,
   "noticias": {
-   "dia": "2026-10-31",
+   "dia": "2026-11-01",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -338,14 +338,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.31,
+      "pct": 0.311,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.271,
+      "pct": 0.272,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.186,
+      "pct": 0.184,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -1836,6 +1836,11 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-10-31T23:10+00:00",
+   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-10-31T19:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -1979,11 +1984,6 @@
    "hora": "2026-10-31T08:00+00:00",
    "texto": "Óscar no pudo decidir: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
    "tipo": "error"
-  },
-  {
-   "hora": "2026-10-31T08:00+00:00",
-   "texto": "🎾 Cartelera: 15 partidos en las próximas 24 horas (casa: William Hill).",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-10-31",
@@ -4784,7 +4784,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T19:10+00:00",
+   "actualizado": "2026-10-31T23:10+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -4808,6 +4808,12 @@
      "cansancio": "2 partidos, 4 sets y 42 juegos en 3 días; el último el 2026-10-31 contra Kamilla Rakhimova, ganó 7-5 6-3",
      "noticias": [
       {
+       "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
+      },
+      {
        "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - Hartford Courant",
        "fuente": "Hartford Courant",
        "fecha": "2026-10-31",
@@ -4818,12 +4824,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FZVHk1aGtQVTh5YURNNG10Y0VWdXVrN1FDMEpWNVc5cDk5Z0Zpa2k5aHI2T0dVc3VHUEhWWndDRGZkYVNLQ2lGbFB3cGR0clpaQ2F2TG9pUjNrenRzNW8xMXoxcU9YbVp5WFRaSGgta0FvR3NVT2o1ekNKeWsxSjNjNDNRdllEUkxyUkhyN1JCbThOLWZGWmRoMi12b3JTSnBJZmE5dFlvUjMxRkdZ?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernández avanza a la final del Abierto de Japón - El Horizonte",
-       "fuente": "El Horizonte",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDhoaGxjVG5nUFdVZWthdkZDTVpVb1N3eHg1OG9PX1RLeXdqWkdyRi1iSjNCX0c5WEU4ZS1pdUs5Mm0yTmpkOU9DNjlXQVNjaDlPNWdBaEhQelNHaEhIbWRGa2R4bC1yalBtVWQwOTd2Z1hrS1pSQVM1dWNuVkZxRXdpeVNKQWZvdEs0VU5tV3h1UTdhaTZXV09TeFNhNVBfT1hzVQ?oc=5"
       }
      ]
     },
@@ -4842,22 +4842,22 @@
      "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
      "noticias": [
       {
-       "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
-       "fuente": "San Antonio Express-News",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTS1RNXpIQURmZ3RnZk5uNHk1VndhZFduNnYtNmt6QlhBNHQ0OTV0TDZjbHc5Q0p1a010OEVGWUtkcmNjdGt0WDltRzRNUWF3V0M5NEh4VHY3YlprRkVpa0RoZnB2Vk9kdzhZTTliWGhUejFPbEVsUG9SUFJ2amg3M21CNDZ6MWgyLWJmVk9kQ2FHN2E1QlVvc3RtOG82UTFtVmhQbm9PSTk?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernández y Diana Shnaider buscarán el premio mayor en Tokio - ESPN Deportes",
-       "fuente": "ESPN Deportes",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHdKUlB1WjdkZlNGeVFBWVhNNEhMZ3plWGFsS1IzcURsRVVkbGQ2dFZadTZOaGZUbzYzSmNUNWxGQmJiY0FaRUktN3c3QUJaMGZ0X3JHTjBtSFpKMk91Q2YyS0pJUXNpZHRWM1g4NDR2N0o3N21GM1JOT2JGTVFreTM3YTJYMUNaNmxrbDRCdjRxVm5ncWxCV3FVVU4tcHU2ZGxpbVJrTkF0VmJMU1FaMTdBSDRrWUtMWDFseXhpXzV1MmZrbXhPa1lsMVdRdFVVUGpCVFpZZ0ctVGZVNzR3?oc=5"
-      },
-      {
        "titulo": "Leylah Fernandez vs Diana Shnaider · Final · WTA Tokyo - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernández avanza a la final del Abierto de Japón - El Horizonte",
+       "fuente": "El Horizonte",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDhoaGxjVG5nUFdVZWthdkZDTVpVb1N3eHg1OG9PX1RLeXdqWkdyRi1iSjNCX0c5WEU4ZS1pdUs5Mm0yTmpkOU9DNjlXQVNjaDlPNWdBaEhQelNHaEhIbWRGa2R4bC1yalBtVWQwOTd2Z1hrS1pSQVM1dWNuVkZxRXdpeVNKQWZvdEs0VU5tV3h1UTdhaTZXV09TeFNhNVBfT1hzVQ?oc=5"
+      },
+      {
+       "titulo": "Leylah Fernandez avanza a la final del Abierto de Japón al vencer a Rakhimova - San Antonio Express-News",
+       "fuente": "San Antonio Express-News",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTS1RNXpIQURmZ3RnZk5uNHk1VndhZFduNnYtNmt6QlhBNHQ0OTV0TDZjbHc5Q0p1a010OEVGWUtkcmNjdGt0WDltRzRNUWF3V0M5NEh4VHY3YlprRkVpa0RoZnB2Vk9kdzhZTTliWGhUejFPbEVsUG9SUFJ2amg3M21CNDZ6MWgyLWJmVk9kQ2FHN2E1QlVvc3RtOG82UTFtVmhQbm9PSTk?oc=5"
       }
      ]
     }
