@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.289,
+     "envidia": 0.286,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T09:22+00:00",
+    "hora": "2026-10-31T10:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T09:22+00:00",
+    "hora": "2026-10-31T10:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T09:22+00:00",
+    "hora": "2026-10-31T10:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T09:22+00:00",
+    "hora": "2026-10-31T10:10+00:00",
     "rent": 0.0
    }
   }
@@ -2495,6 +2495,16 @@
    "hora": "2026-10-31T09:22+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T10:10+00:00",
+   "texto": "📰 Noticias nuevas de Juan Manuel Cerundolo – Aleksandar Kovacevic, Sebastian Baez – Damir Dzumhur, Valentin Vacherot – Taylor Fritz…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-10-31T10:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2520,19 +2530,28 @@
  "ultima_decision": "2026-10-31",
  "ultima_sala": "2026-10-30-20",
  "noticias_vistas": [
+  "3c16fd8f6ffb",
+  "55562ee432ed",
   "5786ec5c8976",
+  "37c0fb2d5092",
+  "d458c902f4da",
   "0cffe2deb806",
   "d8d2b742da6e",
   "e1527138f131",
   "247681c2cfba",
+  "87a059e82c49",
+  "55ba2cfce63e",
   "99aea68adc22",
+  "92ee25f2ac65",
+  "7d1887b7aad6",
   "aff6f145b524",
+  "559c2054e564",
   "e0cd5e9a278f",
   "74cd967f3214",
   "4d8b04bb0aa3",
   "e57d31fb025e",
+  "a3207dd9a353",
   "0d1ffb6ba7d8",
-  "7d1887b7aad6",
   "f8cc507fbc05",
   "f9c26263b82c",
   "0a5e8263ca7b",
@@ -2544,7 +2563,6 @@
   "d07e512f5a99",
   "e677fabcca71",
   "a42982ea6faa",
-  "d458c902f4da",
   "76f72697d1ed",
   "9354ac17b5b9",
   "64aeffd91771",
@@ -2573,6 +2591,7 @@
   "e6c1a6077f6d",
   "c15a792b06f9",
   "000170762886",
+  "b35e942f038e",
   "464fed4c1a7b",
   "1fa87f224775",
   "b25bf9621eca",
@@ -2596,6 +2615,7 @@
   "5599b62189c3",
   "c69b950fa7e0",
   "1f57c3d107e5",
+  "c54c56914bf4",
   "edba43eb8d91",
   "49eaca25a9bd",
   "12aa34e5d9ee",
@@ -2645,6 +2665,7 @@
   "6d2cb10b09f0",
   "fb7a1bdfc607",
   "89bbec66a568",
+  "143cff338f0c",
   "111a09590fba",
   "2e3b497f7e25",
   "6fecbcec9739",
@@ -2696,7 +2717,6 @@
   "edd5e25e8603",
   "bfbadc025ba6",
   "ba144a7f0353",
-  "b35e942f038e",
   "255c4bf7f0dd",
   "760e94efa67f",
   "e3a4c68f4959",
@@ -2704,7 +2724,6 @@
   "f7facc31dea6",
   "f7423a59f331",
   "cbb4e88060bd",
-  "f88b630f834c",
   "f578551e4803",
   "f069e8163642",
   "10a98821520b",
@@ -2713,11 +2732,11 @@
   "734e52f509ef",
   "71b8ea58530b",
   "78a151d08055",
-  "92ee25f2ac65",
   "fcafed0f0744",
   "22bfcf79ee80",
   "bb44d48e836a",
   "fa4ef702703d",
+  "6682337af4b0",
   "bcebb0397566",
   "55e026b9207d",
   "c62e405a9263",
@@ -2771,6 +2790,7 @@
   "a9bb9d33c0f4",
   "3a233cf75d10",
   "b42d88efae4d",
+  "f88b630f834c",
   "70fcf910e099",
   "228a682c2e26",
   "2eecf5e151e9",
@@ -2805,7 +2825,6 @@
   "9c35b61703d1",
   "81766af17bb3",
   "997ac2aa2602",
-  "6682337af4b0",
   "7ccf4e64cfbb",
   "bc092b5af1c5",
   "647ee5dee093",
@@ -3310,16 +3329,7 @@
   "fc498aec90d9",
   "03843c283e94",
   "19863bb2fc50",
-  "e1e1e146b416",
-  "c5dc6eba8633",
-  "a94b86505639",
-  "583f2b9583a5",
-  "82a204a9ca2c",
-  "840976d7c3b0",
-  "f2eeb6ecf287",
-  "8f5da008e213",
-  "342043cdf95c",
-  "ac7c6ef9080d"
+  "e1e1e146b416"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -5115,7 +5125,7 @@
    "inicio": "2026-10-31T11:05+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.53,
    "elo_general": 0.537,
    "elo_en_superficie": 0.523,
@@ -5167,16 +5177,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Pronóstico Hugo Gastón vs Vit Kopriva - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
+       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDA5QzQySW9Pd0dCdlpidktBV3NOd1gtcURIUUJwN2QwREVwaGhYX3FibkxhZVFrc3FtQWx5cFZyQXZpQzljMVAzeWhDNHhXbkVqSjBPcHd2OFNLNGJEMFZ3RXBxQTZnOFBRM2lXV21jUFkxbHNJa0Jia0Z5dVh4cFpkUWliZ3M?oc=5"
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
       },
       {
-       "titulo": "Entry List ATP Challenger Lima 2026 - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nS0dTUjdJNHVLQWNKa1ltVjhOeU5zM2RLY3RITXRwejNOVlpHVENIWjJ6dVY5RFBCQ3BqOVZjMDJpX205V0ZUOTYya3dVZHc0bGpqbUJqV2NzcnBDUlJ5bGtkY3hBYVA3V05J?oc=5"
+       "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Daniel Mérida Aguilar vs Alexander Blockx - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2drRWZkM0pQa3h6WjlvbFFnWGZ3TTFIX3I2X05MaHdUYm5rM3dnWElqYkdRaG5vX2VQaTg5NzRFVmEyZ2RxSHp6cTBPWV91aEVPRFFKMDVBSzFDYmpUT3UwczNONlJLRUNUSDdNbVp4QnY2YVEwdjFRZTZOc3BmaHJPOHZSenFLMGZwVVRRS3hhNUlWSXFDM0l5RQ?oc=5"
       }
      ]
     }
@@ -5191,7 +5207,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.641,
    "elo_general": 0.681,
    "elo_en_superficie": 0.602,
@@ -5215,6 +5231,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Pronóstico Arthur Rinderknech vs Francisco Cerundolo - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pPZUYtR1pIa0xiYzQxZ2xmdHFiOTlvaUxJZEZBV3RqTXZUcGFXWnZCekRSQ0Y2dzJ3NFc3WnRYOVZjWFlfcV9fRTNjdFUzQ2k3S2I5SWI4TzhVNWs4djJIYThjNWdldXRzQl9meElXWlBfMDkzOEEyeXpVS2p0V0VKYlFNMFpzaHlXbDFFNjdMREJGSmxxUTJPdw?oc=5"
+      },
+      {
        "titulo": "Arthur Rinderknech - Francisco Cerundolo en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-10-31",
@@ -5225,12 +5247,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3pDcDlXNENnX19xWXhoY2NhOHdDdy1RME00aDlIVWdRTlY4NHZHZzhUQW90VzZwV0JyQ0lJT0k5U2dPa2M0NTBSYUZUZERfUDByc0RFaDk1VmRUeU1qMUV2OGJWWjd2OHByUWEtTnpGYTJQZEFnYThwVk9GVU1RcThtV1R2UXVPa0xUTzFMYW1jZnJYdHdaRWpn?oc=5"
-      },
-      {
-       "titulo": "Cerúndolo / Etcheverry vs TBD · Semifinal · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3ZKdzNsQTYydFBja0JRMk5RUEI4SGZNLU4yeWl1VW9fd2ZZajdKdkVtUG5IZXVab2s0V3lhLWVGcGlkb1dnTW1SV3JBVXhzZkVVYi1qTzdsbkdrLWxGV2hXR1o5VmRkalozMldoY1pUWll5aFI2YWJjbEZBWDVhVW5jZE9uZE9sX05jWmR1WFIwU0hMMGIwQ2hPTHIxa0hqdkZQOQ?oc=5"
       }
      ]
     },
@@ -5279,7 +5295,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.622,
    "elo_general": 0.613,
    "elo_en_superficie": 0.632,
@@ -5329,7 +5345,14 @@
       "P hard vs Rinky Hijikata"
      ],
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": []
+     "noticias": [
+      {
+       "titulo": "Pronóstico Jaime Faria vs Rinky Hijikata - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOS1BRVRBWlo2dWNtZmZpa2JLR1hYYnVPOGtFeHJsZ0k0UnhFaEVMdXl4cHF2SktwUkdQTHZTWXFSSTc5Q19acWNENlpuWTJXbTJ3enBVc252cFQxd2hfZGhSY1IyeVlseUs4NW9zMUlNTmE3b0pjNlhqLVhoQzZtbmZRT2ZKTk1jOXFj?oc=5"
+      }
+     ]
     }
    ]
   },
@@ -5342,7 +5365,7 @@
    "inicio": "2026-10-31T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.732,
    "elo_general": 0.737,
    "elo_en_superficie": 0.727,
@@ -5366,6 +5389,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
+       "fuente": "Flashscore.cl",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXBmaDB2OVlweUgzOWE4UzFiUmdjNFJheXNESmlDMTR6Z1dEZ1J2SW5sZ2h3M0xhSTlPWk1XQW5kVkZuOTRzN3VwbzRsSG1WclpWVzNiUXp5RGZLdmROMUw3UDlELTZOdkZoRG9nTWFONXZjNHVzSnRIRzJ3cHFZbWFSTm9oS3labm40djNRZDdhRjNVVHNOQg?oc=5"
+      },
+      {
        "titulo": "Tomas Machac - Martin Landaluce en directo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-10-31",
@@ -5376,12 +5405,6 @@
        "fuente": "Flashscore.com.ar",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
-      },
-      {
-       "titulo": "Tomas Machac - Martin Landaluce en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZW9YQnJfeUxwclRNTzhldnhOdW13QzBwQjRTdE5PVk9jWTJzWEQzaW5wTHZJb00zTmlFcExEc3VSSk1BeWJ6NE9EUmluVlBWSkFRZ1RMS3NPOS1wWlVCR29HVkllZ2JVYkZ5WHRrenI5bmZ0WUVvd1VueVpENlFDLW53MEFvQTdaY3dvNkItWQ?oc=5"
       }
      ]
     },
@@ -5430,7 +5453,7 @@
    "inicio": "2026-10-31T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.493,
    "elo_general": 0.477,
    "elo_en_superficie": 0.51,
@@ -5518,7 +5541,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.518,
    "elo_general": 0.443,
    "elo_en_superficie": 0.593,
@@ -5546,6 +5569,12 @@
        "fuente": "Wincomparator",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
+      },
+      {
+       "titulo": "Entry List ATP París 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1raXhLZlU0QkZ1aTZLNHBLOWl2NzBqRU54VEx4STgxVjNkRFUyQXdMZG9hSHh4MUZWVEZLazBrT0p1N3I2TVNkVUFlUkZ1NGd5NzlSWFZad2Z1YlRMMXc?oc=5"
       }
      ]
     },
@@ -5570,10 +5599,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
       },
       {
-       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
+       "titulo": "Pronóstico Arthur Rinderknech vs Francisco Cerundolo - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pPZUYtR1pIa0xiYzQxZ2xmdHFiOTlvaUxJZEZBV3RqTXZUcGFXWnZCekRSQ0Y2dzJ3NFc3WnRYOVZjWFlfcV9fRTNjdFUzQ2k3S2I5SWI4TzhVNWs4djJIYThjNWdldXRzQl9meElXWlBfMDkzOEEyeXpVS2p0V0VKYlFNMFpzaHlXbDFFNjdMREJGSmxxUTJPdw?oc=5"
+      },
+      {
+       "titulo": "Así debutarán los sudamericanos en el ATP Masters 1000 de París - Match Tenis",
+       "fuente": "Match Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQ1lLXzNETFl3SlFfMkFBUDR4UWtxdmp2Zko0ZjRkb3FOQmUxQkZ1M2JJOGN5OWc3ZVNUQmxyTTh5ODhBVFF5TVFILTN1Y202aXpNejZnVTZLa3puZzJQNVR1MXJPZw?oc=5"
       }
      ]
     }
@@ -5588,7 +5623,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.247,
    "elo_general": 0.271,
    "elo_en_superficie": 0.223,
@@ -5618,16 +5653,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
       },
       {
-       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
-       "fuente": "Flashscore.cl",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXBmaDB2OVlweUgzOWE4UzFiUmdjNFJheXNESmlDMTR6Z1dEZ1J2SW5sZ2h3M0xhSTlPWk1XQW5kVkZuOTRzN3VwbzRsSG1WclpWVzNiUXp5RGZLdmROMUw3UDlELTZOdkZoRG9nTWFONXZjNHVzSnRIRzJ3cHFZbWFSTm9oS3labm40djNRZDdhRjNVVHNOQg?oc=5"
-      },
-      {
        "titulo": "Alejandro Davidovich Fokina - Moise Kouame en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGo0RHBiRlEtOXpEeTBQd3R3X1NnTERzaDNha0JHdlpMMlQyM00yTG02WXVMQ01hcGJMUTRnNmRmV0NBS2pNVEVHZU91dy1haE85UFhiZldRVTR2c2pNV3hXbXVPS2I5RlhNdUhCa1lYUkozZ2tWNTVBcG1kcGJ4M0ZKSmYzQjRGWDBxeW5LY1FtWkY1TVpQOEZOZTRGdw?oc=5"
+      },
+      {
+       "titulo": "Cuadro ATP París 2026 - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-10-30",
+       "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMXBWV3JpYmFkSVB0WUhqcEktRWJVOFdSN3NzQVc0bF9rZm5FLW1RWHJENW5ScTFvd1JOc0FYdkRZU2liY3BUNXl5WGJhUldkNlJQcWg4MHU?oc=5"
       }
      ]
     },
@@ -5676,7 +5711,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.426,
    "elo_general": 0.426,
    "elo_en_superficie": 0.427,
@@ -5700,6 +5735,12 @@
      "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-10-30 contra Holger Rune, ganó 6-3 3-6 6-3",
      "noticias": [
       {
+       "titulo": "Horario y dónde ver por TV el debut de Djokovic en el Masters 1000 de París ante Valentin Vacherot - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX013MEZMQlA5TlFwTFAtckExR2RUeVVGeHNYbnExQmhBMzB0MGMzQnRSQ2lUbGZyZDdXb1hhRFBwRS1YY0VUQzhZZ05YblRjUmdfS19vZlVkUVlReVNWOXY2eVpILThWRGFHTFE3Qllpc0VmZ3hZOXZIaGp1Y0NyZTJoa1NSSVNNM01fTExHWWk2aHg2MWlveU1SUHp5X3Z0ZGh5NHhOaGx0dTJPUktUY3RUOV9SZGNkaVZQdDhUWXFhTkJxa1p5OGpPQWFlQ2F5SzlzWDJpTVhULThkU3FaM3hjenF2YjlwQmN2VGxKQWZpVEZsTGRBQW1pSHBzdw?oc=5"
+      },
+      {
        "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-10-30",
@@ -5710,12 +5751,6 @@
        "fuente": "Infobae",
        "fecha": "2026-10-30",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTBrWWU4ZHBjNjYwY1ZxRTh5ZTVZZENXN3NuN1dwNzRwdlpFQ1Z0N0Fvc2FoT1dnX3doa25QeXhLVTBzMVFwZ0s5UTRMcnBRSEc5SHVlUUJxaHFtRVBlQllYTDJweHU1aGcwTndURFppY3M2bUlNZG9nbWI3azdEOWI1X1ltM1hiaU9GQUZycFpDUGNrSmZac0lMc1o0RnFsNWZxTno4QzlHd9IBxAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c0?oc=5"
-      },
-      {
-       "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c00gHEAUFVX3lxTE1sMG5UaEFQa3czRFJIOVFBRjkzV2l4eUo0SXdrczg3WDlsdUNicjFsdmMyZHNvRDFSdDhmazhBQkVpQzVfems1SmZ2V09iX0VsSER2aGE4ZTVCMkpaeXhWMGNpU2ZndFp3dXd0N1V1Z2JrVWx3cV9lbmVaZDZSSm5TYUVxMXl3QUpXWXVrS1lpWEpod2RYT292WG9wTldYOXdsS2JZSE43VlI4OVF5OE1CYXd6dmRyU1hvbE5kUm1pa0tXdzQ?oc=5"
       }
      ]
     },
@@ -5746,10 +5781,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVN3ZVhLUmxFdDZicTVpZGlTcjhiT09hV3M2TXZuUjd4bWEwbVVIZTgxVTdGUjhhNTBSZkxMX2FNTDdJaWlpQjhPSDVlSHl2OERCdDZvajBjaC1lWHJHRGRNdWlUcTluUmR3S2ItVWw2cEZha21MSUxaZUd6MHp5b2dLVDVWWExUMjJ4TmxXMkdDUQ?oc=5"
       },
       {
-       "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
+       "titulo": "Otro candidato a las ATP Finals con problemas físicos - Flashscore.es",
+       "fuente": "Flashscore.es",
        "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1czanNVWWFHaUxkVzRPVUIxbDJaTTVwM3RTekRHVkp4bUlmTURQZ3BkS0NPbTBSdENRRkJXRm8wMVZGQU5seFd1SllfNVRmSFk5WVVRbGVmN0VDTVlfaDZxVGRoS1ZnTFJ2anRsdTVQcmtIRmZBY05pUl9qelRSS291TW9LazhKamlDdGg0OGtGeTNfUWFWcHpFaGdqMlJmZkJGbUpqbFXSAbYBQVVfeXFMTV9wVExMWTVhZDQ0R0IzTndOUzVWSTJHT2pGOXFJbkZLRUFwR0g0dC1GT2pzQlQzenIyQzVMcUFQQWJlckJnU0NqWFVrbXNPUmhmY2RtWmd3dWFUYWh3ZnJYSnZzT19GcGtfYlo0TFdIZ2dCdURQeFR3bXBJdkxCT1k5RFRxLXhLUjhtRmh6cVltSkZfNXdZZmwyUXJPeVJjeDZsWVRvUVpDdFZqZnpJX01icUkwRlE?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWw2Q1ljSWdxTkdSWkgyQm1GRmdGSEw2cVNxRG9PN1RjcnJZN0I5M2Qxd0RwbEpacTRNSzNSaGhpT1lPZ1ZCSWNKSC0zeGNsbldBS3AtSWkxbWl1QXhnMzU5N212OUJZVFpJSnBOMDNXbjBUVlFORzVpWTZaa29fUnAxTUN1SVlXNFJvOFBCZXM4aWw1T1doNmRNVU5WNmZkYVQ2VzBoeE1RTFJ1?oc=5"
       }
      ]
     }
@@ -5764,7 +5799,7 @@
    "inicio": "2026-10-31T14:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.249,
    "elo_general": 0.211,
    "elo_en_superficie": 0.286,
@@ -5822,6 +5857,12 @@
      "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-30 contra Tommy Paul, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Arantxa Sánchez Vicario se rinde a Carlos Alcaraz en su tierra: \"Está demostrando que es un grande\" - COPE",
+       "fuente": "COPE",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNd0pnazV5bkhEM0Q1ZmJxTmFkN2h4X05TQTB0WEVwSnNMY19PUVZKOHlrT0pJRGNZQ3Y0b2E2RDRKUG1PT29iZXJ6TGhjVXZINmlGdXNQWUcySWpQR09vUGkxamdVSlBUSEFVUlNMcjdnMW81aHZnaUg4NGRDTXZYNF9IRDg4RUJXek5MSDJKQ3BLVnBUenlvOWd0MUpaMFZtRlc5RnE4MlFxVWNoU05mbVZyQnVaLXV0YkVLQmdwVWo5Mzd6QS00cmI1OFdwRkJ3REVVeFp3LTJnOWJ1cG10NXhEMlNhVmxhQlBZbXlJVUN3WVVPc0pJblhfUTU3RVB6Z3Z6MHdZQ0xxaURBU1daX1VmZy15Mno5X1ZYMVVHTWJ6aFB5eFFfaDlza0Y4dFXSAbQCQVVfeXFMUG5PNFB1bEJCb1RfNEZDbGQ2VkVnR3dCdmRUYjFOMFViQ3ptOWtNQjNsa2pIekV3N2RqYlJvdldKZHNIRExjZWJPZzVlT2VYaGg1MUdycHF1bldHQWRUUzNMS3Z1OTRKU3AySS1xdHJpUE5OQmVHbjJfbTVFU1Y2OHNabHFpTVE0OGtUZVUtem9rTnNWcVluWV9feHExUmpOemsyeUJTdTFCM2htbl8tVkY3dF9zNVRZZm5QeWNpN0NGdEMtNmRrQXdFd1NqUEloSU9VQ1V6YWQyMWFnSlgzU29kV1VTYVZ0Skp5OFZBTWlVME5HSTR6cVU1RFV6MGNPQ29RU1l2NnRnS1ktU3FjQmpWVG0wQm8wZDJZZmY3ak9uZ1JSWVJSVUoxNU1NNGtGZnhPY0E?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs. Medvedev: horario y dónde ver por TV el partido de semifinales del ATP 500 de Viena - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-10-31",
@@ -5832,12 +5873,6 @@
        "fuente": "Punto de Break",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53U0ZnNlR2NTJDU1EtNnpNUTktUXd1YS11dzBOQ2VmYzh1X1hCRWtOQzhnbzJ3dFVhVDlCNXg0cFhqeHNXWUl5MFc5X2ZqSWdiVUdpbk9RV1NZZHk2cXY0UUNrSlhXMHFsNmVzNlpB?oc=5"
-      },
-      {
-       "titulo": "Alcaraz-Medvedev: horario y dónde ver hoy la semifinal de Viena por televisión - Sport Aragón",
-       "fuente": "Sport Aragón",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXQ1S0w1WXI4WVROd0V0d1JLV29ZdVZfY3FHTWo2TkRlNmNVUGxfX3JaWjVjaGNIUTd3UVJXcWgtOUdfbTNUeHNDbWpTVEQxZjliQkt5QnQxck9waUplNXExSzZKc3doaFVmRTJDSkE2YnNwTW1QU3ZiNWlCSlktUGVjZXF3WmxqNW84QkZ2SngyZDZsUDBvb2Q5VFRIRmRlQlNTcG83TGxBQzdPd1VhZ09TQjRHZw?oc=5"
       }
      ]
     }
@@ -5852,7 +5887,7 @@
    "inicio": "2026-10-31T15:30+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.667,
    "elo_general": 0.697,
    "elo_en_superficie": 0.637,
@@ -5940,7 +5975,7 @@
    "inicio": "2026-10-31T16:00+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.624,
    "elo_general": 0.621,
    "elo_en_superficie": 0.626,
@@ -6028,7 +6063,7 @@
    "inicio": "2026-11-01T03:00+00:00",
    "torneo": "WTA Pan Pacific Open",
    "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
+   "actualizado": "2026-10-31T10:10+00:00",
    "elo": 0.428,
    "elo_general": 0.426,
    "elo_en_superficie": 0.429,
@@ -6052,6 +6087,12 @@
      "cansancio": "2 partidos, 4 sets y 42 juegos en 3 días; el último el 2026-10-31 contra Kamilla Rakhimova, ganó 7-5 6-3",
      "noticias": [
       {
+       "titulo": "Shnaider, Fernandez win big points down the stretch to set up Tokyo Final showdown - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjU3TktUR0ROZ0ZLc2wxbW1zNmpGM1hOVWJpeDJBNjNrVnJKTnkwaFYwWU1JVHdPYzFQOHFGU05JVmxucnNKdUxhWXdsaEk4TGFzUWkydmNxOVRscFVuUmQyWHo4M1hiSGQ1dDMzcUNPNzF2RnpFejhoLThhRTlxZGRzN1RJcUs3ZWlwV09ibkVFbXNZbkItckg4S1ZrUTk2b1pCVFdxTng5NGNuT0VwQm9FQmd1N3Q1UUlFUA?oc=5"
+      },
+      {
        "titulo": "Leylah Fernández y Diana Shnaider se citan en la final de Tokio - Infobae",
        "fuente": "Infobae",
        "fecha": "2026-10-31",
@@ -6062,12 +6103,6 @@
        "fuente": "www.abc.com.py",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGxkdnVnM0FZYUlodTlEb2xXcUNDWl9haXE3WGpkMFZKV1hZNDdSQ1cweG94Unh5ZXl1RnpOdXQwRDFUc1hfZFVUUUJRSkxaOW9tX2FsR2dZel9BWFV0MVZ3TWJYaEFzU18zNGF2OVdwcldLQUZVT0lWeWl3UlV4bUlPbGZYSDZTUHFIM1JEbll3NjQzSEh3VnJaampjMXljV09ZV2NNMGU1ek5nWHhlT05VaktPT3YzMWlUZjBEN2JWMmxObGVZ?oc=5"
-      },
-      {
-       "titulo": "Leylah Fernández y Shnaider se citan en la final de Tokio - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFl2XzY1M3ZmMjduMzRSclVRUFZSRjAxYVJIQ2ZjS2tlM3IwSDVWS2liRFZ4TjRaNjRPbGhLTk1kOThvUlgyZXdweDlUNkRwU1czclRNeUFCaGdsZnlOdDlONDdOZTF2c000UURNZGZKeWNySUdISng5UXNKV2ptS0NMcFBwYlFMSW80?oc=5"
       }
      ]
     },
@@ -6086,22 +6121,22 @@
      "cansancio": "3 partidos, 8 sets y 84 juegos en 3 días; el último el 2026-10-31 contra Mia Pohankova, ganó 6-4 7-6",
      "noticias": [
       {
-       "titulo": "Leylah Fernández y Diana Shnaider se citan en la final de Tokio - Infobae",
-       "fuente": "Infobae",
+       "titulo": "Shnaider, Fernandez win big points down the stretch to set up Tokyo Final showdown - WTA Tennis",
+       "fuente": "WTA",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUt3TGc0MDEwX3VlNmdsYlkwV3VTWktMQXpscy1aTVZvQXRvdVFXemIweklxVnZ5X1ktaTcyVHRCcHRQbElOOHh2ZWFxdjFvbmR6STR3ZEVGMml2UzZ3b2tscW1RbWpZYU1QdkQ4SzFkWDZERFprbVlXVDI4OFF0WFlZX2hZcEUtMEdVRFBPRlk1QzZTZkxuV2FTd0REaG9xd0tVSFFUWlVJU0Y4Y3lrMmpBakEtZ9IB0AFBVV95cUxNMnhmdk4tN1JfblQ4andRUTVfYnhHZHBFOXF4Y2padmw5ckV1MnYyZHBMbGNQblhnOTk5RFFTeU1mc2hON3hYNUJRSDlwOEpBOGpENi10Mjc3dFJlMWZMRlFXWmNkRDZ0XzhWcmZpRFVtNEhrUDBKclFFWllRZzZLYmlES2VNWG1SMmhSaXVmYktHS0RuY0RqOTI1NGsyVE83Q0hiRkE3N0xDaHdkTEplTTU4VUgtMmZtdHphN25QRTJUN2txdlNKZ1VBeXdzQnJL?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjU3TktUR0ROZ0ZLc2wxbW1zNmpGM1hOVWJpeDJBNjNrVnJKTnkwaFYwWU1JVHdPYzFQOHFGU05JVmxucnNKdUxhWXdsaEk4TGFzUWkydmNxOVRscFVuUmQyWHo4M1hiSGQ1dDMzcUNPNzF2RnpFejhoLThhRTlxZGRzN1RJcUs3ZWlwV09ibkVFbXNZbkItckg4S1ZrUTk2b1pCVFdxTng5NGNuT0VwQm9FQmd1N3Q1UUlFUA?oc=5"
       },
       {
-       "titulo": "Leylah Fernández y Diana Shnaider se citan en la final de Tokio - www.abc.com.py",
-       "fuente": "www.abc.com.py",
+       "titulo": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters - WTA Tennis",
+       "fuente": "WTA",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGxkdnVnM0FZYUlodTlEb2xXcUNDWl9haXE3WGpkMFZKV1hZNDdSQ1cweG94Unh5ZXl1RnpOdXQwRDFUc1hfZFVUUUJRSkxaOW9tX2FsR2dZel9BWFV0MVZ3TWJYaEFzU18zNGF2OVdwcldLQUZVT0lWeWl3UlV4bUlPbGZYSDZTUHFIM1JEbll3NjQzSEh3VnJaampjMXljV09ZV2NNMGU1ek5nWHhlT05VaktPT3YzMWlUZjBEN2JWMmxObGVZ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRVaGpNYTRHZi15OU5ZNlZiTThWclhHeWFkLXdCaVBwakxnVjBfQ2NMWXFjYmtUY1NqQVBhdXlRLWtfUVYxNS1oWWUtX04xdnZJVHFrTzhmRmpiZTg3VUpSbHVaSFdjVWFkaDZpbjVCTjZJTEV3b0F6dTJYNG8zQVZqWTZia28xVnRGalc1dlVRaFpZbVR5MTR0ZzZZSkw4OW4zVVAwNDNJdw?oc=5"
       },
       {
-       "titulo": "Leylah Fernández y Shnaider se citan en la final de Tokio - Punto de Break",
-       "fuente": "Punto de Break",
+       "titulo": "Shnaider erases early break deficit, saves set point in second to reach Tokyo final - WTA Tennis",
+       "fuente": "WTA",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFl2XzY1M3ZmMjduMzRSclVRUFZSRjAxYVJIQ2ZjS2tlM3IwSDVWS2liRFZ4TjRaNjRPbGhLTk1kOThvUlgyZXdweDlUNkRwU1czclRNeUFCaGdsZnlOdDlONDdOZTF2c000UURNZGZKeWNySUdISng5UXNKV2ptS0NMcFBwYlFMSW80?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHlQUU9VamFua3dOS3o3cHM2ek16dDJCekpqUFlVRjdlX3lHYjFjU3pvOG03R2FXeTdUc25yZmh2ZVFVclpRTDJhdmFsaThOVDNOUVhacGZUM3hXVmRVajNjMmExVWc1cG4wZzlmN2RfQnBsSW1xZXE4S1hTVHNPVUNhZDFPX29GU3VqeVBId3pHZEZSbzVPY1k0bzVteW9sbHAydTRtT185VTVxLUpVSE9DN1U5TUlVWTJ1VXo1dTQ?oc=5"
       }
      ]
     }
