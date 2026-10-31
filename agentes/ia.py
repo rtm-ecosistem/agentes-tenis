@@ -131,6 +131,9 @@ def _post_con_reintentos(url: str, cuerpo: dict, cabeceras: dict, intentos: int 
         if r.status_code in (429, 500, 502, 503, 529) and not ultimo:
             time.sleep(espera * (intento + 1))
             continue
+        if 400 <= r.status_code < 500:
+            # El motivo que da el servicio (clave caducada, sin permiso...) ayuda a saber qué arreglar
+            raise requests.HTTPError(f"{r.status_code} {r.reason}: {r.text[:300]}", response=r)
         r.raise_for_status()
         return r.json()
     raise RuntimeError("La IA no respondió")

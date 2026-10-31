@@ -142,13 +142,20 @@ def mercados_por_casa(eventos: list[dict]) -> dict[str, dict[str, int]]:
 
 def elegir_casa(eventos: list[dict], actual: str | None = None) -> str:
     """La casa española que cubre más partidos de tenis; si están igualadas, William Hill. Una vez elegida se
-    mantiene (para comparar a todos con la misma), salvo que se fije otra a mano con la variable CASA."""
+    mantiene (para comparar a todos con la misma) salvo que otra cubra claramente más partidos, o que se fije otra
+    a mano con la variable CASA."""
     if config.CASA_FORZADA in config.CASAS_ESPANA:
         return config.CASA_FORZADA
-    if actual:
-        return actual
     puntos = cobertura(eventos)
     mejor = max(puntos.values()) if puntos else 0
+    if actual:
+        # Se mantiene, salvo que otra cubra claramente más partidos (el doble y al menos 3 más)
+        suyos, otra = puntos.get(actual, 0) // 1000, mejor // 1000
+        if otra < 2 * suyos or otra - suyos < 3:
+            return actual
+        nueva = max(puntos, key=lambda c: puntos[c])
+        print(f"Cambio de casa: {actual} cubre {suyos} partidos y {nueva} {otra}.")
+        return nueva
     if mejor == 0:
         return "williamhill"
     empatadas = [c for c, p in puntos.items() if p // 1000 == mejor // 1000]
