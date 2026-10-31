@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T23:10+00:00",
+    "hora": "2026-10-31T23:14+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T23:10+00:00",
+    "hora": "2026-10-31T23:14+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T23:10+00:00",
+    "hora": "2026-10-31T23:14+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T23:10+00:00",
+    "hora": "2026-10-31T23:14+00:00",
     "rent": 0.0
    }
   }
@@ -2645,6 +2645,7 @@
   "f27f5968b4e2",
   "145f8fe45b34",
   "6c25ebe5e50b",
+  "3a2e842eca8e",
   "ce95c03092ba",
   "cb873c8b2921",
   "9248580c1351",
@@ -2686,15 +2687,16 @@
   "2506b21507a5",
   "370b4cd08ddf",
   "0c19f6526845",
+  "999f776be5ad",
   "92ee25f2ac65",
   "daa107bff888",
+  "98d8e7b3477b",
   "af464d333dd4",
   "fc2b6b895408",
   "120e70140ad1",
   "9403b3b1ec99",
   "13dd2f31df10",
   "99aea68adc22",
-  "999f776be5ad",
   "5fd8637907ce",
   "7d1887b7aad6",
   "b727906d3dfa",
@@ -2809,6 +2811,8 @@
   "ba5473c8ffcd",
   "a948c26b85b3",
   "e6c1a6077f6d",
+  "ced23e7d8ef0",
+  "de62380404dd",
   "c15a792b06f9",
   "000170762886",
   "464fed4c1a7b",
@@ -2833,6 +2837,7 @@
   "dd6099dd7f58",
   "6959073f112b",
   "65e82cb1359f",
+  "56a012e25c7d",
   "f955a1232633",
   "5599b62189c3",
   "c69b950fa7e0",
@@ -3404,12 +3409,7 @@
   "baf564d7d681",
   "29ba3f4e0f96",
   "70593c94367e",
-  "2cedabb3b797",
-  "5ff66395453d",
-  "265742252385",
-  "4d180abf41d3",
-  "c3ccc8dee994",
-  "8c7c6c98e5a5"
+  "2cedabb3b797"
  ],
  "sala_aciertos": {
   "favorito": [
