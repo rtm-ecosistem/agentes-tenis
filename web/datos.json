@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T02:10+00:00",
+ "actualizado": "2026-10-31T03:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.391,
+      "pct": 0.393,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.315,
+      "pct": 0.312,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.294,
+      "pct": 0.295,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
@@ -991,42 +991,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-10-30T08:00+00:00",
-  "partidos": [
-   {
-    "id": "c1a54362fbf98df45c2174b84374dd0c",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-10-31T03:00+00:00",
-    "jugadores": [
-     "Leylah Fernandez",
-     "Kamilla Rakhimova"
-    ],
-    "opciones": [
-     {
-      "id": "c1a54362fbf98df45c2174b84374dd0c|h2h|Kamilla Rakhimova|",
-      "mercado": "h2h",
-      "nombre": "Kamilla Rakhimova",
-      "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.46
-     },
-     {
-      "id": "c1a54362fbf98df45c2174b84374dd0c|h2h|Leylah Fernandez|",
-      "mercado": "h2h",
-      "nombre": "Leylah Fernandez",
-      "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.35
-     }
-    ],
-    "pinnacle_h2h": {
-     "Kamilla Rakhimova": 3.46,
-     "Leylah Fernandez": 1.35
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {

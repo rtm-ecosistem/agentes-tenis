@@ -236600,6 +236600,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Hayu Kinoshita",
+    "Tatiana Prozorova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
