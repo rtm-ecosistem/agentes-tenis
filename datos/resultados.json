@@ -237258,6 +237258,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-10-31",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Yannick Hanfmann",
+    "Felix Balshaw"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
