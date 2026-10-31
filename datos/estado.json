@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.307,
+     "envidia": 0.303,
      "sorpresa": 0.4
     },
     "motivos": {
@@ -167,7 +167,7 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
     },
-    "hora": "2026-10-31T05:22+00:00",
+    "hora": "2026-10-31T06:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,9 +325,9 @@
      "impaciencia": 0.35
     },
     "motivos": {
-     "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
+     "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T05:22+00:00",
+    "hora": "2026-10-31T06:10+00:00",
     "rent": 0.0
    }
   },
@@ -472,9 +472,9 @@
      "impaciencia": 0.21
     },
     "motivos": {
-     "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
+     "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T05:22+00:00",
+    "hora": "2026-10-31T06:10+00:00",
     "rent": 0.0
    }
   },
@@ -632,9 +632,9 @@
      "impaciencia": 0.35
     },
     "motivos": {
-     "impaciencia": "Lleva 2 días sin ver ninguna apuesta clara."
+     "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-10-31T05:22+00:00",
+    "hora": "2026-10-31T06:10+00:00",
     "rent": 0.0
    }
   }

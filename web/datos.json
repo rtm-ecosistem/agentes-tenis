@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T05:22+00:00",
+ "actualizado": "2026-10-31T06:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,21 +338,21 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.397,
+      "pct": 0.399,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.305,
+      "pct": 0.302,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.298,
+      "pct": 0.299,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      }
     ],
@@ -560,7 +560,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
@@ -761,7 +761,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 0.6,
-      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
@@ -982,7 +982,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "Lleva 2 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
