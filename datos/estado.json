@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.197,
+     "envidia": 0.194,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T12:10+00:00",
+    "hora": "2026-11-01T13:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T12:10+00:00",
+    "hora": "2026-11-01T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T12:10+00:00",
+    "hora": "2026-11-01T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T12:10+00:00",
+    "hora": "2026-11-01T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -2187,16 +2187,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T08:00+00:00",
-   "texto": "🎾 Cartelera: 9 partidos en las próximas 24 horas (casa: William Hill).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T08:10+00:00",
    "texto": "📰 Noticias nuevas de Adrian Mannarino – Daniil Medvedev, Holger Rune – Valentin Vacherot, Tommy Paul – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
@@ -2585,6 +2575,16 @@
    "hora": "2026-11-01T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Nuno Borges – Alex Molcan: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2610,7 +2610,9 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-11-01-14",
  "noticias_vistas": [
+  "6a5f8284a94b",
   "3a2d0a629de4",
+  "01c9b2532a06",
   "c88005e4780a",
   "cce7547734f4",
   "3f5aea1e7af9",
@@ -2622,10 +2624,10 @@
   "ab03d7945331",
   "9750d60e979e",
   "e3557c71e04b",
-  "aef2ee14239f",
   "d3bcd032231b",
   "afaad213ca83",
   "060e9bd29d08",
+  "b6ffa26ea1d2",
   "ab3daef86d40",
   "aa7e525fb959",
   "853a64264c31",
@@ -2634,8 +2636,10 @@
   "981d426995d9",
   "4698e6ecc5c9",
   "9923054f94b7",
+  "478cfc408b36",
   "11cbb8f4e86b",
   "cc585ece8f00",
+  "dfc1d5b67f4c",
   "b9573c6a20c2",
   "8c2c37250a11",
   "0d1ffb6ba7d8",
@@ -2651,7 +2655,6 @@
   "488ca5156299",
   "ae73f1f7e9ab",
   "dbf2747f537d",
-  "7d64ddda314d",
   "352b007acbc3",
   "1d4c3eb82d7c",
   "10b4724a82a0",
@@ -2665,6 +2668,7 @@
   "c85b24bb68a9",
   "145f8fe45b34",
   "3a2e842eca8e",
+  "6ea3b78f2dcb",
   "fcd353ba34c9",
   "75439f700d72",
   "4833d5b4abef",
@@ -2672,9 +2676,9 @@
   "d6547ade4e8f",
   "3df2a7240ed5",
   "b513118fdde7",
-  "c641e383119e",
   "f4280d62f6c2",
   "72983f245c1c",
+  "ed85452ed0bf",
   "4d7cf6032a53",
   "e46b94429731",
   "4948f6ab220b",
@@ -2686,7 +2690,6 @@
   "194c76cca05b",
   "2dc60422bb72",
   "bad9b6194331",
-  "8802a6fd81cf",
   "800fe4df8726",
   "0a5e8263ca7b",
   "2aa767a370b0",
@@ -2728,6 +2731,7 @@
   "be7ecf260b99",
   "8661ceadbae6",
   "43505a4ec96c",
+  "29bdd1aeec51",
   "302dd7961eca",
   "eb5d57d03489",
   "3010a6398e89",
@@ -2744,6 +2748,7 @@
   "3bafe41c1c43",
   "473feaf85815",
   "8598ba93a9d2",
+  "c641e383119e",
   "67f212efa36e",
   "0ebb0b60a131",
   "99aea68adc22",
@@ -2780,6 +2785,7 @@
   "55ed9d9ab971",
   "1774c906e910",
   "c6197193958a",
+  "f187cd7bc412",
   "0c05030478b9",
   "264581bcd2eb",
   "7d91b613ecea",
@@ -2821,10 +2827,10 @@
   "98d8e7b3477b",
   "fc2b6b895408",
   "b35e942f038e",
+  "559c2054e564",
   "779bcf2a9a44",
   "120e70140ad1",
   "9403b3b1ec99",
-  "999f776be5ad",
   "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
@@ -2836,7 +2842,7 @@
   "f099ac0a6404",
   "14370880f3d5",
   "ed3dafdd9537",
-  "559c2054e564",
+  "999f776be5ad",
   "5136292a0ff5",
   "7dafc0048328",
   "e5ee2b38f697",
@@ -2886,7 +2892,6 @@
   "74cd967f3214",
   "909673432f5e",
   "4d8b04bb0aa3",
-  "dfc1d5b67f4c",
   "dadaafbdb221",
   "0f8cc64f2377",
   "deb257f23494",
@@ -2907,6 +2912,8 @@
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
+  "aef2ee14239f",
+  "7d64ddda314d",
   "16827821fb1e",
   "ce95c03092ba",
   "cb873c8b2921",
@@ -2917,6 +2924,7 @@
   "d07e512f5a99",
   "b3c81fcebf40",
   "928793ebc0c6",
+  "8802a6fd81cf",
   "e677fabcca71",
   "11d59c0fe8f2",
   "16e0d9d40407",
@@ -3314,10 +3322,10 @@
   "56231fa6cb20",
   "5b5bcdd3286a",
   "81fcfaeba665",
-  "ac74e62a8517",
   "8f1fa98ce011",
   "741d72d4efed",
   "ab2464babb5c",
+  "ac74e62a8517",
   "30da657173a6",
   "9e9c3b50162f",
   "eb367445c08d",
@@ -3401,15 +3409,7 @@
   "14935664a779",
   "ed48f3b8f681",
   "77aec716c913",
-  "b58260a61c12",
-  "8fa7fd1960d1",
-  "5ac520d114e0",
-  "c57dbd6c1a08",
-  "723e624ce4c6",
-  "b7ffa4bd62f4",
-  "0aa1958f6d49",
-  "825bc1271f7c",
-  "897a2cd687da"
+  "b58260a61c12"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6865,7 +6865,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T13:00+00:00",
+   "actualizado": "2026-11-01T13:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -6953,7 +6953,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T13:00+00:00",
+   "actualizado": "2026-11-01T13:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
