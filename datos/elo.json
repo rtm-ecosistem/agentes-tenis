@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T06:10+00:00",
+ "actualizado": "2026-11-01T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14234,19 +14234,18 @@
    "nombre": "Momoko Kobori",
    "circuito": "WTA",
    "elo": {
-    "all": 1417.5,
-    "hard": 1480.9,
+    "all": 1397.3,
+    "hard": 1455.1,
     "clay": 1384.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 12,
-    "hard": 10,
+    "all": 13,
+    "hard": 11,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2025-10-27 P hard vs Ajla Tomljanovic",
     "2026-04-05 P clay vs Caroline Werner",
     "2026-04-11 P clay vs Veronika Podrez",
     "2026-06-07 G hard vs Katy Dunne",
@@ -14255,7 +14254,8 @@
     "2026-06-15 P hard vs Anastasia Kulikova",
     "2026-07-08 P hard vs Elizabeth Mandlik",
     "2026-10-17 P hard vs Sinja Kraus",
-    "2026-10-31 G hard vs Rinko Matsuda"
+    "2026-10-31 G hard vs Rinko Matsuda",
+    "2026-11-01 P hard vs Kyoka Okamura"
    ]
   },
   "yamazaki|i": {
@@ -14428,19 +14428,18 @@
    "nombre": "Kyoka Okamura",
    "circuito": "WTA",
    "elo": {
-    "all": 1607.9,
-    "hard": 1624.6,
+    "all": 1624.2,
+    "hard": 1644.6,
     "clay": 1422.2,
     "grass": 1500.0
    },
    "n": {
-    "all": 24,
-    "hard": 23,
+    "all": 25,
+    "hard": 24,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-04 G hard vs Priska Nugroho",
     "2026-10-05 G hard vs Wei Sijia",
     "2026-10-06 G hard vs Darja Vidmanova",
     "2026-10-07 G hard vs Tatiana Prozorova",
@@ -14449,7 +14448,8 @@
     "2026-10-11 P hard vs Rebecca Sramkova",
     "2026-10-17 P hard vs Maya Joint",
     "2026-10-24 P hard vs Sayaka Ishii",
-    "2026-10-31 G hard vs Diya Ramesh Ramesh"
+    "2026-10-31 G hard vs Diya Ramesh Ramesh",
+    "2026-11-01 G hard vs Momoko Kobori"
    ]
   },
   "meiqi|g": {
@@ -16929,19 +16929,18 @@
    "nombre": "Lilli Tagger",
    "circuito": "WTA",
    "elo": {
-    "all": 1763.1,
-    "hard": 1730.6,
+    "all": 1741.0,
+    "hard": 1710.5,
     "clay": 1720.9,
     "grass": 1350.7
    },
    "n": {
-    "all": 57,
-    "hard": 46,
+    "all": 58,
+    "hard": 47,
     "clay": 9,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-03 P hard vs Amanda Anisimova",
     "2026-09-30 P hard vs Elena-Gabriela Ruse",
     "2026-10-13 P hard vs Nikola Bartunkova",
     "2026-10-19 G hard vs Liudmila Samsonova",
@@ -16950,7 +16949,8 @@
     "2026-10-27 G hard vs Venus Williams",
     "2026-10-29 G hard vs Magda Linette",
     "2026-10-30 G hard vs Shi Han",
-    "2026-10-31 G hard vs Kaitlin Quevedo"
+    "2026-10-31 G hard vs Kaitlin Quevedo",
+    "2026-11-01 P hard vs Harriet Dart"
    ]
   },
   "zhu|c": {
@@ -24495,19 +24495,18 @@
    "nombre": "Harriet Dart",
    "circuito": "ATP",
    "elo": {
-    "all": 1790.2,
-    "hard": 1809.9,
+    "all": 1816.3,
+    "hard": 1833.3,
     "clay": 1482.2,
     "grass": 1343.4
    },
    "n": {
-    "all": 36,
-    "hard": 30,
+    "all": 37,
+    "hard": 31,
     "clay": 2,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-03 P hard vs Iva Jovic",
     "2026-10-17 G hard vs Rina Saigo",
     "2026-10-18 G hard vs Aoi Ito",
     "2026-10-19 P hard vs Talia Gibson",
@@ -24516,7 +24515,8 @@
     "2026-10-26 G hard vs Tatiana Prozorova",
     "2026-10-28 G hard vs Janice Tjen",
     "2026-10-30 G hard vs Paula Badosa",
-    "2026-10-31 G hard vs Xinran Sun"
+    "2026-10-31 G hard vs Xinran Sun",
+    "2026-11-01 G hard vs Lilli Tagger"
    ]
   },
   "zheng|m": {
@@ -91186,7 +91186,15 @@
   "andreescu|b~monnet|c": [
    1,
    0
+  ],
+  "dart|h~tagger|l": [
+   1,
+   0
+  ],
+  "kobori|m~okamura|k": [
+   0,
+   1
   ]
  },
- "propios": 10493
+ "propios": 10495
 }

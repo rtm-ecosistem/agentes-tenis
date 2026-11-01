@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.203,
+     "envidia": 0.2,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T10:10+00:00",
+    "hora": "2026-11-01T11:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T10:10+00:00",
+    "hora": "2026-11-01T11:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T10:10+00:00",
+    "hora": "2026-11-01T11:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T10:10+00:00",
+    "hora": "2026-11-01T11:10+00:00",
     "rent": 0.0
    }
   }
@@ -2187,16 +2187,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-29T19:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T21:10+00:00",
-   "texto": "🏁 1 apuestas liquidadas.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-29T21:10+00:00",
    "texto": "📰 Noticias nuevas de Kamilla Rakhimova – Maya Joint: la sala actualiza su informe.",
    "tipo": "info"
@@ -2585,6 +2575,16 @@
    "hora": "2026-11-01T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T11:10+00:00",
+   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego, Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T11:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2610,17 +2610,26 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "b3d57ad551f1",
+  "f27f5968b4e2",
+  "5985835f9036",
+  "ab03d7945331",
+  "9750d60e979e",
   "e3557c71e04b",
   "aef2ee14239f",
   "d3bcd032231b",
   "afaad213ca83",
   "559c2054e564",
   "060e9bd29d08",
+  "ab3daef86d40",
   "853a64264c31",
   "66383fa40448",
   "b612922c63cf",
   "981d426995d9",
   "4698e6ecc5c9",
+  "9923054f94b7",
+  "11cbb8f4e86b",
+  "cc585ece8f00",
   "b9573c6a20c2",
   "8c2c37250a11",
   "0d1ffb6ba7d8",
@@ -2632,16 +2641,14 @@
   "dbf2747f537d",
   "7d64ddda314d",
   "56745ca3858d",
-  "10b4724a82a0",
   "0590d5ffa2e2",
+  "10b4724a82a0",
   "92ee25f2ac65",
   "aec47ba57b11",
   "94d10c4a8d53",
   "44ce89835f31",
   "3914feeb1293",
   "c85b24bb68a9",
-  "b3d57ad551f1",
-  "f27f5968b4e2",
   "145f8fe45b34",
   "3a2e842eca8e",
   "16827821fb1e",
@@ -2652,9 +2659,10 @@
   "d6547ade4e8f",
   "3df2a7240ed5",
   "b513118fdde7",
+  "c641e383119e",
+  "f4280d62f6c2",
   "4d7cf6032a53",
   "e46b94429731",
-  "9750d60e979e",
   "4948f6ab220b",
   "d26d8b8b35b2",
   "f62829bbfa07",
@@ -2664,12 +2672,15 @@
   "194c76cca05b",
   "2dc60422bb72",
   "bad9b6194331",
+  "8802a6fd81cf",
   "800fe4df8726",
   "0a5e8263ca7b",
   "2aa767a370b0",
   "90381dc10358",
   "5aaefed6f880",
   "477d52a6319d",
+  "dc897b979e24",
+  "bcd53e36c732",
   "2b6ba705cb33",
   "ce95c03092ba",
   "cb873c8b2921",
@@ -2682,6 +2693,8 @@
   "884a217c8428",
   "667a85db818a",
   "2862872d42bc",
+  "999f776be5ad",
+  "9aec7b940e53",
   "cf9167cb2de6",
   "c424ecd55b5a",
   "7feeb5ef3df0",
@@ -2717,7 +2730,6 @@
   "3bafe41c1c43",
   "473feaf85815",
   "8598ba93a9d2",
-  "c641e383119e",
   "67f212efa36e",
   "0ebb0b60a131",
   "07f06bd1e741",
@@ -2732,6 +2744,7 @@
   "6c25ebe5e50b",
   "c695649c4a07",
   "9248580c1351",
+  "4ae376095103",
   "b87818347baa",
   "727b44b4bd5e",
   "86a22a0f4705",
@@ -2745,6 +2758,7 @@
   "fd3a215fab65",
   "23198f3ab07b",
   "9ee19ab0855e",
+  "819f8dd5d4c5",
   "33fbfe64ecb1",
   "67b34a9eb0e0",
   "71c116668fcb",
@@ -2763,7 +2777,6 @@
   "21e73aa701d7",
   "6e410f2a9dc4",
   "72ec253abbd1",
-  "dc897b979e24",
   "f9a28cd8a3f1",
   "21e02784f93e",
   "0e71cde628f3",
@@ -2789,15 +2802,14 @@
   "9aac0b0fc8c6",
   "af464d333dd4",
   "daa107bff888",
+  "9fdf08550e39",
   "98d8e7b3477b",
   "fc2b6b895408",
   "b35e942f038e",
   "779bcf2a9a44",
   "120e70140ad1",
   "9403b3b1ec99",
-  "999f776be5ad",
   "5fd8637907ce",
-  "9fdf08550e39",
   "b727906d3dfa",
   "3828a352063d",
   "137f7249dc7d",
@@ -2859,7 +2871,6 @@
   "909673432f5e",
   "4d8b04bb0aa3",
   "dfc1d5b67f4c",
-  "819f8dd5d4c5",
   "dadaafbdb221",
   "0f8cc64f2377",
   "deb257f23494",
@@ -2887,7 +2898,6 @@
   "d07e512f5a99",
   "b3c81fcebf40",
   "928793ebc0c6",
-  "8802a6fd81cf",
   "e677fabcca71",
   "11d59c0fe8f2",
   "16e0d9d40407",
@@ -2955,6 +2965,7 @@
   "b41d1ecbc44b",
   "0d686b95872b",
   "d6fa0d3af988",
+  "3076c8b08a93",
   "1d5d8b1e6ace",
   "ea5be9f0fad3",
   "ea164afa67ae",
@@ -3002,6 +3013,7 @@
   "281df040e85e",
   "8374be0a9039",
   "10f7d3627a01",
+  "0b4287b71f47",
   "64737ee5dd30",
   "d6b4fe28b75d",
   "5b5cce06e5f6",
@@ -3193,7 +3205,6 @@
   "f422fc13b554",
   "59723487fa05",
   "26e76e1cc12d",
-  "3076c8b08a93",
   "97e21efe9a7d",
   "7ca1c0f280c1",
   "c84e404e5ece",
@@ -3398,18 +3409,7 @@
   "66539f6d4816",
   "61e658ee81a3",
   "bb7cd163b1ca",
-  "500d31bc2cca",
-  "abc0eb0beccf",
-  "2d67d7f4c073",
-  "d1da2b1eaf05",
-  "4bd83ec899c5",
-  "e2f692315450",
-  "4e693fdac740",
-  "8bf929713813",
-  "9dff321ea9cd",
-  "ec9031837c07",
-  "478b3b57f3a3",
-  "e06cc4df54c6"
+  "500d31bc2cca"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6689,7 +6689,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T10:10+00:00",
+   "actualizado": "2026-11-01T11:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -6719,16 +6719,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
       },
       {
+       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
+      },
+      {
        "titulo": "Michael Blando/Kyle Overmyer VS Daniel Milavsky/Braden Shick | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEdFbDlqZEpWUUdTam01YVUtQTNoelVTM0tNSzhrV0lmUldzQ240ZjU3cWh2NGJoaVJxSkJSZXppUGxWNWo4SzdpOHNEQjVHQU9Ha3NTRlBsUFEwYlI3dTgyeTM1LWQyUFVScU9DOVA3NzJnMXlSTTVSYWpmbGhDemJMRXRxYUNUd2Y0OFQ5QmFiRHBCRlNGNm5Md1h1NEVTSGVKTTVnWQ?oc=5"
-      },
-      {
-       "titulo": "Dani Vallejo vence otra vez a Grigor Dimitrov - D10",
-       "fuente": "D10",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
       }
      ]
     },
@@ -6753,16 +6753,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
       },
       {
+       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
+      },
+      {
        "titulo": "Dani Vallejo vence otra vez a Grigor Dimitrov - D10",
        "fuente": "D10",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
-      },
-      {
-       "titulo": "Munar no podrá acceder al cuadro final del Masters 1000 de París - Ultima Hora",
-       "fuente": "Ultima Hora",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeNIBvAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeA?oc=5"
       }
      ]
     }
@@ -6777,7 +6777,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T10:10+00:00",
+   "actualizado": "2026-11-01T11:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -6801,22 +6801,22 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-10-31 contra Alexander Zverev, ganó 6-4 1-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Resumen del Alex de Minaur - Carlos Alcaraz - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1FUM1VjSzN2MTAySXMzRHhibWJjN0owbkZ4a2hOY3YxWWNOOGg1NkQyRFd5X0tSU2h5c3NqU0V1Y29tZENFYllQY193NmZfdVhHb0hrMWRtem9SQVRmQkFtWU9sVGZER1FqSEVpYkVhY3ZlNHZSNHNSanNaVTFEOGYwa0tqd0VQWXF5dklEWEhza2YtZHF3WWRXb3M0SkVnRTV3N3Nn?oc=5"
+      },
+      {
+       "titulo": "¿A qué hora es la final de Viena entre Alcaraz y De Miñaur? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
+      },
+      {
        "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
        "fuente": "Pierce Manufacturing",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
-      },
-      {
-       "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
-       "fuente": "Pierce Manufacturing",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZkh0cTByMFFmWWgzRDZFZXh6TVl3OVE0dWx1MFBZc3pyXzRkQ0xqdGI4bjEzWm9mcXB2S0JYSVJFUVkzaTdwQ2xNTGtWaHlKemh1YkF1MFk4SVlBTVRZdkY3TzBxQ0RRZWdmTXhJWklBTEVOb2RNNjhkSmFnUWRKWWgzR0l3WjB5WkNhR3VDUnVYdU1Gc2hwRXhITDhsN1JlZGhSN2dsM0JVZmpUNkI4VTIybGhRdUN1bkdmRVc4Tk85Tzg2d0REYy1HQzJnaGY0bXBKSUF4ZlJWUDloU2hoX0JNVUowM3lpUGVwTFl3QnQ0MEZ3eDhZcmVGNjM5TnhNaUdmY0lZS2E0YUJNOWJKS08zTFZjYk5MN3JXcjJVd05RRW15YVdvcVZYbHptU1RueS1FSmtKT1IxdTZncERLTDN0X0x5aXpXa3E1SmRQVzNmbG0yY0s4dWgzQ0xYYlJCNGMybV9hRURiWHZDSU1iMmMxNi0tUVJyclZ4eUkxWHQ5bDdZX3hOR0VWZ3NZdjJjY3FpYnpB?oc=5"
-      },
-      {
-       "titulo": "Alcaraz-De Minaur: a qué hora es la final de Viena y dónde verla en televisión - Sport Aragón",
-       "fuente": "Sport Aragón",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
       }
      ]
     },
@@ -6835,22 +6835,22 @@
      "cansancio": "3 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-10-31 contra Daniil Medvedev, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Resumen del Alex de Minaur - Carlos Alcaraz - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1FUM1VjSzN2MTAySXMzRHhibWJjN0owbkZ4a2hOY3YxWWNOOGg1NkQyRFd5X0tSU2h5c3NqU0V1Y29tZENFYllQY193NmZfdVhHb0hrMWRtem9SQVRmQkFtWU9sVGZER1FqSEVpYkVhY3ZlNHZSNHNSanNaVTFEOGYwa0tqd0VQWXF5dklEWEhza2YtZHF3WWRXb3M0SkVnRTV3N3Nn?oc=5"
+      },
+      {
+       "titulo": "¿A qué hora es la final de Viena entre Alcaraz y De Miñaur? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
+      },
+      {
        "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
        "fuente": "Pierce Manufacturing",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
-      },
-      {
-       "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
-       "fuente": "Pierce Manufacturing",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZkh0cTByMFFmWWgzRDZFZXh6TVl3OVE0dWx1MFBZc3pyXzRkQ0xqdGI4bjEzWm9mcXB2S0JYSVJFUVkzaTdwQ2xNTGtWaHlKemh1YkF1MFk4SVlBTVRZdkY3TzBxQ0RRZWdmTXhJWklBTEVOb2RNNjhkSmFnUWRKWWgzR0l3WjB5WkNhR3VDUnVYdU1Gc2hwRXhITDhsN1JlZGhSN2dsM0JVZmpUNkI4VTIybGhRdUN1bkdmRVc4Tk85Tzg2d0REYy1HQzJnaGY0bXBKSUF4ZlJWUDloU2hoX0JNVUowM3lpUGVwTFl3QnQ0MEZ3eDhZcmVGNjM5TnhNaUdmY0lZS2E0YUJNOWJKS08zTFZjYk5MN3JXcjJVd05RRW15YVdvcVZYbHptU1RueS1FSmtKT1IxdTZncERLTDN0X0x5aXpXa3E1SmRQVzNmbG0yY0s4dWgzQ0xYYlJCNGMybV9hRURiWHZDSU1iMmMxNi0tUVJyclZ4eUkxWHQ5bDdZX3hOR0VWZ3NZdjJjY3FpYnpB?oc=5"
-      },
-      {
-       "titulo": "Alcaraz-De Minaur: a qué hora es la final de Viena y dónde verla en televisión - Sport Aragón",
-       "fuente": "Sport Aragón",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
       }
      ]
     }
@@ -6865,7 +6865,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T10:10+00:00",
+   "actualizado": "2026-11-01T11:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -6923,12 +6923,6 @@
      "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-31 contra Daniel Altmaier, ganó 6-4 7-6",
      "noticias": [
       {
-       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
-      },
-      {
        "titulo": "Nuno Borges vs Alex Molcan 01/11/2026, Cuotas - Flashscore.es",
        "fuente": "Flashscore.es",
        "fecha": "2026-11-01",
@@ -6939,6 +6933,12 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Benjamin Bonzi vs Yannick Hanfmann - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEFuUEdubThKZGoyNDVvV09kdmR0X0NaT0RXWnQzbF9CcjVPb2dKOFMtM0dHTE5iVzVjdnFaWlp2QVBYRXpjNTkxTmdjX3E1dzhMcTBIMGNtdnJJLWlONjFoWklNRDMzc2tiUy1fZXNBWGcwSWJDaTdfdzIwTkVFeEZId252c0pjTXpuT0pucVVpQQ?oc=5"
       }
      ]
     }
@@ -6953,7 +6953,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T10:10+00:00",
+   "actualizado": "2026-11-01T11:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,

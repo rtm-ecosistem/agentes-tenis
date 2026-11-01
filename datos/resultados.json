@@ -237739,6 +237739,56 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Guangzhou Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Harriet Dart",
+    "Lilli Tagger"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Momoko Kobori",
+    "Kyoka Okamura"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
