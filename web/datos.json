@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T11:10+00:00",
+ "actualizado": "2026-11-01T11:16+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -2005,6 +2005,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-01T11:15+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T11:15+00:00",
+   "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-01T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2141,16 +2151,6 @@
   },
   {
    "hora": "2026-10-31T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Sebastian Baez – Damir Dzumhur, Daniil Medvedev – Carlos Alcaraz, Alexander Zverev – Alex de Minaur: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T11:15+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
   }
@@ -5481,7 +5481,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:10+00:00",
+   "actualizado": "2026-11-01T11:15+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -5569,7 +5569,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:10+00:00",
+   "actualizado": "2026-11-01T11:15+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -5593,6 +5593,12 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-10-31 contra Alexander Zverev, ganó 6-4 1-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "[DIRECTO]TV!] Carlos Alcaraz - Álex de Miñaur por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMijANBVV95cUxQSlVuY2ptSWxTdGFVU2RNNGlQQXFKMWpycWZPZExQWEZiOHYzTmUxMFFVZTZGbVlTOV9kaXdYU0lONUF3ampuZGZBa2dlMTZHMzRKQ2xKYWtJb1VUTFhRN3BoUGk3dk45QU04cU5oaHBXTWxUbEFTTjVmUUZmLTcxMDFwc3JDTU9NaFFlendKRk9LVjdhQmlOTVc1SW5IME9paDZpZUFZVzc5THV0TlM5dGtiUjU2NEd0WTk1bGxYa0MxMkZVNmhpWklsamd6bnVfVGV1ZTItMjd2R1pWaTVXZmtVZGVCSUwtMXc3cGNUaDlhUWJyaFF3c2pVaF9VY01rNmpXbnE3ODNFM1Vma1FiMW5pYlhySkZWSjRQSllNMkt6dWxXZV91TndzWVpxNGRnMjFrSVFneTFkM0hSNXJ5WGVxWlFKeVhRbmlZZWxnczdKMXdhNlJVNzUzMmZnUDRFZzE0b0N3ZHJIcElBQThDamtaTDhha3B6Ml9RSGJsN0hWekVXZjMxZ0dQa2s?oc=5"
+      },
+      {
        "titulo": "Resumen del Alex de Minaur - Carlos Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
@@ -5603,12 +5609,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
-      },
-      {
-       "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
-       "fuente": "Pierce Manufacturing",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
       }
      ]
     },
@@ -5627,6 +5627,12 @@
      "cansancio": "3 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-10-31 contra Daniil Medvedev, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "[DIRECTO]TV!] Carlos Alcaraz - Álex de Miñaur por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMijANBVV95cUxQSlVuY2ptSWxTdGFVU2RNNGlQQXFKMWpycWZPZExQWEZiOHYzTmUxMFFVZTZGbVlTOV9kaXdYU0lONUF3ampuZGZBa2dlMTZHMzRKQ2xKYWtJb1VUTFhRN3BoUGk3dk45QU04cU5oaHBXTWxUbEFTTjVmUUZmLTcxMDFwc3JDTU9NaFFlendKRk9LVjdhQmlOTVc1SW5IME9paDZpZUFZVzc5THV0TlM5dGtiUjU2NEd0WTk1bGxYa0MxMkZVNmhpWklsamd6bnVfVGV1ZTItMjd2R1pWaTVXZmtVZGVCSUwtMXc3cGNUaDlhUWJyaFF3c2pVaF9VY01rNmpXbnE3ODNFM1Vma1FiMW5pYlhySkZWSjRQSllNMkt6dWxXZV91TndzWVpxNGRnMjFrSVFneTFkM0hSNXJ5WGVxWlFKeVhRbmlZZWxnczdKMXdhNlJVNzUzMmZnUDRFZzE0b0N3ZHJIcElBQThDamtaTDhha3B6Ml9RSGJsN0hWekVXZjMxZ0dQa2s?oc=5"
+      },
+      {
        "titulo": "Resumen del Alex de Minaur - Carlos Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
@@ -5637,12 +5643,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
-      },
-      {
-       "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
-       "fuente": "Pierce Manufacturing",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
       }
      ]
     }
@@ -5657,7 +5657,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:10+00:00",
+   "actualizado": "2026-11-01T11:15+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -5687,16 +5687,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnk0Yl80WDVTQWFvYnlIQmRiNUl5bHRfZVVhMjFxUmFCbWVKWWxJdkpESUpZX3Jwb21iR25CbnJKRnozWkVlazFGaHgyUURQbG81YXBPTWFzNnFWaWV2Z2tiVDYxSUFfWk81aTBzUW12cjhZZHFQSDQzNENZeTJ2OWZYWkV3dDFBb0h6aFo1SE1SdnM?oc=5"
       },
       {
+       "titulo": "Pronóstico Nuno Borges vs Alex Molcan - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkgyM0s0YVB1OFVyTzFueE5Wbmg4Z0RQU3Z1ZVRnN2p0ZFNxYjd6aWFLaXRFZ1VJX2R4eDRUNDQxa0kxOU15UHF4bHNKVHB6c1BaelV4WFJDTklOVUx0a2ZXZnBmTzVtWXNXQzVsNzRPdWpNSGF3VC1aNVREbDhyMlUzNA?oc=5"
+      },
+      {
        "titulo": "Nuno Borges - Alex Molcan en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
-      },
-      {
-       "titulo": "Nuno Borges vs. Adrian Mannarino Paris 2026 1st Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TOE44NXVrSHhmM1V1OEphSjRsVUlwZnZXYXJIR0dlbDBTNGk3SjJ2Rm9acjNkZW9VRDlnVW1TOFh5OWtLbDJZYVZUVFZYWGtXNXdHSUNxck43WnByVEpKYmFIbk1IU2lVenNjZmdWRFVoV2lS?oc=5"
       }
      ]
     },
@@ -5721,16 +5721,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnk0Yl80WDVTQWFvYnlIQmRiNUl5bHRfZVVhMjFxUmFCbWVKWWxJdkpESUpZX3Jwb21iR25CbnJKRnozWkVlazFGaHgyUURQbG81YXBPTWFzNnFWaWV2Z2tiVDYxSUFfWk81aTBzUW12cjhZZHFQSDQzNENZeTJ2OWZYWkV3dDFBb0h6aFo1SE1SdnM?oc=5"
       },
       {
+       "titulo": "Pronóstico Nuno Borges vs Alex Molcan - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkgyM0s0YVB1OFVyTzFueE5Wbmg4Z0RQU3Z1ZVRnN2p0ZFNxYjd6aWFLaXRFZ1VJX2R4eDRUNDQxa0kxOU15UHF4bHNKVHB6c1BaelV4WFJDTklOVUx0a2ZXZnBmTzVtWXNXQzVsNzRPdWpNSGF3VC1aNVREbDhyMlUzNA?oc=5"
+      },
+      {
        "titulo": "Nuno Borges - Alex Molcan en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Benjamin Bonzi vs Yannick Hanfmann - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEFuUEdubThKZGoyNDVvV09kdmR0X0NaT0RXWnQzbF9CcjVPb2dKOFMtM0dHTE5iVzVjdnFaWlp2QVBYRXpjNTkxTmdjX3E1dzhMcTBIMGNtdnJJLWlONjFoWklNRDMzc2tiUy1fZXNBWGcwSWJDaTdfdzIwTkVFeEZId252c0pjTXpuT0pucVVpQQ?oc=5"
       }
      ]
     }
@@ -5745,7 +5745,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:10+00:00",
+   "actualizado": "2026-11-01T11:15+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
