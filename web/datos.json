@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T12:10+00:00",
+ "actualizado": "2026-11-01T13:00+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -999,106 +999,6 @@
  "cartelera": {
   "actualizado": "2026-11-01T08:00+00:00",
   "partidos": [
-   {
-    "id": "ffcb837b0caf57b860936111d914874c",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T13:00+00:00",
-    "jugadores": [
-     "Adolfo Daniel Vallejo",
-     "Lorenzo Sonego"
-    ],
-    "opciones": [
-     {
-      "id": "ffcb837b0caf57b860936111d914874c|h2h|Adolfo Daniel Vallejo|",
-      "mercado": "h2h",
-      "nombre": "Adolfo Daniel Vallejo",
-      "punto": null,
-      "cuota": 2.2,
-      "pinnacle": 2.25
-     },
-     {
-      "id": "ffcb837b0caf57b860936111d914874c|h2h|Lorenzo Sonego|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Sonego",
-      "punto": null,
-      "cuota": 1.6,
-      "pinnacle": 1.67
-     },
-     {
-      "id": "ffcb837b0caf57b860936111d914874c|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.95,
-      "pinnacle": 1.95
-     },
-     {
-      "id": "ffcb837b0caf57b860936111d914874c|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.77,
-      "pinnacle": 1.87
-     }
-    ],
-    "pinnacle_h2h": {
-     "Adolfo Daniel Vallejo": 2.25,
-     "Lorenzo Sonego": 1.67
-    }
-   },
-   {
-    "id": "39b752c46a334d801ef2449710faa164",
-    "deporte": "tennis_atp_vienna_open",
-    "torneo": "ATP Vienna Open",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T13:00+00:00",
-    "jugadores": [
-     "Alex de Minaur",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "39b752c46a334d801ef2449710faa164|h2h|Alex de Minaur|",
-      "mercado": "h2h",
-      "nombre": "Alex de Minaur",
-      "punto": null,
-      "cuota": 4.4,
-      "pinnacle": 4.78
-     },
-     {
-      "id": "39b752c46a334d801ef2449710faa164|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.2,
-      "pinnacle": 1.22
-     },
-     {
-      "id": "39b752c46a334d801ef2449710faa164|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.86,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "39b752c46a334d801ef2449710faa164|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.84,
-      "pinnacle": 1.94
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex de Minaur": 4.78,
-     "Carlos Alcaraz": 1.22
-    }
-   },
    {
     "id": "3f537c10e972402ec718dc4dfa47786b",
     "deporte": "tennis_atp_paris_masters",
@@ -5657,7 +5557,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T12:10+00:00",
+   "actualizado": "2026-11-01T13:00+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -5693,10 +5593,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkgyM0s0YVB1OFVyTzFueE5Wbmg4Z0RQU3Z1ZVRnN2p0ZFNxYjd6aWFLaXRFZ1VJX2R4eDRUNDQxa0kxOU15UHF4bHNKVHB6c1BaelV4WFJDTklOVUx0a2ZXZnBmTzVtWXNXQzVsNzRPdWpNSGF3VC1aNVREbDhyMlUzNA?oc=5"
       },
       {
-       "titulo": "Nuno Borges - Alex Molcan en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
+       "titulo": "Pronóstico Nuno Borges vs Alex Molcan - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmZ4U2NnanV6aDZxeFVaYjBDVWZlTW5nT193Sm1TU05Cd2RTZnJYUzJuNWV6d29Yc1d6Qjh6S0htejNmX2VpbXlOS1h0bk03V2hERmVfQ1JJMzEtWTlOU1EtMDR0MlptYWdVbEtQbFZjUUltLXpjLVpkU01uaUR6RHh5aG1KcVU?oc=5"
       }
      ]
     },
@@ -5727,10 +5627,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkgyM0s0YVB1OFVyTzFueE5Wbmg4Z0RQU3Z1ZVRnN2p0ZFNxYjd6aWFLaXRFZ1VJX2R4eDRUNDQxa0kxOU15UHF4bHNKVHB6c1BaelV4WFJDTklOVUx0a2ZXZnBmTzVtWXNXQzVsNzRPdWpNSGF3VC1aNVREbDhyMlUzNA?oc=5"
       },
       {
-       "titulo": "Nuno Borges - Alex Molcan en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
+       "titulo": "Pronóstico Nuno Borges vs Alex Molcan - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmZ4U2NnanV6aDZxeFVaYjBDVWZlTW5nT193Sm1TU05Cd2RTZnJYUzJuNWV6d29Yc1d6Qjh6S0htejNmX2VpbXlOS1h0bk03V2hERmVfQ1JJMzEtWTlOU1EtMDR0MlptYWdVbEtQbFZjUUltLXpjLVpkU01uaUR6RHh5aG1KcVU?oc=5"
       }
      ]
     }
@@ -5745,7 +5645,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T12:10+00:00",
+   "actualizado": "2026-11-01T13:00+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
