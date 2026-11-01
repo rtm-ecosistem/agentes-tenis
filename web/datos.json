@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T14:10+00:00",
+ "actualizado": "2026-11-01T15:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.322,
+      "pct": 0.323,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.282,
+      "pct": 0.283,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.154,
+      "pct": 0.152,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -998,58 +998,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-01T08:00+00:00",
-  "partidos": [
-   {
-    "id": "45420e4ccaa96290ca605d63fe10dcc6",
-    "deporte": "tennis_atp_swiss_indoors",
-    "torneo": "ATP Swiss Indoors Basel",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T14:30+00:00",
-    "jugadores": [
-     "Jiri Lehecka",
-     "Valentin Vacherot"
-    ],
-    "opciones": [
-     {
-      "id": "45420e4ccaa96290ca605d63fe10dcc6|h2h|Jiri Lehecka|",
-      "mercado": "h2h",
-      "nombre": "Jiri Lehecka",
-      "punto": null,
-      "cuota": 1.48,
-      "pinnacle": 1.53
-     },
-     {
-      "id": "45420e4ccaa96290ca605d63fe10dcc6|h2h|Valentin Vacherot|",
-      "mercado": "h2h",
-      "nombre": "Valentin Vacherot",
-      "punto": null,
-      "cuota": 2.6,
-      "pinnacle": 2.66
-     },
-     {
-      "id": "45420e4ccaa96290ca605d63fe10dcc6|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.88,
-      "pinnacle": 1.95
-     },
-     {
-      "id": "45420e4ccaa96290ca605d63fe10dcc6|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.83,
-      "pinnacle": 1.92
-     }
-    ],
-    "pinnacle_h2h": {
-     "Jiri Lehecka": 1.53,
-     "Valentin Vacherot": 2.66
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
@@ -2073,9 +2022,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 18,
-  "aciertos": 0.8333333333333334,
-  "yield": 0.1938888888888889
+  "apuestas": 19,
+  "aciertos": 0.8421052631578947,
+  "yield": 0.19421052631578947
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

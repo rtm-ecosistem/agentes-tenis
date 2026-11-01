@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T14:10+00:00",
+ "actualizado": "2026-11-01T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1177,19 +1177,18 @@
    "nombre": "Alex de Minaur",
    "circuito": "ATP",
    "elo": {
-    "all": 1886.7,
-    "hard": 1880.5,
+    "all": 1881.3,
+    "hard": 1872.9,
     "clay": 1759.4,
     "grass": 1730.1
    },
    "n": {
-    "all": 217,
-    "hard": 159,
+    "all": 218,
+    "hard": 160,
     "clay": 39,
     "grass": 19
    },
    "ultimos": [
-    "2026-10-01 G hard vs Mariano Navone",
     "2026-10-03 G hard vs Quentin Halys",
     "2026-10-04 G hard vs Andrey Rublev",
     "2026-10-11 G hard vs Rei Sakamoto",
@@ -1198,7 +1197,8 @@
     "2026-10-26 G hard vs Tomas Machac",
     "2026-10-28 G hard vs Learner Tien",
     "2026-10-30 G hard vs Matteo Berrettini",
-    "2026-10-31 G hard vs Alexander Zverev"
+    "2026-10-31 G hard vs Alexander Zverev",
+    "2026-11-01 P hard vs Carlos Alcaraz"
    ]
   },
   "fritz|t": {
@@ -3855,19 +3855,18 @@
    "nombre": "Carlos Alcaraz",
    "circuito": "ATP",
    "elo": {
-    "all": 2139.6,
-    "hard": 2086.6,
+    "all": 2145.4,
+    "hard": 2095.0,
     "clay": 2129.4,
     "grass": 1979.1
    },
    "n": {
-    "all": 190,
-    "hard": 124,
+    "all": 191,
+    "hard": 125,
     "clay": 45,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-01 G hard vs Alex Michelsen",
     "2026-10-03 G hard vs Matteo Arnaldi",
     "2026-10-05 G hard vs Jaume Munar",
     "2026-10-06 G hard vs Jiri Lehecka",
@@ -3876,7 +3875,8 @@
     "2026-10-27 G hard vs Karen Khachanov",
     "2026-10-29 G hard vs Nikoloz Basilashvili",
     "2026-10-30 G hard vs Tommy Paul",
-    "2026-10-31 G hard vs Daniil Medvedev"
+    "2026-10-31 G hard vs Daniil Medvedev",
+    "2026-11-01 G hard vs Alex de Minaur"
    ]
   },
   "blanchet|u": {
@@ -50749,7 +50749,7 @@
    1
   ],
   "alcaraz|c~de minaur|a": [
-   4,
+   5,
    0
   ],
   "gea|a~grenier|h": [
@@ -91265,5 +91265,5 @@
    0
   ]
  },
- "propios": 10505
+ "propios": 10506
 }
