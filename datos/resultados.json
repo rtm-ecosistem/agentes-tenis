@@ -238203,6 +238203,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Selena Janicijevic",
+    "Elizabeth Mandlik"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Katrina Scott",
+    "Maria Herazo Gonzalez"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

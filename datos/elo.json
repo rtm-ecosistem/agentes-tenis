@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T18:10+00:00",
+ "actualizado": "2026-11-01T22:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16153,19 +16153,18 @@
    "nombre": "Selena Janicijevic",
    "circuito": "WTA",
    "elo": {
-    "all": 1405.1,
-    "hard": 1470.1,
+    "all": 1444.3,
+    "hard": 1509.9,
     "clay": 1354.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 21,
-    "hard": 16,
+    "all": 22,
+    "hard": 17,
     "clay": 5,
     "grass": 0
    },
    "ultimos": [
-    "2026-04-05 G clay vs Carlota Lujan Jecalo",
     "2026-04-06 P clay vs Elina Avanesyan",
     "2026-04-08 P clay vs Oksana Selekhmeteva",
     "2026-04-11 P clay vs Ekaterina Kazionova",
@@ -16174,7 +16173,8 @@
     "2026-10-13 G hard vs Adrienn Nagy",
     "2026-10-14 P hard vs Fiona Ferro",
     "2026-10-27 G hard vs Ana Grubor",
-    "2026-10-28 P hard vs Elizabeth Mandlik"
+    "2026-10-28 P hard vs Elizabeth Mandlik",
+    "2026-11-01 G hard vs Elizabeth Mandlik"
    ]
   },
   "romero gormaz|l": {
@@ -19213,19 +19213,18 @@
    "nombre": "Elizabeth Mandlik",
    "circuito": "WTA",
    "elo": {
-    "all": 1459.1,
-    "hard": 1496.3,
+    "all": 1423.0,
+    "hard": 1461.3,
     "clay": 1373.3,
     "grass": 1438.8
    },
    "n": {
-    "all": 27,
-    "hard": 24,
+    "all": 28,
+    "hard": 25,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-06-12 P hard vs Darja Vidmanova",
     "2026-06-23 P grass vs Alina Charaeva",
     "2026-07-08 G hard vs Momoko Kobori",
     "2026-07-09 G hard vs Reese Brantmeier",
@@ -19234,7 +19233,8 @@
     "2026-08-25 P hard vs Kristina Penickova",
     "2026-10-27 G hard vs Emiliana Arango",
     "2026-10-28 G hard vs Selena Janicijevic",
-    "2026-10-31 P hard vs Fiona Ferro"
+    "2026-10-31 P hard vs Fiona Ferro",
+    "2026-11-01 P hard vs Selena Janicijevic"
    ]
   },
   "gasanova|a": {
@@ -27241,19 +27241,18 @@
    "nombre": "Katrina Scott",
    "circuito": "WTA",
    "elo": {
-    "all": 1344.4,
-    "hard": 1344.9,
+    "all": 1309.4,
+    "hard": 1309.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 10,
-    "hard": 10,
+    "all": 11,
+    "hard": 11,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-16 P hard vs Madison Brengle",
     "2026-02-21 P hard vs Varvara Lepchenko",
     "2026-07-08 P hard vs Mary Stoiana",
     "2026-07-25 G hard vs Sabastiani Leon",
@@ -27262,7 +27261,8 @@
     "2026-09-07 P hard vs Varvara Lepchenko",
     "2026-09-12 G hard vs Alexandra Panova",
     "2026-09-13 P hard vs Carole Monnet",
-    "2026-10-27 P hard vs Tamara Zidansek"
+    "2026-10-27 P hard vs Tamara Zidansek",
+    "2026-11-01 P hard vs Maria Herazo Gonzalez"
    ]
   },
   "frey|a": {
@@ -38331,19 +38331,20 @@
    "nombre": "Maria Herazo Gonzalez",
    "circuito": "WTA",
    "elo": {
-    "all": 1404.8,
-    "hard": 1405.3,
+    "all": 1455.4,
+    "hard": 1455.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-26 P hard vs Victoria Rodriguez"
+    "2026-10-26 P hard vs Victoria Rodriguez",
+    "2026-11-01 G hard vs Katrina Scott"
    ]
   },
   "fernanda navarro oliva|m": {
@@ -91010,7 +91011,7 @@
    1
   ],
   "janicijevic|s~mandlik|e": [
-   0,
+   1,
    1
   ],
   "birrell|k~parks|a": [
@@ -91336,7 +91337,11 @@
   "hercog|p~jose rico sanchez|m": [
    1,
    0
+  ],
+  "herazo gonzalez|m~scott|k": [
+   1,
+   0
   ]
  },
- "propios": 10513
+ "propios": 10515
 }
