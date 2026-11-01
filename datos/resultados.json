@@ -237647,6 +237647,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Carole Monnet",
+    "Bianca Andreescu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alexandra Shubladze",
+    "Emerson Jones"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
   }
  ]
 }

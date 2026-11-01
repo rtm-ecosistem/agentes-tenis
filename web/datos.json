@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T04:10+00:00",
+ "actualizado": "2026-11-01T05:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.314,
+      "pct": 0.315,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.275,
+      "pct": 0.276,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.175,
+      "pct": 0.173,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
