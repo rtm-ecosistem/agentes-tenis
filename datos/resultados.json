@@ -238107,6 +238107,56 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Swiss Indoors Basel",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Jiri Lehecka"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Emma Van Poppel",
+    "Darja Suvirdjonkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

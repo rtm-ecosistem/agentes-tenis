@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T16:10+00:00",
+ "actualizado": "2026-11-01T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1037,19 +1037,18 @@
    "nombre": "Jiri Lehecka",
    "circuito": "ATP",
    "elo": {
-    "all": 1842.1,
-    "hard": 1815.5,
+    "all": 1825.3,
+    "hard": 1798.6,
     "clay": 1694.1,
     "grass": 1735.0
    },
    "n": {
-    "all": 170,
-    "hard": 136,
+    "all": 171,
+    "hard": 137,
     "clay": 20,
     "grass": 14
    },
    "ultimos": [
-    "2026-10-05 G hard vs Valentin Vacherot",
     "2026-10-06 P hard vs Carlos Alcaraz",
     "2026-10-10 G hard vs Nuno Borges",
     "2026-10-12 P hard vs Rafael Jodar",
@@ -1058,7 +1057,8 @@
     "2026-10-27 G hard vs Stan Wawrinka",
     "2026-10-29 G hard vs Daniel Altmaier",
     "2026-10-30 G hard vs Jerome Kym",
-    "2026-10-31 G hard vs Jan-Lennard Struff"
+    "2026-10-31 G hard vs Jan-Lennard Struff",
+    "2026-11-01 P hard vs Valentin Vacherot"
    ]
   },
   "zverev|a": {
@@ -6930,19 +6930,18 @@
    "nombre": "Valentin Vacherot",
    "circuito": "ATP",
    "elo": {
-    "all": 1821.5,
-    "hard": 1822.9,
+    "all": 1845.0,
+    "hard": 1846.5,
     "clay": 1559.8,
     "grass": 1500.0
    },
    "n": {
-    "all": 70,
-    "hard": 56,
+    "all": 71,
+    "hard": 57,
     "clay": 14,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-02 G hard vs Stefanos Tsitsipas",
     "2026-10-04 G hard vs Arthur Fils",
     "2026-10-05 P hard vs Jiri Lehecka",
     "2026-10-10 G hard vs Sebastian Baez",
@@ -6951,7 +6950,8 @@
     "2026-10-26 G hard vs Mariano Navone",
     "2026-10-29 G hard vs Rafael Jodar",
     "2026-10-30 G hard vs Holger Rune",
-    "2026-10-31 G hard vs Taylor Fritz"
+    "2026-10-31 G hard vs Taylor Fritz",
+    "2026-11-01 G hard vs Jiri Lehecka"
    ]
   },
   "antonio vergara del puerto|m": {
@@ -38653,6 +38653,44 @@
    "ultimos": [
     "2026-11-01 G hard vs Saumya Vig"
    ]
+  },
+  "suvirdjonkova|d": {
+   "nombre": "Darja Suvirdjonkova",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1565.7,
+    "hard": 1565.7,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-01 G hard vs Emma Van Poppel"
+   ]
+  },
+  "van poppel|e": {
+   "nombre": "Emma Van Poppel",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1434.3,
+    "hard": 1434.3,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-01 P hard vs Darja Suvirdjonkova"
+   ]
   }
  },
  "h2h": {
@@ -57210,7 +57248,7 @@
   ],
   "lehecka|j~vacherot|v": [
    1,
-   1
+   2
   ],
   "moutet|c~opelka|r": [
    1,
@@ -91271,7 +91309,11 @@
   "charaeva|a~noha akugue|n": [
    1,
    0
+  ],
+  "suvirdjonkova|d~van poppel|e": [
+   1,
+   0
   ]
  },
- "propios": 10509
+ "propios": 10511
 }

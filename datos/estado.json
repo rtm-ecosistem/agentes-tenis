@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.186,
+     "envidia": 0.183,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T16:10+00:00",
+    "hora": "2026-11-01T17:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T16:10+00:00",
+    "hora": "2026-11-01T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T16:10+00:00",
+    "hora": "2026-11-01T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T16:10+00:00",
+    "hora": "2026-11-01T17:10+00:00",
     "rent": 0.0
    }
   }
@@ -7035,23 +7035,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 21,
+  "apuestas": 22,
   "ganadas": 17,
-  "unidades": 3.29,
-  "pendientes": [
-   {
-    "partido": "45420e4ccaa96290ca605d63fe10dcc6",
-    "jugadores": [
-     "Jiri Lehecka",
-     "Valentin Vacherot"
-    ],
-    "inicio": "2026-11-01T14:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Jiri Lehecka",
-    "punto": null,
-    "cuota": 1.48
-   }
-  ],
+  "unidades": 2.29,
+  "pendientes": [],
   "vistos": [
    "7e16ce6f4bf3a1b6f3ecf28768bb8653",
    "4eebb3b42f713eff0e760f9abef41572",
@@ -7074,7 +7061,8 @@
    "87dd1f372becd90b913ceac1b31578d1",
    "39b752c46a334d801ef2449710faa164",
    "ffcb837b0caf57b860936111d914874c",
-   "3f537c10e972402ec718dc4dfa47786b"
+   "3f537c10e972402ec718dc4dfa47786b",
+   "45420e4ccaa96290ca605d63fe10dcc6"
   ]
  },
  "mercados_casas": {
