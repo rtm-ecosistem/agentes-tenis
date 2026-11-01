@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T08:01+00:00",
+ "actualizado": "2026-11-01T08:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.317,
+      "pct": 0.318,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.167,
+      "pct": 0.166,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -2255,6 +2255,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-01T08:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T08:10+00:00",
+   "texto": "📰 Noticias nuevas de Benjamin Bonzi – Yannick Hanfmann, Juan Manuel Cerundolo – Miomir Kecmanovic, Thiago Agustin Tirante – Mattia Bellucci…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-01T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2391,16 +2401,6 @@
   },
   {
    "hora": "2026-10-31T09:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T09:10+00:00",
-   "texto": "📰 Noticias nuevas de Jaime Faria – Rinky Hijikata, Pablo Carreno Busta – Mattia Bellucci, Thiago Agustin Tirante – Zachary Svajda…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T08:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
   }
@@ -5291,7 +5291,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.566,
    "elo_general": 0.569,
    "elo_en_superficie": 0.562,
@@ -5379,7 +5379,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.676,
    "elo_general": 0.702,
    "elo_en_superficie": 0.651,
@@ -5415,10 +5415,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGo1dkc2NU1lbTBhRHh4MHhTZWxZWXEzNE1SQnA1cFRDS2V2SUJnZFJUUGdPWUhJcFk3bzhoMDhDUC0xYUlZYkZjYzA3SWtVenBrYmhzSktRQWxRVDF1S0lIMUtRVmhnWXBrREQtOHZDUVFDS0JjLTBmVzNTZXB2VV9iVjhhTWstQTlfTmFOQ3l1aG9RN1lRRWE4VE1TZHJkV3c?oc=5"
       },
       {
-       "titulo": "Lucas Miedler/Neil Oberleitner vs. Guido Andreozzi/Manuel Guinard Vienna 2026 Semifinal | Stats Centre - ATP Tour",
+       "titulo": "Highlights: Altmaier aprovecha su segunda chance vs. Cerúndolo en Basilea 2026 - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBS19GSGVjVG42LWRRdkRmNE9rSXQ0dG02alh2V3B3OEstS2RsVkhZWk92X29LNlB6ekltUWhNS1NKdUhTLVBEYnIxZW5ZdkJoU0xtMUhMUERVMjkyUUpiNTJ5ZkFqZ3hXTGduRE9UcnBKQ0NMR2VJNg?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm9xWkYyLXhkcndpaUxUQmlIb0JMNng1cjRia3ppNEhGYkV5THlCX0JrMVE3Z1VYbFBnVGJCUVN5WkxZUjBDc3h2WWdxS2cyXzZOZEQ4UXQtZ1JYZS1RUUVqc3ZyODQ0UGxfUUxIaWVuTlU3bkg0ZE5NZjFWeFpQVkZVNXQycVljQ3RvaVo4bERVT2VwdlJENjJxTDh1YVN4VTVKenVOUFh0Y0pwVVp1aW1OWQ?oc=5"
       }
      ]
     },
@@ -5437,6 +5437,12 @@
      "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-10-31 contra James Duckworth, ganó 6-4 2-6 6-4",
      "noticias": [
       {
+       "titulo": "Tres argentinos quedaron a un triunfo de ingresar al cuadro principal del Masters 1000 de París - Ecos Diarios Necochea",
+       "fuente": "Ecos Diarios Necochea",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXd3MjlPWDlTWTZ1T0NxVmNHd1RpcUMtem9uMVpLYy12Q2szQUo0M2VMbko2OFJCNWxtdi1lM1Vrc21kdG9CR3lvNUNQaHR5dEJ6MEtxTmU3OGdYYUp3bzdqZUhmblhZcEFNaEJYeEduSDR1d2dQeExQZGZfdl9fX2pwaVN1cHpHRjlvVEJqTjVJMWVjdEk4ZzU4QTNmS1gwVm5pOXk1bGdidmlvblZVLTB5TEtRM1Bk?oc=5"
+      },
+      {
        "titulo": "Triple victoria argentina en las semifinales de la qualy del Masters 1000 de París - Tiempo Sur",
        "fuente": "Tiempo Sur",
        "fecha": "2026-10-31",
@@ -5447,12 +5453,6 @@
        "fuente": "La Voz del Interior",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHQxMURXUTdRSlJSa2xKU2lOZWxmbnE4Wm9aZ0ptTmc1QVZfUzZUY3l2Z29waUlwdHBETXVDM3E2d1hUTDZoQTBfU0x5Y2VZUVRmMFhFU193TzB6NWtQUzltUFVlanhVaFNwOE9VUnZVaVZHeXRrMW9MTTFOQURFUUZwZkNUM3BxWURVbVhMR0ZBS0t0SEdDd1NNbWFmYkZhN2E3MzVsN1RpWTVBNXpveWhRNzV3bEh1NTBUay1Tdw?oc=5"
-      },
-      {
-       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
       }
      ]
     }
@@ -5467,7 +5467,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.566,
    "elo_general": 0.601,
    "elo_en_superficie": 0.532,
@@ -5491,6 +5491,12 @@
      "cansancio": "1 partidos, 3 sets y 26 juegos en 3 días; el último el 2026-10-31 contra Zachary Svajda, ganó 3-6 6-1 6-4",
      "noticias": [
       {
+       "titulo": "Thiago Agustin Tirante - Mattia Bellucci en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVNPblF5X2lvVlBUZ0d0anBNa2prNVdfMm8wZXQ1TzVQYjA4Q3dvNV8yY3dMazVEQnVBOGlIUktRSUNnWlR0Z1pzWnhhOV9BU2VjZEc3TGdSd09BUVNST1RjTzNoVGRYbWFWUWJYUkJIVWxxY19SVGVyR3R4Vkg3T3Rzb2pBakdmZW4xSTVKN0lGWmZRQXBYVmFn?oc=5"
+      },
+      {
        "titulo": "Thiago Agustin Pernas VS Federico Aguilar Cardozo | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
@@ -5501,12 +5507,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVRMbloyVjcwVXk1T0U2dkMySmZRMUlGZWh1RVptajZNX0otV2N1NXM4LVJUWklhQlVRQmpDS3Z5cGVjWVVzY0d4VHh1Zl9ycTY5LUxyUUI3ZDNVRmNPWC00SUlrUXB1dDFEOHlhc0IxUnFCeGNucTRVaDQtb2tEMEdUeC1TQ1FLOFl1MkVtWlRHZmU2NndpN1c3bw?oc=5"
-      },
-      {
-       "titulo": "Primera ronda. Juanma Cerúndolo, Tirante y Báez avanzan en la clasificación del Masters 1000 de París - La Voz del Interior",
-       "fuente": "La Voz del Interior",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHQxMURXUTdRSlJSa2xKU2lOZWxmbnE4Wm9aZ0ptTmc1QVZfUzZUY3l2Z29waUlwdHBETXVDM3E2d1hUTDZoQTBfU0x5Y2VZUVRmMFhFU193TzB6NWtQUzltUFVlanhVaFNwOE9VUnZVaVZHeXRrMW9MTTFOQURFUUZwZkNUM3BxWURVbVhMR0ZBS0t0SEdDd1NNbWFmYkZhN2E3MzVsN1RpWTVBNXpveWhRNzV3bEh1NTBUay1Tdw?oc=5"
       }
      ]
     },
@@ -5525,6 +5525,12 @@
      "cansancio": "1 partidos, 2 sets y 20 juegos en 3 días; el último el 2026-10-31 contra Pablo Carreno Busta, ganó 6-1 7-6",
      "noticias": [
       {
+       "titulo": "Thiago Agustin Tirante - Mattia Bellucci en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVVNPblF5X2lvVlBUZ0d0anBNa2prNVdfMm8wZXQ1TzVQYjA4Q3dvNV8yY3dMazVEQnVBOGlIUktRSUNnWlR0Z1pzWnhhOV9BU2VjZEc3TGdSd09BUVNST1RjTzNoVGRYbWFWUWJYUkJIVWxxY19SVGVyR3R4Vkg3T3Rzb2pBakdmZW4xSTVKN0lGWmZRQXBYVmFn?oc=5"
+      },
+      {
        "titulo": "Thiago Agustin Tirante - Mattia Bellucci en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
@@ -5535,12 +5541,6 @@
        "fuente": "Prensa Latina",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yeVNWeFh0Zi1wX19fNTg2UGl4VFhZOFQwVXlPN3c4NHVwTWQxWjB4aVJBYXBLNFpZYTJpbEh2aEtTcUNleWpPaUR4UWQ2NkxaSk93d09sTUtSd3o2TEl4ODg2NjhuUkxZcFBJXzZzWTR1R3l4SGJfbUdCTQ?oc=5"
-      },
-      {
-       "titulo": "Jornada ideal para los argentinos en el arranque de la clasificación al Masters 1000 de Paris - ESPN Argentina",
-       "fuente": "ESPN Argentina",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWWRPdF9UZUlfRWRrX0hQTFF4bVNzLVdjUy1MLTBuWTFrdG5HYzQ1N0ItMkV3eVFrcEx2OEI1RVpiellUTXJfZGlraUdZM3NMYmdiQnI1RG5BZjUwWTY5TWJDeHlFV2Ytc0JqWjNIVzdNXzVTSTlWeVRKOThYU3dVLXVfMDFGeTc4SmFIVFBidlhrRldIb0VHd3BKZ252RTJIV3Ita2FMd0psdWlkR0JuZEgtNWxVWENXOThiTGhWdTdpM2tFQ2owTlRaOWgwV2VSYjlqSU91UnFVUWR3VWFlblFJTGpGUVRhc1NOeGdBZHhPbVV6Ml9JNg?oc=5"
       }
      ]
     }
@@ -5555,7 +5555,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.653,
    "elo_general": 0.625,
    "elo_en_superficie": 0.68,
@@ -5643,7 +5643,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.372,
    "elo_general": 0.378,
    "elo_en_superficie": 0.365,
@@ -5679,10 +5679,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHQxMURXUTdRSlJSa2xKU2lOZWxmbnE4Wm9aZ0ptTmc1QVZfUzZUY3l2Z29waUlwdHBETXVDM3E2d1hUTDZoQTBfU0x5Y2VZUVRmMFhFU193TzB6NWtQUzltUFVlanhVaFNwOE9VUnZVaVZHeXRrMW9MTTFOQURFUUZwZkNUM3BxWURVbVhMR0ZBS0t0SEdDd1NNbWFmYkZhN2E3MzVsN1RpWTVBNXpveWhRNzV3bEh1NTBUay1Tdw?oc=5"
       },
       {
-       "titulo": "Pronóstico Alejandro Davidovich Fokina vs Moise Kouame - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
+       "titulo": "Sebastian Baez vs. Damir Dzumhur Paris 2026 1st Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWNmYUI1WU5vNWc5VVJVSTFPVGxRd0ZJWUUzY005azd3YURwS3YzYzBobmRiVEpVSHo4MVBJWWJSSE1NRER5bzQ2NHR4dVlEYzFEMVp3dTZ3X2VKTkpKdHJxdU5ycU9WTV9qTTkwbGJEYVBKTjRQS0hGNEpPOWtHSXY1dkNXaHNlTU1HRndLWFJKMGJ2M1Nld3JR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Q3kyaDVjaTVnYVJ6eV9zcF9MUUFUQzRWbmVFZGFkRjlZRDdLTnc5dXJMVVBraDVOeTNmOHQ4MnRadi14bDduTXlGdGlNeW5tLWt3X2d5c0FuYVU1Z3Y0M2JYWW45eERRb0NEN0FBYWxaNm5h?oc=5"
       }
      ]
     },
@@ -5713,10 +5713,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMktPM0VfX1JWb0h5eG4xWnpiTFhnMnZEVFdLc0M3NGJxM3V0QWhKUG5tMy1qa0xJOHRER21LUVRDblVPUVZSLWxaQjdnLXBmZ3NKeVRJM19jTWpEc0lDNEYxNmVZLVR1M0FfNVRGbXZDcGhGTzRUaWctYmk5VEdKT0hvdTJMZUVNaXVLTA?oc=5"
       },
       {
-       "titulo": "Tres argentinos quedaron a un triunfo de ingresar al cuadro principal del Masters 1000 de París - Ecos Diarios Necochea",
-       "fuente": "Ecos Diarios Necochea",
+       "titulo": "Munar no podrá acceder al cuadro final del Masters 1000 de París - Ultima Hora",
+       "fuente": "Ultima Hora",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXd3MjlPWDlTWTZ1T0NxVmNHd1RpcUMtem9uMVpLYy12Q2szQUo0M2VMbko2OFJCNWxtdi1lM1Vrc21kdG9CR3lvNUNQaHR5dEJ6MEtxTmU3OGdYYUp3bzdqZUhmblhZcEFNaEJYeEduSDR1d2dQeExQZGZfdl9fX2pwaVN1cHpHRjlvVEJqTjVJMWVjdEk4ZzU4QTNmS1gwVm5pOXk1bGdidmlvblZVLTB5TEtRM1Bk?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeNIBvAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeA?oc=5"
       }
      ]
     }
@@ -5731,7 +5731,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -5801,10 +5801,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3h2SVgxTS02LXRqaFROU09zTHcwZDlMTHVaOEQ0dW1uT3RWWkVLRXFncWIxeWZVNU5KYjFveG1zQUZmWkVvcEdpakFWbEVMZ3pNeWkybWVXQ0wxUlBEMUNkRk1qSEpHSUxOSjk4WkZMRHRJZkNuakJKam92QVBXZzVGQy1ya25ZZ0k1Tnc3VGxCNUNJOVljeQ?oc=5"
       },
       {
-       "titulo": "ATP París: de Cobolli y Musetti a Berrettini, el cuadro de los italianos - Tennis World Italia",
-       "fuente": "Tennis World Italia",
+       "titulo": "Lorenzo Sonego vs. Jaume Munar Paris 2026 1st Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGhzMFFzRDNpbFFpYVFIUVBzVnY5dVhHSUZXdEd1MmdKdElBUXBCZ21nRVN5ejBuU05hVS1kRkZDc0lOaGhkLXF6Y1VWeEFCWjZSYjJKWU5uZjNsR21KVHVsLS14YVpJSWJ1M2dMRDJpcXJXMEpicGRxOEp1Wkctb3oxTktVTVNqVVZjRVFwUF9JanpHYnVSQmZrS01DWkJ2S1pGU0t4S2xiR0FYc0Y1ektLRGVkaDhjRERzTnBldmcyV1I1cnE4MjVLdE5SSjZiS3o5aw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HZmJETTZXUlcwUUYyRGoxWVdVSkpZY1U4b3U3UUNPRXZxY21nbnNZUTJVU0FRN1VUTWR3UFZ0Zm1EOE9laHRUcjZtZnFJd09oVXZSM2tPUFU3V050VG01Tmstb1RfVEIyS054VWFYX2pIQkNB?oc=5"
       }
      ]
     }
@@ -5819,7 +5819,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -5855,10 +5855,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
       },
       {
-       "titulo": "¿A qué horas inicia la final de Viena entre Alcaraz y De Miñaur? - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
+       "fuente": "DAZN",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZUVOZmZJWHpEbWdiYmhrU2dMd3JqaGtNYXJBUTF6blE5eE0wMExrRlJrVjY5cS1LYlkxUFNrSUFiNkN2V1M0Tmx3ZWtNYTJuMmxjdzQyQWlJMldaZEE2Vk15RDlhNUNRYm5RTnJNeDMzV1NqR2pnY0ljTWpodTF1TDA3MVZOTk42MmZ1Q29HUVRWWl9WSDJ3QmxZbjg5VG11WUpucG1hZHpVMUoyRlBJdEZkaWwtM3RSS2NvWGkxMnBQaDdoRzQxU3NobzZYWmREZEFxbm14a0UzbDczSDVkX254Tk9WUkJ5bjZ6Yk55Sm14cGlpamNRT3BwbkFtRFpVcTktYXdwRTBFUWNoZV9ULTE4bzNOVW1aSVZCVFlBQkhnMG9peHNN?oc=5"
       }
      ]
     },
@@ -5889,10 +5889,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
       },
       {
-       "titulo": "¿A qué horas inicia la final de Viena entre Alcaraz y De Miñaur? - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
+       "fuente": "DAZN",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlakFBSFBSbWFOM3FiZ3NOdmo1dk9qVUpiNDdmUEJtOGV3ZVA2SlV4RGdfbS1zZ0o4d2tUWEVDN0dIeUV6emJXaVM4alUzR0JwbFR1cGJCcU9DRFFhcGYtSm1IcDRfVTVnYU43X3FjYVd6dDRmLXdBa1B1T3R2MkE?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZUVOZmZJWHpEbWdiYmhrU2dMd3JqaGtNYXJBUTF6blE5eE0wMExrRlJrVjY5cS1LYlkxUFNrSUFiNkN2V1M0Tmx3ZWtNYTJuMmxjdzQyQWlJMldaZEE2Vk15RDlhNUNRYm5RTnJNeDMzV1NqR2pnY0ljTWpodTF1TDA3MVZOTk42MmZ1Q29HUVRWWl9WSDJ3QmxZbjg5VG11WUpucG1hZHpVMUoyRlBJdEZkaWwtM3RSS2NvWGkxMnBQaDdoRzQxU3NobzZYWmREZEFxbm14a0UzbDczSDVkX254Tk9WUkJ5bjZ6Yk55Sm14cGlpamNRT3BwbkFtRFpVcTktYXdwRTBFUWNoZV9ULTE4bzNOVW1aSVZCVFlBQkhnMG9peHNN?oc=5"
       }
      ]
     }
@@ -5907,7 +5907,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -5995,7 +5995,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:00+00:00",
+   "actualizado": "2026-11-01T08:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
