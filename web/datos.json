@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T02:10+00:00",
+ "actualizado": "2026-11-01T03:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.313,
+      "pct": 0.314,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.274,
+      "pct": 0.275,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.178,
+      "pct": 0.176,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -998,39 +998,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-10-31T08:00+00:00",
-  "partidos": [
-   {
-    "id": "e33e004fe9457eef4c8e5a50d15392c0",
-    "deporte": "tennis_wta_pan_pacific_open",
-    "torneo": "WTA Pan Pacific Open",
-    "circuito": "WTA",
-    "superficie": "hard",
-    "inicio": "2026-11-01T03:00+00:00",
-    "jugadores": [
-     "Leylah Fernandez",
-     "Diana Shnaider"
-    ],
-    "opciones": [
-     {
-      "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Diana Shnaider|",
-      "mercado": "h2h",
-      "nombre": "Diana Shnaider",
-      "punto": null,
-      "cuota": 1.57,
-      "pinnacle": null
-     },
-     {
-      "id": "e33e004fe9457eef4c8e5a50d15392c0|h2h|Leylah Fernandez|",
-      "mercado": "h2h",
-      "nombre": "Leylah Fernandez",
-      "punto": null,
-      "cuota": 2.38,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {}
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
