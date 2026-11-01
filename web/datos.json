@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T05:27+00:00",
+ "actualizado": "2026-11-01T06:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.315,
+      "pct": 0.316,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.172,
+      "pct": 0.171,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -567,7 +567,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
@@ -768,7 +768,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 0.6,
-      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
@@ -989,7 +989,7 @@
       "cara": "😑",
       "nombre": "Impaciencia",
       "pct": 1.0,
-      "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
+      "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
     "por_emocion": {}
@@ -2022,9 +2022,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 12,
-  "aciertos": 0.75,
-  "yield": 0.035833333333333335
+  "apuestas": 13,
+  "aciertos": 0.7692307692307693,
+  "yield": 0.07692307692307693
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

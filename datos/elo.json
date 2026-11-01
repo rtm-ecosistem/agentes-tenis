@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T05:10+00:00",
+ "actualizado": "2026-11-01T06:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14032,19 +14032,18 @@
    "nombre": "Himeno Sakatsume",
    "circuito": "WTA",
    "elo": {
-    "all": 1591.7,
-    "hard": 1602.2,
+    "all": 1616.6,
+    "hard": 1625.5,
     "clay": 1549.4,
     "grass": 1466.4
    },
    "n": {
-    "all": 54,
-    "hard": 46,
+    "all": 55,
+    "hard": 47,
     "clay": 3,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-31 G hard vs Anhelina Kalinina",
     "2026-09-03 P hard vs Cristina Bucsa",
     "2026-09-22 P hard vs Taylah Preston",
     "2026-10-05 G hard vs Dominika Salkova",
@@ -14053,7 +14052,8 @@
     "2026-10-10 P hard vs Ayla Aksu",
     "2026-10-20 P hard vs Katie Boulter",
     "2026-10-27 P hard vs Leylah Fernandez",
-    "2026-10-31 G hard vs Hong Yi Cody Wong"
+    "2026-10-31 G hard vs Hong Yi Cody Wong",
+    "2026-11-01 G hard vs Elena Pridankina"
    ]
   },
   "kulikova|a": {
@@ -14795,19 +14795,18 @@
    "nombre": "Elena Pridankina",
    "circuito": "WTA",
    "elo": {
-    "all": 1597.7,
-    "hard": 1566.5,
+    "all": 1571.9,
+    "hard": 1540.6,
     "clay": 1620.9,
     "grass": 1572.0
    },
    "n": {
-    "all": 49,
-    "hard": 34,
+    "all": 50,
+    "hard": 35,
     "clay": 12,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-08 P hard vs Ane Mintegi Del Olmo",
     "2026-09-22 G hard vs Daria Egorova",
     "2026-09-23 P hard vs Ksenia Zaytseva",
     "2026-09-29 G hard vs Ayla Aksu",
@@ -14816,7 +14815,8 @@
     "2026-10-07 P hard vs Anna Blinkova",
     "2026-10-24 G hard vs Tyra Caterina Grant",
     "2026-10-25 P hard vs Carol Young Suh Lee",
-    "2026-10-31 G hard vs Ekaterine Gorgodze"
+    "2026-10-31 G hard vs Ekaterine Gorgodze",
+    "2026-11-01 P hard vs Himeno Sakatsume"
    ]
   },
   "zongyu|l": {
@@ -16621,19 +16621,18 @@
    "nombre": "Leylah Fernandez",
    "circuito": "WTA",
    "elo": {
-    "all": 1891.6,
-    "hard": 1886.2,
+    "all": 1871.7,
+    "hard": 1864.1,
     "clay": 1604.0,
     "grass": 1405.6
    },
    "n": {
-    "all": 61,
-    "hard": 47,
+    "all": 62,
+    "hard": 48,
     "clay": 10,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-14 G hard vs Shi Han",
     "2026-10-15 P hard vs Jelena Ostapenko",
     "2026-10-19 G hard vs Elise Mertens",
     "2026-10-21 G hard vs Aliaksandra Sasnovich",
@@ -16642,7 +16641,8 @@
     "2026-10-25 P hard vs Elena Rybakina",
     "2026-10-27 G hard vs Himeno Sakatsume",
     "2026-10-29 G hard vs Elise Mertens",
-    "2026-10-31 G hard vs Kamilla Rakhimova"
+    "2026-10-31 G hard vs Kamilla Rakhimova",
+    "2026-11-01 P hard vs Diana Shnaider"
    ]
   },
   "xiyu|w": {
@@ -22912,19 +22912,18 @@
    "nombre": "Diana Shnaider",
    "circuito": "ATP",
    "elo": {
-    "all": 1943.3,
-    "hard": 1935.6,
+    "all": 1963.3,
+    "hard": 1958.1,
     "clay": 1779.9,
     "grass": 1431.0
    },
    "n": {
-    "all": 60,
-    "hard": 45,
+    "all": 61,
+    "hard": 46,
     "clay": 11,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-14 G hard vs Yulia Putintseva",
     "2026-10-15 G hard vs Karolina Muchova",
     "2026-10-16 P hard vs Jelena Ostapenko",
     "2026-10-20 G hard vs Yulia Putintseva",
@@ -22933,7 +22932,8 @@
     "2026-10-24 P hard vs Elena Rybakina",
     "2026-10-28 G hard vs Aliaksandra Sasnovich",
     "2026-10-30 G hard vs Alexandra Eala",
-    "2026-10-31 G hard vs Mia Pohankova"
+    "2026-10-31 G hard vs Mia Pohankova",
+    "2026-11-01 G hard vs Leylah Fernandez"
    ]
   },
   "ostapenko|j": {
@@ -60857,7 +60857,7 @@
   ],
   "fernandez|l~shnaider|d": [
    0,
-   2
+   3
   ],
   "birrell|k~potapova|a": [
    1,
@@ -73813,7 +73813,7 @@
   ],
   "pridankina|e~sakatsume|h": [
    1,
-   0
+   1
   ],
   "korneeva|a~riera|j": [
    1,
@@ -91188,5 +91188,5 @@
    0
   ]
  },
- "propios": 10491
+ "propios": 10493
 }

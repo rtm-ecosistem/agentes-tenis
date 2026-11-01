@@ -237689,6 +237689,56 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Toray Pan Pacific Open Tennis",
+   "circuito": "WTA",
+   "jugadores": [
+    "Diana Shnaider",
+    "Leylah Fernandez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Elena Pridankina",
+    "Himeno Sakatsume"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
