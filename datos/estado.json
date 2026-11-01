@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.206,
+     "envidia": 0.205,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T09:10+00:00",
+    "hora": "2026-11-01T09:24+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T09:10+00:00",
+    "hora": "2026-11-01T09:24+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T09:10+00:00",
+    "hora": "2026-11-01T09:24+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T09:10+00:00",
+    "hora": "2026-11-01T09:24+00:00",
     "rent": 0.0
    }
   }
@@ -2187,16 +2187,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-29T16:10+00:00",
-   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T18:10+00:00",
-   "texto": "📰 Noticias nuevas de Flavio Cobolli – Matteo Berrettini, Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-29T18:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
@@ -2585,6 +2575,16 @@
    "hora": "2026-11-01T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T09:24+00:00",
+   "texto": "📰 Noticias nuevas de Rinky Hijikata – Vit Kopriva, Alex de Minaur – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T09:24+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2610,9 +2610,13 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "559c2054e564",
+  "060e9bd29d08",
+  "853a64264c31",
   "66383fa40448",
   "b612922c63cf",
-  "559c2054e564",
+  "981d426995d9",
+  "b9573c6a20c2",
   "8c2c37250a11",
   "0d1ffb6ba7d8",
   "3f4422d3c6b8",
@@ -2620,9 +2624,8 @@
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "7d64ddda314d",
-  "0590d5ffa2e2",
   "56745ca3858d",
-  "853a64264c31",
+  "0590d5ffa2e2",
   "92ee25f2ac65",
   "aec47ba57b11",
   "94d10c4a8d53",
@@ -2634,6 +2637,7 @@
   "145f8fe45b34",
   "3a2e842eca8e",
   "16827821fb1e",
+  "fcd353ba34c9",
   "75439f700d72",
   "aef2ee14239f",
   "4833d5b4abef",
@@ -2706,6 +2710,7 @@
   "3bafe41c1c43",
   "473feaf85815",
   "8598ba93a9d2",
+  "c641e383119e",
   "67f212efa36e",
   "0ebb0b60a131",
   "999f776be5ad",
@@ -2867,7 +2872,6 @@
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
-  "c641e383119e",
   "320befac0a9c",
   "0ab3a91768aa",
   "5a353b3720b2",
@@ -3405,11 +3409,7 @@
   "5ae9a5e40773",
   "31ce4208059b",
   "fad8f3d52d80",
-  "2bb5c2b34e2a",
-  "123114c445a6",
-  "3b0942b849ac",
-  "307e0986011e",
-  "fbc819a49992"
+  "2bb5c2b34e2a"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6249,7 +6249,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.566,
    "elo_general": 0.569,
    "elo_en_superficie": 0.562,
@@ -6337,7 +6337,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.676,
    "elo_general": 0.702,
    "elo_en_superficie": 0.651,
@@ -6425,7 +6425,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.566,
    "elo_general": 0.601,
    "elo_en_superficie": 0.532,
@@ -6513,7 +6513,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.653,
    "elo_general": 0.625,
    "elo_en_superficie": 0.68,
@@ -6537,6 +6537,12 @@
      "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-10-31 contra Jaime Faria, ganó 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Hot Shot: Hijikata sorprende a Fritz con un gran winner en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTJtbWxPc29SMHgyMFZJVEY1RWNuT1R1U2RuYXAxYW9kS1F4UFNQb2FKUGZNR1ZBTVp3dGM4SnMyMXNudEM2b0JwaDRkTThYMUhNYVZ5dkNQMmJEMC1qRWxtbjBJMjYybV96bGF0UDBPQ2o2Wm5BUzVhaVZOeW91VnlKVnZNMkRKY3FOOGZoVGtSQ3haUVJXVHJhMngzVTFzcGpWZUFn?oc=5"
+      },
+      {
        "titulo": "Jaime Faria vs Rinky Hijikata · Qualifying Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-10-31",
@@ -6547,12 +6553,6 @@
        "fuente": "Flashscore.es",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbU5sdzFzTWxxTUtFemZZOFNqTEdjUXA2NEtQcWc4NVRGVFNIckVzUm5WUzJYMmNRd1ZiNkM1QWxya0J2RWZMUzdibmRYOVdCWUMtTTZLM3pWS2pXeUktRF83MElfWWw1MTlGYjd1aDFWQk5fNXc4Z2tvVjZyODZqanpTVXFrRmhPQzlSZ2V3?oc=5"
-      },
-      {
-       "titulo": "Hot Shot: Fritz se inspira en pleno tie-break en Basilea - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3pnWVVPNnJaUUxzbWJVZGM1RTJ3Wk5sU3JaaVdoOU5vX09fUllCWkNucXRZcnlOWkg0d2pvYU1rdTlRSnlIbHFoSFV3WTg3RE5mQmFUVUtLZE5QMGRTNEtxLS15VFVRcV9acS0tODZCZ3pZd05Mb09ZZlg4MDIwaFBaWF91UDZqSUpB?oc=5"
       }
      ]
     },
@@ -6601,7 +6601,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.372,
    "elo_general": 0.378,
    "elo_en_superficie": 0.365,
@@ -6689,7 +6689,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -6777,7 +6777,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -6801,22 +6801,22 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-10-31 contra Alexander Zverev, ganó 6-4 1-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZkh0cTByMFFmWWgzRDZFZXh6TVl3OVE0dWx1MFBZc3pyXzRkQ0xqdGI4bjEzWm9mcXB2S0JYSVJFUVkzaTdwQ2xNTGtWaHlKemh1YkF1MFk4SVlBTVRZdkY3TzBxQ0RRZWdmTXhJWklBTEVOb2RNNjhkSmFnUWRKWWgzR0l3WjB5WkNhR3VDUnVYdU1Gc2hwRXhITDhsN1JlZGhSN2dsM0JVZmpUNkI4VTIybGhRdUN1bkdmRVc4Tk85Tzg2d0REYy1HQzJnaGY0bXBKSUF4ZlJWUDloU2hoX0JNVUowM3lpUGVwTFl3QnQ0MEZ3eDhZcmVGNjM5TnhNaUdmY0lZS2E0YUJNOWJKS08zTFZjYk5MN3JXcjJVd05RRW15YVdvcVZYbHptU1RueS1FSmtKT1IxdTZncERLTDN0X0x5aXpXa3E1SmRQVzNmbG0yY0s4dWgzQ0xYYlJCNGMybV9hRURiWHZDSU1iMmMxNi0tUVJyclZ4eUkxWHQ5bDdZX3hOR0VWZ3NZdjJjY3FpYnpB?oc=5"
+      },
+      {
+       "titulo": "Alcaraz-De Minaur: a qué hora es la final de Viena y dónde verla en televisión - Sport Aragón",
+       "fuente": "Sport Aragón",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
-      },
-      {
-       "titulo": "De Minaur lanza un aviso antes de enfrentarse a Alcaraz - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVdHX2FPeWx5bGtqdXd1STBoWkFCWExjVGZ5WlRGODg4TWdvSFJDU29laWZrVnJBRU8zVldIYXFONWxwZl8wWWFfYnBjYmRsSUhxV1lCeDlVY2xkQzhxZzltd3pGaGg0LTNUZkN6a1R1M3p2LXNDeGZLbXBQNmpNYjZObXY?oc=5"
-      },
-      {
-       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
-       "fuente": "DAZN",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
       }
      ]
     },
@@ -6835,22 +6835,22 @@
      "cansancio": "3 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-10-31 contra Daniil Medvedev, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZkh0cTByMFFmWWgzRDZFZXh6TVl3OVE0dWx1MFBZc3pyXzRkQ0xqdGI4bjEzWm9mcXB2S0JYSVJFUVkzaTdwQ2xNTGtWaHlKemh1YkF1MFk4SVlBTVRZdkY3TzBxQ0RRZWdmTXhJWklBTEVOb2RNNjhkSmFnUWRKWWgzR0l3WjB5WkNhR3VDUnVYdU1Gc2hwRXhITDhsN1JlZGhSN2dsM0JVZmpUNkI4VTIybGhRdUN1bkdmRVc4Tk85Tzg2d0REYy1HQzJnaGY0bXBKSUF4ZlJWUDloU2hoX0JNVUowM3lpUGVwTFl3QnQ0MEZ3eDhZcmVGNjM5TnhNaUdmY0lZS2E0YUJNOWJKS08zTFZjYk5MN3JXcjJVd05RRW15YVdvcVZYbHptU1RueS1FSmtKT1IxdTZncERLTDN0X0x5aXpXa3E1SmRQVzNmbG0yY0s4dWgzQ0xYYlJCNGMybV9hRURiWHZDSU1iMmMxNi0tUVJyclZ4eUkxWHQ5bDdZX3hOR0VWZ3NZdjJjY3FpYnpB?oc=5"
+      },
+      {
+       "titulo": "Alcaraz-De Minaur: a qué hora es la final de Viena y dónde verla en televisión - Sport Aragón",
+       "fuente": "Sport Aragón",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
-      },
-      {
-       "titulo": "De Minaur lanza un aviso antes de enfrentarse a Alcaraz - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVdHX2FPeWx5bGtqdXd1STBoWkFCWExjVGZ5WlRGODg4TWdvSFJDU29laWZrVnJBRU8zVldIYXFONWxwZl8wWWFfYnBjYmRsSUhxV1lCeDlVY2xkQzhxZzltd3pGaGg0LTNUZkN6a1R1M3p2LXNDeGZLbXBQNmpNYjZObXY?oc=5"
-      },
-      {
-       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
-       "fuente": "DAZN",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
       }
      ]
     }
@@ -6865,7 +6865,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -6953,7 +6953,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:10+00:00",
+   "actualizado": "2026-11-01T09:24+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
