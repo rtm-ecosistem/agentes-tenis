@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.209,
+     "envidia": 0.206,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T08:10+00:00",
+    "hora": "2026-11-01T09:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T08:10+00:00",
+    "hora": "2026-11-01T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T08:10+00:00",
+    "hora": "2026-11-01T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T08:10+00:00",
+    "hora": "2026-11-01T09:10+00:00",
     "rent": 0.0
    }
   }
@@ -2187,16 +2187,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-29T15:35+00:00",
-   "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-29T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Novak Djokovic – Jan-Lennard Struff, Flavio Cobolli – Matteo Berrettini: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-29T16:10+00:00",
    "texto": "Hoy ya se han gastado los créditos para apostar con noticias: lo verán mañana.",
    "tipo": "info"
@@ -2585,6 +2575,16 @@
    "hora": "2026-11-01T08:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T09:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Jiri Lehecka – Valentin Vacherot: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T09:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2610,15 +2610,19 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "66383fa40448",
+  "b612922c63cf",
+  "559c2054e564",
   "8c2c37250a11",
   "0d1ffb6ba7d8",
+  "3f4422d3c6b8",
   "f611e77868e0",
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "7d64ddda314d",
   "0590d5ffa2e2",
-  "853a64264c31",
   "56745ca3858d",
+  "853a64264c31",
   "92ee25f2ac65",
   "aec47ba57b11",
   "94d10c4a8d53",
@@ -2677,17 +2681,16 @@
   "1279128c1f75",
   "49488922f840",
   "53e5a600094a",
-  "66383fa40448",
   "9686d98f0dba",
   "9cf11b52f715",
   "bc2226da5cb5",
   "791e6a5042cd",
   "dc78a94662d7",
   "1b311e2ae91d",
-  "af464d333dd4",
   "938d9c0dc78f",
   "be7ecf260b99",
   "8661ceadbae6",
+  "43505a4ec96c",
   "302dd7961eca",
   "eb5d57d03489",
   "3010a6398e89",
@@ -2750,6 +2753,7 @@
   "6e410f2a9dc4",
   "72ec253abbd1",
   "dc897b979e24",
+  "f9a28cd8a3f1",
   "21e02784f93e",
   "0e71cde628f3",
   "c4b1138db750",
@@ -2772,6 +2776,7 @@
   "ef430485008e",
   "373572a0c337",
   "9aac0b0fc8c6",
+  "af464d333dd4",
   "daa107bff888",
   "98d8e7b3477b",
   "fc2b6b895408",
@@ -2792,7 +2797,6 @@
   "ed3dafdd9537",
   "5136292a0ff5",
   "7dafc0048328",
-  "99aea68adc22",
   "e5ee2b38f697",
   "e3a38017d511",
   "bc5f3c4aee07",
@@ -2814,6 +2818,7 @@
   "ce3e0135ecb7",
   "1ee8c00ba4a5",
   "13dd2f31df10",
+  "99aea68adc22",
   "55562ee432ed",
   "5786ec5c8976",
   "37c0fb2d5092",
@@ -2847,7 +2852,6 @@
   "0f8cc64f2377",
   "deb257f23494",
   "e57d31fb025e",
-  "559c2054e564",
   "a3207dd9a353",
   "50447de92e7e",
   "05b2aedb51ae",
@@ -3405,11 +3409,7 @@
   "123114c445a6",
   "3b0942b849ac",
   "307e0986011e",
-  "fbc819a49992",
-  "920fce7b84ef",
-  "81db83bd3fe9",
-  "6d1d4c230bc2",
-  "558f25ec7e8c"
+  "fbc819a49992"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6249,7 +6249,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.566,
    "elo_general": 0.569,
    "elo_en_superficie": 0.562,
@@ -6337,7 +6337,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.676,
    "elo_general": 0.702,
    "elo_en_superficie": 0.651,
@@ -6401,16 +6401,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXd3MjlPWDlTWTZ1T0NxVmNHd1RpcUMtem9uMVpLYy12Q2szQUo0M2VMbko2OFJCNWxtdi1lM1Vrc21kdG9CR3lvNUNQaHR5dEJ6MEtxTmU3OGdYYUp3bzdqZUhmblhZcEFNaEJYeEduSDR1d2dQeExQZGZfdl9fX2pwaVN1cHpHRjlvVEJqTjVJMWVjdEk4ZzU4QTNmS1gwVm5pOXk1bGdidmlvblZVLTB5TEtRM1Bk?oc=5"
       },
       {
-       "titulo": "Triple victoria argentina en las semifinales de la qualy del Masters 1000 de París - Tiempo Sur",
-       "fuente": "Tiempo Sur",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHJiUmUzX2NLUzNuZmd3c0wxNTZPWUtuZXVVeTNoTVYyYlhzdEtOcm5LTFFCLV9FbzlwZERuazJZLThrSDlJSVdIVXAwajZaeTZZd0hTM3JJazRGYVhORDVEdjdGWVhlMW9kZXphTzd0TFM2dUJCa1BWQUk0QUZ1d29SbS1YM3pyQ3hZOW9UQ2R5OUR6eGxMQ21rblRGWW13MWFtdFpYRUIzMnZaZ0d3YVVoTkR5ZGZ2OWRZ0gHAAUFVX3lxTE1JS0UxOUxBRTI5ZG12S1JydW1pYlQ2V3k3cXZ1SE1YSGN4VENoQ09LWW54WUxIckJQa1l2M3NOZDByN2hna3RRdkYtNDF5bjJiZmRublZ3ZFMxWTQyNGZ2OHo4UHp1UkQySkZqaFRqdDFQOFoycXg3d1dBUEh3WnR3ZG1MN3djUzI5V3ZQa3IwemoweTEtVG9lUXVRQ2R0NUEwRXUxdmhiMWZEeTdGSE5OYkNEaFNuaWd6MlFyaVNuWg?oc=5"
-      },
-      {
        "titulo": "Primera ronda. Juanma Cerúndolo, Tirante y Báez avanzan en la clasificación del Masters 1000 de París - La Voz del Interior",
        "fuente": "La Voz del Interior",
        "fecha": "2026-10-31",
        "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHQxMURXUTdRSlJSa2xKU2lOZWxmbnE4Wm9aZ0ptTmc1QVZfUzZUY3l2Z29waUlwdHBETXVDM3E2d1hUTDZoQTBfU0x5Y2VZUVRmMFhFU193TzB6NWtQUzltUFVlanhVaFNwOE9VUnZVaVZHeXRrMW9MTTFOQURFUUZwZkNUM3BxWURVbVhMR0ZBS0t0SEdDd1NNbWFmYkZhN2E3MzVsN1RpWTVBNXpveWhRNzV3bEh1NTBUay1Tdw?oc=5"
+      },
+      {
+       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-10-31",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
       }
      ]
     }
@@ -6425,7 +6425,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.566,
    "elo_general": 0.601,
    "elo_en_superficie": 0.532,
@@ -6513,7 +6513,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.653,
    "elo_general": 0.625,
    "elo_en_superficie": 0.68,
@@ -6601,7 +6601,7 @@
    "inicio": "2026-11-01T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.372,
    "elo_general": 0.378,
    "elo_en_superficie": 0.365,
@@ -6689,7 +6689,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -6777,7 +6777,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -6801,6 +6801,12 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-10-31 contra Alexander Zverev, ganó 6-4 1-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
+      },
+      {
        "titulo": "De Minaur lanza un aviso antes de enfrentarse a Alcaraz - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-11-01",
@@ -6811,12 +6817,6 @@
        "fuente": "DAZN",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
-      },
-      {
-       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
-       "fuente": "DAZN",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZUVOZmZJWHpEbWdiYmhrU2dMd3JqaGtNYXJBUTF6blE5eE0wMExrRlJrVjY5cS1LYlkxUFNrSUFiNkN2V1M0Tmx3ZWtNYTJuMmxjdzQyQWlJMldaZEE2Vk15RDlhNUNRYm5RTnJNeDMzV1NqR2pnY0ljTWpodTF1TDA3MVZOTk42MmZ1Q29HUVRWWl9WSDJ3QmxZbjg5VG11WUpucG1hZHpVMUoyRlBJdEZkaWwtM3RSS2NvWGkxMnBQaDdoRzQxU3NobzZYWmREZEFxbm14a0UzbDczSDVkX254Tk9WUkJ5bjZ6Yk55Sm14cGlpamNRT3BwbkFtRFpVcTktYXdwRTBFUWNoZV9ULTE4bzNOVW1aSVZCVFlBQkhnMG9peHNN?oc=5"
       }
      ]
     },
@@ -6835,6 +6835,12 @@
      "cansancio": "3 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-10-31 contra Daniil Medvedev, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
+      },
+      {
        "titulo": "De Minaur lanza un aviso antes de enfrentarse a Alcaraz - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-11-01",
@@ -6845,12 +6851,6 @@
        "fuente": "DAZN",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lFZUd0dFJKZDViWXJKWUdOMnhEWFcyUm03YXVaWkVsVktGSWM1WV9wWG10bEFNTUFsQXdWbDN5NTVZZHQ3N1NZajBVVm1qbnRjVkw4U1lXdVZKWjVfZnhQenZQZjJqUHN1QjNxSzFwWnpKSjRQSjFWc2lFMkxLWFpBSHBhYWZHaHBMenZGRlZ0M2Z4REhCZFU0T3RmYzBrVmJ4NUhUOVZ1R0E3bWM2VFZLSDhCYTZIdm9NU01xaWg3dmNLd3MzelBpb2l2ckJPUm9CdG1mR0tlVXczQl9fUjdGX05ZZ2NTbmtIQTJQWkJ5cWdCNHlEd0ZsNU9yMzl1M25QOGFFeVFHR3NhYmtYRGpmTW9Ody1uRHJuSkFDM3NSeDRyb05VTA?oc=5"
-      },
-      {
-       "titulo": "Cómo ver Carlos Alcaraz vs Álex de Miñaur en vivo: canales, streaming y horarios del ATP 500 de Viena 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
-       "fuente": "DAZN",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZUVOZmZJWHpEbWdiYmhrU2dMd3JqaGtNYXJBUTF6blE5eE0wMExrRlJrVjY5cS1LYlkxUFNrSUFiNkN2V1M0Tmx3ZWtNYTJuMmxjdzQyQWlJMldaZEE2Vk15RDlhNUNRYm5RTnJNeDMzV1NqR2pnY0ljTWpodTF1TDA3MVZOTk42MmZ1Q29HUVRWWl9WSDJ3QmxZbjg5VG11WUpucG1hZHpVMUoyRlBJdEZkaWwtM3RSS2NvWGkxMnBQaDdoRzQxU3NobzZYWmREZEFxbm14a0UzbDczSDVkX254Tk9WUkJ5bjZ6Yk55Sm14cGlpamNRT3BwbkFtRFpVcTktYXdwRTBFUWNoZV9ULTE4bzNOVW1aSVZCVFlBQkhnMG9peHNN?oc=5"
       }
      ]
     }
@@ -6865,7 +6865,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -6953,7 +6953,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T08:10+00:00",
+   "actualizado": "2026-11-01T09:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
@@ -6989,10 +6989,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTVGcHdtZWhSaDFRWnc2X2N2NGFzNm9zRm1TZjlZMElwUjNvMklmX0NZMEhlcno1b0todGRUUnM2Q1Nfekd5QUUyWkE1ZGlCRndEUTYxSnlRY0JBZkZxZEI5cmF3SnpVTGdCUWhhLUhUU0cwa0ZWSDg0VE1fZXAzTzktdjBySWktR3B1cFdfTS1hUUJWcG5rbFVIazZTZw?oc=5"
       },
       {
-       "titulo": "Mira a Lehecka salvar un match point ante Struff de la forma más surrealista - ATP Tour",
+       "titulo": "Highlights: Lehecka salva match point y vence a Struff en Basilea - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUFkbm5wcC1UdWFaQ0t6ZGRnVTV6TTVhMEp0QzE1YVV0VFkzTVpWaGJWeXBMeWhLQzhOdmYtVmVHUzB5X3hLZXF4WVkzcDg5MTlULW5DY2hZYVZzZnhLRDM4Sk4zZjh3dkNvUFA1bEROTGJCWHFaaEJoTVl3VHZvWm5sdmlyR0dhc3NaVE4zUmlJYTctYWt2UmQ3anMzanJNVmc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3VRT2lVR2VLQmhkT0o2aVQxc0NhN1RtdmdaX0NIVll3LXFUajh2andwMzVHR1RBWFFQSGxLd2QxajlhTl9aZVRMVkpOVzlvajRmZmZYRVV0aG45aDVFa19VQkttQkFZTWk1RGcweWJWLWdqck9Ldm9pVUdHczc2NWo0THZZdnlSVngwUmgzNnFRUFVhM2NReDYyY3RqOHpwOVJmdENB?oc=5"
       }
      ]
     },
