@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.193,
+     "envidia": 0.191,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:31+00:00",
+    "hora": "2026-11-01T14:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:31+00:00",
+    "hora": "2026-11-01T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:31+00:00",
+    "hora": "2026-11-01T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:31+00:00",
+    "hora": "2026-11-01T14:10+00:00",
     "rent": 0.0
    }
   }
@@ -7035,34 +7035,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 16,
-  "ganadas": 13,
-  "unidades": 2.03,
+  "apuestas": 18,
+  "ganadas": 15,
+  "unidades": 3.49,
   "pendientes": [
-   {
-    "partido": "0da93f689af7e7e2bf2e561f3e7f7e59",
-    "jugadores": [
-     "Benjamin Bonzi",
-     "Yannick Hanfmann"
-    ],
-    "inicio": "2026-11-01T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Benjamin Bonzi",
-    "punto": null,
-    "cuota": 1.76
-   },
-   {
-    "partido": "87dd1f372becd90b913ceac1b31578d1",
-    "jugadores": [
-     "Juan Manuel Cerundolo",
-     "Miomir Kecmanovic"
-    ],
-    "inicio": "2026-11-01T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Juan Manuel Cerundolo",
-    "punto": null,
-    "cuota": 1.7
-   },
    {
     "partido": "ffcb837b0caf57b860936111d914874c",
     "jugadores": [
@@ -7129,7 +7105,9 @@
    "e33e004fe9457eef4c8e5a50d15392c0",
    "30424b55ac3fd0441d81336f4c1938a2",
    "aaf202777ebbdd0ceb31c39ca3ed6645",
-   "670a521efbb7b642d7f0bd4dce70c790"
+   "670a521efbb7b642d7f0bd4dce70c790",
+   "0da93f689af7e7e2bf2e561f3e7f7e59",
+   "87dd1f372becd90b913ceac1b31578d1"
   ]
  },
  "mercados_casas": {

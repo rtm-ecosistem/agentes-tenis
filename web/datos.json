@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T13:32+00:00",
+ "actualizado": "2026-11-01T14:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -352,14 +352,14 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.241,
+      "pct": 0.242,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.155,
+      "pct": 0.154,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -999,56 +999,6 @@
  "cartelera": {
   "actualizado": "2026-11-01T08:00+00:00",
   "partidos": [
-   {
-    "id": "3f537c10e972402ec718dc4dfa47786b",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T14:00+00:00",
-    "jugadores": [
-     "Nuno Borges",
-     "Alex Molcan"
-    ],
-    "opciones": [
-     {
-      "id": "3f537c10e972402ec718dc4dfa47786b|h2h|Alex Molcan|",
-      "mercado": "h2h",
-      "nombre": "Alex Molcan",
-      "punto": null,
-      "cuota": 2.2,
-      "pinnacle": 2.28
-     },
-     {
-      "id": "3f537c10e972402ec718dc4dfa47786b|h2h|Nuno Borges|",
-      "mercado": "h2h",
-      "nombre": "Nuno Borges",
-      "punto": null,
-      "cuota": 1.6,
-      "pinnacle": 1.65
-     },
-     {
-      "id": "3f537c10e972402ec718dc4dfa47786b|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.78,
-      "pinnacle": null
-     },
-     {
-      "id": "3f537c10e972402ec718dc4dfa47786b|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.93,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex Molcan": 2.28,
-     "Nuno Borges": 1.65
-    }
-   },
    {
     "id": "45420e4ccaa96290ca605d63fe10dcc6",
     "deporte": "tennis_atp_swiss_indoors",
@@ -2123,9 +2073,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 16,
-  "aciertos": 0.8125,
-  "yield": 0.126875
+  "apuestas": 18,
+  "aciertos": 0.8333333333333334,
+  "yield": 0.1938888888888889
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
