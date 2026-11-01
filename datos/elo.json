@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T00:10+00:00",
+ "actualizado": "2026-11-01T02:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -20618,19 +20618,18 @@
    "nombre": "Fiona Ferro",
    "circuito": "WTA",
    "elo": {
-    "all": 1705.6,
-    "hard": 1709.2,
+    "all": 1683.0,
+    "hard": 1681.0,
     "clay": 1640.7,
     "grass": 1443.6
    },
    "n": {
-    "all": 49,
-    "hard": 41,
+    "all": 50,
+    "hard": 42,
     "clay": 7,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-12 G hard vs Dalma Galfi",
     "2026-09-13 G hard vs Noma Noha Akugue",
     "2026-09-21 P hard vs Talia Gibson",
     "2026-09-28 G hard vs Yang Yidi",
@@ -20639,7 +20638,8 @@
     "2026-10-16 P hard vs Leyre Romero Gormaz",
     "2026-10-27 G hard vs Steve Johnson",
     "2026-10-29 G hard vs Adriana Reami",
-    "2026-10-31 G hard vs Elizabeth Mandlik"
+    "2026-10-31 G hard vs Elizabeth Mandlik",
+    "2026-11-01 P hard vs Tatjana Maria"
    ]
   },
   "dodin|o": {
@@ -20777,19 +20777,18 @@
    "nombre": "Tatjana Maria",
    "circuito": "WTA",
    "elo": {
-    "all": 1743.8,
-    "hard": 1694.3,
+    "all": 1765.0,
+    "hard": 1722.5,
     "clay": 1510.6,
     "grass": 1618.2
    },
    "n": {
-    "all": 58,
-    "hard": 41,
+    "all": 59,
+    "hard": 42,
     "clay": 6,
     "grass": 11
    },
    "ultimos": [
-    "2026-08-01 G hard vs Isabella Marton",
     "2026-08-04 P hard vs Catherine McNally",
     "2026-08-13 G hard vs Dayana Yastremska",
     "2026-08-15 P hard vs Diana Shnaider",
@@ -20798,7 +20797,8 @@
     "2026-09-14 P hard vs Taylor Townsend",
     "2026-10-27 G hard vs Carlota Garibay Romero",
     "2026-10-29 G hard vs Martina Colmegna",
-    "2026-10-30 G hard vs Valeriya Strakhova"
+    "2026-10-30 G hard vs Valeriya Strakhova",
+    "2026-11-01 G hard vs Fiona Ferro"
    ]
   },
   "tikhonova|a": {
@@ -91169,7 +91169,11 @@
   "charaeva|a~jacquemot|e": [
    1,
    0
+  ],
+  "ferro|f~maria|t": [
+   0,
+   1
   ]
  },
- "propios": 10486
+ "propios": 10487
 }

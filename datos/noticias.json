@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T01:46+00:00",
+ "actualizado": "2026-11-01T02:10+00:00",
  "noticias": [
   {
    "id": "0d1ffb6ba7d8",
@@ -8,6 +8,22 @@
    "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDltb0ExQXI5N1RtUHpqNFJuWG9JMTNhcmVKUzdNQ2dmS0RydEIxQ19PZl9XaG84azQySE1YWjdQTWhuWS1IOUo0N2ZudXZiX2dDd0lVYy1VRHZJaGhFNkJwdGhVcHlLWkV1UWY5WXBKNk1RUmNqWWpIeEFWRldKLXVxaHRsTTFEYlVSbWpzS0JrcjBLTmgxaGhEWlJXbmh3RWk3WVEybU1fdVE4dUE?oc=5",
    "fecha": "2026-11-01T01:15+00:00",
    "fuente": "Tennis.com"
+  },
+  {
+   "id": "f62829bbfa07",
+   "titulo": "Alejo Lorenzo Lingua Lavallen - ATP Tour",
+   "resumen": "Alejo Lorenzo Lingua Lavallen ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYzJwdkFFOWo5RUxfdTRnMkJmMklpZzZJS1FCc3NFbWt6VFdJelctWWpjQUJwUHpjU0o3c1VsLUp6Ui1VMEJwSHBvaDRBSWU4UTUzZjlkNDVONmZOd3hDbGRvVExObUp0Y0puZHI3el9fVmN5UjU3UlVINXRiQWlYYVZHVXN6T3JPbTd2VDZZTjFhNEZJb2kzMGt0S3FDRFNqLTNkZVBsVThNeUllR1lXMQ?oc=5",
+   "fecha": "2026-11-01T00:54+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "6585ed794dcb",
+   "titulo": "Joao Victor Couto Loureiro - ATP Tour",
+   "resumen": "Joao Victor Couto Loureiro ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxObm51VHJTMmxlZkNkT2FGbV81SWxvZGI1bUxlOGZlU3pwYTFhVkpndXg5YjhtaDN6RkxvQ00yWUE5SkxlQUl5cDB3QnRDV2JxUy1vOEhCY2ZMaXZKRWR3U3lZTmtIV2ZqQmpOS2JfUGx2aGNLcUR2OVh1czlTTmFhSEQzVjlzUndZU0I2Q1NsUXZlUjVyX1RXYjlQSjcxQQ?oc=5",
+   "fecha": "2026-11-01T00:54+00:00",
+   "fuente": "ATP Tour"
   },
   {
    "id": "7d64ddda314d",
@@ -136,6 +152,22 @@
    "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcnI0TzFMRW9sTGtIYS1oMDUzRGpkVjZsTDVEY3RRSk05Z01FYVZvMHhZTm1RMGZ5MHo1MmdBWjBiUXFuZExJUlpDbXN2ME4yaDNNQVd6QzQteUFHOXhZ?oc=5",
    "fecha": "2026-10-31T21:33+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "c424ecd55b5a",
+   "titulo": "MATCH NOTES - WTA Tennis",
+   "resumen": "MATCH NOTES WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uTDk2ZXBRLXZ0a2xEX1FCdjFRWFMtLXpSdmRPZmt5SEJXY2lYbnNTeEwxd29DemNta09maFRZNmNqdkZLYWxHTXBaYmk2YzdPRUdVQmIyekxyM3dzdWtkWEZUaWZmWGdtNHFDcXVB?oc=5",
+   "fecha": "2026-10-31T21:24+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "baf8d517ee36",
+   "titulo": "LUANDA 125: DRAW LS - WTA Tennis",
+   "resumen": "LUANDA 125: DRAW LS WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNWZmd1pwekhoV2t1dEhTbl9kM2t3b1F4YlMybGxqSFhBU1RfX09sUnBJLV9rZkFQYUU5M2dpNUVSWGVtdlFHQTRieE5Pa0MwRGtHUzBrY1N1bnJzOEFOVWhIclY0TWxsNWc?oc=5",
+   "fecha": "2026-10-31T21:09+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "0fa87f82274d",
@@ -805,14 +837,6 @@
    "jugador": "Lorenzo Sonego"
   },
   {
-   "id": "13dd2f31df10",
-   "titulo": "Hot shot: Fernandez's 'absolutely brilliant' drop shot earns set point - WTA Tennis",
-   "resumen": "Hot shot: Fernandez's 'absolutely brilliant' drop shot earns set point WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGpOdWdUUlJURlZ4TDR5cExRTW83XzdaQndpT1hNZVpCd1lhcWtzRGF6WV9xWWdqbER4el9aTmhnRTI4ZmJJczhnX0NBWlJrRWE2ZEMyNl9IY0xnVExRVG1hWXVOR2FBcUVmMDl2cEQyYnlkTFYtY2VMekxrVnd0UWs4UFpDT3l6T0lFVE5YNmVMOENVdEZIenFEVXpfME82RWZJaThrS01BVlk?oc=5",
-   "fecha": "2026-10-31T12:58+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "99aea68adc22",
    "titulo": "Polina Kudermetova, Timofeeva end Venus Williams, Tjen run in Guangzhou semis - WTA Tennis",
    "resumen": "Polina Kudermetova, Timofeeva end Venus Williams, Tjen run in Guangzhou semis WTA Tennis",
@@ -1194,6 +1218,14 @@
    "fecha": "2026-10-31T09:04+00:00",
    "fuente": "ATP Tour",
    "jugador": "Jiri Lehecka"
+  },
+  {
+   "id": "13dd2f31df10",
+   "titulo": "Hot shot: Fernandez's 'absolutely brilliant' drop shot earns set point - WTA Tennis",
+   "resumen": "Hot shot: Fernandez's 'absolutely brilliant' drop shot earns set point WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGpOdWdUUlJURlZ4TDR5cExRTW83XzdaQndpT1hNZVpCd1lhcWtzRGF6WV9xWWdqbER4el9aTmhnRTI4ZmJJczhnX0NBWlJrRWE2ZEMyNl9IY0xnVExRVG1hWXVOR2FBcUVmMDl2cEQyYnlkTFYtY2VMekxrVnd0UWs4UFpDT3l6T0lFVE5YNmVMOENVdEZIenFEVXpfME82RWZJaThrS01BVlk?oc=5",
+   "fecha": "2026-10-31T08:58+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "aff6f145b524",
@@ -2858,6 +2890,14 @@
    "fuente": "ATP Tour"
   },
   {
+   "id": "f1af2c32943a",
+   "titulo": "Guangzhou Open 2025 Overview - WTA Tennis",
+   "resumen": "Guangzhou Open 2025 Overview WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pMnNvZ19DLVJ2WTE4a2FWd01PWXhmanNsYjdxcWVNVWtDc19DVEFNamQyZDQ2RFNXRnZZWmVMSERMcEo1RUtFNzI3ZGRIRDY0RXhHWlRDY2dWck1od2RJMG1sblNTRGFXQ1BzUF9DYw?oc=5",
+   "fecha": "2026-10-30T17:26+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "894b67092dc7",
    "titulo": "J.J. Wolf vs. Daniel Milavsky Sioux Falls 2026 Round of 16 | Stats Centre | ATP Tour | Tennis - ATP Tour",
    "resumen": "J.J. Wolf vs. Daniel Milavsky Sioux Falls 2026 Round of 16 | Stats Centre | ATP Tour | Tennis ATP Tour",
@@ -3033,14 +3073,6 @@
    "resumen": "Vote: What was the best shot of the week? WTA Tennis",
    "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmdFMXZKYkgzcDlCakhqSUFSOTZaSzJ1SHNqelQtaUJKZGxVRHNwX29jeFZ3cUkxWEZyY3BEUXZsNnRwSzVRTm50bTJJWkpLekRnTHBQc3VmaWVXRDlkLVdiaHE1TTRYdFRuMVp1TkROSFdiaU5pTndUTUN1OVFRZG1nTmw?oc=5",
    "fecha": "2026-10-30T16:11+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "f4102d64a589",
-   "titulo": "Toray Pan Pacific Open Tennis 2025 Overview | WTA Official - WTA Tennis",
-   "resumen": "Toray Pan Pacific Open Tennis 2025 Overview | WTA Official WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xlaFYtVURoWjBTQ2Jad0ZKclY1aVdXY2hBMURLX3dfZlg0VGdZd3dja3BKNzF5QWRtU29MRWhVX1hsOTRfdlhScklCUnozdXQ5b2NWcGwwdHRMQWdrQmRKQUlQUmFJVE8waDQzV0xmRl9EUGxUTFJ4dTZOZFI1REptRQ?oc=5",
-   "fecha": "2026-10-30T16:10+00:00",
    "fuente": "WTA"
   },
   {
@@ -3765,6 +3797,14 @@
    "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DZ0pVX3ZGMl9LRUZ5TC1OVTBNd3JTNzBMTnJPUEpVbFI4VEp1RW5QR25vVFRZRGFJRDhXV3hOd1haX1FwX2lqaFJLVEJFYU9pM3k2R0ZrZFNvSEVwQzVKbVoxSkdqZkxwd2FUTzJiZVowd0hZMVQzLVgxR3c0QTg?oc=5",
    "fecha": "2026-10-30T09:49+00:00",
    "fuente": "Punto de Break"
+  },
+  {
+   "id": "f4102d64a589",
+   "titulo": "Toray Pan Pacific Open Tennis 2025 Overview | WTA Official - WTA Tennis",
+   "resumen": "Toray Pan Pacific Open Tennis 2025 Overview | WTA Official WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2xlaFYtVURoWjBTQ2Jad0ZKclY1aVdXY2hBMURLX3dfZlg0VGdZd3dja3BKNzF5QWRtU29MRWhVX1hsOTRfdlhScklCUnozdXQ5b2NWcGwwdHRMQWdrQmRKQUlQUmFJVE8waDQzV0xmRl9EUGxUTFJ4dTZOZFI1REptRQ?oc=5",
+   "fecha": "2026-10-30T09:41+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "24ad16c08000",
@@ -4756,6 +4796,14 @@
    "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PbGlDZk9NdWJHSGNPOGZsYXBBNThUM1BTaWo4aldxUmE5M0taTlhQbUtHQ3lpMG00eTZJOTRtcWxETnBVSWxYMnpva0taX0t3d1I4TTlTRUd2UWhMb3NtVk1KNVY1R0s2VTk5cVpTNWtJV0wxVEpiSHRB?oc=5",
    "fecha": "2026-10-29T22:03+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "55ba2cfce63e",
+   "titulo": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters - WTA Tennis",
+   "resumen": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRVaGpNYTRHZi15OU5ZNlZiTThWclhHeWFkLXdCaVBwakxnVjBfQ2NMWXFjYmtUY1NqQVBhdXlRLWtfUVYxNS1oWWUtX04xdnZJVHFrTzhmRmpiZTg3VUpSbHVaSFdjVWFkaDZpbjVCTjZJTEV3b0F6dTJYNG8zQVZqWTZia28xVnRGalc1dlVRaFpZbVR5MTR0ZzZZSkw4OW4zVVAwNDNJdw?oc=5",
+   "fecha": "2026-10-29T22:03+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "37eb15fa99bf",
@@ -5754,14 +5802,6 @@
    "fuente": "ATP Tour"
   },
   {
-   "id": "55ba2cfce63e",
-   "titulo": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters - WTA Tennis",
-   "resumen": "Shnaider overcomes Sasnovich in three sets to make Tokyo quarters WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVRVaGpNYTRHZi15OU5ZNlZiTThWclhHeWFkLXdCaVBwakxnVjBfQ2NMWXFjYmtUY1NqQVBhdXlRLWtfUVYxNS1oWWUtX04xdnZJVHFrTzhmRmpiZTg3VUpSbHVaSFdjVWFkaDZpbjVCTjZJTEV3b0F6dTJYNG8zQVZqWTZia28xVnRGalc1dlVRaFpZbVR5MTR0ZzZZSkw4OW4zVVAwNDNJdw?oc=5",
-   "fecha": "2026-10-29T16:03+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "123114c445a6",
    "titulo": "Cameron Norrie vs. Daniil Medvedev Vienna 2026 Round of 16 | Stats Centre | ATP Tour | Tennis - ATP Tour",
    "resumen": "Cameron Norrie vs. Daniil Medvedev Vienna 2026 Round of 16 | Stats Centre | ATP Tour | Tennis ATP Tour",
@@ -6639,48 +6679,6 @@
    "fecha": "2026-10-29T10:51+00:00",
    "fuente": "TN",
    "jugador": "Lorenzo Musetti"
-  },
-  {
-   "id": "4edbc9b72979",
-   "titulo": "Ignacio Buse cayó 2-1 ante Adrian Mannarino por el ATP 500 de Viena 2026 - El Comercio Perú",
-   "resumen": "Ignacio Buse cayó 2-1 ante Adrian Mannarino por el ATP 500 de Viena 2026 El Comercio Perú",
-   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb0xkM2d2ZXZDb1RzZnJNb2J0dy1IV0ZfVlI0alh1UkdhQXNUWGZtVmIyc003QzB1WjZDTkR3azFFTWpMRmg4REFfWnRaelU1NVJWMF94WG9zOVpLTFp2SFk0Q3N2ZjZxMVNwZ01fUklJNXZHU2hPMmZsbnZSOWFYZ1h5cXQxcWpmM0M4SzdEZVVjellvZE50V1R6MUR3NWhMck1DbmRiaGliZ3dSQXprMVVBdkxVSUVmWWYzeGJMam1KZHlOdXJjSHIyR1NLS2tFRHh4dWVzNUpBM1o2QXRzNHducTA5UdIB-gFBVV95cUxPVTFxeHdfRDEyNmM5Q1BHaV95T3BrTkhDZXItRFQ3azBESUtzM1JPcmpUT2RhN0QyQ2luV1FnSzc4MVJBYk1maS1GcVc4WWNucHdvLUZMRS1rbEtuUXo0cWg5eUZ0czZDWlpnM01GRjRfc2FWZndkeERmR2I5R1pNYVh2S1ltbGV4TFZUbG41dWROZ3c1UjhPMXZDN25HeERiaXZvamxhSzYyczBhd0F3SXkwN3hpRmw5c3RvTXExSnZ5NU9xbGhxQ21tU1VXYnFVSjQ3VnZhZWdpYXlBemZuc1hZakVPaWV5OUNUeVpSdkhLSG9FbXVNY3J3?oc=5",
-   "fecha": "2026-10-29T10:37+00:00",
-   "fuente": "El Comercio Perú",
-   "jugador": "Adrian Mannarino"
-  },
-  {
-   "id": "a29ea2ddc5f3",
-   "titulo": "ATP 500 Basilea: Ben Shelton vs Jerome Kym - Pensador de Apuestas",
-   "resumen": "ATP 500 Basilea: Ben Shelton vs Jerome Kym Pensador de Apuestas",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDlSYzlSUDUwcjdoMVZEZVlYaUNicXpFVkRqdFFuLWVhWVA0V0I3TUdOaThJSUItc2p6dndxSmtXOGhxYlAtUDV3emRIbV83N2hwaWtJc1doYVgtNmFoYXRmMG9keWpNTzBIbWtkNTEtVzhxVm9FYW90VmZGQ3E2TUZJWQ?oc=5",
-   "fecha": "2026-10-29T10:36+00:00",
-   "fuente": "Pensador de Apuestas",
-   "jugador": "Jerome Kym"
-  },
-  {
-   "id": "222540179098",
-   "titulo": "Rybakina defeats Putintseva in Tokyo to secure Year-End No. 1 Ranking - WTA Tennis",
-   "resumen": "Rybakina defeats Putintseva in Tokyo to secure Year-End No. 1 Ranking WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29TUEdZMDVpSlRGNV9hUDNsVGljWXhRQndWWmtxUDZINkdfQnhoN0ZDUGhyNmhxWVFwdnpoRC1QNGg3SGVMcW8zWWI4Rzlia1plVFRmSVROeS12N3FXb3lwbEo2Y2pDbWRjU2tFUC0taERVeWRKNE1VeS1XcUxvNHJJM2oyN05xUDJaaGN4TkpBWFhLdjVya3lHSDdETUJzYnhydXo1dlB2V0U?oc=5",
-   "fecha": "2026-10-29T10:34+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "bbdb6b2dbf4d",
-   "titulo": "Tomas Barrios Vera vs. Juan Estevez Guayaquil 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Tomas Barrios Vera vs. Juan Estevez Guayaquil 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BTjhwbEhqd0tUUGVxOHdtUWRiMm9IQXpVOVg0TkpjV1Rock95OXI4MTh0RU15R0ZQczZaOEE3TzJESkNjMFFQMnFpNE1GNTYwdDNMVFhoZjNodUxzLU9LZE1GRG1nYkxvM2Z2NlR4cWpoTFc1UTdOWkxR?oc=5",
-   "fecha": "2026-10-29T10:33+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "486db5df09af",
-   "titulo": "Amir Omarkhanov - ATP Tour",
-   "resumen": "Amir Omarkhanov ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fOTNHaV9MZ0VFa2pFdmYwaWhreXJoOE9GdnRseXlnRDlZSTdjVGtUdkg3UkFndnlfbmNqNUdRMWFjM29ZWnI0enNBMlVjTG9DWFNIQTdLMlIxcng0a0FVRVA4T3lNbUhsTGI3RFpHVQ?oc=5",
-   "fecha": "2026-10-29T10:23+00:00",
-   "fuente": "ATP Tour"
   }
  ]
 }
