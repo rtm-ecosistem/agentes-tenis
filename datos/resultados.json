@@ -237902,6 +237902,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Sebastian Baez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Saumya Vig",
+    "Abigayel Vosloo"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

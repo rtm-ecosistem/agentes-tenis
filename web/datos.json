@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T13:10+00:00",
+ "actualizado": "2026-11-01T13:32+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.281,
+      "pct": 0.282,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.156,
+      "pct": 0.155,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -2123,9 +2123,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 15,
-  "aciertos": 0.8,
-  "yield": 0.12333333333333334
+  "apuestas": 16,
+  "aciertos": 0.8125,
+  "yield": 0.126875
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

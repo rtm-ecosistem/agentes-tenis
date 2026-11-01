@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.194,
+     "envidia": 0.193,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:10+00:00",
+    "hora": "2026-11-01T13:31+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:10+00:00",
+    "hora": "2026-11-01T13:31+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:10+00:00",
+    "hora": "2026-11-01T13:31+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T13:10+00:00",
+    "hora": "2026-11-01T13:31+00:00",
     "rent": 0.0
    }
   }
@@ -2610,6 +2610,8 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-11-01-14",
  "noticias_vistas": [
+  "0d1ffb6ba7d8",
+  "3e38e450c7eb",
   "6a5f8284a94b",
   "3a2d0a629de4",
   "01c9b2532a06",
@@ -2642,7 +2644,6 @@
   "dfc1d5b67f4c",
   "b9573c6a20c2",
   "8c2c37250a11",
-  "0d1ffb6ba7d8",
   "5d1885a816b0",
   "c86573fc8789",
   "34ec375747d5",
@@ -2778,6 +2779,7 @@
   "fd3a215fab65",
   "23198f3ab07b",
   "9ee19ab0855e",
+  "f4f00cc489ed",
   "819f8dd5d4c5",
   "33fbfe64ecb1",
   "67b34a9eb0e0",
@@ -3407,9 +3409,7 @@
   "4ad766ee34e1",
   "e92600ac5cac",
   "14935664a779",
-  "ed48f3b8f681",
-  "77aec716c913",
-  "b58260a61c12"
+  "ed48f3b8f681"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7035,9 +7035,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 15,
-  "ganadas": 12,
-  "unidades": 1.85,
+  "apuestas": 16,
+  "ganadas": 13,
+  "unidades": 2.03,
   "pendientes": [
    {
     "partido": "0da93f689af7e7e2bf2e561f3e7f7e59",
@@ -7062,18 +7062,6 @@
     "seleccion": "Juan Manuel Cerundolo",
     "punto": null,
     "cuota": 1.7
-   },
-   {
-    "partido": "670a521efbb7b642d7f0bd4dce70c790",
-    "jugadores": [
-     "Sebastian Baez",
-     "Tomas Machac"
-    ],
-    "inicio": "2026-11-01T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Tomas Machac",
-    "punto": null,
-    "cuota": 1.18
    },
    {
     "partido": "ffcb837b0caf57b860936111d914874c",
@@ -7140,7 +7128,8 @@
    "552fda4930d6ed5d9fef41d162da947d",
    "e33e004fe9457eef4c8e5a50d15392c0",
    "30424b55ac3fd0441d81336f4c1938a2",
-   "aaf202777ebbdd0ceb31c39ca3ed6645"
+   "aaf202777ebbdd0ceb31c39ca3ed6645",
+   "670a521efbb7b642d7f0bd4dce70c790"
   ]
  },
  "mercados_casas": {

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T12:10+00:00",
+ "actualizado": "2026-11-01T13:32+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -173,19 +173,18 @@
    "nombre": "Tomas Machac",
    "circuito": "ATP",
    "elo": {
-    "all": 1652.8,
-    "hard": 1660.7,
+    "all": 1665.8,
+    "hard": 1674.9,
     "clay": 1585.8,
     "grass": 1491.4
    },
    "n": {
-    "all": 136,
-    "hard": 100,
+    "all": 137,
+    "hard": 101,
     "clay": 28,
     "grass": 8
    },
    "ultimos": [
-    "2026-09-28 G hard vs Yannick Hanfmann",
     "2026-09-29 P hard vs Arthur Gea",
     "2026-10-01 P hard vs Alex Molcan",
     "2026-10-07 G hard vs Zhang Zhizhen",
@@ -194,7 +193,8 @@
     "2026-10-22 P hard vs Karen Khachanov",
     "2026-10-24 G hard vs Corentin Moutet",
     "2026-10-26 P hard vs Alex de Minaur",
-    "2026-10-31 G hard vs Martin Landaluce"
+    "2026-10-31 G hard vs Martin Landaluce",
+    "2026-11-01 G hard vs Sebastian Baez"
    ]
   },
   "martin etcheverry|t": {
@@ -477,19 +477,18 @@
    "nombre": "Sebastian Baez",
    "circuito": "ATP",
    "elo": {
-    "all": 1566.0,
-    "hard": 1564.8,
+    "all": 1553.5,
+    "hard": 1549.5,
     "clay": 1460.0,
     "grass": 1326.1
    },
    "n": {
-    "all": 150,
-    "hard": 83,
+    "all": 151,
+    "hard": 84,
     "clay": 62,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-16 P hard vs Learner Tien",
     "2026-08-26 G hard vs Hugo Grenier",
     "2026-08-31 P hard vs Brandon Nakashima",
     "2026-09-23 P hard vs Jenson Brooksby",
@@ -498,7 +497,8 @@
     "2026-10-10 P hard vs Valentin Vacherot",
     "2026-10-20 P hard vs Pierre-Hugues Herbert",
     "2026-10-24 P hard vs Giovanni Mpetshi Perricard",
-    "2026-10-31 G hard vs Damir Dzumhur"
+    "2026-10-31 G hard vs Damir Dzumhur",
+    "2026-11-01 P hard vs Tomas Machac"
    ]
   },
   "arnaldi|m": {
@@ -25243,20 +25243,21 @@
    "nombre": "Saumya Vig",
    "circuito": "WTA",
    "elo": {
-    "all": 1384.7,
-    "hard": 1384.7,
+    "all": 1345.7,
+    "hard": 1345.7,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-01-31 P hard vs Misaki Matsuda",
-    "2026-07-12 P hard vs Darya Khamutsianskaya"
+    "2026-07-12 P hard vs Darya Khamutsianskaya",
+    "2026-11-01 P hard vs Abigayel Vosloo"
    ]
   },
   "pawlikowska|z": {
@@ -38632,6 +38633,25 @@
    },
    "ultimos": [
     "2026-11-01 G hard vs Ashmitha Easwaramurthi"
+   ]
+  },
+  "vosloo|a": {
+   "nombre": "Abigayel Vosloo",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1544.6,
+    "hard": 1544.6,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-01 G hard vs Saumya Vig"
    ]
   }
  },
@@ -52102,7 +52122,7 @@
   ],
   "baez|s~machac|t": [
    0,
-   2
+   3
   ],
   "martinez|p~sonego|l": [
    1,
@@ -91235,7 +91255,11 @@
   "easwaramurthi|a~rachapudi|p": [
    0,
    1
+  ],
+  "vig|s~vosloo|a": [
+   0,
+   1
   ]
  },
- "propios": 10500
+ "propios": 10502
 }
