@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.2,
+     "envidia": 0.197,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 3 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T11:15+00:00",
+    "hora": "2026-11-01T12:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -329,7 +329,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T11:15+00:00",
+    "hora": "2026-11-01T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -476,7 +476,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T11:15+00:00",
+    "hora": "2026-11-01T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -636,7 +636,7 @@
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-01T11:15+00:00",
+    "hora": "2026-11-01T12:10+00:00",
     "rent": 0.0
    }
   }
@@ -2187,16 +2187,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-29T23:10+00:00",
-   "texto": "📰 Noticias nuevas de Alexandra Eala – Diana Shnaider: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T00:10+00:00",
-   "texto": "🏁 1 apuestas liquidadas.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T08:00+00:00",
    "texto": "🎾 Cartelera: 9 partidos en las próximas 24 horas (casa: William Hill).",
    "tipo": "info"
@@ -2585,6 +2575,16 @@
    "hora": "2026-11-01T11:15+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2610,10 +2610,13 @@
  "ultima_decision": "2026-11-01",
  "ultima_sala": "2026-10-31-20",
  "noticias_vistas": [
+  "3a2d0a629de4",
+  "c88005e4780a",
+  "cce7547734f4",
+  "3f5aea1e7af9",
   "b3d57ad551f1",
   "f27f5968b4e2",
   "f81bfc362bb5",
-  "3f5aea1e7af9",
   "5985835f9036",
   "21f06607c231",
   "ab03d7945331",
@@ -2624,6 +2627,7 @@
   "afaad213ca83",
   "060e9bd29d08",
   "ab3daef86d40",
+  "aa7e525fb959",
   "853a64264c31",
   "66383fa40448",
   "b612922c63cf",
@@ -2644,14 +2648,15 @@
   "2dc17d2e061e",
   "d7168f0d8abf",
   "3f87e36d349f",
+  "488ca5156299",
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "7d64ddda314d",
   "352b007acbc3",
-  "56745ca3858d",
   "1d4c3eb82d7c",
-  "0590d5ffa2e2",
   "10b4724a82a0",
+  "56745ca3858d",
+  "0590d5ffa2e2",
   "92ee25f2ac65",
   "aec47ba57b11",
   "94d10c4a8d53",
@@ -2660,7 +2665,6 @@
   "c85b24bb68a9",
   "145f8fe45b34",
   "3a2e842eca8e",
-  "16827821fb1e",
   "fcd353ba34c9",
   "75439f700d72",
   "4833d5b4abef",
@@ -2701,7 +2705,6 @@
   "884a217c8428",
   "667a85db818a",
   "2862872d42bc",
-  "999f776be5ad",
   "9aec7b940e53",
   "cf9167cb2de6",
   "c424ecd55b5a",
@@ -2728,6 +2731,7 @@
   "302dd7961eca",
   "eb5d57d03489",
   "3010a6398e89",
+  "ad297ff2bc4e",
   "73907ab7942c",
   "039cb0de817e",
   "7e7da61a13a3",
@@ -2742,6 +2746,7 @@
   "8598ba93a9d2",
   "67f212efa36e",
   "0ebb0b60a131",
+  "99aea68adc22",
   "07f06bd1e741",
   "52a1ff7e02f2",
   "6a3674adfdea",
@@ -2819,6 +2824,7 @@
   "779bcf2a9a44",
   "120e70140ad1",
   "9403b3b1ec99",
+  "999f776be5ad",
   "5fd8637907ce",
   "b727906d3dfa",
   "3828a352063d",
@@ -2830,6 +2836,7 @@
   "f099ac0a6404",
   "14370880f3d5",
   "ed3dafdd9537",
+  "559c2054e564",
   "5136292a0ff5",
   "7dafc0048328",
   "e5ee2b38f697",
@@ -2841,7 +2848,6 @@
   "24c524569df6",
   "0f3c4f376c24",
   "0ce65bae0fa4",
-  "559c2054e564",
   "cdada3b9e3a6",
   "b480d3f3db68",
   "ffbbdbc29649",
@@ -2854,7 +2860,6 @@
   "ce3e0135ecb7",
   "1ee8c00ba4a5",
   "13dd2f31df10",
-  "99aea68adc22",
   "55562ee432ed",
   "5786ec5c8976",
   "37c0fb2d5092",
@@ -2902,6 +2907,7 @@
   "a079d7f527a9",
   "d65dfee72efc",
   "e648dca2a59d",
+  "16827821fb1e",
   "ce95c03092ba",
   "cb873c8b2921",
   "320befac0a9c",
@@ -3403,13 +3409,7 @@
   "b7ffa4bd62f4",
   "0aa1958f6d49",
   "825bc1271f7c",
-  "897a2cd687da",
-  "dd3e80d725b6",
-  "f27771928e65",
-  "803ac7963f54",
-  "edf3ee892bcf",
-  "ade07707bc0f",
-  "b32391bd3bad"
+  "897a2cd687da"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -6689,7 +6689,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -6713,6 +6713,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Grigor Dimitrov, ganó 7-6 4-6 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Dani Vallejo, por el acceso al cuadro principal del Masters de París - Polideportivo - ABC Color",
+       "fuente": "ABC Color",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUm9GSmpxeGFWYS1jX0J2V1hITHhSSThId3k3Nk9YUnNTYk5lbmluYl9YZVk0eGo5TU50cWdrV1NMVDExeGFYUnRjRVlzTGpJZUowVVNaNnB6NkdET1d3WkVqbnR3U0RFaHZZRy1yS2QyMlBOUVgtUl9qU1NleTZ2Wm1sRUs4OXVITWFDU0RmRFE4dW1ENEpJMVRseHkwNnNkZUJKS2pWSW9BNk1HQ2MzX0pCRzdmbHpDRkNxNjY0aThMNGc?oc=5"
+      },
+      {
        "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
@@ -6723,12 +6729,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
-      },
-      {
-       "titulo": "Michael Blando/Kyle Overmyer VS Daniel Milavsky/Braden Shick | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEdFbDlqZEpWUUdTam01YVUtQTNoelVTM0tNSzhrV0lmUldzQ240ZjU3cWh2NGJoaVJxSkJSZXppUGxWNWo4SzdpOHNEQjVHQU9Ha3NTRlBsUFEwYlI3dTgyeTM1LWQyUFVScU9DOVA3NzJnMXlSTTVSYWpmbGhDemJMRXRxYUNUd2Y0OFQ5QmFiRHBCRlNGNm5Md1h1NEVTSGVKTTVnWQ?oc=5"
       }
      ]
     },
@@ -6747,6 +6747,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Jaume Munar, ganó 6-7 6-3 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Dani Vallejo, por el acceso al cuadro principal del Masters de París - Polideportivo - ABC Color",
+       "fuente": "ABC Color",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUm9GSmpxeGFWYS1jX0J2V1hITHhSSThId3k3Nk9YUnNTYk5lbmluYl9YZVk0eGo5TU50cWdrV1NMVDExeGFYUnRjRVlzTGpJZUowVVNaNnB6NkdET1d3WkVqbnR3U0RFaHZZRy1yS2QyMlBOUVgtUl9qU1NleTZ2Wm1sRUs4OXVITWFDU0RmRFE4dW1ENEpJMVRseHkwNnNkZUJKS2pWSW9BNk1HQ2MzX0pCRzdmbHpDRkNxNjY0aThMNGc?oc=5"
+      },
+      {
        "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
@@ -6757,12 +6763,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
-      },
-      {
-       "titulo": "Dani Vallejo vence otra vez a Grigor Dimitrov - D10",
-       "fuente": "D10",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
       }
      ]
     }
@@ -6777,7 +6777,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -6865,7 +6865,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -6953,7 +6953,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
@@ -7035,9 +7035,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 13,
-  "ganadas": 10,
-  "unidades": 1.0,
+  "apuestas": 15,
+  "ganadas": 12,
+  "unidades": 1.85,
   "pendientes": [
    {
     "partido": "0da93f689af7e7e2bf2e561f3e7f7e59",
@@ -7062,30 +7062,6 @@
     "seleccion": "Juan Manuel Cerundolo",
     "punto": null,
     "cuota": 1.7
-   },
-   {
-    "partido": "30424b55ac3fd0441d81336f4c1938a2",
-    "jugadores": [
-     "Thiago Agustin Tirante",
-     "Mattia Bellucci"
-    ],
-    "inicio": "2026-11-01T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Mattia Bellucci",
-    "punto": null,
-    "cuota": 1.49
-   },
-   {
-    "partido": "aaf202777ebbdd0ceb31c39ca3ed6645",
-    "jugadores": [
-     "Rinky Hijikata",
-     "Vit Kopriva"
-    ],
-    "inicio": "2026-11-01T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Rinky Hijikata",
-    "punto": null,
-    "cuota": 1.36
    },
    {
     "partido": "670a521efbb7b642d7f0bd4dce70c790",
@@ -7162,7 +7138,9 @@
    "3f0addea74d69db2f1b7595d4fb2b1af",
    "e29817fd8c010bb31e6c920398185da1",
    "552fda4930d6ed5d9fef41d162da947d",
-   "e33e004fe9457eef4c8e5a50d15392c0"
+   "e33e004fe9457eef4c8e5a50d15392c0",
+   "30424b55ac3fd0441d81336f4c1938a2",
+   "aaf202777ebbdd0ceb31c39ca3ed6645"
   ]
  },
  "mercados_casas": {

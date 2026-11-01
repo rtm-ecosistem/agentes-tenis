@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T11:16+00:00",
+ "actualizado": "2026-11-01T12:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,28 +338,28 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.32,
+      "pct": 0.321,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.28,
+      "pct": 0.281,
       "motivo": "Lleva 3 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.24,
+      "pct": 0.241,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.16,
+      "pct": 0.158,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -2005,6 +2005,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-01T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-01T11:15+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2143,16 +2153,6 @@
    "hora": "2026-10-31T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Sebastian Baez – Damir Dzumhur, Lorenzo Sonego – Jaume Munar, Daniil Medvedev – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-01",
@@ -2223,9 +2223,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 13,
-  "aciertos": 0.7692307692307693,
-  "yield": 0.07692307692307693
+  "apuestas": 15,
+  "aciertos": 0.8,
+  "yield": 0.12333333333333334
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -5481,7 +5481,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -5505,6 +5505,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Grigor Dimitrov, ganó 7-6 4-6 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Dani Vallejo, por el acceso al cuadro principal del Masters de París - Polideportivo - ABC Color",
+       "fuente": "ABC Color",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUm9GSmpxeGFWYS1jX0J2V1hITHhSSThId3k3Nk9YUnNTYk5lbmluYl9YZVk0eGo5TU50cWdrV1NMVDExeGFYUnRjRVlzTGpJZUowVVNaNnB6NkdET1d3WkVqbnR3U0RFaHZZRy1yS2QyMlBOUVgtUl9qU1NleTZ2Wm1sRUs4OXVITWFDU0RmRFE4dW1ENEpJMVRseHkwNnNkZUJKS2pWSW9BNk1HQ2MzX0pCRzdmbHpDRkNxNjY0aThMNGc?oc=5"
+      },
+      {
        "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
@@ -5515,12 +5521,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
-      },
-      {
-       "titulo": "Michael Blando/Kyle Overmyer VS Daniel Milavsky/Braden Shick | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEdFbDlqZEpWUUdTam01YVUtQTNoelVTM0tNSzhrV0lmUldzQ240ZjU3cWh2NGJoaVJxSkJSZXppUGxWNWo4SzdpOHNEQjVHQU9Ha3NTRlBsUFEwYlI3dTgyeTM1LWQyUFVScU9DOVA3NzJnMXlSTTVSYWpmbGhDemJMRXRxYUNUd2Y0OFQ5QmFiRHBCRlNGNm5Md1h1NEVTSGVKTTVnWQ?oc=5"
       }
      ]
     },
@@ -5539,6 +5539,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Jaume Munar, ganó 6-7 6-3 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Dani Vallejo, por el acceso al cuadro principal del Masters de París - Polideportivo - ABC Color",
+       "fuente": "ABC Color",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUm9GSmpxeGFWYS1jX0J2V1hITHhSSThId3k3Nk9YUnNTYk5lbmluYl9YZVk0eGo5TU50cWdrV1NMVDExeGFYUnRjRVlzTGpJZUowVVNaNnB6NkdET1d3WkVqbnR3U0RFaHZZRy1yS2QyMlBOUVgtUl9qU1NleTZ2Wm1sRUs4OXVITWFDU0RmRFE4dW1ENEpJMVRseHkwNnNkZUJKS2pWSW9BNk1HQ2MzX0pCRzdmbHpDRkNxNjY0aThMNGc?oc=5"
+      },
+      {
        "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
@@ -5549,12 +5555,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTBfUUY3eHNZVFNWUGlFRk5TOG03a1MyeTA0azZFcFBZdXhWVlFGOUo1U016emdkZnVRcWV3QUlSSFFOdDliRk9rdjhvZ3pzN1QzTXQyTzFiUnBBRC1yanhrd283eWRUYllyVDJUQTgtMnBjSWtjOHR2MTg5MTNuUElKRUxOUXFtYnJuLUhidnE3ZlRtZEE?oc=5"
-      },
-      {
-       "titulo": "Dani Vallejo vence otra vez a Grigor Dimitrov - D10",
-       "fuente": "D10",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
       }
      ]
     }
@@ -5569,7 +5569,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -5657,7 +5657,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -5745,7 +5745,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T11:15+00:00",
+   "actualizado": "2026-11-01T12:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,

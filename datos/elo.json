@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T11:10+00:00",
+ "actualizado": "2026-11-01T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -117,19 +117,18 @@
    "nombre": "Rinky Hijikata",
    "circuito": "ATP",
    "elo": {
-    "all": 1606.5,
-    "hard": 1610.8,
+    "all": 1620.1,
+    "hard": 1623.5,
     "clay": 1311.7,
     "grass": 1336.1
    },
    "n": {
-    "all": 121,
-    "hard": 93,
+    "all": 122,
+    "hard": 94,
     "clay": 15,
     "grass": 13
    },
    "ultimos": [
-    "2026-09-24 G hard vs Dalibor Svrcina",
     "2026-09-25 P hard vs Andrey Rublev",
     "2026-09-28 G hard vs Camilo Ugo Carabelli",
     "2026-09-29 P hard vs Stefanos Tsitsipas",
@@ -138,7 +137,8 @@
     "2026-10-24 G hard vs Miomir Kecmanovic",
     "2026-10-25 P hard vs Yannick Hanfmann",
     "2026-10-28 P hard vs Taylor Fritz",
-    "2026-10-31 G hard vs Jaime Faria"
+    "2026-10-31 G hard vs Jaime Faria",
+    "2026-11-01 G hard vs Vit Kopriva"
    ]
   },
   "kokkinakis|t": {
@@ -3176,19 +3176,18 @@
    "nombre": "Vit Kopriva",
    "circuito": "ATP",
    "elo": {
-    "all": 1517.5,
-    "hard": 1480.0,
+    "all": 1501.6,
+    "hard": 1463.4,
     "clay": 1561.5,
     "grass": 1446.7
    },
    "n": {
-    "all": 79,
-    "hard": 46,
+    "all": 80,
+    "hard": 47,
     "clay": 27,
     "grass": 6
    },
    "ultimos": [
-    "2026-08-03 G hard vs Alexis Galarneau",
     "2026-08-04 P hard vs Jiri Lehecka",
     "2026-08-14 P hard vs Quentin Halys",
     "2026-08-30 P hard vs Tomas Martin Etcheverry",
@@ -3197,7 +3196,8 @@
     "2026-09-28 P hard vs Alex Molcan",
     "2026-10-08 P hard vs Zizou Bergs",
     "2026-10-24 P hard vs Lukas Neumayer",
-    "2026-10-31 G hard vs Hugo Gaston"
+    "2026-10-31 G hard vs Hugo Gaston",
+    "2026-11-01 P hard vs Rinky Hijikata"
    ]
   },
   "halys|q": {
@@ -7445,19 +7445,18 @@
    "nombre": "Thiago Agustin Tirante",
    "circuito": "ATP",
    "elo": {
-    "all": 1678.3,
-    "hard": 1658.1,
+    "all": 1651.4,
+    "hard": 1629.8,
     "clay": 1606.6,
     "grass": 1442.4
    },
    "n": {
-    "all": 69,
-    "hard": 43,
+    "all": 70,
+    "hard": 44,
     "clay": 23,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-17 G hard vs Martin Landaluce",
     "2026-08-19 G hard vs Jakub Mensik",
     "2026-08-21 P hard vs Arthur Fils",
     "2026-08-31 P hard vs Adrian Mannarino",
@@ -7466,7 +7465,8 @@
     "2026-10-10 P hard vs Rafael Jodar",
     "2026-10-19 P hard vs Facundo Diaz Acosta",
     "2026-10-24 P hard vs Adrian Mannarino",
-    "2026-10-31 G hard vs Zachary Svajda"
+    "2026-10-31 G hard vs Zachary Svajda",
+    "2026-11-01 P hard vs Mattia Bellucci"
    ]
   },
   "comesana|f": {
@@ -8924,19 +8924,18 @@
    "nombre": "Mattia Bellucci",
    "circuito": "ATP",
    "elo": {
-    "all": 1607.1,
-    "hard": 1636.0,
+    "all": 1631.8,
+    "hard": 1659.7,
     "clay": 1375.6,
     "grass": 1476.6
    },
    "n": {
-    "all": 86,
-    "hard": 69,
+    "all": 87,
+    "hard": 70,
     "clay": 9,
     "grass": 8
    },
    "ultimos": [
-    "2026-08-25 P hard vs Luciano Darderi",
     "2026-09-01 G hard vs Zsombor Piros",
     "2026-09-03 P hard vs Taylor Fritz",
     "2026-09-24 P hard vs Kamil Majchrzak",
@@ -8945,7 +8944,8 @@
     "2026-10-07 P hard vs Zhou Yi",
     "2026-10-21 G hard vs Tomas Martin Etcheverry",
     "2026-10-22 P hard vs Terence Atmane",
-    "2026-10-31 G hard vs Pablo Carreno Busta"
+    "2026-10-31 G hard vs Pablo Carreno Busta",
+    "2026-11-01 G hard vs Thiago Agustin Tirante"
    ]
   },
   "carreno busta|p": {
@@ -14283,19 +14283,18 @@
    "nombre": "Viktoria Morvayova",
    "circuito": "WTA",
    "elo": {
-    "all": 1461.9,
-    "hard": 1497.9,
+    "all": 1438.0,
+    "hard": 1470.5,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 20,
-    "hard": 19,
+    "all": 21,
+    "hard": 20,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-11 G hard vs Franziska Sziedat",
     "2026-07-12 G hard vs Elina Nepliy",
     "2026-07-13 P hard vs Sara Bejlek",
     "2026-07-18 P clay vs Ayla Aksu",
@@ -14304,7 +14303,8 @@
     "2026-09-24 P hard vs Talia Gibson",
     "2026-09-29 P hard vs Sara Sorribes Tormo",
     "2026-10-13 P hard vs Irene Burillo",
-    "2026-10-31 G hard vs Shrivalli Bhamidipaty"
+    "2026-10-31 G hard vs Shrivalli Bhamidipaty",
+    "2026-11-01 P hard vs Weronika Falkowska"
    ]
   },
   "appleton|e": {
@@ -14634,19 +14634,18 @@
    "nombre": "Aliona Falei",
    "circuito": "WTA",
    "elo": {
-    "all": 1580.5,
-    "hard": 1585.5,
+    "all": 1617.1,
+    "hard": 1623.9,
     "clay": 1497.2,
     "grass": 1500.0
    },
    "n": {
-    "all": 19,
-    "hard": 16,
+    "all": 20,
+    "hard": 17,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-05 P clay vs Carol Young Suh Lee",
     "2026-08-24 P hard vs Elena Pridankina",
     "2026-09-21 P hard vs Tian Fangran",
     "2026-09-29 G hard vs Tyra Caterina Grant",
@@ -14655,7 +14654,8 @@
     "2026-10-03 P hard vs Jessica Bouzas Maneiro",
     "2026-10-06 G hard vs Guo Hanyu",
     "2026-10-09 P hard vs Rebecca Sramkova",
-    "2026-10-31 G hard vs Ekaterina Yashina"
+    "2026-10-31 G hard vs Ekaterina Yashina",
+    "2026-11-01 G hard vs Rada Zolotareva"
    ]
   },
   "yuhan|w": {
@@ -29808,14 +29808,14 @@
    "nombre": "Rada Zolotareva",
    "circuito": "WTA",
    "elo": {
-    "all": 1595.5,
-    "hard": 1599.0,
+    "all": 1547.2,
+    "hard": 1551.0,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 7,
-    "hard": 7,
+    "all": 8,
+    "hard": 8,
     "clay": 0,
     "grass": 0
    },
@@ -29826,7 +29826,8 @@
     "2026-04-30 G hard vs Yao Xinxin",
     "2026-05-01 P hard vs Guo Hanyu",
     "2026-09-06 G hard vs Aneta Laboutkova",
-    "2026-09-07 P hard vs Ipek Oz"
+    "2026-09-07 P hard vs Ipek Oz",
+    "2026-11-01 P hard vs Aliona Falei"
    ]
   },
   "qiu yu|y": {
@@ -30022,19 +30023,18 @@
    "nombre": "Weronika Falkowska",
    "circuito": "WTA",
    "elo": {
-    "all": 1571.9,
-    "hard": 1575.6,
+    "all": 1596.6,
+    "hard": 1605.0,
     "clay": 1567.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 18,
-    "hard": 15,
+    "all": 19,
+    "hard": 16,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-06 P clay vs Carol Young Suh Lee",
     "2026-09-07 P hard vs Elizara Yaneva",
     "2026-09-15 G hard vs Kristina Novak",
     "2026-09-16 P hard vs Laura Samson",
@@ -30043,7 +30043,8 @@
     "2026-09-23 P hard vs Polina Iatcenko",
     "2026-10-04 G hard vs Doga Turkmen",
     "2026-10-05 P hard vs Caroline Werner",
-    "2026-10-31 G hard vs Jensi Dipakbhai Kanabar"
+    "2026-10-31 G hard vs Jensi Dipakbhai Kanabar",
+    "2026-11-01 G hard vs Viktoria Morvayova"
    ]
   },
   "buyukakcay|c": {
@@ -36847,19 +36848,20 @@
    "nombre": "Ashmitha Easwaramurthi",
    "circuito": "WTA",
    "elo": {
-    "all": 1434.3,
-    "hard": 1434.3,
+    "all": 1384.7,
+    "hard": 1384.7,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-20 P hard vs Marie Vogt"
+    "2026-09-20 P hard vs Marie Vogt",
+    "2026-11-01 P hard vs Prathyusha Rachapudi"
    ]
   },
   "ercan|m": {
@@ -38611,6 +38613,25 @@
    },
    "ultimos": [
     "2026-10-31 P hard vs Weronika Falkowska"
+   ]
+  },
+  "rachapudi|p": {
+   "nombre": "Prathyusha Rachapudi",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1553.4,
+    "hard": 1553.4,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-01 G hard vs Ashmitha Easwaramurthi"
    ]
   }
  },
@@ -91194,7 +91215,27 @@
   "kobori|m~okamura|k": [
    0,
    1
+  ],
+  "agustin tirante|t~bellucci|m": [
+   0,
+   1
+  ],
+  "hijikata|r~kopriva|v": [
+   1,
+   0
+  ],
+  "falei|a~zolotareva|r": [
+   1,
+   0
+  ],
+  "falkowska|w~morvayova|v": [
+   1,
+   0
+  ],
+  "easwaramurthi|a~rachapudi|p": [
+   0,
+   1
   ]
  },
- "propios": 10495
+ "propios": 10500
 }
