@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T09:25+00:00",
+ "actualizado": "2026-11-01T10:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.163,
+      "pct": 0.162,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -999,256 +999,6 @@
  "cartelera": {
   "actualizado": "2026-11-01T08:00+00:00",
   "partidos": [
-   {
-    "id": "0da93f689af7e7e2bf2e561f3e7f7e59",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T10:00+00:00",
-    "jugadores": [
-     "Benjamin Bonzi",
-     "Yannick Hanfmann"
-    ],
-    "opciones": [
-     {
-      "id": "0da93f689af7e7e2bf2e561f3e7f7e59|h2h|Benjamin Bonzi|",
-      "mercado": "h2h",
-      "nombre": "Benjamin Bonzi",
-      "punto": null,
-      "cuota": 1.76,
-      "pinnacle": 1.76
-     },
-     {
-      "id": "0da93f689af7e7e2bf2e561f3e7f7e59|h2h|Yannick Hanfmann|",
-      "mercado": "h2h",
-      "nombre": "Yannick Hanfmann",
-      "punto": null,
-      "cuota": 1.95,
-      "pinnacle": 2.13
-     },
-     {
-      "id": "0da93f689af7e7e2bf2e561f3e7f7e59|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.85,
-      "pinnacle": null
-     },
-     {
-      "id": "0da93f689af7e7e2bf2e561f3e7f7e59|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.86,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Benjamin Bonzi": 1.76,
-     "Yannick Hanfmann": 2.13
-    }
-   },
-   {
-    "id": "87dd1f372becd90b913ceac1b31578d1",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T10:00+00:00",
-    "jugadores": [
-     "Juan Manuel Cerundolo",
-     "Miomir Kecmanovic"
-    ],
-    "opciones": [
-     {
-      "id": "87dd1f372becd90b913ceac1b31578d1|h2h|Juan Manuel Cerundolo|",
-      "mercado": "h2h",
-      "nombre": "Juan Manuel Cerundolo",
-      "punto": null,
-      "cuota": 1.7,
-      "pinnacle": 1.8
-     },
-     {
-      "id": "87dd1f372becd90b913ceac1b31578d1|h2h|Miomir Kecmanovic|",
-      "mercado": "h2h",
-      "nombre": "Miomir Kecmanovic",
-      "punto": null,
-      "cuota": 2.04,
-      "pinnacle": 2.07
-     },
-     {
-      "id": "87dd1f372becd90b913ceac1b31578d1|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.91,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "87dd1f372becd90b913ceac1b31578d1|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.8,
-      "pinnacle": 1.9
-     }
-    ],
-    "pinnacle_h2h": {
-     "Juan Manuel Cerundolo": 1.8,
-     "Miomir Kecmanovic": 2.07
-    }
-   },
-   {
-    "id": "30424b55ac3fd0441d81336f4c1938a2",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T10:00+00:00",
-    "jugadores": [
-     "Thiago Agustin Tirante",
-     "Mattia Bellucci"
-    ],
-    "opciones": [
-     {
-      "id": "30424b55ac3fd0441d81336f4c1938a2|h2h|Mattia Bellucci|",
-      "mercado": "h2h",
-      "nombre": "Mattia Bellucci",
-      "punto": null,
-      "cuota": 1.49,
-      "pinnacle": 1.52
-     },
-     {
-      "id": "30424b55ac3fd0441d81336f4c1938a2|h2h|Thiago Agustin Tirante|",
-      "mercado": "h2h",
-      "nombre": "Thiago Agustin Tirante",
-      "punto": null,
-      "cuota": 2.46,
-      "pinnacle": 2.62
-     },
-     {
-      "id": "30424b55ac3fd0441d81336f4c1938a2|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.75,
-      "pinnacle": null
-     },
-     {
-      "id": "30424b55ac3fd0441d81336f4c1938a2|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.96,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Mattia Bellucci": 1.52,
-     "Thiago Agustin Tirante": 2.62
-    }
-   },
-   {
-    "id": "aaf202777ebbdd0ceb31c39ca3ed6645",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T10:00+00:00",
-    "jugadores": [
-     "Rinky Hijikata",
-     "Vit Kopriva"
-    ],
-    "opciones": [
-     {
-      "id": "aaf202777ebbdd0ceb31c39ca3ed6645|h2h|Rinky Hijikata|",
-      "mercado": "h2h",
-      "nombre": "Rinky Hijikata",
-      "punto": null,
-      "cuota": 1.36,
-      "pinnacle": 1.42
-     },
-     {
-      "id": "aaf202777ebbdd0ceb31c39ca3ed6645|h2h|Vit Kopriva|",
-      "mercado": "h2h",
-      "nombre": "Vit Kopriva",
-      "punto": null,
-      "cuota": 2.9,
-      "pinnacle": 3.0
-     },
-     {
-      "id": "aaf202777ebbdd0ceb31c39ca3ed6645|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.87,
-      "pinnacle": 1.91
-     },
-     {
-      "id": "aaf202777ebbdd0ceb31c39ca3ed6645|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.83,
-      "pinnacle": 1.93
-     }
-    ],
-    "pinnacle_h2h": {
-     "Rinky Hijikata": 1.42,
-     "Vit Kopriva": 3.0
-    }
-   },
-   {
-    "id": "670a521efbb7b642d7f0bd4dce70c790",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-01T10:00+00:00",
-    "jugadores": [
-     "Sebastian Baez",
-     "Tomas Machac"
-    ],
-    "opciones": [
-     {
-      "id": "670a521efbb7b642d7f0bd4dce70c790|h2h|Sebastian Baez|",
-      "mercado": "h2h",
-      "nombre": "Sebastian Baez",
-      "punto": null,
-      "cuota": 4.3,
-      "pinnacle": 5.95
-     },
-     {
-      "id": "670a521efbb7b642d7f0bd4dce70c790|h2h|Tomas Machac|",
-      "mercado": "h2h",
-      "nombre": "Tomas Machac",
-      "punto": null,
-      "cuota": 1.18,
-      "pinnacle": 1.14
-     },
-     {
-      "id": "670a521efbb7b642d7f0bd4dce70c790|totals|Over|20.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 20.5,
-      "cuota": 1.8,
-      "pinnacle": 1.88
-     },
-     {
-      "id": "670a521efbb7b642d7f0bd4dce70c790|totals|Under|20.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 20.5,
-      "cuota": 1.9,
-      "pinnacle": 1.96
-     }
-    ],
-    "pinnacle_h2h": {
-     "Sebastian Baez": 5.95,
-     "Tomas Machac": 1.14
-    }
-   },
    {
     "id": "ffcb837b0caf57b860936111d914874c",
     "deporte": "tennis_atp_paris_masters",
@@ -2255,6 +2005,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-01T10:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-01T10:10+00:00",
+   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego, Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-01T09:24+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2391,16 +2151,6 @@
   },
   {
    "hora": "2026-10-31T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Juan Manuel Cerundolo – Aleksandar Kovacevic, James Duckworth – Miomir Kecmanovic, Sebastian Baez – Damir Dzumhur…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
   }
@@ -5731,7 +5481,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:24+00:00",
+   "actualizado": "2026-11-01T10:10+00:00",
    "elo": 0.653,
    "elo_general": 0.64,
    "elo_en_superficie": 0.665,
@@ -5755,6 +5505,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Grigor Dimitrov, ganó 7-6 4-6 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
+      },
+      {
        "titulo": "Michael Blando/Kyle Overmyer VS Daniel Milavsky/Braden Shick | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
@@ -5765,12 +5521,6 @@
        "fuente": "D10",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
-      },
-      {
-       "titulo": "Daniel Vallejo eliminó a Grigor Dimitrov en París - Prensa Mercosur",
-       "fuente": "Prensa Mercosur",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzQxWlZIM0s3aHM2NjZnU2dvMjBMM2kxYnM3LWxWemo2dTF5U2RRM3B1Zi1NcnJoc0pNTjJuRnl4bVR0SGppQUhSSW5aZnQ0TERfdjQ5QjJGVDJGWFBQWVFTZ0k0M01mMUs2ZE13cEFsNU9WWnIxWDY0cFp6SlJPandXUkNOeExOOVRRYXFMV1NuUQ?oc=5"
       }
      ]
     },
@@ -5789,22 +5539,22 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-31 contra Jaume Munar, ganó 6-7 6-3 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
+      },
+      {
        "titulo": "Dani Vallejo vence otra vez a Grigor Dimitrov - D10",
        "fuente": "D10",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nMDlOakFaS21vaGNONVZEWkZfa0ZVc1pjUURuQlEzUVBZanNEb2V0ZWVPb0owc3hqTHJUSk1GblFJYmpOYWtfeFRISUg4Ukw4UzQxOUp6LVVaM1hiUi00cmtzb2l2cUY4RXFpNG5RMWRhLVgtRGQwdWRyYUjSAYoBQVVfeXFMTkw3dHBTN25LMkYyZm5TZHZ2Wll0UXdEaEgtdWUtRFlubzdfZ3h6dGlPRzhEaVk5NHBXRnVOSFZtSXF2Z09xaXhEcjZHcVlhbzQza2JYWF9odnJpYVJ2c3R5NmpuMWl4bFdhSERpQnY0S0FYSzVsWWFvSmw3X0dVM0k1OG5tQmF2clh3?oc=5"
       },
       {
-       "titulo": "Lorenzo Sonego vs Jaume Munar · Qualifying Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
+       "titulo": "Munar no podrá acceder al cuadro final del Masters 1000 de París - Ultima Hora",
+       "fuente": "Ultima Hora",
        "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3h2SVgxTS02LXRqaFROU09zTHcwZDlMTHVaOEQ0dW1uT3RWWkVLRXFncWIxeWZVNU5KYjFveG1zQUZmWkVvcEdpakFWbEVMZ3pNeWkybWVXQ0wxUlBEMUNkRk1qSEpHSUxOSjk4WkZMRHRJZkNuakJKam92QVBXZzVGQy1ya25ZZ0k1Tnc3VGxCNUNJOVljeQ?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Sonego vs. Jaume Munar Paris 2026 1st Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HZmJETTZXUlcwUUYyRGoxWVdVSkpZY1U4b3U3UUNPRXZxY21nbnNZUTJVU0FRN1VUTWR3UFZ0Zm1EOE9laHRUcjZtZnFJd09oVXZSM2tPUFU3V050VG01Tmstb1RfVEIyS054VWFYX2pIQkNB?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeNIBvAFBVV95cUxQbmd4UWE2QXVnWXJHTjR5WXhwSThBUEJvTmFYV3hMdWc2MWRnZ3J6bWs1RXRhT01DeE81RFd6MGxDeVBJU1haMThSamVCTG12X0dXZ3JkemlDQlJFQk9zeW9sUjVSQUd4WWFQZHo4cUpmY0ZNSlBMbFY4bkRBMElsVksyNHZWejdNU0gtMHRsY3ZaVjVBOWJzdDdmY3IzVV8xWEt2Nlo1eW5CM3BxbnJDM3BxTzJrdjF0RjdjeA?oc=5"
       }
      ]
     }
@@ -5819,7 +5569,7 @@
    "inicio": "2026-11-01T13:00+00:00",
    "torneo": "ATP Vienna Open",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:24+00:00",
+   "actualizado": "2026-11-01T10:10+00:00",
    "elo": 0.212,
    "elo_general": 0.189,
    "elo_en_superficie": 0.234,
@@ -5843,6 +5593,12 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-10-31 contra Alexander Zverev, ganó 6-4 1-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
+      },
+      {
        "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
        "fuente": "Pierce Manufacturing",
        "fecha": "2026-11-01",
@@ -5853,12 +5609,6 @@
        "fuente": "Sport Aragón",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
       }
      ]
     },
@@ -5877,6 +5627,12 @@
      "cansancio": "3 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-10-31 contra Daniil Medvedev, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "‍‍‍[¡ＤＩＲＥＣＴＯ／ＶＩＶＯ!] Carlos Alcaraz contra Álex de Miñaur partido por TV y ONLINE 01 noviembre 2026 - Pierce Manufacturing",
+       "fuente": "Pierce Manufacturing",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdVE5X045dG4yX2RNeHJ1VG41d0F6ZEp5Rm5vdHR6QVNXcllJc2ViVUg5dlE4c2VaV3VGNlZlSUtjTkpuZk5NN0YxWTNmV20wcXVFQmpVSnlEYW5rUk0yMElBbnVPWll0elVyT1RkMDY5cU0wM01Dbk0xT3dHbDVzUVFQeld4SHZ0TFdjYzRWRzZWMWhvU2hPall1ZEVoMFd1TFlQcHF2THpIc3dQcjEwY3Z2dnpsdWNxYnpEYnZtUzFpRTdINUpraWQ5QjhQaWtXSDRDSjQwMERJb1lya0xrOG44aGlBdDBVOFV3WHYxeGdab3NZc0ptVmZzTlQ3blo2ZmkyUllmbGFnbjRfODQwb0Fja2ZJbUdaektuYmQ1NWlnOXNZS01XTm81VlJNNjExdHR1cjN0RURubHBzWHFYeGhUcW1HbHZhcHdJZGRMUXh3dzBQUlB1LTNTRTc1YUl4Q1RzVl9oNFBBYjRHSkhmNHNZcUl4Rm9ITHlQYTdoWTBxR0VqS2l5aEZUSnlza0publc2X28tUzV4MVQ4bW8wdE02bw?oc=5"
+      },
+      {
        "titulo": "!$[EN DIRECTO] Carlos Alcaraz contra Álex de Miñaur en vivo online gratis 01 noviembre 2026 - Pierce Manufacturing",
        "fuente": "Pierce Manufacturing",
        "fecha": "2026-11-01",
@@ -5887,12 +5643,6 @@
        "fuente": "Sport Aragón",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0diaExBN3ZlSUE1ajRWQlp5OUFPTnYzRFRFdGw3bzcxUnpaT0dQWlJsYWZ5UFpOTk05aW5kT2tMRDJYZEJQTHdaQlppV0phZW9GU2kzY0RIQkRreHcxVnBya1o3bEZWN1VmTDhqVWNxRllKWHVQOXluN3F2elVpN2tyZUw1LVpmLTlyUU00V3BSa1d0RjJPcXMycEdNQ1hTakVyWXhRMWtaZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz vs. De Miñaur: horario y dónde ver por TV la final del ATP 500 de Viena - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUFlUDFFTWtOTXF5bzVUTVBEU2wyclFtclVmd2lVSEZINU5lWldadGtOYTA2ZzJxREVGbG5IU1MwS19UVy1UMGZ2VjhQY3RGazZwcWpVdzhfVFcwVUxWcFpzQ3dkazRJTjBiSlRQSFVud2tOcm5HTDN4VG9TeUxubnRtbHlnbVVtakZtNTNBcGVOSHBYMUNabmJyM1JjUWlHeVQzSXFWdE1Ld1VSY1ZEOTJZcGs?oc=5"
       }
      ]
     }
@@ -5907,7 +5657,7 @@
    "inicio": "2026-11-01T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:24+00:00",
+   "actualizado": "2026-11-01T10:10+00:00",
    "elo": 0.472,
    "elo_general": 0.501,
    "elo_en_superficie": 0.444,
@@ -5965,6 +5715,12 @@
      "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-31 contra Daniel Altmaier, ganó 6-4 7-6",
      "noticias": [
       {
+       "titulo": "Pronóstico Adolfo Daniel Vallejo vs Lorenzo Sonego - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0tZd3FremE3VGtvSjJnNVVuRWs0RExrcFhBc3NTM01Pc1FJMVNaRjhsNUlkY3E4NEdsbW1BOWV6YWMtdll2aERsQUhHdDRrYVBVdmZRNmJWQmUwOG1qdUJ6SElEUXBBdGw2MEs5Xy1YajVRaEpDYkw2Q0VtUjh2dGFpLVpTbGc1YVNieWdCSzNfQQ?oc=5"
+      },
+      {
        "titulo": "Nuno Borges vs Alex Molcan 01/11/2026, Cuotas - Flashscore.es",
        "fuente": "Flashscore.es",
        "fecha": "2026-11-01",
@@ -5975,12 +5731,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXy1yaU1XQ1R4U2tPWXRZSW9UeG5hWGlZYXZIUi1oSE5QdXM4ZVljdXpOZVdVNVFVSDZPUnNhUFBoWFR4dGQ5TVFMREFqblloSjVmNDdYOW02X1ZDVjZDNlBfYTNpenF6QjNYM0xRU0VkNzFSdkRQaUp3d3lsaEZ4dVNQTWd2dw?oc=5"
-      },
-      {
-       "titulo": "Alex Molčan vs Daniel Altmaier · Qualifying Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkIzMGR2SkpGQXlLM2Ztd0RiTk1MeXBpYnh1Uk9JLVZ3UmtBVjNtQ2M5QTlnVE5tb2YxLU5QZGlZWXpRZENnYWNkSmhrVmZJNmJHeF9nd3owZDZvdUgxN3BnZmxyVkNiWU00Q3BDY1ZCb1hNWjBQYldUSXVxR2Y5ZXdTZlZsWDU5OFZGMHBXQjl1X2dPTEVYbXZYZUk?oc=5"
       }
      ]
     }
@@ -5995,7 +5745,7 @@
    "inicio": "2026-11-01T14:30+00:00",
    "torneo": "ATP Swiss Indoors Basel",
    "superficie": "hard",
-   "actualizado": "2026-11-01T09:24+00:00",
+   "actualizado": "2026-11-01T10:10+00:00",
    "elo": 0.509,
    "elo_general": 0.53,
    "elo_en_superficie": 0.489,
