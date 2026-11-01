@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T17:10+00:00",
+ "actualizado": "2026-11-01T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16258,19 +16258,18 @@
    "nombre": "Polona Hercog",
    "circuito": "WTA",
    "elo": {
-    "all": 1556.3,
-    "hard": 1575.6,
+    "all": 1580.8,
+    "hard": 1599.3,
     "clay": 1626.7,
     "grass": 1434.3
    },
    "n": {
-    "all": 33,
-    "hard": 30,
+    "all": 34,
+    "hard": 31,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-06-23 P grass vs Bianca Andreescu",
     "2026-07-13 G hard vs Dalila Jakupovic",
     "2026-08-25 P hard vs Moyuka Uchijima",
     "2026-09-14 P hard vs Julie Struplova",
@@ -16279,7 +16278,8 @@
     "2026-10-14 G hard vs Jazmin Ortenzi",
     "2026-10-16 P hard vs Jessica Bouzas Maneiro",
     "2026-10-27 G hard vs Martina Capurro Taborda",
-    "2026-10-29 P hard vs Valeriya Strakhova"
+    "2026-10-29 P hard vs Valeriya Strakhova",
+    "2026-11-01 G hard vs Maria Jose Rico Sanchez"
    ]
   },
   "ortenzi|j": {
@@ -17367,19 +17367,18 @@
    "nombre": "Julia Grabher",
    "circuito": "WTA",
    "elo": {
-    "all": 1732.8,
-    "hard": 1748.1,
+    "all": 1699.2,
+    "hard": 1713.2,
     "clay": 1586.6,
     "grass": 1522.5
    },
    "n": {
-    "all": 49,
-    "hard": 42,
+    "all": 50,
+    "hard": 43,
     "clay": 3,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-26 G hard vs Oksana Selekhmeteva",
     "2026-09-27 G hard vs Guiomar Maristany Zuleta De Reales",
     "2026-10-05 P hard vs Dalma Galfi",
     "2026-10-12 G grass vs Deborah Chiesa",
@@ -17388,7 +17387,8 @@
     "2026-10-27 G hard vs Carolina Alves",
     "2026-10-29 G hard vs Maria Lourdes Carle",
     "2026-10-30 G hard vs Leyre Romero Gormaz",
-    "2026-10-31 G hard vs Julia Riera"
+    "2026-10-31 G hard vs Julia Riera",
+    "2026-11-01 P hard vs Alice Tubello"
    ]
   },
   "chang|h": {
@@ -23663,19 +23663,18 @@
    "nombre": "Alice Tubello",
    "circuito": "ATP",
    "elo": {
-    "all": 1615.2,
-    "hard": 1639.1,
+    "all": 1657.7,
+    "hard": 1682.1,
     "clay": 1438.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 25,
-    "hard": 23,
+    "all": 26,
+    "hard": 24,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-08 P hard vs Barbora Palicova",
     "2026-09-15 G hard vs Vivian Wolff",
     "2026-09-16 G hard vs Dalma Galfi",
     "2026-09-18 P hard vs Samira De Stefano",
@@ -23684,7 +23683,8 @@
     "2026-10-26 G hard vs Laura Samson",
     "2026-10-28 G hard vs Luna Maria Cinalli",
     "2026-10-30 G hard vs Jazmin Ortenzi",
-    "2026-10-31 G hard vs Nauhany Vitoria Leme Da Silva"
+    "2026-10-31 G hard vs Nauhany Vitoria Leme Da Silva",
+    "2026-11-01 G hard vs Julia Grabher"
    ]
   },
   "vickery|s": {
@@ -38690,6 +38690,25 @@
    },
    "ultimos": [
     "2026-11-01 P hard vs Darja Suvirdjonkova"
+   ]
+  },
+  "jose rico sanchez|m": {
+   "nombre": "Maria Jose Rico Sanchez",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1444.9,
+    "hard": 1448.4,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-01 P hard vs Polona Hercog"
    ]
   }
  },
@@ -87232,7 +87251,7 @@
   ],
   "grabher|j~tubello|a": [
    1,
-   0
+   1
   ],
   "gorgodze|e~palicova|b": [
    1,
@@ -91313,7 +91332,11 @@
   "suvirdjonkova|d~van poppel|e": [
    1,
    0
+  ],
+  "hercog|p~jose rico sanchez|m": [
+   1,
+   0
   ]
  },
- "propios": 10511
+ "propios": 10513
 }

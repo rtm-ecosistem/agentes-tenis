@@ -238157,6 +238157,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Curitiba Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Grabher",
+    "Alice Tubello"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maria Jose Rico Sanchez",
+    "Polona Hercog"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     6
+    ],
+    [
+     0,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
