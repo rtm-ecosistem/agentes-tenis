@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.132,
+     "envidia": 0.131,
      "sorpresa": 0.4,
-     "impaciencia": 0.307,
+     "impaciencia": 0.305,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T17:10+00:00",
+    "hora": "2026-11-02T17:38+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.246,
+     "impaciencia": 0.244,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T17:10+00:00",
+    "hora": "2026-11-02T17:38+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.149,
+     "impaciencia": 0.148,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T17:10+00:00",
+    "hora": "2026-11-02T17:38+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.246,
+     "impaciencia": 0.244,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T17:10+00:00",
+    "hora": "2026-11-02T17:38+00:00",
     "rent": 0.0
    }
   }
@@ -2631,6 +2631,8 @@
   "7d627a5192cc",
   "42735ff51312",
   "f0acd8e435e9",
+  "6aed7b6c6e52",
+  "dc10968a7270",
   "0c98bcc6bd9d",
   "21afa57e6481",
   "a81894e7c656",
@@ -2644,12 +2646,15 @@
   "1c06df8e7c04",
   "8f581bf2cc30",
   "f5b1290836a6",
+  "6c465c186194",
+  "a0e8d90c6148",
   "de704b9e0865",
   "70447f48c923",
   "b5acb41a8b92",
   "f1e1e09ae963",
   "790f78816602",
   "a73d7e8d2fea",
+  "3f7a5f250a8d",
   "c204c403eb2a",
   "40bee769beb2",
   "3ed94688ecc7",
@@ -2658,9 +2663,11 @@
   "2db08a5b9e00",
   "edcd658003b5",
   "6d9a991c700e",
+  "3fe3c8956ad7",
+  "e73eafb4091a",
+  "131a959840dc",
   "3b590a2622f9",
   "10d24ca0789f",
-  "3f7a5f250a8d",
   "54f79982311b",
   "1d57f3d29fc0",
   "3cfcf62df9de",
@@ -2766,6 +2773,7 @@
   "37c09facb0ed",
   "a00c733d8693",
   "0d2868987eb2",
+  "3f5aea1e7af9",
   "dabd9c994e78",
   "8db9b9c5ef0e",
   "063b365b7148",
@@ -2813,7 +2821,6 @@
   "1ef4fdaa8456",
   "fe0c9ac75fc0",
   "0f1a03ae680b",
-  "3f5aea1e7af9",
   "99e897a98db0",
   "3ebe6d0f9205",
   "aa88badb9fae",
@@ -2912,6 +2919,7 @@
   "aaa503b0ea8a",
   "eb98b7614414",
   "ec25acfb6abd",
+  "10b4724a82a0",
   "545600586b6f",
   "898cd1142f83",
   "97298db7687b",
@@ -2933,7 +2941,6 @@
   "0acf4814eec0",
   "6759dd2f119c",
   "e593df7de844",
-  "10b4724a82a0",
   "eab97af585f6",
   "4effa43c7192",
   "cbc2eca60a33",
@@ -3150,6 +3157,7 @@
   "07f06bd1e741",
   "7c3c7d051bec",
   "52a1ff7e02f2",
+  "559c2054e564",
   "6a3674adfdea",
   "d6f7c92644fb",
   "cd40016f4efd",
@@ -3198,7 +3206,6 @@
   "6e410f2a9dc4",
   "72ec253abbd1",
   "f9a28cd8a3f1",
-  "559c2054e564",
   "21e02784f93e",
   "0e71cde628f3",
   "c4b1138db750",
@@ -3410,14 +3417,7 @@
   "33cccfc7bcb9",
   "ea67f33d6b4b",
   "ea5be9f0fad3",
-  "ea164afa67ae",
-  "b41aa18f5950",
-  "4785748a50ac",
-  "dd6099dd7f58",
-  "6959073f112b",
-  "85ef7c14d2da",
-  "65e82cb1359f",
-  "358c0a659e32"
+  "ea164afa67ae"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 30,
-  "ganadas": 24,
-  "unidades": 5.24,
+  "apuestas": 31,
+  "ganadas": 25,
+  "unidades": 5.78,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8202,18 +8202,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "b363b01046ccc43cdfcc7e7f4e42d735",
-    "jugadores": [
-     "Kyrian Jacquet",
-     "Tomas Machac"
-    ],
-    "inicio": "2026-11-02T14:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Tomas Machac",
-    "punto": null,
-    "cuota": 1.54
    },
    {
     "partido": "44f0dc12e4fa4b0ef607420fecfd8eb6",
@@ -8283,7 +8271,8 @@
    "35c20c072dc49b1f1762bd71838ad56b",
    "99851274de5cc3c943371f330f1b4c71",
    "a397cd2c21e2038f589dfcc1bbf4a5d9",
-   "a916463c001545483b340777daefd7c6"
+   "a916463c001545483b340777daefd7c6",
+   "b363b01046ccc43cdfcc7e7f4e42d735"
   ]
  },
  "mercados_casas": {

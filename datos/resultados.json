@@ -238719,6 +238719,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Kyrian Jacquet"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Luisina Giovannini",
+    "Maria Camila Torres Murcia"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
   }
  ]
 }

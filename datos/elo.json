@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T17:10+00:00",
+ "actualizado": "2026-11-02T17:38+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -173,19 +173,18 @@
    "nombre": "Tomas Machac",
    "circuito": "ATP",
    "elo": {
-    "all": 1665.8,
-    "hard": 1674.9,
+    "all": 1683.1,
+    "hard": 1692.9,
     "clay": 1585.8,
     "grass": 1491.4
    },
    "n": {
-    "all": 137,
-    "hard": 101,
+    "all": 138,
+    "hard": 102,
     "clay": 28,
     "grass": 8
    },
    "ultimos": [
-    "2026-09-29 P hard vs Arthur Gea",
     "2026-10-01 P hard vs Alex Molcan",
     "2026-10-07 G hard vs Zhang Zhizhen",
     "2026-10-09 P hard vs Alexander Bublik",
@@ -194,7 +193,8 @@
     "2026-10-24 G hard vs Corentin Moutet",
     "2026-10-26 P hard vs Alex de Minaur",
     "2026-10-31 G hard vs Martin Landaluce",
-    "2026-11-01 G hard vs Sebastian Baez"
+    "2026-11-01 G hard vs Sebastian Baez",
+    "2026-11-02 G hard vs Kyrian Jacquet"
    ]
   },
   "martin etcheverry|t": {
@@ -9891,19 +9891,18 @@
    "nombre": "Kyrian Jacquet",
    "circuito": "ATP",
    "elo": {
-    "all": 1667.6,
-    "hard": 1650.5,
+    "all": 1641.3,
+    "hard": 1622.5,
     "clay": 1524.3,
     "grass": 1676.0
    },
    "n": {
-    "all": 45,
-    "hard": 30,
+    "all": 46,
+    "hard": 31,
     "clay": 10,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-27 G hard vs Fabian Marozsan",
     "2026-09-28 P hard vs Andrey Rublev",
     "2026-10-01 G hard vs Holger Rune",
     "2026-10-02 G hard vs Luciano Darderi",
@@ -9912,7 +9911,8 @@
     "2026-10-06 P hard vs Rei Sakamoto",
     "2026-10-18 G hard vs Sascha Gueymard Wayenburg",
     "2026-10-20 G hard vs Matteo Berrettini",
-    "2026-10-22 P hard vs Brandon Nakashima"
+    "2026-10-22 P hard vs Brandon Nakashima",
+    "2026-11-02 P hard vs Tomas Machac"
    ]
   },
   "forbes|m": {
@@ -16314,14 +16314,14 @@
    "nombre": "Maria Camila Torres Murcia",
    "circuito": "WTA",
    "elo": {
-    "all": 1323.9,
-    "hard": 1326.3,
+    "all": 1301.5,
+    "hard": 1308.0,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 4,
-    "hard": 4,
+    "all": 5,
+    "hard": 5,
     "clay": 0,
     "grass": 0
    },
@@ -16329,7 +16329,8 @@
     "2025-10-27 P hard vs Jazmin Ortenzi",
     "2026-03-30 P hard vs Panna Udvardy",
     "2026-09-07 P hard vs Nao Hibino",
-    "2026-10-26 P hard vs Maria Fernanda Navarro Oliva"
+    "2026-10-26 P hard vs Maria Fernanda Navarro Oliva",
+    "2026-11-02 P hard vs Luisina Giovannini"
    ]
   },
   "lizarazo|y": {
@@ -17173,19 +17174,18 @@
    "nombre": "Luisina Giovannini",
    "circuito": "WTA",
    "elo": {
-    "all": 1548.7,
-    "hard": 1594.0,
+    "all": 1563.5,
+    "hard": 1606.8,
     "clay": 1493.8,
     "grass": 1434.3
    },
    "n": {
-    "all": 20,
-    "hard": 17,
+    "all": 21,
+    "hard": 18,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2025-12-07 P hard vs Polona Hercog",
     "2026-01-13 P hard vs Marina Bassols Ribera",
     "2026-05-19 G clay vs Eva Guerrero Alvarez",
     "2026-05-20 P clay vs Ashlyn Krueger",
@@ -17194,7 +17194,8 @@
     "2026-06-19 P hard vs Wang Xiyu",
     "2026-06-23 P grass vs Lucrezia Stefanini",
     "2026-10-26 G hard vs Lucia Bronzetti",
-    "2026-10-28 P hard vs Nauhany Vitoria Leme Da Silva"
+    "2026-10-28 P hard vs Nauhany Vitoria Leme Da Silva",
+    "2026-11-02 G hard vs Maria Camila Torres Murcia"
    ]
   },
   "riera|j": {
@@ -91488,7 +91489,15 @@
   "bellucci|m~sonego|l": [
    1,
    0
+  ],
+  "jacquet|k~machac|t": [
+   0,
+   1
+  ],
+  "camila torres murcia|m~giovannini|l": [
+   0,
+   1
   ]
  },
- "propios": 10537
+ "propios": 10539
 }
