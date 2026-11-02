@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.142,
+     "envidia": 0.14,
      "sorpresa": 0.4,
-     "impaciencia": 0.33,
+     "impaciencia": 0.325,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T12:10+00:00",
+    "hora": "2026-11-02T13:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.266,
+     "impaciencia": 0.262,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T12:10+00:00",
+    "hora": "2026-11-02T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.16,
+     "impaciencia": 0.158,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T12:10+00:00",
+    "hora": "2026-11-02T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.266,
+     "impaciencia": 0.262,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T12:10+00:00",
+    "hora": "2026-11-02T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T15:32+00:00",
-   "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T15:32+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T16:10+00:00",
    "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Nuno Borges, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Kyrian Jacquet – Tomas Machac, Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,10 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
+  "b8f3afee10f0",
+  "b61de61f05dc",
+  "981fae28f496",
+  "4530076c96f9",
   "f27f5968b4e2",
   "5d1885a816b0",
   "5adc8752f756",
@@ -2625,7 +2629,9 @@
   "3a2e842eca8e",
   "4f4cff2ce13f",
   "8c2c37250a11",
+  "ab21508dc22f",
   "0252367f586a",
+  "25e68a169159",
   "6d632e3c3c18",
   "0a11d08471b9",
   "7aa58c92fe33",
@@ -2633,13 +2639,18 @@
   "14cee0274886",
   "f1332d53a894",
   "0d0fe9b970bb",
+  "3f7a5f250a8d",
+  "2e3d4f2b1740",
   "a305c93eabdb",
+  "680658bbad33",
   "3bd71e92b940",
   "275fe0938f30",
   "bf26016142f3",
   "8158adaa4dfe",
   "f380784370b4",
   "66383fa40448",
+  "18223cc59719",
+  "6db52679f2db",
   "a4f919fdc488",
   "a0a6fbcefbf5",
   "f0c11916b4d0",
@@ -2650,18 +2661,18 @@
   "641db52d38f7",
   "57316f3a02cb",
   "9807b5b881ff",
+  "92efff17efc2",
   "a291f6dbfc9c",
   "902999a31b66",
   "3c6e581cce81",
-  "ebfd8b91d250",
   "1681b5790ab6",
-  "92efff17efc2",
   "25cea0b2b29c",
   "697d933e5e96",
   "9a93980fc076",
   "a1a65873c35b",
   "36f69c4679cf",
   "dd524f882d52",
+  "0dc5e66f1d0b",
   "ef7805cd4da9",
   "0d1ffb6ba7d8",
   "926c18d45994",
@@ -2670,6 +2681,8 @@
   "de704b9e0865",
   "f260851b900a",
   "3ec4384e906e",
+  "54659499fbb9",
+  "5c4bc5adf4d3",
   "2e72868818b7",
   "5d66ceb0ad32",
   "920b32821dc3",
@@ -2692,6 +2705,7 @@
   "6ec596512714",
   "65b5fbbffca9",
   "903491398e3d",
+  "997dcf299f74",
   "37c09facb0ed",
   "a00c733d8693",
   "0d2868987eb2",
@@ -2709,16 +2723,19 @@
   "8a8529cc12d1",
   "10715372983c",
   "1bd2112e6116",
+  "ebfd8b91d250",
   "eb98b7614414",
   "ec25acfb6abd",
+  "a34178bacf77",
   "90fc21fc847f",
   "caf234585f41",
-  "25e68a169159",
   "d434ac1b7df7",
   "e85dd1979add",
   "220c001beac5",
+  "8d3ace77919c",
   "9ee5a4a036c5",
   "e71a71d6c971",
+  "dfc1d5b67f4c",
   "29a34f6fd987",
   "ef730d735431",
   "ea4ebdc459e9",
@@ -2742,7 +2759,6 @@
   "38b4092c3ea1",
   "6e824ba4c992",
   "8d70adca4d34",
-  "ab21508dc22f",
   "efd5db0fdab8",
   "5dad948ccf9e",
   "5c1649ca6205",
@@ -2796,6 +2812,7 @@
   "07f314c7a56c",
   "c6f3842f58a0",
   "0f91abe507d0",
+  "f9048d8fd55b",
   "8ebae4c74b5c",
   "f3e96d08da60",
   "54231d0a78e2",
@@ -2808,7 +2825,9 @@
   "6a1556662b77",
   "b78c5f0c66d4",
   "b245ce68119d",
+  "ade6b49da93d",
   "0b1aa01cd883",
+  "42fb6109d7eb",
   "e4cae1caf367",
   "477929cbee1f",
   "2788722045fc",
@@ -2816,7 +2835,6 @@
   "1b4bc9de03e6",
   "3d9e492d458e",
   "363111f6da6a",
-  "50447de92e7e",
   "8b68bde8f0d5",
   "548043741b33",
   "c39a294c1fcc",
@@ -2836,6 +2854,7 @@
   "f81bfc362bb5",
   "92ee25f2ac65",
   "f266bd0287f8",
+  "54a98c45a560",
   "9ae0926e96c3",
   "2de88d7aff1b",
   "5ba6fe9cb36e",
@@ -2885,6 +2904,7 @@
   "bd33bda44fb9",
   "3e38e450c7eb",
   "aa6d7658ce18",
+  "10b4724a82a0",
   "c3383314a402",
   "3afbd13f2409",
   "60ebb3d8eb35",
@@ -2895,12 +2915,12 @@
   "f03b5e52f073",
   "819f42a3789d",
   "c88005e4780a",
-  "10b4724a82a0",
   "ccf565a5aeaa",
   "bc0c58621102",
   "5985835f9036",
   "fe72e8fc636f",
   "21f06607c231",
+  "50447de92e7e",
   "ab03d7945331",
   "9750d60e979e",
   "514925b2e1e7",
@@ -2909,7 +2929,6 @@
   "ef23127b45de",
   "c641e383119e",
   "e3557c71e04b",
-  "997dcf299f74",
   "5172b5039974",
   "3173f158b754",
   "c7ff13ef147f",
@@ -2930,7 +2949,6 @@
   "478cfc408b36",
   "11cbb8f4e86b",
   "cc585ece8f00",
-  "dfc1d5b67f4c",
   "b9573c6a20c2",
   "c86573fc8789",
   "3f4422d3c6b8",
@@ -3399,25 +3417,7 @@
   "18e7a0279e86",
   "9c0d3a73797f",
   "22a3b1e21b3c",
-  "8efcd86aea9b",
-  "687521e9bfd7",
-  "399152c0c5bd",
-  "527f37d8c4c8",
-  "a5219191d0fa",
-  "6d2cb10b09f0",
-  "fb7a1bdfc607",
-  "89bbec66a568",
-  "143cff338f0c",
-  "a52a486a5f3e",
-  "111a09590fba",
-  "2e3b497f7e25",
-  "6fecbcec9739",
-  "664f791d90da",
-  "363ac69bc3cb",
-  "f93b54aba27e",
-  "48f2775ac858",
-  "d55ec95482f6",
-  "401af4472e42"
+  "8efcd86aea9b"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:01+00:00",
+   "actualizado": "2026-11-02T13:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:01+00:00",
+   "actualizado": "2026-11-02T13:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:01+00:00",
+   "actualizado": "2026-11-02T13:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:01+00:00",
+   "actualizado": "2026-11-02T13:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
