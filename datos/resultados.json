@@ -238920,6 +238920,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Leyre Romero Gormaz",
+    "Polona Hercog"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
   }
  ]
 }

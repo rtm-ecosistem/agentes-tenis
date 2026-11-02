@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T21:10+00:00",
+ "actualizado": "2026-11-02T22:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16181,19 +16181,18 @@
    "nombre": "Leyre Romero Gormaz",
    "circuito": "WTA",
    "elo": {
-    "all": 1619.8,
-    "hard": 1645.0,
+    "all": 1641.6,
+    "hard": 1668.1,
     "clay": 1541.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 53,
-    "hard": 43,
+    "all": 54,
+    "hard": 44,
     "clay": 9,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-21 G hard vs Polona Hercog",
     "2026-09-23 P hard vs Jessica Pieri",
     "2026-10-12 G hard vs Alice Rame",
     "2026-10-15 G hard vs Raluka Serban",
@@ -16202,7 +16201,8 @@
     "2026-10-18 P hard vs Clara Burel",
     "2026-10-26 G hard vs Julia Konishi Camargo Silva",
     "2026-10-28 G hard vs Antonia Vergara Rivera",
-    "2026-10-30 P hard vs Julia Grabher"
+    "2026-10-30 P hard vs Julia Grabher",
+    "2026-11-02 G hard vs Polona Hercog"
    ]
   },
   "jokic|k": {
@@ -16258,19 +16258,18 @@
    "nombre": "Polona Hercog",
    "circuito": "WTA",
    "elo": {
-    "all": 1580.8,
-    "hard": 1599.3,
+    "all": 1555.1,
+    "hard": 1573.4,
     "clay": 1626.7,
     "grass": 1434.3
    },
    "n": {
-    "all": 34,
-    "hard": 31,
+    "all": 35,
+    "hard": 32,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-13 G hard vs Dalila Jakupovic",
     "2026-08-25 P hard vs Moyuka Uchijima",
     "2026-09-14 P hard vs Julie Struplova",
     "2026-09-21 P hard vs Leyre Romero Gormaz",
@@ -16279,7 +16278,8 @@
     "2026-10-16 P hard vs Jessica Bouzas Maneiro",
     "2026-10-27 G hard vs Martina Capurro Taborda",
     "2026-10-29 P hard vs Valeriya Strakhova",
-    "2026-11-01 G hard vs Maria Jose Rico Sanchez"
+    "2026-11-01 G hard vs Maria Jose Rico Sanchez",
+    "2026-11-02 P hard vs Leyre Romero Gormaz"
    ]
   },
   "ortenzi|j": {
@@ -86831,7 +86831,7 @@
   ],
   "hercog|p~romero gormaz|l": [
    0,
-   1
+   2
   ],
   "selekhmeteva|o~urgesi|f": [
    1,
@@ -91526,5 +91526,5 @@
    1
   ]
  },
- "propios": 10546
+ "propios": 10547
 }
