@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.143,
+     "envidia": 0.142,
      "sorpresa": 0.4,
-     "impaciencia": 0.333,
+     "impaciencia": 0.33,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T11:34+00:00",
+    "hora": "2026-11-02T12:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.268,
+     "impaciencia": 0.266,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T11:34+00:00",
+    "hora": "2026-11-02T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.161,
+     "impaciencia": 0.16,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T11:34+00:00",
+    "hora": "2026-11-02T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.268,
+     "impaciencia": 0.266,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T11:34+00:00",
+    "hora": "2026-11-02T12:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T15:10+00:00",
-   "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery, Jan-Lennard Struff – Nuno Borges, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T15:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T15:32+00:00",
    "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T11:34+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,17 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-01-20",
  "noticias_vistas": [
+  "f27f5968b4e2",
+  "5d1885a816b0",
+  "5adc8752f756",
+  "b287160410a3",
+  "3a2e842eca8e",
+  "4f4cff2ce13f",
+  "8c2c37250a11",
+  "0252367f586a",
+  "6d632e3c3c18",
+  "0a11d08471b9",
+  "7aa58c92fe33",
   "fc191266a1d8",
   "14cee0274886",
   "f1332d53a894",
@@ -2626,6 +2637,8 @@
   "3bd71e92b940",
   "275fe0938f30",
   "bf26016142f3",
+  "8158adaa4dfe",
+  "f380784370b4",
   "66383fa40448",
   "a4f919fdc488",
   "a0a6fbcefbf5",
@@ -2633,10 +2646,12 @@
   "8d8dbbe50ffd",
   "c4f0318519c0",
   "4fee1a8ae643",
+  "309a6a4ee28d",
   "641db52d38f7",
   "57316f3a02cb",
   "9807b5b881ff",
   "a291f6dbfc9c",
+  "902999a31b66",
   "3c6e581cce81",
   "ebfd8b91d250",
   "1681b5790ab6",
@@ -2657,18 +2672,13 @@
   "3ec4384e906e",
   "2e72868818b7",
   "5d66ceb0ad32",
-  "f27f5968b4e2",
-  "5d1885a816b0",
-  "69e2c3f60dac",
-  "5adc8752f756",
   "920b32821dc3",
-  "b287160410a3",
-  "aed8563dc980",
   "34ec375747d5",
   "70ed554affed",
   "8e9c468b3c9e",
   "7d627a5192cc",
-  "8c2c37250a11",
+  "69e2c3f60dac",
+  "aed8563dc980",
   "bad768f74bf6",
   "745d0801587b",
   "ab8c85bb323b",
@@ -2723,6 +2733,7 @@
   "1ef4fdaa8456",
   "fe0c9ac75fc0",
   "0f1a03ae680b",
+  "3f5aea1e7af9",
   "99e897a98db0",
   "3ebe6d0f9205",
   "aa88badb9fae",
@@ -2809,6 +2820,7 @@
   "8b68bde8f0d5",
   "548043741b33",
   "c39a294c1fcc",
+  "039fa423747a",
   "9bb70651db82",
   "8b1ca933c78a",
   "ac3085e96676",
@@ -2874,8 +2886,8 @@
   "3e38e450c7eb",
   "aa6d7658ce18",
   "c3383314a402",
-  "3f5aea1e7af9",
   "3afbd13f2409",
+  "60ebb3d8eb35",
   "e90aa1817e74",
   "6a5f8284a94b",
   "3a2d0a629de4",
@@ -2939,8 +2951,8 @@
   "94d10c4a8d53",
   "44ce89835f31",
   "c85b24bb68a9",
+  "c92972d362c3",
   "145f8fe45b34",
-  "3a2e842eca8e",
   "6ea3b78f2dcb",
   "3914feeb1293",
   "fcd353ba34c9",
@@ -2979,6 +2991,7 @@
   "c6eef0ec3ac5",
   "a7451ccbf0e1",
   "dc897b979e24",
+  "7d1887b7aad6",
   "bcd53e36c732",
   "2b6ba705cb33",
   "90c2f5866f59",
@@ -3048,13 +3061,13 @@
   "0ebb0b60a131",
   "98ea239ebab9",
   "07f06bd1e741",
+  "7c3c7d051bec",
   "52a1ff7e02f2",
   "6a3674adfdea",
   "d6f7c92644fb",
   "cd40016f4efd",
   "78225ddda3f6",
   "d580d3f7ceb7",
-  "4f4cff2ce13f",
   "e5e3236ce6af",
   "6c25ebe5e50b",
   "c695649c4a07",
@@ -3193,7 +3206,6 @@
   "330947a6bedf",
   "8477f933e121",
   "aff6f145b524",
-  "7d1887b7aad6",
   "e0cd5e9a278f",
   "62976e7849c4",
   "74cd967f3214",
@@ -3260,7 +3272,6 @@
   "0936ef7bf756",
   "a190d78d03e9",
   "7e9fd0c59d7c",
-  "60ebb3d8eb35",
   "fdc0a802e77d",
   "4975f834387a",
   "2f866266d771",
@@ -3406,18 +3417,7 @@
   "f93b54aba27e",
   "48f2775ac858",
   "d55ec95482f6",
-  "401af4472e42",
-  "5d9f03546a94",
-  "78fc5db0d983",
-  "c6bc8722de95",
-  "83708b07a16e",
-  "6e96572f5eec",
-  "1a7089160a14",
-  "5946f9a6a5b3",
-  "f597079c6631",
-  "e108ecb41ba5",
-  "c8082f8a76a7",
-  "9ea50164ab91"
+  "401af4472e42"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7753,7 +7753,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8053,10 +8053,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFJyTEFhbEo1MXJ5YXREUDVxQUFTcXVQUVVIWDA2cEw3WUZ3SWpGWG0xMmoxNkJlamR5SlJpUTZaTnI0OENRQXB4ZWJ1eHBfNk1BN3BHUENUd3RMeHZkazBTS3BpZUl3TW82SUh1Vkdyc2NIdEVZNF90VmVEeC03a01yOEcxN3d2UGtN0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
       },
       {
-       "titulo": "Denis Shapovalov vs Karen Khachanov · Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
+       "titulo": "Zverev, el número uno inesperado - Infobae",
+       "fuente": "Infobae",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUElxYjFYMXNEaDlJNnZBaG10bVlxSXR2c1NadU1FWGpHb1k0WkM2WnhROHVra09Yblk4U0pSZ2NzaEZwbDN0SURiM1FGYnhTLU5nUWdMLUxPeGV4SzVPcmViYkhqZ0RMLW5kNTExRHNkWmV3NHp4dVpEc1BmMFFLVjIzSTlOcWY4cE1OOU1tUjF0Uzh3TXZZWEdhbVdjd3k1VVZnUkZB0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
       }
      ]
     },
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -8163,6 +8163,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Daniel Merida Aguilar - Alexander Blockx, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRjZKemlHU2EtSHdlTU5LNEJuZVYwLUoyNndBUkhjNzVoM0xPVWluNmpNa21xNlpwTGhOcUllTVE4c2lkTy1fQXh3SzNCX0F2bW1UWGNkSkZBRXhaV2h0VFNzX0dlaThmUHhLbi1CdW9yNUpaLUhrbnFhVE0zckl3emVDN1hyMXc2SkduaHQ1WmJIakpwMEstaWJMQ095dlFtb2NwUzk1SE0zNENQREJwdDRqRWlHWFBtWFExdDF0Zlk5dHMtd2FaYmN5VXEzNG5UN1BCQXJ0LWlUemhGcGRsSDhUam1tOUxIVks3UEZ0VkVodFpjNmJFZ1FOWUw?oc=5"
+      },
+      {
        "titulo": "Ugo Humbert vs Botic van de Zandschulp · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
@@ -8173,12 +8179,6 @@
        "fuente": "La Opinión de Murcia",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
       }
      ]
     }
@@ -8187,22 +8187,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 24,
-  "ganadas": 18,
-  "unidades": 2.03,
+  "apuestas": 25,
+  "ganadas": 19,
+  "unidades": 2.94,
   "pendientes": [
-   {
-    "partido": "9e065ecef1e149fdf4c5e361ba6d2f2b",
-    "jugadores": [
-     "Lorenzo Musetti",
-     "Hubert Hurkacz"
-    ],
-    "inicio": "2026-11-02T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Lorenzo Musetti",
-    "punto": null,
-    "cuota": 1.91
-   },
    {
     "partido": "0b15b685479df1479050365848bcfe54",
     "jugadores": [
@@ -8349,7 +8337,8 @@
    "3f537c10e972402ec718dc4dfa47786b",
    "45420e4ccaa96290ca605d63fe10dcc6",
    "ab2cc6778482917ac72005c2edb26824",
-   "f510a63a2e3852e183f84eb8cd44fcac"
+   "f510a63a2e3852e183f84eb8cd44fcac",
+   "9e065ecef1e149fdf4c5e361ba6d2f2b"
   ]
  },
  "mercados_casas": {

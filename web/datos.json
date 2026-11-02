@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T11:34+00:00",
+ "actualizado": "2026-11-02T12:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,14 +345,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.246,
+      "pct": 0.247,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.205,
+      "pct": 0.203,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.627,
+      "pct": 0.628,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.373,
+      "pct": 0.372,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.626,
+      "pct": 0.628,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.374,
+      "pct": 0.372,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.627,
+      "pct": 0.628,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.373,
+      "pct": 0.372,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2223,6 +2223,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T11:34+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2361,16 +2371,6 @@
    "hora": "2026-11-01T10:10+00:00",
    "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego, Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T09:24+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T09:24+00:00",
-   "texto": "📰 Noticias nuevas de Rinky Hijikata – Vit Kopriva, Alex de Minaur – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-02",
@@ -2441,9 +2441,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 24,
-  "aciertos": 0.75,
-  "yield": 0.08458333333333333
+  "apuestas": 25,
+  "aciertos": 0.76,
+  "yield": 0.1176
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -6755,7 +6755,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -6843,7 +6843,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -6931,7 +6931,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7019,7 +7019,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -7055,10 +7055,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFJyTEFhbEo1MXJ5YXREUDVxQUFTcXVQUVVIWDA2cEw3WUZ3SWpGWG0xMmoxNkJlamR5SlJpUTZaTnI0OENRQXB4ZWJ1eHBfNk1BN3BHUENUd3RMeHZkazBTS3BpZUl3TW82SUh1Vkdyc2NIdEVZNF90VmVEeC03a01yOEcxN3d2UGtN0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
       },
       {
-       "titulo": "Denis Shapovalov vs Karen Khachanov · Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
+       "titulo": "Zverev, el número uno inesperado - Infobae",
+       "fuente": "Infobae",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUElxYjFYMXNEaDlJNnZBaG10bVlxSXR2c1NadU1FWGpHb1k0WkM2WnhROHVra09Yblk4U0pSZ2NzaEZwbDN0SURiM1FGYnhTLU5nUWdMLUxPeGV4SzVPcmViYkhqZ0RMLW5kNTExRHNkWmV3NHp4dVpEc1BmMFFLVjIzSTlOcWY4cE1OOU1tUjF0Uzh3TXZZWEdhbVdjd3k1VVZnUkZB0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
       }
      ]
     },
@@ -7107,7 +7107,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T11:34+00:00",
+   "actualizado": "2026-11-02T12:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -7165,6 +7165,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Daniel Merida Aguilar - Alexander Blockx, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRjZKemlHU2EtSHdlTU5LNEJuZVYwLUoyNndBUkhjNzVoM0xPVWluNmpNa21xNlpwTGhOcUllTVE4c2lkTy1fQXh3SzNCX0F2bW1UWGNkSkZBRXhaV2h0VFNzX0dlaThmUHhLbi1CdW9yNUpaLUhrbnFhVE0zckl3emVDN1hyMXc2SkduaHQ1WmJIakpwMEstaWJMQ095dlFtb2NwUzk1SE0zNENQREJwdDRqRWlHWFBtWFExdDF0Zlk5dHMtd2FaYmN5VXEzNG5UN1BCQXJ0LWlUemhGcGRsSDhUam1tOUxIVks3UEZ0VkVodFpjNmJFZ1FOWUw?oc=5"
+      },
+      {
        "titulo": "Ugo Humbert vs Botic van de Zandschulp · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
@@ -7175,12 +7181,6 @@
        "fuente": "La Opinión de Murcia",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
       }
      ]
     }

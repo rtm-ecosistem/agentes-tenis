@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T11:34+00:00",
+ "actualizado": "2026-11-02T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1393,19 +1393,18 @@
    "nombre": "Hubert Hurkacz",
    "circuito": "ATP",
    "elo": {
-    "all": 1809.2,
-    "hard": 1778.3,
+    "all": 1792.5,
+    "hard": 1758.4,
     "clay": 1710.0,
     "grass": 1738.5
    },
    "n": {
-    "all": 133,
-    "hard": 88,
+    "all": 134,
+    "hard": 89,
     "clay": 33,
     "grass": 12
    },
    "ultimos": [
-    "2026-09-29 P hard vs Alejandro Davidovich Fokina",
     "2026-10-01 G hard vs Learner Tien",
     "2026-10-02 G hard vs Arthur Gea",
     "2026-10-04 G hard vs Karen Khachanov",
@@ -1414,7 +1413,8 @@
     "2026-10-11 G hard vs Zhou Yi",
     "2026-10-13 P hard vs Alejandro Davidovich Fokina",
     "2026-10-27 G hard vs Zizou Bergs",
-    "2026-10-28 P hard vs Holger Rune"
+    "2026-10-28 P hard vs Holger Rune",
+    "2026-11-02 P hard vs Lorenzo Musetti"
    ]
   },
   "ruusuvuori|e": {
@@ -1533,19 +1533,18 @@
    "nombre": "Lorenzo Musetti",
    "circuito": "ATP",
    "elo": {
-    "all": 1823.2,
-    "hard": 1786.8,
+    "all": 1838.1,
+    "hard": 1804.9,
     "clay": 1908.8,
     "grass": 1754.7
    },
    "n": {
-    "all": 179,
-    "hard": 113,
+    "all": 180,
+    "hard": 114,
     "clay": 50,
     "grass": 16
    },
    "ultimos": [
-    "2026-09-01 G hard vs Arthur Fery",
     "2026-09-03 P hard vs Dane Sweeny",
     "2026-10-09 P hard vs Zhou Yi",
     "2026-10-19 G hard vs Matteo Arnaldi",
@@ -1554,7 +1553,8 @@
     "2026-10-24 G hard vs Flavio Cobolli",
     "2026-10-25 G hard vs Taylor Fritz",
     "2026-10-28 G hard vs Frances Tiafoe",
-    "2026-10-29 P hard vs Arthur Fery"
+    "2026-10-29 P hard vs Arthur Fery",
+    "2026-11-02 G hard vs Hubert Hurkacz"
    ]
   },
   "wong|c": {
@@ -18855,19 +18855,18 @@
    "nombre": "Mary Stoiana",
    "circuito": "WTA",
    "elo": {
-    "all": 1698.0,
-    "hard": 1688.1,
+    "all": 1700.6,
+    "hard": 1691.2,
     "clay": 1543.0,
     "grass": 1572.4
    },
    "n": {
-    "all": 51,
-    "hard": 39,
+    "all": 52,
+    "hard": 40,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-09 G hard vs Jazmin Ortenzi",
     "2026-09-10 P hard vs Julia Riera",
     "2026-09-16 G hard vs Claire Liu",
     "2026-09-17 G hard vs Dominika Salkova",
@@ -18876,7 +18875,8 @@
     "2026-10-18 G hard vs Sayaka Ishii",
     "2026-10-20 G hard vs Oleksandra Oliynykova",
     "2026-10-22 G hard vs Moyuka Uchijima",
-    "2026-10-23 P hard vs Katerina Siniakova"
+    "2026-10-23 P hard vs Katerina Siniakova",
+    "2026-11-02 G hard vs Venus Williams"
    ]
   },
   "vidmanova|d": {
@@ -22828,19 +22828,18 @@
    "nombre": "Venus Williams",
    "circuito": "ATP",
    "elo": {
-    "all": 1193.5,
-    "hard": 1198.0,
+    "all": 1189.4,
+    "hard": 1193.3,
     "clay": 1434.3,
     "grass": 1457.4
    },
    "n": {
-    "all": 13,
-    "hard": 11,
+    "all": 14,
+    "hard": 12,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-02-24 P hard vs Ajla Tomljanovic",
     "2026-03-05 P hard vs Diane Parry",
     "2026-03-19 P hard vs Francesca Jones",
     "2026-04-21 P clay vs Kaitlin Quevedo",
@@ -22849,7 +22848,8 @@
     "2026-08-02 P hard vs Kamilla Rakhimova",
     "2026-08-14 P hard vs Emiliana Arango",
     "2026-08-31 P hard vs Sofia Kenin",
-    "2026-10-27 P hard vs Lilli Tagger"
+    "2026-10-27 P hard vs Lilli Tagger",
+    "2026-11-02 P hard vs Mary Stoiana"
    ]
   },
   "svitolina|e": {
@@ -26406,19 +26406,18 @@
    "nombre": "Isabella Shinikova",
    "circuito": "WTA",
    "elo": {
-    "all": 1302.3,
-    "hard": 1333.1,
+    "all": 1354.0,
+    "hard": 1385.2,
     "clay": 1492.4,
     "grass": 1434.3
    },
    "n": {
-    "all": 13,
-    "hard": 10,
+    "all": 14,
+    "hard": 11,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-12 G hard vs Doga Turkmen",
     "2026-07-13 G hard vs Yujia Huang",
     "2026-07-14 P hard vs Alexandra Shubladze",
     "2026-07-18 G clay vs Rasheeda McAdoo",
@@ -26427,7 +26426,8 @@
     "2026-09-13 P hard vs Diletta Cherubini",
     "2026-09-21 P hard vs Aysegul Mert",
     "2026-09-26 P hard vs Elena Micic",
-    "2026-10-11 P grass vs Aneta Kucmova"
+    "2026-10-11 P grass vs Aneta Kucmova",
+    "2026-11-02 G hard vs Dune Vaissaud"
    ]
   },
   "mansouri|y": {
@@ -33022,19 +33022,20 @@
    "nombre": "Dune Vaissaud",
    "circuito": "WTA",
    "elo": {
-    "all": 1415.1,
-    "hard": 1415.1,
+    "all": 1334.9,
+    "hard": 1339.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-05 P hard vs Alicia Herrero Linana"
+    "2026-07-05 P hard vs Alicia Herrero Linana",
+    "2026-11-02 P hard vs Isabella Shinikova"
    ]
   },
   "morderger|y": {
@@ -70646,7 +70647,7 @@
   ],
   "hurkacz|h~musetti|l": [
    0,
-   1
+   2
   ],
   "nava|e~vacherot|v": [
    1,
@@ -91387,7 +91388,15 @@
   "sawant|m~sziedat|f": [
    0,
    1
+  ],
+  "stoiana|m~williams|v": [
+   1,
+   0
+  ],
+  "shinikova|i~vaissaud|d": [
+   1,
+   0
   ]
  },
- "propios": 10524
+ "propios": 10527
 }
