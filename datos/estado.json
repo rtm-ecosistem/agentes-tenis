@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.136,
+     "envidia": 0.135,
      "sorpresa": 0.4,
-     "impaciencia": 0.316,
+     "impaciencia": 0.314,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T15:10+00:00",
+    "hora": "2026-11-02T15:38+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.254,
+     "impaciencia": 0.252,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T15:10+00:00",
+    "hora": "2026-11-02T15:38+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.153,
+     "impaciencia": 0.152,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T15:10+00:00",
+    "hora": "2026-11-02T15:38+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.254,
+     "impaciencia": 0.252,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T15:10+00:00",
+    "hora": "2026-11-02T15:38+00:00",
     "rent": 0.0
    }
   }
@@ -2618,16 +2618,21 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
+  "bf294cd86ae1",
+  "6639413a587e",
   "ab21508dc22f",
   "7d627a5192cc",
   "de704b9e0865",
   "70447f48c923",
   "f1e1e09ae963",
+  "a73d7e8d2fea",
   "c204c403eb2a",
   "40bee769beb2",
+  "3ed94688ecc7",
   "0d3d20e8a70e",
   "b11924babe33",
   "2db08a5b9e00",
+  "edcd658003b5",
   "6d9a991c700e",
   "3b590a2622f9",
   "10d24ca0789f",
@@ -2638,9 +2643,11 @@
   "3f7a5f250a8d",
   "b8f3afee10f0",
   "80be0f3bd43f",
+  "fffaf55d84e1",
   "b61de61f05dc",
   "981fae28f496",
   "4530076c96f9",
+  "02d14462026f",
   "f27f5968b4e2",
   "5d1885a816b0",
   "5adc8752f756",
@@ -2682,10 +2689,10 @@
   "c4f0318519c0",
   "4fee1a8ae643",
   "309a6a4ee28d",
-  "92efff17efc2",
   "641db52d38f7",
   "57316f3a02cb",
   "9807b5b881ff",
+  "92efff17efc2",
   "a291f6dbfc9c",
   "902999a31b66",
   "6371de218eac",
@@ -2697,12 +2704,13 @@
   "a1a65873c35b",
   "36f69c4679cf",
   "dd524f882d52",
+  "5e007eaceb4a",
   "0dc5e66f1d0b",
   "ef7805cd4da9",
-  "0d1ffb6ba7d8",
   "926c18d45994",
   "b2b0e6f91bb4",
   "352b007acbc3",
+  "91b5642a00d8",
   "f260851b900a",
   "3ec4384e906e",
   "54659499fbb9",
@@ -2752,6 +2760,7 @@
   "ec25acfb6abd",
   "820da9e18b5c",
   "a34178bacf77",
+  "50447de92e7e",
   "90fc21fc847f",
   "caf234585f41",
   "d434ac1b7df7",
@@ -2786,6 +2795,7 @@
   "6e824ba4c992",
   "8d70adca4d34",
   "efd5db0fdab8",
+  "8802a6fd81cf",
   "5dad948ccf9e",
   "5c1649ca6205",
   "8676ce2e6af0",
@@ -2862,7 +2872,6 @@
   "1b4bc9de03e6",
   "3d9e492d458e",
   "363111f6da6a",
-  "50447de92e7e",
   "8b68bde8f0d5",
   "548043741b33",
   "c39a294c1fcc",
@@ -2891,6 +2900,7 @@
   "a9060fe8274f",
   "cad985e9fabd",
   "082824f619cc",
+  "dfc1d5b67f4c",
   "0acf4814eec0",
   "6759dd2f119c",
   "e593df7de844",
@@ -2901,6 +2911,7 @@
   "2a7b37382599",
   "acd9e2d37e46",
   "62df5926b252",
+  "10b4724a82a0",
   "9fb21d84943b",
   "4bd3c9e9124d",
   "98b92a34921f",
@@ -2913,7 +2924,6 @@
   "a46f55a40e1c",
   "ef64b42c480e",
   "117cbafa721d",
-  "10b4724a82a0",
   "49092d06a289",
   "b9e549c0ab12",
   "f2237f65810d",
@@ -2978,7 +2988,6 @@
   "478cfc408b36",
   "11cbb8f4e86b",
   "cc585ece8f00",
-  "dfc1d5b67f4c",
   "b9573c6a20c2",
   "c86573fc8789",
   "3f4422d3c6b8",
@@ -2990,6 +2999,7 @@
   "d7168f0d8abf",
   "3f87e36d349f",
   "488ca5156299",
+  "0d1ffb6ba7d8",
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "de9f52f160ac",
@@ -3028,7 +3038,6 @@
   "e755badd4e23",
   "2dc60422bb72",
   "bad9b6194331",
-  "8802a6fd81cf",
   "800fe4df8726",
   "0a5e8263ca7b",
   "2aa767a370b0",
@@ -3159,6 +3168,7 @@
   "6e410f2a9dc4",
   "72ec253abbd1",
   "f9a28cd8a3f1",
+  "559c2054e564",
   "21e02784f93e",
   "0e71cde628f3",
   "c4b1138db750",
@@ -3185,7 +3195,6 @@
   "13dd2f31df10",
   "daa107bff888",
   "9fdf08550e39",
-  "559c2054e564",
   "98d8e7b3477b",
   "fc2b6b895408",
   "b35e942f038e",
@@ -3226,6 +3235,7 @@
   "7d9931d4d33e",
   "8da5e1ca320e",
   "92a5f1e58abd",
+  "42e6eef22ba0",
   "3c16fd8f6ffb",
   "ce3e0135ecb7",
   "1ee8c00ba4a5",
@@ -3407,17 +3417,7 @@
   "f2d3898e59eb",
   "9d068b3daade",
   "bca8c607ee7c",
-  "01d1c0e91dde",
-  "39ad96c761eb",
-  "ec173f2de2a7",
-  "98ac27d121f4",
-  "36cbaef4d744",
-  "ba714858fded",
-  "3eb1ac58774b",
-  "801d6c788a8e",
-  "58755f45f2b9",
-  "6682337af4b0",
-  "cee887a27c01"
+  "01d1c0e91dde"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 28,
-  "ganadas": 22,
-  "unidades": 4.14,
+  "apuestas": 29,
+  "ganadas": 23,
+  "unidades": 4.58,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8202,18 +8202,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "a397cd2c21e2038f589dfcc1bbf4a5d9",
-    "jugadores": [
-     "Cameron Norrie",
-     "Matteo Arnaldi"
-    ],
-    "inicio": "2026-11-02T12:20+00:00",
-    "mercado": "h2h",
-    "seleccion": "Cameron Norrie",
-    "punto": null,
-    "cuota": 1.44
    },
    {
     "partido": "a916463c001545483b340777daefd7c6",
@@ -8305,7 +8293,8 @@
    "9e065ecef1e149fdf4c5e361ba6d2f2b",
    "0b15b685479df1479050365848bcfe54",
    "35c20c072dc49b1f1762bd71838ad56b",
-   "99851274de5cc3c943371f330f1b4c71"
+   "99851274de5cc3c943371f330f1b4c71",
+   "a397cd2c21e2038f589dfcc1bbf4a5d9"
   ]
  },
  "mercados_casas": {
