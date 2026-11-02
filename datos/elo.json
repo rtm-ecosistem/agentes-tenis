@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T00:10+00:00",
+ "actualizado": "2026-11-02T01:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -20777,19 +20777,18 @@
    "nombre": "Tatjana Maria",
    "circuito": "WTA",
    "elo": {
-    "all": 1765.0,
-    "hard": 1722.5,
+    "all": 1742.9,
+    "hard": 1700.0,
     "clay": 1510.6,
     "grass": 1618.2
    },
    "n": {
-    "all": 59,
-    "hard": 42,
+    "all": 60,
+    "hard": 43,
     "clay": 6,
     "grass": 11
    },
    "ultimos": [
-    "2026-08-04 P hard vs Catherine McNally",
     "2026-08-13 G hard vs Dayana Yastremska",
     "2026-08-15 P hard vs Diana Shnaider",
     "2026-09-02 G hard vs Jelena Ostapenko",
@@ -20798,7 +20797,8 @@
     "2026-10-27 G hard vs Carlota Garibay Romero",
     "2026-10-29 G hard vs Martina Colmegna",
     "2026-10-30 G hard vs Valeriya Strakhova",
-    "2026-11-01 G hard vs Fiona Ferro"
+    "2026-11-01 G hard vs Fiona Ferro",
+    "2026-11-01 P hard vs Bianca Andreescu"
    ]
   },
   "tikhonova|a": {
@@ -27963,19 +27963,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1787.4,
-    "hard": 1779.1,
+    "all": 1812.7,
+    "hard": 1803.5,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 41,
-    "hard": 33,
+    "all": 42,
+    "hard": 34,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-09 P hard vs Anna Blinkova",
     "2026-10-13 G hard vs Mia Ristic",
     "2026-10-15 G hard vs Antonia Ruzic",
     "2026-10-16 G hard vs Lucrezia Stefanini",
@@ -27984,7 +27983,8 @@
     "2026-10-27 G hard vs Katherine Hui",
     "2026-10-30 G hard vs Diletta Cherubini",
     "2026-10-31 G hard vs Alicia Herrero Linana",
-    "2026-11-01 G hard vs Carole Monnet"
+    "2026-11-01 G hard vs Carole Monnet",
+    "2026-11-01 G hard vs Tatjana Maria"
    ]
   },
   "kumru|a": {
@@ -91341,7 +91341,11 @@
   "herazo gonzalez|m~scott|k": [
    1,
    0
+  ],
+  "andreescu|b~maria|t": [
+   1,
+   0
   ]
  },
- "propios": 10515
+ "propios": 10516
 }

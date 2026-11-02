@@ -238249,6 +238249,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-01",
+   "torneo": "Queretaro Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Bianca Andreescu",
+    "Tatjana Maria"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }

@@ -159,7 +159,7 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.166,
+     "envidia": 0.164,
      "sorpresa": 0.4,
      "impaciencia": 0.35
     },
@@ -169,7 +169,7 @@
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
     },
-    "hora": "2026-11-02T00:10+00:00",
+    "hora": "2026-11-02T01:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -324,14 +324,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.316,
+     "impaciencia": 0.311,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T00:10+00:00",
+    "hora": "2026-11-02T01:10+00:00",
     "rent": 0.0
    }
   },
@@ -473,14 +473,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.19,
+     "impaciencia": 0.187,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T00:10+00:00",
+    "hora": "2026-11-02T01:10+00:00",
     "rent": 0.0
    }
   },
@@ -635,14 +635,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.316,
+     "impaciencia": 0.311,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T00:10+00:00",
+    "hora": "2026-11-02T01:10+00:00",
     "rent": 0.0
    }
   }
