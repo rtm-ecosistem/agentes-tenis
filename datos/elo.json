@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T08:05+00:00",
+ "actualizado": "2026-11-02T09:40+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16761,19 +16761,18 @@
    "nombre": "Aliaksandra Sasnovich",
    "circuito": "WTA",
    "elo": {
-    "all": 1735.8,
-    "hard": 1742.6,
+    "all": 1759.1,
+    "hard": 1764.6,
     "clay": 1459.2,
     "grass": 1528.5
    },
    "n": {
-    "all": 65,
-    "hard": 56,
+    "all": 66,
+    "hard": 57,
     "clay": 5,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-09 P hard vs Elvina Kalieva",
     "2026-10-17 G hard vs Anna Bondar",
     "2026-10-19 G hard vs Daria Kasatkina",
     "2026-10-21 P hard vs Leylah Fernandez",
@@ -16782,7 +16781,8 @@
     "2026-10-27 G hard vs Nikola Bartunkova",
     "2026-10-28 P hard vs Diana Shnaider",
     "2026-10-31 G hard vs Cheuk Ying Shek",
-    "2026-11-01 G hard vs Carol Young Suh Lee"
+    "2026-11-01 G hard vs Carol Young Suh Lee",
+    "2026-11-02 G hard vs Katie Volynets"
    ]
   },
   "shuai|z": {
@@ -21307,19 +21307,18 @@
    "nombre": "Katie Volynets",
    "circuito": "ATP",
    "elo": {
-    "all": 1742.6,
-    "hard": 1711.7,
+    "all": 1719.5,
+    "hard": 1689.2,
     "clay": 1525.9,
     "grass": 1662.9
    },
    "n": {
-    "all": 67,
-    "hard": 53,
+    "all": 68,
+    "hard": 54,
     "clay": 8,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-21 G hard vs Elvina Kalieva",
     "2026-09-23 G hard vs Kamilla Rakhimova",
     "2026-09-26 P hard vs Kimberly Birrell",
     "2026-10-01 G hard vs Robin Montgomery",
@@ -21328,7 +21327,8 @@
     "2026-10-11 G hard vs Camila Osorio",
     "2026-10-13 G hard vs Kimberly Birrell",
     "2026-10-14 P hard vs Guo Hanyu",
-    "2026-10-27 P hard vs Dayana Yastremska"
+    "2026-10-27 P hard vs Dayana Yastremska",
+    "2026-11-02 P hard vs Aliaksandra Sasnovich"
    ]
   },
   "masarova|r": {
@@ -91349,7 +91349,11 @@
   "liu|c~prozorova|t": [
    1,
    0
+  ],
+  "sasnovich|a~volynets|k": [
+   1,
+   0
   ]
  },
- "propios": 10518
+ "propios": 10519
 }
