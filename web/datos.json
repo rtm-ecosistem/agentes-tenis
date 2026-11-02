@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T19:10+00:00",
+ "actualizado": "2026-11-02T19:38+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.285,
+      "pct": 0.286,
       "motivo": "Lleva 4 días sin apostar."
      },
      {
@@ -352,14 +352,14 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.19,
+      "pct": 0.191,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.19,
+      "pct": 0.189,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.653,
+      "pct": 0.655,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.347,
+      "pct": 0.345,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.651,
+      "pct": 0.652,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.349,
+      "pct": 0.348,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.653,
+      "pct": 0.655,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.347,
+      "pct": 0.345,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1019,58 +1019,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
-  "partidos": [
-   {
-    "id": "85efb20e93a6ca08964f6239e9956dae",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T19:30+00:00",
-    "jugadores": [
-     "Ugo Humbert",
-     "Botic van de Zandschulp"
-    ],
-    "opciones": [
-     {
-      "id": "85efb20e93a6ca08964f6239e9956dae|h2h|Botic van de Zandschulp|",
-      "mercado": "h2h",
-      "nombre": "Botic van de Zandschulp",
-      "punto": null,
-      "cuota": 2.42,
-      "pinnacle": 2.39
-     },
-     {
-      "id": "85efb20e93a6ca08964f6239e9956dae|h2h|Ugo Humbert|",
-      "mercado": "h2h",
-      "nombre": "Ugo Humbert",
-      "punto": null,
-      "cuota": 1.57,
-      "pinnacle": 1.64
-     },
-     {
-      "id": "85efb20e93a6ca08964f6239e9956dae|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.82,
-      "pinnacle": 1.89
-     },
-     {
-      "id": "85efb20e93a6ca08964f6239e9956dae|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.88,
-      "pinnacle": 1.98
-     }
-    ],
-    "pinnacle_h2h": {
-     "Botic van de Zandschulp": 2.39,
-     "Ugo Humbert": 1.64
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
