@@ -238853,6 +238853,73 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Karen Khachanov",
+    "Denis Shapovalov"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yuliana Lizarazo",
+    "Laura Samson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Solana Sierra",
+    "Selena Janicijevic"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
   }
  ]
 }

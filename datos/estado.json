@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.126,
+     "envidia": 0.124,
      "sorpresa": 0.4,
-     "impaciencia": 0.295,
+     "impaciencia": 0.291,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -169,9 +169,9 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
-     "aburrimiento": "Lleva 4 días sin apostar."
+     "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T20:10+00:00",
+    "hora": "2026-11-02T21:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.235,
+     "impaciencia": 0.232,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T20:10+00:00",
+    "hora": "2026-11-02T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.143,
+     "impaciencia": 0.141,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T20:10+00:00",
+    "hora": "2026-11-02T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.235,
+     "impaciencia": 0.232,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T20:10+00:00",
+    "hora": "2026-11-02T21:10+00:00",
     "rent": 0.0
    }
   }
@@ -8204,18 +8204,6 @@
     "cuota": 1.63
    },
    {
-    "partido": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
-    "jugadores": [
-     "Denis Shapovalov",
-     "Karen Khachanov"
-    ],
-    "inicio": "2026-11-02T18:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Karen Khachanov",
-    "punto": null,
-    "cuota": 1.59
-   },
-   {
     "partido": "85efb20e93a6ca08964f6239e9956dae",
     "jugadores": [
      "Ugo Humbert",
@@ -8261,7 +8249,8 @@
    "a397cd2c21e2038f589dfcc1bbf4a5d9",
    "a916463c001545483b340777daefd7c6",
    "b363b01046ccc43cdfcc7e7f4e42d735",
-   "44f0dc12e4fa4b0ef607420fecfd8eb6"
+   "44f0dc12e4fa4b0ef607420fecfd8eb6",
+   "1a6898d788e3c5c7ecfb78edf5d4e8ab"
   ]
  },
  "mercados_casas": {
