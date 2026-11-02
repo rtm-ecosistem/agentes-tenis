@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.134,
+     "envidia": 0.132,
      "sorpresa": 0.4,
-     "impaciencia": 0.312,
+     "impaciencia": 0.307,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T16:10+00:00",
+    "hora": "2026-11-02T17:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.25,
+     "impaciencia": 0.246,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T16:10+00:00",
+    "hora": "2026-11-02T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.151,
+     "impaciencia": 0.149,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T16:10+00:00",
+    "hora": "2026-11-02T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.25,
+     "impaciencia": 0.246,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T16:10+00:00",
+    "hora": "2026-11-02T17:10+00:00",
     "rent": 0.0
    }
   }
@@ -2618,17 +2618,37 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
+  "7b0fe4410ec6",
+  "b480d3f3db68",
   "a40b04b3875c",
   "7a7f75785cde",
+  "ef1adcd9e7f8",
+  "ac46acb6cb1a",
   "bf294cd86ae1",
+  "321592a4ea3a",
   "6639413a587e",
   "ab21508dc22f",
   "7d627a5192cc",
+  "42735ff51312",
   "f0acd8e435e9",
   "0c98bcc6bd9d",
+  "21afa57e6481",
+  "a81894e7c656",
+  "21a882b3e0cc",
+  "36d2edcbd8cc",
+  "140979ea81cf",
+  "2558ea83bbad",
+  "871bd4a3e580",
+  "83f6697b00fb",
+  "067d625b846c",
+  "1c06df8e7c04",
+  "8f581bf2cc30",
+  "f5b1290836a6",
   "de704b9e0865",
   "70447f48c923",
+  "b5acb41a8b92",
   "f1e1e09ae963",
+  "790f78816602",
   "a73d7e8d2fea",
   "c204c403eb2a",
   "40bee769beb2",
@@ -2640,12 +2660,12 @@
   "6d9a991c700e",
   "3b590a2622f9",
   "10d24ca0789f",
+  "3f7a5f250a8d",
   "54f79982311b",
   "1d57f3d29fc0",
   "3cfcf62df9de",
   "88e27da099ed",
   "e420ba945aad",
-  "3f7a5f250a8d",
   "b8f3afee10f0",
   "80be0f3bd43f",
   "fffaf55d84e1",
@@ -2670,16 +2690,16 @@
   "6d632e3c3c18",
   "e92ba639ea27",
   "0a11d08471b9",
+  "3bd71e92b940",
   "a305c93eabdb",
   "7aa58c92fe33",
+  "2e3d4f2b1740",
+  "f1332d53a894",
+  "680658bbad33",
   "fc191266a1d8",
   "14cee0274886",
-  "f1332d53a894",
-  "0d0fe9b970bb",
-  "2e3d4f2b1740",
-  "680658bbad33",
   "aba404aa1635",
-  "3bd71e92b940",
+  "0d0fe9b970bb",
   "275fe0938f30",
   "bf26016142f3",
   "8158adaa4dfe",
@@ -2690,6 +2710,7 @@
   "a4f919fdc488",
   "a0a6fbcefbf5",
   "f0c11916b4d0",
+  "dc897b979e24",
   "8d8dbbe50ffd",
   "c4f0318519c0",
   "4fee1a8ae643",
@@ -2715,12 +2736,16 @@
   "ef7805cd4da9",
   "926c18d45994",
   "b2b0e6f91bb4",
+  "a1835dc03135",
   "352b007acbc3",
   "91b5642a00d8",
   "f260851b900a",
   "3ec4384e906e",
   "54659499fbb9",
   "5c4bc5adf4d3",
+  "ea048f30c055",
+  "8525ff3039a2",
+  "8918b97db3e7",
   "2e72868818b7",
   "5d66ceb0ad32",
   "920b32821dc3",
@@ -2762,11 +2787,8 @@
   "1bd2112e6116",
   "a6134614a3f2",
   "ebfd8b91d250",
-  "eb98b7614414",
-  "ec25acfb6abd",
   "820da9e18b5c",
   "a34178bacf77",
-  "50447de92e7e",
   "90fc21fc847f",
   "caf234585f41",
   "d434ac1b7df7",
@@ -2801,7 +2823,6 @@
   "6e824ba4c992",
   "8d70adca4d34",
   "efd5db0fdab8",
-  "8802a6fd81cf",
   "5dad948ccf9e",
   "5c1649ca6205",
   "8676ce2e6af0",
@@ -2889,6 +2910,8 @@
   "d4230a22cd72",
   "5e2a73317688",
   "aaa503b0ea8a",
+  "eb98b7614414",
+  "ec25acfb6abd",
   "545600586b6f",
   "898cd1142f83",
   "97298db7687b",
@@ -2910,6 +2933,7 @@
   "0acf4814eec0",
   "6759dd2f119c",
   "e593df7de844",
+  "10b4724a82a0",
   "eab97af585f6",
   "4effa43c7192",
   "cbc2eca60a33",
@@ -2917,7 +2941,6 @@
   "2a7b37382599",
   "acd9e2d37e46",
   "62df5926b252",
-  "10b4724a82a0",
   "9fb21d84943b",
   "4bd3c9e9124d",
   "98b92a34921f",
@@ -2965,6 +2988,7 @@
   "5985835f9036",
   "fe72e8fc636f",
   "21f06607c231",
+  "50447de92e7e",
   "ab03d7945331",
   "9750d60e979e",
   "514925b2e1e7",
@@ -3044,6 +3068,7 @@
   "e755badd4e23",
   "2dc60422bb72",
   "bad9b6194331",
+  "8802a6fd81cf",
   "800fe4df8726",
   "0a5e8263ca7b",
   "2aa767a370b0",
@@ -3053,7 +3078,6 @@
   "a127f485558b",
   "c6eef0ec3ac5",
   "a7451ccbf0e1",
-  "dc897b979e24",
   "7d1887b7aad6",
   "bcd53e36c732",
   "2b6ba705cb33",
@@ -3185,7 +3209,6 @@
   "6c0d0026912b",
   "ce37677187b7",
   "bcb3d26d8490",
-  "7b0fe4410ec6",
   "58c65f01dbc7",
   "dd8abfa3325d",
   "6d42e4595230",
@@ -3233,7 +3256,6 @@
   "0f3c4f376c24",
   "0ce65bae0fa4",
   "cdada3b9e3a6",
-  "b480d3f3db68",
   "ffbbdbc29649",
   "361981353646",
   "ceae7bbbb12e",
@@ -3395,29 +3417,7 @@
   "6959073f112b",
   "85ef7c14d2da",
   "65e82cb1359f",
-  "358c0a659e32",
-  "50857ccc5560",
-  "56a012e25c7d",
-  "f955a1232633",
-  "5599b62189c3",
-  "c69b950fa7e0",
-  "9ec9761ac479",
-  "1f57c3d107e5",
-  "c54c56914bf4",
-  "edba43eb8d91",
-  "49eaca25a9bd",
-  "c31d689f6b04",
-  "43952eff570b",
-  "12aa34e5d9ee",
-  "323ea2929fb4",
-  "fae6e289640d",
-  "d3cb8b672877",
-  "0d7c9bde073f",
-  "d223201f7483",
-  "b0ae16ddcdee",
-  "33a20812d1c5",
-  "127ddc5db01f",
-  "53f30eea43df"
+  "358c0a659e32"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 29,
-  "ganadas": 23,
-  "unidades": 4.58,
+  "apuestas": 30,
+  "ganadas": 24,
+  "unidades": 5.24,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8202,18 +8202,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "a916463c001545483b340777daefd7c6",
-    "jugadores": [
-     "Mattia Bellucci",
-     "Lorenzo Sonego"
-    ],
-    "inicio": "2026-11-02T13:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Mattia Bellucci",
-    "punto": null,
-    "cuota": 1.66
    },
    {
     "partido": "b363b01046ccc43cdfcc7e7f4e42d735",
@@ -8294,7 +8282,8 @@
    "0b15b685479df1479050365848bcfe54",
    "35c20c072dc49b1f1762bd71838ad56b",
    "99851274de5cc3c943371f330f1b4c71",
-   "a397cd2c21e2038f589dfcc1bbf4a5d9"
+   "a397cd2c21e2038f589dfcc1bbf4a5d9",
+   "a916463c001545483b340777daefd7c6"
   ]
  },
  "mercados_casas": {

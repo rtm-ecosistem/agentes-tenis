@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T15:38+00:00",
+ "actualizado": "2026-11-02T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1093,19 +1093,18 @@
    "nombre": "Lorenzo Sonego",
    "circuito": "ATP",
    "elo": {
-    "all": 1574.2,
-    "hard": 1558.9,
+    "all": 1560.2,
+    "hard": 1544.9,
     "clay": 1448.1,
     "grass": 1621.7
    },
    "n": {
-    "all": 147,
-    "hard": 99,
+    "all": 148,
+    "hard": 100,
     "clay": 28,
     "grass": 20
    },
    "ultimos": [
-    "2026-09-02 P hard vs Alexander Zverev",
     "2026-09-24 G hard vs James Duckworth",
     "2026-09-25 P hard vs Jenson Brooksby",
     "2026-09-28 P hard vs Kamil Majchrzak",
@@ -1114,7 +1113,8 @@
     "2026-10-24 G hard vs Adolfo Daniel Vallejo",
     "2026-10-25 P hard vs Jacob Fearnley",
     "2026-10-31 G hard vs Jaume Munar",
-    "2026-11-01 G hard vs Adolfo Daniel Vallejo"
+    "2026-11-01 G hard vs Adolfo Daniel Vallejo",
+    "2026-11-02 P hard vs Mattia Bellucci"
    ]
   },
   "mannarino|a": {
@@ -8924,19 +8924,18 @@
    "nombre": "Mattia Bellucci",
    "circuito": "ATP",
    "elo": {
-    "all": 1631.8,
-    "hard": 1659.7,
+    "all": 1648.9,
+    "hard": 1675.7,
     "clay": 1375.6,
     "grass": 1476.6
    },
    "n": {
-    "all": 87,
-    "hard": 70,
+    "all": 88,
+    "hard": 71,
     "clay": 9,
     "grass": 8
    },
    "ultimos": [
-    "2026-09-01 G hard vs Zsombor Piros",
     "2026-09-03 P hard vs Taylor Fritz",
     "2026-09-24 P hard vs Kamil Majchrzak",
     "2026-10-05 G hard vs Elias Ymer",
@@ -8945,7 +8944,8 @@
     "2026-10-21 G hard vs Tomas Martin Etcheverry",
     "2026-10-22 P hard vs Terence Atmane",
     "2026-10-31 G hard vs Pablo Carreno Busta",
-    "2026-11-01 G hard vs Thiago Agustin Tirante"
+    "2026-11-01 G hard vs Thiago Agustin Tirante",
+    "2026-11-02 G hard vs Lorenzo Sonego"
    ]
   },
   "carreno busta|p": {
@@ -91484,7 +91484,11 @@
   "arnaldi|m~norrie|c": [
    0,
    1
+  ],
+  "bellucci|m~sonego|l": [
+   1,
+   0
   ]
  },
- "propios": 10536
+ "propios": 10537
 }
