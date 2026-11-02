@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.127,
+     "envidia": 0.126,
      "sorpresa": 0.4,
-     "impaciencia": 0.297,
+     "impaciencia": 0.295,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T19:38+00:00",
+    "hora": "2026-11-02T20:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.237,
+     "impaciencia": 0.235,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T19:38+00:00",
+    "hora": "2026-11-02T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.144,
+     "impaciencia": 0.143,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T19:38+00:00",
+    "hora": "2026-11-02T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.237,
+     "impaciencia": 0.235,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T19:38+00:00",
+    "hora": "2026-11-02T20:10+00:00",
     "rent": 0.0
    }
   }
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 31,
-  "ganadas": 25,
-  "unidades": 5.78,
+  "apuestas": 32,
+  "ganadas": 26,
+  "unidades": 6.57,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8202,18 +8202,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "44f0dc12e4fa4b0ef607420fecfd8eb6",
-    "jugadores": [
-     "Alex Molcan",
-     "Titouan Droguet"
-    ],
-    "inicio": "2026-11-02T15:40+00:00",
-    "mercado": "h2h",
-    "seleccion": "Alex Molcan",
-    "punto": null,
-    "cuota": 1.79
    },
    {
     "partido": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
@@ -8272,7 +8260,8 @@
    "99851274de5cc3c943371f330f1b4c71",
    "a397cd2c21e2038f589dfcc1bbf4a5d9",
    "a916463c001545483b340777daefd7c6",
-   "b363b01046ccc43cdfcc7e7f4e42d735"
+   "b363b01046ccc43cdfcc7e7f4e42d735",
+   "44f0dc12e4fa4b0ef607420fecfd8eb6"
   ]
  },
  "mercados_casas": {
