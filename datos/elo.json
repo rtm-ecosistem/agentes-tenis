@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T13:52+00:00",
+ "actualizado": "2026-11-02T14:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -36436,20 +36436,21 @@
    "nombre": "Kristina Novak",
    "circuito": "WTA",
    "elo": {
-    "all": 1385.9,
-    "hard": 1390.4,
+    "all": 1461.5,
+    "hard": 1465.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-09-15 P hard vs Weronika Falkowska",
-    "2026-10-11 P hard vs Caroline Werner"
+    "2026-10-11 P hard vs Caroline Werner",
+    "2026-11-02 G hard vs Warona Mdlulwa"
    ]
   },
   "lovric|p": {
@@ -38773,6 +38774,25 @@
    },
    "ultimos": [
     "2026-11-02 P hard vs Yasmine Kabbaj"
+   ]
+  },
+  "mdlulwa|w": {
+   "nombre": "Warona Mdlulwa",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1413.5,
+    "hard": 1414.3,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-02 P hard vs Kristina Novak"
    ]
   }
  },
@@ -91452,7 +91472,11 @@
   "kabbaj|y~van zyl|j": [
    1,
    0
+  ],
+  "mdlulwa|w~novak|k": [
+   0,
+   1
   ]
  },
- "propios": 10532
+ "propios": 10533
 }

@@ -238610,6 +238610,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kristina Novak",
+    "Warona Mdlulwa"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
