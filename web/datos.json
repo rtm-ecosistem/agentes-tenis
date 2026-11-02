@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T19:01+00:00",
+ "actualizado": "2026-11-02T19:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,22 +338,15 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.284,
+      "pct": 0.285,
       "motivo": "Lleva 4 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.253,
+      "pct": 0.254,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
-     },
-     {
-      "emocion": "impaciencia",
-      "cara": "😑",
-      "nombre": "Impaciencia",
-      "pct": 0.191,
-      "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
@@ -363,10 +356,17 @@
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
+      "emocion": "impaciencia",
+      "cara": "😑",
+      "nombre": "Impaciencia",
+      "pct": 0.19,
+      "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
+     },
+     {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.082,
+      "pct": 0.081,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.65,
+      "pct": 0.653,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.35,
+      "pct": 0.347,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.647,
+      "pct": 0.651,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.353,
+      "pct": 0.349,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.65,
+      "pct": 0.653,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.35,
+      "pct": 0.347,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],

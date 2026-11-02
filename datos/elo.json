@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T18:10+00:00",
+ "actualizado": "2026-11-02T19:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16358,20 +16358,21 @@
    "nombre": "Maria Paulina Perez Garcia",
    "circuito": "WTA",
    "elo": {
-    "all": 1382.3,
-    "hard": 1379.7,
+    "all": 1317.4,
+    "hard": 1314.3,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2025-10-27 P hard vs Yuliana Lizarazo",
-    "2026-09-08 P hard vs Emiliana Arango"
+    "2026-09-08 P hard vs Emiliana Arango",
+    "2026-11-02 P hard vs Carolina Alves"
    ]
   },
   "cirstea|s": {
@@ -17956,19 +17957,18 @@
    "nombre": "Lucia Bronzetti",
    "circuito": "WTA",
    "elo": {
-    "all": 1549.6,
-    "hard": 1535.1,
+    "all": 1532.8,
+    "hard": 1515.6,
     "clay": 1633.2,
     "grass": 1558.8
    },
    "n": {
-    "all": 54,
-    "hard": 42,
+    "all": 55,
+    "hard": 43,
     "clay": 9,
     "grass": 3
    },
    "ultimos": [
-    "2026-07-30 G hard vs Alevtina Ibragimova",
     "2026-07-31 G hard vs Sara Sorribes Tormo",
     "2026-08-01 P hard vs Laura Samson",
     "2026-08-26 P hard vs Polina Iatcenko",
@@ -17977,7 +17977,8 @@
     "2026-10-05 P hard vs Fiona Crawley",
     "2026-10-12 G hard vs Mona Barthel",
     "2026-10-14 P hard vs Jil Teichmann",
-    "2026-10-26 P hard vs Luisina Giovannini"
+    "2026-10-26 P hard vs Luisina Giovannini",
+    "2026-11-02 P hard vs Leolia Jeanjean"
    ]
   },
   "yamalapalli|s": {
@@ -19836,19 +19837,18 @@
    "nombre": "Carolina Alves",
    "circuito": "WTA",
    "elo": {
-    "all": 1336.9,
-    "hard": 1330.7,
+    "all": 1383.5,
+    "hard": 1377.7,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 11,
-    "hard": 11,
+    "all": 12,
+    "hard": 12,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2025-11-19 P hard vs Carole Monnet",
     "2025-11-24 P hard vs Panna Udvardy",
     "2025-12-02 P hard vs Varvara Lepchenko",
     "2026-02-22 P hard vs Martina Colmegna",
@@ -19857,7 +19857,8 @@
     "2026-09-07 G hard vs Antonia Vergara Rivera",
     "2026-09-08 P hard vs Leolia Jeanjean",
     "2026-09-16 P hard vs Suzan Lamens",
-    "2026-10-27 P hard vs Julia Grabher"
+    "2026-10-27 P hard vs Julia Grabher",
+    "2026-11-02 G hard vs Maria Paulina Perez Garcia"
    ]
   },
   "sorribes tormo|s": {
@@ -20027,19 +20028,18 @@
    "nombre": "Leolia Jeanjean",
    "circuito": "WTA",
    "elo": {
-    "all": 1662.2,
-    "hard": 1631.6,
+    "all": 1678.4,
+    "hard": 1650.1,
     "clay": 1523.0,
     "grass": 1652.0
    },
    "n": {
-    "all": 60,
-    "hard": 49,
+    "all": 61,
+    "hard": 50,
     "clay": 6,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-09 G hard vs Julieta Pareja",
     "2026-09-10 G hard vs Carol Young Suh Lee",
     "2026-09-11 P hard vs Claire Liu",
     "2026-09-28 G hard vs Suzan Lamens",
@@ -20048,7 +20048,8 @@
     "2026-10-03 G hard vs Antonia Ruzic",
     "2026-10-04 G hard vs Lois Boisson",
     "2026-10-07 P hard vs Mariam Bolkvadze",
-    "2026-10-27 P hard vs Carole Monnet"
+    "2026-10-27 P hard vs Carole Monnet",
+    "2026-11-02 G hard vs Lucia Bronzetti"
    ]
   },
   "caffarena|j": {
@@ -91502,7 +91503,15 @@
   "martynov|d~samir|s": [
    1,
    0
+  ],
+  "bronzetti|l~jeanjean|l": [
+   0,
+   1
+  ],
+  "alves|c~paulina perez garcia|m": [
+   1,
+   0
   ]
  },
- "propios": 10540
+ "propios": 10542
 }
