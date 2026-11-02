@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.147,
+     "envidia": 0.146,
      "sorpresa": 0.4,
-     "impaciencia": 0.343,
+     "impaciencia": 0.34,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T09:40+00:00",
+    "hora": "2026-11-02T10:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.276,
+     "impaciencia": 0.274,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T09:40+00:00",
+    "hora": "2026-11-02T10:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.165,
+     "impaciencia": 0.164,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T09:40+00:00",
+    "hora": "2026-11-02T10:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.276,
+     "impaciencia": 0.274,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T09:40+00:00",
+    "hora": "2026-11-02T10:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T13:10+00:00",
    "texto": "📰 Noticias nuevas de Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery, Jan-Lennard Struff – Nuno Borges: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T09:40+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T10:10+00:00",
+   "texto": "📰 Noticias nuevas de Alejandro Tabilo – Rafael Jodar, Daniel Merida Aguilar – Alexander Blockx, Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T10:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,15 +2618,24 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-01-20",
  "noticias_vistas": [
+  "bf26016142f3",
+  "66383fa40448",
+  "a4f919fdc488",
+  "a0a6fbcefbf5",
+  "f0c11916b4d0",
+  "8d8dbbe50ffd",
   "641db52d38f7",
+  "57316f3a02cb",
   "9807b5b881ff",
   "a291f6dbfc9c",
+  "3c6e581cce81",
   "ebfd8b91d250",
   "92efff17efc2",
   "25cea0b2b29c",
   "697d933e5e96",
   "9a93980fc076",
   "a1a65873c35b",
+  "dd524f882d52",
   "ef7805cd4da9",
   "0d1ffb6ba7d8",
   "b2b0e6f91bb4",
@@ -2677,7 +2686,6 @@
   "8a8529cc12d1",
   "10715372983c",
   "1bd2112e6116",
-  "66383fa40448",
   "90fc21fc847f",
   "caf234585f41",
   "25e68a169159",
@@ -2692,6 +2700,7 @@
   "ea4ebdc459e9",
   "9ff82b970269",
   "e6e20ffca4fa",
+  "73f4b7c180cc",
   "e9cdb2ebc089",
   "fb392d95d569",
   "84dc925688f1",
@@ -3378,7 +3387,6 @@
   "363ac69bc3cb",
   "f93b54aba27e",
   "48f2775ac858",
-  "dd524f882d52",
   "d55ec95482f6",
   "401af4472e42",
   "5d9f03546a94",
@@ -3409,15 +3417,7 @@
   "630eeea63891",
   "7656673194b9",
   "d99b68b114b5",
-  "c98dc17748cb",
-  "d69941633384",
-  "c21665b16b28",
-  "3d34f5ce3ecd",
-  "4f8a44da9c31",
-  "ee6bb99ed8bb",
-  "0a074b987fed",
-  "f190f0630f19",
-  "edada4534e28"
+  "c98dc17748cb"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7313,7 +7313,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.225,
    "elo_general": 0.213,
    "elo_en_superficie": 0.237,
@@ -7371,22 +7371,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Rafael Jódar hace historia siendo el más precoz en entrar en el Top-10 - rfet.es",
+       "fuente": "rfet.es",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFliX256bF9BQ09EbDFWdXFzbjdzYzhkQlZic2ctZzRtOGtNMVhpUWNRcjQtRXdJanpQODA5YlQxaF9INnhFWXFLRzFDS2hadnZMV1FwRXFaR2c0SVNRa0o1b3MyRnlRcGd2OWdtZWxPYU5GNXpuS1dUZ29hY2J4MU5raUh2eGNMVXFEOFFIMVdtZWZFNzBsM0p4Uy1fTjQ2ZkdF?oc=5"
+      },
+      {
+       "titulo": "Jódar estrena histórica condición de 'Top 10' en el inicio del reinado de Zverev - Notimérica",
+       "fuente": "Notimérica",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlJHdEh0dHAzZUJoZm5wek5XbnlxUW5McVdxZjFwaF9GelRZYndwZlN5ZFdfeFRmRTlLbVg1a3lOcHNkcG0xM1VtSlhrYkxVWksyRlZTS195YjFTOGpSS1VnTlE1T001dXdZUzlIb0ZJc0dZRklQYnl3VWR5U3pJcHZKeUNrWEJsaHNwUVVud01rX2daTkV6U1JIUnhtVWJHUG5uR1VRUExLWW44YlNPS1dLYmxNOHh5RDY0NDc1Q1huWW9P?oc=5"
+      },
+      {
        "titulo": "Jódar y su increíble ascenso: ¿podría Turín ser el siguiente paso? - Nitto ATP Finals",
        "fuente": "Nitto ATP Finals",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kdS1vd0xEaUxFbjhtOUpwODEzOVFpem94a05zSlVIQkJWT25Kbl9xSEZKbWg1S0hUSGlnV3gzcmZsMzdtMTAxY1dhR01QR3pPbzJ1cUN2ZGw4OUMwcGpaUXkxdlY0c3A1OFdPUmswLW5kT3NmYlJReA?oc=5"
-      },
-      {
-       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
-       "fuente": "Flashscore.cl",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUERSbVpXOG40aU1TTHRXdVVxaXJ6YmlQdk1uOTlsY0pYb3NpS0lDeEFzRjFMbGZRRFUxaF9pM0VJNXZLbFhtajV3WUZsZ2w2dUdRek00cTFDblAxU2RvZlZzOU9mR2VkdTBrWWJndk0zTDhBckY1aDRHUElVZ2F1UTB4Q1JocXZtc2RYSXdYWVNmT3RkYWZaVmliY1JtdTU3UkpDU2dn?oc=5"
-      },
-      {
-       "titulo": "Alejandro Tabilo vs Rafael Jódar · Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFJkN0tpT2xlUnRoV2EtUWFDTE9ia3haa3Y2cUdQbDF5OWJvSldDVjh1aUZacElsVGI3MDBvMVJiSW5GMjFaNnZiQWVJZ2x3Ynhid0hXd3lIWlpWcjljTW1fMGZDaHhCVm9QMF9WTHFLSi00UHJuV1ZEOUpOUWI4Vnd0MlhYcXBuYlM0dzdTX0JRbmF5ajhPaw?oc=5"
       }
      ]
     }
@@ -7401,7 +7401,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.441,
    "elo_general": 0.452,
    "elo_en_superficie": 0.431,
@@ -7489,7 +7489,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.473,
    "elo_general": 0.459,
    "elo_en_superficie": 0.488,
@@ -7513,22 +7513,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Daniel Mérida vs Sebastián Báez · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG8wUC1ycTRRWkRFWVVfZWhIOERhQW1URzhDVEx3TGZyT1Zic09oU3drVXY4Qk42cXR3SnFGNHFkd2hGbUc4a0xKS20zU2tfTWxFZ0Jac3plZEEtMnRsS0thUEg4ZXBESFZkTXVrRW84UDl1UUR0ZlhUOU1jVDlWalh1WWk3bVJYOWltTHRBd1Y1alVaVE93?oc=5"
+      },
+      {
+       "titulo": "Masters 1000 París – Mérida vs. Blockx: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnpjLUJ0ZldLQ1pvOGNlbFQ2MGxBbGFfUEZWSWJQSy01OGQtYU9SM3U0eHlpazNKb19QRjdBSVI4UHJRNjRlNnZiX1Nvd1dfV0pndUhDR2FiWUp6S0V0RVo4T2lJN0UyUklQMUpxT2tKX2c3VFdWU2V5TnB6YmZDdmczV0pkajM3MVZpXy1za24zdklHTVV1UVN4VXlOaEhZV2JGc3NzREpwWndxSDcwSS1PaHE5anB3UGc?oc=5"
+      },
+      {
        "titulo": "Daniel Mérida vs Alexander Blockx · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbjNSbEM3WmF4dmgxVWZaRDFzZElyZW5kR19Hb09yUGI3elFUNjhsM1Fia1BCSDBiN09uTEJnZ1BuY0lwR084ZkJ0NmZsUWd5dXo4c3lIdy1QeW8zMW9BM0xLSVpJUkQyN2M4ckZET0gweEl3VkkySEd6QW5KTG1pWkFfaGVjWmtJZ2hQR3VkcDJPVm02eFVXZUVn?oc=5"
-      },
-      {
-       "titulo": "Daniel Merida Aguilar vs Alexander Blockx EN DIRECTO 02/11/2026 | Tenis - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTNFT1hsNm00WnVaY2FIZ3hGbEJCcHk1QmFaaTVTMUhlbVVfaS14SVJxbDNlUU1udkI1ckZOcUp5NkV5QW1TZVNIUl80emlTVW5MM1VNVkZWYTdNRG5DN3U2UTl5S1ZsdlZETFZidmU2a0xDNWppQU1GU1JYdTFjUXIzWGF1YVozT2VVNmJJZ3RoZDJIMkhsQ0wwd2NaZw?oc=5"
-      },
-      {
-       "titulo": "Thiago Agustin Pernas vs. Federico Aguilar Cardozo Villa Maria 2026 1st Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByc093ZFlyM3FqR09UYzhmdVo4NDlYMG1jdVVkZUdhcDB3cmhudmgyXzF5U25LdGoyNHRHSUNBLXBHaHhQNW1OcWRIb3p2NmZab2ttLW1XNGRnQmlvNjJJeVVwUFd4SlN5U2NMYmpuVVFDYVVtTVIyUzBn?oc=5"
       }
      ]
     },
@@ -7547,6 +7547,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Masters 1000 París – Mérida vs. Blockx: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnpjLUJ0ZldLQ1pvOGNlbFQ2MGxBbGFfUEZWSWJQSy01OGQtYU9SM3U0eHlpazNKb19QRjdBSVI4UHJRNjRlNnZiX1Nvd1dfV0pndUhDR2FiWUp6S0V0RVo4T2lJN0UyUklQMUpxT2tKX2c3VFdWU2V5TnB6YmZDdmczV0pkajM3MVZpXy1za24zdklHTVV1UVN4VXlOaEhZV2JGc3NzREpwWndxSDcwSS1PaHE5anB3UGc?oc=5"
+      },
+      {
        "titulo": "Daniel Mérida vs Alexander Blockx · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
@@ -7557,12 +7563,6 @@
        "fuente": "Flashscore.es",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTNFT1hsNm00WnVaY2FIZ3hGbEJCcHk1QmFaaTVTMUhlbVVfaS14SVJxbDNlUU1udkI1ckZOcUp5NkV5QW1TZVNIUl80emlTVW5MM1VNVkZWYTdNRG5DN3U2UTl5S1ZsdlZETFZidmU2a0xDNWppQU1GU1JYdTFjUXIzWGF1YVozT2VVNmJJZ3RoZDJIMkhsQ0wwd2NaZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz no tiene techo ante De Miñaur y conquista el título de Viena - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXVJZUszLUdoREpMN0EyWUdCdkVKMmJodmN4Mm9pMlV0RXkwOU4tcGVROWpRVF9ra1pJR0otVTBCa05ZVVlod3dteGlZak9rbWlxeEN3R2g3d1JOZmZCNWpUdWFJY0xwdC1UdGlTVHlLeTdYblBCdW9BTEU4Z1dhc0s5eVluYkRIX3BHYThHU0h1TkxiUU5yTtIBmAFBVV95cUxNbjlRQlRpeVBBWnFRLXBxVld0ZmZFcnU0Zlk4YUx5MGhESXpaU08wMVlWeUMxXzNtUk1TcVp6enlVUnF2c01tVGg4TjV4bTZYS2VjRjFrRHdzMGRGUmZPODRlLUZ2a3hQQUlienRGMTRwZlJRaHF5b3BDaGhpRWtuRzBJV243Y2RCQkw4ckRYTHdQWUhoZVQtNg?oc=5"
       }
      ]
     }
@@ -7577,7 +7577,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.673,
    "elo_general": 0.659,
    "elo_en_superficie": 0.688,
@@ -7665,7 +7665,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.66,
    "elo_general": 0.639,
    "elo_en_superficie": 0.681,
@@ -7753,7 +7753,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8081,16 +8081,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
       },
       {
+       "titulo": "Carlos Alcaraz conquista el Torneo ATP 500 de Viena; vence en dos sets a Alex de Miñaur - XEVT",
+       "fuente": "XEVT",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3FwcjlFZGtiUzQxa2tST05UaG5kYzRtamRKUURvSTFhOWtXWmlWSld3Qng1MGpZcFo1R0oxRnpDSzd3clo3WFhLLUw2NGFheWR2MjgwUHR3Vlh0VXY4Z285ZDg0LXFkaGt4VDdhQmhISmxFdHprd0JNQUdBZkNHdFJvVTY3NTNDYVhqU1VaR25idWNQdTdhQW8wOVVKN25HTWl0RWN2MFNGd2tJNkc3Y3kyRW9yRFZJelBUN050X2E?oc=5"
+      },
+      {
        "titulo": "Resumen del Denis Shapovalov - Karen Khachanov - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWRrZnZLU0FPRHNiZzNpZjZUQW52R0laSG9NaDRteS1OZVdvWEtvM3czTjdRSlp0clRpN0t6cVByQ1FMcWJyTkE5M1dHMnJLQUZMcmZiNlM2Vlp4ZFBrSTloSGYyMVlwbnpTM25YVFowZ25wTE9CNHdkejNmbUdfY1R1QzVOSWw2MGJsMm81ZkxuMFVxYkVlUVFqbWdOM05TVmpCcDJQNG5sQQ?oc=5"
-      },
-      {
-       "titulo": "Alcaraz gana en Viena el cuarto título de la temporada - Ultima Hora",
-       "fuente": "Ultima Hora",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3pfalZvNmlDUnBzaVJVcGZaaHlOcFhDWUQ0WE1fME5LVzBJLU5IVkVsOE1OQTlDS1l5c3ZIMlBpUldBT1J6R3lmVEhKVVRaWTBwTkwyX3puZlZ5amNnTkFVV3hXY1laVjc5Y1NxeGFSTE5TaWh4UmxLdXVBUDZXbXVfTXRXU3Q1ZS11b3hHM2pQc01aQjFyQ0E0cWEzQTg1bFE3czZtN0haY2_SAasBQVVfeXFMTTd6X2pWbzZpQ1Jwc2lSVXBmWmh5TnBYQ1lENFhNXzBOS1cwSS1OSFZFbDhNTkE5Q0tZeXN2SDJQaVJXQU9Sekd5ZlRISlVUWlkwcE5MMl96bmZWeWpjZ05BVVd4V2NZWlY3OWNTcXhhUkxOU2loeFJsS3V1QVA2V211X010V1N0NWUtdW94RzNqUHNNWkIxckNBNHFhM0E4NWxRN3M2bTdIWmNv?oc=5"
       }
      ]
     }
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T09:40+00:00",
+   "actualizado": "2026-11-02T10:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
