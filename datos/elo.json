@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T10:10+00:00",
+ "actualizado": "2026-11-02T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -33585,19 +33585,20 @@
    "nombre": "Franziska Sziedat",
    "circuito": "WTA",
    "elo": {
-    "all": 1430.3,
-    "hard": 1430.3,
+    "all": 1503.5,
+    "hard": 1503.5,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-11 P hard vs Viktoria Morvayova"
+    "2026-07-11 P hard vs Viktoria Morvayova",
+    "2026-11-02 G hard vs Madhurima Sawant"
    ]
   },
   "vukadin|n": {
@@ -38712,6 +38713,25 @@
    },
    "ultimos": [
     "2026-11-01 P hard vs Polona Hercog"
+   ]
+  },
+  "sawant|m": {
+   "nombre": "Madhurima Sawant",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1421.3,
+    "hard": 1421.3,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-02 P hard vs Franziska Sziedat"
    ]
   }
  },
@@ -91363,7 +91383,11 @@
   "sofia sanchez|a~vosloo|a": [
    1,
    0
+  ],
+  "sawant|m~sziedat|f": [
+   0,
+   1
   ]
  },
- "propios": 10521
+ "propios": 10522
 }

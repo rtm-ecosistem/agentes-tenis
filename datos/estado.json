@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.146,
+     "envidia": 0.144,
      "sorpresa": 0.4,
-     "impaciencia": 0.34,
+     "impaciencia": 0.335,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T10:10+00:00",
+    "hora": "2026-11-02T11:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.274,
+     "impaciencia": 0.27,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T10:10+00:00",
+    "hora": "2026-11-02T11:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.164,
+     "impaciencia": 0.162,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T10:10+00:00",
+    "hora": "2026-11-02T11:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.274,
+     "impaciencia": 0.27,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T10:10+00:00",
+    "hora": "2026-11-02T11:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery, Jan-Lennard Struff – Nuno Borges: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T14:10+00:00",
    "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery, Jerome Kym – Jiri Lehecka, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T11:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T11:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,26 +2618,36 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-01-20",
  "noticias_vistas": [
+  "fc191266a1d8",
+  "f1332d53a894",
+  "0d0fe9b970bb",
+  "a305c93eabdb",
+  "3bd71e92b940",
   "bf26016142f3",
   "66383fa40448",
   "a4f919fdc488",
   "a0a6fbcefbf5",
   "f0c11916b4d0",
   "8d8dbbe50ffd",
+  "c4f0318519c0",
+  "4fee1a8ae643",
   "641db52d38f7",
   "57316f3a02cb",
   "9807b5b881ff",
   "a291f6dbfc9c",
   "3c6e581cce81",
   "ebfd8b91d250",
+  "1681b5790ab6",
   "92efff17efc2",
   "25cea0b2b29c",
   "697d933e5e96",
   "9a93980fc076",
   "a1a65873c35b",
+  "36f69c4679cf",
   "dd524f882d52",
   "ef7805cd4da9",
   "0d1ffb6ba7d8",
+  "926c18d45994",
   "b2b0e6f91bb4",
   "352b007acbc3",
   "de704b9e0865",
@@ -2686,11 +2696,12 @@
   "8a8529cc12d1",
   "10715372983c",
   "1bd2112e6116",
+  "eb98b7614414",
+  "ec25acfb6abd",
   "90fc21fc847f",
   "caf234585f41",
   "25e68a169159",
   "d434ac1b7df7",
-  "ec25acfb6abd",
   "e85dd1979add",
   "220c001beac5",
   "9ee5a4a036c5",
@@ -2712,6 +2723,7 @@
   "99e897a98db0",
   "3ebe6d0f9205",
   "aa88badb9fae",
+  "404eb53f2437",
   "da3ac77f83fd",
   "38b4092c3ea1",
   "6e824ba4c992",
@@ -2790,6 +2802,7 @@
   "1b4bc9de03e6",
   "3d9e492d458e",
   "363111f6da6a",
+  "50447de92e7e",
   "8b68bde8f0d5",
   "548043741b33",
   "c39a294c1fcc",
@@ -2800,7 +2813,6 @@
   "d4230a22cd72",
   "5e2a73317688",
   "aaa503b0ea8a",
-  "eb98b7614414",
   "545600586b6f",
   "898cd1142f83",
   "97298db7687b",
@@ -2873,7 +2885,6 @@
   "5985835f9036",
   "fe72e8fc636f",
   "21f06607c231",
-  "50447de92e7e",
   "ab03d7945331",
   "9750d60e979e",
   "514925b2e1e7",
@@ -3099,6 +3110,7 @@
   "6d42e4595230",
   "78d83485e8a6",
   "ef0817761f82",
+  "680775b72b00",
   "2506b21507a5",
   "370b4cd08ddf",
   "0c19f6526845",
@@ -3174,6 +3186,7 @@
   "247681c2cfba",
   "87a059e82c49",
   "330947a6bedf",
+  "8477f933e121",
   "aff6f145b524",
   "7d1887b7aad6",
   "e0cd5e9a278f",
@@ -3209,6 +3222,7 @@
   "cb873c8b2921",
   "9636aaff87fc",
   "63a324fde714",
+  "c245b6fea727",
   "974daf0f7bc4",
   "320befac0a9c",
   "0ab3a91768aa",
@@ -3218,7 +3232,6 @@
   "b3c81fcebf40",
   "9c8f14c40faf",
   "928793ebc0c6",
-  "8477f933e121",
   "e677fabcca71",
   "11d59c0fe8f2",
   "16e0d9d40407",
@@ -3404,20 +3417,7 @@
   "4b824366a168",
   "2784bf734939",
   "5df54bac6e66",
-  "d522b8d5446b",
-  "9879bc059fe2",
-  "a6a704e68806",
-  "748dafc965e1",
-  "0b6ffcd4969e",
-  "b83c017b2f20",
-  "157c59dbeb26",
-  "f1af2c32943a",
-  "894b67092dc7",
-  "aebcf8b9a2b2",
-  "630eeea63891",
-  "7656673194b9",
-  "d99b68b114b5",
-  "c98dc17748cb"
+  "d522b8d5446b"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7489,7 +7489,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.473,
    "elo_general": 0.459,
    "elo_en_superficie": 0.488,
@@ -7577,7 +7577,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.673,
    "elo_general": 0.659,
    "elo_en_superficie": 0.688,
@@ -7607,16 +7607,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWN3Q2ZhZ1FaZE82WGxDN3g0NXVIS1BQQ2s0NVBqcGQxQ1J5RzRCODdZYWNSLTQxQUxzdWhFYWQyS1hsZnAwX0VZUG1QOUJmTlk4TTJNengtck1EcnJic3hEVHhMVUY4Q24zc1pkTUZSRnMtRXpDT1d1dGxXZHVyMVltTlh6TTZRajNjeGtlTTdJMTZnd09DSm1sYw?oc=5"
       },
       {
+       "titulo": "Quiénes son los tenistas argentinos que se presentan en el último Masters 1000 de la temporada en París - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVjh0UG1vX2NDdHlxQ3h2YlA3c1BiVGtQVktXVmJlWWZHNUN0ZG9mOFV0YnRrOERsZXNfTjQ1TjY5ak5WUHhwR2pLdTZFVVg1OC1hcm5KLWg1eEJvNXFOVkstQXVQWUZVUFZjNkp3OFVleU9tU19sUWdvMHVtLWlzODdSa2daN2lSTUtPMG1JZnhSMDhjbzNzU2dzNWdDS0FPMHdrWEYyaFhqb0F2SW1DVmczM2FaMXEzRlpmOXJ3RTJyUEJlOHlyTTZ4TkYzOHY0Uk5RYTZXNnlwaGQwQ1FnLW5Kc1RFWGRDYlFUZlpEVS1uWTFhYkR4RkRkR3TSAfwBQVVfeXFMT1Y4dFBtb19jQ3R5cUN4dmJQN3NQYlRrUFZLV1ZiZVlmRzVDdGRvZjhVdGJ0azhEbGVzX040NU42OWpOVlB4cEdqS3U2RVVYNTgtYXJuSi1oNXhCbzVxTlZLLUF1UFlGVVBWYzZKdzhVZXlPbVNfbFFnbzB1bS1pczg3UmtnWjdpUk1LTzBtSWZ4UjA4Y28zc1NnczVnQ0tBTzB3a1hGMmhYam9BdkltQ1ZnMzNhWjFxM0ZaZjlyd0UyclBCZTh5ck02eE5GMzh2NFJOUWE2VzZ5cGhkMENRZy1uSnNURVhkQ2JRVGZaRFUtblkxYWJEeEZEZEd0?oc=5"
+      },
+      {
        "titulo": "Cameron Norrie vs Matteo Arnaldi: Set 2 Winner - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUU4YlVKLTVDMzhxaDJZbFlCWURmdlZwajkzX2NMb3F3STltOWVsMzNxN3F0X3ZqYTI1VWNoaWl1cDZDeWlCbmFuWW8zdU83VWJaR0ZHYjdYRzZmVkwxdFlwYTYwVzlYUVNDZzJjN09TNGZjdnpmLXJQaFdzMVE3eC1UTDFTUQ?oc=5"
-      },
-      {
-       "titulo": "Resumen del Cameron Norrie - Matteo Arnaldi - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUNKTnlxOHlIYmo0Wm80WlZEcS1zaVB4dEkxLVFma2tIUFdFTG5SMnNwVXFxNlNLNURqZ1E0LXdNSnlPSkpKMWZid1luVjEzWGpobFdQS2dqMlJBQUtXeS1OZ2ZhY3VvMGg0MmoyWXI5UEY4T2NkNm5zY3pUMlBMMy0yWEJOODctV0hxaFhJeWotRXlqeXdleGdOVTJCOWtUUHItRkt3?oc=5"
       }
      ]
     },
@@ -7665,7 +7665,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.66,
    "elo_general": 0.639,
    "elo_en_superficie": 0.681,
@@ -7753,7 +7753,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7993,16 +7993,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
       },
       {
+       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVUzZTRaVFd4UWJYczJIUUdkMjdsd3ZwZGRwNkNuUnNnRmFCcmRYN3pNRm5MV0pGTXgwY002LTNuY3pPbzVsVUZwMkJQVGlJdGJKTTdrYUFhdXN5VDVyUTNPenh1bzdHRTNrWWFwajRJT3V4RFdHLTU1ZDdEUjYwaC1qMk0?oc=5"
-      },
-      {
-       "titulo": "ATP Masters París: Programación del 2 de noviembre - Match Tenis",
-       "fuente": "Match Tenis",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwTGtVRFpwU09FZTNUNmFxRDA3bldhZTRJWklUR1Y4cE04Sm9SODVmWjM5TDItLWJRWS1xUnFqeE1Gal8wRnN3NlhhTVlZRkV2U1B5RmU1akx5cEd1M2ZHSy1XYmlpYzB2VTRMUGZrWnExYTFs?oc=5"
       }
      ]
     }
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -8135,16 +8135,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3UxX1ZLbEE5LUVjNmFnVy1JUVNSdGY4Wl9IODJkQnpfZXN1M2NiX2tCQXdCc09KaXFZUENQZm9ldjVicDRzQzNmVWJZTEx2Y3pJV09EYzFIZ3RwLTBtQWE3TWR1THlQdzQ0aVFIWVhpbUxtUDdEZDNGZVZ3a3IxSHB2UFZRZ1o1ckVWWEhmemtjUF96WmZpdmVXeVdLS055WXdsSFp4c0RXZw?oc=5"
       },
       {
+       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
+      },
+      {
        "titulo": "¿Cuál es la programación de París? - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
-      },
-      {
-       "titulo": "Ugo Humbert vs Botic Van De Zandschulp » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMk5FUU5pS2t2cmFqaU0xRDlvM1VPLXNOM1ZMXzFoTHhZLWFEUl9OSVBjajhVN1VDSFc1QWtpdzhBWEtVSmlMYTZFc3VXX2NveTQ5SkNlSDlUOHFsMjU4dUx2eUt2czFQbU1rQ0c4dE0wUjdLeFMweFFDcw?oc=5"
       }
      ]
     },
@@ -8175,10 +8175,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
       },
       {
-       "titulo": "Ugo Humbert vs Botic Van De Zandschulp » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
+       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
+       "fuente": "SportyTrader",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMk5FUU5pS2t2cmFqaU0xRDlvM1VPLXNOM1ZMXzFoTHhZLWFEUl9OSVBjajhVN1VDSFc1QWtpdzhBWEtVSmlMYTZFc3VXX2NveTQ5SkNlSDlUOHFsMjU4dUx2eUt2czFQbU1rQ0c4dE0wUjdLeFMweFFDcw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
       }
      ]
     }

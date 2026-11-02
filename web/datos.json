@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T10:10+00:00",
+ "actualizado": "2026-11-02T11:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,35 +338,35 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.275,
+      "pct": 0.276,
       "motivo": "Lleva 4 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.244,
+      "pct": 0.246,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.208,
+      "pct": 0.206,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.183,
+      "pct": 0.184,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.089,
+      "pct": 0.088,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.622,
+      "pct": 0.625,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.378,
+      "pct": 0.375,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.622,
+      "pct": 0.625,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.378,
+      "pct": 0.375,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.622,
+      "pct": 0.625,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.378,
+      "pct": 0.375,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,106 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
   "partidos": [
-   {
-    "id": "0b15b685479df1479050365848bcfe54",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T11:10+00:00",
-    "jugadores": [
-     "Alejandro Tabilo",
-     "Rafael Jodar"
-    ],
-    "opciones": [
-     {
-      "id": "0b15b685479df1479050365848bcfe54|h2h|Alejandro Tabilo|",
-      "mercado": "h2h",
-      "nombre": "Alejandro Tabilo",
-      "punto": null,
-      "cuota": 4.4,
-      "pinnacle": 4.69
-     },
-     {
-      "id": "0b15b685479df1479050365848bcfe54|h2h|Rafael Jodar|",
-      "mercado": "h2h",
-      "nombre": "Rafael Jodar",
-      "punto": null,
-      "cuota": 1.22,
-      "pinnacle": 1.23
-     },
-     {
-      "id": "0b15b685479df1479050365848bcfe54|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.84,
-      "pinnacle": 1.97
-     },
-     {
-      "id": "0b15b685479df1479050365848bcfe54|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.87,
-      "pinnacle": 1.89
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alejandro Tabilo": 4.69,
-     "Rafael Jodar": 1.23
-    }
-   },
-   {
-    "id": "35c20c072dc49b1f1762bd71838ad56b",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T11:10+00:00",
-    "jugadores": [
-     "Luca Van Assche",
-     "Mariano Navone"
-    ],
-    "opciones": [
-     {
-      "id": "35c20c072dc49b1f1762bd71838ad56b|h2h|Luca Van Assche|",
-      "mercado": "h2h",
-      "nombre": "Luca Van Assche",
-      "punto": null,
-      "cuota": 1.6,
-      "pinnacle": 1.66
-     },
-     {
-      "id": "35c20c072dc49b1f1762bd71838ad56b|h2h|Mariano Navone|",
-      "mercado": "h2h",
-      "nombre": "Mariano Navone",
-      "punto": null,
-      "cuota": 2.36,
-      "pinnacle": 2.34
-     },
-     {
-      "id": "35c20c072dc49b1f1762bd71838ad56b|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.79,
-      "pinnacle": null
-     },
-     {
-      "id": "35c20c072dc49b1f1762bd71838ad56b|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.92,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Luca Van Assche": 1.66,
-     "Mariano Navone": 2.34
-    }
-   },
    {
     "id": "d54412ae826f63d7234c2ea00d4809ac",
     "deporte": "tennis_atp_paris_masters",
@@ -2323,6 +2223,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T11:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T11:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2460,16 +2370,6 @@
   {
    "hora": "2026-11-01T09:10+00:00",
    "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Jiri Lehecka – Valentin Vacherot: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Benjamin Bonzi – Yannick Hanfmann, Juan Manuel Cerundolo – Miomir Kecmanovic, Thiago Agustin Tirante – Mattia Bellucci…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -6591,7 +6491,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.473,
    "elo_general": 0.459,
    "elo_en_superficie": 0.488,
@@ -6679,7 +6579,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.673,
    "elo_general": 0.659,
    "elo_en_superficie": 0.688,
@@ -6709,16 +6609,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWN3Q2ZhZ1FaZE82WGxDN3g0NXVIS1BQQ2s0NVBqcGQxQ1J5RzRCODdZYWNSLTQxQUxzdWhFYWQyS1hsZnAwX0VZUG1QOUJmTlk4TTJNengtck1EcnJic3hEVHhMVUY4Q24zc1pkTUZSRnMtRXpDT1d1dGxXZHVyMVltTlh6TTZRajNjeGtlTTdJMTZnd09DSm1sYw?oc=5"
       },
       {
+       "titulo": "Quiénes son los tenistas argentinos que se presentan en el último Masters 1000 de la temporada en París - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVjh0UG1vX2NDdHlxQ3h2YlA3c1BiVGtQVktXVmJlWWZHNUN0ZG9mOFV0YnRrOERsZXNfTjQ1TjY5ak5WUHhwR2pLdTZFVVg1OC1hcm5KLWg1eEJvNXFOVkstQXVQWUZVUFZjNkp3OFVleU9tU19sUWdvMHVtLWlzODdSa2daN2lSTUtPMG1JZnhSMDhjbzNzU2dzNWdDS0FPMHdrWEYyaFhqb0F2SW1DVmczM2FaMXEzRlpmOXJ3RTJyUEJlOHlyTTZ4TkYzOHY0Uk5RYTZXNnlwaGQwQ1FnLW5Kc1RFWGRDYlFUZlpEVS1uWTFhYkR4RkRkR3TSAfwBQVVfeXFMT1Y4dFBtb19jQ3R5cUN4dmJQN3NQYlRrUFZLV1ZiZVlmRzVDdGRvZjhVdGJ0azhEbGVzX040NU42OWpOVlB4cEdqS3U2RVVYNTgtYXJuSi1oNXhCbzVxTlZLLUF1UFlGVVBWYzZKdzhVZXlPbVNfbFFnbzB1bS1pczg3UmtnWjdpUk1LTzBtSWZ4UjA4Y28zc1NnczVnQ0tBTzB3a1hGMmhYam9BdkltQ1ZnMzNhWjFxM0ZaZjlyd0UyclBCZTh5ck02eE5GMzh2NFJOUWE2VzZ5cGhkMENRZy1uSnNURVhkQ2JRVGZaRFUtblkxYWJEeEZEZEd0?oc=5"
+      },
+      {
        "titulo": "Cameron Norrie vs Matteo Arnaldi: Set 2 Winner - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUU4YlVKLTVDMzhxaDJZbFlCWURmdlZwajkzX2NMb3F3STltOWVsMzNxN3F0X3ZqYTI1VWNoaWl1cDZDeWlCbmFuWW8zdU83VWJaR0ZHYjdYRzZmVkwxdFlwYTYwVzlYUVNDZzJjN09TNGZjdnpmLXJQaFdzMVE3eC1UTDFTUQ?oc=5"
-      },
-      {
-       "titulo": "Resumen del Cameron Norrie - Matteo Arnaldi - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUNKTnlxOHlIYmo0Wm80WlZEcS1zaVB4dEkxLVFma2tIUFdFTG5SMnNwVXFxNlNLNURqZ1E0LXdNSnlPSkpKMWZid1luVjEzWGpobFdQS2dqMlJBQUtXeS1OZ2ZhY3VvMGg0MmoyWXI5UEY4T2NkNm5zY3pUMlBMMy0yWEJOODctV0hxaFhJeWotRXlqeXdleGdOVTJCOWtUUHItRkt3?oc=5"
       }
      ]
     },
@@ -6767,7 +6667,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.66,
    "elo_general": 0.639,
    "elo_en_superficie": 0.681,
@@ -6855,7 +6755,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -6943,7 +6843,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7031,7 +6931,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7095,16 +6995,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
       },
       {
+       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVUzZTRaVFd4UWJYczJIUUdkMjdsd3ZwZGRwNkNuUnNnRmFCcmRYN3pNRm5MV0pGTXgwY002LTNuY3pPbzVsVUZwMkJQVGlJdGJKTTdrYUFhdXN5VDVyUTNPenh1bzdHRTNrWWFwajRJT3V4RFdHLTU1ZDdEUjYwaC1qMk0?oc=5"
-      },
-      {
-       "titulo": "ATP Masters París: Programación del 2 de noviembre - Match Tenis",
-       "fuente": "Match Tenis",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwTGtVRFpwU09FZTNUNmFxRDA3bldhZTRJWklUR1Y4cE04Sm9SODVmWjM5TDItLWJRWS1xUnFqeE1Gal8wRnN3NlhhTVlZRkV2U1B5RmU1akx5cEd1M2ZHSy1XYmlpYzB2VTRMUGZrWnExYTFs?oc=5"
       }
      ]
     }
@@ -7119,7 +7019,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -7207,7 +7107,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T10:10+00:00",
+   "actualizado": "2026-11-02T11:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -7237,16 +7137,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3UxX1ZLbEE5LUVjNmFnVy1JUVNSdGY4Wl9IODJkQnpfZXN1M2NiX2tCQXdCc09KaXFZUENQZm9ldjVicDRzQzNmVWJZTEx2Y3pJV09EYzFIZ3RwLTBtQWE3TWR1THlQdzQ0aVFIWVhpbUxtUDdEZDNGZVZ3a3IxSHB2UFZRZ1o1ckVWWEhmemtjUF96WmZpdmVXeVdLS055WXdsSFp4c0RXZw?oc=5"
       },
       {
+       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
+      },
+      {
        "titulo": "¿Cuál es la programación de París? - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
-      },
-      {
-       "titulo": "Ugo Humbert vs Botic Van De Zandschulp » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMk5FUU5pS2t2cmFqaU0xRDlvM1VPLXNOM1ZMXzFoTHhZLWFEUl9OSVBjajhVN1VDSFc1QWtpdzhBWEtVSmlMYTZFc3VXX2NveTQ5SkNlSDlUOHFsMjU4dUx2eUt2czFQbU1rQ0c4dE0wUjdLeFMweFFDcw?oc=5"
       }
      ]
     },
@@ -7277,10 +7177,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
       },
       {
-       "titulo": "Ugo Humbert vs Botic Van De Zandschulp » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
+       "titulo": "Pronóstico Ugo Humbert - Botic Van De Zandschulp - Rolex Paris Masters - SportyTrader",
+       "fuente": "SportyTrader",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMk5FUU5pS2t2cmFqaU0xRDlvM1VPLXNOM1ZMXzFoTHhZLWFEUl9OSVBjajhVN1VDSFc1QWtpdzhBWEtVSmlMYTZFc3VXX2NveTQ5SkNlSDlUOHFsMjU4dUx2eUt2czFQbU1rQ0c4dE0wUjdLeFMweFFDcw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
       }
      ]
     }
