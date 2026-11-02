@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T13:10+00:00",
+ "actualizado": "2026-11-02T13:52+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -352,7 +352,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.201,
+      "pct": 0.2,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -366,7 +366,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.087,
+      "pct": 0.086,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.632,
+      "pct": 0.635,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.368,
+      "pct": 0.365,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.631,
+      "pct": 0.634,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.369,
+      "pct": 0.366,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.632,
+      "pct": 0.635,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.368,
+      "pct": 0.365,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
   "partidos": [
-   {
-    "id": "a916463c001545483b340777daefd7c6",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T13:30+00:00",
-    "jugadores": [
-     "Mattia Bellucci",
-     "Lorenzo Sonego"
-    ],
-    "opciones": [
-     {
-      "id": "a916463c001545483b340777daefd7c6|h2h|Lorenzo Sonego|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Sonego",
-      "punto": null,
-      "cuota": 2.23,
-      "pinnacle": 2.3
-     },
-     {
-      "id": "a916463c001545483b340777daefd7c6|h2h|Mattia Bellucci|",
-      "mercado": "h2h",
-      "nombre": "Mattia Bellucci",
-      "punto": null,
-      "cuota": 1.66,
-      "pinnacle": 1.67
-     },
-     {
-      "id": "a916463c001545483b340777daefd7c6|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.86,
-      "pinnacle": null
-     },
-     {
-      "id": "a916463c001545483b340777daefd7c6|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.85,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Lorenzo Sonego": 2.3,
-     "Mattia Bellucci": 1.67
-    }
-   },
    {
     "id": "b363b01046ccc43cdfcc7e7f4e42d735",
     "deporte": "tennis_atp_paris_masters",
@@ -2073,6 +2023,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T13:52+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T13:52+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2211,16 +2171,6 @@
    "hora": "2026-11-01T11:15+00:00",
    "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego, Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-02",
@@ -2291,9 +2241,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 25,
-  "aciertos": 0.76,
-  "yield": 0.1176
+  "apuestas": 27,
+  "aciertos": 0.7777777777777778,
+  "yield": 0.13925925925925925
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -6693,7 +6643,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -6781,7 +6731,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -6805,6 +6755,12 @@
      "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-01 contra Nuno Borges, ganó 7-6 6-2",
      "noticias": [
       {
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuotas y estadísticas - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS084UTVMS0pPR21UbG5Xdi1kT1ItbkpRZW8xbVlNbm9jLU05anV6X3pwcFdROFpndFF4MWpGeGxSVWpBVmVpclBrSEkwVTVJcE9PQld5S3JsalZGa0JDLU9xQVBoVFUwOVVYaGo1UktGanRLN1ZTeDNOQVNqYzc0YllWcUZDQkVE?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
@@ -6815,12 +6771,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
-      },
-      {
-       "titulo": "Alex Molcan vs Daniel Altmaier » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPZ25TQlFPUlMwUW53NFpSMFExZ21BY2kxTy0xUXh1cGlRVWg5N0dWcGhqc0lMcmV1UFhveWZzdTdQUzMxdl9nUWIwSllIX3BNdjd3aG45UDFBdU9MZVNPUmswbC1YeE1mUXI5THRvX0E?oc=5"
       }
      ]
     },
@@ -6851,10 +6801,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNySzNEcmt0d3lWMDdpaE0xRTZTWF9STGEwbTVtVHo4UTlOdENNWHRyaGlMM0tTTmRCZ1FEaDM0U3dtTHhsUkhoNENGZzNoNkdtd3docjhyRlNrb19Qa1BpbE9aZW5EM0FXbVJNWVd6WGcxVU5nV1VNV0lPRW8wLVpXbmhia3BtWS1QZA?oc=5"
       },
       {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuotas y estadísticas - 2 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS084UTVMS0pPR21UbG5Xdi1kT1ItbkpRZW8xbVlNbm9jLU05anV6X3pwcFdROFpndFF4MWpGeGxSVWpBVmVpclBrSEkwVTVJcE9PQld5S3JsalZGa0JDLU9xQVBoVFUwOVVYaGo1UktGanRLN1ZTeDNOQVNqYzc0YllWcUZDQkVE?oc=5"
       }
      ]
     }
@@ -6869,7 +6819,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -6957,7 +6907,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,

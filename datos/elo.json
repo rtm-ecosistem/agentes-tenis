@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T13:10+00:00",
+ "actualizado": "2026-11-02T13:52+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -813,19 +813,18 @@
    "nombre": "Luca Van Assche",
    "circuito": "ATP",
    "elo": {
-    "all": 1598.3,
-    "hard": 1545.9,
+    "all": 1622.6,
+    "hard": 1574.5,
     "clay": 1647.7,
     "grass": 1435.2
    },
    "n": {
-    "all": 70,
-    "hard": 50,
+    "all": 71,
+    "hard": 51,
     "clay": 19,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-14 P hard vs Yannick Hanfmann",
     "2026-08-25 P hard vs Aleksandar Kovacevic",
     "2026-08-30 G hard vs Cameron Norrie",
     "2026-09-02 P hard vs Denis Shapovalov",
@@ -834,7 +833,8 @@
     "2026-10-20 G hard vs Clement Tabur",
     "2026-10-22 G hard vs Valentin Vacherot",
     "2026-10-23 P hard vs Lorenzo Musetti",
-    "2026-10-26 P hard vs Learner Tien"
+    "2026-10-26 P hard vs Learner Tien",
+    "2026-11-02 G hard vs Mariano Navone"
    ]
   },
   "rune|h": {
@@ -2512,19 +2512,18 @@
    "nombre": "Alejandro Tabilo",
    "circuito": "ATP",
    "elo": {
-    "all": 1644.7,
-    "hard": 1643.5,
+    "all": 1637.5,
+    "hard": 1633.9,
     "clay": 1589.3,
     "grass": 1612.2
    },
    "n": {
-    "all": 142,
-    "hard": 91,
+    "all": 143,
+    "hard": 92,
     "clay": 40,
     "grass": 11
    },
    "ultimos": [
-    "2026-08-15 G hard vs Jan-Lennard Struff",
     "2026-08-17 P hard vs Rafael Jodar",
     "2026-08-31 G hard vs Yannick Hanfmann",
     "2026-09-03 G hard vs Alexei Popyrin",
@@ -2533,7 +2532,8 @@
     "2026-09-30 G hard vs Tommy Paul",
     "2026-10-03 P hard vs Denis Shapovalov",
     "2026-10-10 P hard vs Pablo Carreno Busta",
-    "2026-10-27 P hard vs Rafael Jodar"
+    "2026-10-27 P hard vs Rafael Jodar",
+    "2026-11-02 P hard vs Rafael Jodar"
    ]
   },
   "eubanks|c": {
@@ -7613,19 +7613,18 @@
    "nombre": "Mariano Navone",
    "circuito": "ATP",
    "elo": {
-    "all": 1632.1,
-    "hard": 1594.1,
+    "all": 1612.8,
+    "hard": 1568.2,
     "clay": 1660.0,
     "grass": 1347.1
    },
    "n": {
-    "all": 131,
-    "hard": 66,
+    "all": 132,
+    "hard": 67,
     "clay": 58,
     "grass": 7
    },
    "ultimos": [
-    "2026-08-15 P hard vs Alexander Blockx",
     "2026-08-25 P hard vs James Duckworth",
     "2026-08-30 G hard vs Novak Djokovic",
     "2026-09-02 G hard vs Matteo Berrettini",
@@ -7634,7 +7633,8 @@
     "2026-10-08 P hard vs Pablo Carreno Busta",
     "2026-10-20 G hard vs Juan Manuel Cerundolo",
     "2026-10-21 P hard vs Tallon Griekspoor",
-    "2026-10-26 P hard vs Valentin Vacherot"
+    "2026-10-26 P hard vs Valentin Vacherot",
+    "2026-11-02 P hard vs Luca Van Assche"
    ]
   },
   "bagnis|f": {
@@ -21129,19 +21129,18 @@
    "nombre": "Rafael Jodar",
    "circuito": "ATP",
    "elo": {
-    "all": 1871.8,
-    "hard": 1846.2,
+    "all": 1881.2,
+    "hard": 1857.7,
     "clay": 1825.4,
     "grass": 1554.0
    },
    "n": {
-    "all": 72,
-    "hard": 55,
+    "all": 73,
+    "hard": 56,
     "clay": 14,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-02 P hard vs Bu Yunchaokete",
     "2026-10-01 P hard vs Adolfo Daniel Vallejo",
     "2026-10-10 G hard vs Thiago Agustin Tirante",
     "2026-10-12 G hard vs Jiri Lehecka",
@@ -21150,7 +21149,8 @@
     "2026-10-17 G hard vs Daniil Medvedev",
     "2026-10-18 P hard vs Alejandro Davidovich Fokina",
     "2026-10-27 G hard vs Alejandro Tabilo",
-    "2026-10-29 P hard vs Valentin Vacherot"
+    "2026-10-29 P hard vs Valentin Vacherot",
+    "2026-11-02 G hard vs Alejandro Tabilo"
    ]
   },
   "das|a": {
@@ -22265,19 +22265,18 @@
    "nombre": "Wang Xinyu",
    "circuito": "ATP",
    "elo": {
-    "all": 1596.7,
-    "hard": 1576.3,
+    "all": 1615.3,
+    "hard": 1598.7,
     "clay": 1514.4,
     "grass": 1522.7
    },
    "n": {
-    "all": 48,
-    "hard": 35,
+    "all": 49,
+    "hard": 36,
     "clay": 7,
     "grass": 6
    },
    "ultimos": [
-    "2026-08-16 G hard vs Donna Vekic",
     "2026-08-18 P hard vs Aryna Sabalenka",
     "2026-08-30 G hard vs Emiliana Arango",
     "2026-09-02 P hard vs Anna Kalinskaya",
@@ -22286,7 +22285,8 @@
     "2026-09-25 P hard vs Tatiana Prozorova",
     "2026-10-03 P hard vs Sonay Kartal",
     "2026-10-12 P hard vs Wang Xiyu",
-    "2026-10-26 P hard vs Alycia Parks"
+    "2026-10-26 P hard vs Alycia Parks",
+    "2026-11-02 G hard vs Adithya Karunaratne"
    ]
   },
   "mcnally|c": {
@@ -25332,19 +25332,18 @@
    "nombre": "Yasmine Kabbaj",
    "circuito": "WTA",
    "elo": {
-    "all": 1523.4,
-    "hard": 1529.9,
+    "all": 1551.8,
+    "hard": 1559.2,
     "clay": 1559.9,
     "grass": 1435.2
    },
    "n": {
-    "all": 29,
-    "hard": 25,
+    "all": 30,
+    "hard": 26,
     "clay": 3,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-22 G clay vs Ekaterine Gorgodze",
     "2026-07-24 P clay vs Lucia Bronzetti",
     "2026-09-08 P hard vs Cagla Buyukakcay",
     "2026-09-15 G hard vs Angela Fita Boluda",
@@ -25353,7 +25352,8 @@
     "2026-09-19 P hard vs Alicia Herrero Linana",
     "2026-10-12 P grass vs Andrea Lazaro Garcia",
     "2026-10-27 G hard vs Rebeca Pereira",
-    "2026-10-29 P hard vs Julia Riera"
+    "2026-10-29 P hard vs Julia Riera",
+    "2026-11-02 G hard vs Jahnie Van Zyl"
    ]
   },
   "patil|s": {
@@ -38735,6 +38735,44 @@
    },
    "ultimos": [
     "2026-11-02 P hard vs Franziska Sziedat"
+   ]
+  },
+  "karunaratne|a": {
+   "nombre": "Adithya Karunaratne",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1452.1,
+    "hard": 1448.5,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-02 P hard vs Wang Xinyu"
+   ]
+  },
+  "van zyl|j": {
+   "nombre": "Jahnie Van Zyl",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1438.7,
+    "hard": 1440.0,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-02 P hard vs Yasmine Kabbaj"
    ]
   }
  },
@@ -66468,7 +66506,7 @@
    0
   ],
   "jodar|r~tabilo|a": [
-   3,
+   4,
    1
   ],
   "borges|n~nava|e": [
@@ -91402,7 +91440,19 @@
   "bohner|l~rachapudi|p": [
    1,
    0
+  ],
+  "navone|m~van assche|l": [
+   0,
+   1
+  ],
+  "karunaratne|a~xinyu|w": [
+   0,
+   1
+  ],
+  "kabbaj|y~van zyl|j": [
+   1,
+   0
   ]
  },
- "propios": 10528
+ "propios": 10532
 }

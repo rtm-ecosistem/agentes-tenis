@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.14,
+     "envidia": 0.139,
      "sorpresa": 0.4,
-     "impaciencia": 0.325,
+     "impaciencia": 0.322,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T13:10+00:00",
+    "hora": "2026-11-02T13:52+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.262,
+     "impaciencia": 0.259,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T13:10+00:00",
+    "hora": "2026-11-02T13:52+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.158,
+     "impaciencia": 0.156,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T13:10+00:00",
+    "hora": "2026-11-02T13:52+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.262,
+     "impaciencia": 0.259,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T13:10+00:00",
+    "hora": "2026-11-02T13:52+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Nuno Borges, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T16:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T18:10+00:00",
    "texto": "📰 Noticias nuevas de Matteo Berrettini – Alex de Minaur, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T13:52+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T13:52+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,12 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
+  "6d9a991c700e",
+  "3b590a2622f9",
+  "1d57f3d29fc0",
+  "88e27da099ed",
+  "e420ba945aad",
+  "3f7a5f250a8d",
   "b8f3afee10f0",
   "b61de61f05dc",
   "981fae28f496",
@@ -2633,13 +2639,13 @@
   "0252367f586a",
   "25e68a169159",
   "6d632e3c3c18",
+  "e92ba639ea27",
   "0a11d08471b9",
   "7aa58c92fe33",
   "fc191266a1d8",
   "14cee0274886",
   "f1332d53a894",
   "0d0fe9b970bb",
-  "3f7a5f250a8d",
   "2e3d4f2b1740",
   "a305c93eabdb",
   "680658bbad33",
@@ -2664,6 +2670,7 @@
   "92efff17efc2",
   "a291f6dbfc9c",
   "902999a31b66",
+  "6371de218eac",
   "3c6e581cce81",
   "1681b5790ab6",
   "25cea0b2b29c",
@@ -2720,6 +2727,10 @@
   "9b1740804042",
   "1be729286b1a",
   "8410bf080f69",
+  "0a1fd2c3a279",
+  "2f43675ab391",
+  "622b0797e881",
+  "2d7fab2dc5eb",
   "8a8529cc12d1",
   "10715372983c",
   "1bd2112e6116",
@@ -2733,13 +2744,14 @@
   "e85dd1979add",
   "220c001beac5",
   "8d3ace77919c",
+  "fe3d970926fa",
   "9ee5a4a036c5",
   "e71a71d6c971",
-  "dfc1d5b67f4c",
   "29a34f6fd987",
   "ef730d735431",
   "ea4ebdc459e9",
   "9ff82b970269",
+  "1628a24661ca",
   "e6e20ffca4fa",
   "73f4b7c180cc",
   "e9cdb2ebc089",
@@ -2781,6 +2793,7 @@
   "463298d941b6",
   "4b8bf6bcacb7",
   "124ce0714f68",
+  "c162aeadd262",
   "3c7aadee29bd",
   "805ddac83084",
   "eeb04cd4187a",
@@ -2835,6 +2848,7 @@
   "1b4bc9de03e6",
   "3d9e492d458e",
   "363111f6da6a",
+  "50447de92e7e",
   "8b68bde8f0d5",
   "548043741b33",
   "c39a294c1fcc",
@@ -2853,6 +2867,7 @@
   "b3d57ad551f1",
   "f81bfc362bb5",
   "92ee25f2ac65",
+  "5456b5467d9d",
   "f266bd0287f8",
   "54a98c45a560",
   "9ae0926e96c3",
@@ -2900,11 +2915,11 @@
   "1838d5fee30a",
   "82bd9fc86687",
   "cce7547734f4",
+  "10b4724a82a0",
   "3add524cda68",
   "bd33bda44fb9",
   "3e38e450c7eb",
   "aa6d7658ce18",
-  "10b4724a82a0",
   "c3383314a402",
   "3afbd13f2409",
   "60ebb3d8eb35",
@@ -2920,7 +2935,6 @@
   "5985835f9036",
   "fe72e8fc636f",
   "21f06607c231",
-  "50447de92e7e",
   "ab03d7945331",
   "9750d60e979e",
   "514925b2e1e7",
@@ -2931,6 +2945,7 @@
   "e3557c71e04b",
   "5172b5039974",
   "3173f158b754",
+  "9a3a6cb479dc",
   "c7ff13ef147f",
   "d3bcd032231b",
   "0de3b4cf996a",
@@ -2949,6 +2964,7 @@
   "478cfc408b36",
   "11cbb8f4e86b",
   "cc585ece8f00",
+  "dfc1d5b67f4c",
   "b9573c6a20c2",
   "c86573fc8789",
   "3f4422d3c6b8",
@@ -3015,6 +3031,7 @@
   "90c2f5866f59",
   "5049f769c24d",
   "552f1b3ae2fb",
+  "5c7cf087fbc9",
   "55509838eb01",
   "05e420e6e8e1",
   "a88e2c01a63b",
@@ -3063,7 +3080,6 @@
   "ad297ff2bc4e",
   "73907ab7942c",
   "039cb0de817e",
-  "559c2054e564",
   "a7a0859f7339",
   "7e7da61a13a3",
   "a9abe20dc1bc",
@@ -3155,6 +3171,7 @@
   "13dd2f31df10",
   "daa107bff888",
   "9fdf08550e39",
+  "559c2054e564",
   "98d8e7b3477b",
   "fc2b6b895408",
   "b35e942f038e",
@@ -3400,24 +3417,7 @@
   "e8d47f4ce755",
   "d9f8c3bdbfdd",
   "49fbdff19c50",
-  "83e3c6b96d11",
-  "53b5da621b1a",
-  "b355aca280cc",
-  "817aea2b1d09",
-  "02e7a13c10a3",
-  "0fe11a0b2380",
-  "56de6801f626",
-  "b8ab9ce93c28",
-  "895319a587c1",
-  "4270532ec55d",
-  "b5ce24a09991",
-  "169b3ee4f792",
-  "7b2eaa77f860",
-  "3ebd27c3f5aa",
-  "18e7a0279e86",
-  "9c0d3a73797f",
-  "22a3b1e21b3c",
-  "8efcd86aea9b"
+  "83e3c6b96d11"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7953,6 +7953,12 @@
      "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-01 contra Nuno Borges, ganó 7-6 6-2",
      "noticias": [
       {
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuotas y estadísticas - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS084UTVMS0pPR21UbG5Xdi1kT1ItbkpRZW8xbVlNbm9jLU05anV6X3pwcFdROFpndFF4MWpGeGxSVWpBVmVpclBrSEkwVTVJcE9PQld5S3JsalZGa0JDLU9xQVBoVFUwOVVYaGo1UktGanRLN1ZTeDNOQVNqYzc0YllWcUZDQkVE?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
@@ -7963,12 +7969,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
-      },
-      {
-       "titulo": "Alex Molcan vs Daniel Altmaier » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPZ25TQlFPUlMwUW53NFpSMFExZ21BY2kxTy0xUXh1cGlRVWg5N0dWcGhqc0lMcmV1UFhveWZzdTdQUzMxdl9nUWIwSllIX3BNdjd3aG45UDFBdU9MZVNPUmswbC1YeE1mUXI5THRvX0E?oc=5"
       }
      ]
     },
@@ -7999,10 +7999,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNySzNEcmt0d3lWMDdpaE0xRTZTWF9STGEwbTVtVHo4UTlOdENNWHRyaGlMM0tTTmRCZ1FEaDM0U3dtTHhsUkhoNENGZzNoNkdtd3docjhyRlNrb19Qa1BpbE9aZW5EM0FXbVJNWVd6WGcxVU5nV1VNV0lPRW8wLVpXbmhia3BtWS1QZA?oc=5"
       },
       {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuotas y estadísticas - 2 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS084UTVMS0pPR21UbG5Xdi1kT1ItbkpRZW8xbVlNbm9jLU05anV6X3pwcFdROFpndFF4MWpGeGxSVWpBVmVpclBrSEkwVTVJcE9PQld5S3JsalZGa0JDLU9xQVBoVFUwOVVYaGo1UktGanRLN1ZTeDNOQVNqYzc0YllWcUZDQkVE?oc=5"
       }
      ]
     }
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:10+00:00",
+   "actualizado": "2026-11-02T13:52+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -8187,34 +8187,10 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 25,
-  "ganadas": 19,
-  "unidades": 2.94,
+  "apuestas": 27,
+  "ganadas": 21,
+  "unidades": 3.76,
   "pendientes": [
-   {
-    "partido": "0b15b685479df1479050365848bcfe54",
-    "jugadores": [
-     "Alejandro Tabilo",
-     "Rafael Jodar"
-    ],
-    "inicio": "2026-11-02T11:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Rafael Jodar",
-    "punto": null,
-    "cuota": 1.22
-   },
-   {
-    "partido": "35c20c072dc49b1f1762bd71838ad56b",
-    "jugadores": [
-     "Luca Van Assche",
-     "Mariano Navone"
-    ],
-    "inicio": "2026-11-02T11:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Luca Van Assche",
-    "punto": null,
-    "cuota": 1.6
-   },
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
     "jugadores": [
@@ -8338,7 +8314,9 @@
    "45420e4ccaa96290ca605d63fe10dcc6",
    "ab2cc6778482917ac72005c2edb26824",
    "f510a63a2e3852e183f84eb8cd44fcac",
-   "9e065ecef1e149fdf4c5e361ba6d2f2b"
+   "9e065ecef1e149fdf4c5e361ba6d2f2b",
+   "0b15b685479df1479050365848bcfe54",
+   "35c20c072dc49b1f1762bd71838ad56b"
   ]
  },
  "mercados_casas": {
