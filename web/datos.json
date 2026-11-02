@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T17:38+00:00",
+ "actualizado": "2026-11-02T18:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,28 +345,28 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.252,
+      "pct": 0.253,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.192,
+      "pct": 0.191,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.189,
+      "pct": 0.19,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.083,
+      "pct": 0.082,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.648,
+      "pct": 0.65,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.352,
+      "pct": 0.35,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.646,
+      "pct": 0.647,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.354,
+      "pct": 0.353,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.648,
+      "pct": 0.65,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.352,
+      "pct": 0.35,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
   "partidos": [
-   {
-    "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T18:00+00:00",
-    "jugadores": [
-     "Denis Shapovalov",
-     "Karen Khachanov"
-    ],
-    "opciones": [
-     {
-      "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab|h2h|Denis Shapovalov|",
-      "mercado": "h2h",
-      "nombre": "Denis Shapovalov",
-      "punto": null,
-      "cuota": 2.39,
-      "pinnacle": 2.44
-     },
-     {
-      "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab|h2h|Karen Khachanov|",
-      "mercado": "h2h",
-      "nombre": "Karen Khachanov",
-      "punto": null,
-      "cuota": 1.59,
-      "pinnacle": 1.61
-     },
-     {
-      "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.98,
-      "pinnacle": 2.0
-     },
-     {
-      "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.74,
-      "pinnacle": 1.88
-     }
-    ],
-    "pinnacle_h2h": {
-     "Denis Shapovalov": 2.44,
-     "Karen Khachanov": 1.61
-    }
-   },
    {
     "id": "85efb20e93a6ca08964f6239e9956dae",
     "deporte": "tennis_atp_paris_masters",

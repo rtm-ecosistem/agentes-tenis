@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T17:38+00:00",
+ "actualizado": "2026-11-02T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -20885,19 +20885,18 @@
    "nombre": "Diana Martynov",
    "circuito": "WTA",
    "elo": {
-    "all": 1428.5,
-    "hard": 1487.4,
+    "all": 1467.2,
+    "hard": 1521.1,
     "clay": 1403.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 12,
-    "hard": 10,
+    "all": 13,
+    "hard": 11,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-16 G hard vs Lisa Pigato",
     "2026-02-18 G hard vs Oceane Dodin",
     "2026-02-20 P hard vs Andrea Lazaro Garcia",
     "2026-04-11 P clay vs Iryna Shymanovich",
@@ -20906,7 +20905,8 @@
     "2026-07-06 G hard vs Astrid Lew Yan Foon",
     "2026-07-07 P hard vs Jeline Vandromme",
     "2026-07-19 P clay vs Elena Pridankina",
-    "2026-09-06 P hard vs Deborah Chiesa"
+    "2026-09-06 P hard vs Deborah Chiesa",
+    "2026-11-02 G hard vs Sandra Samir"
    ]
   },
   "kalinina|a": {
@@ -35929,19 +35929,20 @@
    "nombre": "Sandra Samir",
    "circuito": "WTA",
    "elo": {
-    "all": 1415.4,
-    "hard": 1415.5,
+    "all": 1356.7,
+    "hard": 1366.9,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-06 P hard vs Ilay Yoruk"
+    "2026-09-06 P hard vs Ilay Yoruk",
+    "2026-11-02 P hard vs Diana Martynov"
    ]
   },
   "ceylin|o": {
@@ -91497,7 +91498,11 @@
   "camila torres murcia|m~giovannini|l": [
    0,
    1
+  ],
+  "martynov|d~samir|s": [
+   1,
+   0
   ]
  },
- "propios": 10539
+ "propios": 10540
 }

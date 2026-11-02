@@ -238761,6 +238761,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Sandra Samir",
+    "Diana Martynov"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
