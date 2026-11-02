@@ -159,17 +159,19 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.15,
+     "envidia": 0.148,
      "sorpresa": 0.4,
-     "impaciencia": 0.35
+     "impaciencia": 0.345,
+     "aburrimiento": 0.45
     },
     "motivos": {
      "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
-     "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara."
+     "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
+     "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T08:10+00:00",
+    "hora": "2026-11-02T09:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -324,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.282,
+     "impaciencia": 0.278,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T08:10+00:00",
+    "hora": "2026-11-02T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -473,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.168,
+     "impaciencia": 0.166,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T08:10+00:00",
+    "hora": "2026-11-02T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -635,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.282,
+     "impaciencia": 0.278,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T08:10+00:00",
+    "hora": "2026-11-02T09:10+00:00",
     "rent": 0.0
    }
   }
@@ -2193,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Tommy Paul – Carlos Alcaraz, Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T11:19+00:00",
    "texto": "📰 Noticias nuevas de Alexander Zverev – Arthur Fery: la sala actualiza su informe.",
    "tipo": "info"
@@ -2591,6 +2583,16 @@
    "hora": "2026-11-02T08:05+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T09:10+00:00",
+   "texto": "📰 Noticias nuevas de Lorenzo Musetti – Hubert Hurkacz, Alejandro Tabilo – Rafael Jodar, Luca Van Assche – Mariano Navone…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T09:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2616,10 +2618,18 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-01-20",
  "noticias_vistas": [
+  "ebfd8b91d250",
+  "92efff17efc2",
+  "697d933e5e96",
+  "dd524f882d52",
+  "ef7805cd4da9",
   "0d1ffb6ba7d8",
   "b2b0e6f91bb4",
+  "352b007acbc3",
+  "de704b9e0865",
   "f260851b900a",
   "2e72868818b7",
+  "5d66ceb0ad32",
   "f27f5968b4e2",
   "5d1885a816b0",
   "69e2c3f60dac",
@@ -2627,11 +2637,22 @@
   "920b32821dc3",
   "b287160410a3",
   "aed8563dc980",
+  "34ec375747d5",
+  "70ed554affed",
+  "8e9c468b3c9e",
+  "7d627a5192cc",
   "8c2c37250a11",
   "bad768f74bf6",
   "745d0801587b",
   "ab8c85bb323b",
   "cffbbd27d1be",
+  "35cc9152c41b",
+  "c66114006bc4",
+  "6ba5ac35ad43",
+  "5f14a8991916",
+  "a2b7d4022940",
+  "821719655741",
+  "6ec596512714",
   "65b5fbbffca9",
   "903491398e3d",
   "37c09facb0ed",
@@ -2654,6 +2675,8 @@
   "90fc21fc847f",
   "caf234585f41",
   "25e68a169159",
+  "d434ac1b7df7",
+  "ec25acfb6abd",
   "e85dd1979add",
   "220c001beac5",
   "9ee5a4a036c5",
@@ -2681,10 +2704,10 @@
   "ab21508dc22f",
   "efd5db0fdab8",
   "5dad948ccf9e",
-  "eb98b7614414",
   "5c1649ca6205",
   "8676ce2e6af0",
   "bae9f0c38b70",
+  "b8c7508cbc3f",
   "4613f1945f96",
   "cdb13121e99c",
   "06262b5f868a",
@@ -2692,6 +2715,7 @@
   "3df875288fb9",
   "530749831abd",
   "de38fd3f8102",
+  "3f5aea1e7af9",
   "9158636290a1",
   "26e8f2806a4a",
   "4f5096690d3a",
@@ -2699,6 +2723,7 @@
   "9c204d0f595e",
   "e08110e591df",
   "463298d941b6",
+  "4b8bf6bcacb7",
   "124ce0714f68",
   "3c7aadee29bd",
   "805ddac83084",
@@ -2715,6 +2740,21 @@
   "6c29887d2d9e",
   "569aa7665b99",
   "67929eadb899",
+  "10448e2eb64e",
+  "2527411f13f1",
+  "95024d2f9d0c",
+  "fdb4c9a2024b",
+  "867485234a6c",
+  "70bd94ed566a",
+  "84c621e3806f",
+  "370b9b3c04ee",
+  "bb6b8d3d0f7d",
+  "a134d5da1703",
+  "65625f75836e",
+  "a336aecf86fd",
+  "aa24f433c5b9",
+  "07f314c7a56c",
+  "c6f3842f58a0",
   "0f91abe507d0",
   "8ebae4c74b5c",
   "f3e96d08da60",
@@ -2733,6 +2773,7 @@
   "2788722045fc",
   "3cc22d220772",
   "1b4bc9de03e6",
+  "3d9e492d458e",
   "363111f6da6a",
   "8b68bde8f0d5",
   "548043741b33",
@@ -2744,7 +2785,7 @@
   "d4230a22cd72",
   "5e2a73317688",
   "aaa503b0ea8a",
-  "ec25acfb6abd",
+  "eb98b7614414",
   "545600586b6f",
   "898cd1142f83",
   "97298db7687b",
@@ -2777,6 +2818,8 @@
   "ad705725b1b9",
   "4ffd925b6723",
   "8d8e0bec50ec",
+  "5223e0d8fa48",
+  "a46f55a40e1c",
   "ef64b42c480e",
   "117cbafa721d",
   "49092d06a289",
@@ -2790,7 +2833,6 @@
   "fe8a7195ac49",
   "65ac66f06f38",
   "46b8f375b03d",
-  "34ec375747d5",
   "c5908b579ab0",
   "1838d5fee30a",
   "82bd9fc86687",
@@ -2800,7 +2842,6 @@
   "3e38e450c7eb",
   "aa6d7658ce18",
   "c3383314a402",
-  "3f5aea1e7af9",
   "3afbd13f2409",
   "e90aa1817e74",
   "6a5f8284a94b",
@@ -2859,13 +2900,12 @@
   "488ca5156299",
   "ae73f1f7e9ab",
   "dbf2747f537d",
-  "352b007acbc3",
-  "56745ca3858d",
   "de9f52f160ac",
   "1d4c3eb82d7c",
   "10b4724a82a0",
   "0590d5ffa2e2",
   "999f776be5ad",
+  "56745ca3858d",
   "94d10c4a8d53",
   "44ce89835f31",
   "c85b24bb68a9",
@@ -2904,6 +2944,7 @@
   "90381dc10358",
   "5aaefed6f880",
   "477d52a6319d",
+  "a127f485558b",
   "c6eef0ec3ac5",
   "a7451ccbf0e1",
   "dc897b979e24",
@@ -3328,7 +3369,6 @@
   "363ac69bc3cb",
   "f93b54aba27e",
   "48f2775ac858",
-  "dd524f882d52",
   "d55ec95482f6",
   "401af4472e42",
   "5d9f03546a94",
@@ -3377,45 +3417,7 @@
   "bfbadc025ba6",
   "ba144a7f0353",
   "f4102d64a589",
-  "255c4bf7f0dd",
-  "760e94efa67f",
-  "9dd91be6b349",
-  "e3a4c68f4959",
-  "c6da46454a98",
-  "f7facc31dea6",
-  "f7423a59f331",
-  "cbb4e88060bd",
-  "f578551e4803",
-  "f069e8163642",
-  "a5f137b87ecb",
-  "32ae7d6b9f9b",
-  "734e52f509ef",
-  "8b7930f36496",
-  "71b8ea58530b",
-  "78a151d08055",
-  "fcafed0f0744",
-  "22bfcf79ee80",
-  "bb44d48e836a",
-  "fa4ef702703d",
-  "bcebb0397566",
-  "55e026b9207d",
-  "c62e405a9263",
-  "60b869baccd8",
-  "e102ac252713",
-  "5a60bb4e2f1e",
-  "725b76f5cbe5",
-  "8a5d14e67bb1",
-  "58b85498d933",
-  "f85cfdb4fa54",
-  "a265af8ec1d6",
-  "a171d2026d45",
-  "83f38c6bf41d",
-  "90eb359ef394",
-  "cc9519b48f40",
-  "dca43dc22deb",
-  "232ddb1284be",
-  "c8d2c3857d10",
-  "a10ab68e0460"
+  "255c4bf7f0dd"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -7047,7 +7049,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.516,
    "elo_general": 0.52,
    "elo_en_superficie": 0.512,
@@ -7071,6 +7073,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Lorenzo Musetti vs Hubert Hurkacz · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmlQa0dtZ0pnQnZrejJUUmYySXFydC1yRExWcmhIM3VxaU5aWlZSVVlTenpLcXVwOFRqdlAyN0MxMG1OdDY1eWZmX1NVSXFoamZUVUdfcU5XWmxZeUthdWlxR1E1YjA5TVMtS19VM2thRTd5SllVd1hTU05mZ2tNTWoteFd4d0h1RmFCbW9DV0JycGxfdk40bEVaWEo?oc=5"
+      },
+      {
        "titulo": "ATP París - Día 1: juegan Musetti, Darderi, Arnaldi y el duelo Sonego-Bellucci - Tennis World Italia",
        "fuente": "Tennis World Italia",
        "fecha": "2026-11-01",
@@ -7081,12 +7089,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjZwMy1pNWJQbEhLNi1lUGJBcUZKUmhnMXlyWlhmU2xiRFJWRk9XWGpzSUNUTWNIQ2xLMzVQdGFpeTh1bnlmNndWNGN4d1d6eWR4NGdzTzFLTEJTTW9FWGMyanRtNmcwTVllMERTWkJmUmpjSzJWTDk0dExQazZYZHNLclNtbTVOOGtOam5QWFVzd0R2dnhYcXBEMENXMGlnV1ZvbnJwNA?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti vs Hubert Hurkacz: Exact Match Score - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjRYMy1sakxBNXlCMTNnc2NHQjhCS296Um5FRWFXQlgwQld2WEtJVDBZV3YyLWhVVm5XMDBpYzN1UXQ5QVd2cmIyYUl1TTBsRTJ0WXFILTlaZ0pKYXF4U0ZQaVhzVWY4dUdDc0VvSENPZzlmWlRHUEFYRG5aX1VCVDBvVTk?oc=5"
       }
      ]
     },
@@ -7105,6 +7107,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Lorenzo Musetti vs Hubert Hurkacz · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmlQa0dtZ0pnQnZrejJUUmYySXFydC1yRExWcmhIM3VxaU5aWlZSVVlTenpLcXVwOFRqdlAyN0MxMG1OdDY1eWZmX1NVSXFoamZUVUdfcU5XWmxZeUthdWlxR1E1YjA5TVMtS19VM2thRTd5SllVd1hTU05mZ2tNTWoteFd4d0h1RmFCbW9DV0JycGxfdk40bEVaWEo?oc=5"
+      },
+      {
        "titulo": "Resumen del Lorenzo Musetti - Hubert Hurkacz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
@@ -7115,12 +7123,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVc1ZGFHQ1VGSEFna0FJbXRnMmM0bjh3T3NWSk1NZ2RBWlNpZVJZamhsakZQRzd2UDJUVFoxS3hza2tKT2d6dmJqNE5scWtrQlk1UDNzVUNVa28wOTFZVlF6ZFFRNTZpTFBtZDMzVzY3U09QXzdDYkxVYjdIOUlTR0cxTllHSlZsNF9pd2JIUVQwTUdCSUtJcGtKRW12amwzOEJj?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti vs Hubert Hurkacz: Exact Match Score - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjRYMy1sakxBNXlCMTNnc2NHQjhCS296Um5FRWFXQlgwQld2WEtJVDBZV3YyLWhVVm5XMDBpYzN1UXQ5QVd2cmIyYUl1TTBsRTJ0WXFILTlaZ0pKYXF4U0ZQaVhzVWY4dUdDc0VvSENPZzlmWlRHUEFYRG5aX1VCVDBvVTk?oc=5"
       }
      ]
     }
@@ -7135,7 +7137,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.426,
    "elo_general": 0.423,
    "elo_en_superficie": 0.428,
@@ -7223,7 +7225,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.586,
    "elo_general": 0.598,
    "elo_en_superficie": 0.574,
@@ -7311,7 +7313,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.225,
    "elo_general": 0.213,
    "elo_en_superficie": 0.237,
@@ -7335,6 +7337,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Alejandro Tabilo vs Rafael Jódar · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFJkN0tpT2xlUnRoV2EtUWFDTE9ia3haa3Y2cUdQbDF5OWJvSldDVjh1aUZacElsVGI3MDBvMVJiSW5GMjFaNnZiQWVJZ2x3Ynhid0hXd3lIWlpWcjljTW1fMGZDaHhCVm9QMF9WTHFLSi00UHJuV1ZEOUpOUWI4Vnd0MlhYcXBuYlM0dzdTX0JRbmF5ajhPaw?oc=5"
+      },
+      {
        "titulo": "A qué hora juega Jódar hoy contra Tabilo y dónde ver su debut del Masters 1000 de París 2026 por TV y en directo - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-02",
@@ -7345,12 +7353,6 @@
        "fuente": "SPORT",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGhtSjZJNnA5TkxTaTZ2VFdPQXRmWUktaXhPdUZfakJ4b2NrWXp3Q1V5MmJHcjNTWWV0aC1manpsbkM3cjU5VG9GczVRUm5teGplRC1uWGVId1NxcUR3S080RHFpNFM5N3JCNmhwejBrejBfSU5FbEtZdzdJNldFQ0pQSHltVkJraDZQU1U2dGtZWkcwOHFETEZKXzI3bExKWjdYM1FjVHU?oc=5"
-      },
-      {
-       "titulo": "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck4yYUl3bXcyTk1UNC1GUWx3WFZpNWJmU213RVNBX1p2Y3V4a19aOFpKNi1mN3dyYjgxOE5waWZFdGxYSjNXUlBFSzB6czZ3NGtkNG82UVZOV3pxQ211RVdNSWphR1VVZFFZUmRRM2g1VnNLZGRlSGhZZ21vN3Q2MTZEQ2JjUWdZXzZGYTc3RzlMYVkzaGpzSm1PalJ1QkhaWU5MN1I1T3N4MmNYYWgtZ2lMVXZMdGFFeFpvYU9TU3QtdEFM0gHEAUFVX3lxTE5YcWRTa19UU2ZWZmVfd0dXOElRSUVjWkJCVjYwWTl3YVBGM0pBaEc4MnZxb1NJdTJFbUJHVzJSOGlhVDJodU5PS2tsOGRLRWw2OW5ZUXpVaWVjdjJhd3lJWnQyZW9QTHZGZXlBeGJ3VHdsenJyMkY4M2ZmUnM4bkwyMnE0dG9jdEgyX3RfQ3RJVmJndC1ic3dHNGFiaUpHbk1sZ3dzWTNjRVZheUZkX1RjdnlGYWs5NWVFd2U5UTB2MmpUUTM?oc=5"
       }
      ]
     },
@@ -7369,22 +7371,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
+       "fuente": "Flashscore.cl",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUERSbVpXOG40aU1TTHRXdVVxaXJ6YmlQdk1uOTlsY0pYb3NpS0lDeEFzRjFMbGZRRFUxaF9pM0VJNXZLbFhtajV3WUZsZ2w2dUdRek00cTFDblAxU2RvZlZzOU9mR2VkdTBrWWJndk0zTDhBckY1aDRHUElVZ2F1UTB4Q1JocXZtc2RYSXdYWVNmT3RkYWZaVmliY1JtdTU3UkpDU2dn?oc=5"
+      },
+      {
+       "titulo": "Alejandro Tabilo vs Rafael Jódar · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFJkN0tpT2xlUnRoV2EtUWFDTE9ia3haa3Y2cUdQbDF5OWJvSldDVjh1aUZacElsVGI3MDBvMVJiSW5GMjFaNnZiQWVJZ2x3Ynhid0hXd3lIWlpWcjljTW1fMGZDaHhCVm9QMF9WTHFLSi00UHJuV1ZEOUpOUWI4Vnd0MlhYcXBuYlM0dzdTX0JRbmF5ajhPaw?oc=5"
+      },
+      {
        "titulo": "A qué hora juega Jódar hoy contra Tabilo y dónde ver su debut del Masters 1000 de París 2026 por TV y en directo - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHdDVm1iaG1jQUVRclg2SEQyUWQxcmhUMUF5R0VXYTVMRmU0djhGei1wOVZfdlQxMG40bF94Sk1pU1JEVHVwcm9WODJZOGVFMWtQY1NYVWM0NkVFU3NtTld3N25IS3UyZ1hKbEJTUDdtRVBNTTJoQVgwNEpvMnhaUUxkNGFfY2I5RGdPRWRwQmxTNWZYa25fVHNjUWExLUlydnMtaktSS1DSAagBQVVfeXFMTVR3Q1ZtYmhtY0FFUXJYNkhEMlFkMXJoVDFBeUdFV2E1TEZlNHY4RnotcDlWX3ZUMTBuNGxfeEpNaVNSRFR1cHJvVjgyWThlRTFrUGNTWFVjNDZFRVNzbU5XdzduSEt1MmdYSmxCU1A3bUVQTU0yaEFYMDRKbzJ4WlFMZDRhX2NiOURnT0VkcEJsUzVmWGtuX1RzY1FhMS1JcnZzLWpLUktQ?oc=5"
-      },
-      {
-       "titulo": "A qué hora juega Jódar hoy contra Tabilo y dónde ver su debut del Masters 1000 de París 2026 por TV y en directo - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGhtSjZJNnA5TkxTaTZ2VFdPQXRmWUktaXhPdUZfakJ4b2NrWXp3Q1V5MmJHcjNTWWV0aC1manpsbkM3cjU5VG9GczVRUm5teGplRC1uWGVId1NxcUR3S080RHFpNFM5N3JCNmhwejBrejBfSU5FbEtZdzdJNldFQ0pQSHltVkJraDZQU1U2dGtZWkcwOHFETEZKXzI3bExKWjdYM1FjVHU?oc=5"
-      },
-      {
-       "titulo": "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck4yYUl3bXcyTk1UNC1GUWx3WFZpNWJmU213RVNBX1p2Y3V4a19aOFpKNi1mN3dyYjgxOE5waWZFdGxYSjNXUlBFSzB6czZ3NGtkNG82UVZOV3pxQ211RVdNSWphR1VVZFFZUmRRM2g1VnNLZGRlSGhZZ21vN3Q2MTZEQ2JjUWdZXzZGYTc3RzlMYVkzaGpzSm1PalJ1QkhaWU5MN1I1T3N4MmNYYWgtZ2lMVXZMdGFFeFpvYU9TU3QtdEFM0gHEAUFVX3lxTE5YcWRTa19UU2ZWZmVfd0dXOElRSUVjWkJCVjYwWTl3YVBGM0pBaEc4MnZxb1NJdTJFbUJHVzJSOGlhVDJodU5PS2tsOGRLRWw2OW5ZUXpVaWVjdjJhd3lJWnQyZW9QTHZGZXlBeGJ3VHdsenJyMkY4M2ZmUnM4bkwyMnE0dG9jdEgyX3RfQ3RJVmJndC1ic3dHNGFiaUpHbk1sZ3dzWTNjRVZheUZkX1RjdnlGYWs5NWVFd2U5UTB2MmpUUTM?oc=5"
       }
      ]
     }
@@ -7399,7 +7401,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.441,
    "elo_general": 0.452,
    "elo_en_superficie": 0.431,
@@ -7423,6 +7425,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Luca Van Assche vs Mariano Navone · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05ERWZ4b0dpek0yYWxZWkhrNVVyQkVtY2RPX0lFM3lraWQwX3JHZ3pzbGt4LUI5ZlhsSnZMUzdEYnNMV3hGTUdWaHZFQ2tqWFpSTmZoOE1WcEdzXzdmOUhObnI2WHRlUWVIZVpteFYwZ00tWWVtbkczZ3NaQXpNeWRjcjdiRFVFSnFkNDdITVNPYkZBS29vdjZab1dDWTg?oc=5"
+      },
+      {
        "titulo": "Luca Van Assche vs Mariano Navone: Set 2 Winner - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-01",
@@ -7433,12 +7441,6 @@
        "fuente": "Flashscore.es",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdklzNTZOSl94cnlMQWFCNlE5Qy1qZ3RPOGFzbFRmOUs0Q3RvZWxqblhkSGRPYWdSNmVTekM3aGhtZ0ZTTFBpNEpUVGphZHVpbVNMMTBWQnhJblIxN081Qzl4LTdRRnE1X2VlbWhaVHpMZ05yOUdtTkNvR2piTjVWOEtNYnVveFdlMlBoSDctclN6LTA?oc=5"
-      },
-      {
-       "titulo": "Resumen del Luca Van Assche - Mariano Navone - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGg5UWlhNnJVY2lwREtHc3gwZnBDX0J4Q2lzeld0RHJaQkNnYVhxeHJKNERsNVFiaVk0b2RxeUhpRF9HSkFrbnA4WlQ3X0tZZFpXbW9ubWRlcl94Z1B4T0cyc2FmUWV1QW8zbHVaWUtCSHd1YmJVeFI0d0thRTJ1NVExa1RhV2g1VWZJUkhXMWVxREtPTFZkUFpkNUtFb3VsMS0weXdoYw?oc=5"
       }
      ]
     },
@@ -7457,6 +7459,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Luca Van Assche vs Mariano Navone · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05ERWZ4b0dpek0yYWxZWkhrNVVyQkVtY2RPX0lFM3lraWQwX3JHZ3pzbGt4LUI5ZlhsSnZMUzdEYnNMV3hGTUdWaHZFQ2tqWFpSTmZoOE1WcEdzXzdmOUhObnI2WHRlUWVIZVpteFYwZ00tWWVtbkczZ3NaQXpNeWRjcjdiRFVFSnFkNDdITVNPYkZBS29vdjZab1dDWTg?oc=5"
+      },
+      {
        "titulo": "Quiénes son los tenistas argentinos que se presentan en el último Masters 1000 de la temporada en París - Infobae",
        "fuente": "Infobae",
        "fecha": "2026-11-02",
@@ -7467,12 +7475,6 @@
        "fuente": "Coinbase",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmFCUDc4M3NJeU9DUGxmUUg4UzJCS0pjN0R6bzh3a29TUG5pSURvUGVIRy15VzNjLVU4WnhOeElrX21GOGxpNm5Ddm1abGhSU2hocU9OdzBlWEpRUkNiZ0RZWkRlZm5TS0tqWUhkNzFmeHJ5X0t1SjRFTGZOQkc1X3JtcVZYdw?oc=5"
-      },
-      {
-       "titulo": "Luca van Assche vs Mariano Navone EN DIRECTO 02/11/2026 | Tenis - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdklzNTZOSl94cnlMQWFCNlE5Qy1qZ3RPOGFzbFRmOUs0Q3RvZWxqblhkSGRPYWdSNmVTekM3aGhtZ0ZTTFBpNEpUVGphZHVpbVNMMTBWQnhJblIxN081Qzl4LTdRRnE1X2VlbWhaVHpMZ05yOUdtTkNvR2piTjVWOEtNYnVveFdlMlBoSDctclN6LTA?oc=5"
       }
      ]
     }
@@ -7487,7 +7489,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.473,
    "elo_general": 0.459,
    "elo_en_superficie": 0.488,
@@ -7575,7 +7577,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.673,
    "elo_general": 0.659,
    "elo_en_superficie": 0.688,
@@ -7663,7 +7665,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.66,
    "elo_general": 0.639,
    "elo_en_superficie": 0.681,
@@ -7693,16 +7695,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlhMdVJXNFoxcW5mZFV0dzV5Rk5IMGZwc1padFdsRW93a2xWbVQ4eEtRUDBSZXFDRXJXOEZPU1VRcTIwWVpTQy05SWFhRTNhRVJnRGt6OEZ1QU52WGcyWHQtWGNGNXgxazVBeUxWVFpNaTZhVy1YUWhQTVUyQUxqazRyd09RRHFFWHBUeHNiQlplZw?oc=5"
       },
       {
+       "titulo": "Casper Ruud vs Juan Manuel Cerúndolo · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFY5RS1CZjdnSHd0ay1UOTNBc29SZ1VPYk1XcUxCX2xBNnZUUUZxUG5oYVU3NkJkNFN4bmhyVlpzNjc1N1llajQ3U05pMks3NVdOODRFSHMyb0JjVHhoOURTYzhxcUlWZEdUTnFrRVhOV1ctODRGM0Y2MmIxQjBOVjNSUllsakVvS01HZkdZbVp4dWczQnNzeGY2OA?oc=5"
+      },
+      {
        "titulo": "Resumen del Casper Ruud - Juan Manuel Cerúndolo - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnpSdjVoak1vV0gxZzQ5OFM2NWR4cDd4akRCMkdobTl5TWJlNEJGQzZwRjcyTWpXb05NYS1ic2RvVlFKVEZTcEZlUTNtS1ZoVmRwZjczR1RVRTRlcFhuREh0dDE1RFdNUUp2T3NrU3BfN1ZCRWtwWGo2UDYyRTVGOHdhOUw3dHhYVWRTWTV0RnA5dGc0b1pENjdwWVNCS2hTMEN5MDdqekxIY1E?oc=5"
-      },
-      {
-       "titulo": "Rafa Jódar hace historia y bate un récord al entrar en el top 10 de la ATP - COPE",
-       "fuente": "COPE",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkZ4NF8xb1diUkYwaHUzbFlaVE5ySTdfZFhFUEoxd2o3ZnVGd3hTZDcxZXQzTUFBRXNaNGVBYVllYlVUTzEyNWVyOFdQcEhfUWtaRnJFRTNSYzNzVEozOFdwd2dSZkdodVdWZ1ctUTlWeXVrV0NvTjNzT1ZBUTlNYVhmd2JCTkZ3UkNHS3Bjdm1HRFBqTHRYOEVsTXRSLXJtOFM2LUZPSDdpaXlPVXRUMzJTeUpqTDJZdzNzOEZDbTRMWUliVlFvdHpR0gHKAUFVX3lxTE5iRng0XzFvV2JSRjBodTNsWVpUTnJJN19kWEVQSjF3ajdmdUZ3eFNkNzFldDNNQUFFc1o0ZUFhWWViVVRPMTI1ZXI4V1BwSF9Ra1pGckVFM1JjM3NUSjM4V3B3Z1JmR2h1V1ZnVy1ROVZ5dWtXQ29OM3NPVkFROU1hWGZ3YkJORndSQ0dLcGN2bUdEUGpMdFg4RWxNdFItcm04UzYtRk9IN2lpeU9VdFQzMlN5SmpMMll3M3M4RkNtNExZSWJWUW90elE?oc=5"
       }
      ]
     },
@@ -7751,7 +7753,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7775,6 +7777,12 @@
      "cansancio": "2 partidos, 4 sets y 40 juegos en 3 días; el último el 2026-11-01 contra Thiago Agustin Tirante, ganó 6-4 6-4",
      "noticias": [
       {
+       "titulo": "Pronóstico Mattia Bellucci vs Lorenzo Sonego - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXMxcWJUZDROaEdIX1JKQ2ZCOTFYMWZySDFpN2ZNTW90UkEtcDF1bWFzOGZ5bG84LUUzSnZXQUd3bGh2QjVoUVFhTzV2SDYzU3F3MUEzMFI0X0dQZGVqSFQ5b180X01aTjkwZWpEU3pwYzZMMER2dC1HcU82WlA0cXBaejJ4Y3liTW9XeTRB?oc=5"
+      },
+      {
        "titulo": "Mattia Bellucci - Lorenzo Sonego en directo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -7785,12 +7793,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW1qVjRWSnE3Yk5aLVljSTZlU3YxbXh2NXBlNjZoaWlDV3pHOGltQjBhWHA3eTJqUnNDNTNUZ211bnBJNmlPR3BOTXMxbXNCT2lxV3BKMTVmd0RiSDJIU21Tb2JxdHpHWWltRnlyd2J5RTlJMmhGd2RwVV9xRFRRWF9MYnZKc0xvbE1QV1dR?oc=5"
-      },
-      {
-       "titulo": "ATP París - Día 1: juegan Musetti, Darderi, Arnaldi y el duelo Sonego-Bellucci - Tennis World Italia",
-       "fuente": "Tennis World Italia",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc1FHOTVVVXJ4bklJY0sySE1LYjlFRm1BMHNQQzNjSkJJQUtqa0VlVGo1X2l5RVBkcS1haGREdUt4dTBYMEw2U3prazBfelktX19qQUNEZVBrQlBwR1RZMXpUM3lrdklDbzR3U1RrVDJpeVhQOEtHNFNkMTR4eE1zRFMtTEN4bVdPbzRZb3ViVmVCeFdsS2xseWhmUjdnRVM5aFdBUF9BV0FNNERJQ3FfS3p3R1dsOVJ3MFZYT2hMR0NKcUowV2V1YmxFajRQNVQ4c0ZXV2xkRQ?oc=5"
       }
      ]
     },
@@ -7815,16 +7817,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1pjbHlpazI4ZVhfUTVRSGFLN25uc2ZzN3E5dktVRkFxd1FNOGFHWWowcVFuZk45VXNwdTJOR2tDSEhuSmVfNlVUVi00Y3VWRTU3a0hTT1NLVGhnUHNqVHRlTngxNVdFc2NIX1FTdmZwVjB2ZkpyemNJNnhJU3dDbGEwM1FPQmg2aFlvWWF2b3VzX01GbTBucFYzRUZxaHJLYTh6WXQ2SFNZQzQ?oc=5"
       },
       {
+       "titulo": "Pronóstico Mattia Bellucci vs Lorenzo Sonego - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXMxcWJUZDROaEdIX1JKQ2ZCOTFYMWZySDFpN2ZNTW90UkEtcDF1bWFzOGZ5bG84LUUzSnZXQUd3bGh2QjVoUVFhTzV2SDYzU3F3MUEzMFI0X0dQZGVqSFQ5b180X01aTjkwZWpEU3pwYzZMMER2dC1HcU82WlA0cXBaejJ4Y3liTW9XeTRB?oc=5"
+      },
+      {
        "titulo": "Mattia Bellucci - Lorenzo Sonego en directo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBWWEFWbTZjUk1tdjhmOG1IQlg2OWRDUVVZb1JCbnFvVTRKOGYwUjUxTDlER1FLeEpDTXN4NFZXUWdGSXBvNHlyd1dZNXA1dkQ0N3NEQ2x4eXdzYXVsU1VPWjlxbVA1Wm9WT0czSi1RZ1ZxWDZiZzVnN2xVRE5CejhKZ2U4eWVBTmxTcQ?oc=5"
-      },
-      {
-       "titulo": "Mattia Bellucci - Lorenzo Sonego en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW1qVjRWSnE3Yk5aLVljSTZlU3YxbXh2NXBlNjZoaWlDV3pHOGltQjBhWHA3eTJqUnNDNTNUZ211bnBJNmlPR3BOTXMxbXNCT2lxV3BKMTVmd0RiSDJIU21Tb2JxdHpHWWltRnlyd2J5RTlJMmhGd2RwVV9xRFRRWF9MYnZKc0xvbE1QV1dR?oc=5"
       }
      ]
     }
@@ -7839,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7869,16 +7871,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmdPTGMzeUJ4QUNaYU10cXNWVEQ0VDNrQmNMQVBfQkVjSE50WUxxN1ZaOWs5aEx6WHlRbUZwZnU5dHpLTWZXalhFZDNxNUoyRTA3LThPN1dXTGZFb1VITUpvbHNTUXd0dDRzdTRISG5Ec01xc2NoeWpRbVNTVlNpZ0psai1mWElXZUtqMw?oc=5"
       },
       {
+       "titulo": "Kyrian Jacquet vs Tomáš Macháč · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFFNUmNqYmxvZHhHZlhqcWxEOXZPbHRQUnBtQy1aZDlJU1hkZnZNRTdpSTFWRlBXVG1WY29vanJhU3NOcVotUmJLc0VJRXIycUlTQjYtRC1xQ3V5aGFaUFVfRWRMSUNVdjY2ZlY2SnpESUstaVlmcU5Qb2ExdWNBSnVEaDRicV83aHFEUzhiUGhteE1ndHNjZ0ZEOA?oc=5"
+      },
+      {
        "titulo": "Resumen del Kyrian Jacquet - Tomáš Machác - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemlTbERIdkxncm1PemI5elNmRkJpejRCVl80Z2QzU19vemR2V3VTdktlOFA0ZFdoZko1RlU4ZE56cWl4aHFsMVdNekdmdC1mbEY3Rjg5ZjBMUmNDbm5hWTJDS1VUVXEyT1FMcVhBOG51bkZtZ3dPUEZFSjlqbDZoS2hKa25xeEtZSHdSNWZRX0t2N1A3ckF0Y2h1U01CeGJWQXFZ?oc=5"
-      },
-      {
-       "titulo": "Kyrian Jacquet vs Tomas Machac EN DIRECTO 02/11/2026 | Tenis - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHJHZ1A3VUF6TDZ5Rnc2ekFwbW9WX3dnUG00Rk5qWnNiSTJVbXlzb2RKdi04MEk5eUZOaWVlQ2JIYlZONzFhVEVqTGN5SGJhQ1NCdDRnUzczTXhmbnV3cUplY0JxYWJudEhTTVVMUDYwR09MMTJXbnZ2MkwwYWZNQUhyUGlTRGsxN1hUWFhWSQ?oc=5"
       }
      ]
     },
@@ -7927,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7951,6 +7953,12 @@
      "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-01 contra Nuno Borges, ganó 7-6 6-2",
      "noticias": [
       {
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
@@ -7961,12 +7969,6 @@
        "fuente": "Odds Scanner",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPZ25TQlFPUlMwUW53NFpSMFExZ21BY2kxTy0xUXh1cGlRVWg5N0dWcGhqc0lMcmV1UFhveWZzdTdQUzMxdl9nUWIwSllIX3BNdjd3aG45UDFBdU9MZVNPUmswbC1YeE1mUXI5THRvX0E?oc=5"
-      },
-      {
-       "titulo": "Nuno Borges vs. Alex Molcan Paris 2026 2nd Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SEpqa3N4NlBIX3ZPR1JGLWxBSHRKOFg0dEd3MlZnM1p4NWJ1MDNTSGI2QVNtMkVIUUNNX1pfTVNlbUlJdlJFWjF2UzdkM2NuRUwtcGlSeTFucTAyZ1k2TW53cEpxNnI2ekFvTGJ3c2NXWVZ1?oc=5"
       }
      ]
     },
@@ -7985,6 +7987,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
+      },
+      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
@@ -7995,12 +8003,6 @@
        "fuente": "Match Tenis",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwTGtVRFpwU09FZTNUNmFxRDA3bldhZTRJWklUR1Y4cE04Sm9SODVmWjM5TDItLWJRWS1xUnFqeE1Gal8wRnN3NlhhTVlZRkV2U1B5RmU1akx5cEd1M2ZHSy1XYmlpYzB2VTRMUGZrWnExYTFs?oc=5"
-      },
-      {
-       "titulo": "Masters 1000 de París 2026: orden de juego, partidos, horarios y TV del lunes de 2 noviembre - ESPN Deportes",
-       "fuente": "ESPN Deportes",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa25EY2hjTlhtMEFuemNlZl9VLUZCTWRMWjhTMG9zTHJ5RnQ0dWxhR2VaNjh6WmQxNlVzRjU0TDdtdVE3dTJzZmlrem5lR1pRZlp1YTllT2loUUIxb21Vc0RGenI5RTctQUE4bmNMX2hxWDlJWGRFMkU2cm9jN2pnUWN3ekRhbUxwNUVkYm8yak1yc1JuZDNSa3JGOE9PSVNta0NTbmdvMWdqanU3RFRITVF5M2cwTDVvanFBdURLbVNHNzFQaDFHX01BOE9heGVneUhSaW9wcS1nb2U3?oc=5"
       }
      ]
     }
@@ -8015,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8103,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:05+00:00",
+   "actualizado": "2026-11-02T09:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
