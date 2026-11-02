@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T14:10+00:00",
+ "actualizado": "2026-11-02T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -477,19 +477,18 @@
    "nombre": "Sebastian Baez",
    "circuito": "ATP",
    "elo": {
-    "all": 1553.5,
-    "hard": 1549.5,
+    "all": 1544.8,
+    "hard": 1537.8,
     "clay": 1460.0,
     "grass": 1326.1
    },
    "n": {
-    "all": 151,
-    "hard": 84,
+    "all": 152,
+    "hard": 85,
     "clay": 62,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-26 G hard vs Hugo Grenier",
     "2026-08-31 P hard vs Brandon Nakashima",
     "2026-09-23 P hard vs Jenson Brooksby",
     "2026-10-01 P hard vs Shang Juncheng",
@@ -498,7 +497,8 @@
     "2026-10-20 P hard vs Pierre-Hugues Herbert",
     "2026-10-24 P hard vs Giovanni Mpetshi Perricard",
     "2026-10-31 G hard vs Damir Dzumhur",
-    "2026-11-01 P hard vs Tomas Machac"
+    "2026-11-01 P hard vs Tomas Machac",
+    "2026-11-02 P hard vs Daniel Merida"
    ]
   },
   "arnaldi|m": {
@@ -897,19 +897,18 @@
    "nombre": "Casper Ruud",
    "circuito": "ATP",
    "elo": {
-    "all": 1780.2,
-    "hard": 1753.3,
+    "all": 1791.4,
+    "hard": 1765.2,
     "clay": 1822.3,
     "grass": 1465.8
    },
    "n": {
-    "all": 180,
-    "hard": 112,
+    "all": 181,
+    "hard": 113,
     "clay": 65,
     "grass": 3
    },
    "ultimos": [
-    "2026-07-16 G clay vs Jaime Faria",
     "2026-07-17 P clay vs Juan Manuel Cerundolo",
     "2026-08-05 G hard vs Juan Manuel Cerundolo",
     "2026-08-07 P hard vs Joao Fonseca",
@@ -918,7 +917,8 @@
     "2026-10-12 G hard vs Learner Tien",
     "2026-10-16 P hard vs Rafael Jodar",
     "2026-10-26 G hard vs Dominic Stricker",
-    "2026-10-28 P hard vs Nuno Borges"
+    "2026-10-28 P hard vs Nuno Borges",
+    "2026-11-02 G hard vs Juan Manuel Cerundolo"
    ]
   },
   "griekspoor|t": {
@@ -7669,19 +7669,18 @@
    "nombre": "Juan Manuel Cerundolo",
    "circuito": "ATP",
    "elo": {
-    "all": 1680.7,
-    "hard": 1621.8,
+    "all": 1664.8,
+    "hard": 1603.4,
     "clay": 1752.9,
     "grass": 1517.1
    },
    "n": {
-    "all": 71,
-    "hard": 34,
+    "all": 72,
+    "hard": 35,
     "clay": 33,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-24 G hard vs Zhou Yi",
     "2026-09-26 P hard vs Alejandro Davidovich Fokina",
     "2026-09-30 P hard vs Bu Yunchaokete",
     "2026-10-08 G hard vs Nicolas Mejia",
@@ -7690,7 +7689,8 @@
     "2026-10-24 G hard vs Zachary Svajda",
     "2026-10-25 G hard vs Daniel Altmaier",
     "2026-10-31 G hard vs Aleksandar Kovacevic",
-    "2026-11-01 G hard vs Miomir Kecmanovic"
+    "2026-11-01 G hard vs Miomir Kecmanovic",
+    "2026-11-02 P hard vs Casper Ruud"
    ]
   },
   "cressy|m": {
@@ -24202,19 +24202,18 @@
    "nombre": "Daniel Merida",
    "circuito": "ATP",
    "elo": {
-    "all": 1733.0,
-    "hard": 1711.2,
+    "all": 1746.9,
+    "hard": 1728.5,
     "clay": 1711.0,
     "grass": 1472.2
    },
    "n": {
-    "all": 44,
-    "hard": 29,
+    "all": 45,
+    "hard": 30,
     "clay": 14,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-09 G hard vs Tallon Griekspoor",
     "2026-08-11 P hard vs Learner Tien",
     "2026-08-14 G hard vs Marin Cilic",
     "2026-08-16 G hard vs Zizou Bergs",
@@ -24223,7 +24222,8 @@
     "2026-09-02 G hard vs Andrey Rublev",
     "2026-09-04 P hard vs Alex Michelsen",
     "2026-10-08 P hard vs Botic van de Zandschulp",
-    "2026-10-28 P hard vs Daniil Medvedev"
+    "2026-10-28 P hard vs Daniil Medvedev",
+    "2026-11-02 G hard vs Sebastian Baez"
    ]
   },
   "giustino|l": {
@@ -54411,7 +54411,7 @@
   ],
   "manuel cerundolo|j~ruud|c": [
    2,
-   1
+   2
   ],
   "bublik|a~comesana|f": [
    1,
@@ -91476,7 +91476,11 @@
   "mdlulwa|w~novak|k": [
    0,
    1
+  ],
+  "baez|s~merida|d": [
+   0,
+   1
   ]
  },
- "propios": 10533
+ "propios": 10535
 }

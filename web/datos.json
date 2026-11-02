@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T14:11+00:00",
+ "actualizado": "2026-11-02T15:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,35 +338,35 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.28,
+      "pct": 0.281,
       "motivo": "Lleva 4 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.249,
+      "pct": 0.25,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.2,
+      "pct": 0.197,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.186,
+      "pct": 0.187,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.086,
+      "pct": 0.085,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.636,
+      "pct": 0.639,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.364,
+      "pct": 0.361,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.635,
+      "pct": 0.638,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.365,
+      "pct": 0.362,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.636,
+      "pct": 0.639,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.364,
+      "pct": 0.361,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
   "partidos": [
-   {
-    "id": "b363b01046ccc43cdfcc7e7f4e42d735",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T14:30+00:00",
-    "jugadores": [
-     "Kyrian Jacquet",
-     "Tomas Machac"
-    ],
-    "opciones": [
-     {
-      "id": "b363b01046ccc43cdfcc7e7f4e42d735|h2h|Kyrian Jacquet|",
-      "mercado": "h2h",
-      "nombre": "Kyrian Jacquet",
-      "punto": null,
-      "cuota": 2.49,
-      "pinnacle": 2.68
-     },
-     {
-      "id": "b363b01046ccc43cdfcc7e7f4e42d735|h2h|Tomas Machac|",
-      "mercado": "h2h",
-      "nombre": "Tomas Machac",
-      "punto": null,
-      "cuota": 1.54,
-      "pinnacle": 1.51
-     },
-     {
-      "id": "b363b01046ccc43cdfcc7e7f4e42d735|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.89,
-      "pinnacle": 2.03
-     },
-     {
-      "id": "b363b01046ccc43cdfcc7e7f4e42d735|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.82,
-      "pinnacle": 1.83
-     }
-    ],
-    "pinnacle_h2h": {
-     "Kyrian Jacquet": 2.68,
-     "Tomas Machac": 1.51
-    }
-   },
    {
     "id": "44f0dc12e4fa4b0ef607420fecfd8eb6",
     "deporte": "tennis_atp_paris_masters",
@@ -2023,6 +1973,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T13:52+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2161,16 +2121,6 @@
    "hora": "2026-11-01T12:10+00:00",
    "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T11:15+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T11:15+00:00",
-   "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-02",
@@ -2241,9 +2191,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 27,
-  "aciertos": 0.7777777777777778,
-  "yield": 0.13925925925925925
+  "apuestas": 28,
+  "aciertos": 0.7857142857142857,
+  "yield": 0.14785714285714285
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -6819,7 +6769,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:52+00:00",
+   "actualizado": "2026-11-02T15:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -6877,6 +6827,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Khachanov's ATP Perfect Player: What Karen would take from Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41a05nODEyUDNGNzhxRE16ajZ0NmN2aW5MVFBlUERjWHp2akxIX0pLSE13TER3WVp5WV9JNnlQaF9sNEV6WWlzSGdxNUZfMjgwTXdsVTlJUFhrNS04VEFXRGNIRmt2YmZSZ2lVVWs0dXE2ZE0?oc=5"
+      },
+      {
        "titulo": "Denis Shapovalov - Karen Khachanov en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -6887,12 +6843,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Denis Shapovalov vs Karen Khachanov - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0VBcmVTdmg1dFp3b0ZRYnRUWHVOQ0J2cDd6ZFNaVFl4VmE0US1Ra3l5cGhPdzIxUWFvVHdLa3JscUFuWHpNRUJsSzRHMGdzV29sMTd5Zm5fWlhrTnozNW00bVpYWDYxaEp0bXo2eDVqZ0c2SnZDb0EyZEVJTWRMV0RxS1FRYmt6TE1RdV9ibU9Ka1E?oc=5"
       }
      ]
     }
@@ -6907,7 +6857,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:52+00:00",
+   "actualizado": "2026-11-02T15:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,

@@ -238631,6 +238631,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Sebastian Baez",
+    "Daniel Merida"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-02",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Juan Manuel Cerundolo",
+    "Casper Ruud"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.138,
+     "envidia": 0.136,
      "sorpresa": 0.4,
-     "impaciencia": 0.321,
+     "impaciencia": 0.316,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 4 días sin apostar."
     },
-    "hora": "2026-11-02T14:10+00:00",
+    "hora": "2026-11-02T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.258,
+     "impaciencia": 0.254,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T14:10+00:00",
+    "hora": "2026-11-02T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.155,
+     "impaciencia": 0.153,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T14:10+00:00",
+    "hora": "2026-11-02T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.258,
+     "impaciencia": 0.254,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T14:10+00:00",
+    "hora": "2026-11-02T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-30T18:10+00:00",
-   "texto": "📰 Noticias nuevas de Matteo Berrettini – Alex de Minaur, Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-30T18:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-30T23:10+00:00",
    "texto": "📰 Noticias nuevas de Leylah Fernandez – Kamilla Rakhimova: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-02T13:52+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,13 +2618,26 @@
  "ultima_decision": "2026-11-02",
  "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
+  "ab21508dc22f",
+  "7d627a5192cc",
+  "de704b9e0865",
+  "70447f48c923",
+  "f1e1e09ae963",
+  "c204c403eb2a",
+  "40bee769beb2",
+  "0d3d20e8a70e",
+  "b11924babe33",
+  "2db08a5b9e00",
   "6d9a991c700e",
   "3b590a2622f9",
+  "10d24ca0789f",
   "1d57f3d29fc0",
+  "3cfcf62df9de",
   "88e27da099ed",
   "e420ba945aad",
   "3f7a5f250a8d",
   "b8f3afee10f0",
+  "80be0f3bd43f",
   "b61de61f05dc",
   "981fae28f496",
   "4530076c96f9",
@@ -2634,21 +2647,26 @@
   "b287160410a3",
   "3a2e842eca8e",
   "4f4cff2ce13f",
+  "34ec375747d5",
+  "70ed554affed",
   "8c2c37250a11",
-  "ab21508dc22f",
+  "35cc9152c41b",
+  "6ba5ac35ad43",
+  "5f14a8991916",
   "0252367f586a",
   "25e68a169159",
   "6d632e3c3c18",
   "e92ba639ea27",
   "0a11d08471b9",
+  "a305c93eabdb",
   "7aa58c92fe33",
   "fc191266a1d8",
   "14cee0274886",
   "f1332d53a894",
   "0d0fe9b970bb",
   "2e3d4f2b1740",
-  "a305c93eabdb",
   "680658bbad33",
+  "aba404aa1635",
   "3bd71e92b940",
   "275fe0938f30",
   "bf26016142f3",
@@ -2664,17 +2682,17 @@
   "c4f0318519c0",
   "4fee1a8ae643",
   "309a6a4ee28d",
+  "92efff17efc2",
   "641db52d38f7",
   "57316f3a02cb",
   "9807b5b881ff",
-  "92efff17efc2",
   "a291f6dbfc9c",
   "902999a31b66",
   "6371de218eac",
+  "697d933e5e96",
   "3c6e581cce81",
   "1681b5790ab6",
   "25cea0b2b29c",
-  "697d933e5e96",
   "9a93980fc076",
   "a1a65873c35b",
   "36f69c4679cf",
@@ -2685,7 +2703,6 @@
   "926c18d45994",
   "b2b0e6f91bb4",
   "352b007acbc3",
-  "de704b9e0865",
   "f260851b900a",
   "3ec4384e906e",
   "54659499fbb9",
@@ -2693,20 +2710,14 @@
   "2e72868818b7",
   "5d66ceb0ad32",
   "920b32821dc3",
-  "34ec375747d5",
-  "70ed554affed",
   "8e9c468b3c9e",
-  "7d627a5192cc",
   "69e2c3f60dac",
   "aed8563dc980",
   "bad768f74bf6",
   "745d0801587b",
   "ab8c85bb323b",
   "cffbbd27d1be",
-  "35cc9152c41b",
   "c66114006bc4",
-  "6ba5ac35ad43",
-  "5f14a8991916",
   "a2b7d4022940",
   "821719655741",
   "6ec596512714",
@@ -2731,12 +2742,15 @@
   "2f43675ab391",
   "622b0797e881",
   "2d7fab2dc5eb",
+  "7b9d96384e8b",
   "8a8529cc12d1",
   "10715372983c",
   "1bd2112e6116",
+  "a6134614a3f2",
   "ebfd8b91d250",
   "eb98b7614414",
   "ec25acfb6abd",
+  "820da9e18b5c",
   "a34178bacf77",
   "90fc21fc847f",
   "caf234585f41",
@@ -2899,6 +2913,7 @@
   "a46f55a40e1c",
   "ef64b42c480e",
   "117cbafa721d",
+  "10b4724a82a0",
   "49092d06a289",
   "b9e549c0ab12",
   "f2237f65810d",
@@ -2915,7 +2930,6 @@
   "1838d5fee30a",
   "82bd9fc86687",
   "cce7547734f4",
-  "10b4724a82a0",
   "3add524cda68",
   "bd33bda44fb9",
   "3e38e450c7eb",
@@ -3403,21 +3417,7 @@
   "801d6c788a8e",
   "58755f45f2b9",
   "6682337af4b0",
-  "cee887a27c01",
-  "034c4a3118c8",
-  "5c8a8f549029",
-  "281df040e85e",
-  "8374be0a9039",
-  "10f7d3627a01",
-  "0b4287b71f47",
-  "64737ee5dd30",
-  "d6b4fe28b75d",
-  "5b5cce06e5f6",
-  "f353e7ecf841",
-  "e8d47f4ce755",
-  "d9f8c3bdbfdd",
-  "49fbdff19c50",
-  "83e3c6b96d11"
+  "cee887a27c01"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:52+00:00",
+   "actualizado": "2026-11-02T15:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8075,6 +8075,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Khachanov's ATP Perfect Player: What Karen would take from Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41a05nODEyUDNGNzhxRE16ajZ0NmN2aW5MVFBlUERjWHp2akxIX0pLSE13TER3WVp5WV9JNnlQaF9sNEV6WWlzSGdxNUZfMjgwTXdsVTlJUFhrNS04VEFXRGNIRmt2YmZSZ2lVVWs0dXE2ZE0?oc=5"
+      },
+      {
        "titulo": "Denis Shapovalov - Karen Khachanov en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -8085,12 +8091,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Denis Shapovalov vs Karen Khachanov - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0VBcmVTdmg1dFp3b0ZRYnRUWHVOQ0J2cDd6ZFNaVFl4VmE0US1Ra3l5cGhPdzIxUWFvVHdLa3JscUFuWHpNRUJsSzRHMGdzV29sMTd5Zm5fWlhrTnozNW00bVpYWDYxaEp0bXo2eDVqZ0c2SnZDb0EyZEVJTWRMV0RxS1FRYmt6TE1RdV9ibU9Ka1E?oc=5"
       }
      ]
     }
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T13:52+00:00",
+   "actualizado": "2026-11-02T15:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 27,
-  "ganadas": 21,
-  "unidades": 3.76,
+  "apuestas": 28,
+  "ganadas": 22,
+  "unidades": 4.14,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8214,18 +8214,6 @@
     "seleccion": "Cameron Norrie",
     "punto": null,
     "cuota": 1.44
-   },
-   {
-    "partido": "99851274de5cc3c943371f330f1b4c71",
-    "jugadores": [
-     "Casper Ruud",
-     "Juan Manuel Cerundolo"
-    ],
-    "inicio": "2026-11-02T12:20+00:00",
-    "mercado": "h2h",
-    "seleccion": "Casper Ruud",
-    "punto": null,
-    "cuota": 1.38
    },
    {
     "partido": "a916463c001545483b340777daefd7c6",
@@ -8316,7 +8304,8 @@
    "f510a63a2e3852e183f84eb8cd44fcac",
    "9e065ecef1e149fdf4c5e361ba6d2f2b",
    "0b15b685479df1479050365848bcfe54",
-   "35c20c072dc49b1f1762bd71838ad56b"
+   "35c20c072dc49b1f1762bd71838ad56b",
+   "99851274de5cc3c943371f330f1b4c71"
   ]
  },
  "mercados_casas": {
