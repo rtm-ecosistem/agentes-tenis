@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T08:01+00:00",
+ "actualizado": "2026-11-02T08:05+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-11-02T08:00+00:00",
   "prevision_mes": 168,
   "noticias": {
-   "dia": "2026-11-01",
+   "dia": "2026-11-02",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -2466,6 +2466,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T08:05+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T08:05+00:00",
+   "texto": "📰 Noticias nuevas de Lorenzo Musetti – Hubert Hurkacz, Ignacio Buse – Zizou Bergs, Luciano Darderi – Rinky Hijikata…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2603,16 +2613,6 @@
   {
    "hora": "2026-11-01T08:00+00:00",
    "texto": "🎾 Cartelera: 9 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T23:10+00:00",
-   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T19:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
   }
  ],
@@ -6294,7 +6294,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.516,
    "elo_general": 0.52,
    "elo_en_superficie": 0.512,
@@ -6382,7 +6382,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.426,
    "elo_general": 0.423,
    "elo_en_superficie": 0.428,
@@ -6470,7 +6470,7 @@
    "inicio": "2026-11-02T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.586,
    "elo_general": 0.598,
    "elo_en_superficie": 0.574,
@@ -6540,10 +6540,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXVMYS1MMmZ6RWhuZGJwZnNDekk4ZGpMVDRsdWFJUElJM2V0bDZwR0FBekdHLWF1cEh0OEs5bElwZWg0NjVTR3hTZ1JaNUhlLWJCRFp3b3VicnF1d3ZvZGQ3ZE5nS3VCTnJhd1FiQ3pjdlhhdFNZQ3VFS0huSnlBaURYLVh6cFpzYWlXOFBJZndpUUZyQXNXUzFfeE1SQQ?oc=5"
       },
       {
-       "titulo": "Hot Shot: Hijikata sorprende a Fritz con un gran winner en Basilea - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Pronóstico Rinky Hijikata vs Vit Kopriva - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTJtbWxPc29SMHgyMFZJVEY1RWNuT1R1U2RuYXAxYW9kS1F4UFNQb2FKUGZNR1ZBTVp3dGM4SnMyMXNudEM2b0JwaDRkTThYMUhNYVZ5dkNQMmJEMC1qRWxtbjBJMjYybV96bGF0UDBPQ2o2Wm5BUzVhaVZOeW91VnlKVnZNMkRKY3FOOGZoVGtSQ3haUVJXVHJhMngzVTFzcGpWZUFn?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3lQMU1mZ1hIZ29FUlg5S0JlSDVKRmpaZXRKSFpFRFhoSVEyNkhlenNoNXlnMHFneVFRNmU4NWhrQkdZTnVpWnR5aVBvcFc4cHpNSkxHT3d2ZVFjak1wZUIzbHN3a1dKREFsSy1KcnhMbGN6dHVudkp0UnZwdTdzQzZaSUpjVlk?oc=5"
       }
      ]
     }
@@ -6558,7 +6558,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.225,
    "elo_general": 0.213,
    "elo_en_superficie": 0.237,
@@ -6588,16 +6588,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHdDVm1iaG1jQUVRclg2SEQyUWQxcmhUMUF5R0VXYTVMRmU0djhGei1wOVZfdlQxMG40bF94Sk1pU1JEVHVwcm9WODJZOGVFMWtQY1NYVWM0NkVFU3NtTld3N25IS3UyZ1hKbEJTUDdtRVBNTTJoQVgwNEpvMnhaUUxkNGFfY2I5RGdPRWRwQmxTNWZYa25fVHNjUWExLUlydnMtaktSS1DSAagBQVVfeXFMTVR3Q1ZtYmhtY0FFUXJYNkhEMlFkMXJoVDFBeUdFV2E1TEZlNHY4RnotcDlWX3ZUMTBuNGxfeEpNaVNSRFR1cHJvVjgyWThlRTFrUGNTWFVjNDZFRVNzbU5XdzduSEt1MmdYSmxCU1A3bUVQTU0yaEFYMDRKbzJ4WlFMZDRhX2NiOURnT0VkcEJsUzVmWGtuX1RzY1FhMS1JcnZzLWpLUktQ?oc=5"
       },
       {
+       "titulo": "A qué hora juega Jódar hoy contra Tabilo y dónde ver su debut del Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGhtSjZJNnA5TkxTaTZ2VFdPQXRmWUktaXhPdUZfakJ4b2NrWXp3Q1V5MmJHcjNTWWV0aC1manpsbkM3cjU5VG9GczVRUm5teGplRC1uWGVId1NxcUR3S080RHFpNFM5N3JCNmhwejBrejBfSU5FbEtZdzdJNldFQ0pQSHltVkJraDZQU1U2dGtZWkcwOHFETEZKXzI3bExKWjdYM1FjVHU?oc=5"
+      },
+      {
        "titulo": "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París - MARCA",
        "fuente": "MARCA",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck4yYUl3bXcyTk1UNC1GUWx3WFZpNWJmU213RVNBX1p2Y3V4a19aOFpKNi1mN3dyYjgxOE5waWZFdGxYSjNXUlBFSzB6czZ3NGtkNG82UVZOV3pxQ211RVdNSWphR1VVZFFZUmRRM2g1VnNLZGRlSGhZZ21vN3Q2MTZEQ2JjUWdZXzZGYTc3RzlMYVkzaGpzSm1PalJ1QkhaWU5MN1I1T3N4MmNYYWgtZ2lMVXZMdGFFeFpvYU9TU3QtdEFM0gHEAUFVX3lxTE5YcWRTa19UU2ZWZmVfd0dXOElRSUVjWkJCVjYwWTl3YVBGM0pBaEc4MnZxb1NJdTJFbUJHVzJSOGlhVDJodU5PS2tsOGRLRWw2OW5ZUXpVaWVjdjJhd3lJWnQyZW9QTHZGZXlBeGJ3VHdsenJyMkY4M2ZmUnM4bkwyMnE0dG9jdEgyX3RfQ3RJVmJndC1ic3dHNGFiaUpHbk1sZ3dzWTNjRVZheUZkX1RjdnlGYWs5NWVFd2U5UTB2MmpUUTM?oc=5"
-      },
-      {
-       "titulo": "Horario y dónde ver por TV el Jódar - Tabilo del Masters 1000 de París - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXVsWE1WWDV5Uk9HdENVWHZKTkVhX3dVS0FPRWJGeHBlTDVOQjhsa3U1VF9WdVhVdWp0SjBzaHJUR2FuYk1nQnVPWVd4bGpibG92alY4YW9ISVhsSllfUTJTQ29DeTFCa25yOEVkTngyYUFWUUNVLTJUWlVEMFVMV1pHQ3YtY0drVkdPX0lJOER4ejhZQjBHWmthSEpJN3FXTEY2aGk0MlB5TVV3TC1XdzM0WjN6RnNWWU5Obi1FM00xRDJXYkHSAcYBQVVfeXFMTVl1bFhNVlg1eVJPR3RDVVh2Sk5FYV93VUtBT0ViRnhwZUw1TkI4bGt1NVRfVnVYVXVqdEowc2hyVEdhbmJNZ0J1T1lXeGxqYmxvdmpWOGFvSElYbEpZX1EyU0NvQ3kxQmtucjhFZE54MmFBVlFDVS0yVFpVRDBVTFdaR0N2LWNHa1ZHT19JSThEeHo4WUIwR1prYUhKSTdxV0xGNmhpNDJQeU1Vd0wtV3czNFozekZzVllOTm4tRTNNMUQyV2JB?oc=5"
       }
      ]
     },
@@ -6622,16 +6622,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHdDVm1iaG1jQUVRclg2SEQyUWQxcmhUMUF5R0VXYTVMRmU0djhGei1wOVZfdlQxMG40bF94Sk1pU1JEVHVwcm9WODJZOGVFMWtQY1NYVWM0NkVFU3NtTld3N25IS3UyZ1hKbEJTUDdtRVBNTTJoQVgwNEpvMnhaUUxkNGFfY2I5RGdPRWRwQmxTNWZYa25fVHNjUWExLUlydnMtaktSS1DSAagBQVVfeXFMTVR3Q1ZtYmhtY0FFUXJYNkhEMlFkMXJoVDFBeUdFV2E1TEZlNHY4RnotcDlWX3ZUMTBuNGxfeEpNaVNSRFR1cHJvVjgyWThlRTFrUGNTWFVjNDZFRVNzbU5XdzduSEt1MmdYSmxCU1A3bUVQTU0yaEFYMDRKbzJ4WlFMZDRhX2NiOURnT0VkcEJsUzVmWGtuX1RzY1FhMS1JcnZzLWpLUktQ?oc=5"
       },
       {
+       "titulo": "A qué hora juega Jódar hoy contra Tabilo y dónde ver su debut del Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGhtSjZJNnA5TkxTaTZ2VFdPQXRmWUktaXhPdUZfakJ4b2NrWXp3Q1V5MmJHcjNTWWV0aC1manpsbkM3cjU5VG9GczVRUm5teGplRC1uWGVId1NxcUR3S080RHFpNFM5N3JCNmhwejBrejBfSU5FbEtZdzdJNldFQ0pQSHltVkJraDZQU1U2dGtZWkcwOHFETEZKXzI3bExKWjdYM1FjVHU?oc=5"
+      },
+      {
        "titulo": "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París - MARCA",
        "fuente": "MARCA",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck4yYUl3bXcyTk1UNC1GUWx3WFZpNWJmU213RVNBX1p2Y3V4a19aOFpKNi1mN3dyYjgxOE5waWZFdGxYSjNXUlBFSzB6czZ3NGtkNG82UVZOV3pxQ211RVdNSWphR1VVZFFZUmRRM2g1VnNLZGRlSGhZZ21vN3Q2MTZEQ2JjUWdZXzZGYTc3RzlMYVkzaGpzSm1PalJ1QkhaWU5MN1I1T3N4MmNYYWgtZ2lMVXZMdGFFeFpvYU9TU3QtdEFM0gHEAUFVX3lxTE5YcWRTa19UU2ZWZmVfd0dXOElRSUVjWkJCVjYwWTl3YVBGM0pBaEc4MnZxb1NJdTJFbUJHVzJSOGlhVDJodU5PS2tsOGRLRWw2OW5ZUXpVaWVjdjJhd3lJWnQyZW9QTHZGZXlBeGJ3VHdsenJyMkY4M2ZmUnM4bkwyMnE0dG9jdEgyX3RfQ3RJVmJndC1ic3dHNGFiaUpHbk1sZ3dzWTNjRVZheUZkX1RjdnlGYWs5NWVFd2U5UTB2MmpUUTM?oc=5"
-      },
-      {
-       "titulo": "Horario y dónde ver por TV el Jódar - Tabilo del Masters 1000 de París - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXVsWE1WWDV5Uk9HdENVWHZKTkVhX3dVS0FPRWJGeHBlTDVOQjhsa3U1VF9WdVhVdWp0SjBzaHJUR2FuYk1nQnVPWVd4bGpibG92alY4YW9ISVhsSllfUTJTQ29DeTFCa25yOEVkTngyYUFWUUNVLTJUWlVEMFVMV1pHQ3YtY0drVkdPX0lJOER4ejhZQjBHWmthSEpJN3FXTEY2aGk0MlB5TVV3TC1XdzM0WjN6RnNWWU5Obi1FM00xRDJXYkHSAcYBQVVfeXFMTVl1bFhNVlg1eVJPR3RDVVh2Sk5FYV93VUtBT0ViRnhwZUw1TkI4bGt1NVRfVnVYVXVqdEowc2hyVEdhbmJNZ0J1T1lXeGxqYmxvdmpWOGFvSElYbEpZX1EyU0NvQ3kxQmtucjhFZE54MmFBVlFDVS0yVFpVRDBVTFdaR0N2LWNHa1ZHT19JSThEeHo4WUIwR1prYUhKSTdxV0xGNmhpNDJQeU1Vd0wtV3czNFozekZzVllOTm4tRTNNMUQyV2JB?oc=5"
       }
      ]
     }
@@ -6646,7 +6646,7 @@
    "inicio": "2026-11-02T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.441,
    "elo_general": 0.452,
    "elo_en_superficie": 0.431,
@@ -6734,7 +6734,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.473,
    "elo_general": 0.459,
    "elo_en_superficie": 0.488,
@@ -6822,7 +6822,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.673,
    "elo_general": 0.659,
    "elo_en_superficie": 0.688,
@@ -6910,7 +6910,7 @@
    "inicio": "2026-11-02T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.66,
    "elo_general": 0.639,
    "elo_en_superficie": 0.681,
@@ -6934,16 +6934,16 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Highlights: Ruud sobrevive a Stricker en su debut en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-01",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlhMdVJXNFoxcW5mZFV0dzV5Rk5IMGZwc1padFdsRW93a2xWbVQ4eEtRUDBSZXFDRXJXOEZPU1VRcTIwWVpTQy05SWFhRTNhRVJnRGt6OEZ1QU52WGcyWHQtWGNGNXgxazVBeUxWVFpNaTZhVy1YUWhQTVUyQUxqazRyd09RRHFFWHBUeHNiQlplZw?oc=5"
+      },
+      {
        "titulo": "Resumen del Casper Ruud - Juan Manuel Cerúndolo - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnpSdjVoak1vV0gxZzQ5OFM2NWR4cDd4akRCMkdobTl5TWJlNEJGQzZwRjcyTWpXb05NYS1ic2RvVlFKVEZTcEZlUTNtS1ZoVmRwZjczR1RVRTRlcFhuREh0dDE1RFdNUUp2T3NrU3BfN1ZCRWtwWGo2UDYyRTVGOHdhOUw3dHhYVWRTWTV0RnA5dGc0b1pENjdwWVNCS2hTMEN5MDdqekxIY1E?oc=5"
-      },
-      {
-       "titulo": "Cuántos títulos ganó Carlos Alcaraz: El palmarés completo y el dinero en premios del tenista español - Sporting News",
-       "fuente": "Sporting News",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmk1ZGxkQ09aMTlra2I0a2RUTDZTRGctQW9BMHNLbVVTRm5SbndmRnVndVBOTWUyaWdMclVnX0VNcmFRWjdnUC1sSmY3QjhSQlluTXdxYzRtY0tXVGpvYWhCU3VaVmxEN1VaZWFVVEd4aC1tREx4V0xaX2J3cmp5Tl9hR0pmamhMeFllMGh5cjFfVnRORFBlckVNT2ktMDlNV2tqbTM3SGljeVZldGhDbVYwZHM2TEMzSnJZWHBzNTROZTRLR2d0Qg?oc=5"
       },
       {
        "titulo": "Rafa Jódar hace historia y bate un récord al entrar en el top 10 de la ATP - COPE",
@@ -6980,10 +6980,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3J3dTZoOEhxakwzM25JamZPNl9GUlVHNWREc2l0Y3NoNWFjVGJXcktXSG5hWEhYemVGWk1aYnd4TlBITExiRjQtTmduMXJsdVhSb0VYd09aWFZ2SmdDMmRocFhuV2F4aWJVcDJjbDhKQjZMZEVBTWstWTNpbXlOdEYyQmRlZG9NbmtjMEIxbnFzSzZjOW5YWm1kaWlWQzRSaUlLMkFTbVlPUFo1MVNWLWxDdmhaYVdrUlVMYTlLcWF2cXhWbW5XWk5B?oc=5"
       },
       {
-       "titulo": "Resumen del Casper Ruud - Juan Manuel Cerúndolo - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Juan Manuel Cerundolo vs Aleksandar Kovacevic » Mejores Cuotas y Estadísticas - Odds Scanner",
+       "fuente": "Odds Scanner",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnpSdjVoak1vV0gxZzQ5OFM2NWR4cDd4akRCMkdobTl5TWJlNEJGQzZwRjcyTWpXb05NYS1ic2RvVlFKVEZTcEZlUTNtS1ZoVmRwZjczR1RVRTRlcFhuREh0dDE1RFdNUUp2T3NrU3BfN1ZCRWtwWGo2UDYyRTVGOHdhOUw3dHhYVWRTWTV0RnA5dGc0b1pENjdwWVNCS2hTMEN5MDdqekxIY1E?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEs2UkE2S3k5dWZ4eVd6ODMxVXFpRHJpLVhQaUFOc1dvejFsREVWLVBBUHRER01vcExZQUlJNUJnZl9ES0hibWR5R3k1bTA5eTM4eXlXeGxWZXNydEFCSlB5eWlPb2g0UnJ3X09kSkUwQzhXbmU2b1NZT2dOR3ZYVUNjSGQ?oc=5"
       }
      ]
     }
@@ -6998,7 +6998,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7086,7 +7086,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7156,10 +7156,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUpNcUZ4UzhZbm9zOU0wMzFiT2RYZEc0aFN4Q1BhZTB0cVdNVTBoMkZEWmRqZGNTOWJ3WDMwbFZuR2RsbE9VaEVkaEhCZktJTVhveGl2c3M4TS15TS0xVjlYb3V2Uk90eGJWSmFlcmw5TklEdDl6VnZ4Y2t1bkpxRUk1ejJzaDFJVlNxeXUtaHdmUjREbGl3QmwtdGlWdzMxTjZMX3NZMDNLaGZTbm1HejV0X1NldjZuNlg0?oc=5"
       },
       {
-       "titulo": "Resumen del Kyrian Jacquet - Tomáš Machác - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Tomas Machac vs Martin Landaluce » Mejores Cuotas y Estadísticas - Odds Scanner",
+       "fuente": "Odds Scanner",
        "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemlTbERIdkxncm1PemI5elNmRkJpejRCVl80Z2QzU19vemR2V3VTdktlOFA0ZFdoZko1RlU4ZE56cWl4aHFsMVdNekdmdC1mbEY3Rjg5ZjBMUmNDbm5hWTJDS1VUVXEyT1FMcVhBOG51bkZtZ3dPUEZFSjlqbDZoS2hKa25xeEtZSHdSNWZRX0t2N1A3ckF0Y2h1U01CeGJWQXFZ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3BjdDBHVFBWWjNJaGZoeFpkX2xTb1hoQ3NmYnNHYm5VMDZMbEFKeDhqcG5ZQ2NPU3REbDhGS01JWlVMQUtOaWtDU0IyTlFXTlBrMU90dDVheVZWZndFR1YxVktoQXFDNThGWEJkdTRYbkU?oc=5"
       }
      ]
     }
@@ -7174,7 +7174,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7262,7 +7262,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -7350,7 +7350,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T08:00+00:00",
+   "actualizado": "2026-11-02T08:05+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -7414,16 +7414,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3UxX1ZLbEE5LUVjNmFnVy1JUVNSdGY4Wl9IODJkQnpfZXN1M2NiX2tCQXdCc09KaXFZUENQZm9ldjVicDRzQzNmVWJZTEx2Y3pJV09EYzFIZ3RwLTBtQWE3TWR1THlQdzQ0aVFIWVhpbUxtUDdEZDNGZVZ3a3IxSHB2UFZRZ1o1ckVWWEhmemtjUF96WmZpdmVXeVdLS055WXdsSFp4c0RXZw?oc=5"
       },
       {
+       "titulo": "Carlos Alcaraz afronta el Masters 1000 de París, donde tiene una cuenta pendiente - La Opinión de Murcia",
+       "fuente": "La Opinión de Murcia",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
+      },
+      {
        "titulo": "Ugo Humbert vs Botic Van De Zandschulp » Mejores Cuotas y Estadísticas - Odds Scanner",
        "fuente": "Odds Scanner",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMk5FUU5pS2t2cmFqaU0xRDlvM1VPLXNOM1ZMXzFoTHhZLWFEUl9OSVBjajhVN1VDSFc1QWtpdzhBWEtVSmlMYTZFc3VXX2NveTQ5SkNlSDlUOHFsMjU4dUx2eUt2czFQbU1rQ0c4dE0wUjdLeFMweFFDcw?oc=5"
-      },
-      {
-       "titulo": "Ugo Humbert - Botic Van De Zandschulp en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjdaWEp5RmtZQmFiRXQyRnBUWWlSekRVeGNoeDZXVFFwcmVMN0FieVdKMlBFN25ETXNuTmJsdXJWYU5sVGgzWS1sQmQ5YnZfbmZPTmg3TEZZZXE0aFNDdlhuQmVwY1F5NlVvVUMyNTBocVhmTjJ3bUlkZHZlSG1sd2V4RFViZ3M1Y00wMkFjcXRHamNUYnhz?oc=5"
       }
      ]
     }
