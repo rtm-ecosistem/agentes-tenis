@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T15:38+00:00",
+ "actualizado": "2026-11-02T16:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,21 +338,21 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.281,
+      "pct": 0.282,
       "motivo": "Lleva 4 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.25,
+      "pct": 0.251,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.196,
+      "pct": 0.195,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.641,
+      "pct": 0.643,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.359,
+      "pct": 0.357,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.64,
+      "pct": 0.641,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.36,
+      "pct": 0.359,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.641,
+      "pct": 0.643,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.359,
+      "pct": 0.357,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,53 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-02T08:00+00:00",
   "partidos": [
-   {
-    "id": "44f0dc12e4fa4b0ef607420fecfd8eb6",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-02T15:40+00:00",
-    "jugadores": [
-     "Alex Molcan",
-     "Titouan Droguet"
-    ],
-    "opciones": [
-     {
-      "id": "44f0dc12e4fa4b0ef607420fecfd8eb6|h2h|Alex Molcan|",
-      "mercado": "h2h",
-      "nombre": "Alex Molcan",
-      "punto": null,
-      "cuota": 1.79,
-      "pinnacle": null
-     },
-     {
-      "id": "44f0dc12e4fa4b0ef607420fecfd8eb6|h2h|Titouan Droguet|",
-      "mercado": "h2h",
-      "nombre": "Titouan Droguet",
-      "punto": null,
-      "cuota": 2.04,
-      "pinnacle": null
-     },
-     {
-      "id": "44f0dc12e4fa4b0ef607420fecfd8eb6|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.9,
-      "pinnacle": null
-     },
-     {
-      "id": "44f0dc12e4fa4b0ef607420fecfd8eb6|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.8,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {}
-   },
    {
     "id": "1a6898d788e3c5c7ecfb78edf5d4e8ab",
     "deporte": "tennis_atp_paris_masters",
@@ -1973,6 +1926,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-02T16:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-02T16:10+00:00",
+   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-02T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2110,16 +2073,6 @@
   {
    "hora": "2026-11-01T13:10+00:00",
    "texto": "📰 Noticias nuevas de Nuno Borges – Alex Molcan: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -6769,7 +6722,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T15:10+00:00",
+   "actualizado": "2026-11-02T16:10+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -6793,6 +6746,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Resumen del Denis Shapovalov - Karen Khachanov - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0NwZ2hWTDRYUDhfWUF1eVpNYzU2S1c4dThvalhvSTJ3VlAyMkoyNlFGaUE1LUE5cU0ta3NUbGtQNHdCaExsSmMtckJBTlZlaHd4aUZxLVB2V3IxVjBSaEZBSWNKQUNrLThJSHhFLUl3bkxaVDhCX0o1eDhWOGliNUVIQ3RBTUR5aEtoemJwekstT3lWM0ZIRjk0enJYUVB3Q2tSbkxuekxZWXY5TVYtc0FtSzRRUzlv?oc=5"
+      },
+      {
        "titulo": "Denis Shapovalov - Karen Khachanov en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -6803,12 +6762,6 @@
        "fuente": "Infobae",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFJyTEFhbEo1MXJ5YXREUDVxQUFTcXVQUVVIWDA2cEw3WUZ3SWpGWG0xMmoxNkJlamR5SlJpUTZaTnI0OENRQXB4ZWJ1eHBfNk1BN3BHUENUd3RMeHZkazBTS3BpZUl3TW82SUh1Vkdyc2NIdEVZNF90VmVEeC03a01yOEcxN3d2UGtN0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
-      },
-      {
-       "titulo": "Zverev, el número uno inesperado - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUElxYjFYMXNEaDlJNnZBaG10bVlxSXR2c1NadU1FWGpHb1k0WkM2WnhROHVra09Yblk4U0pSZ2NzaEZwbDN0SURiM1FGYnhTLU5nUWdMLUxPeGV4SzVPcmViYkhqZ0RMLW5kNTExRHNkWmV3NHp4dVpEc1BmMFFLVjIzSTlOcWY4cE1OOU1tUjF0Uzh3TXZZWEdhbVdjd3k1VVZnUkZB0gGmAUFVX3lxTFBQSXFiMVgxc0RoOUk2dkFobXRtWXFJdHZzU1p1TUVYakdvWTRaQzZaeFE4dWtrT1huWThTSlJnY3NoRnBsM3RJRGIzUUZieFMtTmdRZ0wtTE94ZXhLNU9yZWJiSGpnREwtbmQ1MTFEc2RaZXc0enh1WkRzUGYwUUtWMjNJOU5xZjhwTU45TW1SMXRTOHdNdllYR2FtV2N3eTVVVmdSRkE?oc=5"
       }
      ]
     },
@@ -6827,22 +6780,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "El Jugador ATP Perfecto según Khachanov: lo que se quedaría de Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lNi1NNlhHMzgtRGpzYktXelpzbl9iRTZiU3BaWFYyN1djZzFlQnFrU3FCbE41R1JkRnNnS3AwSWl1YmVKaUpZUFk2YjNpQlM0dnFoSTVkOW52VkQ4aXBfdjBuNklYRFVBNVVqN1d4aC1QX28?oc=5"
+      },
+      {
+       "titulo": "Resumen del Denis Shapovalov - Karen Khachanov - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0NwZ2hWTDRYUDhfWUF1eVpNYzU2S1c4dThvalhvSTJ3VlAyMkoyNlFGaUE1LUE5cU0ta3NUbGtQNHdCaExsSmMtckJBTlZlaHd4aUZxLVB2V3IxVjBSaEZBSWNKQUNrLThJSHhFLUl3bkxaVDhCX0o1eDhWOGliNUVIQ3RBTUR5aEtoemJwekstT3lWM0ZIRjk0enJYUVB3Q2tSbkxuekxZWXY5TVYtc0FtSzRRUzlv?oc=5"
+      },
+      {
        "titulo": "Khachanov's ATP Perfect Player: What Karen would take from Alcaraz - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41a05nODEyUDNGNzhxRE16ajZ0NmN2aW5MVFBlUERjWHp2akxIX0pLSE13TER3WVp5WV9JNnlQaF9sNEV6WWlzSGdxNUZfMjgwTXdsVTlJUFhrNS04VEFXRGNIRmt2YmZSZ2lVVWs0dXE2ZE0?oc=5"
-      },
-      {
-       "titulo": "Denis Shapovalov - Karen Khachanov en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUVlRGRCRFZJYmxHYjdjWG1nWi1XTHN3TnBPLVBMQy1BU01JME11V0pzQXZ3aW5XekdYcnRuWmZQa05QZE5HQVN4Y1hocDA1NmdFcnptaGNydHN2MERlanZGWFE4WXJaUnZZQlpxM2JJazlaRjYzY1ZHZFU4QW1EckxxTVVBdzdfOVpqbWFkZG9GT1U?oc=5"
-      },
-      {
-       "titulo": "Denis Shapovalov vs Karen Khachanov · Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
       }
      ]
     }
@@ -6857,7 +6810,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T15:10+00:00",
+   "actualizado": "2026-11-02T16:10+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
