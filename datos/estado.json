@@ -2616,7 +2616,7 @@
   "betsson": 13026
  },
  "ultima_decision": "2026-11-02",
- "ultima_sala": "2026-11-01-20",
+ "ultima_sala": "2026-11-02-14",
  "noticias_vistas": [
   "f27f5968b4e2",
   "5d1885a816b0",
@@ -7753,7 +7753,7 @@
    "inicio": "2026-11-02T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T12:10+00:00",
+   "actualizado": "2026-11-02T13:01+00:00",
    "elo": 0.612,
    "elo_general": 0.582,
    "elo_en_superficie": 0.641,
@@ -7841,7 +7841,7 @@
    "inicio": "2026-11-02T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T12:10+00:00",
+   "actualizado": "2026-11-02T13:01+00:00",
    "elo": 0.484,
    "elo_general": 0.503,
    "elo_en_superficie": 0.465,
@@ -7865,6 +7865,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Pronóstico Kyrian Jacquet vs Tomas Machac - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWk5bFh5am1mWVlxRkdvR3BrMm1oY1ZKazhjVWlaY2pHY21TV2ViM1laSUtOSm5HYjE0ZG50LURoX1BsU0JCTF9pbUd3OUZHTlJDWGxRUzhNVG5wNFhjYkhlcUM4ZV9Dcll6TVZuUWVlTGU5N2RHZUZITkEzU2FwQzJZeGtLS3plRHhXYg?oc=5"
+      },
+      {
        "titulo": "Kyrian Jacquet - Tomas Machac en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -7875,12 +7881,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFFNUmNqYmxvZHhHZlhqcWxEOXZPbHRQUnBtQy1aZDlJU1hkZnZNRTdpSTFWRlBXVG1WY29vanJhU3NOcVotUmJLc0VJRXIycUlTQjYtRC1xQ3V5aGFaUFVfRWRMSUNVdjY2ZlY2SnpESUstaVlmcU5Qb2ExdWNBSnVEaDRicV83aHFEUzhiUGhteE1ndHNjZ0ZEOA?oc=5"
-      },
-      {
-       "titulo": "Resumen del Kyrian Jacquet - Tomáš Machác - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemlTbERIdkxncm1PemI5elNmRkJpejRCVl80Z2QzU19vemR2V3VTdktlOFA0ZFdoZko1RlU4ZE56cWl4aHFsMVdNekdmdC1mbEY3Rjg5ZjBMUmNDbm5hWTJDS1VUVXEyT1FMcVhBOG51bkZtZ3dPUEZFSjlqbDZoS2hKa25xeEtZSHdSNWZRX0t2N1A3ckF0Y2h1U01CeGJWQXFZ?oc=5"
       }
      ]
     },
@@ -7899,6 +7899,12 @@
      "cansancio": "2 partidos, 4 sets y 37 juegos en 3 días; el último el 2026-11-01 contra Sebastian Baez, ganó 6-2 6-4",
      "noticias": [
       {
+       "titulo": "Pronóstico Kyrian Jacquet vs Tomas Machac - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWk5bFh5am1mWVlxRkdvR3BrMm1oY1ZKazhjVWlaY2pHY21TV2ViM1laSUtOSm5HYjE0ZG50LURoX1BsU0JCTF9pbUd3OUZHTlJDWGxRUzhNVG5wNFhjYkhlcUM4ZV9Dcll6TVZuUWVlTGU5N2RHZUZITkEzU2FwQzJZeGtLS3plRHhXYg?oc=5"
+      },
+      {
        "titulo": "Kyrian Jacquet - Tomas Machac en vivo - ATP Roland Garros 2 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-02",
@@ -7909,12 +7915,6 @@
        "fuente": "La Voz del Interior",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUpNcUZ4UzhZbm9zOU0wMzFiT2RYZEc0aFN4Q1BhZTB0cVdNVTBoMkZEWmRqZGNTOWJ3WDMwbFZuR2RsbE9VaEVkaEhCZktJTVhveGl2c3M4TS15TS0xVjlYb3V2Uk90eGJWSmFlcmw5TklEdDl6VnZ4Y2t1bkpxRUk1ejJzaDFJVlNxeXUtaHdmUjREbGl3QmwtdGlWdzMxTjZMX3NZMDNLaGZTbm1HejV0X1NldjZuNlg0?oc=5"
-      },
-      {
-       "titulo": "Tomas Machac vs Martin Landaluce » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lb3BjdDBHVFBWWjNJaGZoeFpkX2xTb1hoQ3NmYnNHYm5VMDZMbEFKeDhqcG5ZQ2NPU3REbDhGS01JWlVMQUtOaWtDU0IyTlFXTlBrMU90dDVheVZWZndFR1YxVktoQXFDNThGWEJkdTRYbkU?oc=5"
       }
      ]
     }
@@ -7929,7 +7929,7 @@
    "inicio": "2026-11-02T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T12:10+00:00",
+   "actualizado": "2026-11-02T13:01+00:00",
    "elo": 0.74,
    "elo_general": 0.73,
    "elo_en_superficie": 0.75,
@@ -7953,16 +7953,16 @@
      "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-01 contra Nuno Borges, ganó 7-6 6-2",
      "noticias": [
       {
-       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
-      },
-      {
        "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVUzZTRaVFd4UWJYczJIUUdkMjdsd3ZwZGRwNkNuUnNnRmFCcmRYN3pNRm5MV0pGTXgwY002LTNuY3pPbzVsVUZwMkJQVGlJdGJKTTdrYUFhdXN5VDVyUTNPenh1bzdHRTNrWWFwajRJT3V4RFdHLTU1ZDdEUjYwaC1qMk0?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
       },
       {
        "titulo": "Alex Molcan vs Daniel Altmaier » Mejores Cuotas y Estadísticas - Odds Scanner",
@@ -7987,22 +7987,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Pronóstico Alex Molcan vs Titouan Droguet - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "titulo": "Pronóstico Brandon Nakashima vs Matteo Berrettini - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUldXVHRWZVlTUUdJMzhwN3hhVnY5QktEYmhaTXFQeWlkaGhIUzZZWi1zQmswWEx0c2lSeFAwb0tTTEZicFlXcGV2dzJwOXM5RTVlYVd5ekZXcTk0ZEkycnNiVm55NFlGRE5FVGc2X0dMVFlyeFplTDlCRFpEZWZRazBxS214UnJMQWxRXw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUF0c1JpR2RJNzd5RjRwd2xqMzN2T1dwUlBKZGk3OTFUeU9lbzhnUW5fTmJXQ2dGTGRhLUZRVnJNWlBzNEVqZURhV2dSVGV1MjdQZTZoS3I2aVp2a0k2eUZ5ckdOdENuajNqYmlBc3RsMEZrakVRQVQySjlvRllnS0ZZeDVhTGhkVERLNGhoQkxnclcyMHJN?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Alex Michelsen vs Jiri Lehecka - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNySzNEcmt0d3lWMDdpaE0xRTZTWF9STGEwbTVtVHo4UTlOdENNWHRyaGlMM0tTTmRCZ1FEaDM0U3dtTHhsUkhoNENGZzNoNkdtd3docjhyRlNrb19Qa1BpbE9aZW5EM0FXbVJNWVd6WGcxVU5nV1VNV0lPRW8wLVpXbmhia3BtWS1QZA?oc=5"
       },
       {
        "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
-      },
-      {
-       "titulo": "Alex Molcan vs Titouan Droguet: Exact Match Score - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVUzZTRaVFd4UWJYczJIUUdkMjdsd3ZwZGRwNkNuUnNnRmFCcmRYN3pNRm5MV0pGTXgwY002LTNuY3pPbzVsVUZwMkJQVGlJdGJKTTdrYUFhdXN5VDVyUTNPenh1bzdHRTNrWWFwajRJT3V4RFdHLTU1ZDdEUjYwaC1qMk0?oc=5"
       }
      ]
     }
@@ -8017,7 +8017,7 @@
    "inicio": "2026-11-02T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T12:10+00:00",
+   "actualizado": "2026-11-02T13:01+00:00",
    "elo": 0.5,
    "elo_general": 0.476,
    "elo_en_superficie": 0.524,
@@ -8087,10 +8087,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlRJVjNPMnkzaHo4SksxVzQzNVFkV0F1Ni0xLVhlWHpOdUZ5OEE1TVUxcE40WVloYmNfajNwRjNSdDVyNkJvc0ZFd2loekRsRUdqLUlFQkswa2dESnpHbnhadlBuR0tad3h5dGNEX2xkbXpadUJGZW9sczk1ZTZ5ZUJjSFFWa1ZwdUZ1bUZxTGxxSGRPSjNNUzdoZG1mem1MdXl3?oc=5"
       },
       {
-       "titulo": "Carlos Alcaraz conquista el Torneo ATP 500 de Viena; vence en dos sets a Alex de Miñaur - XEVT",
-       "fuente": "XEVT",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3FwcjlFZGtiUzQxa2tST05UaG5kYzRtamRKUURvSTFhOWtXWmlWSld3Qng1MGpZcFo1R0oxRnpDSzd3clo3WFhLLUw2NGFheWR2MjgwUHR3Vlh0VXY4Z285ZDg0LXFkaGt4VDdhQmhISmxFdHprd0JNQUdBZkNHdFJvVTY3NTNDYVhqU1VaR25idWNQdTdhQW8wOVVKN25HTWl0RWN2MFNGd2tJNkc3Y3kyRW9yRFZJelBUN050X2E?oc=5"
+       "titulo": "Pronóstico Denis Shapovalov vs Karen Khachanov - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN0VBcmVTdmg1dFp3b0ZRYnRUWHVOQ0J2cDd6ZFNaVFl4VmE0US1Ra3l5cGhPdzIxUWFvVHdLa3JscUFuWHpNRUJsSzRHMGdzV29sMTd5Zm5fWlhrTnozNW00bVpYWDYxaEp0bXo2eDVqZ0c2SnZDb0EyZEVJTWRMV0RxS1FRYmt6TE1RdV9ibU9Ka1E?oc=5"
       }
      ]
     }
@@ -8105,7 +8105,7 @@
    "inicio": "2026-11-02T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-02T12:10+00:00",
+   "actualizado": "2026-11-02T13:01+00:00",
    "elo": 0.414,
    "elo_general": 0.416,
    "elo_en_superficie": 0.412,
@@ -8129,6 +8129,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Pronóstico Ugo Humbert vs Botic Van De Zandschulp - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGJTVkZERFhwVHZZeG1KWWR2RDVwYXZULTZYVUpGWV9KVXZSWE51amU5ZVZrOGxSclEzUWNFT1ZmMmY1MTNGYmZZU000MWZCanB1UnUwMkxqOVVqbnItSXBjRkEtYWRLNlM4aXEtTVRQSEdzNEg5Wkctckg2dFdLcUxpU3BVTTNPbUE2cWNabk5rc0FSeDV3?oc=5"
+      },
+      {
        "titulo": "Ugo Humbert vs Botic van de Zandschulp · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
@@ -8139,12 +8145,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-01",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZ1Unlzenl4cVNXYlkyUWNyYWdNN3BmTm9vb0xIdXFKelV2c3AwSVNpYkZOb1hxdmpfekkwbExmZ3pzMnA3ajZvM0NXdnZOc2FvQ1dMalRfa0Fua1c3M3liZzR1cXRyc3F4c0UyOWkwVDJHWHlGOE1HcU1Eb2pSUWZkcm9rX1c3eUp3?oc=5"
-      },
-      {
-       "titulo": "¿Cuál es la programación de París? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
       }
      ]
     },
@@ -8169,16 +8169,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRjZKemlHU2EtSHdlTU5LNEJuZVYwLUoyNndBUkhjNzVoM0xPVWluNmpNa21xNlpwTGhOcUllTVE4c2lkTy1fQXh3SzNCX0F2bW1UWGNkSkZBRXhaV2h0VFNzX0dlaThmUHhLbi1CdW9yNUpaLUhrbnFhVE0zckl3emVDN1hyMXc2SkduaHQ1WmJIakpwMEstaWJMQ095dlFtb2NwUzk1SE0zNENQREJwdDRqRWlHWFBtWFExdDF0Zlk5dHMtd2FaYmN5VXEzNG5UN1BCQXJ0LWlUemhGcGRsSDhUam1tOUxIVks3UEZ0VkVodFpjNmJFZ1FOWUw?oc=5"
       },
       {
+       "titulo": "Pronóstico Ugo Humbert vs Botic Van De Zandschulp - Cuota & Estadística - 2 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGJTVkZERFhwVHZZeG1KWWR2RDVwYXZULTZYVUpGWV9KVXZSWE51amU5ZVZrOGxSclEzUWNFT1ZmMmY1MTNGYmZZU000MWZCanB1UnUwMkxqOVVqbnItSXBjRkEtYWRLNlM4aXEtTVRQSEdzNEg5Wkctckg2dFdLcUxpU3BVTTNPbUE2cWNabk5rc0FSeDV3?oc=5"
+      },
+      {
        "titulo": "Ugo Humbert vs Botic van de Zandschulp · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3UxX1ZLbEE5LUVjNmFnVy1JUVNSdGY4Wl9IODJkQnpfZXN1M2NiX2tCQXdCc09KaXFZUENQZm9ldjVicDRzQzNmVWJZTEx2Y3pJV09EYzFIZ3RwLTBtQWE3TWR1THlQdzQ0aVFIWVhpbUxtUDdEZDNGZVZ3a3IxSHB2UFZRZ1o1ckVWWEhmemtjUF96WmZpdmVXeVdLS055WXdsSFp4c0RXZw?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz afronta el Masters 1000 de París, donde tiene una cuenta pendiente - La Opinión de Murcia",
-       "fuente": "La Opinión de Murcia",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkprWUkwNGZhQjdsakV5cmZPbUtnMktQNjZtRWdFclNiVEh2SnA4MUxxRG9VRFhYeGhaSHBpTFlqRzZVckI5dzQtSUZoV1N2RmtQeTRUelRkM0Q1V2RURzNVblRfZTd3QmY2S19qY2xEaGZFcDFGa05QOXZ0QS1KUmsxNHhRRGYzWEM5YjJjRzlWZVpzN2l2TEFLN2tndnF2Nm9TM0t0eUE2MnfSAasBQVVfeXFMTjZKa1lJMDRmYUI3bGpFeXJmT21LZzJLUDY2bUVnRXJTYlRIdkpwODFMcURvVURYWHhoWkhwaUxZakc2VXJCOXc0LUlGaFdTdkZrUHk0VHpUZDNENVdkVEczVW5UX2U3d0JmNktfamNsRGhmRXAxRmtOUDl2dEEtSlJrMTR4UURmM1hDOWIyY0c5VmVaczdpdkxBSzdrZ3ZxdjZvUzNLdHlBNjJ3?oc=5"
       }
      ]
     }
