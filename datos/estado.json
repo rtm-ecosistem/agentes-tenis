@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.1,
+     "envidia": 0.099,
      "sorpresa": 0.4,
-     "impaciencia": 0.238,
+     "impaciencia": 0.237,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T11:10+00:00",
+    "hora": "2026-11-03T11:34+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.189,
+     "impaciencia": 0.188,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T11:10+00:00",
+    "hora": "2026-11-03T11:34+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.113,
+     "impaciencia": 0.112,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T11:10+00:00",
+    "hora": "2026-11-03T11:34+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.189,
+     "impaciencia": 0.188,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T11:10+00:00",
+    "hora": "2026-11-03T11:34+00:00",
     "rent": 0.0
    }
   }
@@ -2621,10 +2621,12 @@
   "6a2e2d46c697",
   "dc4bd8543ed0",
   "39b1a3c765c7",
+  "dab5d4dab327",
   "b480d3f3db68",
   "cbc541478913",
   "7ea93319cdbc",
   "1c06f9e84cb0",
+  "8652941ce95c",
   "95ce65485b89",
   "e601ad50d4f2",
   "b4503a43c6b8",
@@ -2634,9 +2636,11 @@
   "5bdfd70de76e",
   "3c80ec786890",
   "b22f973cabd4",
+  "6cab07e97be2",
   "f53bea84910c",
   "3691f9861c70",
   "be76cd031d37",
+  "35232302408b",
   "e88260e0914c",
   "7023045f24a4",
   "c204c403eb2a",
@@ -2688,8 +2692,9 @@
   "775c03ae92f6",
   "f0b83dec0ad3",
   "e367ed0211ae",
-  "7cb3aba4b810",
   "ac2f72307ab6",
+  "2cdf87a702df",
+  "7cb3aba4b810",
   "a9f29ce5381e",
   "913fcb92357c",
   "12aa34e5d9ee",
@@ -2706,6 +2711,7 @@
   "460ccff03825",
   "7e13f4367535",
   "5f1b026de0df",
+  "a4a6f791688a",
   "f7423a59f331",
   "a790883ad7e1",
   "0adef1de813c",
@@ -2759,7 +2765,6 @@
   "29799eb20c6f",
   "d4230a22cd72",
   "be8b1f2d238c",
-  "edcd658003b5",
   "9ccb76ec55d0",
   "e9e1f4ef7a63",
   "a37cbc9cd903",
@@ -2860,6 +2865,7 @@
   "5f7eba22e5bb",
   "3ed94688ecc7",
   "62a05b93f564",
+  "edcd658003b5",
   "0d3d20e8a70e",
   "b11924babe33",
   "2db08a5b9e00",
@@ -2879,6 +2885,8 @@
   "e420ba945aad",
   "028bf23edd6d",
   "929b97f151d9",
+  "ed1b8b3aeb26",
+  "b69b7f4c9394",
   "e39eb28eda06",
   "b8f3afee10f0",
   "80be0f3bd43f",
@@ -3293,7 +3301,6 @@
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "e108ecb41ba5",
-  "a4a6f791688a",
   "de9f52f160ac",
   "1d4c3eb82d7c",
   "0590d5ffa2e2",
@@ -3410,14 +3417,7 @@
   "a7a0859f7339",
   "7e7da61a13a3",
   "a9abe20dc1bc",
-  "e2a9888485ba",
-  "6cf29a939abb",
-  "7d68120f8d4f",
-  "a5374856dd8e",
-  "3bafe41c1c43",
-  "473feaf85815",
-  "290a37f14753",
-  "6fc058804ba7"
+  "e2a9888485ba"
  ],
  "sala_aciertos": {
   "favorito": [
