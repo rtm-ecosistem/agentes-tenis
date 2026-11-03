@@ -239054,6 +239054,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Oleksandra Oliynykova",
+    "Talia Gibson"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
