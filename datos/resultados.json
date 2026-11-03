@@ -239687,6 +239687,90 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Holger Rune",
+    "Tommy Paul"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Mai Hontama",
+    "Mananchaya Sawangkaew"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maayan Laron",
+    "Justina Mikulskyte"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ana Sofia Sanchez",
+    "Li Zongyu"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
