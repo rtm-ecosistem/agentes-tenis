@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T17:10+00:00",
+ "actualizado": "2026-11-03T17:35+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14634,19 +14634,18 @@
    "nombre": "Aliona Falei",
    "circuito": "WTA",
    "elo": {
-    "all": 1617.1,
-    "hard": 1623.9,
+    "all": 1575.4,
+    "hard": 1575.7,
     "clay": 1497.2,
     "grass": 1500.0
    },
    "n": {
-    "all": 20,
-    "hard": 17,
+    "all": 21,
+    "hard": 18,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-24 P hard vs Elena Pridankina",
     "2026-09-21 P hard vs Tian Fangran",
     "2026-09-29 G hard vs Tyra Caterina Grant",
     "2026-10-01 G hard vs Kristiana Sidorova",
@@ -14655,7 +14654,8 @@
     "2026-10-06 G hard vs Guo Hanyu",
     "2026-10-09 P hard vs Rebecca Sramkova",
     "2026-10-31 G hard vs Ekaterina Yashina",
-    "2026-11-01 G hard vs Rada Zolotareva"
+    "2026-11-01 G hard vs Rada Zolotareva",
+    "2026-11-03 P hard vs Magda Linette"
    ]
   },
   "yuhan|w": {
@@ -17800,20 +17800,21 @@
    "nombre": "Maaya Rajeshwaran Revathi",
    "circuito": "WTA",
    "elo": {
-    "all": 1410.8,
-    "hard": 1410.8,
+    "all": 1498.1,
+    "hard": 1503.5,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2025-10-29 P hard vs Shrivalli Bhamidipaty",
-    "2026-02-03 P hard vs Lanlana Tararudee"
+    "2026-02-03 P hard vs Lanlana Tararudee",
+    "2026-11-03 G hard vs Katarzyna Kawa"
    ]
   },
   "hunter|s": {
@@ -17932,19 +17933,18 @@
    "nombre": "Katarzyna Kawa",
    "circuito": "WTA",
    "elo": {
-    "all": 1611.8,
-    "hard": 1660.5,
+    "all": 1574.1,
+    "hard": 1616.9,
     "clay": 1463.4,
     "grass": 1569.6
    },
    "n": {
-    "all": 52,
-    "hard": 41,
+    "all": 53,
+    "hard": 42,
     "clay": 8,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-12 P hard vs Eva Lys",
     "2026-08-24 P hard vs Ekaterine Gorgodze",
     "2026-09-08 P hard vs Eva Bennemann",
     "2026-09-14 P hard vs Maria Garcia Cid",
@@ -17953,7 +17953,8 @@
     "2026-09-30 P hard vs Daria Snigur",
     "2026-10-20 G hard vs Daria Snigur",
     "2026-10-22 G hard vs Belinda Bencic",
-    "2026-10-23 P hard vs Elena Rybakina"
+    "2026-10-23 P hard vs Elena Rybakina",
+    "2026-11-03 P hard vs Maaya Rajeshwaran Revathi"
    ]
   },
   "bronzetti|l": {
@@ -18916,19 +18917,18 @@
    "nombre": "Renata Zarazua",
    "circuito": "WTA",
    "elo": {
-    "all": 1537.6,
-    "hard": 1500.2,
+    "all": 1548.1,
+    "hard": 1513.8,
     "clay": 1470.9,
     "grass": 1451.2
    },
    "n": {
-    "all": 52,
-    "hard": 40,
+    "all": 53,
+    "hard": 41,
     "clay": 5,
     "grass": 7
    },
    "ultimos": [
-    "2026-08-11 P hard vs Yuan Yue",
     "2026-08-25 P hard vs Clara Tauson",
     "2026-08-30 P hard vs Polina Iatcenko",
     "2026-09-14 P hard vs Caroline Dolehide",
@@ -18937,7 +18937,8 @@
     "2026-10-02 P hard vs Aryna Sabalenka",
     "2026-10-06 G hard vs Shi Han",
     "2026-10-09 G hard vs Katarina Zavatska",
-    "2026-10-10 P hard vs Rebecca Sramkova"
+    "2026-10-10 P hard vs Rebecca Sramkova",
+    "2026-11-03 G hard vs Katrina Scott"
    ]
   },
   "inoue|h": {
@@ -22806,19 +22807,18 @@
    "nombre": "Magda Linette",
    "circuito": "ATP",
    "elo": {
-    "all": 1544.3,
-    "hard": 1505.4,
+    "all": 1576.1,
+    "hard": 1542.2,
     "clay": 1568.5,
     "grass": 1422.8
    },
    "n": {
-    "all": 44,
-    "hard": 38,
+    "all": 45,
+    "hard": 39,
     "clay": 5,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-05 P hard vs Iva Jovic",
     "2026-08-13 P hard vs Elena-Gabriela Ruse",
     "2026-09-02 P hard vs Francesca Jones",
     "2026-09-21 P hard vs Darya Astakhova",
@@ -22827,7 +22827,8 @@
     "2026-10-20 G hard vs Claire Liu",
     "2026-10-22 P hard vs Katerina Siniakova",
     "2026-10-27 G hard vs Anastasia Zakharova",
-    "2026-10-29 P hard vs Lilli Tagger"
+    "2026-10-29 P hard vs Lilli Tagger",
+    "2026-11-03 G hard vs Aliona Falei"
    ]
   },
   "williams|v": {
@@ -27249,19 +27250,18 @@
    "nombre": "Katrina Scott",
    "circuito": "WTA",
    "elo": {
-    "all": 1309.4,
-    "hard": 1309.9,
+    "all": 1291.9,
+    "hard": 1289.2,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 11,
-    "hard": 11,
+    "all": 12,
+    "hard": 12,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-21 P hard vs Varvara Lepchenko",
     "2026-07-08 P hard vs Mary Stoiana",
     "2026-07-25 G hard vs Sabastiani Leon",
     "2026-07-27 P hard vs Ellie Schoppe",
@@ -27270,7 +27270,8 @@
     "2026-09-12 G hard vs Alexandra Panova",
     "2026-09-13 P hard vs Carole Monnet",
     "2026-10-27 P hard vs Tamara Zidansek",
-    "2026-11-01 P hard vs Maria Herazo Gonzalez"
+    "2026-11-01 P hard vs Maria Herazo Gonzalez",
+    "2026-11-03 P hard vs Renata Zarazua"
    ]
   },
   "frey|a": {
@@ -91716,7 +91717,19 @@
   "sofia sanchez|a~zongyu|l": [
    0,
    1
+  ],
+  "falei|a~linette|m": [
+   0,
+   1
+  ],
+  "kawa|k~rajeshwaran revathi|m": [
+   0,
+   1
+  ],
+  "scott|k~zarazua|r": [
+   0,
+   1
   ]
  },
- "propios": 10585
+ "propios": 10588
 }
