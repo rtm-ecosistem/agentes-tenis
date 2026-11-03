@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T13:10+00:00",
+ "actualizado": "2026-11-03T13:53+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.304,
+      "pct": 0.305,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.27,
+      "pct": 0.271,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,14 +359,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.157,
+      "pct": 0.156,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.066,
+      "pct": 0.065,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.711,
+      "pct": 0.713,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.289,
+      "pct": 0.287,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.712,
+      "pct": 0.714,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.288,
+      "pct": 0.286,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.711,
+      "pct": 0.713,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.289,
+      "pct": 0.287,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "1ead1ee3704640aea824a5759ad1cc28",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T13:30+00:00",
-    "jugadores": [
-     "Novak Djokovic",
-     "Valentin Vacherot"
-    ],
-    "opciones": [
-     {
-      "id": "1ead1ee3704640aea824a5759ad1cc28|h2h|Novak Djokovic|",
-      "mercado": "h2h",
-      "nombre": "Novak Djokovic",
-      "punto": null,
-      "cuota": 1.44,
-      "pinnacle": 1.47
-     },
-     {
-      "id": "1ead1ee3704640aea824a5759ad1cc28|h2h|Valentin Vacherot|",
-      "mercado": "h2h",
-      "nombre": "Valentin Vacherot",
-      "punto": null,
-      "cuota": 2.8,
-      "pinnacle": 2.89
-     },
-     {
-      "id": "1ead1ee3704640aea824a5759ad1cc28|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.91,
-      "pinnacle": 1.96
-     },
-     {
-      "id": "1ead1ee3704640aea824a5759ad1cc28|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.8,
-      "pinnacle": 1.91
-     }
-    ],
-    "pinnacle_h2h": {
-     "Novak Djokovic": 1.47,
-     "Valentin Vacherot": 2.89
-    }
-   },
    {
     "id": "766892f0324922ef7aab73a2713af3c2",
     "deporte": "tennis_atp_paris_masters",
