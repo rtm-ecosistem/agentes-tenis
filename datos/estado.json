@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.09,
+     "envidia": 0.089,
      "sorpresa": 0.4,
-     "impaciencia": 0.214,
+     "impaciencia": 0.213,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T19:10+00:00",
+    "hora": "2026-11-03T19:35+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.166,
+     "impaciencia": 0.165,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T19:10+00:00",
+    "hora": "2026-11-03T19:35+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.1,
+     "impaciencia": 0.099,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T19:10+00:00",
+    "hora": "2026-11-03T19:35+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.166,
+     "impaciencia": 0.165,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T19:10+00:00",
+    "hora": "2026-11-03T19:35+00:00",
     "rent": 0.0
    }
   }
@@ -9331,9 +9331,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 39,
-  "ganadas": 30,
-  "unidades": 5.45,
+  "apuestas": 40,
+  "ganadas": 31,
+  "unidades": 5.82,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -9370,18 +9370,6 @@
     "seleccion": "Arthur Gea",
     "punto": null,
     "cuota": 1.77
-   },
-   {
-    "partido": "158872469ece00415aefaa0eaecab4f0",
-    "jugadores": [
-     "Ben Shelton",
-     "Cameron Norrie"
-    ],
-    "inicio": "2026-11-03T18:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Ben Shelton",
-    "punto": null,
-    "cuota": 1.37
    },
    {
     "partido": "42bb4ea6113cbbd3effbb4904bf80c9b",
@@ -9439,7 +9427,8 @@
    "18d9ea3abcfe85f9ae47dc0433ac57c7",
    "2fe52476d7d37d8230ca007cdf25c34c",
    "766892f0324922ef7aab73a2713af3c2",
-   "dcf8effd6f985422ab07f5c909334937"
+   "dcf8effd6f985422ab07f5c909334937",
+   "158872469ece00415aefaa0eaecab4f0"
   ]
  },
  "mercados_casas": {

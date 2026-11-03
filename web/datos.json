@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T19:10+00:00",
+ "actualizado": "2026-11-03T19:35+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.309,
+      "pct": 0.31,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
@@ -352,7 +352,7 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.206,
+      "pct": 0.207,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
@@ -366,7 +366,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.062,
+      "pct": 0.061,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.731,
+      "pct": 0.732,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.269,
+      "pct": 0.268,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.73,
+      "pct": 0.732,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.27,
+      "pct": 0.268,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.731,
+      "pct": 0.732,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.269,
+      "pct": 0.268,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1019,58 +1019,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
-  "partidos": [
-   {
-    "id": "42bb4ea6113cbbd3effbb4904bf80c9b",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T19:30+00:00",
-    "jugadores": [
-     "Casper Ruud",
-     "Rafael Jodar"
-    ],
-    "opciones": [
-     {
-      "id": "42bb4ea6113cbbd3effbb4904bf80c9b|h2h|Casper Ruud|",
-      "mercado": "h2h",
-      "nombre": "Casper Ruud",
-      "punto": null,
-      "cuota": 2.55,
-      "pinnacle": 2.54
-     },
-     {
-      "id": "42bb4ea6113cbbd3effbb4904bf80c9b|h2h|Rafael Jodar|",
-      "mercado": "h2h",
-      "nombre": "Rafael Jodar",
-      "punto": null,
-      "cuota": 1.51,
-      "pinnacle": 1.56
-     },
-     {
-      "id": "42bb4ea6113cbbd3effbb4904bf80c9b|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.84,
-      "pinnacle": 1.95
-     },
-     {
-      "id": "42bb4ea6113cbbd3effbb4904bf80c9b|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.86,
-      "pinnacle": 1.89
-     }
-    ],
-    "pinnacle_h2h": {
-     "Casper Ruud": 2.54,
-     "Rafael Jodar": 1.56
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
@@ -2094,9 +2043,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 39,
-  "aciertos": 0.7692307692307693,
-  "yield": 0.13974358974358975
+  "apuestas": 40,
+  "aciertos": 0.775,
+  "yield": 0.14550000000000002
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
