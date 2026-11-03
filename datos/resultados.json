@@ -240131,6 +240131,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Despina Papamichail",
+    "Maria Lourdes Carle"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
   }
  ]
 }
