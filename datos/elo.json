@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T00:10+00:00",
+ "actualizado": "2026-11-03T07:55+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17095,19 +17095,18 @@
    "nombre": "Panna Udvardy",
    "circuito": "WTA",
    "elo": {
-    "all": 1536.9,
-    "hard": 1533.7,
+    "all": 1521.9,
+    "hard": 1517.8,
     "clay": 1565.6,
     "grass": 1357.0
    },
    "n": {
-    "all": 65,
-    "hard": 52,
+    "all": 66,
+    "hard": 53,
     "clay": 10,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-13 P hard vs Cristina Bucsa",
     "2026-08-22 G hard vs Emiliana Arango",
     "2026-08-23 P hard vs Darja Vidmanova",
     "2026-08-25 G hard vs Maya Joint",
@@ -17116,7 +17115,8 @@
     "2026-09-13 G hard vs Lois Boisson",
     "2026-09-15 P hard vs Cristina Bucsa",
     "2026-10-01 P hard vs Gao Xinyu",
-    "2026-10-26 P hard vs Sinja Kraus"
+    "2026-10-26 P hard vs Sinja Kraus",
+    "2026-11-03 P hard vs Robin Montgomery"
    ]
   },
   "lee|g": {
@@ -17748,19 +17748,18 @@
    "nombre": "Joanna Garland",
    "circuito": "WTA",
    "elo": {
-    "all": 1620.3,
-    "hard": 1659.4,
+    "all": 1657.7,
+    "hard": 1692.6,
     "clay": 1434.3,
     "grass": 1462.5
    },
    "n": {
-    "all": 27,
-    "hard": 23,
+    "all": 28,
+    "hard": 24,
     "clay": 1,
     "grass": 3
    },
    "ultimos": [
-    "2026-06-24 P grass vs Tyra Caterina Grant",
     "2026-08-25 G hard vs Leyre Romero Gormaz",
     "2026-08-26 G hard vs Priscilla Hon",
     "2026-08-28 P hard vs Francesca Jones",
@@ -17769,7 +17768,8 @@
     "2026-09-21 G hard vs Storm Hunter",
     "2026-09-24 P hard vs Wang Xinyu",
     "2026-10-24 G hard vs Maddison Inglis",
-    "2026-10-25 P hard vs Tatiana Prozorova"
+    "2026-10-25 P hard vs Tatiana Prozorova",
+    "2026-11-03 G hard vs Jil Teichmann"
    ]
   },
   "bhamidipaty|s": {
@@ -18095,19 +18095,18 @@
    "nombre": "Zeynep Sonmez",
    "circuito": "WTA",
    "elo": {
-    "all": 1653.7,
-    "hard": 1639.9,
+    "all": 1676.0,
+    "hard": 1663.5,
     "clay": 1506.7,
     "grass": 1617.9
    },
    "n": {
-    "all": 62,
-    "hard": 48,
+    "all": 63,
+    "hard": 49,
     "clay": 4,
     "grass": 10
    },
    "ultimos": [
-    "2026-09-14 G hard vs Iryna Shymanovich",
     "2026-09-16 P hard vs Iva Jovic",
     "2026-09-30 P hard vs Maddison Inglis",
     "2026-10-10 G hard vs Anastasia Zakharova",
@@ -18116,7 +18115,8 @@
     "2026-10-20 G hard vs Maya Joint",
     "2026-10-22 P hard vs Ann Li",
     "2026-10-27 G hard vs Sara Sorribes Tormo",
-    "2026-10-29 P hard vs Jil Teichmann"
+    "2026-10-29 P hard vs Jil Teichmann",
+    "2026-11-03 G hard vs Dayana Yastremska"
    ]
   },
   "prozorova|t": {
@@ -20256,19 +20256,18 @@
    "nombre": "Teodora Kostovic",
    "circuito": "WTA",
    "elo": {
-    "all": 1605.9,
-    "hard": 1601.9,
+    "all": 1574.8,
+    "hard": 1568.9,
     "clay": 1397.9,
     "grass": 1615.5
    },
    "n": {
-    "all": 47,
-    "hard": 39,
+    "all": 48,
+    "hard": 40,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-25 G hard vs Tian Fangran",
     "2026-09-26 G hard vs Polina Iatcenko",
     "2026-09-27 P hard vs Berfu Cengiz",
     "2026-09-30 G hard vs Dalma Galfi",
@@ -20277,7 +20276,8 @@
     "2026-10-15 P hard vs Martyna Kubka",
     "2026-10-24 G hard vs Qu Yihan",
     "2026-10-25 G hard vs Anastasia Zakharova",
-    "2026-10-26 P hard vs Maria Timofeeva"
+    "2026-10-26 P hard vs Maria Timofeeva",
+    "2026-11-03 P hard vs Oksana Selekhmeteva"
    ]
   },
   "kudermetova|p": {
@@ -21473,19 +21473,18 @@
    "nombre": "Oksana Selekhmeteva",
    "circuito": "ATP",
    "elo": {
-    "all": 1532.4,
-    "hard": 1531.6,
+    "all": 1562.2,
+    "hard": 1564.0,
     "clay": 1532.0,
     "grass": 1496.5
    },
    "n": {
-    "all": 53,
-    "hard": 41,
+    "all": 54,
+    "hard": 42,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-15 P hard vs Nastasja Schunk",
     "2026-09-21 G hard vs Federica Urgesi",
     "2026-09-24 G hard vs Samira De Stefano",
     "2026-09-25 G hard vs Ekaterine Gorgodze",
@@ -21494,7 +21493,8 @@
     "2026-10-07 P hard vs Fiona Crawley",
     "2026-10-13 P hard vs Lea Boskovic",
     "2026-10-27 G hard vs Adrienn Nagy",
-    "2026-10-28 P hard vs Elizara Yaneva"
+    "2026-10-28 P hard vs Elizara Yaneva",
+    "2026-11-03 G hard vs Teodora Kostovic"
    ]
   },
   "hon|p": {
@@ -22576,19 +22576,18 @@
    "nombre": "Dayana Yastremska",
    "circuito": "ATP",
    "elo": {
-    "all": 1638.6,
-    "hard": 1613.2,
+    "all": 1613.8,
+    "hard": 1586.2,
     "clay": 1667.4,
     "grass": 1493.8
    },
    "n": {
-    "all": 46,
-    "hard": 33,
+    "all": 47,
+    "hard": 34,
     "clay": 9,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-30 G hard vs Catherine McNally",
     "2026-10-02 G hard vs Maja Chwalinska",
     "2026-10-04 P hard vs Sinja Kraus",
     "2026-10-13 G hard vs Cristina Bucsa",
@@ -22597,7 +22596,8 @@
     "2026-10-24 G hard vs You Xiaodi",
     "2026-10-25 G hard vs Emerson Jones",
     "2026-10-27 G hard vs Katie Volynets",
-    "2026-10-28 P hard vs Shi Han"
+    "2026-10-28 P hard vs Shi Han",
+    "2026-11-03 P hard vs Zeynep Sonmez"
    ]
   },
   "frech|m": {
@@ -29042,19 +29042,18 @@
    "nombre": "Robin Montgomery",
    "circuito": "WTA",
    "elo": {
-    "all": 1660.2,
-    "hard": 1664.8,
+    "all": 1679.9,
+    "hard": 1685.9,
     "clay": 1418.5,
     "grass": 1588.1
    },
    "n": {
-    "all": 31,
-    "hard": 23,
+    "all": 32,
+    "hard": 24,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-13 P hard vs Lilli Tagger",
     "2026-08-24 G hard vs Kayla Cross",
     "2026-08-26 G hard vs Jeline Vandromme",
     "2026-08-27 G hard vs Carson Branstine",
@@ -29063,7 +29062,8 @@
     "2026-09-28 G hard vs Aran Teixido Garcia",
     "2026-09-29 G hard vs Anna-Lena Friedsam",
     "2026-10-01 P hard vs Katie Volynets",
-    "2026-10-28 P hard vs Lisa Pigato"
+    "2026-10-28 P hard vs Lisa Pigato",
+    "2026-11-03 G hard vs Panna Udvardy"
    ]
   },
   "corte|c": {
@@ -29482,19 +29482,18 @@
    "nombre": "Jil Teichmann",
    "circuito": "WTA",
    "elo": {
-    "all": 1690.6,
-    "hard": 1662.0,
+    "all": 1652.6,
+    "hard": 1627.2,
     "clay": 1638.7,
     "grass": 1531.6
    },
    "n": {
-    "all": 26,
-    "hard": 20,
+    "all": 27,
+    "hard": 21,
     "clay": 4,
     "grass": 2
    },
    "ultimos": [
-    "2026-06-17 G hard vs Barbora Palicova",
     "2026-06-19 P hard vs Darja Vidmanova",
     "2026-06-23 G grass vs Rebeka Masarova",
     "2026-06-24 P grass vs Bianca Andreescu",
@@ -29503,7 +29502,8 @@
     "2026-10-16 P hard vs Lucie Havlickova",
     "2026-10-27 G hard vs Simona Waltert",
     "2026-10-29 G hard vs Zeynep Sonmez",
-    "2026-10-30 P hard vs Kaitlin Quevedo"
+    "2026-10-30 P hard vs Kaitlin Quevedo",
+    "2026-11-03 P hard vs Joanna Garland"
    ]
   },
   "johanna brockmann|t": {
@@ -91524,7 +91524,23 @@
   "janicijevic|s~sierra|s": [
    0,
    1
+  ],
+  "sonmez|z~yastremska|d": [
+   1,
+   0
+  ],
+  "kostovic|t~selekhmeteva|o": [
+   0,
+   1
+  ],
+  "garland|j~teichmann|j": [
+   1,
+   0
+  ],
+  "montgomery|r~udvardy|p": [
+   1,
+   0
   ]
  },
- "propios": 10548
+ "propios": 10552
 }
