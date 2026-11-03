@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T15:27+00:00",
+ "actualizado": "2026-11-03T16:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.306,
+      "pct": 0.307,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.272,
+      "pct": 0.273,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,14 +359,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.153,
+      "pct": 0.152,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.065,
+      "pct": 0.064,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.719,
+      "pct": 0.721,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.281,
+      "pct": 0.279,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.718,
+      "pct": 0.72,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.282,
+      "pct": 0.28,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.719,
+      "pct": 0.721,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.281,
+      "pct": 0.279,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "232e9e6ce004ffcdda5130a7f432eb15",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T15:40+00:00",
-    "jugadores": [
-     "Jan-Lennard Struff",
-     "Arthur Gea"
-    ],
-    "opciones": [
-     {
-      "id": "232e9e6ce004ffcdda5130a7f432eb15|h2h|Arthur Gea|",
-      "mercado": "h2h",
-      "nombre": "Arthur Gea",
-      "punto": null,
-      "cuota": 1.77,
-      "pinnacle": 1.85
-     },
-     {
-      "id": "232e9e6ce004ffcdda5130a7f432eb15|h2h|Jan-Lennard Struff|",
-      "mercado": "h2h",
-      "nombre": "Jan-Lennard Struff",
-      "punto": null,
-      "cuota": 2.07,
-      "pinnacle": 2.04
-     },
-     {
-      "id": "232e9e6ce004ffcdda5130a7f432eb15|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.91,
-      "pinnacle": 1.94
-     },
-     {
-      "id": "232e9e6ce004ffcdda5130a7f432eb15|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.8,
-      "pinnacle": 1.93
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Gea": 1.85,
-     "Jan-Lennard Struff": 2.04
-    }
-   },
    {
     "id": "158872469ece00415aefaa0eaecab4f0",
     "deporte": "tennis_atp_paris_masters",
@@ -1976,6 +1926,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-03T16:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T16:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-03T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2114,16 +2074,6 @@
    "hora": "2026-11-02T13:52+00:00",
    "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Kyrian Jacquet – Tomas Machac, Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-03",
@@ -2194,9 +2144,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 35,
-  "aciertos": 0.8,
-  "yield": 0.19342857142857142
+  "apuestas": 36,
+  "aciertos": 0.7777777777777778,
+  "yield": 0.16027777777777777
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -7916,7 +7866,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T15:10+00:00",
+   "actualizado": "2026-11-03T16:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -8004,7 +7954,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T15:10+00:00",
+   "actualizado": "2026-11-03T16:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -8028,6 +7978,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Juan Manuel Cerundolo, ganó 6-3 6-2",
      "noticias": [
       {
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSdIB3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh5?oc=5"
+      },
+      {
        "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-03",
@@ -8038,12 +7994,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNjkwU01VUkh4UzQzeU5HUzhUVkF3MVc0aWd6RUc5SWVZWDZFZ25OazVRWFd5c0NjS0NJR2Jab2lSTTd0aU0xb1UydnFhRnNhbEF1TWhPRVBNOF82d0NnSk5scldMNzM1UEFRdFluNjdCUDJLbkVV0gF3QVVfeXFMTjg5RzBycThIbUZwQmtCWnpWOUZiNy0xc1pZZkRSakVqSTVyRXZmS1lzVXBiMXNVbzVIV19TaGNhWGR4dVV2cmpDXzNWdkNjU2hzQUJTWFlwRlhQalM5UWphZkhjdlJhWFBBZEtQa2pFWDlZckVleHM?oc=5"
-      },
-      {
-       "titulo": "Jódar vs Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
       }
      ]
     },
@@ -8062,22 +8012,22 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSdIB3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh5?oc=5"
+      },
+      {
        "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxBdVU2LVlHU09aejhzdDVxZ1JvNXJxMUVxZGZfRGpvaTNvMFppcWRkNURlVGUwanVpZkR4VTJRU2hUWGhvM0k2U0NtZGFNU1JLRm41a1hYeTlXaFVUWFR3VDVHeHkxcUZQQkhsSjllTi1OSGRZSHZ5cDZpQTl0TWhYNk53MWgzbUZlZDRXMm1WeUJNTUJrUVhTNGlYdkRHbU1ZQjNiVEpVaS1pTFhWN0d5cDNLTlA5X1VwaTAyR3RfUXN1MW5MS0ZR0gHeAUFVX3lxTE1oU0xYeWVoU0JiTkRyd0txVWpWaXVSVkRScXMxT2d2MHBvUmV2TzBucmxqWFJzR293UVFDaDBLSWZQNGNrdnp0MUhoVEYzLS1fRy1wMFFkc2JQZEFvbzV5a0pDVEhabUNaZWFXY3RaVjNyaTJQeFpESEo1NEJXWnhaWjVSMU1FRU5ERGJGaFJZcHpFWXVBMjlSR1FOXzg0YVNTUU9HWjM0cDVEWVRRdVZMeDRZQ0dzV2hSQUVDWkhhVlJfOXE3a1hYTWMwZGQ4UzNzUEg1NHJBcG1fYW9RZw?oc=5"
       },
       {
-       "titulo": "Rafa Jódar (20 años): \"Entrar por primera vez en el top 10 significa mucho para mí. También demuestra que estoy haciendo las cosas bien, pero quiero más. Quiero ser mejor jugador\" - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Wc2F0cEYwWHNWWlNfdFNyYlFjdnd1MmJKVzNmekdPOU1kS0FlR215Y1F0YVlSYnlGemhkWl90RXJZNmhJaU9KMU53TXJ0YUZJa0EyMkxMVHg3R2VIeHRCYktudEpsSEhkSWZYUUhNRGpUdm1QMmQ1NElFWVBjNmvSAX9BVV95cUxNcmNHaFNyNkNQNFVyc0JCYnd2VTI0YlB4UFYxQzBlRUQzeTYwT0s0VXprWjhHV0xSRmticHBXZWxKUmFYOVEySm15aFh4WHZ6eWp0cGstd1BtYUxfdFRtNEMtMEFqLWF6RVBwYXpMdkZfa2N3V0lOVGZ6NTZYLUJF?oc=5"
-      },
-      {
-       "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
+       "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFNMWHllaFNCYk5EcndLcVVqVml1UlZEUnFzMU9ndjBwb1Jldk8wbnJsalhSc0dvd1FRQ2gwS0lmUDRja3Z6dDFIaFRGMy0tX0ctcDBRZHNiUGRBb281eWtKQ1RIWm1DWmVhV2N0WlYzcmkyUHhaREhKNTRCV1p4Wlo1UjFNRUVORERiRmhSWXB6RVl1QTI5UkdRTl84NGFTU1FPR1ozNHA1RFlUUXVWTHg0WUNHc1doUkFFQ1pIYVZSXzlxN2tYWE1jMGRkOFMzc1BINTRyQXBtX2FvUWfSAd4BQVVfeXFMTWhTTFh5ZWhTQmJORHJ3S3FValZpdVJWRFJxczFPZ3YwcG9SZXZPMG5ybGpYUnNHb3dRUUNoMEtJZlA0Y2t2enQxSGhURjMtLV9HLXAwUWRzYlBkQW9vNXlrSkNUSFptQ1plYVdjdFpWM3JpMlB4WkRISjU0QldaeFpaNVIxTUVFTkREYkZoUllwekVZdUEyOVJHUU5fODRhU1NRT0daMzRwNURZVFF1Vkx4NFlDR3NXaFJBRUNaSGFWUl85cTdrWFhNYzBkZDhTM3NQSDU0ckFwbV9hb1Fn?oc=5"
       }
      ]
     }
