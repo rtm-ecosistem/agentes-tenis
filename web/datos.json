@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T15:10+00:00",
+ "actualizado": "2026-11-03T15:27+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.154,
+      "pct": 0.153,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.718,
+      "pct": 0.719,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.282,
+      "pct": 0.281,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.718,
+      "pct": 0.719,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.282,
+      "pct": 0.281,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
