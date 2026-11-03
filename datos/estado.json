@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.121,
+     "envidia": 0.12,
      "sorpresa": 0.4,
-     "impaciencia": 0.282,
+     "impaciencia": 0.279,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T23:22+00:00",
+    "hora": "2026-11-03T00:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.224,
+     "impaciencia": 0.221,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T23:22+00:00",
+    "hora": "2026-11-03T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.136,
+     "impaciencia": 0.134,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T23:22+00:00",
+    "hora": "2026-11-03T00:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.224,
+     "impaciencia": 0.221,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-02T23:22+00:00",
+    "hora": "2026-11-03T00:10+00:00",
     "rent": 0.0
    }
   }
@@ -8187,9 +8187,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 32,
-  "ganadas": 26,
-  "unidades": 6.57,
+  "apuestas": 33,
+  "ganadas": 27,
+  "unidades": 7.14,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -8202,18 +8202,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "85efb20e93a6ca08964f6239e9956dae",
-    "jugadores": [
-     "Ugo Humbert",
-     "Botic van de Zandschulp"
-    ],
-    "inicio": "2026-11-02T19:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Ugo Humbert",
-    "punto": null,
-    "cuota": 1.57
    }
   ],
   "vistos": [
@@ -8250,7 +8238,8 @@
    "a916463c001545483b340777daefd7c6",
    "b363b01046ccc43cdfcc7e7f4e42d735",
    "44f0dc12e4fa4b0ef607420fecfd8eb6",
-   "1a6898d788e3c5c7ecfb78edf5d4e8ab"
+   "1a6898d788e3c5c7ecfb78edf5d4e8ab",
+   "85efb20e93a6ca08964f6239e9956dae"
   ]
  },
  "mercados_casas": {
