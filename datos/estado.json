@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.096,
+     "envidia": 0.095,
      "sorpresa": 0.4,
-     "impaciencia": 0.229,
+     "impaciencia": 0.226,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T14:10+00:00",
+    "hora": "2026-11-03T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.18,
+     "impaciencia": 0.177,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T14:10+00:00",
+    "hora": "2026-11-03T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.108,
+     "impaciencia": 0.106,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T14:10+00:00",
+    "hora": "2026-11-03T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.18,
+     "impaciencia": 0.177,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T14:10+00:00",
+    "hora": "2026-11-03T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T15:10+00:00",
-   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,12 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-03-14",
  "noticias_vistas": [
+  "32dae8d7b861",
+  "5afa02238af7",
+  "57c2ea32d7d0",
+  "1c268468b18d",
+  "d4d0732332d3",
+  "65883fefad38",
   "3144a3400034",
   "5326c930885a",
   "a03eec7c4120",
@@ -2631,10 +2637,9 @@
   "1b17f2265957",
   "cb685bab2578",
   "a434e636a100",
-  "58e90da51572",
   "c8a3c4768ca8",
   "094168271ff1",
-  "74d7c8bd6a23",
+  "a1034f9393d2",
   "082259a3f9f2",
   "802dfdfdbd99",
   "aaaf4351234c",
@@ -2657,7 +2662,6 @@
   "35cc9152c41b",
   "5f14a8991916",
   "016f5dee67d6",
-  "8eb105c3436e",
   "7b430ebec032",
   "294baf1d645f",
   "6a2e2d46c697",
@@ -2684,6 +2688,8 @@
   "f53bea84910c",
   "3efc6f233b7e",
   "fa78dcce0476",
+  "338912faad9c",
+  "8eb105c3436e",
   "3691f9861c70",
   "91dcee354d8f",
   "be76cd031d37",
@@ -2693,7 +2699,6 @@
   "83a23725e913",
   "7023045f24a4",
   "bbc2e7c9e553",
-  "c204c403eb2a",
   "43505a4ec96c",
   "86c7ab82d901",
   "02d3f77196e0",
@@ -2703,6 +2708,7 @@
   "61cd07f3fc6f",
   "1ff8555cb9a5",
   "5b4e6c845616",
+  "9f279b3b00c8",
   "c9caec0de3eb",
   "9461547a334e",
   "6af6b99e6bf0",
@@ -2735,14 +2741,15 @@
   "c5482f336264",
   "9578a77a594c",
   "a3bb85fd7a52",
+  "cbe448d1dc07",
   "559bd326ffb8",
   "913fcb92357c",
+  "74d7c8bd6a23",
   "12aa34e5d9ee",
   "8b8ce5730ba0",
   "1f3b9e13a506",
   "db3d6d3534bc",
   "dd19e694656d",
-  "66383fa40448",
   "fe72e8fc636f",
   "706d321200fe",
   "95ce65485b89",
@@ -2758,6 +2765,7 @@
   "a790883ad7e1",
   "0adef1de813c",
   "254cfbdac14f",
+  "92efff17efc2",
   "f3e9f8c45a77",
   "a4c68a9101a4",
   "f16f98cb53dd",
@@ -2843,6 +2851,7 @@
   "e59ffee1a301",
   "4ee8c2a09773",
   "1d7bd0f28d8d",
+  "c204c403eb2a",
   "30353a25d73c",
   "bf946ccb22c5",
   "4716ad370ce0",
@@ -2899,7 +2908,6 @@
   "70447f48c923",
   "b5acb41a8b92",
   "1e2edcdd6de3",
-  "338912faad9c",
   "9689d61bdf2f",
   "6d9a991c700e",
   "ea048f30c055",
@@ -2999,12 +3007,13 @@
   "697d933e5e96",
   "8c742e042872",
   "3c6e581cce81",
-  "92efff17efc2",
   "e31b6984e0c4",
   "25cea0b2b29c",
+  "66383fa40448",
   "9a93980fc076",
   "a1a65873c35b",
   "ce1f93145146",
+  "46fc8796beb7",
   "36f69c4679cf",
   "dd524f882d52",
   "5e007eaceb4a",
@@ -3219,6 +3228,7 @@
   "ac181684bbb4",
   "8b1ca933c78a",
   "ac3085e96676",
+  "4bddb50240c7",
   "e2df86e50623",
   "5e2a73317688",
   "aaa503b0ea8a",
@@ -3295,6 +3305,7 @@
   "cce7547734f4",
   "3add524cda68",
   "bd33bda44fb9",
+  "58e90da51572",
   "3e38e450c7eb",
   "a2714c7bf237",
   "aa6d7658ce18",
@@ -3365,6 +3376,9 @@
   "52cb85b81455",
   "161dfee0cd3c",
   "3112e31c3833",
+  "128b5ff38185",
+  "2bf95d225d17",
+  "18a9ec4e6c54",
   "de9f52f160ac",
   "1d4c3eb82d7c",
   "0590d5ffa2e2",
@@ -3403,21 +3417,7 @@
   "07d641cd570b",
   "194c76cca05b",
   "e755badd4e23",
-  "2dc60422bb72",
-  "bad9b6194331",
-  "800fe4df8726",
-  "0a5e8263ca7b",
-  "2aa767a370b0",
-  "90381dc10358",
-  "5aaefed6f880",
-  "477d52a6319d",
-  "a127f485558b",
-  "c6eef0ec3ac5",
-  "c6c0c253486c",
-  "3076c8b08a93",
-  "a7451ccbf0e1",
-  "7d1887b7aad6",
-  "bcd53e36c732"
+  "2dc60422bb72"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T14:10+00:00",
+   "actualizado": "2026-11-03T15:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T14:10+00:00",
+   "actualizado": "2026-11-03T15:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9307,6 +9307,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxBdVU2LVlHU09aejhzdDVxZ1JvNXJxMUVxZGZfRGpvaTNvMFppcWRkNURlVGUwanVpZkR4VTJRU2hUWGhvM0k2U0NtZGFNU1JLRm41a1hYeTlXaFVUWFR3VDVHeHkxcUZQQkhsSjllTi1OSGRZSHZ5cDZpQTl0TWhYNk53MWgzbUZlZDRXMm1WeUJNTUJrUVhTNGlYdkRHbU1ZQjNiVEpVaS1pTFhWN0d5cDNLTlA5X1VwaTAyR3RfUXN1MW5MS0ZR0gHeAUFVX3lxTE1oU0xYeWVoU0JiTkRyd0txVWpWaXVSVkRScXMxT2d2MHBvUmV2TzBucmxqWFJzR293UVFDaDBLSWZQNGNrdnp0MUhoVEYzLS1fRy1wMFFkc2JQZEFvbzV5a0pDVEhabUNaZWFXY3RaVjNyaTJQeFpESEo1NEJXWnhaWjVSMU1FRU5ERGJGaFJZcHpFWXVBMjlSR1FOXzg0YVNTUU9HWjM0cDVEWVRRdVZMeDRZQ0dzV2hSQUVDWkhhVlJfOXE3a1hYTWMwZGQ4UzNzUEg1NHJBcG1fYW9RZw?oc=5"
+      },
+      {
        "titulo": "Rafa Jódar (20 años): \"Entrar por primera vez en el top 10 significa mucho para mí. También demuestra que estoy haciendo las cosas bien, pero quiero más. Quiero ser mejor jugador\" - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-03",
@@ -9317,12 +9323,6 @@
        "fuente": "La Razón",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
-      },
-      {
-       "titulo": "Rafa Jódar vs Casper Ruud: horario y dónde ver hoy por TV el Masters 1000 de Paris - El Mundo",
-       "fuente": "El Mundo",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNjkwU01VUkh4UzQzeU5HUzhUVkF3MVc0aWd6RUc5SWVZWDZFZ25OazVRWFd5c0NjS0NJR2Jab2lSTTd0aU0xb1UydnFhRnNhbEF1TWhPRVBNOF82d0NnSk5scldMNzM1UEFRdFluNjdCUDJLbkVV0gF3QVVfeXFMTjg5RzBycThIbUZwQmtCWnpWOUZiNy0xc1pZZkRSakVqSTVyRXZmS1lzVXBiMXNVbzVIV19TaGNhWGR4dVV2cmpDXzNWdkNjU2hzQUJTWFlwRlhQalM5UWphZkhjdlJhWFBBZEtQa2pFWDlZckVleHM?oc=5"
       }
      ]
     }
@@ -9382,18 +9382,6 @@
     "seleccion": "Tommy Paul",
     "punto": null,
     "cuota": 1.45
-   },
-   {
-    "partido": "1ead1ee3704640aea824a5759ad1cc28",
-    "jugadores": [
-     "Novak Djokovic",
-     "Valentin Vacherot"
-    ],
-    "inicio": "2026-11-03T13:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Novak Djokovic",
-    "punto": null,
-    "cuota": 1.44
    },
    {
     "partido": "766892f0324922ef7aab73a2713af3c2",
@@ -9494,7 +9482,8 @@
    "85efb20e93a6ca08964f6239e9956dae",
    "90da92cf3a7e75dbd2eb358af0340fa8",
    "db55f6491d2491e31599e3af63c11471",
-   "d25fdbba0ee28a3bbfa27a1b7bf0310b"
+   "d25fdbba0ee28a3bbfa27a1b7bf0310b",
+   "1ead1ee3704640aea824a5759ad1cc28"
   ]
  },
  "mercados_casas": {

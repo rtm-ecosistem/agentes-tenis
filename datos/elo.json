@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T13:53+00:00",
+ "actualizado": "2026-11-03T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -15161,14 +15161,14 @@
    "nombre": "Vaishnavi Adkar",
    "circuito": "WTA",
    "elo": {
-    "all": 1419.9,
-    "hard": 1419.9,
+    "all": 1469.8,
+    "hard": 1473.8,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 4,
-    "hard": 4,
+    "all": 5,
+    "hard": 5,
     "clay": 0,
     "grass": 0
    },
@@ -15176,7 +15176,8 @@
     "2025-10-25 G hard vs Amina Anshba",
     "2025-10-26 P hard vs Astrid Lew Yan Foon",
     "2025-10-29 P hard vs Donna Vekic",
-    "2026-02-03 P hard vs Lilli Tagger"
+    "2026-02-03 P hard vs Lilli Tagger",
+    "2026-11-03 G hard vs Jodie Burrage"
    ]
   },
   "anshba|a": {
@@ -20357,19 +20358,18 @@
    "nombre": "Linda Klimovicova",
    "circuito": "WTA",
    "elo": {
-    "all": 1432.4,
-    "hard": 1507.9,
+    "all": 1407.7,
+    "hard": 1475.2,
     "clay": 1349.4,
     "grass": 1383.7
    },
    "n": {
-    "all": 27,
-    "hard": 23,
+    "all": 28,
+    "hard": 24,
     "clay": 2,
     "grass": 2
    },
    "ultimos": [
-    "2026-06-08 P hard vs Sinja Kraus",
     "2026-06-23 P grass vs Lulu Sun",
     "2026-08-04 P clay vs Elizara Yaneva",
     "2026-08-24 G hard vs Lisa Pigato",
@@ -20378,7 +20378,8 @@
     "2026-10-08 P hard vs Simona Waltert",
     "2026-10-12 P hard vs Lucie Havlickova",
     "2026-10-27 G hard vs Gaia Maduzzi",
-    "2026-10-28 P hard vs Noma Noha Akugue"
+    "2026-10-28 P hard vs Noma Noha Akugue",
+    "2026-11-03 P hard vs Gina Feistel"
    ]
   },
   "ruzic|a": {
@@ -21105,19 +21106,18 @@
    "nombre": "Lucrezia Stefanini",
    "circuito": "WTA",
    "elo": {
-    "all": 1662.2,
-    "hard": 1651.0,
+    "all": 1679.1,
+    "hard": 1669.5,
     "clay": 1496.2,
     "grass": 1504.6
    },
    "n": {
-    "all": 52,
-    "hard": 47,
+    "all": 53,
+    "hard": 48,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-10-06 G hard vs Carole Monnet",
     "2026-10-07 G hard vs Noma Noha Akugue",
     "2026-10-09 G hard vs Polina Iatcenko",
     "2026-10-10 G hard vs Anna Blinkova",
@@ -21126,7 +21126,8 @@
     "2026-10-14 G hard vs Harmony Tan",
     "2026-10-16 P hard vs Bianca Andreescu",
     "2026-10-27 G hard vs Isabella Maria Serban",
-    "2026-10-29 P hard vs Ayla Aksu"
+    "2026-10-29 P hard vs Ayla Aksu",
+    "2026-11-03 G hard vs Rada Zolotareva"
    ]
   },
   "jodar|r": {
@@ -27573,19 +27574,18 @@
    "nombre": "Gina Feistel",
    "circuito": "WTA",
    "elo": {
-    "all": 1505.5,
-    "hard": 1510.2,
+    "all": 1539.1,
+    "hard": 1552.2,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 10,
-    "hard": 10,
+    "all": 11,
+    "hard": 11,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-21 P hard vs Rebeka Masarova",
     "2026-07-12 G hard vs Diletta Cherubini",
     "2026-07-13 G hard vs Julia Avdeeva",
     "2026-07-16 G hard vs Laura Samson",
@@ -27594,7 +27594,8 @@
     "2026-09-14 P hard vs Barbora Palicova",
     "2026-10-11 G hard vs Elina Nepliy",
     "2026-10-12 G hard vs Tena Lukas",
-    "2026-10-13 P hard vs Guiomar Maristany Zuleta De Reales"
+    "2026-10-13 P hard vs Guiomar Maristany Zuleta De Reales",
+    "2026-11-03 G hard vs Linda Klimovicova"
    ]
   },
   "elle valdez|n": {
@@ -29814,14 +29815,14 @@
    "nombre": "Rada Zolotareva",
    "circuito": "WTA",
    "elo": {
-    "all": 1547.2,
-    "hard": 1551.0,
+    "all": 1516.7,
+    "hard": 1518.7,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 8,
-    "hard": 8,
+    "all": 9,
+    "hard": 9,
     "clay": 0,
     "grass": 0
    },
@@ -29833,7 +29834,8 @@
     "2026-05-01 P hard vs Guo Hanyu",
     "2026-09-06 G hard vs Aneta Laboutkova",
     "2026-09-07 P hard vs Ipek Oz",
-    "2026-11-01 P hard vs Aliona Falei"
+    "2026-11-01 P hard vs Aliona Falei",
+    "2026-11-03 P hard vs Lucrezia Stefanini"
    ]
   },
   "qiu yu|y": {
@@ -30085,14 +30087,14 @@
    "nombre": "Ksenia Zaytseva",
    "circuito": "WTA",
    "elo": {
-    "all": 1529.5,
-    "hard": 1524.4,
+    "all": 1570.5,
+    "hard": 1566.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 8,
-    "hard": 8,
+    "all": 9,
+    "hard": 9,
     "clay": 0,
     "grass": 0
    },
@@ -30104,7 +30106,8 @@
     "2026-09-23 G hard vs Elena Pridankina",
     "2026-09-25 P hard vs Polina Iatcenko",
     "2026-09-28 G hard vs Tamara Zidansek",
-    "2026-09-29 P hard vs Storm Hunter"
+    "2026-09-29 P hard vs Storm Hunter",
+    "2026-11-03 G hard vs Jian Ibrahim"
    ]
   },
   "inisan|e": {
@@ -31653,14 +31656,14 @@
    "nombre": "Jodie Burrage",
    "circuito": "WTA",
    "elo": {
-    "all": 1406.1,
-    "hard": 1433.4,
+    "all": 1358.3,
+    "hard": 1379.5,
     "clay": 1500.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 5,
-    "hard": 4,
+    "all": 6,
+    "hard": 5,
     "clay": 0,
     "grass": 1
    },
@@ -31669,7 +31672,8 @@
     "2026-06-07 P hard vs Anna Blinkova",
     "2026-08-25 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-09-28 G hard vs Rebecca Sramkova",
-    "2026-09-29 P hard vs Mai Hontama"
+    "2026-09-29 P hard vs Mai Hontama",
+    "2026-11-03 P hard vs Vaishnavi Adkar"
    ]
   },
   "bolkvadze|m": {
@@ -38841,6 +38845,25 @@
    },
    "ultimos": [
     "2026-11-03 P hard vs Sofya Lansere"
+   ]
+  },
+  "ibrahim|j": {
+   "nombre": "Jian Ibrahim",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1439.9,
+    "hard": 1438.9,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-03 P hard vs Ksenia Zaytseva"
    ]
   }
  },
@@ -91640,7 +91663,23 @@
   "bohner|l~sawant|m": [
    0,
    1
+  ],
+  "adkar|v~burrage|j": [
+   1,
+   0
+  ],
+  "stefanini|l~zolotareva|r": [
+   1,
+   0
+  ],
+  "feistel|g~klimovicova|l": [
+   1,
+   0
+  ],
+  "ibrahim|j~zaytseva|k": [
+   0,
+   1
   ]
  },
- "propios": 10574
+ "propios": 10580
 }

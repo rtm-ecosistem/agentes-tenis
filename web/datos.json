@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T14:10+00:00",
+ "actualizado": "2026-11-03T15:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,28 +338,28 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.305,
+      "pct": 0.306,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.271,
+      "pct": 0.272,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.203,
+      "pct": 0.204,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.155,
+      "pct": 0.154,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.714,
+      "pct": 0.718,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.286,
+      "pct": 0.282,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.714,
+      "pct": 0.718,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.286,
+      "pct": 0.282,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.714,
+      "pct": 0.718,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.286,
+      "pct": 0.282,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "dcf8effd6f985422ab07f5c909334937",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T14:30+00:00",
-    "jugadores": [
-     "Benjamin Bonzi",
-     "Taylor Fritz"
-    ],
-    "opciones": [
-     {
-      "id": "dcf8effd6f985422ab07f5c909334937|h2h|Benjamin Bonzi|",
-      "mercado": "h2h",
-      "nombre": "Benjamin Bonzi",
-      "punto": null,
-      "cuota": 4.2,
-      "pinnacle": 4.32
-     },
-     {
-      "id": "dcf8effd6f985422ab07f5c909334937|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 1.23,
-      "pinnacle": 1.25
-     },
-     {
-      "id": "dcf8effd6f985422ab07f5c909334937|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.77,
-      "pinnacle": null
-     },
-     {
-      "id": "dcf8effd6f985422ab07f5c909334937|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.94,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Benjamin Bonzi": 4.32,
-     "Taylor Fritz": 1.25
-    }
-   },
    {
     "id": "232e9e6ce004ffcdda5130a7f432eb15",
     "deporte": "tennis_atp_paris_masters",
@@ -2026,6 +1976,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-03T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-03T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2163,16 +2123,6 @@
   {
    "hora": "2026-11-02T13:10+00:00",
    "texto": "📰 Noticias nuevas de Kyrian Jacquet – Tomas Machac, Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -7966,7 +7916,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T14:10+00:00",
+   "actualizado": "2026-11-03T15:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -8054,7 +8004,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T14:10+00:00",
+   "actualizado": "2026-11-03T15:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -8112,6 +8062,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxBdVU2LVlHU09aejhzdDVxZ1JvNXJxMUVxZGZfRGpvaTNvMFppcWRkNURlVGUwanVpZkR4VTJRU2hUWGhvM0k2U0NtZGFNU1JLRm41a1hYeTlXaFVUWFR3VDVHeHkxcUZQQkhsSjllTi1OSGRZSHZ5cDZpQTl0TWhYNk53MWgzbUZlZDRXMm1WeUJNTUJrUVhTNGlYdkRHbU1ZQjNiVEpVaS1pTFhWN0d5cDNLTlA5X1VwaTAyR3RfUXN1MW5MS0ZR0gHeAUFVX3lxTE1oU0xYeWVoU0JiTkRyd0txVWpWaXVSVkRScXMxT2d2MHBvUmV2TzBucmxqWFJzR293UVFDaDBLSWZQNGNrdnp0MUhoVEYzLS1fRy1wMFFkc2JQZEFvbzV5a0pDVEhabUNaZWFXY3RaVjNyaTJQeFpESEo1NEJXWnhaWjVSMU1FRU5ERGJGaFJZcHpFWXVBMjlSR1FOXzg0YVNTUU9HWjM0cDVEWVRRdVZMeDRZQ0dzV2hSQUVDWkhhVlJfOXE3a1hYTWMwZGQ4UzNzUEg1NHJBcG1fYW9RZw?oc=5"
+      },
+      {
        "titulo": "Rafa Jódar (20 años): \"Entrar por primera vez en el top 10 significa mucho para mí. También demuestra que estoy haciendo las cosas bien, pero quiero más. Quiero ser mejor jugador\" - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-03",
@@ -8122,12 +8078,6 @@
        "fuente": "La Razón",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
-      },
-      {
-       "titulo": "Rafa Jódar vs Casper Ruud: horario y dónde ver hoy por TV el Masters 1000 de Paris - El Mundo",
-       "fuente": "El Mundo",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNjkwU01VUkh4UzQzeU5HUzhUVkF3MVc0aWd6RUc5SWVZWDZFZ25OazVRWFd5c0NjS0NJR2Jab2lSTTd0aU0xb1UydnFhRnNhbEF1TWhPRVBNOF82d0NnSk5scldMNzM1UEFRdFluNjdCUDJLbkVV0gF3QVVfeXFMTjg5RzBycThIbUZwQmtCWnpWOUZiNy0xc1pZZkRSakVqSTVyRXZmS1lzVXBiMXNVbzVIV19TaGNhWGR4dVV2cmpDXzNWdkNjU2hzQUJTWFlwRlhQalM5UWphZkhjdlJhWFBBZEtQa2pFWDlZckVleHM?oc=5"
       }
      ]
     }

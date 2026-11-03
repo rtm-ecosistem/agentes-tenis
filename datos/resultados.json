@@ -239532,6 +239532,136 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Valentin Vacherot",
+    "Novak Djokovic"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Paula Badosa",
+    "Elena Pridankina"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Vaishnavi Adkar",
+    "Jodie Burrage"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucrezia Stefanini",
+    "Rada Zolotareva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Linda Klimovicova",
+    "Gina Feistel"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Ksenia Zaytseva",
+    "Jian Ibrahim"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
