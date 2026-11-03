@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.087,
      "sorpresa": 0.4,
-     "impaciencia": 0.208,
+     "impaciencia": 0.207,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T21:10+00:00",
+    "hora": "2026-11-03T21:25+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.162,
+     "impaciencia": 0.161,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T21:10+00:00",
+    "hora": "2026-11-03T21:25+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T21:10+00:00",
+    "hora": "2026-11-03T21:25+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.162,
+     "impaciencia": 0.161,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T21:10+00:00",
+    "hora": "2026-11-03T21:25+00:00",
     "rent": 0.0
    }
   }
@@ -9331,9 +9331,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 41,
+  "apuestas": 42,
   "ganadas": 31,
-  "unidades": 4.82,
+  "unidades": 3.82,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -9358,18 +9358,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "42bb4ea6113cbbd3effbb4904bf80c9b",
-    "jugadores": [
-     "Casper Ruud",
-     "Rafael Jodar"
-    ],
-    "inicio": "2026-11-03T19:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Rafael Jodar",
-    "punto": null,
-    "cuota": 1.51
    }
   ],
   "vistos": [
@@ -9417,7 +9405,8 @@
    "766892f0324922ef7aab73a2713af3c2",
    "dcf8effd6f985422ab07f5c909334937",
    "158872469ece00415aefaa0eaecab4f0",
-   "232e9e6ce004ffcdda5130a7f432eb15"
+   "232e9e6ce004ffcdda5130a7f432eb15",
+   "42bb4ea6113cbbd3effbb4904bf80c9b"
   ]
  },
  "mercados_casas": {

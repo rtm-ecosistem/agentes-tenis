@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T21:10+00:00",
+ "actualizado": "2026-11-03T21:25+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -897,19 +897,18 @@
    "nombre": "Casper Ruud",
    "circuito": "ATP",
    "elo": {
-    "all": 1791.4,
-    "hard": 1765.2,
+    "all": 1810.8,
+    "hard": 1788.5,
     "clay": 1822.3,
     "grass": 1465.8
    },
    "n": {
-    "all": 181,
-    "hard": 113,
+    "all": 182,
+    "hard": 114,
     "clay": 65,
     "grass": 3
    },
    "ultimos": [
-    "2026-07-17 P clay vs Juan Manuel Cerundolo",
     "2026-08-05 G hard vs Juan Manuel Cerundolo",
     "2026-08-07 P hard vs Joao Fonseca",
     "2026-10-01 P hard vs Luciano Darderi",
@@ -918,7 +917,8 @@
     "2026-10-16 P hard vs Rafael Jodar",
     "2026-10-26 G hard vs Dominic Stricker",
     "2026-10-28 P hard vs Nuno Borges",
-    "2026-11-02 G hard vs Juan Manuel Cerundolo"
+    "2026-11-02 G hard vs Juan Manuel Cerundolo",
+    "2026-11-03 G hard vs Rafael Jodar"
    ]
   },
   "griekspoor|t": {
@@ -21137,19 +21137,18 @@
    "nombre": "Rafael Jodar",
    "circuito": "ATP",
    "elo": {
-    "all": 1881.2,
-    "hard": 1857.7,
+    "all": 1853.8,
+    "hard": 1827.3,
     "clay": 1825.4,
     "grass": 1554.0
    },
    "n": {
-    "all": 73,
-    "hard": 56,
+    "all": 74,
+    "hard": 57,
     "clay": 14,
     "grass": 3
    },
    "ultimos": [
-    "2026-10-01 P hard vs Adolfo Daniel Vallejo",
     "2026-10-10 G hard vs Thiago Agustin Tirante",
     "2026-10-12 G hard vs Jiri Lehecka",
     "2026-10-14 G hard vs Botic van de Zandschulp",
@@ -21158,7 +21157,8 @@
     "2026-10-18 P hard vs Alejandro Davidovich Fokina",
     "2026-10-27 G hard vs Alejandro Tabilo",
     "2026-10-29 P hard vs Valentin Vacherot",
-    "2026-11-02 G hard vs Alejandro Tabilo"
+    "2026-11-02 G hard vs Alejandro Tabilo",
+    "2026-11-03 P hard vs Casper Ruud"
    ]
   },
   "das|a": {
@@ -89877,7 +89877,7 @@
   ],
   "jodar|r~ruud|c": [
    1,
-   0
+   1
   ],
   "ostapenko|j~shnaider|d": [
    1,
@@ -91784,5 +91784,5 @@
    0
   ]
  },
- "propios": 10600
+ "propios": 10601
 }
