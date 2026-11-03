@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T17:35+00:00",
+ "actualizado": "2026-11-03T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16850,19 +16850,18 @@
    "nombre": "Anna Blinkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1705.8,
-    "hard": 1702.2,
+    "all": 1716.1,
+    "hard": 1713.4,
     "clay": 1360.6,
     "grass": 1531.3
    },
    "n": {
-    "all": 72,
-    "hard": 59,
+    "all": 73,
+    "hard": 60,
     "clay": 6,
     "grass": 7
    },
    "ultimos": [
-    "2026-09-30 G hard vs Viktoria Hruncakova",
     "2026-10-01 P hard vs Lois Boisson",
     "2026-10-07 G hard vs Elena Pridankina",
     "2026-10-08 G hard vs Caroline Werner",
@@ -16871,7 +16870,8 @@
     "2026-10-27 G hard vs Dalma Galfi",
     "2026-10-29 G hard vs Katarina Zavatska",
     "2026-10-30 G hard vs Martyna Kubka",
-    "2026-10-31 P hard vs Noma Noha Akugue"
+    "2026-10-31 P hard vs Noma Noha Akugue",
+    "2026-11-03 G hard vs Farah Heddar"
    ]
   },
   "golubic|v": {
@@ -38886,6 +38886,25 @@
    },
    "ultimos": [
     "2026-11-03 P hard vs Justina Mikulskyte"
+   ]
+  },
+  "heddar|f": {
+   "nombre": "Farah Heddar",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1469.2,
+    "hard": 1468.7,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-03 P hard vs Anna Blinkova"
    ]
   }
  },
@@ -91729,7 +91748,11 @@
   "scott|k~zarazua|r": [
    0,
    1
+  ],
+  "blinkova|a~heddar|f": [
+   1,
+   0
   ]
  },
- "propios": 10588
+ "propios": 10589
 }

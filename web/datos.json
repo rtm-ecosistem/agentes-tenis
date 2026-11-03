@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T17:35+00:00",
+ "actualizado": "2026-11-03T18:11+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.308,
+      "pct": 0.309,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
@@ -352,21 +352,21 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.205,
+      "pct": 0.206,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.15,
+      "pct": 0.149,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.063,
+      "pct": 0.062,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.726,
+      "pct": 0.728,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.274,
+      "pct": 0.272,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.726,
+      "pct": 0.728,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.274,
+      "pct": 0.272,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.726,
+      "pct": 0.728,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.274,
+      "pct": 0.272,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "158872469ece00415aefaa0eaecab4f0",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T18:00+00:00",
-    "jugadores": [
-     "Ben Shelton",
-     "Cameron Norrie"
-    ],
-    "opciones": [
-     {
-      "id": "158872469ece00415aefaa0eaecab4f0|h2h|Ben Shelton|",
-      "mercado": "h2h",
-      "nombre": "Ben Shelton",
-      "punto": null,
-      "cuota": 1.37,
-      "pinnacle": 1.36
-     },
-     {
-      "id": "158872469ece00415aefaa0eaecab4f0|h2h|Cameron Norrie|",
-      "mercado": "h2h",
-      "nombre": "Cameron Norrie",
-      "punto": null,
-      "cuota": 3.15,
-      "pinnacle": 3.34
-     },
-     {
-      "id": "158872469ece00415aefaa0eaecab4f0|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.95,
-      "pinnacle": 1.98
-     },
-     {
-      "id": "158872469ece00415aefaa0eaecab4f0|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.76,
-      "pinnacle": 1.88
-     }
-    ],
-    "pinnacle_h2h": {
-     "Ben Shelton": 1.36,
-     "Cameron Norrie": 3.34
-    }
-   },
    {
     "id": "42bb4ea6113cbbd3effbb4904bf80c9b",
     "deporte": "tennis_atp_paris_masters",
@@ -1926,6 +1876,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-03T18:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-03T17:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2062,16 +2022,6 @@
   },
   {
    "hora": "2026-11-02T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T15:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T15:10+00:00",
    "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
    "tipo": "info"
   }
@@ -7954,7 +7904,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T17:10+00:00",
+   "actualizado": "2026-11-03T18:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -7990,10 +7940,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh50gHcAUFVX3lxTFB3VDYxZFB5a0hZZldSWVQ1WlhPckp1NFM1ZlcxekNzbmRDOE9JTU02UGlUckF6X2dSMnQ1UGtnU0Q3Y2lRNHhRVXIxa3RyOERSSEVfUXV0QWktSmRhVGFNUERZOE9IaUdmMWJNREVFRGRfT0ttcUQwdmd4YlBOYzZYQ2NoSEpub1p1WUd6eTJaVHAyZjBRMnpjcVdpanQxLXN3ZFB0QllBOGpFVlk5eWtEdldzaEx6R0E4NVEwN2NXa3hqdnBfY1c3OF9WMzRYUGZPeWp2YTcwSTYxOHk?oc=5"
       },
       {
-       "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
-       "fuente": "La Razón",
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSQ?oc=5"
       }
      ]
     },
@@ -8024,10 +7974,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh50gHcAUFVX3lxTFB3VDYxZFB5a0hZZldSWVQ1WlhPckp1NFM1ZlcxekNzbmRDOE9JTU02UGlUckF6X2dSMnQ1UGtnU0Q3Y2lRNHhRVXIxa3RyOERSSEVfUXV0QWktSmRhVGFNUERZOE9IaUdmMWJNREVFRGRfT0ttcUQwdmd4YlBOYzZYQ2NoSEpub1p1WUd6eTJaVHAyZjBRMnpjcVdpanQxLXN3ZFB0QllBOGpFVlk5eWtEdldzaEx6R0E4NVEwN2NXa3hqdnBfY1c3OF9WMzRYUGZPeWp2YTcwSTYxOHk?oc=5"
       },
       {
-       "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
-       "fuente": "La Razón",
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxBdVU2LVlHU09aejhzdDVxZ1JvNXJxMUVxZGZfRGpvaTNvMFppcWRkNURlVGUwanVpZkR4VTJRU2hUWGhvM0k2U0NtZGFNU1JLRm41a1hYeTlXaFVUWFR3VDVHeHkxcUZQQkhsSjllTi1OSGRZSHZ5cDZpQTl0TWhYNk53MWgzbUZlZDRXMm1WeUJNTUJrUVhTNGlYdkRHbU1ZQjNiVEpVaS1pTFhWN0d5cDNLTlA5X1VwaTAyR3RfUXN1MW5MS0ZR0gHeAUFVX3lxTE1oU0xYeWVoU0JiTkRyd0txVWpWaXVSVkRScXMxT2d2MHBvUmV2TzBucmxqWFJzR293UVFDaDBLSWZQNGNrdnp0MUhoVEYzLS1fRy1wMFFkc2JQZEFvbzV5a0pDVEhabUNaZWFXY3RaVjNyaTJQeFpESEo1NEJXWnhaWjVSMU1FRU5ERGJGaFJZcHpFWXVBMjlSR1FOXzg0YVNTUU9HWjM0cDVEWVRRdVZMeDRZQ0dzV2hSQUVDWkhhVlJfOXE3a1hYTWMwZGQ4UzNzUEg1NHJBcG1fYW9RZw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSQ?oc=5"
       }
      ]
     }

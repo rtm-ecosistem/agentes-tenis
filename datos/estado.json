@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.092,
+     "envidia": 0.091,
      "sorpresa": 0.4,
-     "impaciencia": 0.219,
+     "impaciencia": 0.217,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T17:34+00:00",
+    "hora": "2026-11-03T18:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.17,
+     "impaciencia": 0.168,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T17:34+00:00",
+    "hora": "2026-11-03T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.102,
+     "impaciencia": 0.101,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T17:34+00:00",
+    "hora": "2026-11-03T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.17,
+     "impaciencia": 0.168,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T17:34+00:00",
+    "hora": "2026-11-03T18:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T18:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T19:10+00:00",
-   "texto": "📰 Noticias nuevas de Leylah Fernandez – Diana Shnaider: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T19:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T17:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T18:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,21 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-03-14",
  "noticias_vistas": [
+  "958673b284a0",
+  "d59717adc184",
+  "7d627a5192cc",
+  "21afa57e6481",
+  "790f78816602",
+  "54659499fbb9",
+  "5c4bc5adf4d3",
+  "6ba5ac35ad43",
+  "70ed554affed",
+  "f4549a3ae21a",
+  "91b5642a00d8",
+  "8918b97db3e7",
+  "35cc9152c41b",
+  "5f14a8991916",
+  "db737b508761",
   "b96b2b4129dd",
   "6a2e2d46c697",
   "6c9a48030e4c",
@@ -2627,16 +2642,16 @@
   "894676e0f7b6",
   "b480d3f3db68",
   "2b4e51256320",
-  "d59717adc184",
   "62387558bf06",
   "1b8e0f309a7e",
   "e53af9f5d783",
+  "350508397cce",
   "ab21508dc22f",
   "5be72ffeb40f",
   "43028ed01d19",
   "dd524f882d52",
-  "7d627a5192cc",
   "a26da077c104",
+  "a80527998252",
   "32dae8d7b861",
   "5afa02238af7",
   "57c2ea32d7d0",
@@ -2664,6 +2679,7 @@
   "c8a3c4768ca8",
   "094168271ff1",
   "a1034f9393d2",
+  "47ceabf315b9",
   "082259a3f9f2",
   "802dfdfdbd99",
   "aaaf4351234c",
@@ -2671,18 +2687,7 @@
   "d8daca57ad10",
   "30de492efde3",
   "5adc8752f756",
-  "21afa57e6481",
-  "790f78816602",
   "b287160410a3",
-  "54659499fbb9",
-  "5c4bc5adf4d3",
-  "6ba5ac35ad43",
-  "70ed554affed",
-  "f4549a3ae21a",
-  "91b5642a00d8",
-  "8918b97db3e7",
-  "35cc9152c41b",
-  "5f14a8991916",
   "7b0fe4410ec6",
   "016f5dee67d6",
   "7b430ebec032",
@@ -2738,10 +2743,10 @@
   "d4230a22cd72",
   "3ee9b283c095",
   "8d3d936f6b29",
+  "4f4cff2ce13f",
   "f27f5968b4e2",
   "5d1885a816b0",
   "3a2e842eca8e",
-  "4f4cff2ce13f",
   "34ec375747d5",
   "8c2c37250a11",
   "0f2ed3efc2af",
@@ -2847,6 +2852,7 @@
   "3fc968e75c7e",
   "4c796422de9c",
   "2bdcce7dac2e",
+  "3914feeb1293",
   "2229456db554",
   "b1ca74dd6d87",
   "65500602d43d",
@@ -2854,10 +2860,10 @@
   "469f1b77e57c",
   "a8a5ac1421c9",
   "5a2dd75c5c20",
+  "4b5a10ffee41",
   "ecc3a7dc0b62",
   "065644f602df",
   "baf8d517ee36",
-  "db737b508761",
   "919b0a89770d",
   "aa07bc614857",
   "1d8def713002",
@@ -2870,6 +2876,7 @@
   "ed7317cfface",
   "19200ec8ed7c",
   "43c9ea8f2d03",
+  "e0f033ac256d",
   "a2b00882788b",
   "c4be9444d109",
   "fa6ae0f95eac",
@@ -2933,6 +2940,7 @@
   "362143bfaeab",
   "c8a5028c49d8",
   "f00f790b12da",
+  "3501e4333f5c",
   "70447f48c923",
   "b5acb41a8b92",
   "1e2edcdd6de3",
@@ -2978,7 +2986,6 @@
   "4747d15e5d13",
   "02d14462026f",
   "d529832e9c1c",
-  "3914feeb1293",
   "0252367f586a",
   "25e68a169159",
   "6d632e3c3c18",
@@ -3410,14 +3417,7 @@
   "1d4c3eb82d7c",
   "0590d5ffa2e2",
   "999f776be5ad",
-  "56745ca3858d",
-  "94d10c4a8d53",
-  "cf622b02ec44",
-  "44ce89835f31",
-  "c85b24bb68a9",
-  "c92972d362c3",
-  "145f8fe45b34",
-  "6ea3b78f2dcb"
+  "56745ca3858d"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T17:10+00:00",
+   "actualizado": "2026-11-03T18:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9285,10 +9285,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh50gHcAUFVX3lxTFB3VDYxZFB5a0hZZldSWVQ1WlhPckp1NFM1ZlcxekNzbmRDOE9JTU02UGlUckF6X2dSMnQ1UGtnU0Q3Y2lRNHhRVXIxa3RyOERSSEVfUXV0QWktSmRhVGFNUERZOE9IaUdmMWJNREVFRGRfT0ttcUQwdmd4YlBOYzZYQ2NoSEpub1p1WUd6eTJaVHAyZjBRMnpjcVdpanQxLXN3ZFB0QllBOGpFVlk5eWtEdldzaEx6R0E4NVEwN2NXa3hqdnBfY1c3OF9WMzRYUGZPeWp2YTcwSTYxOHk?oc=5"
       },
       {
-       "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
-       "fuente": "La Razón",
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSQ?oc=5"
       }
      ]
     },
@@ -9319,10 +9319,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1Q2MWRQeWtIWWZXUllUNVpYT3JKdTRTNWZXMXpDc25kQzhPSU1NNlBpVHJBel9nUjJ0NVBrZ1NEN2NpUTR4UVVyMWt0cjhEUkhFX1F1dEFpLUpkYVRhTVBEWThPSGlHZjFiTURFRURkX09LbXFEMHZneGJQTmM2WENjaEhKbm9adVlHenkyWlRwMmYwUTJ6Y3FXaWp0MS1zd2RQdEJZQThqRVZZOXlrRHZXc2hMekdBODVRMDdjV2t4anZwX2NXNzhfVjM0WFBmT3lqdmE3MEk2MTh50gHcAUFVX3lxTFB3VDYxZFB5a0hZZldSWVQ1WlhPckp1NFM1ZlcxekNzbmRDOE9JTU02UGlUckF6X2dSMnQ1UGtnU0Q3Y2lRNHhRVXIxa3RyOERSSEVfUXV0QWktSmRhVGFNUERZOE9IaUdmMWJNREVFRGRfT0ttcUQwdmd4YlBOYzZYQ2NoSEpub1p1WUd6eTJaVHAyZjBRMnpjcVdpanQxLXN3ZFB0QllBOGpFVlk5eWtEdldzaEx6R0E4NVEwN2NXa3hqdnBfY1c3OF9WMzRYUGZPeWp2YTcwSTYxOHk?oc=5"
       },
       {
-       "titulo": "Lo que tiene que suceder para que Rafa Jódar acceda a las ATP Finals - La Razón",
-       "fuente": "La Razón",
+       "titulo": "Rafa Jódar - Casper Ruud: horario y dónde ver los dieciseisavos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUxBdVU2LVlHU09aejhzdDVxZ1JvNXJxMUVxZGZfRGpvaTNvMFppcWRkNURlVGUwanVpZkR4VTJRU2hUWGhvM0k2U0NtZGFNU1JLRm41a1hYeTlXaFVUWFR3VDVHeHkxcUZQQkhsSjllTi1OSGRZSHZ5cDZpQTl0TWhYNk53MWgzbUZlZDRXMm1WeUJNTUJrUVhTNGlYdkRHbU1ZQjNiVEpVaS1pTFhWN0d5cDNLTlA5X1VwaTAyR3RfUXN1MW5MS0ZR0gHeAUFVX3lxTE1oU0xYeWVoU0JiTkRyd0txVWpWaXVSVkRScXMxT2d2MHBvUmV2TzBucmxqWFJzR293UVFDaDBLSWZQNGNrdnp0MUhoVEYzLS1fRy1wMFFkc2JQZEFvbzV5a0pDVEhabUNaZWFXY3RaVjNyaTJQeFpESEo1NEJXWnhaWjVSMU1FRU5ERGJGaFJZcHpFWXVBMjlSR1FOXzg0YVNTUU9HWjM0cDVEWVRRdVZMeDRZQ0dzV2hSQUVDWkhhVlJfOXE3a1hYTWMwZGQ4UzNzUEg1NHJBcG1fYW9RZw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpsV1ZNWWRVVEZTRm91akZ4WWx0NGl0d3JSSE1YcEhRT3A4WmVRUjVPUFl4ZFkybWllVm5oNWZjWXVMUVNYTzhEX284UGdtdXRZMWdacDA2V2FFXzRhbkM1d210R21Yb0dRVFJlbERGV2pLcjFLVVpuOUppSlR1ZU92N2FGT0VoNWpUVEZXMWRrVnp1cHJRaUtKbVR0dlp0NWZNODQyNHNqZHJ6QThsMUlQNlRJbUJ1YWhBRnZyYWlUSG1ENHdJZThLaFpmYnVNbnFNb29YSQ?oc=5"
       }
      ]
     }
