@@ -239075,6 +239075,57 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Polina Iatcenko",
+    "Anastasia Zakharova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     4
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Kyoka Okamura",
+    "Jeline Vandromme"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     2
+    ]
+   ],
+   "completo": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Weronika Falkowska",
+    "Linda Fruhvirtova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     1
+    ]
+   ],
+   "completo": false
   }
  ]
 }

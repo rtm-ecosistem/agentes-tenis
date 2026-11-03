@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.105,
+     "envidia": 0.103,
      "sorpresa": 0.4,
-     "impaciencia": 0.248,
+     "impaciencia": 0.244,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T08:10+00:00",
+    "hora": "2026-11-03T09:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.198,
+     "impaciencia": 0.195,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T08:10+00:00",
+    "hora": "2026-11-03T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.119,
+     "impaciencia": 0.117,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T08:10+00:00",
+    "hora": "2026-11-03T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.198,
+     "impaciencia": 0.195,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T08:10+00:00",
+    "hora": "2026-11-03T09:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T09:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T09:22+00:00",
-   "texto": "📰 Noticias nuevas de Pablo Carreno Busta – Mattia Bellucci, Valentin Vacherot – Taylor Fritz, Daniil Medvedev – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T09:22+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T08:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T09:10+00:00",
+   "texto": "📰 Noticias nuevas de Novak Djokovic – Valentin Vacherot, Ben Shelton – Cameron Norrie: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T09:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,8 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-02-20",
  "noticias_vistas": [
+  "c204c403eb2a",
+  "43505a4ec96c",
   "543da9d2c25f",
   "83a23725e913",
   "86c7ab82d901",
@@ -2625,10 +2627,14 @@
   "bbc2e7c9e553",
   "7cdeb1d74a1e",
   "b1fc75f5b611",
+  "61cd07f3fc6f",
+  "1ff8555cb9a5",
+  "25660e7d6233",
   "f27f5968b4e2",
   "5d1885a816b0",
   "3a2e842eca8e",
   "d59717adc184",
+  "4f4cff2ce13f",
   "8c2c37250a11",
   "5adc8752f756",
   "21afa57e6481",
@@ -2660,7 +2666,9 @@
   "db3d6d3534bc",
   "dd19e694656d",
   "66383fa40448",
+  "50447de92e7e",
   "706d321200fe",
+  "39821264b77d",
   "0b2e774b79a2",
   "460ccff03825",
   "7e13f4367535",
@@ -2671,12 +2679,15 @@
   "254cfbdac14f",
   "f3e9f8c45a77",
   "a4c68a9101a4",
+  "8eb105c3436e",
   "f16f98cb53dd",
   "94124a36e6d8",
+  "dc897b979e24",
   "4ef2ac033388",
   "a0c547aa2857",
   "13c7e0632710",
   "a200cc3368ae",
+  "c641e383119e",
   "0a0e632c0c63",
   "8a739d4a24d9",
   "823f025bd3a0",
@@ -2706,6 +2717,8 @@
   "c4e52c89433e",
   "fe9d125d5894",
   "6295ece93d97",
+  "0b5aa16632f4",
+  "bb53acb4c1bd",
   "e688ec05eb5a",
   "9d7d594c94d7",
   "eb25ecb0a8a1",
@@ -2734,6 +2747,7 @@
   "065644f602df",
   "baf8d517ee36",
   "919b0a89770d",
+  "aa07bc614857",
   "d445a65e7018",
   "f00c491330fe",
   "ae9080a8ab3e",
@@ -2748,7 +2762,7 @@
   "7b0fe4410ec6",
   "e59ffee1a301",
   "4ee8c2a09773",
-  "c204c403eb2a",
+  "1d7bd0f28d8d",
   "bf946ccb22c5",
   "4716ad370ce0",
   "a40b04b3875c",
@@ -2794,7 +2808,11 @@
   "e249be0b314a",
   "70447f48c923",
   "b5acb41a8b92",
+  "1e2edcdd6de3",
+  "338912faad9c",
   "6d9a991c700e",
+  "ea048f30c055",
+  "8525ff3039a2",
   "a73d7e8d2fea",
   "655c8080063b",
   "40bee769beb2",
@@ -2819,6 +2837,7 @@
   "88e27da099ed",
   "e420ba945aad",
   "028bf23edd6d",
+  "929b97f151d9",
   "e39eb28eda06",
   "b8f3afee10f0",
   "80be0f3bd43f",
@@ -2829,11 +2848,11 @@
   "4747d15e5d13",
   "02d14462026f",
   "d529832e9c1c",
-  "4f4cff2ce13f",
   "70ed554affed",
   "5f14a8991916",
   "0252367f586a",
   "25e68a169159",
+  "dfc1d5b67f4c",
   "6d632e3c3c18",
   "e92ba639ea27",
   "92efff17efc2",
@@ -2841,7 +2860,6 @@
   "0a11d08471b9",
   "3bd71e92b940",
   "a305c93eabdb",
-  "fe72e8fc636f",
   "7aa58c92fe33",
   "76bbed56f030",
   "f1332d53a894",
@@ -2866,11 +2884,10 @@
   "9c893ff651d2",
   "29d614c82c48",
   "5574b8988d68",
+  "2e42086aba95",
   "a4f919fdc488",
   "a0a6fbcefbf5",
   "f0c11916b4d0",
-  "dc897b979e24",
-  "c641e383119e",
   "8d8dbbe50ffd",
   "c4f0318519c0",
   "4fee1a8ae643",
@@ -2909,8 +2926,6 @@
   "1802076111df",
   "f260851b900a",
   "3ec4384e906e",
-  "ea048f30c055",
-  "8525ff3039a2",
   "fc15dcc8297d",
   "2e72868818b7",
   "5d66ceb0ad32",
@@ -2961,7 +2976,6 @@
   "ef3005a4397b",
   "820da9e18b5c",
   "a34178bacf77",
-  "50447de92e7e",
   "90fc21fc847f",
   "caf234585f41",
   "d434ac1b7df7",
@@ -2971,7 +2985,6 @@
   "fe3d970926fa",
   "9ee5a4a036c5",
   "e71a71d6c971",
-  "dfc1d5b67f4c",
   "29a34f6fd987",
   "ef730d735431",
   "a5cd2fb4ccc4",
@@ -3187,6 +3200,7 @@
   "ccf565a5aeaa",
   "bc0c58621102",
   "5985835f9036",
+  "fe72e8fc636f",
   "21f06607c231",
   "ab03d7945331",
   "9750d60e979e",
@@ -3263,6 +3277,7 @@
   "ed85452ed0bf",
   "f4280d62f6c2",
   "4d7cf6032a53",
+  "ff7a44958d63",
   "e46b94429731",
   "4948f6ab220b",
   "d26d8b8b35b2",
@@ -3323,6 +3338,7 @@
   "49488922f840",
   "53e5a600094a",
   "6f4c310ce8c2",
+  "d295155899cf",
   "6caddea5a387",
   "9686d98f0dba",
   "9cf11b52f715",
@@ -3337,7 +3353,6 @@
   "7056814310ee",
   "be7ecf260b99",
   "8661ceadbae6",
-  "43505a4ec96c",
   "29bdd1aeec51",
   "302dd7961eca",
   "eb5d57d03489",
@@ -3402,22 +3417,7 @@
   "0c05030478b9",
   "264581bcd2eb",
   "7d91b613ecea",
-  "29fe3934ee67",
-  "4956fe13de55",
-  "2c8582426be4",
-  "a61cb3eda77d",
-  "ab48922dd679",
-  "a6a7b082ba31",
-  "6046f0df38d5",
-  "21e73aa701d7",
-  "be379413555f",
-  "6e410f2a9dc4",
-  "72ec253abbd1",
-  "f9a28cd8a3f1",
-  "21e02784f93e",
-  "0e71cde628f3",
-  "c4b1138db750",
-  "a0ce4430dabe"
+  "29fe3934ee67"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8193,7 +8193,7 @@
    "inicio": "2026-11-03T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.687,
    "elo_general": 0.692,
    "elo_en_superficie": 0.681,
@@ -8281,7 +8281,7 @@
    "inicio": "2026-11-03T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.559,
    "elo_general": 0.53,
    "elo_en_superficie": 0.587,
@@ -8369,7 +8369,7 @@
    "inicio": "2026-11-03T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.303,
    "elo_general": 0.348,
    "elo_en_superficie": 0.258,
@@ -8457,7 +8457,7 @@
    "inicio": "2026-11-03T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.653,
    "elo_general": 0.625,
    "elo_en_superficie": 0.68,
@@ -8545,7 +8545,7 @@
    "inicio": "2026-11-03T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.496,
    "elo_general": 0.505,
    "elo_en_superficie": 0.486,
@@ -8633,7 +8633,7 @@
    "inicio": "2026-11-03T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.911,
    "elo_general": 0.911,
    "elo_en_superficie": 0.912,
@@ -8721,7 +8721,7 @@
    "inicio": "2026-11-03T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.68,
    "elo_general": 0.696,
    "elo_en_superficie": 0.663,
@@ -8751,16 +8751,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpKSWtvSlVrS0hTRGVlWGJwTWQzRl9pY2wzZWd4QkdVTnZfRWZKVDJFSTR3VGhZYUkxVlFreDcyTEVwLTFwZzJsalBDMUNnOU5vbmhSQlhJVHhRdWRvcVNRZTBfdHlwV0k4UGJhVmxuZ2FFTlc0bFU1a2hXU2M4d1VaV2h0VnVVX0thc0V1dkpyYmhVRUg3Z2xXRlF1Q3l3dFdNZU5SdW5RVTBWWlE?oc=5"
       },
       {
+       "titulo": "Mérida se reencuentra con el triunfo - Diario AS",
+       "fuente": "Diario AS",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXVVNTM3UW5HdmFNUDF4azFzU3dYV3p5cncyNDgxZTNQamJkTkFoWkpZb05Yb3BYRHdBQmIxZXRwc0dMeXhYalBCNjhkS3Y5TkNQSW1oZ3JxUWJmUDZBMV9XeHdPR0FNaGkzVkJUbUpxbjEzR0tDa21wVk5wUlRkUnQxYWl0RTRo0gGcAUFVX3lxTFBCSGhtZGtadjJXOEpKdTc0MS1mRlRZNXMtNXpGSkUybDFZQWVQR1N0M0JDbmR6dVVsNUMtdEEtNXk2dkZXYnZ5dzA1NnR4YmZsS0lCOHozdTNTYXZwZlh3bFo5S0EwT21LVWJNMElrbVBfT0JLM3VVY2VlTk54R1c5NG5yN2d0NHJ0Y3lzQVpheHJTTWhJb2oycVloQQ?oc=5"
+      },
+      {
        "titulo": "Tommy Paul vs Holger Rune · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUlWdURmTUlUeWEyRm12Z2l2VGk0WUxXSWt6dmZsZXpPZmFna2YxTHdMNVc2MTltYktKM3hZTXNObzA2bXZwYkc1VnRrWVVxTmNxUFI4cEh3OVJaSWMxaE5uVU9xdC1Kb2lMaWZfZHlxMTVjX0NwTnlkS3plMkdicHVBZUVYQ3ptX0FFMWk5Y1R6ZjY0?oc=5"
-      },
-      {
-       "titulo": "Highlights: Alcaraz supera a Paul rumbo a SF en Viena - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3FpZlJ5cTB6anFMYVY0ZzNqMzNsY0FmVFBiTWFWOTJ3ODhaN3ZQQ05UQzhKTGQwaWU3VVdVbEdEZzhoY3RibDJmTU5jcTN4bFF4NXlWR1VVemw5YUpGNkhWNnE2NnM2dzJob3Q2b21YSE1aZXR4MnI5d0l3dEIwMEdFZnFOUVhpUm00dG43Y1VGMHhWRHA5YnI3TQ?oc=5"
       }
      ]
     },
@@ -8791,10 +8791,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDluMkZPbFpzSVVMcDdOcXpVbHVyR1lITlFiSXRtQURvSzRzaFMwVGdmQy0xcjVkNXhJVV92ckx1VkFrU0RiWjNtMThNbVZwNFZTN0QwRHpmVlBJeTNZUG15QkltSmVvRXkwTG5LcU5scjN1WlRQMnVFYWlkdkMtUTkyTTNGTkE?oc=5"
       },
       {
-       "titulo": "Mérida se reencuentra con el triunfo - Diario AS",
-       "fuente": "Diario AS",
+       "titulo": "Tommy Paul vs Holger Rune · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXVVNTM3UW5HdmFNUDF4azFzU3dYV3p5cncyNDgxZTNQamJkTkFoWkpZb05Yb3BYRHdBQmIxZXRwc0dMeXhYalBCNjhkS3Y5TkNQSW1oZ3JxUWJmUDZBMV9XeHdPR0FNaGkzVkJUbUpxbjEzR0tDa21wVk5wUlRkUnQxYWl0RTRo0gGcAUFVX3lxTFBCSGhtZGtadjJXOEpKdTc0MS1mRlRZNXMtNXpGSkUybDFZQWVQR1N0M0JDbmR6dVVsNUMtdEEtNXk2dkZXYnZ5dzA1NnR4YmZsS0lCOHozdTNTYXZwZlh3bFo5S0EwT21LVWJNMElrbVBfT0JLM3VVY2VlTk54R1c5NG5yN2d0NHJ0Y3lzQVpheHJTTWhJb2oycVloQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUlWdURmTUlUeWEyRm12Z2l2VGk0WUxXSWt6dmZsZXpPZmFna2YxTHdMNVc2MTltYktKM3hZTXNObzA2bXZwYkc1VnRrWVVxTmNxUFI4cEh3OVJaSWMxaE5uVU9xdC1Kb2lMaWZfZHlxMTVjX0NwTnlkS3plMkdicHVBZUVYQ3ptX0FFMWk5Y1R6ZjY0?oc=5"
       }
      ]
     }
@@ -8809,7 +8809,7 @@
    "inicio": "2026-11-03T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.577,
    "elo_general": 0.615,
    "elo_en_superficie": 0.538,
@@ -8867,6 +8867,12 @@
      "cansancio": "2 partidos, 5 sets y 48 juegos en 3 días; el último el 2026-11-01 contra Jiri Lehecka, ganó 2-6 6-3 6-3",
      "noticias": [
       {
+       "titulo": "Valentín Vacherot gana el torneo de tenis de Basilea. - Vietnam.vn",
+       "fuente": "Vietnam.vn",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84SnczcDM4QUtOdjRXTko3X3JwLV9VaWQ4X0lMOGxUeXJPUnZNQ1dKTGl4X0k1cXhyRy11SUtwMm5wSFM1VE5fMzVRXzFVY2RrZWxwaGtBLTE1TV8yYnd4WlBMcVZlcU0xcTU4Q3VLdlZRUnE5bzJSd1o4SQ?oc=5"
+      },
+      {
        "titulo": "Cash / Nakashima vs Vacherot / Van Assche · Round 1 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-03",
@@ -8877,12 +8883,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0otOHFYTzlMWExtZWQxeGVhN1JueGQxMDYycGIxTnlDZDVaZm5lc3pDUzZXbHFaZlR6bkdOaGhwYUJ1cTB2MUdCQ0EyT2RyX05CR25OYkJ6NkIzLUQtV1JNUm5DSm5jcTVSUDVuV19heHVnTElVNFE0N1BrWTdyNGdPVHh4VUNGNkpkZndLTTY2c3M?oc=5"
-      },
-      {
-       "titulo": "Vacherot, antes de su duelo ante Djokovic en París: \"Lo daré todo\" - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03aWVRaWx2NGhYOV9OSll4NDBaQ2NMU0xZX084Y1JpSTZwS1hrSmx6UmRHbVRQZ0ZDWEdqbGs0dWRVZjczbjM4a2FyQ2Y1amVZZWVvU25vU0dmUWhuU3ZWeFVYS05fOTdTX3VkLVNoSQ?oc=5"
       }
      ]
     }
@@ -8897,7 +8897,7 @@
    "inicio": "2026-11-03T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.407,
    "elo_general": 0.393,
    "elo_en_superficie": 0.421,
@@ -8955,6 +8955,12 @@
      "cansancio": "2 partidos, 6 sets y 57 juegos en 3 días; el último el 2026-11-01 contra Valentin Vacherot, perdió 6-2 3-6 3-6",
      "noticias": [
       {
+       "titulo": "Highlights: Lehecka salva match point y vence a Struff en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3VRT2lVR2VLQmhkT0o2aVQxc0NhN1RtdmdaX0NIVll3LXFUajh2andwMzVHR1RBWFFQSGxLd2QxajlhTl9aZVRMVkpOVzlvajRmZmZYRVV0aG45aDVFa19VQkttQkFZTWk1RGcweWJWLWdqck9Ldm9pVUdHczc2NWo0THZZdnlSVngwUmgzNnFRUFVhM2NReDYyY3RqOHpwOVJmdENB?oc=5"
+      },
+      {
        "titulo": "Alcaraz y su lesión: \"Hubo momentos en los que dudé de si podría volver a pegar la derecha a mi máximo nivel\" - MARCA",
        "fuente": "MARCA",
        "fecha": "2026-11-02",
@@ -8965,12 +8971,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlo4SF85MUJDYmNRRjFscWl2dy1WSkp4ZTBMNms1RVNWQzZwSlVrd0h3VERDeDlvWFJIaWpGelFUM1F1SUNraE8xS2N0cjhlQ3dRNl92TTljZDFKM185bGV6dGJYeFdFZlFES3Z5Ykcyel9hMkt5SkNHOTEtaUZXR0xXN1ItVXhOeC1lbnNuR19QZ01rM2tkRnd2SE9kaFU?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alex Michelsen vs Jiri Lehecka - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNySzNEcmt0d3lWMDdpaE0xRTZTWF9STGEwbTVtVHo4UTlOdENNWHRyaGlMM0tTTmRCZ1FEaDM0U3dtTHhsUkhoNENGZzNoNkdtd3docjhyRlNrb19Qa1BpbE9aZW5EM0FXbVJNWVd6WGcxVU5nV1VNV0lPRW8wLVpXbmhia3BtWS1QZA?oc=5"
       }
      ]
     }
@@ -8985,7 +8985,7 @@
    "inicio": "2026-11-03T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.364,
    "elo_general": 0.364,
    "elo_en_superficie": 0.363,
@@ -9073,7 +9073,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -9097,6 +9097,12 @@
      "cansancio": "1 partidos, 3 sets y 31 juegos en 3 días; el último el 2026-10-31 contra Jiri Lehecka, perdió 6-3 5-7 4-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Highlights: Lehecka salva match point y vence a Struff en Basilea - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3VRT2lVR2VLQmhkT0o2aVQxc0NhN1RtdmdaX0NIVll3LXFUajh2andwMzVHR1RBWFFQSGxLd2QxajlhTl9aZVRMVkpOVzlvajRmZmZYRVV0aG45aDVFa19VQkttQkFZTWk1RGcweWJWLWdqck9Ldm9pVUdHczc2NWo0THZZdnlSVngwUmgzNnFRUFVhM2NReDYyY3RqOHpwOVJmdENB?oc=5"
+      },
+      {
        "titulo": "Jan-Lennard Struff - Arthur Gea en directo - París Individual masculino -: Resultados y resúmenes de Tenis - 03/11/2026 - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-02",
@@ -9107,12 +9113,6 @@
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2xHUENEX216bl9oLXJHMm9mN1BuN3lHLVY0SVV6V0tZdG92ZlcwdkFCNG1ZSUZieVVGdlFmVXNVX1ZteVFKSnZBVTN5WnRiR0FyYkVfUTlpS0xwemE4WWF0OXg3X3FHRENzZGZJZ3huZ3RfY0pJellJTEYwOHZscWtHUC1aVXlyRm04?oc=5"
       }
      ]
     },
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T08:10+00:00",
+   "actualizado": "2026-11-03T09:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
