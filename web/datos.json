@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T13:53+00:00",
+ "actualizado": "2026-11-03T14:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.156,
+      "pct": 0.155,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.713,
+      "pct": 0.714,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.287,
+      "pct": 0.286,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.713,
+      "pct": 0.714,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.287,
+      "pct": 0.286,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "766892f0324922ef7aab73a2713af3c2",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T14:00+00:00",
-    "jugadores": [
-     "Alex Michelsen",
-     "Jiri Lehecka"
-    ],
-    "opciones": [
-     {
-      "id": "766892f0324922ef7aab73a2713af3c2|h2h|Alex Michelsen|",
-      "mercado": "h2h",
-      "nombre": "Alex Michelsen",
-      "punto": null,
-      "cuota": 2.24,
-      "pinnacle": 2.26
-     },
-     {
-      "id": "766892f0324922ef7aab73a2713af3c2|h2h|Jiri Lehecka|",
-      "mercado": "h2h",
-      "nombre": "Jiri Lehecka",
-      "punto": null,
-      "cuota": 1.66,
-      "pinnacle": 1.7
-     },
-     {
-      "id": "766892f0324922ef7aab73a2713af3c2|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.81,
-      "pinnacle": 1.91
-     },
-     {
-      "id": "766892f0324922ef7aab73a2713af3c2|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.9,
-      "pinnacle": 1.96
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex Michelsen": 2.26,
-     "Jiri Lehecka": 1.7
-    }
-   },
    {
     "id": "dcf8effd6f985422ab07f5c909334937",
     "deporte": "tennis_atp_paris_masters",
@@ -2076,6 +2026,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-03T14:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T14:10+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-03T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2213,16 +2173,6 @@
   {
    "hora": "2026-11-02T12:10+00:00",
    "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T11:34+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T11:34+00:00",
-   "texto": "📰 Noticias nuevas de Cameron Norrie – Matteo Arnaldi, Casper Ruud – Juan Manuel Cerundolo: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -7928,7 +7878,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -7992,16 +7942,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWtNb2xnQnJTYzdVY0ZlVzFzamYxWkdGS0tpeU9ZUkoyNU0tMTdkZFpYV1dMaWRILUhnU2l4N3hNYVE0c09KX242REV3X3ozcWdrNUpjU2RCSlRPTXZKbmxoZi1vMFVEc2RkWjR1LVh4bzV1OVBtelVjaTJLMUoyczVUYTVjQzlZcWpRdTVXYzJsSEZocVRiZkEzSmMxZlh5ZVI4Qk9hS3g3OW4xOTVv?oc=5"
       },
       {
+       "titulo": "Francisco Cerundolo se retira lesionado en su primer partido en París - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaTZfOGR5TmQ1OEJIVGFJWkstNl9xSzlGY0dPR2ZuRlJ3R0ZodlRxSjBtYVdMTXZOVnMwYXA3YWdUQ0c0TUNEMm1LY3pjRldQemxxTHIzb29MZWVWYlV6OFhIZVpoemxBTGtBWDBRWmRsZlFIM21jSmQzbURMT2pJTWFnMU9kdnJkRTlnbktPdlhacDU2cVV5Q215V3Y4aFVlc2N2MVhBQm5ic2xPTnlRaUdmU2dNYVBCQXJvWXo1RFlVSWNoaW52aEw1WWNJSGd1YjZjMmNHa1jSAdgBQVVfeXFMUGk2XzhkeU5kNThCSFRhSVpLLTZfcUs5RmNHT0dmbkZSd0dGaHZUcUowbWFXTE12TlZzMGFwN2FnVENHNE1DRDJtS2N6Y0ZXUHpscUxyM29vTGVlVmJVejhYSGVaaHpsQUxrQVgwUVpkbGZRSDNtY0pkM21ETE9qSU1hZzFPZHZyZEU5Z25LT3ZYWnA1NnFVeUNteVd2OGhVZXNjdjFYQUJuYnNsT055UWlHZlNnTWFQQkFyb1l6NURZVUljaGludmhMNVljSUhndWI2YzJjR2tY?oc=5"
+      },
+      {
        "titulo": "Joven talento francés elogia a Novak Djokovic al hablar de su meteórico ascenso - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObk1BQUJIVDdLM0hPRDJmT19rdnVwUkVPOWI1TkhidjdPSUZVbGRaZG4wOTBXdnB2X2VpMVR5OWxyMm1PS1M3ZUsycHotSWFSS0lIZlJqOU45MXloWlctN1FDc1dpMVZBUzljdnJkaVZVLVRpaWR0Z2szemY3TVBCZjBmWVV2T0RhT0owcWpHeVBwYmQwTzc4aEpBZjJDcDFjcURZT3laV0tkenVDQnFrdkVxekxJeTNoOXlDSnJqOTEwMnpSWkwxcEl4RkdIaWk5SE5RTGlvYkdvMDQ?oc=5"
-      },
-      {
-       "titulo": "Cobolli baja en París, acerca un poco más a Jodar a Turín, Tirante entra en cuadro - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTlXd1hyYm5iWHpZMjdXZThBQW9aZTRob0xCN3JMUlU1eFpORF9tRFNMNWRsM2dkMXpTTFlSaC1sUTNxUE9TUGtYVGJsNGN0cTZDbk5yRm03Tml4dmpmdk0zR0pKYzFhaFhVZGtKX0VWX1NNTDlVQnlvY3RBcWV1bDR4aGRoWDlTR0d5QUFrSjItSUc5NlVLTXZfUDk1QS1TY2lUcUxDcm5TamZFZWZXLXVtMW9UaEFnRU9sTll6WDBncWtwdWlwT1g3dFfSAecBQVVfeXFMTTBDd0FpSy1HNmpTV0xLLTY0U01SLU1YSFduWDRMc1UtTklFT0ZXRHgzbGxyajNDN05EN01yTE94WFdyeDJua29EZFprYUtwNzFTb3BvRDlRcThaY0xlM3RKVGdRenB4TWthNi1ab2trdTNwcDlfZlAtcm5MT3dUSkg3OFBORGRoNlN3SjIyNjl6LTI5TFFUc1llVWRkeWJiVEpRbnV5V245bFl1YVdVZWEwTTk0SWlrdlZTbUZEVTVaS0JmVXROeDFYS2JGdVR5Y1d0aHdLb2dTVWpxY3pTYVNPWXJwek5z?oc=5"
       }
      ]
     }
@@ -8016,7 +7966,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -8040,6 +7990,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Roddick cree que Ferrero se ha ido con Shelton para ganar a Alcaraz - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDRDMUY2V3ZmX0tVQ2VEMExfZWJFN3E5U25uaW9ETy14VU53aEo5N0k0OTNzeklNc3N1eC1zbEN0Ym8yX184SDJpRUwtWmVhMzFEVlRwYVRZR1o1LWdRMmlaOVZEbi1Ya1dQRDZHUkYxdkNHdjZPUkY4TEZfZmthUVJtM1B3ZUJZQWJpWHd6MA?oc=5"
+      },
+      {
        "titulo": "Rick Macci, entrenador de tenis, advierte a Ferrero sobre Shelton: \"Llevarle a ganar un Grand Slam es un reto mayor que su etapa con Alcaraz\" - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-03",
@@ -8050,12 +8006,6 @@
        "fuente": "elDiario.es",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWdybnB0V1RzZm1PLVFCOUxYMThIeWhWUF96cjRjV1gyNTA5VzBYRms5a2lON1FtVGczbkd2RGpBOWFlQkdZNFVEbEtVT2pvbElXUk9XcloxTTAtU0NwMHhsdzBubmtXNTB0QWMzSlRWblhIYU1WWnhRMWNHTXZtSnFtbmx0a3FPLUoxVEpZcktnNHhLM3NyLXVveUtWam1iTTcwT1hKWUhGMDVmeVpGT3JHcnJ3aUtiaVhSZkhZNkcyM25i0gHKAUFVX3lxTFBEYU5WYTQwS21teFkxbkp3OWlNQUJOaGhQTWk0Z2xsTExtOXdRN2p5QjFxQWNHRFk5NG1rVktVMHZHa281RkhBTk9nOWVnb04wZzE3SC12VEN2aEFWM0g4TXJneks4dHgwd1gycDBLV0ZQZ1FFc0JUeHVZVnYxeW9vRzV5b1VIZWNScWVxc0E4d1o2S0h4R3Rrc2t0NTYtMkFwd0JpdDdPRmtPSUIwZThGSkZTN2NReXpucUdsa09fU3c3LUJHZDFPdXc?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     },
@@ -8104,7 +8054,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -8162,6 +8112,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Rafa Jódar (20 años): \"Entrar por primera vez en el top 10 significa mucho para mí. También demuestra que estoy haciendo las cosas bien, pero quiero más. Quiero ser mejor jugador\" - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Wc2F0cEYwWHNWWlNfdFNyYlFjdnd1MmJKVzNmekdPOU1kS0FlR215Y1F0YVlSYnlGemhkWl90RXJZNmhJaU9KMU53TXJ0YUZJa0EyMkxMVHg3R2VIeHRCYktudEpsSEhkSWZYUUhNRGpUdm1QMmQ1NElFWVBjNmvSAX9BVV95cUxNcmNHaFNyNkNQNFVyc0JCYnd2VTI0YlB4UFYxQzBlRUQzeTYwT0s0VXprWjhHV0xSRmticHBXZWxKUmFYOVEySm15aFh4WHZ6eWp0cGstd1BtYUxfdFRtNEMtMEFqLWF6RVBwYXpMdkZfa2N3V0lOVGZ6NTZYLUJF?oc=5"
+      },
+      {
        "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-03",
@@ -8172,12 +8128,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNjkwU01VUkh4UzQzeU5HUzhUVkF3MVc0aWd6RUc5SWVZWDZFZ25OazVRWFd5c0NjS0NJR2Jab2lSTTd0aU0xb1UydnFhRnNhbEF1TWhPRVBNOF82d0NnSk5scldMNzM1UEFRdFluNjdCUDJLbkVV0gF3QVVfeXFMTjg5RzBycThIbUZwQmtCWnpWOUZiNy0xc1pZZkRSakVqSTVyRXZmS1lzVXBiMXNVbzVIV19TaGNhWGR4dVV2cmpDXzNWdkNjU2hzQUJTWFlwRlhQalM5UWphZkhjdlJhWFBBZEtQa2pFWDlZckVleHM?oc=5"
-      },
-      {
-       "titulo": "Jódar vs Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
       }
      ]
     }

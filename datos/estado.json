@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.096,
      "sorpresa": 0.4,
-     "impaciencia": 0.23,
+     "impaciencia": 0.229,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T13:53+00:00",
+    "hora": "2026-11-03T14:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.181,
+     "impaciencia": 0.18,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T13:53+00:00",
+    "hora": "2026-11-03T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T13:53+00:00",
+    "hora": "2026-11-03T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.181,
+     "impaciencia": 0.18,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T13:53+00:00",
+    "hora": "2026-11-03T14:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Sebastian Baez – Damir Dzumhur, Lorenzo Sonego – Jaume Munar, Daniil Medvedev – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T14:10+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T14:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,19 +2618,26 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-03-14",
  "noticias_vistas": [
+  "3144a3400034",
   "5326c930885a",
+  "a03eec7c4120",
   "a6058d4e5d37",
   "b480d3f3db68",
   "10b4724a82a0",
+  "c278575f6e16",
   "62ea78b3dc54",
   "a63ae69730d3",
   "dbf41419ffa6",
+  "1b17f2265957",
   "cb685bab2578",
+  "a434e636a100",
   "58e90da51572",
   "c8a3c4768ca8",
   "094168271ff1",
   "74d7c8bd6a23",
   "082259a3f9f2",
+  "802dfdfdbd99",
+  "aaaf4351234c",
   "5bfb296d027c",
   "d8daca57ad10",
   "30de492efde3",
@@ -2649,8 +2656,10 @@
   "8918b97db3e7",
   "35cc9152c41b",
   "5f14a8991916",
+  "016f5dee67d6",
   "8eb105c3436e",
   "7b430ebec032",
+  "294baf1d645f",
   "6a2e2d46c697",
   "e240056422ad",
   "3bf420cab688",
@@ -2674,17 +2683,18 @@
   "6cab07e97be2",
   "f53bea84910c",
   "3efc6f233b7e",
+  "fa78dcce0476",
   "3691f9861c70",
   "91dcee354d8f",
   "be76cd031d37",
   "35232302408b",
   "e88260e0914c",
+  "543da9d2c25f",
+  "83a23725e913",
   "7023045f24a4",
   "bbc2e7c9e553",
   "c204c403eb2a",
   "43505a4ec96c",
-  "543da9d2c25f",
-  "83a23725e913",
   "86c7ab82d901",
   "02d3f77196e0",
   "7465caa25227",
@@ -2722,6 +2732,9 @@
   "2cdf87a702df",
   "7cb3aba4b810",
   "a9f29ce5381e",
+  "c5482f336264",
+  "9578a77a594c",
+  "a3bb85fd7a52",
   "559bd326ffb8",
   "913fcb92357c",
   "12aa34e5d9ee",
@@ -2729,7 +2742,6 @@
   "1f3b9e13a506",
   "db3d6d3534bc",
   "dd19e694656d",
-  "820da9e18b5c",
   "66383fa40448",
   "fe72e8fc636f",
   "706d321200fe",
@@ -2825,7 +2837,6 @@
   "a2b00882788b",
   "c4be9444d109",
   "fa6ae0f95eac",
-  "a434e636a100",
   "4db3696d65c1",
   "51c04091b566",
   "7b0fe4410ec6",
@@ -2900,6 +2911,7 @@
   "2a8775a5d0fa",
   "5f7eba22e5bb",
   "3ed94688ecc7",
+  "820da9e18b5c",
   "62a05b93f564",
   "edcd658003b5",
   "0d3d20e8a70e",
@@ -3350,6 +3362,9 @@
   "d779585d830f",
   "159564075a2f",
   "6338081f4e33",
+  "52cb85b81455",
+  "161dfee0cd3c",
+  "3112e31c3833",
   "de9f52f160ac",
   "1d4c3eb82d7c",
   "0590d5ffa2e2",
@@ -3402,22 +3417,7 @@
   "3076c8b08a93",
   "a7451ccbf0e1",
   "7d1887b7aad6",
-  "bcd53e36c732",
-  "2b6ba705cb33",
-  "90c2f5866f59",
-  "5049f769c24d",
-  "552f1b3ae2fb",
-  "5c7cf087fbc9",
-  "55509838eb01",
-  "05e420e6e8e1",
-  "a88e2c01a63b",
-  "a2e71d8f034f",
-  "bca21a27244e",
-  "0cdb624eba02",
-  "05abd9c04510",
-  "884a217c8428",
-  "667a85db818a",
-  "2862872d42bc"
+  "bcd53e36c732"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -9073,7 +9073,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -9137,16 +9137,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWtNb2xnQnJTYzdVY0ZlVzFzamYxWkdGS0tpeU9ZUkoyNU0tMTdkZFpYV1dMaWRILUhnU2l4N3hNYVE0c09KX242REV3X3ozcWdrNUpjU2RCSlRPTXZKbmxoZi1vMFVEc2RkWjR1LVh4bzV1OVBtelVjaTJLMUoyczVUYTVjQzlZcWpRdTVXYzJsSEZocVRiZkEzSmMxZlh5ZVI4Qk9hS3g3OW4xOTVv?oc=5"
       },
       {
+       "titulo": "Francisco Cerundolo se retira lesionado en su primer partido en París - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaTZfOGR5TmQ1OEJIVGFJWkstNl9xSzlGY0dPR2ZuRlJ3R0ZodlRxSjBtYVdMTXZOVnMwYXA3YWdUQ0c0TUNEMm1LY3pjRldQemxxTHIzb29MZWVWYlV6OFhIZVpoemxBTGtBWDBRWmRsZlFIM21jSmQzbURMT2pJTWFnMU9kdnJkRTlnbktPdlhacDU2cVV5Q215V3Y4aFVlc2N2MVhBQm5ic2xPTnlRaUdmU2dNYVBCQXJvWXo1RFlVSWNoaW52aEw1WWNJSGd1YjZjMmNHa1jSAdgBQVVfeXFMUGk2XzhkeU5kNThCSFRhSVpLLTZfcUs5RmNHT0dmbkZSd0dGaHZUcUowbWFXTE12TlZzMGFwN2FnVENHNE1DRDJtS2N6Y0ZXUHpscUxyM29vTGVlVmJVejhYSGVaaHpsQUxrQVgwUVpkbGZRSDNtY0pkM21ETE9qSU1hZzFPZHZyZEU5Z25LT3ZYWnA1NnFVeUNteVd2OGhVZXNjdjFYQUJuYnNsT055UWlHZlNnTWFQQkFyb1l6NURZVUljaGludmhMNVljSUhndWI2YzJjR2tY?oc=5"
+      },
+      {
        "titulo": "Joven talento francés elogia a Novak Djokovic al hablar de su meteórico ascenso - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObk1BQUJIVDdLM0hPRDJmT19rdnVwUkVPOWI1TkhidjdPSUZVbGRaZG4wOTBXdnB2X2VpMVR5OWxyMm1PS1M3ZUsycHotSWFSS0lIZlJqOU45MXloWlctN1FDc1dpMVZBUzljdnJkaVZVLVRpaWR0Z2szemY3TVBCZjBmWVV2T0RhT0owcWpHeVBwYmQwTzc4aEpBZjJDcDFjcURZT3laV0tkenVDQnFrdkVxekxJeTNoOXlDSnJqOTEwMnpSWkwxcEl4RkdIaWk5SE5RTGlvYkdvMDQ?oc=5"
-      },
-      {
-       "titulo": "Cobolli baja en París, acerca un poco más a Jodar a Turín, Tirante entra en cuadro - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTlXd1hyYm5iWHpZMjdXZThBQW9aZTRob0xCN3JMUlU1eFpORF9tRFNMNWRsM2dkMXpTTFlSaC1sUTNxUE9TUGtYVGJsNGN0cTZDbk5yRm03Tml4dmpmdk0zR0pKYzFhaFhVZGtKX0VWX1NNTDlVQnlvY3RBcWV1bDR4aGRoWDlTR0d5QUFrSjItSUc5NlVLTXZfUDk1QS1TY2lUcUxDcm5TamZFZWZXLXVtMW9UaEFnRU9sTll6WDBncWtwdWlwT1g3dFfSAecBQVVfeXFMTTBDd0FpSy1HNmpTV0xLLTY0U01SLU1YSFduWDRMc1UtTklFT0ZXRHgzbGxyajNDN05EN01yTE94WFdyeDJua29EZFprYUtwNzFTb3BvRDlRcThaY0xlM3RKVGdRenB4TWthNi1ab2trdTNwcDlfZlAtcm5MT3dUSkg3OFBORGRoNlN3SjIyNjl6LTI5TFFUc1llVWRkeWJiVEpRbnV5V245bFl1YVdVZWEwTTk0SWlrdlZTbUZEVTVaS0JmVXROeDFYS2JGdVR5Y1d0aHdLb2dTVWpxY3pTYVNPWXJwek5z?oc=5"
       }
      ]
     }
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9185,6 +9185,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Roddick cree que Ferrero se ha ido con Shelton para ganar a Alcaraz - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDRDMUY2V3ZmX0tVQ2VEMExfZWJFN3E5U25uaW9ETy14VU53aEo5N0k0OTNzeklNc3N1eC1zbEN0Ym8yX184SDJpRUwtWmVhMzFEVlRwYVRZR1o1LWdRMmlaOVZEbi1Ya1dQRDZHUkYxdkNHdjZPUkY4TEZfZmthUVJtM1B3ZUJZQWJpWHd6MA?oc=5"
+      },
+      {
        "titulo": "Rick Macci, entrenador de tenis, advierte a Ferrero sobre Shelton: \"Llevarle a ganar un Grand Slam es un reto mayor que su etapa con Alcaraz\" - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-03",
@@ -9195,12 +9201,6 @@
        "fuente": "elDiario.es",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWdybnB0V1RzZm1PLVFCOUxYMThIeWhWUF96cjRjV1gyNTA5VzBYRms5a2lON1FtVGczbkd2RGpBOWFlQkdZNFVEbEtVT2pvbElXUk9XcloxTTAtU0NwMHhsdzBubmtXNTB0QWMzSlRWblhIYU1WWnhRMWNHTXZtSnFtbmx0a3FPLUoxVEpZcktnNHhLM3NyLXVveUtWam1iTTcwT1hKWUhGMDVmeVpGT3JHcnJ3aUtiaVhSZkhZNkcyM25i0gHKAUFVX3lxTFBEYU5WYTQwS21teFkxbkp3OWlNQUJOaGhQTWk0Z2xsTExtOXdRN2p5QjFxQWNHRFk5NG1rVktVMHZHa281RkhBTk9nOWVnb04wZzE3SC12VEN2aEFWM0g4TXJneks4dHgwd1gycDBLV0ZQZ1FFc0JUeHVZVnYxeW9vRzV5b1VIZWNScWVxc0E4d1o2S0h4R3Rrc2t0NTYtMkFwd0JpdDdPRmtPSUIwZThGSkZTN2NReXpucUdsa09fU3c3LUJHZDFPdXc?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     },
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:10+00:00",
+   "actualizado": "2026-11-03T14:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9307,6 +9307,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Rafa Jódar (20 años): \"Entrar por primera vez en el top 10 significa mucho para mí. También demuestra que estoy haciendo las cosas bien, pero quiero más. Quiero ser mejor jugador\" - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Wc2F0cEYwWHNWWlNfdFNyYlFjdnd1MmJKVzNmekdPOU1kS0FlR215Y1F0YVlSYnlGemhkWl90RXJZNmhJaU9KMU53TXJ0YUZJa0EyMkxMVHg3R2VIeHRCYktudEpsSEhkSWZYUUhNRGpUdm1QMmQ1NElFWVBjNmvSAX9BVV95cUxNcmNHaFNyNkNQNFVyc0JCYnd2VTI0YlB4UFYxQzBlRUQzeTYwT0s0VXprWjhHV0xSRmticHBXZWxKUmFYOVEySm15aFh4WHZ6eWp0cGstd1BtYUxfdFRtNEMtMEFqLWF6RVBwYXpMdkZfa2N3V0lOVGZ6NTZYLUJF?oc=5"
+      },
+      {
        "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-03",
@@ -9317,12 +9323,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JNjkwU01VUkh4UzQzeU5HUzhUVkF3MVc0aWd6RUc5SWVZWDZFZ25OazVRWFd5c0NjS0NJR2Jab2lSTTd0aU0xb1UydnFhRnNhbEF1TWhPRVBNOF82d0NnSk5scldMNzM1UEFRdFluNjdCUDJLbkVV0gF3QVVfeXFMTjg5RzBycThIbUZwQmtCWnpWOUZiNy0xc1pZZkRSakVqSTVyRXZmS1lzVXBiMXNVbzVIV19TaGNhWGR4dVV2cmpDXzNWdkNjU2hzQUJTWFlwRlhQalM5UWphZkhjdlJhWFBBZEtQa2pFWDlZckVleHM?oc=5"
-      },
-      {
-       "titulo": "Jódar vs Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
       }
      ]
     }
