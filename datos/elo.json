@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T20:10+00:00",
+ "actualizado": "2026-11-03T21:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17989,14 +17989,14 @@
    "nombre": "Sahaja Yamalapalli",
    "circuito": "WTA",
    "elo": {
-    "all": 1387.8,
-    "hard": 1386.4,
+    "all": 1359.8,
+    "hard": 1362.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 7,
-    "hard": 7,
+    "all": 8,
+    "hard": 8,
     "clay": 0,
     "grass": 0
    },
@@ -18007,7 +18007,8 @@
     "2026-07-09 P hard vs Anna Rogers",
     "2026-09-20 G hard vs Maria Martinez Vaquero",
     "2026-09-21 P hard vs Naiktha Bains",
-    "2026-09-22 P hard vs Katie Swan"
+    "2026-09-22 P hard vs Katie Swan",
+    "2026-11-03 P hard vs Simona Waltert"
    ]
   },
   "parry|d": {
@@ -19489,19 +19490,18 @@
    "nombre": "Simona Waltert",
    "circuito": "WTA",
    "elo": {
-    "all": 1533.5,
-    "hard": 1568.3,
+    "all": 1548.0,
+    "hard": 1581.6,
     "clay": 1418.7,
     "grass": 1374.1
    },
    "n": {
-    "all": 57,
-    "hard": 47,
+    "all": 58,
+    "hard": 48,
     "clay": 8,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-08 G hard vs Rebeka Masarova",
     "2026-09-10 G hard vs Despina Papamichail",
     "2026-09-11 P hard vs Dalma Galfi",
     "2026-09-29 G hard vs Anastasia Tikhonova",
@@ -19510,7 +19510,8 @@
     "2026-10-08 G hard vs Linda Klimovicova",
     "2026-10-09 P hard vs Himeno Sakatsume",
     "2026-10-17 P hard vs Anhelina Kalinina",
-    "2026-10-27 P hard vs Jil Teichmann"
+    "2026-10-27 P hard vs Jil Teichmann",
+    "2026-11-03 G hard vs Sahaja Yamalapalli"
    ]
   },
   "capurro taborda|m": {
@@ -91777,7 +91778,11 @@
   "masarova|r~tubello|a": [
    0,
    1
+  ],
+  "waltert|s~yamalapalli|s": [
+   1,
+   0
   ]
  },
- "propios": 10599
+ "propios": 10600
 }

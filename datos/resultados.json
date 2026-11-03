@@ -240085,6 +240085,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Simona Waltert",
+    "Sahaja Yamalapalli"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }
