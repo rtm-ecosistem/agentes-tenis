@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T09:35+00:00",
+ "actualizado": "2026-11-03T10:13+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.301,
+      "pct": 0.302,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.163,
+      "pct": 0.162,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.699,
+      "pct": 0.701,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.301,
+      "pct": 0.299,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.699,
+      "pct": 0.701,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.301,
+      "pct": 0.299,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.699,
+      "pct": 0.701,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.301,
+      "pct": 0.299,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,156 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-03T08:01+00:00",
   "partidos": [
-   {
-    "id": "d25fdbba0ee28a3bbfa27a1b7bf0310b",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T10:00+00:00",
-    "jugadores": [
-     "Andrey Rublev",
-     "Tomas Martin Etcheverry"
-    ],
-    "opciones": [
-     {
-      "id": "d25fdbba0ee28a3bbfa27a1b7bf0310b|h2h|Andrey Rublev|",
-      "mercado": "h2h",
-      "nombre": "Andrey Rublev",
-      "punto": null,
-      "cuota": 1.4,
-      "pinnacle": 1.43
-     },
-     {
-      "id": "d25fdbba0ee28a3bbfa27a1b7bf0310b|h2h|Tomas Martin Etcheverry|",
-      "mercado": "h2h",
-      "nombre": "Tomas Martin Etcheverry",
-      "punto": null,
-      "cuota": 3.0,
-      "pinnacle": 3.01
-     },
-     {
-      "id": "d25fdbba0ee28a3bbfa27a1b7bf0310b|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.81,
-      "pinnacle": 1.89
-     },
-     {
-      "id": "d25fdbba0ee28a3bbfa27a1b7bf0310b|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.9,
-      "pinnacle": 1.97
-     }
-    ],
-    "pinnacle_h2h": {
-     "Andrey Rublev": 1.43,
-     "Tomas Martin Etcheverry": 3.01
-    }
-   },
-   {
-    "id": "90da92cf3a7e75dbd2eb358af0340fa8",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T10:00+00:00",
-    "jugadores": [
-     "Quentin Halys",
-     "Arthur Fery"
-    ],
-    "opciones": [
-     {
-      "id": "90da92cf3a7e75dbd2eb358af0340fa8|h2h|Arthur Fery|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fery",
-      "punto": null,
-      "cuota": 2.29,
-      "pinnacle": 2.37
-     },
-     {
-      "id": "90da92cf3a7e75dbd2eb358af0340fa8|h2h|Quentin Halys|",
-      "mercado": "h2h",
-      "nombre": "Quentin Halys",
-      "punto": null,
-      "cuota": 1.63,
-      "pinnacle": 1.65
-     },
-     {
-      "id": "90da92cf3a7e75dbd2eb358af0340fa8|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.9,
-      "pinnacle": 1.96
-     },
-     {
-      "id": "90da92cf3a7e75dbd2eb358af0340fa8|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.81,
-      "pinnacle": 1.91
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fery": 2.37,
-     "Quentin Halys": 1.65
-    }
-   },
-   {
-    "id": "db55f6491d2491e31599e3af63c11471",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-03T10:00+00:00",
-    "jugadores": [
-     "Arthur Rinderknech",
-     "Francisco Cerundolo"
-    ],
-    "opciones": [
-     {
-      "id": "db55f6491d2491e31599e3af63c11471|h2h|Arthur Rinderknech|",
-      "mercado": "h2h",
-      "nombre": "Arthur Rinderknech",
-      "punto": null,
-      "cuota": 2.6,
-      "pinnacle": 2.53
-     },
-     {
-      "id": "db55f6491d2491e31599e3af63c11471|h2h|Francisco Cerundolo|",
-      "mercado": "h2h",
-      "nombre": "Francisco Cerundolo",
-      "punto": null,
-      "cuota": 1.51,
-      "pinnacle": 1.58
-     },
-     {
-      "id": "db55f6491d2491e31599e3af63c11471|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.79,
-      "pinnacle": null
-     },
-     {
-      "id": "db55f6491d2491e31599e3af63c11471|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.92,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Rinderknech": 2.53,
-     "Francisco Cerundolo": 1.58
-    }
-   },
    {
     "id": "18d9ea3abcfe85f9ae47dc0433ac57c7",
     "deporte": "tennis_atp_paris_masters",
