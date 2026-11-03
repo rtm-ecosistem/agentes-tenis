@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T09:35+00:00",
+ "actualizado": "2026-11-03T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14980,19 +14980,18 @@
    "nombre": "Sofya Lansere",
    "circuito": "WTA",
    "elo": {
-    "all": 1418.5,
-    "hard": 1443.8,
+    "all": 1466.9,
+    "hard": 1490.5,
     "clay": 1425.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 13,
-    "hard": 12,
+    "all": 14,
+    "hard": 13,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-05-05 P hard vs Lanlana Tararudee",
     "2026-07-13 G hard vs Elena Malygina",
     "2026-07-15 P hard vs Elizara Yaneva",
     "2026-07-20 P clay vs Lola Radivojevic",
@@ -15001,7 +15000,8 @@
     "2026-09-19 P hard vs Aoi Ito",
     "2026-09-29 G hard vs Katarina Zavatska",
     "2026-10-01 G hard vs Sofia Costoulas",
-    "2026-10-02 P hard vs Jessica Bouzas Maneiro"
+    "2026-10-02 P hard vs Jessica Bouzas Maneiro",
+    "2026-11-03 G hard vs Angella Okutoyi"
    ]
   },
   "yamaguchi|m": {
@@ -21025,14 +21025,14 @@
    "nombre": "Tiphanie Lemaitre",
    "circuito": "WTA",
    "elo": {
-    "all": 1344.9,
-    "hard": 1395.8,
+    "all": 1412.9,
+    "hard": 1460.1,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 6,
-    "hard": 5,
+    "all": 7,
+    "hard": 6,
     "clay": 1,
     "grass": 0
    },
@@ -21042,7 +21042,8 @@
     "2026-02-15 P hard vs Diana Martynov",
     "2026-02-16 P hard vs Mona Barthel",
     "2026-04-11 P clay vs Chloe Paquet",
-    "2026-09-28 P hard vs Harriet Dart"
+    "2026-09-28 P hard vs Harriet Dart",
+    "2026-11-03 G hard vs Lamis Alhussein Abdel Aziz"
    ]
   },
   "xu|m": {
@@ -32616,19 +32617,18 @@
    "nombre": "Martyna Kubka",
    "circuito": "WTA",
    "elo": {
-    "all": 1622.2,
-    "hard": 1616.6,
+    "all": 1653.2,
+    "hard": 1649.5,
     "clay": 1496.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 16,
-    "hard": 14,
+    "all": 17,
+    "hard": 15,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-08-28 P hard vs Kristina Liutova",
     "2026-09-22 P hard vs Berfu Cengiz",
     "2026-09-29 G hard vs Ksenia Efremova",
     "2026-09-30 P hard vs Lois Boisson",
@@ -32637,7 +32637,8 @@
     "2026-10-17 P hard vs Dominika Salkova",
     "2026-10-27 G hard vs Mia Ristic",
     "2026-10-29 G hard vs Lisa Pigato",
-    "2026-10-30 P hard vs Anna Blinkova"
+    "2026-10-30 P hard vs Anna Blinkova",
+    "2026-11-03 G hard vs Darja Suvirdjonkova"
    ]
   },
   "gray|a": {
@@ -38670,19 +38671,20 @@
    "nombre": "Darja Suvirdjonkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1565.7,
-    "hard": 1565.7,
+    "all": 1514.5,
+    "hard": 1513.5,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-11-01 G hard vs Emma Van Poppel"
+    "2026-11-01 G hard vs Emma Van Poppel",
+    "2026-11-03 P hard vs Martyna Kubka"
    ]
   },
   "van poppel|e": {
@@ -38797,6 +38799,44 @@
    },
    "ultimos": [
     "2026-11-02 P hard vs Kristina Novak"
+   ]
+  },
+  "alhussein abdel aziz|l": {
+   "nombre": "Lamis Alhussein Abdel Aziz",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1406.8,
+    "hard": 1415.2,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-03 P hard vs Tiphanie Lemaitre"
+   ]
+  },
+  "okutoyi|a": {
+   "nombre": "Angella Okutoyi",
+   "circuito": "WTA",
+   "elo": {
+    "all": 1419.2,
+    "hard": 1423.8,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-03 P hard vs Sofya Lansere"
    ]
   }
  },
@@ -91548,7 +91588,19 @@
   "inglis|m~joint|m": [
    0,
    1
+  ],
+  "alhussein abdel aziz|l~lemaitre|t": [
+   0,
+   1
+  ],
+  "kubka|m~suvirdjonkova|d": [
+   1,
+   0
+  ],
+  "lansere|s~okutoyi|a": [
+   1,
+   0
   ]
  },
- "propios": 10557
+ "propios": 10560
 }
