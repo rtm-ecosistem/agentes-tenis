@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T12:10+00:00",
+ "actualizado": "2026-11-03T13:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -201,19 +201,18 @@
    "nombre": "Tomas Martin Etcheverry",
    "circuito": "ATP",
    "elo": {
-    "all": 1564.5,
-    "hard": 1559.1,
+    "all": 1586.4,
+    "hard": 1585.7,
     "clay": 1613.7,
     "grass": 1350.7
    },
    "n": {
-    "all": 171,
-    "hard": 99,
+    "all": 172,
+    "hard": 100,
     "clay": 60,
     "grass": 12
    },
    "ultimos": [
-    "2026-08-15 P hard vs Terence Atmane",
     "2026-08-30 G hard vs Vit Kopriva",
     "2026-09-02 G hard vs Jacob Fearnley",
     "2026-09-04 G hard vs Mariano Navone",
@@ -222,7 +221,8 @@
     "2026-10-01 P hard vs Stefanos Tsitsipas",
     "2026-10-10 P hard vs Dalibor Svrcina",
     "2026-10-21 P hard vs Mattia Bellucci",
-    "2026-10-26 P hard vs Matteo Berrettini"
+    "2026-10-26 P hard vs Matteo Berrettini",
+    "2026-11-03 G hard vs Andrey Rublev"
    ]
   },
   "humbert|u": {
@@ -2176,19 +2176,18 @@
    "nombre": "Andrey Rublev",
    "circuito": "ATP",
    "elo": {
-    "all": 1705.1,
-    "hard": 1691.1,
+    "all": 1684.1,
+    "hard": 1667.4,
     "clay": 1738.2,
     "grass": 1507.4
    },
    "n": {
-    "all": 188,
-    "hard": 134,
+    "all": 189,
+    "hard": 135,
     "clay": 45,
     "grass": 9
    },
    "ultimos": [
-    "2026-09-25 G hard vs Rinky Hijikata",
     "2026-09-27 G hard vs Hugo Gaston",
     "2026-09-28 G hard vs Kyrian Jacquet",
     "2026-09-29 P hard vs Daniil Medvedev",
@@ -2197,7 +2196,8 @@
     "2026-10-04 P hard vs Alex de Minaur",
     "2026-10-09 P hard vs Rei Sakamoto",
     "2026-10-21 P hard vs Adrian Mannarino",
-    "2026-10-27 P hard vs Tommy Paul"
+    "2026-10-27 P hard vs Tommy Paul",
+    "2026-11-03 P hard vs Tomas Martin Etcheverry"
    ]
   },
   "zapata miralles|b": {
@@ -14283,19 +14283,18 @@
    "nombre": "Viktoria Morvayova",
    "circuito": "WTA",
    "elo": {
-    "all": 1438.0,
-    "hard": 1470.5,
+    "all": 1423.9,
+    "hard": 1453.6,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 21,
-    "hard": 20,
+    "all": 22,
+    "hard": 21,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-12 G hard vs Elina Nepliy",
     "2026-07-13 P hard vs Sara Bejlek",
     "2026-07-18 P clay vs Ayla Aksu",
     "2026-09-19 G hard vs Nika Radisic",
@@ -14304,7 +14303,8 @@
     "2026-09-29 P hard vs Sara Sorribes Tormo",
     "2026-10-13 P hard vs Irene Burillo",
     "2026-10-31 G hard vs Shrivalli Bhamidipaty",
-    "2026-11-01 P hard vs Weronika Falkowska"
+    "2026-11-01 P hard vs Weronika Falkowska",
+    "2026-11-03 P hard vs Polina Kudermetova"
    ]
   },
   "appleton|e": {
@@ -17874,19 +17874,18 @@
    "nombre": "Janice Tjen",
    "circuito": "WTA",
    "elo": {
-    "all": 1609.7,
-    "hard": 1608.6,
+    "all": 1625.3,
+    "hard": 1625.4,
     "clay": 1458.8,
     "grass": 1432.7
    },
    "n": {
-    "all": 51,
-    "hard": 41,
+    "all": 52,
+    "hard": 42,
     "clay": 4,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-13 G hard vs Darja Vidmanova",
     "2026-09-16 P hard vs Sloane Stephens",
     "2026-09-30 G hard vs Anhelina Kalinina",
     "2026-10-02 P hard vs Diana Shnaider",
@@ -17895,7 +17894,8 @@
     "2026-10-15 P hard vs Ann Li",
     "2026-10-19 P hard vs Ashlyn Krueger",
     "2026-10-27 G hard vs Polina Kudermetova",
-    "2026-10-28 P hard vs Harriet Dart"
+    "2026-10-28 P hard vs Harriet Dart",
+    "2026-11-03 G hard vs Katherine Hui"
    ]
   },
   "vekic|d": {
@@ -18151,19 +18151,18 @@
    "nombre": "Alexandra Eala",
    "circuito": "WTA",
    "elo": {
-    "all": 1797.8,
-    "hard": 1749.8,
+    "all": 1806.9,
+    "hard": 1762.9,
     "clay": 1428.3,
     "grass": 1727.8
    },
    "n": {
-    "all": 66,
-    "hard": 48,
+    "all": 67,
+    "hard": 49,
     "clay": 4,
     "grass": 14
    },
    "ultimos": [
-    "2026-09-02 G hard vs Mary Stoiana",
     "2026-09-03 G hard vs Oleksandra Oliynykova",
     "2026-09-05 P hard vs Iva Jovic",
     "2026-09-24 P hard vs Tatiana Prozorova",
@@ -18172,7 +18171,8 @@
     "2026-10-22 P hard vs Diana Shnaider",
     "2026-10-26 G hard vs Mika Stojsavljevic",
     "2026-10-28 G hard vs Talia Gibson",
-    "2026-10-30 P hard vs Diana Shnaider"
+    "2026-10-30 P hard vs Diana Shnaider",
+    "2026-11-03 G hard vs Emerson Jones"
    ]
   },
   "parks|a": {
@@ -19973,19 +19973,18 @@
    "nombre": "Sada Nahimana",
    "circuito": "WTA",
    "elo": {
-    "all": 1429.8,
-    "hard": 1433.2,
+    "all": 1396.3,
+    "hard": 1399.3,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 10,
-    "hard": 10,
+    "all": 11,
+    "hard": 11,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2025-11-18 G hard vs Diletta Cherubini",
     "2025-11-19 P hard vs Oleksandra Oliynykova",
     "2025-11-25 P hard vs Oleksandra Oliynykova",
     "2025-12-01 G hard vs Valentina Vargas",
@@ -19994,7 +19993,8 @@
     "2026-01-12 P hard vs Viktoria Hruncakova",
     "2026-03-22 P hard vs Sara Sorribes Tormo",
     "2026-05-19 G hard vs Ajla Tomljanovic",
-    "2026-05-20 P hard vs Panna Udvardy"
+    "2026-05-20 P hard vs Panna Udvardy",
+    "2026-11-03 P hard vs Franziska Sziedat"
    ]
   },
   "samson|l": {
@@ -20284,19 +20284,18 @@
    "nombre": "Polina Kudermetova",
    "circuito": "WTA",
    "elo": {
-    "all": 1671.3,
-    "hard": 1665.6,
+    "all": 1680.9,
+    "hard": 1678.0,
     "clay": 1655.0,
     "grass": 1600.6
    },
    "n": {
-    "all": 64,
-    "hard": 49,
+    "all": 65,
+    "hard": 50,
     "clay": 11,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-24 P hard vs Linda Fruhvirtova",
     "2026-09-21 P hard vs Kamilla Rakhimova",
     "2026-09-30 G hard vs Ma YeXin",
     "2026-10-02 G hard vs Clara Tauson",
@@ -20305,7 +20304,8 @@
     "2026-10-17 G hard vs Mananchaya Sawangkaew",
     "2026-10-18 G hard vs Anastasia Zakharova",
     "2026-10-20 G hard vs Cristina Bucsa",
-    "2026-10-27 P hard vs Janice Tjen"
+    "2026-10-27 P hard vs Janice Tjen",
+    "2026-11-03 G hard vs Viktoria Morvayova"
    ]
   },
   "rosatello|c": {
@@ -22653,19 +22653,18 @@
    "nombre": "Emerson Jones",
    "circuito": "ATP",
    "elo": {
-    "all": 1557.0,
-    "hard": 1565.0,
+    "all": 1545.8,
+    "hard": 1550.0,
     "clay": 1451.5,
     "grass": 1449.4
    },
    "n": {
-    "all": 37,
-    "hard": 33,
+    "all": 38,
+    "hard": 34,
     "clay": 1,
     "grass": 3
    },
    "ultimos": [
-    "2026-10-02 G hard vs Kyoka Okamura",
     "2026-10-03 P hard vs Alexandra Shubladze",
     "2026-10-06 G hard vs Mai Hontama",
     "2026-10-08 P hard vs Bai Zhuoxuan",
@@ -22674,7 +22673,8 @@
     "2026-10-24 G hard vs Hong Yi Cody Wong",
     "2026-10-25 P hard vs Dayana Yastremska",
     "2026-10-31 G hard vs Heather Watson",
-    "2026-11-01 P hard vs Alexandra Shubladze"
+    "2026-11-01 P hard vs Alexandra Shubladze",
+    "2026-11-03 P hard vs Alexandra Eala"
    ]
   },
   "yibing|w": {
@@ -23161,19 +23161,18 @@
    "nombre": "Liudmila Samsonova",
    "circuito": "ATP",
    "elo": {
-    "all": 1660.1,
-    "hard": 1614.8,
+    "all": 1636.2,
+    "hard": 1593.1,
     "clay": 1445.7,
     "grass": 1576.4
    },
    "n": {
-    "all": 47,
-    "hard": 38,
+    "all": 48,
+    "hard": 39,
     "clay": 3,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-15 G hard vs Elsa Jacquemot",
     "2026-09-17 G hard vs Kayla Day",
     "2026-09-17 G hard vs Marta Kostyuk",
     "2026-09-19 P hard vs Peyton Stearns",
@@ -23182,7 +23181,8 @@
     "2026-10-13 G hard vs Katerina Siniakova",
     "2026-10-14 P hard vs Elina Svitolina",
     "2026-10-19 P hard vs Lilli Tagger",
-    "2026-10-24 P hard vs Heather Watson"
+    "2026-10-24 P hard vs Heather Watson",
+    "2026-11-03 P hard vs Alexandra Shubladze"
    ]
   },
   "noskova|l": {
@@ -32891,19 +32891,18 @@
    "nombre": "Alexandra Shubladze",
    "circuito": "ATP",
    "elo": {
-    "all": 1684.5,
-    "hard": 1691.8,
+    "all": 1719.6,
+    "hard": 1721.9,
     "clay": 1500.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 15,
-    "hard": 14,
+    "all": 16,
+    "hard": 15,
     "clay": 0,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-19 G hard vs Gaeul Jang",
     "2026-09-20 P hard vs Darya Astakhova",
     "2026-09-29 G hard vs Rina Saigo",
     "2026-09-30 G hard vs Lu Jia-Jing",
@@ -32912,7 +32911,8 @@
     "2026-10-04 G hard vs Jessica Bouzas Maneiro",
     "2026-10-24 P hard vs Polina Iatcenko",
     "2026-10-31 G hard vs Zhang Ying",
-    "2026-11-01 G hard vs Emerson Jones"
+    "2026-11-01 G hard vs Emerson Jones",
+    "2026-11-03 G hard vs Liudmila Samsonova"
    ]
   },
   "adeshina|e": {
@@ -33590,20 +33590,21 @@
    "nombre": "Franziska Sziedat",
    "circuito": "WTA",
    "elo": {
-    "all": 1503.5,
-    "hard": 1503.5,
+    "all": 1548.9,
+    "hard": 1549.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-07-11 P hard vs Viktoria Morvayova",
-    "2026-11-02 G hard vs Madhurima Sawant"
+    "2026-11-02 G hard vs Madhurima Sawant",
+    "2026-11-03 G hard vs Sada Nahimana"
    ]
   },
   "vukadin|n": {
@@ -38574,19 +38575,20 @@
    "nombre": "Katherine Hui",
    "circuito": "WTA",
    "elo": {
-    "all": 1472.6,
-    "hard": 1470.6,
+    "all": 1434.4,
+    "hard": 1432.6,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-10-27 P hard vs Bianca Andreescu"
+    "2026-10-27 P hard vs Bianca Andreescu",
+    "2026-11-03 P hard vs Janice Tjen"
    ]
   },
   "laam lai|c": {
@@ -46738,7 +46740,7 @@
    1
   ],
   "martin etcheverry|t~rublev|a": [
-   1,
+   2,
    1
   ],
   "arnaldi|m~khachanov|k": [
@@ -91612,7 +91614,27 @@
   "fery|a~halys|q": [
    0,
    1
+  ],
+  "samsonova|l~shubladze|a": [
+   0,
+   1
+  ],
+  "eala|a~jones|e": [
+   1,
+   0
+  ],
+  "kudermetova|p~morvayova|v": [
+   1,
+   0
+  ],
+  "hui|k~tjen|j": [
+   0,
+   1
+  ],
+  "nahimana|s~sziedat|f": [
+   0,
+   1
   ]
  },
- "propios": 10564
+ "propios": 10571
 }

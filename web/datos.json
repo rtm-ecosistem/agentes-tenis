@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T13:01+00:00",
+ "actualizado": "2026-11-03T13:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.303,
+      "pct": 0.304,
       "motivo": "Lleva 5 días sin apostar."
      },
      {
@@ -352,14 +352,14 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.202,
+      "pct": 0.203,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.158,
+      "pct": 0.157,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.708,
+      "pct": 0.711,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.292,
+      "pct": 0.289,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.709,
+      "pct": 0.712,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.291,
+      "pct": 0.288,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.708,
+      "pct": 0.711,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.292,
+      "pct": 0.289,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2126,6 +2126,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-03T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-03T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2264,16 +2274,6 @@
    "hora": "2026-11-02T11:34+00:00",
    "texto": "📰 Noticias nuevas de Cameron Norrie – Matteo Arnaldi, Casper Ruud – Juan Manuel Cerundolo: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-03",
@@ -2344,9 +2344,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 34,
-  "aciertos": 0.8235294117647058,
-  "yield": 0.22852941176470587
+  "apuestas": 35,
+  "aciertos": 0.8,
+  "yield": 0.19342857142857142
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -7802,7 +7802,7 @@
    "inicio": "2026-11-03T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.407,
    "elo_general": 0.393,
    "elo_en_superficie": 0.421,
@@ -7866,16 +7866,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3VRT2lVR2VLQmhkT0o2aVQxc0NhN1RtdmdaX0NIVll3LXFUajh2andwMzVHR1RBWFFQSGxLd2QxajlhTl9aZVRMVkpOVzlvajRmZmZYRVV0aG45aDVFa19VQkttQkFZTWk1RGcweWJWLWdqck9Ldm9pVUdHczc2NWo0THZZdnlSVngwUmgzNnFRUFVhM2NReDYyY3RqOHpwOVJmdENB?oc=5"
       },
       {
+       "titulo": "Valentín Vacherot gana el torneo de tenis de Basilea. - Vietnam.vn",
+       "fuente": "Vietnam.vn",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84SnczcDM4QUtOdjRXTko3X3JwLV9VaWQ4X0lMOGxUeXJPUnZNQ1dKTGl4X0k1cXhyRy11SUtwMm5wSFM1VE5fMzVRXzFVY2RrZWxwaGtBLTE1TV8yYnd4WlBMcVZlcU0xcTU4Q3VLdlZRUnE5bzJSd1o4SQ?oc=5"
+      },
+      {
        "titulo": "Alex Michelsen - Jiri Lehecka en directo - Rolex Paris Masters 3 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFRYWWdGbjdNUkU4RFFtUVNPUWdZcVJPclZfQWNjRzZQSWd2eXdXQURWUEVyUktZR0lKdWRxTEFmMExscS1CSlF2ZE56NlF3WENMQjVqRE5KUHRRX0VaRGh4cDRCQ0ZKUzk2bEpTOWFPZW9Kal9MajMya21abi1KbW1vbUhPcW1tdDRn?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alex Michelsen vs Jiri Lehecka - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVVYckRra2tjU0ZHRkZiOVU4ZU5Vc2NEcFZwR1NMUHlzX0c2Zm54LWlfRlAwNjRlMmtxc1pFc0FqUWh3RVNVNUpTTC1uT0pZS3R0UUNrVnItOEVQZ19MdUdTNzByNmpBWTh5LWpJRkppd2ZtdExkbzVCMFJLZGVoOE5USVRvaHha?oc=5"
       }
      ]
     }
@@ -7890,7 +7890,7 @@
    "inicio": "2026-11-03T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.364,
    "elo_general": 0.364,
    "elo_en_superficie": 0.363,
@@ -7978,7 +7978,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -8066,7 +8066,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -8124,6 +8124,12 @@
      "cansancio": "1 partidos, 3 sets y 26 juegos en 3 días; el último el 2026-11-02 contra Matteo Arnaldi, ganó 6-4 1-6 6-3",
      "noticias": [
       {
+       "titulo": "¿Cuál es la programación de París? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
+      },
+      {
        "titulo": "Davidovich se da de baja del Masters 1000 de París - Notimérica",
        "fuente": "Notimérica",
        "fecha": "2026-11-03",
@@ -8134,12 +8140,6 @@
        "fuente": "Diario Neuquino",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzIyc3l6RF9scUdMX0JFci1xWEtPa3RwcHpPNzRLOHNtQTNfRDNfdmF2NnEzT1c3cTZTMzVVei1GMUE1OG1LTEdVWnlaVXcxcjRjLXpUTktpd0lUWXdWbUtwREg0V2UtT3h2SWtfZ1I0eVFLbVJ0dXh5T0RsMFZKNk1MSU80STNuUjhsU1BKaHJuejYtZzdJMnV4anY3TjNhTmJ2RmxnbTFmMmU2Z21zOHRTMy1ScDFSdERvMHQ0Q1FtYnVDTzFPTzNjUDlNMVhOYVFZN3FVUmIzYzRudFl2MkFSRFBXMGlFY3ptNTJsdlNuZnM?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     }
@@ -8154,7 +8154,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,

@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.098,
+     "envidia": 0.097,
      "sorpresa": 0.4,
-     "impaciencia": 0.235,
+     "impaciencia": 0.232,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T12:10+00:00",
+    "hora": "2026-11-03T13:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.186,
+     "impaciencia": 0.183,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T12:10+00:00",
+    "hora": "2026-11-03T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.111,
+     "impaciencia": 0.109,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T12:10+00:00",
+    "hora": "2026-11-03T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.186,
+     "impaciencia": 0.183,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T12:10+00:00",
+    "hora": "2026-11-03T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T11:15+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Sebastian Baez – Damir Dzumhur, Daniil Medvedev – Carlos Alcaraz, Alexander Zverev – Alex de Minaur: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,14 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-03-14",
  "noticias_vistas": [
+  "dbf41419ffa6",
+  "cb685bab2578",
+  "58e90da51572",
+  "c8a3c4768ca8",
+  "094168271ff1",
+  "74d7c8bd6a23",
+  "082259a3f9f2",
+  "5bfb296d027c",
   "30de492efde3",
   "d59717adc184",
   "5adc8752f756",
@@ -2626,10 +2634,18 @@
   "b287160410a3",
   "54659499fbb9",
   "5c4bc5adf4d3",
+  "7d627a5192cc",
+  "6ba5ac35ad43",
+  "70ed554affed",
+  "f4549a3ae21a",
   "91b5642a00d8",
   "8918b97db3e7",
+  "35cc9152c41b",
+  "5f14a8991916",
+  "7b430ebec032",
   "6a2e2d46c697",
   "e240056422ad",
+  "3bf420cab688",
   "dc4bd8543ed0",
   "39b1a3c765c7",
   "dab5d4dab327",
@@ -2649,7 +2665,10 @@
   "b22f973cabd4",
   "6cab07e97be2",
   "f53bea84910c",
+  "3efc6f233b7e",
+  "8eb105c3436e",
   "3691f9861c70",
+  "91dcee354d8f",
   "be76cd031d37",
   "35232302408b",
   "e88260e0914c",
@@ -2667,8 +2686,11 @@
   "61cd07f3fc6f",
   "1ff8555cb9a5",
   "5b4e6c845616",
+  "c9caec0de3eb",
+  "9461547a334e",
   "6af6b99e6bf0",
   "25660e7d6233",
+  "d4230a22cd72",
   "3ee9b283c095",
   "8d3d936f6b29",
   "f27f5968b4e2",
@@ -2677,12 +2699,7 @@
   "4f4cff2ce13f",
   "34ec375747d5",
   "8c2c37250a11",
-  "7d627a5192cc",
-  "6ba5ac35ad43",
-  "70ed554affed",
   "0f2ed3efc2af",
-  "35cc9152c41b",
-  "5f14a8991916",
   "d1779993efdd",
   "7445c87b3bfd",
   "ad6c6d5da5b7",
@@ -2698,6 +2715,7 @@
   "2cdf87a702df",
   "7cb3aba4b810",
   "a9f29ce5381e",
+  "559bd326ffb8",
   "913fcb92357c",
   "12aa34e5d9ee",
   "8b8ce5730ba0",
@@ -2719,7 +2737,6 @@
   "f7423a59f331",
   "a790883ad7e1",
   "0adef1de813c",
-  "3f7a5f250a8d",
   "254cfbdac14f",
   "f3e9f8c45a77",
   "a4c68a9101a4",
@@ -2740,7 +2757,6 @@
   "bbd857feb072",
   "76f72697d1ed",
   "f1e1e09ae963",
-  "094168271ff1",
   "124711e1449d",
   "226f6850ba84",
   "8781ec78fc3b",
@@ -2755,6 +2771,7 @@
   "626507b2042e",
   "0220ebffc36e",
   "4597e318b2cd",
+  "0c54f57af05b",
   "e7625487bf14",
   "0117c774dfae",
   "c4e52c89433e",
@@ -2767,7 +2784,6 @@
   "eb25ecb0a8a1",
   "e1c23a7c1500",
   "29799eb20c6f",
-  "d4230a22cd72",
   "be8b1f2d238c",
   "9ccb76ec55d0",
   "e9e1f4ef7a63",
@@ -2787,6 +2803,7 @@
   "baf8d517ee36",
   "919b0a89770d",
   "aa07bc614857",
+  "1d8def713002",
   "d445a65e7018",
   "f00c491330fe",
   "ae9080a8ab3e",
@@ -2794,10 +2811,12 @@
   "3e1257f9df31",
   "4172a5ac8173",
   "ed7317cfface",
+  "19200ec8ed7c",
   "43c9ea8f2d03",
   "a2b00882788b",
   "c4be9444d109",
   "4db3696d65c1",
+  "51c04091b566",
   "7b0fe4410ec6",
   "e59ffee1a301",
   "4ee8c2a09773",
@@ -2859,8 +2878,8 @@
   "b5acb41a8b92",
   "1e2edcdd6de3",
   "338912faad9c",
+  "9689d61bdf2f",
   "6d9a991c700e",
-  "8eb105c3436e",
   "ea048f30c055",
   "8525ff3039a2",
   "a73d7e8d2fea",
@@ -2881,6 +2900,7 @@
   "10d24ca0789f",
   "2e3d4f2b1740",
   "680658bbad33",
+  "3f7a5f250a8d",
   "54f79982311b",
   "1d57f3d29fc0",
   "3cfcf62df9de",
@@ -2955,6 +2975,7 @@
   "902999a31b66",
   "6371de218eac",
   "697d933e5e96",
+  "8c742e042872",
   "3c6e581cce81",
   "92efff17efc2",
   "e31b6984e0c4",
@@ -3033,6 +3054,7 @@
   "ef3005a4397b",
   "a34178bacf77",
   "50447de92e7e",
+  "cdfcf4c8f0c0",
   "90fc21fc847f",
   "caf234585f41",
   "c5caa276db73",
@@ -3088,9 +3110,11 @@
   "06262b5f868a",
   "7ccbdad0c082",
   "3df875288fb9",
+  "346f90183b8b",
   "530749831abd",
   "de38fd3f8102",
   "343d847903c5",
+  "6e03caca41dc",
   "10b4724a82a0",
   "ff93ce494377",
   "e1ab600ce208",
@@ -3169,6 +3193,7 @@
   "039fa423747a",
   "60ebb3d8eb35",
   "9bb70651db82",
+  "de5359cba8a3",
   "ac181684bbb4",
   "8b1ca933c78a",
   "ac3085e96676",
@@ -3203,6 +3228,7 @@
   "6759dd2f119c",
   "e593df7de844",
   "eb98b7614414",
+  "088d83d7395f",
   "eab97af585f6",
   "4effa43c7192",
   "cbc2eca60a33",
@@ -3310,6 +3336,10 @@
   "ae73f1f7e9ab",
   "dbf2747f537d",
   "e108ecb41ba5",
+  "7aaeae698825",
+  "d779585d830f",
+  "159564075a2f",
+  "6338081f4e33",
   "de9f52f160ac",
   "1d4c3eb82d7c",
   "0590d5ffa2e2",
@@ -3387,37 +3417,7 @@
   "7feeb5ef3df0",
   "956fa28c8105",
   "0fa87f82274d",
-  "66d9cd7783c0",
-  "bd2f11bdc853",
-  "775fdb8636f6",
-  "9cf68e7345d5",
-  "e5958d3051d8",
-  "375e7b322b7a",
-  "173cb04e924c",
-  "1279128c1f75",
-  "559c2054e564",
-  "49488922f840",
-  "53e5a600094a",
-  "6f4c310ce8c2",
-  "d295155899cf",
-  "6caddea5a387",
-  "9686d98f0dba",
-  "9cf11b52f715",
-  "bc2226da5cb5",
-  "791e6a5042cd",
-  "dc78a94662d7",
-  "8a06e56ea361",
-  "1b311e2ae91d",
-  "e8aea730b78b",
-  "041a04e43023",
-  "938d9c0dc78f",
-  "801d6c788a8e",
-  "7056814310ee",
-  "be7ecf260b99",
-  "8661ceadbae6",
-  "29bdd1aeec51",
-  "302dd7961eca",
-  "eb5d57d03489"
+  "66d9cd7783c0"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8897,7 +8897,7 @@
    "inicio": "2026-11-03T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.407,
    "elo_general": 0.393,
    "elo_en_superficie": 0.421,
@@ -8961,16 +8961,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3VRT2lVR2VLQmhkT0o2aVQxc0NhN1RtdmdaX0NIVll3LXFUajh2andwMzVHR1RBWFFQSGxLd2QxajlhTl9aZVRMVkpOVzlvajRmZmZYRVV0aG45aDVFa19VQkttQkFZTWk1RGcweWJWLWdqck9Ldm9pVUdHczc2NWo0THZZdnlSVngwUmgzNnFRUFVhM2NReDYyY3RqOHpwOVJmdENB?oc=5"
       },
       {
+       "titulo": "Valentín Vacherot gana el torneo de tenis de Basilea. - Vietnam.vn",
+       "fuente": "Vietnam.vn",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84SnczcDM4QUtOdjRXTko3X3JwLV9VaWQ4X0lMOGxUeXJPUnZNQ1dKTGl4X0k1cXhyRy11SUtwMm5wSFM1VE5fMzVRXzFVY2RrZWxwaGtBLTE1TV8yYnd4WlBMcVZlcU0xcTU4Q3VLdlZRUnE5bzJSd1o4SQ?oc=5"
+      },
+      {
        "titulo": "Alex Michelsen - Jiri Lehecka en directo - Rolex Paris Masters 3 de noviembre de 2026 - SportyTrader",
        "fuente": "SportyTrader",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFRYWWdGbjdNUkU4RFFtUVNPUWdZcVJPclZfQWNjRzZQSWd2eXdXQURWUEVyUktZR0lKdWRxTEFmMExscS1CSlF2ZE56NlF3WENMQjVqRE5KUHRRX0VaRGh4cDRCQ0ZKUzk2bEpTOWFPZW9Kal9MajMya21abi1KbW1vbUhPcW1tdDRn?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alex Michelsen vs Jiri Lehecka - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVVYckRra2tjU0ZHRkZiOVU4ZU5Vc2NEcFZwR1NMUHlzX0c2Zm54LWlfRlAwNjRlMmtxc1pFc0FqUWh3RVNVNUpTTC1uT0pZS3R0UUNrVnItOEVQZ19MdUdTNzByNmpBWTh5LWpJRkppd2ZtdExkbzVCMFJLZGVoOE5USVRvaHha?oc=5"
       }
      ]
     }
@@ -8985,7 +8985,7 @@
    "inicio": "2026-11-03T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.364,
    "elo_general": 0.364,
    "elo_en_superficie": 0.363,
@@ -9073,7 +9073,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9219,6 +9219,12 @@
      "cansancio": "1 partidos, 3 sets y 26 juegos en 3 días; el último el 2026-11-02 contra Matteo Arnaldi, ganó 6-4 1-6 6-3",
      "noticias": [
       {
+       "titulo": "¿Cuál es la programación de París? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
+      },
+      {
        "titulo": "Davidovich se da de baja del Masters 1000 de París - Notimérica",
        "fuente": "Notimérica",
        "fecha": "2026-11-03",
@@ -9229,12 +9235,6 @@
        "fuente": "Diario Neuquino",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzIyc3l6RF9scUdMX0JFci1xWEtPa3RwcHpPNzRLOHNtQTNfRDNfdmF2NnEzT1c3cTZTMzVVei1GMUE1OG1LTEdVWnlaVXcxcjRjLXpUTktpd0lUWXdWbUtwREg0V2UtT3h2SWtfZ1I0eVFLbVJ0dXh5T0RsMFZKNk1MSU80STNuUjhsU1BKaHJuejYtZzdJMnV4anY3TjNhTmJ2RmxnbTFmMmU2Z21zOHRTMy1ScDFSdERvMHQ0Q1FtYnVDTzFPTzNjUDlNMVhOYVFZN3FVUmIzYzRudFl2MkFSRFBXMGlFY3ptNTJsdlNuZnM?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     }
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T13:01+00:00",
+   "actualizado": "2026-11-03T13:10+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9331,9 +9331,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 34,
+  "apuestas": 35,
   "ganadas": 28,
-  "unidades": 7.77,
+  "unidades": 6.77,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -9346,18 +9346,6 @@
     "seleccion": "Alexander Blockx",
     "punto": null,
     "cuota": 1.63
-   },
-   {
-    "partido": "d25fdbba0ee28a3bbfa27a1b7bf0310b",
-    "jugadores": [
-     "Andrey Rublev",
-     "Tomas Martin Etcheverry"
-    ],
-    "inicio": "2026-11-03T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Andrey Rublev",
-    "punto": null,
-    "cuota": 1.4
    },
    {
     "partido": "18d9ea3abcfe85f9ae47dc0433ac57c7",
@@ -9505,7 +9493,8 @@
    "1a6898d788e3c5c7ecfb78edf5d4e8ab",
    "85efb20e93a6ca08964f6239e9956dae",
    "90da92cf3a7e75dbd2eb358af0340fa8",
-   "db55f6491d2491e31599e3af63c11471"
+   "db55f6491d2491e31599e3af63c11471",
+   "d25fdbba0ee28a3bbfa27a1b7bf0310b"
   ]
  },
  "mercados_casas": {
