@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T23:10+00:00",
+ "actualizado": "2026-11-03T23:24+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -20864,19 +20864,18 @@
    "nombre": "Marina Bassols Ribera",
    "circuito": "WTA",
    "elo": {
-    "all": 1586.4,
-    "hard": 1568.3,
+    "all": 1603.8,
+    "hard": 1591.3,
     "clay": 1691.8,
     "grass": 1532.1
    },
    "n": {
-    "all": 47,
-    "hard": 33,
+    "all": 48,
+    "hard": 34,
     "clay": 10,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-14 G hard vs Eva Bennemann",
     "2026-09-17 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-09-28 G hard vs Olivia Nicholls",
     "2026-09-29 G hard vs You Xiaodi",
@@ -20885,7 +20884,8 @@
     "2026-10-14 P grass vs Francesca Curmi",
     "2026-10-27 G hard vs Victoria Jimenez Kasintseva",
     "2026-10-29 G hard vs Erika Andreeva",
-    "2026-10-30 P hard vs Alina Charaeva"
+    "2026-10-30 P hard vs Alina Charaeva",
+    "2026-11-03 G hard vs Sofia Costoulas"
    ]
   },
   "martynov|d": {
@@ -21185,19 +21185,18 @@
    "nombre": "Sofia Costoulas",
    "circuito": "ATP",
    "elo": {
-    "all": 1470.6,
-    "hard": 1493.9,
+    "all": 1451.2,
+    "hard": 1469.6,
     "clay": 1573.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 35,
-    "hard": 28,
+    "all": 36,
+    "hard": 29,
     "clay": 6,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-19 G clay vs Ayla Aksu",
     "2026-07-29 G hard vs Lizette Cabrera",
     "2026-07-29 P hard vs Maddison Inglis",
     "2026-08-04 P clay vs Gabriela Knutson",
@@ -21206,7 +21205,8 @@
     "2026-09-22 P hard vs Tatiana Prozorova",
     "2026-09-29 G hard vs Kristina Mladenovic",
     "2026-10-01 P hard vs Sofya Lansere",
-    "2026-10-27 P hard vs Valeriya Strakhova"
+    "2026-10-27 P hard vs Valeriya Strakhova",
+    "2026-11-03 P hard vs Marina Bassols Ribera"
    ]
   },
   "tse|e": {
@@ -91795,7 +91795,11 @@
   "mediorreal arias|v~riera|j": [
    0,
    1
+  ],
+  "bassols ribera|m~costoulas|s": [
+   1,
+   0
   ]
  },
- "propios": 10604
+ "propios": 10605
 }
