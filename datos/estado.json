@@ -2616,7 +2616,7 @@
   "betsson": 12024
  },
  "ultima_decision": "2026-11-03",
- "ultima_sala": "2026-11-02-20",
+ "ultima_sala": "2026-11-03-14",
  "noticias_vistas": [
   "30de492efde3",
   "d59717adc184",
@@ -8809,7 +8809,7 @@
    "inicio": "2026-11-03T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.577,
    "elo_general": 0.615,
    "elo_en_superficie": 0.538,
@@ -8833,6 +8833,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "¿Cuál es la programación de París? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
+      },
+      {
        "titulo": "Novak Djokovic, Francisco Cerúndolo y Tomás Etcheverry debutan en el Masters 1000 de París: hora, rivales y todo lo que hay que saber - Diario Neuquino",
        "fuente": "Diario Neuquino",
        "fecha": "2026-11-03",
@@ -8843,12 +8849,6 @@
        "fuente": "Diario AS",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHMwNzhnOUtiTVNRUkozVlBNTEh1T0p0MWN3RkYzR2VsbjhRWlNSYmNDZHJfZTM3ZHo5YVZZV3BWbHdkWkV3aFlKYjk1YW5RU3RfYkpFS2V6ZHFUcGxfVUNWazlmTnhzbHVqVG1lUXhJRmVsRUtrLUhWcVVDNlNRREZFZ043TFN2Wll6aUdNWlhfdXNEbl90OVpHTGzSAbABQVVfeXFMUFN1ZFd5YWg3RHFLbFlleHZzVmE1ZjlqcTJtZnRVb0xFQWcxYTZ3WmhHQzQyUjBZaG9sSHNuYXBUclhyQWN1VUxreUU5cmViM3djQ0c0Y1RZXzBuTWxocDM2TW51NHBJbm1VdTBSc195aEdGRHU2MVZSU1FvVS1tWTZWWFVnOTIzd3JOWU1ReWpsZTFIdFM1TF94ZGFreWE5cTFvQmh2bmplWExnT1FvOFY?oc=5"
-      },
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Djokovic, Jódar y Davidovich - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHJLWUV2UXZrbzd3b2QzWm9qaW1OanBhaGR4WUVSdGpoMUV0SDJVQVQxQlMzMGxnN2VXbzBkRGRQT0NSa2dvdENrdk9NdHBJZnlHa1Q0ZDNjMXNmbFZRWjN4X0pjYkFwMWtvaDZ2anVlMzZOZGZhT3dEOERvWWQ4bUhSNGIzakNGclRRNDVHSkcyNWVwd0tEV3UxQmc5ZVNtRWxudU1VUlBmMFU3aEk4RmtsVFF4ekZGUl9DdGtWemYzRkVLd1HSAcYBQVVfeXFMUHByS1lFdlF2a283d29kM1pvamltTmpwYWhkeFlFUnRqaDFFdEgyVUFUMUJTMzBsZzdlV28wZERkUE9DUmtnb3RDa3ZPTXRwSWZ5R2tUNGQzYzFzZmxWUVozeF9KY2JBcDFrb2g2dmp1ZTM2TmRmYU93RDhEb1lkOG1IUjRiM2pDRnJUUTQ1R0pHMjVlcHdLRFd1MUJnOWVTbUVsbnVNVVJQZjBVN2hJOEZrbFRReHpGRlJfQ3RrVnpmM0ZFS3dR?oc=5"
       }
      ]
     },
@@ -8897,7 +8897,7 @@
    "inicio": "2026-11-03T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.407,
    "elo_general": 0.393,
    "elo_en_superficie": 0.421,
@@ -8985,7 +8985,7 @@
    "inicio": "2026-11-03T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.364,
    "elo_general": 0.364,
    "elo_en_superficie": 0.363,
@@ -9073,7 +9073,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -9131,6 +9131,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Dura jornada para los argentinos en el Masters 1000 de París con eliminaciones en cadena - Ecos Diarios Necochea",
+       "fuente": "Ecos Diarios Necochea",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWtNb2xnQnJTYzdVY0ZlVzFzamYxWkdGS0tpeU9ZUkoyNU0tMTdkZFpYV1dMaWRILUhnU2l4N3hNYVE0c09KX242REV3X3ozcWdrNUpjU2RCSlRPTXZKbmxoZi1vMFVEc2RkWjR1LVh4bzV1OVBtelVjaTJLMUoyczVUYTVjQzlZcWpRdTVXYzJsSEZocVRiZkEzSmMxZlh5ZVI4Qk9hS3g3OW4xOTVv?oc=5"
+      },
+      {
        "titulo": "Joven talento francés elogia a Novak Djokovic al hablar de su meteórico ascenso - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-02",
@@ -9141,12 +9147,6 @@
        "fuente": "Infobae",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTlXd1hyYm5iWHpZMjdXZThBQW9aZTRob0xCN3JMUlU1eFpORF9tRFNMNWRsM2dkMXpTTFlSaC1sUTNxUE9TUGtYVGJsNGN0cTZDbk5yRm03Tml4dmpmdk0zR0pKYzFhaFhVZGtKX0VWX1NNTDlVQnlvY3RBcWV1bDR4aGRoWDlTR0d5QUFrSjItSUc5NlVLTXZfUDk1QS1TY2lUcUxDcm5TamZFZWZXLXVtMW9UaEFnRU9sTll6WDBncWtwdWlwT1g3dFfSAecBQVVfeXFMTTBDd0FpSy1HNmpTV0xLLTY0U01SLU1YSFduWDRMc1UtTklFT0ZXRHgzbGxyajNDN05EN01yTE94WFdyeDJua29EZFprYUtwNzFTb3BvRDlRcThaY0xlM3RKVGdRenB4TWthNi1ab2trdTNwcDlfZlAtcm5MT3dUSkg3OFBORGRoNlN3SjIyNjl6LTI5TFFUc1llVWRkeWJiVEpRbnV5V245bFl1YVdVZWEwTTk0SWlrdlZTbUZEVTVaS0JmVXROeDFYS2JGdVR5Y1d0aHdLb2dTVWpxY3pTYVNPWXJwek5z?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
       }
      ]
     }
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9197,10 +9197,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWdybnB0V1RzZm1PLVFCOUxYMThIeWhWUF96cjRjV1gyNTA5VzBYRms5a2lON1FtVGczbkd2RGpBOWFlQkdZNFVEbEtVT2pvbElXUk9XcloxTTAtU0NwMHhsdzBubmtXNTB0QWMzSlRWblhIYU1WWnhRMWNHTXZtSnFtbmx0a3FPLUoxVEpZcktnNHhLM3NyLXVveUtWam1iTTcwT1hKWUhGMDVmeVpGT3JHcnJ3aUtiaVhSZkhZNkcyM25i0gHKAUFVX3lxTFBEYU5WYTQwS21teFkxbkp3OWlNQUJOaGhQTWk0Z2xsTExtOXdRN2p5QjFxQWNHRFk5NG1rVktVMHZHa281RkhBTk9nOWVnb04wZzE3SC12VEN2aEFWM0g4TXJneks4dHgwd1gycDBLV0ZQZ1FFc0JUeHVZVnYxeW9vRzV5b1VIZWNScWVxc0E4d1o2S0h4R3Rrc2t0NTYtMkFwd0JpdDdPRmtPSUIwZThGSkZTN2NReXpucUdsa09fU3c3LUJHZDFPdXc?oc=5"
       },
       {
-       "titulo": "El manual hacia la cima: cómo Ferrero puede moldear a Shelton tras vencer a Alcaraz para conquistar un Grand Slam - El Español",
-       "fuente": "El Español",
+       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjhnSjl2enlTMUllQl9KaHdoenQwdUdGOXBITWl0dUJvSXdFOW9neXJWMnozeEhKaVpYUFJlS2V4ak16RGYybmlZbTREUXJRZ2FqcG9FWlBQWHVKY0xTMGIzTkJCUkgyMGNZejlpNlFkQkpPN1RMdFg5Q3pCZnl1TnlmcjY5RC0xY3R4RTVpZTYwUUlxc1JYMlgwQWhyUm5zQjhDcmhaSDF1bHNQQjVrRHdDU3QtbG5McGpqYjFCUTJHWGRsQlN6T3E0dFVUVWRKZFY0TVp1NUVBdVFMZ2I5RFRSTdIB6AFBVV95cUxOT2RzaVRlMTRDZVdzbVpNYWE0SXJRMUFsSjdKazc2SWtaNWdYcVZzdFV5NTV5THBRbmRQclp2czhLUl9Wc2J5YmpBbHo4c0dEMkpmWWVBN3NuS2x0RzRFcURXMHJCNXFoU0lJSDB2R2FRMDJSWENKbU0yLS1vMllUQkdXRDlmbERreTJpWXp3VjlZTlhiYWZYQWJGX3JhN19ITEY0VUhsMlMwX0JFdEMzODJPdDdnMzJZXzFWUHZJeTRjcUE1QkNWODd6NW41QWxqcHl2Wm9XMk9uM3pQa1hEMGpkZDdfX1dG?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     },
@@ -9231,10 +9231,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzIyc3l6RF9scUdMX0JFci1xWEtPa3RwcHpPNzRLOHNtQTNfRDNfdmF2NnEzT1c3cTZTMzVVei1GMUE1OG1LTEdVWnlaVXcxcjRjLXpUTktpd0lUWXdWbUtwREg0V2UtT3h2SWtfZ1I0eVFLbVJ0dXh5T0RsMFZKNk1MSU80STNuUjhsU1BKaHJuejYtZzdJMnV4anY3TjNhTmJ2RmxnbTFmMmU2Z21zOHRTMy1ScDFSdERvMHQ0Q1FtYnVDTzFPTzNjUDlNMVhOYVFZN3FVUmIzYzRudFl2MkFSRFBXMGlFY3ptNTJsdlNuZnM?oc=5"
       },
       {
-       "titulo": "Ben Shelton vs Cameron Norrie: Game Spread - Coinbase",
-       "fuente": "Coinbase",
+       "titulo": "Pronóstico Ben Shelton vs Cameron Norrie - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmRDbmxSRnVWSWFWaWZOeGsybjFFOWZ1RVlxY1V5SzRTZ1pERjFjWjB0Z3FnU2RyOFM0eEtLUmcyeHo4My0ydHo4UUlKeWRXTGZJbDdzRVdlQWcwZFZ6UW53dDNzRTZUWUI2dWlfeGFXcERZSV9CU3A5Z3I4VDZYZw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pjQTZPYTg5WWJKLVBEYldraDlKU2g5SENVVXAzWFZoQnk2bGxwYnh5RkFxU3l6cDdKaXF3dXJ4azBwcjhhal9fUmUxQmhsLWdqZEZRLVdXbFdkQkNNaTNDcXdIMWlmeHN3VGNzZlFRN0RuR1lTOXZyV0RBMG4zOWZqZ0R5RHM?oc=5"
       }
      ]
     }
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T12:10+00:00",
+   "actualizado": "2026-11-03T13:01+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9273,6 +9273,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Juan Manuel Cerundolo, ganó 6-3 6-2",
      "noticias": [
       {
+       "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
+      },
+      {
        "titulo": "Rafa Jódar vs Casper Ruud: horario y dónde ver hoy por TV el Masters 1000 de Paris - El Mundo",
        "fuente": "El Mundo",
        "fecha": "2026-11-03",
@@ -9283,12 +9289,6 @@
        "fuente": "El Confidencial",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
-      },
-      {
-       "titulo": "¿Cuáles fueron los resultados de París? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQkkwUTZzZXJCalZQRGczMEZsdWZnQm9LcHlSczVtU190WW0zd0xfWkp2N2lyZy11Tk5kZHRPb2NULWV4cVBQRmEzN2hZY0luVFQtT282VU04UlptWVRr?oc=5"
       }
      ]
     },
@@ -9307,6 +9307,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Ruud - Jódar, horario y dónde ver hoy la segunda ronda del Masters 1.000 de París - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNxdFR1T3ZOcTM1eHFnX1dtOXRZelJLVEszeEdHcjkwaF9XMU0xdGlFb18zT1prWTVwY2VqWkhud3d0T0JHUTE0aXFVamRENWp5WGs3bDJwR1BhMlBCYW5NcmRERnZaOWpPX2ljUUEyZkNteHI1YjNoYTNtNGZfRzI4cXJERGRkNHFzc1ozdEF1eHdVc3RYenIyRTJCbkdUU0lCelZwWl80djNucXMtakFOUmJUMGJ4OG9ybjYyckNqTElidkJfbC1WY0o1Z3hfY1l3V0dENTTSAewBQVVfeXFMTVRmWDFWMnZiR2xRM1RFNzhrcU42STRoLVNqT3ZvTmVNYzIwMGRMbmFSZ0wydGpYa0g5X1cweGR6aFpEek9aY05JcWpoUUI5bktack5aWWdSUlE0N0VFMlFyUERBQTRLMzBwU2x6THNVRkhleGJNcWhiVENlSmRxcGhDb0FaR3ZmZ1RqRVlIeTZnbnZaUHZBTXUxY19CNk95WWIxM3BHRkdBVkxrUEFFanVtRVBVNHNPSlhhQ29RNjhMUTZhcmZxOEtNNUROY3pBV1VocUxETERZb3JDYW1CRXlzNlFiM2FMazdhaUg?oc=5"
+      },
+      {
        "titulo": "Rafa Jódar vs Casper Ruud: horario y dónde ver hoy por TV el Masters 1000 de Paris - El Mundo",
        "fuente": "El Mundo",
        "fecha": "2026-11-03",
@@ -9317,12 +9323,6 @@
        "fuente": "El Confidencial",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
-      },
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Djokovic, Jódar y Davidovich - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHJLWUV2UXZrbzd3b2QzWm9qaW1OanBhaGR4WUVSdGpoMUV0SDJVQVQxQlMzMGxnN2VXbzBkRGRQT0NSa2dvdENrdk9NdHBJZnlHa1Q0ZDNjMXNmbFZRWjN4X0pjYkFwMWtvaDZ2anVlMzZOZGZhT3dEOERvWWQ4bUhSNGIzakNGclRRNDVHSkcyNWVwd0tEV3UxQmc5ZVNtRWxudU1VUlBmMFU3aEk4RmtsVFF4ekZGUl9DdGtWemYzRkVLd1HSAcYBQVVfeXFMUHByS1lFdlF2a283d29kM1pvamltTmpwYWhkeFlFUnRqaDFFdEgyVUFUMUJTMzBsZzdlV28wZERkUE9DUmtnb3RDa3ZPTXRwSWZ5R2tUNGQzYzFzZmxWUVozeF9KY2JBcDFrb2g2dmp1ZTM2TmRmYU93RDhEb1lkOG1IUjRiM2pDRnJUUTQ1R0pHMjVlcHdLRFd1MUJnOWVTbUVsbnVNVVJQZjBVN2hJOEZrbFRReHpGRlJfQ3RrVnpmM0ZFS3dR?oc=5"
       }
      ]
     }
