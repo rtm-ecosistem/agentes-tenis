@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.103,
+     "envidia": 0.102,
      "sorpresa": 0.4,
-     "impaciencia": 0.244,
+     "impaciencia": 0.243,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 5 días sin apostar."
     },
-    "hora": "2026-11-03T09:10+00:00",
+    "hora": "2026-11-03T09:35+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.195,
+     "impaciencia": 0.194,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T09:10+00:00",
+    "hora": "2026-11-03T09:35+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.117,
+     "impaciencia": 0.116,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T09:10+00:00",
+    "hora": "2026-11-03T09:35+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.195,
+     "impaciencia": 0.194,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-03T09:10+00:00",
+    "hora": "2026-11-03T09:35+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-10-31T09:22+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-10-31T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Juan Manuel Cerundolo – Aleksandar Kovacevic, Sebastian Baez – Damir Dzumhur, Valentin Vacherot – Taylor Fritz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-10-31T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-03T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T09:35+00:00",
+   "texto": "📰 Noticias nuevas de Brandon Nakashima – Matteo Berrettini, Stefanos Tsitsipas – Learner Tien, Alejandro Davidovich Fokina – Moise Kouame…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-03T09:35+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,8 @@
  "ultima_decision": "2026-11-03",
  "ultima_sala": "2026-11-02-20",
  "noticias_vistas": [
+  "3691f9861c70",
+  "e88260e0914c",
   "c204c403eb2a",
   "43505a4ec96c",
   "543da9d2c25f",
@@ -2629,12 +2631,15 @@
   "b1fc75f5b611",
   "61cd07f3fc6f",
   "1ff8555cb9a5",
+  "5b4e6c845616",
+  "6af6b99e6bf0",
   "25660e7d6233",
   "f27f5968b4e2",
   "5d1885a816b0",
   "3a2e842eca8e",
   "d59717adc184",
   "4f4cff2ce13f",
+  "34ec375747d5",
   "8c2c37250a11",
   "5adc8752f756",
   "21afa57e6481",
@@ -2642,9 +2647,14 @@
   "b287160410a3",
   "54659499fbb9",
   "5c4bc5adf4d3",
+  "7d627a5192cc",
+  "6ba5ac35ad43",
+  "70ed554affed",
   "91b5642a00d8",
   "8918b97db3e7",
   "0f2ed3efc2af",
+  "35cc9152c41b",
+  "5f14a8991916",
   "d1779993efdd",
   "7445c87b3bfd",
   "ad6c6d5da5b7",
@@ -2657,6 +2667,7 @@
   "f0b83dec0ad3",
   "e367ed0211ae",
   "7cb3aba4b810",
+  "ac2f72307ab6",
   "a9f29ce5381e",
   "913fcb92357c",
   "b480d3f3db68",
@@ -2694,6 +2705,7 @@
   "a7d435098e94",
   "e6254b902a68",
   "75c2d6e4bd62",
+  "df0e158b3b81",
   "bbd857feb072",
   "76f72697d1ed",
   "f1e1e09ae963",
@@ -2710,7 +2722,6 @@
   "2957bb7ecf60",
   "70018d246b71",
   "626507b2042e",
-  "2e3d4f2b1740",
   "0220ebffc36e",
   "e7625487bf14",
   "0117c774dfae",
@@ -2731,18 +2742,15 @@
   "e9e1f4ef7a63",
   "a37cbc9cd903",
   "3fc968e75c7e",
-  "7d627a5192cc",
-  "de704b9e0865",
-  "34ec375747d5",
   "4c796422de9c",
-  "35cc9152c41b",
-  "6ba5ac35ad43",
   "2bdcce7dac2e",
   "2229456db554",
   "b1ca74dd6d87",
   "65500602d43d",
   "ebd51ccf99d4",
   "469f1b77e57c",
+  "a8a5ac1421c9",
+  "5a2dd75c5c20",
   "ecc3a7dc0b62",
   "065644f602df",
   "baf8d517ee36",
@@ -2806,6 +2814,13 @@
   "fdd860c0f2f3",
   "9b0c626e8f52",
   "e249be0b314a",
+  "8f89c7cb4d3f",
+  "230b2b9756c3",
+  "36461407fc25",
+  "231602681581",
+  "dddfac38e55d",
+  "bd709d8ab5e5",
+  "362143bfaeab",
   "70447f48c923",
   "b5acb41a8b92",
   "1e2edcdd6de3",
@@ -2829,6 +2844,7 @@
   "131a959840dc",
   "3b590a2622f9",
   "10d24ca0789f",
+  "2e3d4f2b1740",
   "680658bbad33",
   "54f79982311b",
   "1d57f3d29fc0",
@@ -2848,8 +2864,6 @@
   "4747d15e5d13",
   "02d14462026f",
   "d529832e9c1c",
-  "70ed554affed",
-  "5f14a8991916",
   "0252367f586a",
   "25e68a169159",
   "dfc1d5b67f4c",
@@ -2931,6 +2945,7 @@
   "5d66ceb0ad32",
   "920b32821dc3",
   "8e9c468b3c9e",
+  "de704b9e0865",
   "69e2c3f60dac",
   "aed8563dc980",
   "bad768f74bf6",
@@ -2978,6 +2993,7 @@
   "a34178bacf77",
   "90fc21fc847f",
   "caf234585f41",
+  "c5caa276db73",
   "d434ac1b7df7",
   "e85dd1979add",
   "220c001beac5",
@@ -3160,6 +3176,7 @@
   "6aab09b0883d",
   "ad705725b1b9",
   "4ffd925b6723",
+  "48e80833d3d7",
   "baa88b76c3e3",
   "8d8e0bec50ec",
   "5223e0d8fa48",
@@ -3378,6 +3395,7 @@
   "ef1f371936d2",
   "4a2166eb10a9",
   "07f06bd1e741",
+  "1f56e1831c32",
   "7c3c7d051bec",
   "52a1ff7e02f2",
   "6a3674adfdea",
@@ -3399,25 +3417,7 @@
   "2bff7d9c001d",
   "3c655895307d",
   "581e243e8379",
-  "9b1721be7ba5",
-  "f10e162be8d8",
-  "fd3a215fab65",
-  "23198f3ab07b",
-  "9ee19ab0855e",
-  "f4f00cc489ed",
-  "07babd90e8f4",
-  "819f8dd5d4c5",
-  "33fbfe64ecb1",
-  "67b34a9eb0e0",
-  "71c116668fcb",
-  "55ed9d9ab971",
-  "1774c906e910",
-  "c6197193958a",
-  "f187cd7bc412",
-  "0c05030478b9",
-  "264581bcd2eb",
-  "7d91b613ecea",
-  "29fe3934ee67"
+  "9b1721be7ba5"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -8457,7 +8457,7 @@
    "inicio": "2026-11-03T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.653,
    "elo_general": 0.625,
    "elo_en_superficie": 0.68,
@@ -8545,7 +8545,7 @@
    "inicio": "2026-11-03T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.496,
    "elo_general": 0.505,
    "elo_en_superficie": 0.486,
@@ -8633,7 +8633,7 @@
    "inicio": "2026-11-03T12:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.911,
    "elo_general": 0.911,
    "elo_en_superficie": 0.912,
@@ -8657,22 +8657,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Djokovic, Jódar y Davidovich - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHJLWUV2UXZrbzd3b2QzWm9qaW1OanBhaGR4WUVSdGpoMUV0SDJVQVQxQlMzMGxnN2VXbzBkRGRQT0NSa2dvdENrdk9NdHBJZnlHa1Q0ZDNjMXNmbFZRWjN4X0pjYkFwMWtvaDZ2anVlMzZOZGZhT3dEOERvWWQ4bUhSNGIzakNGclRRNDVHSkcyNWVwd0tEV3UxQmc5ZVNtRWxudU1VUlBmMFU3aEk4RmtsVFF4ekZGUl9DdGtWemYzRkVLd1HSAcYBQVVfeXFMUHByS1lFdlF2a283d29kM1pvamltTmpwYWhkeFlFUnRqaDFFdEgyVUFUMUJTMzBsZzdlV28wZERkUE9DUmtnb3RDa3ZPTXRwSWZ5R2tUNGQzYzFzZmxWUVozeF9KY2JBcDFrb2g2dmp1ZTM2TmRmYU93RDhEb1lkOG1IUjRiM2pDRnJUUTQ1R0pHMjVlcHdLRFd1MUJnOWVTbUVsbnVNVVJQZjBVN2hJOEZrbFRReHpGRlJfQ3RrVnpmM0ZFS3dR?oc=5"
+      },
+      {
+       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
+       "fuente": "Flashscore.cl",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0kyRTAzNWRCTXZLSnJrcDUwTXFEclA4b291Nk0yS3FIelkwSjd2cGx3enJFUUpnMlRGVFk0UkdYUmlIYWhJc1NLTkRwNWlaZHVLb1N1SGphckN0QTNDemI3NXZXOWQ3VGZuSGJxeUJFS21vUmZrRzU5U281N0tIcEZuNVgzTnFaQVBVbA?oc=5"
+      },
+      {
        "titulo": "Davidovich llega renovado y va por más en París - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNS1xQ1dQQWlFLWprM0FDdUJfcGhGaUFZQnY4cEpmblAxSDFzY0JHUE1abU9VQjBLeVdkYmp1MXY1ZklGY3JtVFdMVzRfZEpVVGlLQXl6WktBM3NQVlhqT1RwZ1V4WExyRWtuNFg4cGtGY3NsREpFTWNBZ0ptbTNVbGJCUy0?oc=5"
-      },
-      {
-       "titulo": "Orden de juego (Día 2): Jódar vuelve a escena y Davidovich se estrena - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0ZCWHhfUm1IeW9Db0liQ3d1NFBrNWh0STdOVkdJaWhSYS1TU0xBd3Q3VGhnTFdNeE55aVUtRGhsN01mRHl5WDU1NmpNQUpKZEJhZDNMMkFCa3Btd3ZNQnpGNy05RF8zbjJMSHNTUzcwUERNU25PT2dtTTNKSVd6RHpqQXlCX0puQWtiNEZoNDNOdmlzNHQ5X2VURVlSTVNVekdDMVN3S05MYzhvUjlCTWJwbWhldGlhWHlGOGx3MDdJYmU2b2J6dHA4MVl4ZzBaR3VoaVM4WjJWN01qVWd3WksybmlrWk0?oc=5"
-      },
-      {
-       "titulo": "Davidovich elogia a Jódar tras hacer historia - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWEluMllYMUx4bWhFeVhDZl9XRmY5Vkx6bWJ5dTJMWWZWc1FsS2U3VC1tSEVQWFZBeFBiUk9tZTJOWk4tRXFIbGZ4a0Rkb3NsWExKWWplTmU2d2hyakNibjI0MzFFUWc5SENWSUpEalVYd0dPaFpwbUlBRHQ?oc=5"
       }
      ]
     },
@@ -8697,16 +8697,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN1JiVGozVFpSZ25aY2VTbWNycnE0VWVwd1R1NUYyVWZCQUlJUmdnTG9zVDlnRXFHbXhxOFFIQmFQWmVZc1diTFJHeVktREFaeE9TYzdKQk1EUy1YenlWNVRGeWRZdGVsU3Vvb1pzcDZ1bTBsZ3lDSkRHRUFxQ1VQcm5tVVFaUFVONmVQaUhyTWsyamdpdm53dDZjWDZsSTl5bE5zemJVRFc5SUZ0QzE1QmVSdnFFdmp4Y2g4TVhDVGFGYTd6TVF0NjVUTW5WTk1iaWVseGkzY3VUVnZBaGxEbnQ3MnRVUlBoVjE4?oc=5"
       },
       {
+       "titulo": "Alejandro Davidovich Fokina vs Moïse Kouamé · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2dHVngyZ3RRV3lzejJyVDk2MmN0Nkw1UU41ellYY2dxY0pEN19INmQ5NlNzdEpVSTFSVGhKcWtmT01WcnlCVmJjRHJoQUU3N2l2VXkxZFE1MWFyeDQyTWR6Qm4yZG05VmYzbWVUYXl0cXdvbDlGQU44VlFreFVMWWxMV21zcG1hTDJzeTEyWnR0eDZtdWd6U1BuZHlFUDZIVl8wMTVydjY?oc=5"
+      },
+      {
        "titulo": "Masters 1000 París – Davidovich vs. Kouame: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
        "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREVGMEV2R2VsWm1jUUV2dVJudjdWYm9CQ254ZzcxemtNU19xb1ZKUHV3a0syR2dwck9BallRLVdVd0FSYXF6NTRHVzNiZmJ6aTZYTGwzaVdEUENOU3h3OFBNT2ItNDVLWVhBbElVRWxNVXE1LUxjem9qUVBPdXVEdi1KVXVuZWZZWDVMTTJrTmdMRExpNk9pY3FSc05WUEE1eGhkMkFvUUJZMHVJT0QybUdfa1Nid1piNk54S3Nnaw?oc=5"
-      },
-      {
-       "titulo": "Kouame, Moise - Maestrelli, Francesco, Center Court - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-01",
-       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRkRUaXVNX3ZuYW9LY3A5N1MwRTFBTlNPbWJ1QWg4bXZqRkFzUXZmQ2NRdEx5cmdGNS0xaFE2NlBRQXQtZEotOVJkWEFITjZhcmpiWTF5WGFpRjlEVkNBU1Ruc1dVaXhLWFo0QWpVZnJlUkp2eUZhMHFKcEJmZi1BajFVUUpTemVyM0pidWd1LV9ud2sxRE1SNXYxbm9aVmJpRVZDVmRuMXVLTXpVUFNJWWdUU2M3YnVablJJTkwzYmNqQ05DZjNWOGRUeHJsRzE3c29FekFaY2lPSGNKUVR4UmUxTUMwZFV5dGc0T1Npdm8yemNG?oc=5"
       }
      ]
     }
@@ -8721,7 +8721,7 @@
    "inicio": "2026-11-03T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.68,
    "elo_general": 0.696,
    "elo_en_superficie": 0.663,
@@ -8809,7 +8809,7 @@
    "inicio": "2026-11-03T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.577,
    "elo_general": 0.615,
    "elo_en_superficie": 0.538,
@@ -8833,6 +8833,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Djokovic, Jódar y Davidovich - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHJLWUV2UXZrbzd3b2QzWm9qaW1OanBhaGR4WUVSdGpoMUV0SDJVQVQxQlMzMGxnN2VXbzBkRGRQT0NSa2dvdENrdk9NdHBJZnlHa1Q0ZDNjMXNmbFZRWjN4X0pjYkFwMWtvaDZ2anVlMzZOZGZhT3dEOERvWWQ4bUhSNGIzakNGclRRNDVHSkcyNWVwd0tEV3UxQmc5ZVNtRWxudU1VUlBmMFU3aEk4RmtsVFF4ekZGUl9DdGtWemYzRkVLd1HSAcYBQVVfeXFMUHByS1lFdlF2a283d29kM1pvamltTmpwYWhkeFlFUnRqaDFFdEgyVUFUMUJTMzBsZzdlV28wZERkUE9DUmtnb3RDa3ZPTXRwSWZ5R2tUNGQzYzFzZmxWUVozeF9KY2JBcDFrb2g2dmp1ZTM2TmRmYU93RDhEb1lkOG1IUjRiM2pDRnJUUTQ1R0pHMjVlcHdLRFd1MUJnOWVTbUVsbnVNVVJQZjBVN2hJOEZrbFRReHpGRlJfQ3RrVnpmM0ZFS3dR?oc=5"
+      },
+      {
        "titulo": "Cédric Pioline, director del Masters 1000 de París: \"Novak Djokovic tiene 39 años y, aunque ha anunciado que quiere prolongar su carrera hasta Los Ángeles 2028, vemos que cada vez es más difícil” - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-03",
@@ -8843,12 +8849,6 @@
        "fuente": "Diario del Oeste",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTBJUmNOQ0o3WnU3Uk5Hb2RhZ0xJNk1oZHBLckpxV1VXV1FTalZySW5BQUFUckRvanZVWGhBb1N4eFF4ZHd4enZxMjhkbU9nc2NCRlBaY2Y0UDJIZFYwZ2p6Y1pHUVNFUjk4OGp0aWFRX0FFVHBJd1Z5dWQtd2pwSUF3OGotNHA3a25jTloxd2FHOHVWSExxaXBB?oc=5"
-      },
-      {
-       "titulo": "Masters 1000 de París: a qué hora juegan Cerúndolo, Etcheverry y Djokovic y dónde verlos - La Gaceta",
-       "fuente": "La Gaceta",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1otNUxZeHZjMnMwd191QkQ5WXdVYktUYm1ldFZuX0xKMGhCQ3hZY19MNHRTSWpNN3ZHUGlNbzV5eTFFdXhoWWUwRmVIMVVvSGl1SmhkTDJ5dFh2aUk4UkIzWHVJUEFOb1M1ZVoydVFnRkRVdGZFVnMyMmYxOWp4cHlnc1hiNkZKblVDaEYtZE5rUVhwLXE1Y08yM2JYc2szTl9mNjJQRFFvX0hROWV4UG9lamZEeHFacHE4c0dLMDhYRU9OV0tB0gHMAUFVX3lxTE1MVzZqVVdZX1pSX0JlbjNxTGhaOHMwV19XX3YxYU5yMm51eXl1TXJQZFEtQmFncVBlZFIxWi1IaTQxekNmb2xIU3c4NHU1OFltck1YNV9OcHN0MEpfUFZNNnhmQjdSQnJ4YnJya19IUkxRcm5lQ3g5dDhkdU84T1BqMU9qc1ZDM3B0UEM5Si1tNVZGN1JERTZGQldSR0hadlhtR1BVTlZxMUdaT3dZd1ZSdDV2NFdDdUZDeE1NNm82aHpvNjFlZE5pQ0k5WQ?oc=5"
       }
      ]
     },
@@ -8897,7 +8897,7 @@
    "inicio": "2026-11-03T14:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.407,
    "elo_general": 0.393,
    "elo_en_superficie": 0.421,
@@ -8933,10 +8933,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlo4SF85MUJDYmNRRjFscWl2dy1WSkp4ZTBMNms1RVNWQzZwSlVrd0h3VERDeDlvWFJIaWpGelFUM1F1SUNraE8xS2N0cjhlQ3dRNl92TTljZDFKM185bGV6dGJYeFdFZlFES3Z5Ykcyel9hMkt5SkNHOTEtaUZXR0xXN1ItVXhOeC1lbnNuR19QZ01rM2tkRnd2SE9kaFU?oc=5"
       },
       {
-       "titulo": "Pronóstico Alex Michelsen vs Jiri Lehecka - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
+       "titulo": "Michelsen / Tien vs Krawietz / Pütz · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFNySzNEcmt0d3lWMDdpaE0xRTZTWF9STGEwbTVtVHo4UTlOdENNWHRyaGlMM0tTTmRCZ1FEaDM0U3dtTHhsUkhoNENGZzNoNkdtd3docjhyRlNrb19Qa1BpbE9aZW5EM0FXbVJNWVd6WGcxVU5nV1VNV0lPRW8wLVpXbmhia3BtWS1QZA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlFJMTN6WGhicW9LVVpWejBRelBvckhzSVNBUUM4Q3BRRFEtZ0Y4X0lIckRDUjg3Vkg2ZUhuREVpX0lzZ2VBTkhMSS1LZ2VkRkh0SmtpajhrMkRKMHdxU3ZmUzNFSUIwcjIzSXM4RXU3QVRXNFFkckhzSEM1Rk5NMmxILUxiNU9qUUZlclRia3MyRWZNYWlDYnpVTnhlUHJFbEY4T0E3Rks1Y2loc0YzUzR6aGo?oc=5"
       }
      ]
     },
@@ -8985,7 +8985,7 @@
    "inicio": "2026-11-03T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.364,
    "elo_general": 0.364,
    "elo_en_superficie": 0.363,
@@ -9073,7 +9073,7 @@
    "inicio": "2026-11-03T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.292,
    "elo_general": 0.328,
    "elo_en_superficie": 0.256,
@@ -9109,10 +9109,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXZUaUZFOU5QNGV0a0VDRnBhMzlCOWsxbk5KTmRadEd2WElnVHZLMEFvNUpzSDZERmVocHB2aTBnYTlMdDlvTWpDZ1oyb25SYW1fLWV3clp0RS1ubjhVSWYtX1d0bzducFR1Y20yVWozNmdRMGxXMXhhVElILVhPaXd6cy1CdFprMmREQnM5OHlZOU5uUlFZRlRnLXlaS21nTjhTVGQydkwtLV8tUGwyZWY2MUY?oc=5"
       },
       {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
+       "titulo": "Jan-Lennard Struff vs Arthur Géa · Round 1 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHNJZVRmS1laMVlIQlVzNmM2cWNWbjJZWGsyX0tUSVE1SDIzUmg1QkhwTkJoMVdyNUFLTE9tRm9YWGlnWWJBR211UTl2S25xaWVzQlA1Tnh0NHlud2lvcFlYbFBLQXJGLVB1N2tpNEJIdHRkWFByNzJMWUFoM1NCOVRQSEhpLXVSVjB0RXZ3cS02QUZlRXc?oc=5"
       }
      ]
     },
@@ -9137,16 +9137,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObk1BQUJIVDdLM0hPRDJmT19rdnVwUkVPOWI1TkhidjdPSUZVbGRaZG4wOTBXdnB2X2VpMVR5OWxyMm1PS1M3ZUsycHotSWFSS0lIZlJqOU45MXloWlctN1FDc1dpMVZBUzljdnJkaVZVLVRpaWR0Z2szemY3TVBCZjBmWVV2T0RhT0owcWpHeVBwYmQwTzc4aEpBZjJDcDFjcURZT3laV0tkenVDQnFrdkVxekxJeTNoOXlDSnJqOTEwMnpSWkwxcEl4RkdIaWk5SE5RTGlvYkdvMDQ?oc=5"
       },
       {
+       "titulo": "Cobolli baja en París, acerca un poco más a Jodar a Turín, Tirante entra en cuadro - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTlXd1hyYm5iWHpZMjdXZThBQW9aZTRob0xCN3JMUlU1eFpORF9tRFNMNWRsM2dkMXpTTFlSaC1sUTNxUE9TUGtYVGJsNGN0cTZDbk5yRm03Tml4dmpmdk0zR0pKYzFhaFhVZGtKX0VWX1NNTDlVQnlvY3RBcWV1bDR4aGRoWDlTR0d5QUFrSjItSUc5NlVLTXZfUDk1QS1TY2lUcUxDcm5TamZFZWZXLXVtMW9UaEFnRU9sTll6WDBncWtwdWlwT1g3dFfSAecBQVVfeXFMTTBDd0FpSy1HNmpTV0xLLTY0U01SLU1YSFduWDRMc1UtTklFT0ZXRHgzbGxyajNDN05EN01yTE94WFdyeDJua29EZFprYUtwNzFTb3BvRDlRcThaY0xlM3RKVGdRenB4TWthNi1ab2trdTNwcDlfZlAtcm5MT3dUSkg3OFBORGRoNlN3SjIyNjl6LTI5TFFUc1llVWRkeWJiVEpRbnV5V245bFl1YVdVZWEwTTk0SWlrdlZTbUZEVTVaS0JmVXROeDFYS2JGdVR5Y1d0aHdLb2dTVWpxY3pTYVNPWXJwek5z?oc=5"
+      },
+      {
        "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuota & Estadística - 3 de noviembre de 2026 - Wincomparator",
        "fuente": "Wincomparator",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWRvQmhtYkllQl9NWkdPNFRKbzU1QzFCclA3a3F6SUpwY3F0NnBlNTRjY1dZQzJjVXJPWVBJY0ZvVEM5SXB4VXZ3OUtsT0ZhOW9wdDZtbkJ3R20zNnRlT2RLdzNZdDhBbmJhVTB5WmZQT1JZZUFmVUQ2aWZnckxjdGJmSFJnYTZqMk9YcHJsTQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jan-Lennard Struff vs Arthur Gea - Cuotas y estadísticas - 3 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2xHUENEX216bl9oLXJHMm9mN1BuN3lHLVY0SVV6V0tZdG92ZlcwdkFCNG1ZSUZieVVGdlFmVXNVX1ZteVFKSnZBVTN5WnRiR0FyYkVfUTlpS0xwemE4WWF0OXg3X3FHRENzZGZJZ3huZ3RfY0pJellJTEYwOHZscWtHUC1aVXlyRm04?oc=5"
       }
      ]
     }
@@ -9161,7 +9161,7 @@
    "inicio": "2026-11-03T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.765,
    "elo_general": 0.739,
    "elo_en_superficie": 0.79,
@@ -9225,16 +9225,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmRDbmxSRnVWSWFWaWZOeGsybjFFOWZ1RVlxY1V5SzRTZ1pERjFjWjB0Z3FnU2RyOFM0eEtLUmcyeHo4My0ydHo4UUlKeWRXTGZJbDdzRVdlQWcwZFZ6UW53dDNzRTZUWUI2dWlfeGFXcERZSV9CU3A5Z3I4VDZYZw?oc=5"
       },
       {
+       "titulo": "¿Cuál es la programación de París? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-02",
+       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
+      },
+      {
        "titulo": "Carlos Alcaraz: \"La manera de jugar de Rafa Jódar es una locura. Es muy humilde, un gran chaval, que con su padre está logrando cosas increíbles\" - La Razón",
        "fuente": "La Razón",
        "fecha": "2026-11-02",
        "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOa1VzYnJDQmVjamIyZnFibFZnRGhQTm02OTlHOVNkNEV2TTRTQ0RERTVWTVI4OUVqRE9UdWRKVXRFdkZIMmJiLWFhMGdjV2xqb3JkeVEyVldpQ2dNd0ZNWEswRnVjVW82YW1aWWtWQU9Pb2dYNnczWklaSUI4bnV6bHZ3cU13N1JGa05nRjg2NndqQTBYNUxEWllERGFLTXpxb2VYcHNBdXA0R0JGNUVwTTE1d3VpcmpBVFVwcWw0RzI2UV9OT0lITHJVQlphZEg5SVZfLXYwYVZROW1CYnVaRGl4SEhfWHdGLS1ibkxkazdlbWN4VVdHa3h5RHFqampjNnotZ3VSVE9GYlpzMm1UOERWYlhWQzJiYWlLMlVfR0RTMXlTamNIMtIBqAJBVV95cUxOa1VzYnJDQmVjamIyZnFibFZnRGhQTm02OTlHOVNkNEV2TTRTQ0RERTVWTVI4OUVqRE9UdWRKVXRFdkZIMmJiLWFhMGdjV2xqb3JkeVEyVldpQ2dNd0ZNWEswRnVjVW82YW1aWWtWQU9Pb2dYNnczWklaSUI4bnV6bHZ3cU13N1JGa05nRjg2NndqQTBYNUxEWllERGFLTXpxb2VYcHNBdXA0R0JGNUVwTTE1d3VpcmpBVFVwcWw0RzI2UV9OT0lITHJVQlphZEg5SVZfLXYwYVZROW1CYnVaRGl4SEhfWHdGLS1ibkxkazdlbWN4VVdHa3h5RHFqampjNnotZ3VSVE9GYlpzMm1UOERWYlhWQzJiYWlLMlVfR0RTMXlTamNIMg?oc=5"
-      },
-      {
-       "titulo": "Norrie supera a Arnaldi en París tras un apretado duelo a tres sets - Sofascore",
-       "fuente": "Sofascore",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmdUWTRJUzltRVc2bmhwSGhiSzZKSkxzSHFRRm1aVTFWTl9mLU9wN1BOYzEzb045V3pPY3dHbDdjc0Y2blBrMk1xWTF5UnRWaFBHWjBTbHUzSlh4bGM2WUs2eTMwZjh4WnFHUkE3aFRVTnRMTWo0OERPdjd5dHBhd0Mwa2pTNERlanFYRWV5ZUNMRDhiekFCQnI1Y3E2ZjUycnR3?oc=5"
       }
      ]
     }
@@ -9249,7 +9249,7 @@
    "inicio": "2026-11-03T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-03T09:10+00:00",
+   "actualizado": "2026-11-03T09:35+00:00",
    "elo": 0.372,
    "elo_general": 0.374,
    "elo_en_superficie": 0.37,
@@ -9273,22 +9273,22 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Juan Manuel Cerundolo, ganó 6-3 6-2",
      "noticias": [
       {
+       "titulo": "Jódar vs Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
+      },
+      {
        "titulo": "Jódar - Ruud: horario y dónde ver el partido del Masters 1000 de París 2026 por TV y en directo - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEtZNDFfb0ZMS1VUODBKWkgwRDg2S1dvUE8yWnl2NkpoWGdMQXp4cUcxQXBJeFpuR3RQamxFNUt1WWMzRDFVN0dVOC1rR191cHlWNnh2NUhvRVRjdUlvZGtRdGJyS3N4VHZmaU9OSEFaZHJtemRfZzdkSUxvMEhaQ3NEenJBVFB1NEFodXp5OXFqODB5bXJqUUpZcHl5Qlh2TkdPNVZ3THdzWC1la2lUVG1zY01RQdIBtgFBVV95cUxNVEtZNDFfb0ZMS1VUODBKWkgwRDg2S1dvUE8yWnl2NkpoWGdMQXp4cUcxQXBJeFpuR3RQamxFNUt1WWMzRDFVN0dVOC1rR191cHlWNnh2NUhvRVRjdUlvZGtRdGJyS3N4VHZmaU9OSEFaZHJtemRfZzdkSUxvMEhaQ3NEenJBVFB1NEFodXp5OXFqODB5bXJqUUpZcHl5Qlh2TkdPNVZ3THdzWC1la2lUVG1zY01RQQ?oc=5"
       },
       {
-       "titulo": "Cuándo es el Rafa Jódar – Casper Ruud: horario y canal de televisión para ver en directo y en vivo online g... - OkDiario",
-       "fuente": "OkDiario",
+       "titulo": "Casper Ruud vs Rafael Jódar · Round 2 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWF8tZXhjRDF5TUZKbndwTkVTWnlid2hOSUlTaUZJLVg1UFdlY1RfWHJMNmswMl9BaE9EaUZ2ZF9mYUZZZ2VZbzl5Q0xTUWROQjFka1pzWDdjcHdmdnVOMGhaQl9nMzMyN0Fic1NteTdLdlpZOHhaYTZkSE52Tl94MW5ZYnhQXzBEZ05yRWpVbm5VaHdlX01PT0sxcU9fVW5nSlVqQ080VThkR3BKOERZOEJ0R2tWZUljYzBOb0tsbUlzRWt2cUZFUDJfcElzSUZNRC1vb3N4MXkyVVNfekczUVZtNjVjQlpYam1QMFQ2amtNd9IB9wFBVV95cUxPc0ZNazV1cENfTDhkYmxLczRCaVp6MUZ2X3ZqaXgtTC1Bd2ZyWkZlSUNBRVZnb19ZRTFXX0tDOElVOFNuVmxzVW45S2JtTml4Z2JVQVFHVFZJVk5lcklSU0lWc014elRSUGRaQzdvZVh4N3Q2Z01PeUdMc0piZGVVRTB5LWc2NmZ2cEh4MGRkczFZZ3Nmcmx4aDR2ZWdLVnUxYkNSelFwcnFtNkc4ZFU4bzlvV0xaeDBXLXc1YmVhN3dlamdCZlNWdnZpSlp2SHMzdjQ2c2x2SUNORGhNVGZRdE5LejJFLUstdGNaUVVZSXdIRVhaRjBz?oc=5"
-      },
-      {
-       "titulo": "Highlights: Ruud firma un gran estreno en París 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkNuV2pac0VoMm5JRWdIZ3BLVzVVWmh2eHNFWHA1QVhTQ2oyTDhoMkJPOGFadnJhdm1DQXpXNUVTQVVjaXZ3Y2NrdGVYUTQ1YkZzZGNuVFVOTjFweTVfV2lEbXZ6Z1hzLS1WUl83U3ZKenRPMVNILXVmR1Q1eWUxbkJGQlVFcGx2Uzc3Yw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0toaU9NTGhiVGlMSzFaOWk2OW5Gd2k1WjlpM1VhdnRsOUFDUWpveEFDUWNseHliUm9JM2wzTlJQUlFTTTVXSGZLZXU0bDN2SjZ3WUZHcmk1VTNwZHVfQUM2Q1ZWcU9SN3RVNFUzcFE1N3UwYmRLaHlFUGVJRkJTNTUzMkJCNXJIdmQ2eHJGUnJ2bHRXSUE?oc=5"
       }
      ]
     },
@@ -9307,22 +9307,22 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-02 contra Alejandro Tabilo, ganó 6-2 6-3",
      "noticias": [
       {
+       "titulo": "Jódar vs Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2MtUWV2VFJaM2lzaFFYQ21JQTJPZ0VWRWRLV3REVkdKRlFMNnN1bGoyMW1hd1oxbk8wQjNpY3JWeDBWajB4TElmZXBzMFlZLVd6aXZOcmhibVZ5Q1QtclZTVXo4WUFsSDlnZl9mcFhWbjk1OFVvUGoxRHQ0NVRXaWxHblh2bllMNXJOaUtnN1RTcGVEMk1ZdUpzMDlJcEVhVVg3RmotZkZiTG1Nal84X2FWakU5dnpwekwtTw?oc=5"
+      },
+      {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Djokovic, Jódar y Davidovich - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-03",
+       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHJLWUV2UXZrbzd3b2QzWm9qaW1OanBhaGR4WUVSdGpoMUV0SDJVQVQxQlMzMGxnN2VXbzBkRGRQT0NSa2dvdENrdk9NdHBJZnlHa1Q0ZDNjMXNmbFZRWjN4X0pjYkFwMWtvaDZ2anVlMzZOZGZhT3dEOERvWWQ4bUhSNGIzakNGclRRNDVHSkcyNWVwd0tEV3UxQmc5ZVNtRWxudU1VUlBmMFU3aEk4RmtsVFF4ekZGUl9DdGtWemYzRkVLd1HSAcYBQVVfeXFMUHByS1lFdlF2a283d29kM1pvamltTmpwYWhkeFlFUnRqaDFFdEgyVUFUMUJTMzBsZzdlV28wZERkUE9DUmtnb3RDa3ZPTXRwSWZ5R2tUNGQzYzFzZmxWUVozeF9KY2JBcDFrb2g2dmp1ZTM2TmRmYU93RDhEb1lkOG1IUjRiM2pDRnJUUTQ1R0pHMjVlcHdLRFd1MUJnOWVTbUVsbnVNVVJQZjBVN2hJOEZrbFRReHpGRlJfQ3RrVnpmM0ZFS3dR?oc=5"
+      },
+      {
        "titulo": "¿Qué premio económico ganará el campeón de Shanghái? - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZelBpX1BmUEhzS0QwTWJRcUV6UmlJZGc5S2FvQ1c1SUR2MEdydGEwREdjbUNrczV4Njd1V0dRZEo2ZHc3ODRaV1pVWHhoWTI2eEluUXYxSnJLWWVKWkFBYVdHeVg5TWlZSVE0NFF0Q3hWc2tq?oc=5"
-      },
-      {
-       "titulo": "Jódar - Ruud: horario y dónde ver el partido del Masters 1000 de París 2026 por TV y en directo - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEtZNDFfb0ZMS1VUODBKWkgwRDg2S1dvUE8yWnl2NkpoWGdMQXp4cUcxQXBJeFpuR3RQamxFNUt1WWMzRDFVN0dVOC1rR191cHlWNnh2NUhvRVRjdUlvZGtRdGJyS3N4VHZmaU9OSEFaZHJtemRfZzdkSUxvMEhaQ3NEenJBVFB1NEFodXp5OXFqODB5bXJqUUpZcHl5Qlh2TkdPNVZ3THdzWC1la2lUVG1zY01RQdIBtgFBVV95cUxNVEtZNDFfb0ZMS1VUODBKWkgwRDg2S1dvUE8yWnl2NkpoWGdMQXp4cUcxQXBJeFpuR3RQamxFNUt1WWMzRDFVN0dVOC1rR191cHlWNnh2NUhvRVRjdUlvZGtRdGJyS3N4VHZmaU9OSEFaZHJtemRfZzdkSUxvMEhaQ3NEenJBVFB1NEFodXp5OXFqODB5bXJqUUpZcHl5Qlh2TkdPNVZ3THdzWC1la2lUVG1zY01RQQ?oc=5"
-      },
-      {
-       "titulo": "La asombrosa mejoría de Rafael Jódar en un aspecto clave del juego - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-02",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Z6bkNPbnN0MzNlaFk1ZFhBZ0UtY0xNNDVER0oydGFpOF9sa28xNEk1UmVfTzZKTzNsQjQtN21wWFpPenpjaVM1dnVqX0lqbzc5MWhuNnB4UzcydHdOQ2U3RnVMOUkwQUxsM1YyNzRVQnFzaEZJZFpVOXRBQy04YjlWcFpreGh5eWpwczRmYTRsUEZ4?oc=5"
       }
      ]
     }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T09:10+00:00",
+ "actualizado": "2026-11-03T09:35+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -13937,19 +13937,18 @@
    "nombre": "Maddison Inglis",
    "circuito": "WTA",
    "elo": {
-    "all": 1610.8,
-    "hard": 1635.1,
+    "all": 1589.6,
+    "hard": 1610.8,
     "clay": 1411.9,
     "grass": 1385.4
    },
    "n": {
-    "all": 32,
-    "hard": 29,
+    "all": 33,
+    "hard": 30,
     "clay": 1,
     "grass": 2
    },
    "ultimos": [
-    "2026-07-31 G hard vs Mai Hontama",
     "2026-08-01 P hard vs Taylah Preston",
     "2026-08-25 P hard vs Storm Hunter",
     "2026-09-28 G hard vs Yao Xinxin",
@@ -13958,7 +13957,8 @@
     "2026-10-02 P hard vs Sara Bejlek",
     "2026-10-17 G hard vs Sara Sorribes Tormo",
     "2026-10-18 P hard vs Claire Liu",
-    "2026-10-24 P hard vs Joanna Garland"
+    "2026-10-24 P hard vs Joanna Garland",
+    "2026-11-03 P hard vs Maya Joint"
    ]
   },
   "melnikova|m": {
@@ -15742,19 +15742,18 @@
    "nombre": "Maya Joint",
    "circuito": "WTA",
    "elo": {
-    "all": 1711.1,
-    "hard": 1707.0,
+    "all": 1729.3,
+    "hard": 1728.5,
     "clay": 1438.3,
     "grass": 1450.3
    },
    "n": {
-    "all": 49,
-    "hard": 41,
+    "all": 50,
+    "hard": 42,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-30 P hard vs Sinja Kraus",
     "2026-10-10 P hard vs Mananchaya Sawangkaew",
     "2026-10-17 G hard vs Kyoka Okamura",
     "2026-10-18 G hard vs Kayla Day",
@@ -15763,7 +15762,8 @@
     "2026-10-25 G hard vs Mai Hontama",
     "2026-10-27 G hard vs Sorana Cirstea",
     "2026-10-28 G hard vs Cristina Bucsa",
-    "2026-10-30 P hard vs Kamilla Rakhimova"
+    "2026-10-30 P hard vs Kamilla Rakhimova",
+    "2026-11-03 G hard vs Maddison Inglis"
    ]
   },
   "sevastova|a": {
@@ -91544,7 +91544,11 @@
   "gibson|t~oliynykova|o": [
    1,
    0
+  ],
+  "inglis|m~joint|m": [
+   0,
+   1
   ]
  },
- "propios": 10556
+ "propios": 10557
 }
