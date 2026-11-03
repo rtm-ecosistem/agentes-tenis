@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T22:10+00:00",
+ "actualizado": "2026-11-03T23:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17206,19 +17206,18 @@
    "nombre": "Julia Riera",
    "circuito": "WTA",
    "elo": {
-    "all": 1578.7,
-    "hard": 1571.1,
+    "all": 1588.2,
+    "hard": 1581.4,
     "clay": 1572.3,
     "grass": 1505.3
    },
    "n": {
-    "all": 37,
-    "hard": 32,
+    "all": 38,
+    "hard": 33,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-10 G hard vs Mary Stoiana",
     "2026-09-11 P hard vs Anna Blinkova",
     "2026-09-15 P hard vs Elina Avanesyan",
     "2026-09-22 P hard vs Elena Micic",
@@ -17227,7 +17226,8 @@
     "2026-10-27 G hard vs Rebeka Masarova",
     "2026-10-29 G hard vs Yasmine Kabbaj",
     "2026-10-30 G hard vs Solana Sierra",
-    "2026-10-31 P hard vs Julia Grabher"
+    "2026-10-31 P hard vs Julia Grabher",
+    "2026-11-03 G hard vs Valentina Mediorreal Arias"
    ]
   },
   "oliynykova|o": {
@@ -17372,19 +17372,18 @@
    "nombre": "Julia Grabher",
    "circuito": "WTA",
    "elo": {
-    "all": 1699.2,
-    "hard": 1713.2,
+    "all": 1703.9,
+    "hard": 1719.5,
     "clay": 1586.6,
     "grass": 1522.5
    },
    "n": {
-    "all": 50,
-    "hard": 43,
+    "all": 51,
+    "hard": 44,
     "clay": 3,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-27 G hard vs Guiomar Maristany Zuleta De Reales",
     "2026-10-05 P hard vs Dalma Galfi",
     "2026-10-12 G grass vs Deborah Chiesa",
     "2026-10-14 G grass vs Lidia Encheva",
@@ -17393,7 +17392,8 @@
     "2026-10-29 G hard vs Maria Lourdes Carle",
     "2026-10-30 G hard vs Leyre Romero Gormaz",
     "2026-10-31 G hard vs Julia Riera",
-    "2026-11-01 P hard vs Alice Tubello"
+    "2026-11-01 P hard vs Alice Tubello",
+    "2026-11-03 G hard vs Laura Pigossi"
    ]
   },
   "chang|h": {
@@ -17420,19 +17420,18 @@
    "nombre": "Laura Pigossi",
    "circuito": "WTA",
    "elo": {
-    "all": 1306.4,
-    "hard": 1365.0,
+    "all": 1300.7,
+    "hard": 1357.6,
     "clay": 1434.3,
     "grass": 1373.3
    },
    "n": {
-    "all": 31,
-    "hard": 28,
+    "all": 32,
+    "hard": 29,
     "clay": 1,
     "grass": 2
    },
    "ultimos": [
-    "2026-05-08 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-05-19 P clay vs Claire Liu",
     "2026-06-23 P grass vs Oceane Dodin",
     "2026-07-07 P hard vs Maria Lourdes Carle",
@@ -17441,7 +17440,8 @@
     "2026-09-16 P hard vs Vendula Valdmannova",
     "2026-09-22 P hard vs Ekaterine Gorgodze",
     "2026-10-13 P grass vs Nuria Brancaccio",
-    "2026-10-27 P hard vs Maria Lourdes Carle"
+    "2026-10-27 P hard vs Maria Lourdes Carle",
+    "2026-11-03 P hard vs Julia Grabher"
    ]
   },
   "strakhova|v": {
@@ -17504,14 +17504,14 @@
    "nombre": "Valentina Mediorreal Arias",
    "circuito": "WTA",
    "elo": {
-    "all": 1301.0,
-    "hard": 1300.4,
+    "all": 1283.6,
+    "hard": 1282.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 4,
-    "hard": 4,
+    "all": 5,
+    "hard": 5,
     "clay": 0,
     "grass": 0
    },
@@ -17519,7 +17519,8 @@
     "2025-10-28 P hard vs Despina Papamichail",
     "2025-12-01 P hard vs Luisina Giovannini",
     "2026-03-30 P hard vs Tatjana Maria",
-    "2026-09-08 P hard vs Anna Blinkova"
+    "2026-09-08 P hard vs Anna Blinkova",
+    "2026-11-03 P hard vs Julia Riera"
    ]
   },
   "lepchenko|v": {
@@ -91786,7 +91787,15 @@
   "lourdes carle|m~papamichail|d": [
    0,
    1
+  ],
+  "grabher|j~pigossi|l": [
+   1,
+   0
+  ],
+  "mediorreal arias|v~riera|j": [
+   0,
+   1
   ]
  },
- "propios": 10602
+ "propios": 10604
 }

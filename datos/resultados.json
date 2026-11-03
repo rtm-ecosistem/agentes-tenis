@@ -240156,6 +240156,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Laura Pigossi",
+    "Julia Grabher"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Valentina Mediorreal Arias"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
   }
  ]
 }
