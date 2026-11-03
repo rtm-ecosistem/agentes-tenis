@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T18:10+00:00",
+ "actualizado": "2026-11-03T19:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -257,19 +257,18 @@
    "nombre": "Alex Michelsen",
    "circuito": "ATP",
    "elo": {
-    "all": 1750.1,
-    "hard": 1743.0,
+    "all": 1769.4,
+    "hard": 1763.7,
     "clay": 1523.6,
     "grass": 1531.1
    },
    "n": {
-    "all": 168,
-    "hard": 124,
+    "all": 169,
+    "hard": 125,
     "clay": 24,
     "grass": 20
    },
    "ultimos": [
-    "2026-09-04 G hard vs Daniel Merida",
     "2026-09-06 G hard vs Tomas Martin Etcheverry",
     "2026-09-08 P hard vs Frances Tiafoe",
     "2026-10-01 P hard vs Carlos Alcaraz",
@@ -278,7 +277,8 @@
     "2026-10-22 G hard vs David Goffin",
     "2026-10-23 P hard vs Arthur Fils",
     "2026-10-27 G hard vs Botic van de Zandschulp",
-    "2026-10-29 P hard vs Arthur Fils"
+    "2026-10-29 P hard vs Arthur Fils",
+    "2026-11-03 G hard vs Jiri Lehecka"
    ]
   },
   "thompson|j": {
@@ -1037,19 +1037,18 @@
    "nombre": "Jiri Lehecka",
    "circuito": "ATP",
    "elo": {
-    "all": 1825.3,
-    "hard": 1798.6,
+    "all": 1806.1,
+    "hard": 1778.7,
     "clay": 1694.1,
     "grass": 1735.0
    },
    "n": {
-    "all": 171,
-    "hard": 137,
+    "all": 172,
+    "hard": 138,
     "clay": 20,
     "grass": 14
    },
    "ultimos": [
-    "2026-10-06 P hard vs Carlos Alcaraz",
     "2026-10-10 G hard vs Nuno Borges",
     "2026-10-12 P hard vs Rafael Jodar",
     "2026-10-22 G hard vs Raphael Collignon",
@@ -1058,7 +1057,8 @@
     "2026-10-29 G hard vs Daniel Altmaier",
     "2026-10-30 G hard vs Jerome Kym",
     "2026-10-31 G hard vs Jan-Lennard Struff",
-    "2026-11-01 P hard vs Valentin Vacherot"
+    "2026-11-01 P hard vs Valentin Vacherot",
+    "2026-11-03 P hard vs Alex Michelsen"
    ]
   },
   "zverev|a": {
@@ -1205,19 +1205,18 @@
    "nombre": "Taylor Fritz",
    "circuito": "ATP",
    "elo": {
-    "all": 1830.9,
-    "hard": 1827.1,
+    "all": 1841.5,
+    "hard": 1839.2,
     "clay": 1558.6,
     "grass": 1916.4
    },
    "n": {
-    "all": 212,
-    "hard": 149,
+    "all": 213,
+    "hard": 150,
     "clay": 31,
     "grass": 32
    },
    "ultimos": [
-    "2026-10-01 P hard vs Jaume Munar",
     "2026-10-10 G hard vs Matteo Arnaldi",
     "2026-10-12 P hard vs Stefanos Tsitsipas",
     "2026-10-22 G hard vs Pierre-Hugues Herbert",
@@ -1226,7 +1225,8 @@
     "2026-10-25 P hard vs Lorenzo Musetti",
     "2026-10-28 G hard vs Rinky Hijikata",
     "2026-10-29 G hard vs Denis Shapovalov",
-    "2026-10-31 P hard vs Valentin Vacherot"
+    "2026-10-31 P hard vs Valentin Vacherot",
+    "2026-11-03 G hard vs Benjamin Bonzi"
    ]
   },
   "jarry|n": {
@@ -1449,19 +1449,18 @@
    "nombre": "Benjamin Bonzi",
    "circuito": "ATP",
    "elo": {
-    "all": 1734.2,
-    "hard": 1729.7,
+    "all": 1719.0,
+    "hard": 1713.2,
     "clay": 1590.8,
     "grass": 1415.5
    },
    "n": {
-    "all": 83,
-    "hard": 67,
+    "all": 84,
+    "hard": 68,
     "clay": 11,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-26 G hard vs Rinky Hijikata",
     "2026-08-27 G hard vs Botic van de Zandschulp",
     "2026-08-28 P hard vs Ignacio Buse",
     "2026-09-02 G hard vs Alex Molcan",
@@ -1470,7 +1469,8 @@
     "2026-10-20 G hard vs Cameron Norrie",
     "2026-10-21 P hard vs Tommy Paul",
     "2026-10-31 G hard vs Tallon Griekspoor",
-    "2026-11-01 G hard vs Yannick Hanfmann"
+    "2026-11-01 G hard vs Yannick Hanfmann",
+    "2026-11-03 P hard vs Taylor Fritz"
    ]
   },
   "kotov|p": {
@@ -15009,19 +15009,18 @@
    "nombre": "Mei Yamaguchi",
    "circuito": "WTA",
    "elo": {
-    "all": 1420.5,
-    "hard": 1421.7,
+    "all": 1392.3,
+    "hard": 1394.6,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 19,
-    "hard": 19,
+    "all": 20,
+    "hard": 20,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-25 P hard vs Polina Kudermetova",
     "2026-09-19 G hard vs Ulrikke Eikeri",
     "2026-09-20 P hard vs Kyoka Okamura",
     "2026-09-22 P hard vs Alycia Parks",
@@ -15030,7 +15029,8 @@
     "2026-10-24 G hard vs Linda Fruhvirtova",
     "2026-10-25 P hard vs Harriet Dart",
     "2026-10-31 G hard vs Zeel Desai",
-    "2026-11-01 P hard vs Zhibek Kulambayeva"
+    "2026-11-01 P hard vs Zhibek Kulambayeva",
+    "2026-11-03 P hard vs Zhibek Kulambayeva"
    ]
   },
   "raina|a": {
@@ -16288,19 +16288,18 @@
    "nombre": "Jazmin Ortenzi",
    "circuito": "WTA",
    "elo": {
-    "all": 1525.3,
-    "hard": 1552.9,
+    "all": 1545.9,
+    "hard": 1575.1,
     "clay": 1503.1,
     "grass": 1434.3
    },
    "n": {
-    "all": 34,
-    "hard": 31,
+    "all": 35,
+    "hard": 32,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-06-23 P grass vs Katherine Sebov",
     "2026-08-24 P hard vs Himeno Sakatsume",
     "2026-09-09 P hard vs Mary Stoiana",
     "2026-09-16 G hard vs Chloe Paquet",
@@ -16309,7 +16308,8 @@
     "2026-10-14 P hard vs Polona Hercog",
     "2026-10-26 G hard vs Victoria Bosio",
     "2026-10-28 G hard vs Lourdes Ayala",
-    "2026-10-30 P hard vs Alice Tubello"
+    "2026-10-30 P hard vs Alice Tubello",
+    "2026-11-03 G hard vs Elizabeth Mandlik"
    ]
   },
   "camila torres murcia|m": {
@@ -19219,19 +19219,18 @@
    "nombre": "Elizabeth Mandlik",
    "circuito": "WTA",
    "elo": {
-    "all": 1423.0,
-    "hard": 1461.3,
+    "all": 1401.0,
+    "hard": 1437.5,
     "clay": 1373.3,
     "grass": 1438.8
    },
    "n": {
-    "all": 28,
-    "hard": 25,
+    "all": 29,
+    "hard": 26,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-06-23 P grass vs Alina Charaeva",
     "2026-07-08 G hard vs Momoko Kobori",
     "2026-07-09 G hard vs Reese Brantmeier",
     "2026-07-10 P hard vs Katie Volynets",
@@ -19240,7 +19239,8 @@
     "2026-10-27 G hard vs Emiliana Arango",
     "2026-10-28 G hard vs Selena Janicijevic",
     "2026-10-31 P hard vs Fiona Ferro",
-    "2026-11-01 P hard vs Selena Janicijevic"
+    "2026-11-01 P hard vs Selena Janicijevic",
+    "2026-11-03 P hard vs Jazmin Ortenzi"
    ]
   },
   "gasanova|a": {
@@ -19540,19 +19540,18 @@
    "nombre": "Carole Monnet",
    "circuito": "WTA",
    "elo": {
-    "all": 1584.4,
-    "hard": 1569.8,
+    "all": 1600.5,
+    "hard": 1587.7,
     "clay": 1473.3,
     "grass": 1476.0
    },
    "n": {
-    "all": 51,
-    "hard": 45,
+    "all": 52,
+    "hard": 46,
     "clay": 3,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-22 G hard vs Fiona Crawley",
     "2026-09-24 P hard vs Anastasia Gasanova",
     "2026-09-29 P hard vs Cagla Buyukakcay",
     "2026-10-06 P hard vs Lucrezia Stefanini",
@@ -19561,7 +19560,8 @@
     "2026-10-27 G hard vs Leolia Jeanjean",
     "2026-10-28 G hard vs Carmen Andreea Herea",
     "2026-10-30 G hard vs Nadia Podoroska",
-    "2026-11-01 P hard vs Bianca Andreescu"
+    "2026-11-01 P hard vs Bianca Andreescu",
+    "2026-11-03 G hard vs Maria Herazo Gonzalez"
    ]
   },
   "avanesyan|e": {
@@ -20119,19 +20119,18 @@
    "nombre": "Irene Burillo",
    "circuito": "WTA",
    "elo": {
-    "all": 1562.9,
-    "hard": 1584.5,
+    "all": 1601.1,
+    "hard": 1622.7,
     "clay": 1388.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 23,
-    "hard": 21,
+    "all": 24,
+    "hard": 22,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-07 G hard vs Lucia Bronzetti",
     "2026-09-09 G hard vs Miriam Bulgaru",
     "2026-09-11 G hard vs Elizara Yaneva",
     "2026-09-12 P hard vs Rositsa Dencheva",
@@ -20140,7 +20139,8 @@
     "2026-09-18 P hard vs Alicia Herrero Linana",
     "2026-09-28 P hard vs Valeria Savinykh",
     "2026-10-13 G hard vs Viktoria Morvayova",
-    "2026-10-14 P hard vs Jessica Bouzas Maneiro"
+    "2026-10-14 P hard vs Jessica Bouzas Maneiro",
+    "2026-11-03 G hard vs Elvina Kalieva"
    ]
   },
   "podrez|v": {
@@ -20521,19 +20521,18 @@
    "nombre": "Elvina Kalieva",
    "circuito": "WTA",
    "elo": {
-    "all": 1619.0,
-    "hard": 1628.2,
+    "all": 1590.4,
+    "hard": 1596.3,
     "clay": 1515.2,
     "grass": 1507.5
    },
    "n": {
-    "all": 53,
-    "hard": 36,
+    "all": 54,
+    "hard": 37,
     "clay": 13,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-30 P hard vs Lanlana Tararudee",
     "2026-09-14 P hard vs Kayla Day",
     "2026-09-21 P hard vs Katie Volynets",
     "2026-09-28 G hard vs Ellen Perez",
@@ -20542,7 +20541,8 @@
     "2026-10-05 G hard vs Ma YeXin",
     "2026-10-08 G hard vs Tamara Korpatsch",
     "2026-10-09 G hard vs Aliaksandra Sasnovich",
-    "2026-10-10 P hard vs Kyoka Okamura"
+    "2026-10-10 P hard vs Kyoka Okamura",
+    "2026-11-03 P hard vs Irene Burillo"
    ]
   },
   "vargas|v": {
@@ -29885,19 +29885,18 @@
    "nombre": "Zhibek Kulambayeva",
    "circuito": "WTA",
    "elo": {
-    "all": 1490.3,
-    "hard": 1501.7,
+    "all": 1521.1,
+    "hard": 1534.5,
     "clay": 1498.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 14,
-    "hard": 10,
+    "all": 15,
+    "hard": 11,
     "clay": 4,
     "grass": 0
    },
    "ultimos": [
-    "2026-05-12 P clay vs Anna-Lena Friedsam",
     "2026-05-16 P hard vs Anastasia Zolotareva",
     "2026-07-12 G clay vs Lisa Zaar",
     "2026-07-13 P clay vs Leyre Romero Gormaz",
@@ -29906,7 +29905,8 @@
     "2026-09-13 P hard vs Malaika Rapolu",
     "2026-10-13 P hard vs Francisca Jorge",
     "2026-10-31 G hard vs Yelyzaveta Kotliar",
-    "2026-11-01 G hard vs Mei Yamaguchi"
+    "2026-11-01 G hard vs Mei Yamaguchi",
+    "2026-11-03 G hard vs Mei Yamaguchi"
    ]
   },
   "shiyu|y": {
@@ -38350,20 +38350,21 @@
    "nombre": "Maria Herazo Gonzalez",
    "circuito": "WTA",
    "elo": {
-    "all": 1455.4,
-    "hard": 1455.9,
+    "all": 1418.4,
+    "hard": 1416.6,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-10-26 P hard vs Victoria Rodriguez",
-    "2026-11-01 G hard vs Katrina Scott"
+    "2026-11-01 G hard vs Katrina Scott",
+    "2026-11-03 P hard vs Carole Monnet"
    ]
   },
   "fernanda navarro oliva|m": {
@@ -39811,7 +39812,7 @@
   ],
   "lehecka|j~michelsen|a": [
    1,
-   1
+   2
   ],
   "norrie|c~zeppieri|g": [
    1,
@@ -52819,7 +52820,7 @@
   ],
   "bonzi|b~fritz|t": [
    0,
-   1
+   2
   ],
   "manuel cerundolo|j~medvedev|d": [
    0,
@@ -91514,7 +91515,7 @@
    1
   ],
   "kulambayeva|z~yamaguchi|m": [
-   1,
+   2,
    0
   ],
   "borges|n~molcan|a": [
@@ -91752,7 +91753,19 @@
   "blinkova|a~heddar|f": [
    1,
    0
+  ],
+  "mandlik|e~ortenzi|j": [
+   0,
+   1
+  ],
+  "burillo|i~kalieva|e": [
+   1,
+   0
+  ],
+  "herazo gonzalez|m~monnet|c": [
+   0,
+   1
   ]
  },
- "propios": 10589
+ "propios": 10595
 }
