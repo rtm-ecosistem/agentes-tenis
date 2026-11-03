@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T19:35+00:00",
+ "actualizado": "2026-11-03T20:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1701,19 +1701,18 @@
    "nombre": "Jan-Lennard Struff",
    "circuito": "ATP",
    "elo": {
-    "all": 1731.5,
-    "hard": 1697.3,
+    "all": 1754.4,
+    "hard": 1728.0,
     "clay": 1550.9,
     "grass": 1673.2
    },
    "n": {
-    "all": 142,
-    "hard": 85,
+    "all": 143,
+    "hard": 86,
     "clay": 36,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-10 P hard vs Daniil Medvedev",
     "2026-10-20 G hard vs Marcos Giron",
     "2026-10-21 G hard vs Gauthier Onclin",
     "2026-10-23 G hard vs Zizou Bergs",
@@ -1722,7 +1721,8 @@
     "2026-10-28 G hard vs Yannick Hanfmann",
     "2026-10-29 G hard vs Novak Djokovic",
     "2026-10-30 G hard vs Nuno Borges",
-    "2026-10-31 P hard vs Jiri Lehecka"
+    "2026-10-31 P hard vs Jiri Lehecka",
+    "2026-11-03 G hard vs Arthur Gea"
    ]
   },
   "cilic|m": {
@@ -12563,19 +12563,18 @@
    "nombre": "Arthur Gea",
    "circuito": "ATP",
    "elo": {
-    "all": 1856.3,
-    "hard": 1883.0,
+    "all": 1817.9,
+    "hard": 1836.5,
     "clay": 1398.1,
     "grass": 1492.3
    },
    "n": {
-    "all": 35,
-    "hard": 27,
+    "all": 36,
+    "hard": 28,
     "clay": 6,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-05 G hard vs Michael Zheng",
     "2026-09-07 P hard vs Botic van de Zandschulp",
     "2026-09-28 G hard vs Te Rigele",
     "2026-09-29 G hard vs Tomas Machac",
@@ -12584,7 +12583,8 @@
     "2026-10-07 G hard vs Jaime Faria",
     "2026-10-09 G hard vs Ugo Humbert",
     "2026-10-11 G hard vs Ben Shelton",
-    "2026-10-13 G hard vs Jakub Mensik"
+    "2026-10-13 G hard vs Jakub Mensik",
+    "2026-11-03 P hard vs Jan-Lennard Struff"
    ]
   },
   "chidekh|c": {
@@ -21342,19 +21342,18 @@
    "nombre": "Rebeka Masarova",
    "circuito": "ATP",
    "elo": {
-    "all": 1566.6,
-    "hard": 1542.9,
+    "all": 1548.0,
+    "hard": 1525.2,
     "clay": 1448.8,
     "grass": 1628.7
    },
    "n": {
-    "all": 51,
-    "hard": 35,
+    "all": 52,
+    "hard": 36,
     "clay": 3,
     "grass": 13
    },
    "ultimos": [
-    "2026-09-08 P hard vs Simona Waltert",
     "2026-09-15 G hard vs Mina Hodzic",
     "2026-09-17 P hard vs Alicia Herrero Linana",
     "2026-09-22 G hard vs Lisa Zaar",
@@ -21363,7 +21362,8 @@
     "2026-10-13 G grass vs Noma Noha Akugue",
     "2026-10-16 G grass vs Ane Mintegi Del Olmo",
     "2026-10-16 P grass vs Tamara Zidansek",
-    "2026-10-27 P hard vs Julia Riera"
+    "2026-10-27 P hard vs Julia Riera",
+    "2026-11-03 P hard vs Alice Tubello"
    ]
   },
   "timofeeva|m": {
@@ -22011,19 +22011,18 @@
    "nombre": "Tamara Zidansek",
    "circuito": "WTA",
    "elo": {
-    "all": 1611.2,
-    "hard": 1589.0,
+    "all": 1599.0,
+    "hard": 1576.2,
     "clay": 1558.1,
     "grass": 1580.5
    },
    "n": {
-    "all": 48,
-    "hard": 36,
+    "all": 49,
+    "hard": 37,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-31 P hard vs Maria Timofeeva",
     "2026-09-07 P hard vs Tessa Johanna Brockmann",
     "2026-09-22 P hard vs Kimberly Birrell",
     "2026-09-28 P hard vs Ksenia Zaytseva",
@@ -22032,7 +22031,8 @@
     "2026-10-16 G grass vs Rebeka Masarova",
     "2026-10-17 P grass vs Laura Samson",
     "2026-10-27 G hard vs Katrina Scott",
-    "2026-10-30 P hard vs Alicia Herrero Linana"
+    "2026-10-30 P hard vs Alicia Herrero Linana",
+    "2026-11-03 P hard vs Bianca Andreescu"
    ]
   },
   "isabell guillen|g": {
@@ -23670,19 +23670,18 @@
    "nombre": "Alice Tubello",
    "circuito": "ATP",
    "elo": {
-    "all": 1657.7,
-    "hard": 1682.1,
+    "all": 1681.3,
+    "hard": 1702.2,
     "clay": 1438.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 26,
-    "hard": 24,
+    "all": 27,
+    "hard": 25,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-15 G hard vs Vivian Wolff",
     "2026-09-16 G hard vs Dalma Galfi",
     "2026-09-18 P hard vs Samira De Stefano",
     "2026-09-22 G hard vs Dalila Spiteri",
@@ -23691,7 +23690,8 @@
     "2026-10-28 G hard vs Luna Maria Cinalli",
     "2026-10-30 G hard vs Jazmin Ortenzi",
     "2026-10-31 G hard vs Nauhany Vitoria Leme Da Silva",
-    "2026-11-01 G hard vs Julia Grabher"
+    "2026-11-01 G hard vs Julia Grabher",
+    "2026-11-03 G hard vs Rebeka Masarova"
    ]
   },
   "vickery|s": {
@@ -27972,19 +27972,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1812.7,
-    "hard": 1803.5,
+    "all": 1825.5,
+    "hard": 1816.5,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 42,
-    "hard": 34,
+    "all": 43,
+    "hard": 35,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-13 G hard vs Mia Ristic",
     "2026-10-15 G hard vs Antonia Ruzic",
     "2026-10-16 G hard vs Lucrezia Stefanini",
     "2026-10-17 G hard vs Lucie Havlickova",
@@ -27993,7 +27992,8 @@
     "2026-10-30 G hard vs Diletta Cherubini",
     "2026-10-31 G hard vs Alicia Herrero Linana",
     "2026-11-01 G hard vs Carole Monnet",
-    "2026-11-01 G hard vs Tatjana Maria"
+    "2026-11-01 G hard vs Tatjana Maria",
+    "2026-11-03 G hard vs Tamara Zidansek"
    ]
   },
   "kumru|a": {
@@ -84819,7 +84819,7 @@
    1
   ],
   "andreescu|b~zidansek|t": [
-   0,
+   1,
    1
   ],
   "pridankina|e~qinwen|z": [
@@ -91769,7 +91769,15 @@
   "norrie|c~shelton|b": [
    0,
    1
+  ],
+  "gea|a~lennard struff|j": [
+   0,
+   1
+  ],
+  "masarova|r~tubello|a": [
+   0,
+   1
   ]
  },
- "propios": 10596
+ "propios": 10599
 }
