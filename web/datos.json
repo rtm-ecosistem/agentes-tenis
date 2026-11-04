@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T11:10+00:00",
+ "actualizado": "2026-11-04T11:38+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.122,
+      "pct": 0.121,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.773,
+      "pct": 0.775,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.227,
+      "pct": 0.225,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -781,14 +781,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.769,
+      "pct": 0.771,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.231,
+      "pct": 0.229,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1002,14 +1002,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.773,
+      "pct": 0.775,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.227,
+      "pct": 0.225,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1020,56 +1020,6 @@
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
   "partidos": [
-   {
-    "id": "bff9716e2c2e4b207744b20ff82a2241",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T11:30+00:00",
-    "jugadores": [
-     "Tommy Paul",
-     "Daniel Merida Aguilar"
-    ],
-    "opciones": [
-     {
-      "id": "bff9716e2c2e4b207744b20ff82a2241|h2h|Daniel Merida Aguilar|",
-      "mercado": "h2h",
-      "nombre": "Daniel Merida Aguilar",
-      "punto": null,
-      "cuota": 4.1,
-      "pinnacle": 4.63
-     },
-     {
-      "id": "bff9716e2c2e4b207744b20ff82a2241|h2h|Tommy Paul|",
-      "mercado": "h2h",
-      "nombre": "Tommy Paul",
-      "punto": null,
-      "cuota": 1.24,
-      "pinnacle": 1.22
-     },
-     {
-      "id": "bff9716e2c2e4b207744b20ff82a2241|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.84,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "bff9716e2c2e4b207744b20ff82a2241|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.87,
-      "pinnacle": 1.92
-     }
-    ],
-    "pinnacle_h2h": {
-     "Daniel Merida Aguilar": 4.63,
-     "Tommy Paul": 1.22
-    }
-   },
    {
     "id": "bc5dffba531009c0a80d3facb9410062",
     "deporte": "tennis_atp_paris_masters",
@@ -2376,6 +2326,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-04T11:38+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T11:38+00:00",
+   "texto": "📰 Noticias nuevas de Ignacio Buse – Daniil Medvedev, Alexander Zverev – Lorenzo Musetti, Matteo Berrettini – Ugo Humbert…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2514,16 +2474,6 @@
    "hora": "2026-11-03T12:10+00:00",
    "texto": "📰 Noticias nuevas de Alex Michelsen – Jiri Lehecka, Ben Shelton – Cameron Norrie: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Alejandro Davidovich Fokina – Moise Kouame, Tommy Paul – Holger Rune, Novak Djokovic – Valentin Vacherot…: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-04",
@@ -2594,9 +2544,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 42,
-  "aciertos": 0.7380952380952381,
-  "yield": 0.09095238095238095
+  "apuestas": 43,
+  "aciertos": 0.7209302325581395,
+  "yield": 0.06558139534883721
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -8844,7 +8794,7 @@
    "inicio": "2026-11-04T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.187,
    "elo_general": 0.216,
    "elo_en_superficie": 0.158,
@@ -8868,22 +8818,22 @@
      "cansancio": "1 partidos, 2 sets y 18 juegos en 3 días; el último el 2026-11-02 contra Zizou Bergs, ganó 6-2 6-4",
      "noticias": [
       {
+       "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO vía ESPN y Disney Plus: ver gratis por Masters 1000 de París - Depor",
+       "fuente": "Depor",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXVUekdOdGlBWWtDbjFLZ1hiQTBmQi1nQm5IMFYzSUhpcWk3UDRoSDgtVzdBYkhWMVdfQnUyZklQQUpPVWRQbnozNHA1SmU4OTQtME1SalVacjZiNl9VdmI3NHh5d0o0RXQwYnhtRTVWWFdEckw3NTJ2SVlCT3FVRThCS0lsLTlnTDNtY1V0Zm1DS0g3V0RWTEFKSmJFSmRWdDZTTVo0a2tabzJHQXh0Q1FOWVVEVmVHMTdPd0gxeXFFYzFjcVJzNHl3MW9FOEdjd0laM09RM2xULXlJWVpBcWRqTTMwd3lhZjQ1SmJ3MzY3YmtBLWtOR212VU5LVDh6QlllaDFqLU5uclVYdnNTS0VXc9IBpwJBVV95cUxNbWdpaFM2Vk85ZXpaOGgySGZobGVzdmpfRkkwZzFYUEQ3M1FMRUJOeGhGQ1hsaXNnU2JYaFpFMFd6c3E2NXlSLTZ3R09VT3JKdWFFTVA3VzdIS1E2WHR4RzBjaU1KTTc2NXNRcWM4WVk1SVhfRFNZeE04QnQ5eGZGYi0xcGdpdXRyc25nZHdrR182cGpHUzJibWpUSU4tX18zVEJieVgyb3ZDeWpzenRFcVYwemRkb0Q5czVYSkMtaXpITkpxRnJ6X1I5QnMwbzhyRlpUV0NvUWV1YVFsTExTa3E2RDRpV1lXS1NnSVh1bFBRV1QyNWFJZkRoelU4NG9vWkhTTmo0OERSVmxHc0V6TF9pUVNFWkNiMkp4TlNjLWFJTjNGMFVB?oc=5"
+      },
+      {
        "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
        "fuente": "El Comercio Perú",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn0gH8AUFVX3lxTE8ySXEweW1ZUmRNbDVQT0RfZE1zeHR1RWZhbm0xRjR3QlBuSGkwUHlYVkM4dk1SVGk1SV94QUhNcjRlaVhodXEtajAtUENwLUV2ZDlrV3JyYTJLZnJhN0IzSnlrQjg1eTJYX05LOTYzeXFDekstNURwcEVRUklLMy1kUHk5cFRDZ2VlRFhRSnRTZHpNcTUxNzZMaXB0MFVLSUxTVmxVTEE4d3A3WVlnSzRwMXRkdUJxRC0wcmVNZlhIR0Npc1BubVZjWTFUZWF5dFRvUTJfTmlZcWZESnpPcWI2YzRwTWl5Ylo0WGNkRFFnYTVzQkNmVy1BNUZNRQ?oc=5"
       },
       {
-       "titulo": "Ignacio Buse - Daniil Medvedev en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
+       "fuente": "El Comercio Perú",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDJsWlZpWjljZTRCTVdpdHFWYTZEN1F4VURNamNueWNhb1czRXNXZkoyQVRjdG03eG1pb1dxMUZNV0hQcm4tWmk4dEFIcFJPUk5XMjBwUDlKWTBzWmh6TURELWVTaFpuRUdDS3NYdjJhcEhyVHEyeFlvWkFjTzRXNmx0VTdXUnJIb2dDTUVSdVBuNmN4NDhITjVXSUJLSDItODdUNFhXXzNqS2dIVE5aMTFHLU9CZw?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs Daniil Medvedev · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTdsaEFxeTFuZEJwLW04SlNmcEdWbVg4RkZIbHJCaXNUQ2N3by1hVndTT1hBdDVpUkxuWjNNdEFyM2Q1M0VrdFBTNlVFWHVQZTBHbURjMWgwazRuU3VKTzNTUHJEZmh5bzFmS2NYaDJrSXRBQ0dkclgwUUhTWUhqRHR0OVhzS2FHZlZnWXZUUTlWUnFMcURTZmdR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn?oc=5"
       }
      ]
     },
@@ -8902,22 +8852,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO vía ESPN y Disney Plus: ver gratis por Masters 1000 de París - Depor",
+       "fuente": "Depor",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXVUekdOdGlBWWtDbjFLZ1hiQTBmQi1nQm5IMFYzSUhpcWk3UDRoSDgtVzdBYkhWMVdfQnUyZklQQUpPVWRQbnozNHA1SmU4OTQtME1SalVacjZiNl9VdmI3NHh5d0o0RXQwYnhtRTVWWFdEckw3NTJ2SVlCT3FVRThCS0lsLTlnTDNtY1V0Zm1DS0g3V0RWTEFKSmJFSmRWdDZTTVo0a2tabzJHQXh0Q1FOWVVEVmVHMTdPd0gxeXFFYzFjcVJzNHl3MW9FOEdjd0laM09RM2xULXlJWVpBcWRqTTMwd3lhZjQ1SmJ3MzY3YmtBLWtOR212VU5LVDh6QlllaDFqLU5uclVYdnNTS0VXc9IBpwJBVV95cUxNbWdpaFM2Vk85ZXpaOGgySGZobGVzdmpfRkkwZzFYUEQ3M1FMRUJOeGhGQ1hsaXNnU2JYaFpFMFd6c3E2NXlSLTZ3R09VT3JKdWFFTVA3VzdIS1E2WHR4RzBjaU1KTTc2NXNRcWM4WVk1SVhfRFNZeE04QnQ5eGZGYi0xcGdpdXRyc25nZHdrR182cGpHUzJibWpUSU4tX18zVEJieVgyb3ZDeWpzenRFcVYwemRkb0Q5czVYSkMtaXpITkpxRnJ6X1I5QnMwbzhyRlpUV0NvUWV1YVFsTExTa3E2RDRpV1lXS1NnSVh1bFBRV1QyNWFJZkRoelU4NG9vWkhTTmo0OERSVmxHc0V6TF9pUVNFWkNiMkp4TlNjLWFJTjNGMFVB?oc=5"
+      },
+      {
        "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
        "fuente": "El Comercio Perú",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn0gH8AUFVX3lxTE8ySXEweW1ZUmRNbDVQT0RfZE1zeHR1RWZhbm0xRjR3QlBuSGkwUHlYVkM4dk1SVGk1SV94QUhNcjRlaVhodXEtajAtUENwLUV2ZDlrV3JyYTJLZnJhN0IzSnlrQjg1eTJYX05LOTYzeXFDekstNURwcEVRUklLMy1kUHk5cFRDZ2VlRFhRSnRTZHpNcTUxNzZMaXB0MFVLSUxTVmxVTEE4d3A3WVlnSzRwMXRkdUJxRC0wcmVNZlhIR0Npc1BubVZjWTFUZWF5dFRvUTJfTmlZcWZESnpPcWI2YzRwTWl5Ylo0WGNkRFFnYTVzQkNmVy1BNUZNRQ?oc=5"
       },
       {
-       "titulo": "Ignacio Buse - Daniil Medvedev en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
+       "fuente": "El Comercio Perú",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDJsWlZpWjljZTRCTVdpdHFWYTZEN1F4VURNamNueWNhb1czRXNXZkoyQVRjdG03eG1pb1dxMUZNV0hQcm4tWmk4dEFIcFJPUk5XMjBwUDlKWTBzWmh6TURELWVTaFpuRUdDS3NYdjJhcEhyVHEyeFlvWkFjTzRXNmx0VTdXUnJIb2dDTUVSdVBuNmN4NDhITjVXSUJLSDItODdUNFhXXzNqS2dIVE5aMTFHLU9CZw?oc=5"
-      },
-      {
-       "titulo": "El refugio secreto de Daniil Medvedev junto al río Moscova - Noticias del Vino",
-       "fuente": "Noticias del Vino",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVWU3SmgwQ0NPWDlfZGxIY3BaY2FrVUhPSHI3Tzk5WGhvUVdRaGdhOVd5aUtvRVJmOUVHQnBPa3AtSlRadV9uNXFtcHUxODkxLXNSYWwwNlZ1N0M3b21wcTRPVGxHQTZ4MEpDdE5PR21ERmhkRHlZWmZiM255ZXRSQV9XWlZGdjFqX05IdzVzUmVWcVlNR1pYblFnSzV3V0JUaGtVSy1jd3RRcGxsVTBtaWlHSXhUTmNMc1QyR2VBSEdCb2N1VmUzV0xpX3VGaHdPU2lwOG1GRjlJcy10X3ZlLUdOLVRjcXFpRjlBcEdtOA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn?oc=5"
       }
      ]
     }
@@ -8932,7 +8882,7 @@
    "inicio": "2026-11-04T12:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.695,
    "elo_general": 0.709,
    "elo_en_superficie": 0.681,
@@ -8956,6 +8906,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Lorenzo Musetti, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQVpKc0dlY3pEV3FmN3pBOVFUNy1rek9PVnBWSjFHRy13UERtUjhmbFBDLUZsUmpkb0hRdjBraGsxamtWTTRpRkdTUHM3bWZuVlJyVGhPSV9ENGRMb2x5ZVlPOGFhN0FpVm1hd3gydkRLSnc2Z1UzOTNyQTlNVWFOMWdRejhkZjhCUTRyd2lfU3VjemJyMXY1TUhQWjlpU1B5eWZQb3NTdjdSRERjVzFLWHdJMUR2TmpjMnhLSURrc19DRmRTazZBZ25NbEpHRU5qTjBaZWZPYTFtQS1UNUNETjgydElrLWJNMU1STFIzMWFiVUdn?oc=5"
+      },
+      {
        "titulo": "¿Alexander Zverev, el mejor tenista del año? El análisis, entre números e intangibles - TyC Sports",
        "fuente": "TyC Sports",
        "fecha": "2026-11-04",
@@ -8966,12 +8922,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2U1dVA4ZDVqcm45ZzJEMzdUTkc4T2lNYnpqLW9DOHVwSDlzQmJIYk1qalZGUHFNd19SOTRDVEw1OEhrbTF1dFhkRUZxeGQteDNSVm9heTJPcE5iZ0RlVzc0azJEZUFtcEFlZjVmajlnRnZlRmpCOFdYWEZkU1dINlJDY0tlNkVPT0JKekJKVml1dEVGcnpnZmVDMGNtMXoxUC1wa2V4SmYxdlRiN0NjZkVvclNKeTRUMkk4?oc=5"
-      },
-      {
-       "titulo": "Zverev, el nuevo número uno del tenis, estalla contra la ATP y anuncia su primera renuncia: \"Esto ya no tiene sentido. Vamos en la dirección equivocada\" - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRDlPalVXcjlzcHJvSUtZbEF4QTFYdFpVM1l1STBBV0Y1S0JkUTdCRHo5ajRRS1JrQVhJYjVjYzV1XzlvdUN5bEppaFEwMVJBcGF5eXBfaTJFYm0xdWdpVFlVMHJGWUF3eGZoU2VoZFVPNXYxR1JBNWZOakJTZDRSd3J0MnVNR3AxTFHSAYoBQVVfeXFMUHduRFF5aW5LVlBrdUM2UjNMUTZmVEx1T1JQSVIzSFlQT0NPZUo2YWNFUmtRX0d1aXNYRzRsek9IVF9pOGhPLWl0YlJBWkVmWUlBS3dHQWc3eElvN2NuZDdfQU1sODJ5enQ5bWdjVWliX05iOVRwRzVrcjJmUkw1Mkh0Q0M1WHlvLTJ3?oc=5"
       }
      ]
     },
@@ -8990,22 +8940,22 @@
      "cansancio": "1 partidos, 2 sets y 26 juegos en 3 días; el último el 2026-11-02 contra Hubert Hurkacz, ganó 7-6 7-6",
      "noticias": [
       {
+       "titulo": "Alexander Zverev - Lorenzo Musetti, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQVpKc0dlY3pEV3FmN3pBOVFUNy1rek9PVnBWSjFHRy13UERtUjhmbFBDLUZsUmpkb0hRdjBraGsxamtWTTRpRkdTUHM3bWZuVlJyVGhPSV9ENGRMb2x5ZVlPOGFhN0FpVm1hd3gydkRLSnc2Z1UzOTNyQTlNVWFOMWdRejhkZjhCUTRyd2lfU3VjemJyMXY1TUhQWjlpU1B5eWZQb3NTdjdSRERjVzFLWHdJMUR2TmpjMnhLSURrc19DRmRTazZBZ25NbEpHRU5qTjBaZWZPYTFtQS1UNUNETjgydElrLWJNMU1STFIzMWFiVUdn?oc=5"
+      },
+      {
+       "titulo": "Highlights: Musetti frena a Hurkacz con un gran debut en París - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclR0Ri1xRXQxd1ItN2FYVU5uOEQwTGlWUEQ2aEg2X1RNbXVfUllDY3FGYW0xX0h1NVJnb0JFNVZEUVVTNXFqZWl4SGJMenBzU25nUnEtZ2dKcjZTWjREaHk1eVhzZ19lajc2dXZwZW1hMHNlVGNPdFkxcmd6d3ZBcHlTQmgxcVFCdDVRZkhWdU5JNm1YTkRJOTlGSU0?oc=5"
+      },
+      {
        "titulo": "Alexander Zverev - Lorenzo Musetti en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2U1dVA4ZDVqcm45ZzJEMzdUTkc4T2lNYnpqLW9DOHVwSDlzQmJIYk1qalZGUHFNd19SOTRDVEw1OEhrbTF1dFhkRUZxeGQteDNSVm9heTJPcE5iZ0RlVzc0azJEZUFtcEFlZjVmajlnRnZlRmpCOFdYWEZkU1dINlJDY0tlNkVPT0JKekJKVml1dEVGcnpnZmVDMGNtMXoxUC1wa2V4SmYxdlRiN0NjZkVvclNKeTRUMkk4?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev vs Lorenzo Musetti · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0FkM21QMEQydi03THFRR1QwbnZQcjlTRWxxOGhiQkFKd2dXSGJta09yYWdoc1d1RklkSDFQQ0lWdFk0Y3UyMDZjQkRHTDhxNmxFY3NuVzVrU3BpT0VCMWtzR1R2SUx1X2Z5XzljSTBHTFB6Nzg4aEMwcUdXQUtSRXdocVJPeTJkTmx0TndnUTBnQ3Z3YURkSzA3Zw?oc=5"
-      },
-      {
-       "titulo": "Masters 1000 París - Zverev vs. Musetti: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUM4VFExS0JsZHBMc2dWbXZpMnp3eG56Y0VoVVNXdE1xZVJKcXRpTmRuWlNKYzhvRmpzaFRseW9POHV2NDV0dmZiMHE2UmlyU3I0YjRTakpqRFk0Mi1qTjFZRGtobFFzWklaRW5xUUtyNUw0STlsLUFzZXdWNkdtUWRTTzZWdFB1UXJpVVRfbEtyM0JDTlo3QVFPVTBWZk9iMUl0S0hyZ29aYTdhVmtzTw?oc=5"
       }
      ]
     }
@@ -9020,7 +8970,7 @@
    "inicio": "2026-11-04T12:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.158,
    "elo_general": 0.155,
    "elo_en_superficie": 0.161,
@@ -9108,7 +9058,7 @@
    "inicio": "2026-11-04T13:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.812,
    "elo_general": 0.838,
    "elo_en_superficie": 0.786,
@@ -9196,7 +9146,7 @@
    "inicio": "2026-11-04T13:50+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.405,
    "elo_general": 0.394,
    "elo_en_superficie": 0.416,
@@ -9284,7 +9234,7 @@
    "inicio": "2026-11-04T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.466,
    "elo_general": 0.478,
    "elo_en_superficie": 0.454,
@@ -9372,7 +9322,7 @@
    "inicio": "2026-11-04T15:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.359,
    "elo_general": 0.356,
    "elo_en_superficie": 0.362,
@@ -9460,7 +9410,7 @@
    "inicio": "2026-11-04T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.511,
    "elo_general": 0.543,
    "elo_en_superficie": 0.479,
@@ -9490,16 +9440,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1BNV25NNjhiMlhJallxZ3o5T0ZGaUNHa2t2b3g1NXBjUVJoOFR1c3dTZnp2b3l3TWgzOW5kS1A3UDlhT3hvM3pwb1FQMTQ2WHdmUUdJdl9sRWxsWDZOMGhDdWE1YkE5RXRTY2tIbXRhTTc3WHpRUjRSSVBFQTVSb01IcHc0THBQWEtLcHJIMi0zX2VmZzdheXpHenBsblZQYXM2MmI1WVNoZ0JhUTMtVFRweHdxYzA?oc=5"
       },
       {
+       "titulo": "Matteo Berrettini - Ugo Humbert en directo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGN3V0RGVFB6bkY4RVFqVWppMkJTX1JBQ3JiM1VQZ3pHSTNjWHdITXlFemx5QWtmbG1ZdFNmckh6NXpqQ1pBaVVfdDBmdUItalN5T0d0YUlrV24tX3R4Nm1YQloxX2dTTnN2blZNWHcyYnlCVEExcS10ekRGNWhsaTZOOXl3MTUwSHFmREh3?oc=5"
+      },
+      {
        "titulo": "Highlights: Berrettini salva 2 MP ante Nakashima en París 2026 - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-03",
        "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWpFY0twRllPRXJCLUhzdnRNNVhaUjREQnhRZ2syUmFvUkJCV0Ezd3FVMXAxYVM0LTlVZ29wM0U2VnROaVdXMmFwVjQzYzU5TExzZnlBRWNEUnZ6Snowak9lZlBubE5XeG5qS2hvTlV4OHVnT1lfOUI4TjQ5aGswajN1UEdhMG9OWjFlN1NmczdmZTE3WDZRNDh1dUpPTWs?oc=5"
-      },
-      {
-       "titulo": "Matteo Berrettini vs Ugo Humbert · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbi1tc0F0eHZnYmpnLS11NXEtOFpaUGtHZ19Ua3kwS0hmb1hvVHRya0JvVENMWE1pcjBZTmd6VFFBVGtsSGRJV3A4WmQyMVlIVmV1c1ZscUhwQm9rbkg3OF8yelFMVzh3b3lyakJISHdUVkdVdWFxY25MMGh5blJ1Wno1TFc5NXd2TjN2MUx1c0Frc2RjbnFsUmI0OHMzOFVv?oc=5"
       }
      ]
     },
@@ -9530,10 +9480,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEZVcVJsM0lxUlhXM3JuS2dJTVpJS2NjVVdOMnVyblY5cnV4eXRiSmhKODZXUzEyNUUwalo4X3BPZklfeTdyaTNIRzZGU2FTelVDNTNUUVFQMnZPN1RBT3M1LUQ3ei1kWGhrZjJxUEtNUkFMRWt2dDd1X0pqOS16Q1hROFoxXzR1WjJYd1hZN055MmlydWc?oc=5"
       },
       {
-       "titulo": "Djokovic supera susto y vence a Vacherot en primera ronda del Masters de París - Los Angeles Times",
-       "fuente": "Los Angeles Times",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVA5TUxOSjBNamhaQldpZjVpMmVXakxEQXdqdnd4UWI3WHI0REtpc212QlN3Qkp4UEduUGJWd3YtbEFORmp1Q0hJd19nU0lqYkNGV0xKSXBKekNyenpIUUZ3VWRoNWxUTG94ajN1Wm5kOEJHOTJCRGR4d1ZkT2NZYWNTLTcyQmxGZXBiMFl5WE05ZmpUX09PazlKeFBuUG5mV0h0bnJEUW5hRnJnRGFXSWlPQklpUWtSdExxeFJianNreWJ5NEJtRE5oUk1Da3I5MEE0?oc=5"
+       "titulo": "Matteo Berrettini - Ugo Humbert en directo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGN3V0RGVFB6bkY4RVFqVWppMkJTX1JBQ3JiM1VQZ3pHSTNjWHdITXlFemx5QWtmbG1ZdFNmckh6NXpqQ1pBaVVfdDBmdUItalN5T0d0YUlrV24tX3R4Nm1YQloxX2dTTnN2blZNWHcyYnlCVEExcS10ekRGNWhsaTZOOXl3MTUwSHFmREh3?oc=5"
       }
      ]
     }
@@ -9548,7 +9498,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9636,7 +9586,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T11:10+00:00",
+   "actualizado": "2026-11-04T11:38+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -9660,6 +9610,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Fils sueña con Turín: \"Sería algo increíble\" - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tSkFwWl8wNTlwajFCcHBnTl9acC1PdTV5b3VqOHBGNDBUdFJucjdWTV9aNEJzWUlTb2FwWGpiZlpEdFZMTEVKXzczVDVRUWluU1N4dXRMYWtoMzUzUllTNWpwaWRuZVFpaHdlWHNzakUxcXRoSzdv?oc=5"
+      },
+      {
        "titulo": "Fils’ dream of Turin: 'It would be insane' - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
@@ -9670,12 +9626,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTBPWGg2QTNHcFlrS1IwSVRHN3NxR2VfM2pqY1N0QVBmb3RfcU9mWlR3b0V2cXhveTUtNDg3RjRNR0d3QzhOZWc4YXppX0NjUHF4cjRJcUgtU1ZFOGRVRDVTN0haT3VmZVVnWXV1eGY1NmF1Rm5yTHQ0T3gtdUJPZ1hrU0FuMXlZUmF0QXNkT0lwRTNRdWhXRThvanpQVUJyd2pQVUpacVlqcVR1dUtpdw?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils vs Tomáš Macháč · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
       }
      ]
     },

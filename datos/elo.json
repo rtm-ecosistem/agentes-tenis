@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T11:10+00:00",
+ "actualizado": "2026-11-04T11:38+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -2288,19 +2288,18 @@
    "nombre": "Arthur Rinderknech",
    "circuito": "ATP",
    "elo": {
-    "all": 1631.0,
-    "hard": 1567.0,
+    "all": 1649.2,
+    "hard": 1593.9,
     "clay": 1645.7,
     "grass": 1661.7
    },
    "n": {
-    "all": 136,
-    "hard": 85,
+    "all": 137,
+    "hard": 86,
     "clay": 31,
     "grass": 20
    },
    "ultimos": [
-    "2026-07-15 G clay vs Clement Tabur",
     "2026-07-17 P clay vs Stefanos Tsitsipas",
     "2026-07-22 P hard vs Sebastian Baez",
     "2026-08-05 G hard vs Miomir Kecmanovic",
@@ -2309,7 +2308,8 @@
     "2026-08-30 G hard vs Sho Shimabukuro",
     "2026-09-02 G hard vs Jaume Munar",
     "2026-09-04 P hard vs Daniil Medvedev",
-    "2026-10-27 P hard vs Jerome Kym"
+    "2026-10-27 P hard vs Jerome Kym",
+    "2026-11-04 G hard vs Mattia Bellucci"
    ]
   },
   "bublik|a": {
@@ -8924,19 +8924,18 @@
    "nombre": "Mattia Bellucci",
    "circuito": "ATP",
    "elo": {
-    "all": 1648.9,
-    "hard": 1675.7,
+    "all": 1627.5,
+    "hard": 1646.9,
     "clay": 1375.6,
     "grass": 1476.6
    },
    "n": {
-    "all": 88,
-    "hard": 71,
+    "all": 89,
+    "hard": 72,
     "clay": 9,
     "grass": 8
    },
    "ultimos": [
-    "2026-09-03 P hard vs Taylor Fritz",
     "2026-09-24 P hard vs Kamil Majchrzak",
     "2026-10-05 G hard vs Elias Ymer",
     "2026-10-06 G hard vs Alexandre Muller",
@@ -8945,7 +8944,8 @@
     "2026-10-22 P hard vs Terence Atmane",
     "2026-10-31 G hard vs Pablo Carreno Busta",
     "2026-11-01 G hard vs Thiago Agustin Tirante",
-    "2026-11-02 G hard vs Lorenzo Sonego"
+    "2026-11-02 G hard vs Lorenzo Sonego",
+    "2026-11-04 P hard vs Arthur Rinderknech"
    ]
   },
   "carreno busta|p": {
@@ -26469,19 +26469,18 @@
    "nombre": "Noma Noha Akugue",
    "circuito": "WTA",
    "elo": {
-    "all": 1623.2,
-    "hard": 1663.1,
+    "all": 1635.3,
+    "hard": 1674.2,
     "clay": 1497.6,
     "grass": 1449.4
    },
    "n": {
-    "all": 44,
-    "hard": 34,
+    "all": 45,
+    "hard": 35,
     "clay": 6,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-28 P hard vs Fiona Crawley",
     "2026-10-04 G hard vs Ilay Yoruk",
     "2026-10-05 G hard vs Elena Micic",
     "2026-10-07 P hard vs Lucrezia Stefanini",
@@ -26490,7 +26489,8 @@
     "2026-10-28 G hard vs Linda Klimovicova",
     "2026-10-30 G hard vs Ayla Aksu",
     "2026-10-31 G hard vs Anna Blinkova",
-    "2026-11-01 P hard vs Alina Charaeva"
+    "2026-11-01 P hard vs Alina Charaeva",
+    "2026-11-04 G hard vs Warona Mdlulwa"
    ]
   },
   "lanca|s": {
@@ -38802,19 +38802,20 @@
    "nombre": "Warona Mdlulwa",
    "circuito": "WTA",
    "elo": {
-    "all": 1413.5,
-    "hard": 1414.3,
+    "all": 1385.4,
+    "hard": 1390.8,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 1,
-    "hard": 1,
+    "all": 2,
+    "hard": 2,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-11-02 P hard vs Kristina Novak"
+    "2026-11-02 P hard vs Kristina Novak",
+    "2026-11-04 P hard vs Noma Noha Akugue"
    ]
   },
   "alhussein abdel aziz|l": {
@@ -46344,7 +46345,7 @@
   ],
   "bellucci|m~rinderknech|a": [
    0,
-   1
+   2
   ],
   "nishioka|y~tiafoe|f": [
    2,
@@ -91817,7 +91818,11 @@
   "boulter|k~liu|c": [
    0,
    1
+  ],
+  "mdlulwa|w~noha akugue|n": [
+   0,
+   1
   ]
  },
- "propios": 10610
+ "propios": 10612
 }

@@ -240332,6 +240332,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Arthur Rinderknech",
+    "Mattia Bellucci"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noma Noha Akugue",
+    "Wozuko Mdlulwa"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     0
+    ]
+   ],
+   "completo": true
   }
  ]
 }
