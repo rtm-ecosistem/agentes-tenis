@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T11:38+00:00",
+ "actualizado": "2026-11-04T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16494,19 +16494,18 @@
    "nombre": "Talia Gibson",
    "circuito": "WTA",
    "elo": {
-    "all": 1657.3,
-    "hard": 1673.4,
+    "all": 1639.7,
+    "hard": 1653.5,
     "clay": 1422.6,
     "grass": 1467.5
    },
    "n": {
-    "all": 53,
-    "hard": 42,
+    "all": 54,
+    "hard": 43,
     "clay": 5,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-25 G hard vs Maria Sakkari",
     "2026-09-27 P hard vs Leylah Fernandez",
     "2026-09-30 P hard vs Aliaksandra Sasnovich",
     "2026-10-10 P hard vs Sara Sorribes Tormo",
@@ -16515,7 +16514,8 @@
     "2026-10-23 P hard vs Ashlyn Krueger",
     "2026-10-26 G hard vs Daria Kasatkina",
     "2026-10-28 P hard vs Alexandra Eala",
-    "2026-11-03 G hard vs Oleksandra Oliynykova"
+    "2026-11-03 G hard vs Oleksandra Oliynykova",
+    "2026-11-04 P hard vs Aliaksandra Sasnovich"
    ]
   },
   "wong chong|e": {
@@ -16766,19 +16766,18 @@
    "nombre": "Aliaksandra Sasnovich",
    "circuito": "WTA",
    "elo": {
-    "all": 1759.1,
-    "hard": 1764.6,
+    "all": 1775.3,
+    "hard": 1782.4,
     "clay": 1459.2,
     "grass": 1528.5
    },
    "n": {
-    "all": 66,
-    "hard": 57,
+    "all": 67,
+    "hard": 58,
     "clay": 5,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-17 G hard vs Anna Bondar",
     "2026-10-19 G hard vs Daria Kasatkina",
     "2026-10-21 P hard vs Leylah Fernandez",
     "2026-10-24 G hard vs Yuliia Starodubtseva",
@@ -16787,7 +16786,8 @@
     "2026-10-28 P hard vs Diana Shnaider",
     "2026-10-31 G hard vs Cheuk Ying Shek",
     "2026-11-01 G hard vs Carol Young Suh Lee",
-    "2026-11-02 G hard vs Katie Volynets"
+    "2026-11-02 G hard vs Katie Volynets",
+    "2026-11-04 G hard vs Talia Gibson"
    ]
   },
   "shuai|z": {
@@ -72657,7 +72657,7 @@
   ],
   "gibson|t~sasnovich|a": [
    0,
-   2
+   3
   ],
   "rakotomanga rajaonah|t~zarazua|r": [
    1,
@@ -91824,5 +91824,5 @@
    1
   ]
  },
- "propios": 10612
+ "propios": 10613
 }
