@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.063,
      "sorpresa": 0.4,
-     "impaciencia": 0.151,
+     "impaciencia": 0.15,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T19:42+00:00",
+    "hora": "2026-11-04T20:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.115,
+     "impaciencia": 0.114,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:42+00:00",
+    "hora": "2026-11-04T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:42+00:00",
+    "hora": "2026-11-04T20:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.115,
+     "impaciencia": 0.114,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:42+00:00",
+    "hora": "2026-11-04T20:10+00:00",
     "rent": 0.0
    }
   }
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 53,
-  "ganadas": 33,
-  "unidades": -4.72,
+  "apuestas": 54,
+  "ganadas": 34,
+  "unidades": -4.55,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10590,18 +10590,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "e9c7e8bc7876cbb19446a417d0447cf0",
-    "jugadores": [
-     "Alex Michelsen",
-     "Carlos Alcaraz"
-    ],
-    "inicio": "2026-11-04T18:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Carlos Alcaraz",
-    "punto": null,
-    "cuota": 1.17
    },
    {
     "partido": "1cd952bfa7bc99f45d2ced1b80209056",
@@ -10674,7 +10662,8 @@
    "b92f417b119f280893500cc87bd8714e",
    "d9db521dae7522d7d24255286307307f",
    "83e3278f7f08fc8e5f9d88ec513d0aeb",
-   "9c047eea4b968d8a8c3f35fd16ce9e6d"
+   "9c047eea4b968d8a8c3f35fd16ce9e6d",
+   "e9c7e8bc7876cbb19446a417d0447cf0"
   ]
  },
  "mercados_casas": {
