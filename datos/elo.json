@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T10:10+00:00",
+ "actualizado": "2026-11-04T11:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17013,19 +17013,18 @@
    "nombre": "Claire Liu",
    "circuito": "WTA",
    "elo": {
-    "all": 1666.2,
-    "hard": 1626.6,
+    "all": 1695.3,
+    "hard": 1661.0,
     "clay": 1593.1,
     "grass": 1673.1
    },
    "n": {
-    "all": 46,
-    "hard": 33,
+    "all": 47,
+    "hard": 34,
     "clay": 7,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-16 P hard vs Mary Stoiana",
     "2026-10-05 G hard vs Elsa Jacquemot",
     "2026-10-07 P hard vs Rebecca Sramkova",
     "2026-10-10 P hard vs Lanlana Tararudee",
@@ -17034,7 +17033,8 @@
     "2026-10-20 P hard vs Magda Linette",
     "2026-10-27 G hard vs Antonia Ruzic",
     "2026-10-30 P hard vs Xinran Sun",
-    "2026-11-02 G hard vs Tatiana Prozorova"
+    "2026-11-02 G hard vs Tatiana Prozorova",
+    "2026-11-04 G hard vs Katie Boulter"
    ]
   },
   "zhuoxuan|b": {
@@ -20289,19 +20289,18 @@
    "nombre": "Polina Kudermetova",
    "circuito": "WTA",
    "elo": {
-    "all": 1680.9,
-    "hard": 1678.0,
+    "all": 1696.2,
+    "hard": 1695.2,
     "clay": 1655.0,
     "grass": 1600.6
    },
    "n": {
-    "all": 65,
-    "hard": 50,
+    "all": 66,
+    "hard": 51,
     "clay": 11,
     "grass": 4
    },
    "ultimos": [
-    "2026-09-21 P hard vs Kamilla Rakhimova",
     "2026-09-30 G hard vs Ma YeXin",
     "2026-10-02 G hard vs Clara Tauson",
     "2026-10-04 P hard vs Mirra Andreeva",
@@ -20310,7 +20309,8 @@
     "2026-10-18 G hard vs Anastasia Zakharova",
     "2026-10-20 G hard vs Cristina Bucsa",
     "2026-10-27 P hard vs Janice Tjen",
-    "2026-11-03 G hard vs Viktoria Morvayova"
+    "2026-11-03 G hard vs Viktoria Morvayova",
+    "2026-11-04 G hard vs Oksana Selekhmeteva"
    ]
   },
   "rosatello|c": {
@@ -21479,19 +21479,18 @@
    "nombre": "Oksana Selekhmeteva",
    "circuito": "ATP",
    "elo": {
-    "all": 1562.2,
-    "hard": 1564.0,
+    "all": 1545.8,
+    "hard": 1545.7,
     "clay": 1532.0,
     "grass": 1496.5
    },
    "n": {
-    "all": 54,
-    "hard": 42,
+    "all": 55,
+    "hard": 43,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-21 G hard vs Federica Urgesi",
     "2026-09-24 G hard vs Samira De Stefano",
     "2026-09-25 G hard vs Ekaterine Gorgodze",
     "2026-09-26 P hard vs Julia Grabher",
@@ -21500,7 +21499,8 @@
     "2026-10-13 P hard vs Lea Boskovic",
     "2026-10-27 G hard vs Adrienn Nagy",
     "2026-10-28 P hard vs Elizara Yaneva",
-    "2026-11-03 G hard vs Teodora Kostovic"
+    "2026-11-03 G hard vs Teodora Kostovic",
+    "2026-11-04 P hard vs Polina Kudermetova"
    ]
   },
   "hon|p": {
@@ -22470,19 +22470,18 @@
    "nombre": "Katie Boulter",
    "circuito": "ATP",
    "elo": {
-    "all": 1708.5,
-    "hard": 1689.5,
+    "all": 1679.2,
+    "hard": 1656.1,
     "clay": 1602.4,
     "grass": 1403.5
    },
    "n": {
-    "all": 45,
-    "hard": 36,
+    "all": 46,
+    "hard": 37,
     "clay": 7,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-30 G hard vs Carol Young Suh Lee",
     "2026-09-02 P hard vs Karolina Muchova",
     "2026-09-30 G hard vs Mai Hontama",
     "2026-10-02 P hard vs Karolina Muchova",
@@ -22491,7 +22490,8 @@
     "2026-10-21 G hard vs Viktorija Golubic",
     "2026-10-23 G hard vs Antonia Ruzic",
     "2026-10-24 P hard vs Katerina Siniakova",
-    "2026-11-02 G hard vs Viktorija Golubic"
+    "2026-11-02 G hard vs Viktorija Golubic",
+    "2026-11-04 P hard vs Claire Liu"
    ]
   },
   "krueger|a": {
@@ -69459,7 +69459,7 @@
    0
   ],
   "kudermetova|p~selekhmeteva|o": [
-   1,
+   2,
    0
   ],
   "gjorcheska|l~pigato|l": [
@@ -91813,7 +91813,11 @@
   "lansere|s~novak|k": [
    1,
    0
+  ],
+  "boulter|k~liu|c": [
+   0,
+   1
   ]
  },
- "propios": 10608
+ "propios": 10610
 }
