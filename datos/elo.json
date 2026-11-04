@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T13:10+00:00",
+ "actualizado": "2026-11-04T13:52+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -813,19 +813,18 @@
    "nombre": "Luca Van Assche",
    "circuito": "ATP",
    "elo": {
-    "all": 1622.6,
-    "hard": 1574.5,
+    "all": 1653.8,
+    "hard": 1612.0,
     "clay": 1647.7,
     "grass": 1435.2
    },
    "n": {
-    "all": 71,
-    "hard": 51,
+    "all": 72,
+    "hard": 52,
     "clay": 19,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-25 P hard vs Aleksandar Kovacevic",
     "2026-08-30 G hard vs Cameron Norrie",
     "2026-09-02 P hard vs Denis Shapovalov",
     "2026-09-30 P hard vs Arthur Fils",
@@ -834,7 +833,8 @@
     "2026-10-22 G hard vs Valentin Vacherot",
     "2026-10-23 P hard vs Lorenzo Musetti",
     "2026-10-26 P hard vs Learner Tien",
-    "2026-11-02 G hard vs Mariano Navone"
+    "2026-11-02 G hard vs Mariano Navone",
+    "2026-11-04 G hard vs Learner Tien"
    ]
   },
   "rune|h": {
@@ -9835,19 +9835,18 @@
    "nombre": "Learner Tien",
    "circuito": "ATP",
    "elo": {
-    "all": 1774.5,
-    "hard": 1765.8,
+    "all": 1749.4,
+    "hard": 1736.8,
     "clay": 1635.0,
     "grass": 1542.7
    },
    "n": {
-    "all": 126,
-    "hard": 102,
+    "all": 127,
+    "hard": 103,
     "clay": 15,
     "grass": 9
    },
    "ultimos": [
-    "2026-08-19 P hard vs Frances Tiafoe",
     "2026-08-31 G hard vs Nuno Borges",
     "2026-09-03 G hard vs Gael Monfils",
     "2026-09-06 G hard vs Jakub Mensik",
@@ -9856,7 +9855,8 @@
     "2026-10-10 G hard vs Zachary Svajda",
     "2026-10-12 P hard vs Casper Ruud",
     "2026-10-26 G hard vs Luca Van Assche",
-    "2026-10-28 P hard vs Alex de Minaur"
+    "2026-10-28 P hard vs Alex de Minaur",
+    "2026-11-04 P hard vs Luca Van Assche"
    ]
   },
   "bu|y": {
@@ -26416,19 +26416,18 @@
    "nombre": "Isabella Shinikova",
    "circuito": "WTA",
    "elo": {
-    "all": 1354.0,
-    "hard": 1385.2,
+    "all": 1334.3,
+    "hard": 1362.4,
     "clay": 1492.4,
     "grass": 1434.3
    },
    "n": {
-    "all": 14,
-    "hard": 11,
+    "all": 15,
+    "hard": 12,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-13 G hard vs Yujia Huang",
     "2026-07-14 P hard vs Alexandra Shubladze",
     "2026-07-18 G clay vs Rasheeda McAdoo",
     "2026-07-19 P clay vs Noemi Basiletti",
@@ -26437,7 +26436,8 @@
     "2026-09-21 P hard vs Aysegul Mert",
     "2026-09-26 P hard vs Elena Micic",
     "2026-10-11 P grass vs Aneta Kucmova",
-    "2026-11-02 G hard vs Dune Vaissaud"
+    "2026-11-02 G hard vs Dune Vaissaud",
+    "2026-11-04 P hard vs Gina Feistel"
    ]
   },
   "mansouri|y": {
@@ -27579,19 +27579,18 @@
    "nombre": "Gina Feistel",
    "circuito": "WTA",
    "elo": {
-    "all": 1539.1,
-    "hard": 1552.2,
+    "all": 1560.2,
+    "hard": 1575.0,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 11,
-    "hard": 11,
+    "all": 12,
+    "hard": 12,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-12 G hard vs Diletta Cherubini",
     "2026-07-13 G hard vs Julia Avdeeva",
     "2026-07-16 G hard vs Laura Samson",
     "2026-07-17 P hard vs Veronika Erjavec",
@@ -27600,7 +27599,8 @@
     "2026-10-11 G hard vs Elina Nepliy",
     "2026-10-12 G hard vs Tena Lukas",
     "2026-10-13 P hard vs Guiomar Maristany Zuleta De Reales",
-    "2026-11-03 G hard vs Linda Klimovicova"
+    "2026-11-03 G hard vs Linda Klimovicova",
+    "2026-11-04 G hard vs Isabella Shinikova"
    ]
   },
   "elle valdez|n": {
@@ -90789,7 +90789,7 @@
   ],
   "tien|l~van assche|l": [
    1,
-   0
+   1
   ],
   "borges|n~brunold|m": [
    1,
@@ -91862,7 +91862,11 @@
   "kubka|m~sziedat|f": [
    1,
    0
+  ],
+  "feistel|g~shinikova|i": [
+   1,
+   0
   ]
  },
- "propios": 10619
+ "propios": 10621
 }

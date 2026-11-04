@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T13:10+00:00",
+ "actualizado": "2026-11-04T13:52+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.325,
+      "pct": 0.326,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.289,
+      "pct": 0.29,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,14 +359,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.119,
+      "pct": 0.118,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.05,
+      "pct": 0.049,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.779,
+      "pct": 0.78,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.221,
+      "pct": 0.22,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.223,
+      "pct": 0.22,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.006,
+      "pct": 0.009,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.779,
+      "pct": 0.78,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.221,
+      "pct": 0.22,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,106 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
   "partidos": [
-   {
-    "id": "1be19552d8710b4628e2747163b4cf78",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T13:40+00:00",
-    "jugadores": [
-     "Novak Djokovic",
-     "Rinky Hijikata"
-    ],
-    "opciones": [
-     {
-      "id": "1be19552d8710b4628e2747163b4cf78|h2h|Novak Djokovic|",
-      "mercado": "h2h",
-      "nombre": "Novak Djokovic",
-      "punto": null,
-      "cuota": 1.25,
-      "pinnacle": 1.23
-     },
-     {
-      "id": "1be19552d8710b4628e2747163b4cf78|h2h|Rinky Hijikata|",
-      "mercado": "h2h",
-      "nombre": "Rinky Hijikata",
-      "punto": null,
-      "cuota": 4.0,
-      "pinnacle": 4.48
-     },
-     {
-      "id": "1be19552d8710b4628e2747163b4cf78|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.9,
-      "pinnacle": 2.0
-     },
-     {
-      "id": "1be19552d8710b4628e2747163b4cf78|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.8,
-      "pinnacle": 1.85
-     }
-    ],
-    "pinnacle_h2h": {
-     "Novak Djokovic": 1.23,
-     "Rinky Hijikata": 4.48
-    }
-   },
-   {
-    "id": "d9db521dae7522d7d24255286307307f",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T13:50+00:00",
-    "jugadores": [
-     "Alex Molcan",
-     "Taylor Fritz"
-    ],
-    "opciones": [
-     {
-      "id": "d9db521dae7522d7d24255286307307f|h2h|Alex Molcan|",
-      "mercado": "h2h",
-      "nombre": "Alex Molcan",
-      "punto": null,
-      "cuota": 4.3,
-      "pinnacle": 4.48
-     },
-     {
-      "id": "d9db521dae7522d7d24255286307307f|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 1.22,
-      "pinnacle": 1.23
-     },
-     {
-      "id": "d9db521dae7522d7d24255286307307f|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.94,
-      "pinnacle": 1.94
-     },
-     {
-      "id": "d9db521dae7522d7d24255286307307f|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.77,
-      "pinnacle": 1.91
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex Molcan": 4.48,
-     "Taylor Fritz": 1.23
-    }
-   },
    {
     "id": "b92f417b119f280893500cc87bd8714e",
     "deporte": "tennis_atp_paris_masters",
@@ -2183,6 +2083,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-04T13:52+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T13:52+00:00",
+   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz, Arthur Fils – Tomas Machac: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2321,16 +2231,6 @@
    "hora": "2026-11-03T15:10+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T14:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T14:10+00:00",
-   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-04",
@@ -2401,9 +2301,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 45,
-  "aciertos": 0.7111111111111111,
-  "yield": 0.04577777777777778
+  "apuestas": 46,
+  "aciertos": 0.6956521739130435,
+  "yield": 0.023043478260869565
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -9091,7 +8991,7 @@
    "inicio": "2026-11-04T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:10+00:00",
+   "actualizado": "2026-11-04T13:52+00:00",
    "elo": 0.466,
    "elo_general": 0.478,
    "elo_en_superficie": 0.454,
@@ -9179,7 +9079,7 @@
    "inicio": "2026-11-04T15:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:10+00:00",
+   "actualizado": "2026-11-04T13:52+00:00",
    "elo": 0.359,
    "elo_general": 0.356,
    "elo_en_superficie": 0.362,
@@ -9267,7 +9167,7 @@
    "inicio": "2026-11-04T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:10+00:00",
+   "actualizado": "2026-11-04T13:52+00:00",
    "elo": 0.511,
    "elo_general": 0.543,
    "elo_en_superficie": 0.479,
@@ -9355,7 +9255,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:10+00:00",
+   "actualizado": "2026-11-04T13:52+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9379,6 +9279,12 @@
      "cansancio": "1 partidos, 3 sets y 31 juegos en 3 días; el último el 2026-11-03 contra Jiri Lehecka, ganó 6-7 6-2 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Previa Alcaraz-Michelsen: Cuentas pendientes en París (19:00) - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdpWWFTY1lCVE5qd1lVYlVUYkQ5V1Fya3dCNlNCcktqeHZoejVsdHhyU2plVkNFSGJiUVpUU2tpb1hvVzdOUzdYRFlhWDh3dFZKaWxCZmhjWUd3b3VXN01iRng4ZWltN3ItcjNvNEt0QWtYYlV1dlFwVG1DdjN0cFVpcENBdGFNOHdKaGRVR1pCaXFxNEdiRnlWWEJ3eWhkQlBTZEVwNjVWdm9scGNMamJFX0FUM3VRcHplUG1GcTBfSVBGVk82d0FOT3ZxZUZFa1lOUndFcHRyUkR1UXRCN2pCQ3pmdWFCSkxoS2F0WHV3SDhzSjhGNllzUjF0SUc2VjlPVGRNUExoVVR5R05nag?oc=5"
+      },
+      {
        "titulo": "Horario y dónde ver por TV el debut de Carlos Alcaraz en el Masters 1000 de París contra Alex Michelsen - El Debate",
        "fuente": "El Debate",
        "fecha": "2026-11-04",
@@ -9389,12 +9295,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUmlYRUV4UHZqeV85MThCbzBjS0JGTlZfNWlhb0dpdVFRZGVYTGd3RUx1RUFKSVQ0Q0hiS3JjdjRHNk9ZeTlYQTlIdE5kX1RZdE0yMjc5bmFfSzJnUWV6NU14amdDc2oxUE9QMkEwUzFzRmpORVA40gF3QVVfeXFMTzVQT3NJVUhMcUFrd0dMSWxLOWxhOTNHQ3NjcWxUYUtONDJtYm1NYk1PY0Z3VEdxcGprV3RvZXNHYTgtNjlzaVlkd0pHd3JHNkc1YXJDeHU4NjlJN0hIWWR2Ym0xRWRsUGRhRkQzS09CVlpjalRjUXc?oc=5"
-      },
-      {
-       "titulo": "Alex Michelsen - Carlos Alcaraz en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGQ3WXI1dUtXc1p6Y3pUeDlEcXJCZ1VNMG0tMjZwemJ1cHY1SVpoTDJNOVVNYVRDYURVZERkeEMteExwV0Rlcl9vM2lKT0ZxR3RXcDNGTGlKZ2l5SFpGRFh2ZzlNRUFtbVE5MDZFY0xaLU9uZzZkQklVMmFfd2pFMERESFNtUjZCR3NXWWF1MUxxYWIxMHg0SE5RbV9jb1JrZ01iekloMVdRQ3RhbTdNRkZ3T3lQUVk?oc=5"
       }
      ]
     },
@@ -9413,22 +9313,22 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
+       "titulo": "Un exnúmero 1 afirma que Ferrero quiere \"vendetta\" tras ser \"despedido\" por Carlos Alcaraz - LaSexta",
+       "fuente": "LaSexta",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRXlfOFBqZDRtOVlpbVl2bjdnekNfMmxiMUwxTW81S3NKajZKTEFuXzJvcEp0Y0h1ZTRybWN1T0g3NVViV0lpeS1MNkdyUjdfNmJ4MGRrTFNKeVBkQ3puVEZINDRFVkVLN3pVNTZuOWFUeURRcTJaNGstODJnV3RZUmhYRVV6UmNfZzhIWU8wekFGYW5zR2dyZ1ZHZk93MFBuWFhmc1pjRDhiZHFmUFdCQmZoem9FeGxMT1VPTEEyY3NOODJ2ZUIxMWE3SHBqcUJvZkRwYzl2UWNIVDUyNXFIV05OaHBmTm5kemlLeElZTnZCQdIB8gFBVV95cUxPV3lpUDJ5Tks3OTRibjlraVFIQjRvdnpab2hzZVRyUVA5WGJ0RExpMWFqWm9DRTNjZm5IS0s2MWhUX1pzOGxLelM5dDY0MHViTlQ2TG9taHpBS0Z1LW53dEs4MWVkWk10UTRVdllMeGw1ZUE5UThmVXN0ck1JcTR2TXVNdE1vNDd4dHNCdGpsRlhsejNiZW90YXFfRmNONWE5dlZzV1F3aXBJMDMtTFRvZmNscDN5U1EwWVRaMl94N1NqaWdjaV9sNW5ncU9KY0p5OFhXdE1FSXhsVm9SWmtGVFMzTHYxQXp4eXdnX2Z0a0E5UQ?oc=5"
+      },
+      {
        "titulo": "Hot Shot: ¿Punto del torneo? Alcaraz levanta lo imposible ante De Miñaur en Viena - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndXSFpFX1E2ODJjeTgxMVBLRzZMaE5oVFZlOVlOMXU1QUNvZURWSWppQXZhZXY0UEsyd3dYMWdIcEUwelVqQzVDX1doVDNDaWxWZkdMNlFXTTRjcG0yNTV3OTZpWUNITkFDVlFqUGRMYW1EVmxsVC1MenhrRkg0YjVmOUE1em43TG5FdHFYREdFcjk0OGlwTEVNdEZCM2g1bUdMMjFORzZDLXYyTlZVRnNaWkxTOFkxMzhoUHFR?oc=5"
       },
       {
-       "titulo": "Horario y dónde ver por TV el debut de Carlos Alcaraz en el Masters 1000 de París contra Alex Michelsen - El Debate",
-       "fuente": "El Debate",
+       "titulo": "Previa Alcaraz-Michelsen: Cuentas pendientes en París (19:00) - Eurosport",
+       "fuente": "Eurosport",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV2ZJSm9xWVUxd3JQUVEwYnZHUFA4MzVxajEyc1p4MUdtZzlyeDJRNWF1VnFGSzVORkxXRThvRGdsUGRrWDBIdngyVVh1RndjeGtrampaS19aUW85MmVPMnhvQjFka000bU1xMTdIWWxBbDhjc0J1Vk5jcUM3eU0xN0t1ODZsUEhqUktLcTJXQ2RseFd3b0x5UlFSZm1UOXRQS25mb21KbXFGdTRMNzlaeDFjSWs4YjY3TWN3WjlQeVNMVHVwaVJ0eXEwV2VZdlFVakR6dWFrT2cxaTjSAeABQVVfeXFMT2NRY21wTHh0dk5CYzlpLW9vYklxLWd3bUZWNDhhYmllWkNPNTB2cFEyZkkxOU9xWGNZU0JnblBZY19VTUxpT3FaS0lHYm9MbTlWZWRaZzB6cG5UOGVrendZV2RxT01JTVhVS0RlNE5mVGxLSDdfem85RTF3aGlKaF9CODJYX0xjc3NuVC1DUlBvckJlM2QySklaRE03bWc4dzBCM0xuYjNQVlgtVWk3OFlwNEpLMWQ3UkdXZEt3MXRaTEVPRFhfY0VpQS1XdkhNSFJFX3dsUG9nNy1ZLVVDT1c?oc=5"
-      },
-      {
-       "titulo": "Alcaraz - Michelsen: horario y dónde ver hoy por TV el Masters 1000 de París - El Mundo",
-       "fuente": "El Mundo",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUmlYRUV4UHZqeV85MThCbzBjS0JGTlZfNWlhb0dpdVFRZGVYTGd3RUx1RUFKSVQ0Q0hiS3JjdjRHNk9ZeTlYQTlIdE5kX1RZdE0yMjc5bmFfSzJnUWV6NU14amdDc2oxUE9QMkEwUzFzRmpORVA40gF3QVVfeXFMTzVQT3NJVUhMcUFrd0dMSWxLOWxhOTNHQ3NjcWxUYUtONDJtYm1NYk1PY0Z3VEdxcGprV3RvZXNHYTgtNjlzaVlkd0pHd3JHNkc1YXJDeHU4NjlJN0hIWWR2Ym0xRWRsUGRhRkQzS09CVlpjalRjUXc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdpWWFTY1lCVE5qd1lVYlVUYkQ5V1Fya3dCNlNCcktqeHZoejVsdHhyU2plVkNFSGJiUVpUU2tpb1hvVzdOUzdYRFlhWDh3dFZKaWxCZmhjWUd3b3VXN01iRng4ZWltN3ItcjNvNEt0QWtYYlV1dlFwVG1DdjN0cFVpcENBdGFNOHdKaGRVR1pCaXFxNEdiRnlWWEJ3eWhkQlBTZEVwNjVWdm9scGNMamJFX0FUM3VRcHplUG1GcTBfSVBGVk82d0FOT3ZxZUZFa1lOUndFcHRyUkR1UXRCN2pCQ3pmdWFCSkxoS2F0WHV3SDhzSjhGNllzUjF0SUc2VjlPVGRNUExoVVR5R05nag?oc=5"
       }
      ]
     }
@@ -9443,7 +9343,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:10+00:00",
+   "actualizado": "2026-11-04T13:52+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -9467,22 +9367,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Fils es el primer francés en clasificarse a las Nitto ATP Finals en diez años - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxZlBmZFk0TFBlRENSeUdlT1FhT2FCcU1RRTZGRnJMOXh2TlNlOFAydU1ZVmxXZ0s2azZlRW50U20xRE9pUi1WRmNTY04tUjZWZUY1M0w4OC15OWYyaVdmWWxGSnpNQ3d4UVdINFBEWlBmM2YtZVFSSndqRTA?oc=5"
+      },
+      {
+       "titulo": "Arthur Fils ya está oficialmente clasificado para las ATP Finals 2026 - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0h6VkdlY2V1Mm9haWVtREl0aUdhS1p6SFgwLW11Y3VBZ1A1aHh5cl80cVh0Nk1aWERfVWF5SHJUb3NxaWV2VlpzZ0l4UEhvVXBhSzhwMlRsd2RPQ3ltb2tVcU56ZldzOTdTeDJhb05NRC0tUEJ6Vm1fUzJlbUI5ZHNZUDE0dFY4YVpzOWp2WWVUbERwTUIw?oc=5"
+      },
+      {
        "titulo": "Arthur Fils vs Tomáš Macháč · Round 2 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
-      },
-      {
-       "titulo": "Fils sueña con Turín: \"Sería algo increíble\" - Nitto ATP Finals",
-       "fuente": "Nitto ATP Finals",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tSkFwWl8wNTlwajFCcHBnTl9acC1PdTV5b3VqOHBGNDBUdFJucjdWTV9aNEJzWUlTb2FwWGpiZlpEdFZMTEVKXzczVDVRUWluU1N4dXRMYWtoMzUzUllTNWpwaWRuZVFpaHdlWHNzakUxcXRoSzdv?oc=5"
-      },
-      {
-       "titulo": "Fils’ dream of Turin: 'It would be insane' - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbzVYWXpLdWdUTVhtS0w3SDcyUFdod1huRnhydXBrRjI0c0w3aFNyanFabHVrd2hXclgwYkZNd0R6LUZyUmV6R1dHVlkwOUY4LWFMemtISl9EUTlpSEhJQ05GN0dVUU9zLUNGVEFR?oc=5"
       }
      ]
     },
