@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.062,
+     "envidia": 0.061,
      "sorpresa": 0.4,
-     "impaciencia": 0.147,
+     "impaciencia": 0.146,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T21:31+00:00",
+    "hora": "2026-11-04T22:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.111,
+     "impaciencia": 0.11,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T21:31+00:00",
+    "hora": "2026-11-04T22:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.07,
+     "impaciencia": 0.069,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T21:31+00:00",
+    "hora": "2026-11-04T22:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.111,
+     "impaciencia": 0.11,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T21:31+00:00",
+    "hora": "2026-11-04T22:10+00:00",
     "rent": 0.0
    }
   }
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 54,
-  "ganadas": 34,
-  "unidades": -4.55,
+  "apuestas": 55,
+  "ganadas": 35,
+  "unidades": -4.03,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10590,18 +10590,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "1cd952bfa7bc99f45d2ced1b80209056",
-    "jugadores": [
-     "Arthur Fils",
-     "Tomas Machac"
-    ],
-    "inicio": "2026-11-04T19:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Arthur Fils",
-    "punto": null,
-    "cuota": 1.52
    }
   ],
   "vistos": [
@@ -10663,7 +10651,8 @@
    "d9db521dae7522d7d24255286307307f",
    "83e3278f7f08fc8e5f9d88ec513d0aeb",
    "9c047eea4b968d8a8c3f35fd16ce9e6d",
-   "e9c7e8bc7876cbb19446a417d0447cf0"
+   "e9c7e8bc7876cbb19446a417d0447cf0",
+   "1cd952bfa7bc99f45d2ced1b80209056"
   ]
  },
  "mercados_casas": {

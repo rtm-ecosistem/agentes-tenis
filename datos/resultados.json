@@ -240969,6 +240969,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Machac",
+    "Arthur Fils"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     7
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Renata Zarazua",
+    "Despina Papamichail"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
   }
  ]
 }

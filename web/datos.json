@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T21:31+00:00",
+ "actualizado": "2026-11-04T22:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.331,
+      "pct": 0.332,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.294,
+      "pct": 0.295,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -366,7 +366,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.046,
+      "pct": 0.045,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.802,
+      "pct": 0.804,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.198,
+      "pct": 0.196,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.2,
+      "pct": 0.197,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.029,
+      "pct": 0.031,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.802,
+      "pct": 0.804,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.198,
+      "pct": 0.196,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2050,9 +2050,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 54,
-  "aciertos": 0.6296296296296297,
-  "yield": -0.08425925925925926
+  "apuestas": 55,
+  "aciertos": 0.6363636363636364,
+  "yield": -0.07327272727272728
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
