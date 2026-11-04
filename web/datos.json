@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T12:10+00:00",
+ "actualizado": "2026-11-04T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1027,156 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
   "partidos": [
-   {
-    "id": "bc5dffba531009c0a80d3facb9410062",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T12:20+00:00",
-    "jugadores": [
-     "Ignacio Buse",
-     "Daniil Medvedev"
-    ],
-    "opciones": [
-     {
-      "id": "bc5dffba531009c0a80d3facb9410062|h2h|Daniil Medvedev|",
-      "mercado": "h2h",
-      "nombre": "Daniil Medvedev",
-      "punto": null,
-      "cuota": 1.13,
-      "pinnacle": 1.14
-     },
-     {
-      "id": "bc5dffba531009c0a80d3facb9410062|h2h|Ignacio Buse|",
-      "mercado": "h2h",
-      "nombre": "Ignacio Buse",
-      "punto": null,
-      "cuota": 6.0,
-      "pinnacle": 6.37
-     },
-     {
-      "id": "bc5dffba531009c0a80d3facb9410062|totals|Over|20.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 20.5,
-      "cuota": 1.87,
-      "pinnacle": 1.99
-     },
-     {
-      "id": "bc5dffba531009c0a80d3facb9410062|totals|Under|20.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 20.5,
-      "cuota": 1.84,
-      "pinnacle": 1.88
-     }
-    ],
-    "pinnacle_h2h": {
-     "Daniil Medvedev": 1.14,
-     "Ignacio Buse": 6.37
-    }
-   },
-   {
-    "id": "25d8efdbfad95b30f2e8c67fd47f72fc",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T12:30+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Lorenzo Musetti"
-    ],
-    "opciones": [
-     {
-      "id": "25d8efdbfad95b30f2e8c67fd47f72fc|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.4,
-      "pinnacle": 1.44
-     },
-     {
-      "id": "25d8efdbfad95b30f2e8c67fd47f72fc|h2h|Lorenzo Musetti|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Musetti",
-      "punto": null,
-      "cuota": 3.0,
-      "pinnacle": 2.99
-     },
-     {
-      "id": "25d8efdbfad95b30f2e8c67fd47f72fc|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.81,
-      "pinnacle": 1.88
-     },
-     {
-      "id": "25d8efdbfad95b30f2e8c67fd47f72fc|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.89,
-      "pinnacle": 1.99
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.44,
-     "Lorenzo Musetti": 2.99
-    }
-   },
-   {
-    "id": "9f0cefd1f030d8ad5ba4085132aff58d",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T12:40+00:00",
-    "jugadores": [
-     "Tomas Martin Etcheverry",
-     "Alex de Minaur"
-    ],
-    "opciones": [
-     {
-      "id": "9f0cefd1f030d8ad5ba4085132aff58d|h2h|Alex de Minaur|",
-      "mercado": "h2h",
-      "nombre": "Alex de Minaur",
-      "punto": null,
-      "cuota": 1.2,
-      "pinnacle": 1.18
-     },
-     {
-      "id": "9f0cefd1f030d8ad5ba4085132aff58d|h2h|Tomas Martin Etcheverry|",
-      "mercado": "h2h",
-      "nombre": "Tomas Martin Etcheverry",
-      "punto": null,
-      "cuota": 4.6,
-      "pinnacle": 5.3
-     },
-     {
-      "id": "9f0cefd1f030d8ad5ba4085132aff58d|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.78,
-      "pinnacle": null
-     },
-     {
-      "id": "9f0cefd1f030d8ad5ba4085132aff58d|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.93,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex de Minaur": 1.18,
-     "Tomas Martin Etcheverry": 5.3
-    }
-   },
    {
     "id": "1be19552d8710b4628e2747163b4cf78",
     "deporte": "tennis_atp_paris_masters",
@@ -9065,7 +8915,7 @@
    "inicio": "2026-11-04T13:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.812,
    "elo_general": 0.838,
    "elo_en_superficie": 0.786,
@@ -9153,7 +9003,7 @@
    "inicio": "2026-11-04T13:50+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.405,
    "elo_general": 0.394,
    "elo_en_superficie": 0.416,
@@ -9241,7 +9091,7 @@
    "inicio": "2026-11-04T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.466,
    "elo_general": 0.478,
    "elo_en_superficie": 0.454,
@@ -9329,7 +9179,7 @@
    "inicio": "2026-11-04T15:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.359,
    "elo_general": 0.356,
    "elo_en_superficie": 0.362,
@@ -9417,7 +9267,7 @@
    "inicio": "2026-11-04T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.511,
    "elo_general": 0.543,
    "elo_en_superficie": 0.479,
@@ -9441,6 +9291,12 @@
      "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-11-03 contra Brandon Nakashima, ganó 6-4 3-6 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Berrettini y una explicación a su calvario de lesiones: \"Mi problema es que pienso demasiado\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUg3NGVJWG84bHlvSFFHTUVWRnNRWlA1ZmZjREw5RzNkMmFZQ0FtWmxSeENZa3RnZzliMlIzY1c5OFpLR3pDdVk4T0RmRDJyT0liQzVRYUZCUGhnUWVmNnNwTC1fWjhTRWFDaHhSWVF5WXprM3Y2QXRJcTJPVktvN0Y3ZWkwLWVqZnBPUFZoQTNfUGFBVXY1cGxmb2Y?oc=5"
+      },
+      {
        "titulo": "Matteo Berrettini - Ugo Humbert en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
@@ -9451,12 +9307,6 @@
        "fuente": "SportyTrader",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGN3V0RGVFB6bkY4RVFqVWppMkJTX1JBQ3JiM1VQZ3pHSTNjWHdITXlFemx5QWtmbG1ZdFNmckh6NXpqQ1pBaVVfdDBmdUItalN5T0d0YUlrV24tX3R4Nm1YQloxX2dTTnN2blZNWHcyYnlCVEExcS10ekRGNWhsaTZOOXl3MTUwSHFmREh3?oc=5"
-      },
-      {
-       "titulo": "Highlights: Berrettini salva 2 MP ante Nakashima en París 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWpFY0twRllPRXJCLUhzdnRNNVhaUjREQnhRZ2syUmFvUkJCV0Ezd3FVMXAxYVM0LTlVZ29wM0U2VnROaVdXMmFwVjQzYzU5TExzZnlBRWNEUnZ6Snowak9lZlBubE5XeG5qS2hvTlV4OHVnT1lfOUI4TjQ5aGswajN1UEdhMG9OWjFlN1NmczdmZTE3WDZRNDh1dUpPTWs?oc=5"
       }
      ]
     },
@@ -9505,7 +9355,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9593,7 +9443,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T12:10+00:00",
+   "actualizado": "2026-11-04T13:01+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
