@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.07,
+     "envidia": 0.069,
      "sorpresa": 0.4,
-     "impaciencia": 0.167,
+     "impaciencia": 0.165,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T12:10+00:00",
+    "hora": "2026-11-04T13:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.13,
+     "impaciencia": 0.128,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T12:10+00:00",
+    "hora": "2026-11-04T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.079,
+     "impaciencia": 0.078,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T12:10+00:00",
+    "hora": "2026-11-04T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.13,
+     "impaciencia": 0.128,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T12:10+00:00",
+    "hora": "2026-11-04T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-01T11:15+00:00",
-   "texto": "📰 Noticias nuevas de Alex de Minaur – Carlos Alcaraz, Nuno Borges – Alex Molcan: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T11:15+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-01T12:10+00:00",
    "texto": "📰 Noticias nuevas de Adolfo Daniel Vallejo – Lorenzo Sonego: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-04T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Taylor Fritz, Matteo Berrettini – Ugo Humbert: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,28 +2618,40 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "6ce776a165a8",
+  "16aa01666f7d",
+  "56fbc41c71eb",
+  "9295ea95be4b",
+  "ee306d9d84f6",
+  "08391ffd8748",
+  "7c3af93a81ec",
   "3b734caf1b66",
   "f1388807bbfb",
   "25660e7d6233",
   "8e03506a0f59",
   "8a79863ebc4f",
   "802289636972",
+  "f4549a3ae21a",
   "2229456db554",
   "b1ca74dd6d87",
   "ebd51ccf99d4",
   "960395fba329",
   "a2da3ae46c4f",
+  "fc38f211ee60",
   "ae1493bfe217",
   "5c7ea08ca91a",
+  "680658bbad33",
   "0b1e2ac90546",
   "e7556fae6f0b",
   "e88119ab595b",
+  "92ee25f2ac65",
   "cc46a18555c1",
   "6ddba986c367",
   "feb5be9bb64a",
   "0f68f62c68af",
   "adab3057f54a",
   "2d711e83e7c2",
+  "0357d977a9a0",
   "b480d3f3db68",
   "9d05ec0eb9ab",
   "7ba776b66e1a",
@@ -2659,18 +2671,17 @@
   "5601ac023caa",
   "4183ae7c3596",
   "0a6d44fbd272",
-  "da5aea5d38db",
   "aec24a3ca977",
   "afe85260d6f2",
   "233a5782e8ce",
   "89b2ccc05641",
   "ca1486ad7f5e",
   "70905871f94f",
-  "92ee25f2ac65",
   "b65b420a8f5e",
   "a2ec8cbe2ec3",
   "b0425620a126",
   "9a3441931f98",
+  "51e1563a1e3c",
   "eb66b2ed6a1a",
   "7f1f468a3c5b",
   "6fbc7092b889",
@@ -2684,6 +2695,7 @@
   "0e1ce0bcf4c4",
   "cf048b23e69f",
   "257b9103ce6a",
+  "f66c35e1ccc2",
   "d3687d61fbf1",
   "be76cd031d37",
   "a9df61e3eeb1",
@@ -2693,8 +2705,6 @@
   "d8ce308374a4",
   "d0f7326a4b1f",
   "9edf926b932a",
-  "f4549a3ae21a",
-  "34ecb89ab9b2",
   "a3ff1d0d3bbe",
   "8d3d936f6b29",
   "790f78816602",
@@ -2721,12 +2731,12 @@
   "085fff1b237e",
   "f1e58714f69c",
   "0a29223771ed",
+  "890bc9413a6f",
   "1d289a5c8fad",
   "70805d050c8e",
   "a45ae1d6e020",
   "17925f2613ae",
   "ec18ebf7b791",
-  "ee306d9d84f6",
   "8ad08da159c2",
   "0e7f17cb7a08",
   "e7fa1c1d2652",
@@ -2769,7 +2779,6 @@
   "d65242ce58e6",
   "472bffe64778",
   "386d0f291161",
-  "0b8043269e72",
   "47d1d905c16b",
   "8ee22b5a2049",
   "d1d4b15170b9",
@@ -2792,7 +2801,6 @@
   "99ef77757398",
   "3c13aa5dbc80",
   "30ea413d58f0",
-  "19c147fbd6b6",
   "3c4b5f1d8464",
   "326af9f67503",
   "09ff42b7dcbe",
@@ -2800,14 +2808,14 @@
   "743d3e27495e",
   "a9c957dac918",
   "7ca1c0f280c1",
-  "5f11bd883d58",
   "b3b49abe7487",
+  "19c147fbd6b6",
+  "5f11bd883d58",
   "89cd75375358",
   "c769f8a8598a",
   "682c6b117521",
   "e073ee7acc96",
   "12fe5057b799",
-  "51e1563a1e3c",
   "314d0d5e6799",
   "211086e51582",
   "12ca3fa87bf6",
@@ -2842,6 +2850,7 @@
   "a07825ad19f1",
   "80f3e5575bb2",
   "fef058305cfd",
+  "34ecb89ab9b2",
   "44e034f69654",
   "8d8ec91f2e56",
   "46204654eb74",
@@ -2926,6 +2935,7 @@
   "31f26370712e",
   "5501aaf6fbd6",
   "a70971097f89",
+  "0b8043269e72",
   "c51b46b9aa29",
   "65883fefad38",
   "1d342cdca9c8",
@@ -2946,10 +2956,10 @@
   "d2d308a5c1c6",
   "37c0fb2d5092",
   "c278575f6e16",
+  "74d7c8bd6a23",
   "58e90da51572",
   "9689d61bdf2f",
   "082259a3f9f2",
-  "74d7c8bd6a23",
   "ff2b0667dd6a",
   "62ea78b3dc54",
   "a63ae69730d3",
@@ -2959,7 +2969,9 @@
   "24e90c968bd4",
   "f274bac9b501",
   "cb685bab2578",
+  "9cddc63b28d9",
   "c8a3c4768ca8",
+  "da5aea5d38db",
   "a1034f9393d2",
   "47ceabf315b9",
   "802dfdfdbd99",
@@ -2996,7 +3008,6 @@
   "159f904b39fd",
   "30c51106c1a9",
   "af22d462051c",
-  "f66c35e1ccc2",
   "fcd911aa114f",
   "5bdfd70de76e",
   "3c80ec786890",
@@ -3315,7 +3326,6 @@
   "80be0f3bd43f",
   "fffaf55d84e1",
   "b61de61f05dc",
-  "680658bbad33",
   "981fae28f496",
   "fdf7553e6ab1",
   "4530076c96f9",
@@ -3407,17 +3417,7 @@
   "3ec4384e906e",
   "fc15dcc8297d",
   "4e99d8c9e170",
-  "2e72868818b7",
-  "5d66ceb0ad32",
-  "920b32821dc3",
-  "8e9c468b3c9e",
-  "69e2c3f60dac",
-  "aed8563dc980",
-  "bad768f74bf6",
-  "745d0801587b",
-  "ab8c85bb323b",
-  "cffbbd27d1be",
-  "c66114006bc4"
+  "2e72868818b7"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10041,7 +10041,7 @@
    "inicio": "2026-11-04T13:50+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.405,
    "elo_general": 0.394,
    "elo_en_superficie": 0.416,
@@ -10099,6 +10099,12 @@
      "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-11-03 contra Benjamin Bonzi, ganó 3-6 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Qué necesita Rafa Jódar para clasificarse para las ATP Finals tras su derrota en el Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkpBc3NFYzFCUHdreHptNnc5MGlrQlh2SkRXRTRKRDY5UWw4eFB2WFhXaHlRdG13R2phMVJaU0hScE9PbWNGNy12TklQYUY3Wi10OHROdUVRYXI2VzFzNXkyRk9KaDRtREVEXzMtOWdNc2ZKUEx5RWdnNzNfOV9pMVl0YmpjV0VsNW9FdTZJYUxFbTBWYTgzMm5OVllhS1hBVms1WW1fT0VIQTRjd0VVMDRlY28tRDlNckFJTkpiZGM3VzdSWjdRaEVCONIB0AFBVV95cUxPVlVqNUJaSkd6RHhycWlTNlp3UmdMdm1XODRfNS0xZXZpc3VPaGNWX2l1Nl9Ha1NlN29FUE45c0dnSnM0ZzFCYW9IV3VSZjY4LVpFVUNxdUEyZTJkVmQ3NnBBYnBpbi1FVUZEdlppY2lTNXFSQlMyUWo1ZE5meWZ6eXp0MkZqTXdpUFBXSXZETUo1UDJCNWIwNkVmZGczeHR5OUZwdk5LUFpWRlQtUnNEYmRCV05qamhkRkVRU2d6M2txVTdMaHVVemEzcTFDUWNT?oc=5"
+      },
+      {
        "titulo": "Las cuentas de Jódar para jugar las ATP Finals: De Miñaur, Djokovic, Fritz y Paul deciden su futuro - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
@@ -10109,12 +10115,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWElHNUJuYVJDMFNpMFRyVEQ3Tmx1RTI4ZFFjY1RteS1Ld1Z1cVlmUXo2Wk92Q3Fjd0NKZEw4Y0NMdF9NanNHcmgySUhlSFFrY2pBZThpNVI2dXA5OTVvWDNiVjc1a0Z1RWs3aGNMaTJiRWN4akNJZDZuM0Q5UFFabjhrOVBkUU55cGc0OHBmR3E?oc=5"
-      },
-      {
-       "titulo": "Djokovic supera susto y vence a Vacherot - Pulso Diario San Luis",
-       "fuente": "Pulso Diario San Luis",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOejdhaHBzWnQyZ3hhZnYtbWFrT1hfYTl0Qmp5X25FRUFNNW9YaGFxdGs0b081UzdlTklrTllsbzJwcXRCcExZa0xqb0R0NUd3OWFDTU4yOUJMSVVqUXlCQk9wYmVFaUNIY0NpaFIyWk5WaFlpSURDUHhjX09ZQnY0cFp6MNIBiAFBVV95cUxQc2VBckRxT3k4UWFhVnQwQVB0ZFRndm9oUGVTWFRSa2hScXppZ1pGU1hsellkdUxzVTAweG1rOFlHUnUzYTVBU0R6VU4xT2hSbkQ0eVdtV1JfX09majFCS2hDa3ZDaE9tR0RZWG5nQUM4djRtX3lQUlVsMW5yem5wLWtPMjZyTHBi?oc=5"
       }
      ]
     }
@@ -10129,7 +10129,7 @@
    "inicio": "2026-11-04T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.466,
    "elo_general": 0.478,
    "elo_en_superficie": 0.454,
@@ -10217,7 +10217,7 @@
    "inicio": "2026-11-04T15:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.359,
    "elo_general": 0.356,
    "elo_en_superficie": 0.362,
@@ -10305,7 +10305,7 @@
    "inicio": "2026-11-04T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.511,
    "elo_general": 0.543,
    "elo_en_superficie": 0.479,
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -10451,6 +10451,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
+       "titulo": "Hot Shot: ¿Punto del torneo? Alcaraz levanta lo imposible ante De Miñaur en Viena - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndXSFpFX1E2ODJjeTgxMVBLRzZMaE5oVFZlOVlOMXU1QUNvZURWSWppQXZhZXY0UEsyd3dYMWdIcEUwelVqQzVDX1doVDNDaWxWZkdMNlFXTTRjcG0yNTV3OTZpWUNITkFDVlFqUGRMYW1EVmxsVC1MenhrRkg0YjVmOUE1em43TG5FdHFYREdFcjk0OGlwTEVNdEZCM2g1bUdMMjFORzZDLXYyTlZVRnNaWkxTOFkxMzhoUHFR?oc=5"
+      },
+      {
        "titulo": "Horario y dónde ver por TV el debut de Carlos Alcaraz en el Masters 1000 de París contra Alex Michelsen - El Debate",
        "fuente": "El Debate",
        "fecha": "2026-11-04",
@@ -10461,12 +10467,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUmlYRUV4UHZqeV85MThCbzBjS0JGTlZfNWlhb0dpdVFRZGVYTGd3RUx1RUFKSVQ0Q0hiS3JjdjRHNk9ZeTlYQTlIdE5kX1RZdE0yMjc5bmFfSzJnUWV6NU14amdDc2oxUE9QMkEwUzFzRmpORVA40gF3QVVfeXFMTzVQT3NJVUhMcUFrd0dMSWxLOWxhOTNHQ3NjcWxUYUtONDJtYm1NYk1PY0Z3VEdxcGprV3RvZXNHYTgtNjlzaVlkd0pHd3JHNkc1YXJDeHU4NjlJN0hIWWR2Ym0xRWRsUGRhRkQzS09CVlpjalRjUXc?oc=5"
-      },
-      {
-       "titulo": "Alex Michelsen - Carlos Alcaraz en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGQ3WXI1dUtXc1p6Y3pUeDlEcXJCZ1VNMG0tMjZwemJ1cHY1SVpoTDJNOVVNYVRDYURVZERkeEMteExwV0Rlcl9vM2lKT0ZxR3RXcDNGTGlKZ2l5SFpGRFh2ZzlNRUFtbVE5MDZFY0xaLU9uZzZkQklVMmFfd2pFMERESFNtUjZCR3NXWWF1MUxxYWIxMHg0SE5RbV9jb1JrZ01iekloMVdRQ3RhbTdNRkZ3T3lQUVk?oc=5"
       }
      ]
     }
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -10551,10 +10551,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTBPWGg2QTNHcFlrS1IwSVRHN3NxR2VfM2pqY1N0QVBmb3RfcU9mWlR3b0V2cXhveTUtNDg3RjRNR0d3QzhOZWc4YXppX0NjUHF4cjRJcUgtU1ZFOGRVRDVTN0haT3VmZVVnWXV1eGY1NmF1Rm5yTHQ0T3gtdUJPZ1hrU0FuMXlZUmF0QXNkT0lwRTNRdWhXRThvanpQVUJyd2pQVUpacVlqcVR1dUtpdw?oc=5"
       },
       {
-       "titulo": "Arthur Fils - Tomas Machac en vivo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
+       "titulo": "Pronóstico Arthur Fils vs Tomas Machac - Cuota & Estadística - 4 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmgxLVdJQ3FYZnZmTGhaMjVtaUhxOWwxTkk2czV4RE5TSWNVSjFaOVoxMmY0SjlQMmxrMTZkeWh0cWNEQ3BjRFFrNHBwa1pXd1Jma0ZSbDk3VlRoUE5Ncmx3T1BnNWxBejRGN19sRmRPRlRPdDlaTWU1VldMTW0zQlJUREVMdEI5?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWdfT29ESUM2czgtU1owX09jZ1hxSlRBNjBfaFFTcUdycnA3ZFJLS21hazdtMHdwQlJyakt6eWphYkpkYkFES2ZHQ0x5dTh2blFVVkFqVVpGbHl2a0FPWVhDV1oxRF90Z05WdjdJLVAwaVNUZ2ZlaTUwc3ZVWE05b1J5dDJiMkZO?oc=5"
       }
      ]
     }
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 43,
-  "ganadas": 31,
-  "unidades": 2.82,
+  "apuestas": 45,
+  "ganadas": 32,
+  "unidades": 2.06,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10592,18 +10592,6 @@
     "cuota": 1.72
    },
    {
-    "partido": "b1f8e4cc08a752752738c51105899ad6",
-    "jugadores": [
-     "Quentin Halys",
-     "Frances Tiafoe"
-    ],
-    "inicio": "2026-11-04T10:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Frances Tiafoe",
-    "punto": null,
-    "cuota": 1.67
-   },
-   {
     "partido": "4ce1d6b1ec3f3a58daf5d9c774afc3f6",
     "jugadores": [
      "Luca Van Assche",
@@ -10614,18 +10602,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.47
-   },
-   {
-    "partido": "bff9716e2c2e4b207744b20ff82a2241",
-    "jugadores": [
-     "Tommy Paul",
-     "Daniel Merida Aguilar"
-    ],
-    "inicio": "2026-11-04T11:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Tommy Paul",
-    "punto": null,
-    "cuota": 1.24
    },
    {
     "partido": "bc5dffba531009c0a80d3facb9410062",
@@ -10795,7 +10771,9 @@
    "158872469ece00415aefaa0eaecab4f0",
    "232e9e6ce004ffcdda5130a7f432eb15",
    "42bb4ea6113cbbd3effbb4904bf80c9b",
-   "3d3a05094b9f2796c2b3d68ef4b43c66"
+   "3d3a05094b9f2796c2b3d68ef4b43c66",
+   "b1f8e4cc08a752752738c51105899ad6",
+   "bff9716e2c2e4b207744b20ff82a2241"
   ]
  },
  "mercados_casas": {

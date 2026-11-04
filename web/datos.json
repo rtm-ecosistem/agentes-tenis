@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T13:01+00:00",
+ "actualizado": "2026-11-04T13:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,28 +338,28 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.324,
+      "pct": 0.325,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.288,
+      "pct": 0.289,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.216,
+      "pct": 0.217,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.12,
+      "pct": 0.119,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.776,
+      "pct": 0.779,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.224,
+      "pct": 0.221,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.226,
+      "pct": 0.223,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.003,
+      "pct": 0.006,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.776,
+      "pct": 0.779,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.224,
+      "pct": 0.221,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2183,6 +2183,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-04T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Molcan – Taylor Fritz, Matteo Berrettini – Ugo Humbert: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2321,16 +2331,6 @@
    "hora": "2026-11-03T14:10+00:00",
    "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-04",
@@ -2401,9 +2401,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 43,
-  "aciertos": 0.7209302325581395,
-  "yield": 0.06558139534883721
+  "apuestas": 45,
+  "aciertos": 0.7111111111111111,
+  "yield": 0.04577777777777778
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -9003,7 +9003,7 @@
    "inicio": "2026-11-04T13:50+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.405,
    "elo_general": 0.394,
    "elo_en_superficie": 0.416,
@@ -9061,6 +9061,12 @@
      "cansancio": "1 partidos, 3 sets y 28 juegos en 3 días; el último el 2026-11-03 contra Benjamin Bonzi, ganó 3-6 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Qué necesita Rafa Jódar para clasificarse para las ATP Finals tras su derrota en el Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkpBc3NFYzFCUHdreHptNnc5MGlrQlh2SkRXRTRKRDY5UWw4eFB2WFhXaHlRdG13R2phMVJaU0hScE9PbWNGNy12TklQYUY3Wi10OHROdUVRYXI2VzFzNXkyRk9KaDRtREVEXzMtOWdNc2ZKUEx5RWdnNzNfOV9pMVl0YmpjV0VsNW9FdTZJYUxFbTBWYTgzMm5OVllhS1hBVms1WW1fT0VIQTRjd0VVMDRlY28tRDlNckFJTkpiZGM3VzdSWjdRaEVCONIB0AFBVV95cUxPVlVqNUJaSkd6RHhycWlTNlp3UmdMdm1XODRfNS0xZXZpc3VPaGNWX2l1Nl9Ha1NlN29FUE45c0dnSnM0ZzFCYW9IV3VSZjY4LVpFVUNxdUEyZTJkVmQ3NnBBYnBpbi1FVUZEdlppY2lTNXFSQlMyUWo1ZE5meWZ6eXp0MkZqTXdpUFBXSXZETUo1UDJCNWIwNkVmZGczeHR5OUZwdk5LUFpWRlQtUnNEYmRCV05qamhkRkVRU2d6M2txVTdMaHVVemEzcTFDUWNT?oc=5"
+      },
+      {
        "titulo": "Las cuentas de Jódar para jugar las ATP Finals: De Miñaur, Djokovic, Fritz y Paul deciden su futuro - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
@@ -9071,12 +9077,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWElHNUJuYVJDMFNpMFRyVEQ3Tmx1RTI4ZFFjY1RteS1Ld1Z1cVlmUXo2Wk92Q3Fjd0NKZEw4Y0NMdF9NanNHcmgySUhlSFFrY2pBZThpNVI2dXA5OTVvWDNiVjc1a0Z1RWs3aGNMaTJiRWN4akNJZDZuM0Q5UFFabjhrOVBkUU55cGc0OHBmR3E?oc=5"
-      },
-      {
-       "titulo": "Djokovic supera susto y vence a Vacherot - Pulso Diario San Luis",
-       "fuente": "Pulso Diario San Luis",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOejdhaHBzWnQyZ3hhZnYtbWFrT1hfYTl0Qmp5X25FRUFNNW9YaGFxdGs0b081UzdlTklrTllsbzJwcXRCcExZa0xqb0R0NUd3OWFDTU4yOUJMSVVqUXlCQk9wYmVFaUNIY0NpaFIyWk5WaFlpSURDUHhjX09ZQnY0cFp6MNIBiAFBVV95cUxQc2VBckRxT3k4UWFhVnQwQVB0ZFRndm9oUGVTWFRSa2hScXppZ1pGU1hsellkdUxzVTAweG1rOFlHUnUzYTVBU0R6VU4xT2hSbkQ0eVdtV1JfX09majFCS2hDa3ZDaE9tR0RZWG5nQUM4djRtX3lQUlVsMW5yem5wLWtPMjZyTHBi?oc=5"
       }
      ]
     }
@@ -9091,7 +9091,7 @@
    "inicio": "2026-11-04T14:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.466,
    "elo_general": 0.478,
    "elo_en_superficie": 0.454,
@@ -9179,7 +9179,7 @@
    "inicio": "2026-11-04T15:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.359,
    "elo_general": 0.356,
    "elo_en_superficie": 0.362,
@@ -9267,7 +9267,7 @@
    "inicio": "2026-11-04T15:40+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.511,
    "elo_general": 0.543,
    "elo_en_superficie": 0.479,
@@ -9355,7 +9355,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9413,6 +9413,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
+       "titulo": "Hot Shot: ¿Punto del torneo? Alcaraz levanta lo imposible ante De Miñaur en Viena - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndXSFpFX1E2ODJjeTgxMVBLRzZMaE5oVFZlOVlOMXU1QUNvZURWSWppQXZhZXY0UEsyd3dYMWdIcEUwelVqQzVDX1doVDNDaWxWZkdMNlFXTTRjcG0yNTV3OTZpWUNITkFDVlFqUGRMYW1EVmxsVC1MenhrRkg0YjVmOUE1em43TG5FdHFYREdFcjk0OGlwTEVNdEZCM2g1bUdMMjFORzZDLXYyTlZVRnNaWkxTOFkxMzhoUHFR?oc=5"
+      },
+      {
        "titulo": "Horario y dónde ver por TV el debut de Carlos Alcaraz en el Masters 1000 de París contra Alex Michelsen - El Debate",
        "fuente": "El Debate",
        "fecha": "2026-11-04",
@@ -9423,12 +9429,6 @@
        "fuente": "El Mundo",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUmlYRUV4UHZqeV85MThCbzBjS0JGTlZfNWlhb0dpdVFRZGVYTGd3RUx1RUFKSVQ0Q0hiS3JjdjRHNk9ZeTlYQTlIdE5kX1RZdE0yMjc5bmFfSzJnUWV6NU14amdDc2oxUE9QMkEwUzFzRmpORVA40gF3QVVfeXFMTzVQT3NJVUhMcUFrd0dMSWxLOWxhOTNHQ3NjcWxUYUtONDJtYm1NYk1PY0Z3VEdxcGprV3RvZXNHYTgtNjlzaVlkd0pHd3JHNkc1YXJDeHU4NjlJN0hIWWR2Ym0xRWRsUGRhRkQzS09CVlpjalRjUXc?oc=5"
-      },
-      {
-       "titulo": "Alex Michelsen - Carlos Alcaraz en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGQ3WXI1dUtXc1p6Y3pUeDlEcXJCZ1VNMG0tMjZwemJ1cHY1SVpoTDJNOVVNYVRDYURVZERkeEMteExwV0Rlcl9vM2lKT0ZxR3RXcDNGTGlKZ2l5SFpGRFh2ZzlNRUFtbVE5MDZFY0xaLU9uZzZkQklVMmFfd2pFMERESFNtUjZCR3NXWWF1MUxxYWIxMHg0SE5RbV9jb1JrZ01iekloMVdRQ3RhbTdNRkZ3T3lQUVk?oc=5"
       }
      ]
     }
@@ -9443,7 +9443,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:01+00:00",
+   "actualizado": "2026-11-04T13:10+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -9513,10 +9513,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTBPWGg2QTNHcFlrS1IwSVRHN3NxR2VfM2pqY1N0QVBmb3RfcU9mWlR3b0V2cXhveTUtNDg3RjRNR0d3QzhOZWc4YXppX0NjUHF4cjRJcUgtU1ZFOGRVRDVTN0haT3VmZVVnWXV1eGY1NmF1Rm5yTHQ0T3gtdUJPZ1hrU0FuMXlZUmF0QXNkT0lwRTNRdWhXRThvanpQVUJyd2pQVUpacVlqcVR1dUtpdw?oc=5"
       },
       {
-       "titulo": "Arthur Fils - Tomas Machac en vivo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
+       "titulo": "Pronóstico Arthur Fils vs Tomas Machac - Cuota & Estadística - 4 de noviembre de 2026 - Wincomparator",
+       "fuente": "Wincomparator",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmgxLVdJQ3FYZnZmTGhaMjVtaUhxOWwxTkk2czV4RE5TSWNVSjFaOVoxMmY0SjlQMmxrMTZkeWh0cWNEQ3BjRFFrNHBwa1pXd1Jma0ZSbDk3VlRoUE5Ncmx3T1BnNWxBejRGN19sRmRPRlRPdDlaTWU1VldMTW0zQlJUREVMdEI5?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWdfT29ESUM2czgtU1owX09jZ1hxSlRBNjBfaFFTcUdycnA3ZFJLS21hazdtMHdwQlJyakt6eWphYkpkYkFES2ZHQ0x5dTh2blFVVkFqVVpGbHl2a0FPWVhDV1oxRF90Z05WdjdJLVAwaVNUZ2ZlaTUwc3ZVWE05b1J5dDJiMkZO?oc=5"
       }
      ]
     }
