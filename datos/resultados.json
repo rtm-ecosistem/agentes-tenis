@@ -240642,6 +240642,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Ignacio Buse"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

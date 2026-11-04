@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T15:34+00:00",
+ "actualizado": "2026-11-04T16:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.327,
+      "pct": 0.328,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
@@ -359,14 +359,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.116,
+      "pct": 0.115,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.049,
+      "pct": 0.048,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.785,
+      "pct": 0.787,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.215,
+      "pct": 0.213,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.217,
+      "pct": 0.214,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.011,
+      "pct": 0.014,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.785,
+      "pct": 0.787,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.215,
+      "pct": 0.213,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
   "partidos": [
-   {
-    "id": "9c047eea4b968d8a8c3f35fd16ce9e6d",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T15:40+00:00",
-    "jugadores": [
-     "Matteo Berrettini",
-     "Ugo Humbert"
-    ],
-    "opciones": [
-     {
-      "id": "9c047eea4b968d8a8c3f35fd16ce9e6d|h2h|Matteo Berrettini|",
-      "mercado": "h2h",
-      "nombre": "Matteo Berrettini",
-      "punto": null,
-      "cuota": 2.01,
-      "pinnacle": 1.96
-     },
-     {
-      "id": "9c047eea4b968d8a8c3f35fd16ce9e6d|h2h|Ugo Humbert|",
-      "mercado": "h2h",
-      "nombre": "Ugo Humbert",
-      "punto": null,
-      "cuota": 1.81,
-      "pinnacle": 1.91
-     },
-     {
-      "id": "9c047eea4b968d8a8c3f35fd16ce9e6d|totals|Over|25.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 25.5,
-      "cuota": 1.82,
-      "pinnacle": 1.85
-     },
-     {
-      "id": "9c047eea4b968d8a8c3f35fd16ce9e6d|totals|Under|25.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 25.5,
-      "cuota": 1.89,
-      "pinnacle": 2.01
-     }
-    ],
-    "pinnacle_h2h": {
-     "Matteo Berrettini": 1.96,
-     "Ugo Humbert": 1.91
-    }
-   },
    {
     "id": "e9c7e8bc7876cbb19446a417d0447cf0",
     "deporte": "tennis_atp_paris_masters",
@@ -2201,9 +2151,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 48,
-  "aciertos": 0.6666666666666666,
-  "yield": -0.01958333333333333
+  "apuestas": 49,
+  "aciertos": 0.6530612244897959,
+  "yield": -0.039591836734693873
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

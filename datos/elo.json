@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T15:11+00:00",
+ "actualizado": "2026-11-04T16:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -3553,19 +3553,18 @@
    "nombre": "Daniil Medvedev",
    "circuito": "ATP",
    "elo": {
-    "all": 1898.0,
-    "hard": 1907.9,
+    "all": 1874.9,
+    "hard": 1880.1,
     "clay": 1688.2,
     "grass": 1697.9
    },
    "n": {
-    "all": 203,
-    "hard": 153,
+    "all": 204,
+    "hard": 154,
     "clay": 31,
     "grass": 19
    },
    "ultimos": [
-    "2026-10-14 G hard vs Stefanos Tsitsipas",
     "2026-10-16 G hard vs Tommy Paul",
     "2026-10-17 P hard vs Rafael Jodar",
     "2026-10-22 G hard vs Sho Shimabukuro",
@@ -3574,7 +3573,8 @@
     "2026-10-28 G hard vs Daniel Merida",
     "2026-10-29 G hard vs Cameron Norrie",
     "2026-10-30 G hard vs Adrian Mannarino",
-    "2026-10-31 P hard vs Carlos Alcaraz"
+    "2026-10-31 P hard vs Carlos Alcaraz",
+    "2026-11-04 P hard vs Ignacio Buse"
    ]
   },
   "atmane|t": {
@@ -5609,19 +5609,18 @@
    "nombre": "Ignacio Buse",
    "circuito": "ATP",
    "elo": {
-    "all": 1673.9,
-    "hard": 1617.2,
+    "all": 1709.9,
+    "hard": 1664.9,
     "clay": 1755.2,
     "grass": 1488.1
    },
    "n": {
-    "all": 64,
-    "hard": 36,
+    "all": 65,
+    "hard": 37,
     "clay": 24,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-26 G hard vs Daniel Altmaier",
     "2026-08-27 G hard vs Juan Manuel Cerundolo",
     "2026-08-28 G hard vs Benjamin Bonzi",
     "2026-08-29 G hard vs Arthur Fery",
@@ -5630,7 +5629,8 @@
     "2026-10-01 P hard vs Quentin Halys",
     "2026-10-10 P hard vs Zizou Bergs",
     "2026-10-27 P hard vs Adrian Mannarino",
-    "2026-11-02 G hard vs Zizou Bergs"
+    "2026-11-02 G hard vs Zizou Bergs",
+    "2026-11-04 G hard vs Daniil Medvedev"
    ]
   },
   "ajdukovic|d": {
@@ -91870,7 +91870,11 @@
   "garland|j~tjen|j": [
    0,
    1
+  ],
+  "buse|i~medvedev|d": [
+   1,
+   0
   ]
  },
- "propios": 10624
+ "propios": 10625
 }
