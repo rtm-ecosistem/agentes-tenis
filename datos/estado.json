@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.065,
      "sorpresa": 0.4,
-     "impaciencia": 0.156,
+     "impaciencia": 0.155,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T17:10+00:00",
+    "hora": "2026-11-04T17:35+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.12,
+     "impaciencia": 0.119,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:10+00:00",
+    "hora": "2026-11-04T17:35+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:10+00:00",
+    "hora": "2026-11-04T17:35+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.12,
+     "impaciencia": 0.119,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:10+00:00",
+    "hora": "2026-11-04T17:35+00:00",
     "rent": 0.0
    }
   }
@@ -2618,19 +2618,28 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "df6a3946fc2f",
+  "efdbb9fb5f29",
+  "0d358195bfc4",
+  "6399c5abd5d0",
+  "0649208e921c",
   "b480d3f3db68",
   "4e104b60968e",
   "ebd51ccf99d4",
   "4d1115141978",
+  "85c4c33127c3",
   "c7bda20f0286",
   "307fecaf900f",
   "311d759a15cf",
+  "0b3c8d483b02",
   "93a7e4785676",
+  "b90f5c50b74c",
   "ce28395f382e",
   "faec74dc6463",
   "061df9a05539",
   "5671ad2d6fb3",
   "fd758fca0db9",
+  "2cfdaddd8276",
   "92ee25f2ac65",
   "5b83217f1f9d",
   "294fb0d1e70f",
@@ -2664,7 +2673,6 @@
   "e0c3d092bd75",
   "113d6f270bd9",
   "df52a853fe8d",
-  "c60acc9cfa41",
   "56fbc41c71eb",
   "afac48218a24",
   "9295ea95be4b",
@@ -2673,6 +2681,7 @@
   "52b529afd5ad",
   "3b0375023627",
   "654f5fde55ae",
+  "c60acc9cfa41",
   "7c3af93a81ec",
   "3b734caf1b66",
   "f1388807bbfb",
@@ -2740,7 +2749,6 @@
   "299ece2294cd",
   "ac0dcd2d3227",
   "b2fe43999c97",
-  "c2ee957fc50a",
   "6a29c1345036",
   "95c9deb32475",
   "bb08228cd005",
@@ -2772,6 +2780,7 @@
   "35cc9152c41b",
   "5f14a8991916",
   "1a08f1a0ead9",
+  "3b607fb52f3e",
   "bbf64dafe5fe",
   "f9135e7b1928",
   "54ac80a6cd5a",
@@ -2887,6 +2896,7 @@
   "70698a8ff8cb",
   "c24f4ed2f25f",
   "afaa6ea06af5",
+  "a763927a10bb",
   "3010a6398e89",
   "9ca046330342",
   "bc70ef960ff0",
@@ -2986,12 +2996,10 @@
   "32dae8d7b861",
   "5afa02238af7",
   "557cc1385342",
-  "2cfdaddd8276",
   "1c268468b18d",
   "d5750385fdd8",
   "0db2a6324179",
   "47c08d74df97",
-  "a03eec7c4120",
   "f2ca5c2749e4",
   "5ecc32303d67",
   "d4d0732332d3",
@@ -3014,6 +3022,7 @@
   "59861db0bd11",
   "5326c930885a",
   "10b4724a82a0",
+  "a03eec7c4120",
   "a6058d4e5d37",
   "d2d308a5c1c6",
   "37c0fb2d5092",
@@ -3248,6 +3257,7 @@
   "6ac5e00d65da",
   "baf8d517ee36",
   "d258ada78d87",
+  "ffefe3c9946a",
   "5319922bba34",
   "67996777ae4e",
   "919b0a89770d",
@@ -3282,6 +3292,7 @@
   "679199ac9f1c",
   "71a10118631b",
   "b5298df945e8",
+  "c2ee957fc50a",
   "ada3c8dbe07e",
   "65bfad5590ea",
   "7a7f75785cde",
@@ -3406,18 +3417,7 @@
   "476682650c27",
   "fc191266a1d8",
   "14cee0274886",
-  "f1332d53a894",
-  "a305c93eabdb",
-  "76bbed56f030",
-  "c13acd7aa375",
-  "aba404aa1635",
-  "0d0fe9b970bb",
-  "f8e98218e10f",
-  "275fe0938f30",
-  "bf26016142f3",
-  "8158adaa4dfe",
-  "f380784370b4",
-  "8802a6fd81cf"
+  "f1332d53a894"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 50,
+  "apuestas": 51,
   "ganadas": 32,
-  "unidades": -2.94,
+  "unidades": -3.94,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10602,18 +10602,6 @@
     "seleccion": "Taylor Fritz",
     "punto": null,
     "cuota": 1.22
-   },
-   {
-    "partido": "b92f417b119f280893500cc87bd8714e",
-    "jugadores": [
-     "Nuno Borges",
-     "Karen Khachanov"
-    ],
-    "inicio": "2026-11-04T14:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Karen Khachanov",
-    "punto": null,
-    "cuota": 1.48
    },
    {
     "partido": "83e3278f7f08fc8e5f9d88ec513d0aeb",
@@ -10718,7 +10706,8 @@
    "25d8efdbfad95b30f2e8c67fd47f72fc",
    "9f0cefd1f030d8ad5ba4085132aff58d",
    "bc5dffba531009c0a80d3facb9410062",
-   "1be19552d8710b4628e2747163b4cf78"
+   "1be19552d8710b4628e2747163b4cf78",
+   "b92f417b119f280893500cc87bd8714e"
   ]
  },
  "mercados_casas": {
