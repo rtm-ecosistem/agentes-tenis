@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T16:10+00:00",
+ "actualizado": "2026-11-04T17:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -117,19 +117,18 @@
    "nombre": "Rinky Hijikata",
    "circuito": "ATP",
    "elo": {
-    "all": 1641.6,
-    "hard": 1646.4,
+    "all": 1671.7,
+    "hard": 1677.6,
     "clay": 1311.7,
     "grass": 1336.1
    },
    "n": {
-    "all": 123,
-    "hard": 95,
+    "all": 124,
+    "hard": 96,
     "clay": 15,
     "grass": 13
    },
    "ultimos": [
-    "2026-09-28 G hard vs Camilo Ugo Carabelli",
     "2026-09-29 P hard vs Stefanos Tsitsipas",
     "2026-10-07 P hard vs Roman Safiullin",
     "2026-10-20 P hard vs Terence Atmane",
@@ -138,7 +137,8 @@
     "2026-10-28 P hard vs Taylor Fritz",
     "2026-10-31 G hard vs Jaime Faria",
     "2026-11-01 G hard vs Vit Kopriva",
-    "2026-11-02 G hard vs Luciano Darderi"
+    "2026-11-02 G hard vs Luciano Darderi",
+    "2026-11-04 G hard vs Novak Djokovic"
    ]
   },
   "kokkinakis|t": {
@@ -981,19 +981,18 @@
    "nombre": "Novak Djokovic",
    "circuito": "ATP",
    "elo": {
-    "all": 1926.6,
-    "hard": 1872.9,
+    "all": 1897.0,
+    "hard": 1838.7,
     "clay": 1879.1,
     "grass": 1886.8
    },
    "n": {
-    "all": 128,
-    "hard": 74,
+    "all": 129,
+    "hard": 75,
     "clay": 35,
     "grass": 19
    },
    "ultimos": [
-    "2026-07-10 P grass vs Jannik Sinner",
     "2026-08-15 P hard vs Thiago Agustin Tirante",
     "2026-08-30 P hard vs Mariano Navone",
     "2026-09-30 G hard vs Nuno Borges",
@@ -1002,7 +1001,8 @@
     "2026-10-05 G hard vs Daniil Medvedev",
     "2026-10-09 P hard vs Hubert Hurkacz",
     "2026-10-28 G hard vs Ugo Humbert",
-    "2026-10-29 P hard vs Jan-Lennard Struff"
+    "2026-10-29 P hard vs Jan-Lennard Struff",
+    "2026-11-04 P hard vs Rinky Hijikata"
    ]
   },
   "zhang|z": {
@@ -17801,21 +17801,22 @@
    "nombre": "Maaya Rajeshwaran Revathi",
    "circuito": "WTA",
    "elo": {
-    "all": 1498.1,
-    "hard": 1503.5,
+    "all": 1567.6,
+    "hard": 1573.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 3,
-    "hard": 3,
+    "all": 4,
+    "hard": 4,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2025-10-29 P hard vs Shrivalli Bhamidipaty",
     "2026-02-03 P hard vs Lanlana Tararudee",
-    "2026-11-03 G hard vs Katarzyna Kawa"
+    "2026-11-03 G hard vs Katarzyna Kawa",
+    "2026-11-04 G hard vs Weronika Falkowska"
    ]
   },
   "hunter|s": {
@@ -20892,19 +20893,18 @@
    "nombre": "Diana Martynov",
    "circuito": "WTA",
    "elo": {
-    "all": 1467.2,
-    "hard": 1521.1,
+    "all": 1437.3,
+    "hard": 1484.3,
     "clay": 1403.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 13,
-    "hard": 11,
+    "all": 14,
+    "hard": 12,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-18 G hard vs Oceane Dodin",
     "2026-02-20 P hard vs Andrea Lazaro Garcia",
     "2026-04-11 P clay vs Iryna Shymanovich",
     "2026-04-26 P hard vs Amandine Monnot",
@@ -20913,7 +20913,8 @@
     "2026-07-07 P hard vs Jeline Vandromme",
     "2026-07-19 P clay vs Elena Pridankina",
     "2026-09-06 P hard vs Deborah Chiesa",
-    "2026-11-02 G hard vs Sandra Samir"
+    "2026-11-02 G hard vs Sandra Samir",
+    "2026-11-04 P hard vs Yasmine Kabbaj"
    ]
   },
   "kalinina|a": {
@@ -25342,19 +25343,18 @@
    "nombre": "Yasmine Kabbaj",
    "circuito": "WTA",
    "elo": {
-    "all": 1551.8,
-    "hard": 1559.2,
+    "all": 1574.8,
+    "hard": 1587.4,
     "clay": 1559.9,
     "grass": 1435.2
    },
    "n": {
-    "all": 30,
-    "hard": 26,
+    "all": 31,
+    "hard": 27,
     "clay": 3,
     "grass": 1
    },
    "ultimos": [
-    "2026-07-24 P clay vs Lucia Bronzetti",
     "2026-09-08 P hard vs Cagla Buyukakcay",
     "2026-09-15 G hard vs Angela Fita Boluda",
     "2026-09-16 G hard vs Maria Garcia Cid",
@@ -25363,7 +25363,8 @@
     "2026-10-12 P grass vs Andrea Lazaro Garcia",
     "2026-10-27 G hard vs Rebeca Pereira",
     "2026-10-29 P hard vs Julia Riera",
-    "2026-11-02 G hard vs Jahnie Van Zyl"
+    "2026-11-02 G hard vs Jahnie Van Zyl",
+    "2026-11-04 G hard vs Diana Martynov"
    ]
   },
   "patil|s": {
@@ -30036,19 +30037,18 @@
    "nombre": "Weronika Falkowska",
    "circuito": "WTA",
    "elo": {
-    "all": 1596.6,
-    "hard": 1605.0,
+    "all": 1551.9,
+    "hard": 1557.5,
     "clay": 1567.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 19,
-    "hard": 16,
+    "all": 20,
+    "hard": 17,
     "clay": 3,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-07 P hard vs Elizara Yaneva",
     "2026-09-15 G hard vs Kristina Novak",
     "2026-09-16 P hard vs Laura Samson",
     "2026-09-21 G hard vs Alana Smith",
@@ -30057,7 +30057,8 @@
     "2026-10-04 G hard vs Doga Turkmen",
     "2026-10-05 P hard vs Caroline Werner",
     "2026-10-31 G hard vs Jensi Dipakbhai Kanabar",
-    "2026-11-01 G hard vs Viktoria Morvayova"
+    "2026-11-01 G hard vs Viktoria Morvayova",
+    "2026-11-04 P hard vs Maaya Rajeshwaran Revathi"
    ]
   },
   "buyukakcay|c": {
@@ -49645,7 +49646,7 @@
   ],
   "djokovic|n~hijikata|r": [
    2,
-   0
+   1
   ],
   "lehecka|j~nishioka|y": [
    1,
@@ -91874,7 +91875,15 @@
   "buse|i~medvedev|d": [
    1,
    0
+  ],
+  "falkowska|w~rajeshwaran revathi|m": [
+   0,
+   1
+  ],
+  "kabbaj|y~martynov|d": [
+   1,
+   0
   ]
  },
- "propios": 10625
+ "propios": 10628
 }

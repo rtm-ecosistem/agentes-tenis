@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.066,
+     "envidia": 0.065,
      "sorpresa": 0.4,
-     "impaciencia": 0.158,
+     "impaciencia": 0.156,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T16:10+00:00",
+    "hora": "2026-11-04T17:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.122,
+     "impaciencia": 0.12,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T16:10+00:00",
+    "hora": "2026-11-04T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.075,
+     "impaciencia": 0.074,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T16:10+00:00",
+    "hora": "2026-11-04T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.122,
+     "impaciencia": 0.12,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T16:10+00:00",
+    "hora": "2026-11-04T17:10+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-02T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-02T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-02T08:00+00:00",
    "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-04T15:34+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T17:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T17:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,14 +2618,23 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "b480d3f3db68",
+  "4e104b60968e",
+  "ebd51ccf99d4",
+  "4d1115141978",
+  "c7bda20f0286",
   "307fecaf900f",
+  "311d759a15cf",
   "93a7e4785676",
   "ce28395f382e",
   "faec74dc6463",
+  "061df9a05539",
+  "5671ad2d6fb3",
   "fd758fca0db9",
   "92ee25f2ac65",
   "5b83217f1f9d",
   "294fb0d1e70f",
+  "dc40930d44a7",
   "5335bf3a6cb9",
   "c59a8772b34b",
   "75b7a5f12e2a",
@@ -2634,6 +2643,7 @@
   "f200a9f1c205",
   "0cb626aa210f",
   "9c9f3a9d9d5d",
+  "c924747c89eb",
   "cb60ca73849e",
   "b2f40c2da81d",
   "8aa4c5b3ca12",
@@ -2641,7 +2651,6 @@
   "42ec3abe65e7",
   "e2e29c6b8e7e",
   "e3ae9f8a271c",
-  "b480d3f3db68",
   "319844cd020b",
   "659c46e0d3a5",
   "5a422c3f3e16",
@@ -2674,13 +2683,13 @@
   "f4549a3ae21a",
   "2229456db554",
   "b1ca74dd6d87",
-  "ebd51ccf99d4",
   "960395fba329",
   "a2da3ae46c4f",
   "fc38f211ee60",
   "7f1f468a3c5b",
   "ae1493bfe217",
   "5c7ea08ca91a",
+  "4505b972b3b6",
   "680658bbad33",
   "0b1e2ac90546",
   "61c8d4bfadfa",
@@ -2696,12 +2705,15 @@
   "9d05ec0eb9ab",
   "7ba776b66e1a",
   "5aa1e247029d",
+  "df4527bd43c4",
   "2fb6d0ab9b68",
   "ceb1f2572210",
   "cc9432d84717",
   "0f2a2e528fb3",
   "673c71fb6bf8",
   "47570e2e657c",
+  "ca1486ad7f5e",
+  "a286cd16d280",
   "b4f846904048",
   "792029e720e1",
   "14a57a0aa9db",
@@ -2716,7 +2728,6 @@
   "afe85260d6f2",
   "233a5782e8ce",
   "89b2ccc05641",
-  "ca1486ad7f5e",
   "70905871f94f",
   "b65b420a8f5e",
   "a2ec8cbe2ec3",
@@ -2805,16 +2816,18 @@
   "6f59c10ac63b",
   "c9e84dd8cf0c",
   "b289db9b0c0d",
-  "40c6d0ccb4b4",
   "db737b508761",
+  "40c6d0ccb4b4",
   "a0d54fe317ea",
   "70d2d289dbe4",
   "d4e0397dad3f",
+  "6a2e2d46c697",
   "7d54c9023661",
   "5e37fc87384b",
   "a871d80c12df",
   "4976fedbe22d",
   "23107c4b501b",
+  "01250777294a",
   "f42cecaa6c2d",
   "baebc75a3bf3",
   "509eb234882a",
@@ -2955,7 +2968,6 @@
   "4b18ba64346c",
   "62387558bf06",
   "6f294d100a04",
-  "557cc1385342",
   "1b8e0f309a7e",
   "e53af9f5d783",
   "350508397cce",
@@ -2973,7 +2985,7 @@
   "8038ed6d8a77",
   "32dae8d7b861",
   "5afa02238af7",
-  "5671ad2d6fb3",
+  "557cc1385342",
   "2cfdaddd8276",
   "1c268468b18d",
   "d5750385fdd8",
@@ -3036,7 +3048,6 @@
   "294baf1d645f",
   "e240056422ad",
   "3bf420cab688",
-  "6a2e2d46c697",
   "dc4bd8543ed0",
   "39b1a3c765c7",
   "221da35af9e9",
@@ -3246,6 +3257,7 @@
   "d445a65e7018",
   "f00c491330fe",
   "ae9080a8ab3e",
+  "e0d106a0e9a2",
   "e4cde581215c",
   "3e1257f9df31",
   "4172a5ac8173",
@@ -3405,19 +3417,7 @@
   "bf26016142f3",
   "8158adaa4dfe",
   "f380784370b4",
-  "8802a6fd81cf",
-  "18223cc59719",
-  "6db52679f2db",
-  "1681b5790ab6",
-  "1ee8c00ba4a5",
-  "87a059e82c49",
-  "69923526ec83",
-  "9ce873dbaf23",
-  "9c893ff651d2",
-  "29d614c82c48",
-  "5574b8988d68",
-  "2e42086aba95",
-  "a4f919fdc488"
+  "8802a6fd81cf"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:34+00:00",
+   "actualizado": "2026-11-04T17:10+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -10451,6 +10451,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
+       "titulo": "A qué hora juega hoy Alcaraz y cómo verlo en directo por televisión - Las Provincias",
+       "fuente": "Las Provincias",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1RQQnFxWXZxWjBzMHZPaGNZdk9FekJOUloydzI4T2c2ejR6alZFUmhGMEN4NDNTQnd0ZGpFdGhuYzBKYVdQRHNGbW5rRmZ5eWdySjJJdWVGY3R5bW9yM0h5emtONnpsMjN4UnJVM0xkOGx6Q1hxTzJQR0F0Ym9JeWlhTUIwaDA0S1dCRXJ6TjJSZHFBaGhvTHA3STd1TFJWNTQyLVJuRmF0NzVGZ25waC04UW_SAboBQVVfeXFMTjhKeXRlanJ4UUVZQjFtd3B4eHdZQUM0bl8xTFlnTVQ1dkpXOU5SNDZFaFc0R0cxX3A2QXZ6am9rWnJQNzB0cGZLY3FiMUNhQjNGa0dBVElzQU9hSjBLbUFmNk9paldJalN6bHBFTEtmRzFfTzRtWGVCa0NvZ1JKSzBPX2FDZkttZVdqSktuWGh4dVZYNXFaRHZMSWQwYVlvTzJkaUVPZWNnM1NkSjFYZlU5VTQydEJrUDF3?oc=5"
+      },
+      {
        "titulo": "Javier Torregrosa, experto en comunicación no verbal: \"Cuando Carlos Alcaraz siente orgullo y satisfacción por lo que ha conseguido, eleva el mentón para situarse en una posición más alta\" - Semana",
        "fuente": "Semana",
        "fecha": "2026-11-04",
@@ -10461,12 +10467,6 @@
        "fuente": "Superdeporte",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU092NUFfbjMyUjllT0hJdVFWR19qYWFkU1VhdzIwZmZKSHJ6QXh6UW1ZZHNtLVgwRzBPQnExQ2NLeFM0Zy1tUUJDN2V5eTNabTNER25IaC1TRXkyZGVDb3F1OXJIRGp2NHBRY2JseFVoal9aakdLT2hLSDZrOU44dFJmQm0xczF5RFlFVGRKM0NmRXVDMkVYVTF6bmI4WVhV0gGmAUFVX3lxTE1scFJ6VWl1QnQ0UDBTbFg1dms0T0Uwb1pRRmZHeEM1S1lzM2dqY2lqb3l1NWViUUVSelFFaHlOTFk5MDdjbXJtWGJqV1ljeWJzVTF6MXRNVERzZUpSclhteVFValFtbEsyMTgtYmZxX0RnSHE5Yy14cHU4THdJOTBpbEtkd01HNEcwakl4MDNmTkJMdmhLOXhrQm0yOXRCXzBsdGRuSVE?oc=5"
-      },
-      {
-       "titulo": "Así es Álvaro, el hermano de Carlos Alcaraz: de su relación a su próxima boda y su trabajo en el tenis - Vanitatis",
-       "fuente": "Vanitatis",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEE2ZGp3VGd0RmFGTHh6SGhCeV8wWEZKZnF1M1RJbFRvOUEtbC1SZ0MzTjZzTXE2T1c3RnBDVXZoRFNTV3VqZnJjYldxZEZNaE9acVNHTEhWX1BadGI1RzQxVmhvUmhCNVlVWFBKUFNwcEg1ZDJuUzc0NGtkQXdOT0ZTcDNMZ29vV1MtdURraXRaZUN5YW15czZPTTNvYTRtVWt5dXpzNkVhSEJpcTB0SVpiSUVqcnJV?oc=5"
       }
      ]
     }
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:34+00:00",
+   "actualizado": "2026-11-04T17:10+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 49,
+  "apuestas": 50,
   "ganadas": 32,
-  "unidades": -1.94,
+  "unidades": -2.94,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10590,18 +10590,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "1be19552d8710b4628e2747163b4cf78",
-    "jugadores": [
-     "Novak Djokovic",
-     "Rinky Hijikata"
-    ],
-    "inicio": "2026-11-04T13:40+00:00",
-    "mercado": "h2h",
-    "seleccion": "Novak Djokovic",
-    "punto": null,
-    "cuota": 1.25
    },
    {
     "partido": "d9db521dae7522d7d24255286307307f",
@@ -10729,7 +10717,8 @@
    "4ce1d6b1ec3f3a58daf5d9c774afc3f6",
    "25d8efdbfad95b30f2e8c67fd47f72fc",
    "9f0cefd1f030d8ad5ba4085132aff58d",
-   "bc5dffba531009c0a80d3facb9410062"
+   "bc5dffba531009c0a80d3facb9410062",
+   "1be19552d8710b4628e2747163b4cf78"
   ]
  },
  "mercados_casas": {

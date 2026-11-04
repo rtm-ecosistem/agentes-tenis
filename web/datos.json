@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T16:10+00:00",
+ "actualizado": "2026-11-04T17:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,28 +345,28 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.291,
+      "pct": 0.292,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.218,
+      "pct": 0.219,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.115,
+      "pct": 0.114,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.048,
+      "pct": 0.047,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.787,
+      "pct": 0.789,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.213,
+      "pct": 0.211,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.214,
+      "pct": 0.211,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.014,
+      "pct": 0.017,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.787,
+      "pct": 0.789,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.213,
+      "pct": 0.211,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1933,6 +1933,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-04T17:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T17:10+00:00",
+   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T15:34+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2071,16 +2081,6 @@
    "hora": "2026-11-03T18:10+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T17:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T17:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-04",
@@ -2151,9 +2151,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 49,
-  "aciertos": 0.6530612244897959,
-  "yield": -0.039591836734693873
+  "apuestas": 50,
+  "aciertos": 0.64,
+  "yield": -0.0588
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
@@ -9105,7 +9105,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:34+00:00",
+   "actualizado": "2026-11-04T17:10+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9163,6 +9163,12 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
+       "titulo": "A qué hora juega hoy Alcaraz y cómo verlo en directo por televisión - Las Provincias",
+       "fuente": "Las Provincias",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1RQQnFxWXZxWjBzMHZPaGNZdk9FekJOUloydzI4T2c2ejR6alZFUmhGMEN4NDNTQnd0ZGpFdGhuYzBKYVdQRHNGbW5rRmZ5eWdySjJJdWVGY3R5bW9yM0h5emtONnpsMjN4UnJVM0xkOGx6Q1hxTzJQR0F0Ym9JeWlhTUIwaDA0S1dCRXJ6TjJSZHFBaGhvTHA3STd1TFJWNTQyLVJuRmF0NzVGZ25waC04UW_SAboBQVVfeXFMTjhKeXRlanJ4UUVZQjFtd3B4eHdZQUM0bl8xTFlnTVQ1dkpXOU5SNDZFaFc0R0cxX3A2QXZ6am9rWnJQNzB0cGZLY3FiMUNhQjNGa0dBVElzQU9hSjBLbUFmNk9paldJalN6bHBFTEtmRzFfTzRtWGVCa0NvZ1JKSzBPX2FDZkttZVdqSktuWGh4dVZYNXFaRHZMSWQwYVlvTzJkaUVPZWNnM1NkSjFYZlU5VTQydEJrUDF3?oc=5"
+      },
+      {
        "titulo": "Javier Torregrosa, experto en comunicación no verbal: \"Cuando Carlos Alcaraz siente orgullo y satisfacción por lo que ha conseguido, eleva el mentón para situarse en una posición más alta\" - Semana",
        "fuente": "Semana",
        "fecha": "2026-11-04",
@@ -9173,12 +9179,6 @@
        "fuente": "Superdeporte",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU092NUFfbjMyUjllT0hJdVFWR19qYWFkU1VhdzIwZmZKSHJ6QXh6UW1ZZHNtLVgwRzBPQnExQ2NLeFM0Zy1tUUJDN2V5eTNabTNER25IaC1TRXkyZGVDb3F1OXJIRGp2NHBRY2JseFVoal9aakdLT2hLSDZrOU44dFJmQm0xczF5RFlFVGRKM0NmRXVDMkVYVTF6bmI4WVhV0gGmAUFVX3lxTE1scFJ6VWl1QnQ0UDBTbFg1dms0T0Uwb1pRRmZHeEM1S1lzM2dqY2lqb3l1NWViUUVSelFFaHlOTFk5MDdjbXJtWGJqV1ljeWJzVTF6MXRNVERzZUpSclhteVFValFtbEsyMTgtYmZxX0RnSHE5Yy14cHU4THdJOTBpbEtkd01HNEcwakl4MDNmTkJMdmhLOXhrQm0yOXRCXzBsdGRuSVE?oc=5"
-      },
-      {
-       "titulo": "Así es Álvaro, el hermano de Carlos Alcaraz: de su relación a su próxima boda y su trabajo en el tenis - Vanitatis",
-       "fuente": "Vanitatis",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEE2ZGp3VGd0RmFGTHh6SGhCeV8wWEZKZnF1M1RJbFRvOUEtbC1SZ0MzTjZzTXE2T1c3RnBDVXZoRFNTV3VqZnJjYldxZEZNaE9acVNHTEhWX1BadGI1RzQxVmhvUmhCNVlVWFBKUFNwcEg1ZDJuUzc0NGtkQXdOT0ZTcDNMZ29vV1MtdURraXRaZUN5YW15czZPTTNvYTRtVWt5dXpzNkVhSEJpcTB0SVpiSUVqcnJV?oc=5"
       }
      ]
     }
@@ -9193,7 +9193,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:34+00:00",
+   "actualizado": "2026-11-04T17:10+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
