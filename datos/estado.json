@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.068,
+     "envidia": 0.067,
      "sorpresa": 0.4,
-     "impaciencia": 0.162,
+     "impaciencia": 0.16,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T14:10+00:00",
+    "hora": "2026-11-04T15:11+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.126,
+     "impaciencia": 0.124,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T14:10+00:00",
+    "hora": "2026-11-04T15:11+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.077,
+     "impaciencia": 0.076,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T14:10+00:00",
+    "hora": "2026-11-04T15:11+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.126,
+     "impaciencia": 0.124,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T14:10+00:00",
+    "hora": "2026-11-04T15:11+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-01T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Nuno Borges – Alex Molcan: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-01T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-02T08:00+00:00",
    "texto": "🎾 Cartelera: 13 partidos en las próximas 24 horas (casa: Betsson).",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-04T13:52+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T15:11+00:00",
+   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz, Arthur Fils – Tomas Machac: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T15:11+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,13 +2618,29 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "fd758fca0db9",
+  "92ee25f2ac65",
+  "75b7a5f12e2a",
+  "4b2e7f7cee49",
+  "f200a9f1c205",
+  "0cb626aa210f",
+  "cb60ca73849e",
+  "b2f40c2da81d",
+  "827a07873e02",
+  "42ec3abe65e7",
+  "e2e29c6b8e7e",
+  "e3ae9f8a271c",
   "b480d3f3db68",
   "659c46e0d3a5",
+  "5a422c3f3e16",
   "2d07e44b953f",
   "16aa01666f7d",
   "1a98e0ac1e64",
   "3f0d7e2d67ef",
   "6ce776a165a8",
+  "e0c3d092bd75",
+  "113d6f270bd9",
+  "df52a853fe8d",
   "56fbc41c71eb",
   "afac48218a24",
   "9295ea95be4b",
@@ -2653,7 +2669,6 @@
   "61c8d4bfadfa",
   "e7556fae6f0b",
   "e88119ab595b",
-  "92ee25f2ac65",
   "cc46a18555c1",
   "6ddba986c367",
   "feb5be9bb64a",
@@ -2668,7 +2683,6 @@
   "ceb1f2572210",
   "cc9432d84717",
   "673c71fb6bf8",
-  "df52a853fe8d",
   "b4f846904048",
   "792029e720e1",
   "14a57a0aa9db",
@@ -2683,11 +2697,12 @@
   "afe85260d6f2",
   "233a5782e8ce",
   "89b2ccc05641",
-  "ca1486ad7f5e",
   "70905871f94f",
+  "ca1486ad7f5e",
   "b65b420a8f5e",
   "a2ec8cbe2ec3",
   "b0425620a126",
+  "92efff17efc2",
   "9a3441931f98",
   "a553ac3d8b23",
   "51e1563a1e3c",
@@ -2707,7 +2722,6 @@
   "d3687d61fbf1",
   "be76cd031d37",
   "a9df61e3eeb1",
-  "e0c3d092bd75",
   "7148366d5fd7",
   "21afa57e6481",
   "d8ce308374a4",
@@ -2728,7 +2742,6 @@
   "8918b97db3e7",
   "35cc9152c41b",
   "5f14a8991916",
-  "7d54c9023661",
   "1a08f1a0ead9",
   "bbf64dafe5fe",
   "f9135e7b1928",
@@ -2779,6 +2792,7 @@
   "a0d54fe317ea",
   "70d2d289dbe4",
   "d4e0397dad3f",
+  "7d54c9023661",
   "5e37fc87384b",
   "a871d80c12df",
   "4976fedbe22d",
@@ -2805,6 +2819,7 @@
   "458d98a4321c",
   "96acaebce15d",
   "1cdb22955ea2",
+  "480431dda708",
   "486cb6612854",
   "12ce43e381ca",
   "deeb5dd83b2c",
@@ -2860,6 +2875,7 @@
   "7d627a5192cc",
   "4b5a10ffee41",
   "dfa100466df2",
+  "57c2ea32d7d0",
   "a07825ad19f1",
   "80f3e5575bb2",
   "fef058305cfd",
@@ -2897,7 +2913,6 @@
   "7e0d7bd07ffb",
   "36575edd56a9",
   "ed71d0a47c35",
-  "338912faad9c",
   "423eade41ffb",
   "b96b2b4129dd",
   "5795e995ad38",
@@ -2926,7 +2941,6 @@
   "e53af9f5d783",
   "350508397cce",
   "db058f60b972",
-  "57c2ea32d7d0",
   "ab21508dc22f",
   "f6706021a85a",
   "5be72ffeb40f",
@@ -2939,6 +2953,9 @@
   "8038ed6d8a77",
   "32dae8d7b861",
   "5afa02238af7",
+  "557cc1385342",
+  "5671ad2d6fb3",
+  "2cfdaddd8276",
   "1c268468b18d",
   "d5750385fdd8",
   "0db2a6324179",
@@ -2962,7 +2979,6 @@
   "ab2af8f494fa",
   "3144a3400034",
   "67b4d0e9c617",
-  "42ec3abe65e7",
   "094168271ff1",
   "59861db0bd11",
   "5326c930885a",
@@ -3043,6 +3059,7 @@
   "35232302408b",
   "e88260e0914c",
   "7023045f24a4",
+  "338912faad9c",
   "83a23725e913",
   "bbc2e7c9e553",
   "43505a4ec96c",
@@ -3072,7 +3089,6 @@
   "d1779993efdd",
   "7445c87b3bfd",
   "ad6c6d5da5b7",
-  "92efff17efc2",
   "21b8b971c93c",
   "1f85f90ff0a6",
   "98e48e42227e",
@@ -3401,23 +3417,7 @@
   "8c742e042872",
   "3c6e581cce81",
   "697d933e5e96",
-  "e31b6984e0c4",
-  "25cea0b2b29c",
-  "7b0fe4410ec6",
-  "66383fa40448",
-  "ac04f5849e5c",
-  "5c7cf087fbc9",
-  "b7241a537bc2",
-  "9a93980fc076",
-  "a1a65873c35b",
-  "ce1f93145146",
-  "46fc8796beb7",
-  "36f69c4679cf",
-  "5e007eaceb4a",
-  "0dc5e66f1d0b",
-  "6fecbcec9739",
-  "ef7805cd4da9",
-  "926c18d45994"
+  "e31b6984e0c4"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:52+00:00",
+   "actualizado": "2026-11-04T15:11+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -10417,19 +10417,19 @@
      "cansancio": "1 partidos, 3 sets y 31 juegos en 3 días; el último el 2026-11-03 contra Jiri Lehecka, ganó 6-7 6-2 6-4 (partido largo)",
      "noticias": [
       {
-       "titulo": "Previa Alcaraz-Michelsen: Cuentas pendientes en París (19:00) - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Alcaraz - Michelsen: horario y dónde ver hoy por TV el partido del Masters 1000 de París 2026 - Superdeporte",
+       "fuente": "Superdeporte",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdpWWFTY1lCVE5qd1lVYlVUYkQ5V1Fya3dCNlNCcktqeHZoejVsdHhyU2plVkNFSGJiUVpUU2tpb1hvVzdOUzdYRFlhWDh3dFZKaWxCZmhjWUd3b3VXN01iRng4ZWltN3ItcjNvNEt0QWtYYlV1dlFwVG1DdjN0cFVpcENBdGFNOHdKaGRVR1pCaXFxNEdiRnlWWEJ3eWhkQlBTZEVwNjVWdm9scGNMamJFX0FUM3VRcHplUG1GcTBfSVBGVk82d0FOT3ZxZUZFa1lOUndFcHRyUkR1UXRCN2pCQ3pmdWFCSkxoS2F0WHV3SDhzSjhGNllzUjF0SUc2VjlPVGRNUExoVVR5R05nag?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU092NUFfbjMyUjllT0hJdVFWR19qYWFkU1VhdzIwZmZKSHJ6QXh6UW1ZZHNtLVgwRzBPQnExQ2NLeFM0Zy1tUUJDN2V5eTNabTNER25IaC1TRXkyZGVDb3F1OXJIRGp2NHBRY2JseFVoal9aakdLT2hLSDZrOU44dFJmQm0xczF5RFlFVGRKM0NmRXVDMkVYVTF6bmI4WVhV0gGmAUFVX3lxTE1scFJ6VWl1QnQ0UDBTbFg1dms0T0Uwb1pRRmZHeEM1S1lzM2dqY2lqb3l1NWViUUVSelFFaHlOTFk5MDdjbXJtWGJqV1ljeWJzVTF6MXRNVERzZUpSclhteVFValFtbEsyMTgtYmZxX0RnSHE5Yy14cHU4THdJOTBpbEtkd01HNEcwakl4MDNmTkJMdmhLOXhrQm0yOXRCXzBsdGRuSVE?oc=5"
       },
       {
-       "titulo": "Horario y dónde ver por TV el debut de Carlos Alcaraz en el Masters 1000 de París contra Alex Michelsen - El Debate",
-       "fuente": "El Debate",
+       "titulo": "A qué hora juega Alcaraz hoy contra Michelsen y dónde ver su debut en el Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV2ZJSm9xWVUxd3JQUVEwYnZHUFA4MzVxajEyc1p4MUdtZzlyeDJRNWF1VnFGSzVORkxXRThvRGdsUGRrWDBIdngyVVh1RndjeGtrampaS19aUW85MmVPMnhvQjFka000bU1xMTdIWWxBbDhjc0J1Vk5jcUM3eU0xN0t1ODZsUEhqUktLcTJXQ2RseFd3b0x5UlFSZm1UOXRQS25mb21KbXFGdTRMNzlaeDFjSWs4YjY3TWN3WjlQeVNMVHVwaVJ0eXEwV2VZdlFVakR6dWFrT2cxaTjSAeABQVVfeXFMT2NRY21wTHh0dk5CYzlpLW9vYklxLWd3bUZWNDhhYmllWkNPNTB2cFEyZkkxOU9xWGNZU0JnblBZY19VTUxpT3FaS0lHYm9MbTlWZWRaZzB6cG5UOGVrendZV2RxT01JTVhVS0RlNE5mVGxLSDdfem85RTF3aGlKaF9CODJYX0xjc3NuVC1DUlBvckJlM2QySklaRE03bWc4dzBCM0xuYjNQVlgtVWk3OFlwNEpLMWQ3UkdXZEt3MXRaTEVPRFhfY0VpQS1XdkhNSFJFX3dsUG9nNy1ZLVVDT1c?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVng2RU5IZjRlWkpLM3hXVHlYRkN3d3EwT3hMdlBlNy1acDJ0Zm8tLWhRMEl2VFpLaVhFaG11ZkZGVWsxMmh0LTd3MFE2UkYyZ2ZlOTJUOWNWVmJPQzVueUdRbHlFMzk3bEhnQjg1MDJSTlVtS0I3bFR4ZlJVTEk5U0JYYm5tYzlsdVBVMWUzRGRfNjFKbU9TNkZmNkZtSml0NXBwWHg0VGTSAagBQVVfeXFMT3k5bFBXZ1pFT253ZWlXQzdyTXlPblRzQk5ERkU2OGQxMTRULUtOX01hcGJJUXVjNFc0emRKbzBTdVZnRXNOX2swYlRCaWdoMFV1YlJsak1TTnNDNGgxYmsxWkRXb2I4RHN4N1lLeG9DUXNrNGVfMmcyTWZoZjNSekVBRVZXUHUyZjNSd082RkQtbG5la0xoR0t0d1VNVlhia1dHTU9EY3N0?oc=5"
       },
       {
-       "titulo": "Alcaraz - Michelsen: horario y dónde ver hoy por TV el Masters 1000 de París - El Mundo",
+       "titulo": "A qué hora se juga el Alcaraz vs Michelsen: horario y dónde ver hoy por TV el Masters 1000 de París - El Mundo",
        "fuente": "El Mundo",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUmlYRUV4UHZqeV85MThCbzBjS0JGTlZfNWlhb0dpdVFRZGVYTGd3RUx1RUFKSVQ0Q0hiS3JjdjRHNk9ZeTlYQTlIdE5kX1RZdE0yMjc5bmFfSzJnUWV6NU14amdDc2oxUE9QMkEwUzFzRmpORVA40gF3QVVfeXFMTzVQT3NJVUhMcUFrd0dMSWxLOWxhOTNHQ3NjcWxUYUtONDJtYm1NYk1PY0Z3VEdxcGprV3RvZXNHYTgtNjlzaVlkd0pHd3JHNkc1YXJDeHU4NjlJN0hIWWR2Ym0xRWRsUGRhRkQzS09CVlpjalRjUXc?oc=5"
@@ -10451,22 +10451,22 @@
      "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Alex de Minaur, ganó 6-1 6-4",
      "noticias": [
       {
-       "titulo": "Un exnúmero 1 afirma que Ferrero quiere \"vendetta\" tras ser \"despedido\" por Carlos Alcaraz - LaSexta",
-       "fuente": "LaSexta",
+       "titulo": "Javier Torregrosa, experto en comunicación no verbal: \"Cuando Carlos Alcaraz siente orgullo y satisfacción por lo que ha conseguido, eleva el mentón para situarse en una posición más alta\" - Semana",
+       "fuente": "Semana",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRXlfOFBqZDRtOVlpbVl2bjdnekNfMmxiMUwxTW81S3NKajZKTEFuXzJvcEp0Y0h1ZTRybWN1T0g3NVViV0lpeS1MNkdyUjdfNmJ4MGRrTFNKeVBkQ3puVEZINDRFVkVLN3pVNTZuOWFUeURRcTJaNGstODJnV3RZUmhYRVV6UmNfZzhIWU8wekFGYW5zR2dyZ1ZHZk93MFBuWFhmc1pjRDhiZHFmUFdCQmZoem9FeGxMT1VPTEEyY3NOODJ2ZUIxMWE3SHBqcUJvZkRwYzl2UWNIVDUyNXFIV05OaHBmTm5kemlLeElZTnZCQdIB8gFBVV95cUxPV3lpUDJ5Tks3OTRibjlraVFIQjRvdnpab2hzZVRyUVA5WGJ0RExpMWFqWm9DRTNjZm5IS0s2MWhUX1pzOGxLelM5dDY0MHViTlQ2TG9taHpBS0Z1LW53dEs4MWVkWk10UTRVdllMeGw1ZUE5UThmVXN0ck1JcTR2TXVNdE1vNDd4dHNCdGpsRlhsejNiZW90YXFfRmNONWE5dlZzV1F3aXBJMDMtTFRvZmNscDN5U1EwWVRaMl94N1NqaWdjaV9sNW5ncU9KY0p5OFhXdE1FSXhsVm9SWmtGVFMzTHYxQXp4eXdnX2Z0a0E5UQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZFVGQlVBVXRpci1ma3hmSnhtc0JHZWlJeFAwU3dTaHIzMTV1RmZOX2xQQUdXdXEyV1dlYXBHMWZVSUYxellwMkd5NjFUU3JaWUhCQ3RfYWRvakMwQmJCcHZkdzlHLUlGTXUyY3B3THZ4LUM1dkdXSUExRzlWY2NRZ3YyS0hSOXpTR3VhUEh4dWdxUU9Pa05lVldiMHhMOXYybm5Sdm5yODdJZzRnOHlKRGR0X3hZSTNlc0tsOTJuRzZtYkVrWkNvXzZRMWdGXzZNQTgyLW9ucUhGNlJGeUl4X0d3MzFpd1N1Zk9HYTYwUThlTVgzWC0ydFltR0tVcXpyRDVYdkstRnZoU1lPRkdBVUlqRVAxR2Eta0FXdWdlTmkyQUlXSVl1THozUQ?oc=5"
       },
       {
-       "titulo": "Hot Shot: ¿Punto del torneo? Alcaraz levanta lo imposible ante De Miñaur en Viena - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Alcaraz - Michelsen: horario y dónde ver hoy por TV el partido del Masters 1000 de París 2026 - Superdeporte",
+       "fuente": "Superdeporte",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndXSFpFX1E2ODJjeTgxMVBLRzZMaE5oVFZlOVlOMXU1QUNvZURWSWppQXZhZXY0UEsyd3dYMWdIcEUwelVqQzVDX1doVDNDaWxWZkdMNlFXTTRjcG0yNTV3OTZpWUNITkFDVlFqUGRMYW1EVmxsVC1MenhrRkg0YjVmOUE1em43TG5FdHFYREdFcjk0OGlwTEVNdEZCM2g1bUdMMjFORzZDLXYyTlZVRnNaWkxTOFkxMzhoUHFR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU092NUFfbjMyUjllT0hJdVFWR19qYWFkU1VhdzIwZmZKSHJ6QXh6UW1ZZHNtLVgwRzBPQnExQ2NLeFM0Zy1tUUJDN2V5eTNabTNER25IaC1TRXkyZGVDb3F1OXJIRGp2NHBRY2JseFVoal9aakdLT2hLSDZrOU44dFJmQm0xczF5RFlFVGRKM0NmRXVDMkVYVTF6bmI4WVhV0gGmAUFVX3lxTE1scFJ6VWl1QnQ0UDBTbFg1dms0T0Uwb1pRRmZHeEM1S1lzM2dqY2lqb3l1NWViUUVSelFFaHlOTFk5MDdjbXJtWGJqV1ljeWJzVTF6MXRNVERzZUpSclhteVFValFtbEsyMTgtYmZxX0RnSHE5Yy14cHU4THdJOTBpbEtkd01HNEcwakl4MDNmTkJMdmhLOXhrQm0yOXRCXzBsdGRuSVE?oc=5"
       },
       {
-       "titulo": "Previa Alcaraz-Michelsen: Cuentas pendientes en París (19:00) - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Así es Álvaro, el hermano de Carlos Alcaraz: de su relación a su próxima boda y su trabajo en el tenis - Vanitatis",
+       "fuente": "Vanitatis",
        "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdpWWFTY1lCVE5qd1lVYlVUYkQ5V1Fya3dCNlNCcktqeHZoejVsdHhyU2plVkNFSGJiUVpUU2tpb1hvVzdOUzdYRFlhWDh3dFZKaWxCZmhjWUd3b3VXN01iRng4ZWltN3ItcjNvNEt0QWtYYlV1dlFwVG1DdjN0cFVpcENBdGFNOHdKaGRVR1pCaXFxNEdiRnlWWEJ3eWhkQlBTZEVwNjVWdm9scGNMamJFX0FUM3VRcHplUG1GcTBfSVBGVk82d0FOT3ZxZUZFa1lOUndFcHRyUkR1UXRCN2pCQ3pmdWFCSkxoS2F0WHV3SDhzSjhGNllzUjF0SUc2VjlPVGRNUExoVVR5R05nag?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEE2ZGp3VGd0RmFGTHh6SGhCeV8wWEZKZnF1M1RJbFRvOUEtbC1SZ0MzTjZzTXE2T1c3RnBDVXZoRFNTV3VqZnJjYldxZEZNaE9acVNHTEhWX1BadGI1RzQxVmhvUmhCNVlVWFBKUFNwcEg1ZDJuUzc0NGtkQXdOT0ZTcDNMZ29vV1MtdURraXRaZUN5YW15czZPTTNvYTRtVWt5dXpzNkVhSEJpcTB0SVpiSUVqcnJV?oc=5"
       }
      ]
     }
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T13:52+00:00",
+   "actualizado": "2026-11-04T15:11+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -10505,6 +10505,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "fils-nitto-atp-finals-2026-qualification | Nitto ATP Finals | Tennis - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmpURUJLSlVSd1pPa3lUS2Q1U0FFeUdxNC13YWRGdmFGbnY2RUhDcnhhYnRxX2JHdmJ4WWJqdWVwZjc4bTFUcXp5MWg0aTJJNEpaYUhZZjRESzZYc1VJT3d4b2RzQ0JheDN2R3FUSzc3QWNfVVNqVHZNWDJXamxKZkNZVTZtUQ?oc=5"
+      },
+      {
        "titulo": "Fils es el primer francés en clasificarse a las Nitto ATP Finals en diez años - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
@@ -10515,12 +10521,6 @@
        "fuente": "Punto de Break",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0h6VkdlY2V1Mm9haWVtREl0aUdhS1p6SFgwLW11Y3VBZ1A1aHh5cl80cVh0Nk1aWERfVWF5SHJUb3NxaWV2VlpzZ0l4UEhvVXBhSzhwMlRsd2RPQ3ltb2tVcU56ZldzOTdTeDJhb05NRC0tUEJ6Vm1fUzJlbUI5ZHNZUDE0dFY4YVpzOWp2WWVUbERwTUIw?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils vs Tomáš Macháč · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
       }
      ]
     },
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 46,
+  "apuestas": 48,
   "ganadas": 32,
-  "unidades": 1.06,
+  "unidades": -0.94,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10602,30 +10602,6 @@
     "seleccion": "Daniil Medvedev",
     "punto": null,
     "cuota": 1.13
-   },
-   {
-    "partido": "25d8efdbfad95b30f2e8c67fd47f72fc",
-    "jugadores": [
-     "Alexander Zverev",
-     "Lorenzo Musetti"
-    ],
-    "inicio": "2026-11-04T12:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Alexander Zverev",
-    "punto": null,
-    "cuota": 1.4
-   },
-   {
-    "partido": "9f0cefd1f030d8ad5ba4085132aff58d",
-    "jugadores": [
-     "Tomas Martin Etcheverry",
-     "Alex de Minaur"
-    ],
-    "inicio": "2026-11-04T12:40+00:00",
-    "mercado": "h2h",
-    "seleccion": "Alex de Minaur",
-    "punto": null,
-    "cuota": 1.2
    },
    {
     "partido": "1be19552d8710b4628e2747163b4cf78",
@@ -10762,7 +10738,9 @@
    "3d3a05094b9f2796c2b3d68ef4b43c66",
    "b1f8e4cc08a752752738c51105899ad6",
    "bff9716e2c2e4b207744b20ff82a2241",
-   "4ce1d6b1ec3f3a58daf5d9c774afc3f6"
+   "4ce1d6b1ec3f3a58daf5d9c774afc3f6",
+   "25d8efdbfad95b30f2e8c67fd47f72fc",
+   "9f0cefd1f030d8ad5ba4085132aff58d"
   ]
  },
  "mercados_casas": {

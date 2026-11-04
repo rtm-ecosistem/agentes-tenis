@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T13:52+00:00",
+ "actualizado": "2026-11-04T15:11+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -201,19 +201,18 @@
    "nombre": "Tomas Martin Etcheverry",
    "circuito": "ATP",
    "elo": {
-    "all": 1586.4,
-    "hard": 1585.7,
+    "all": 1613.0,
+    "hard": 1618.3,
     "clay": 1613.7,
     "grass": 1350.7
    },
    "n": {
-    "all": 172,
-    "hard": 100,
+    "all": 173,
+    "hard": 101,
     "clay": 60,
     "grass": 12
    },
    "ultimos": [
-    "2026-08-30 G hard vs Vit Kopriva",
     "2026-09-02 G hard vs Jacob Fearnley",
     "2026-09-04 G hard vs Mariano Navone",
     "2026-09-06 P hard vs Alex Michelsen",
@@ -222,7 +221,8 @@
     "2026-10-10 P hard vs Dalibor Svrcina",
     "2026-10-21 P hard vs Mattia Bellucci",
     "2026-10-26 P hard vs Matteo Berrettini",
-    "2026-11-03 G hard vs Andrey Rublev"
+    "2026-11-03 G hard vs Andrey Rublev",
+    "2026-11-04 G hard vs Alex de Minaur"
    ]
   },
   "humbert|u": {
@@ -1065,19 +1065,18 @@
    "nombre": "Alexander Zverev",
    "circuito": "ATP",
    "elo": {
-    "all": 1992.8,
-    "hard": 1936.7,
+    "all": 1973.7,
+    "hard": 1914.9,
     "clay": 1979.4,
     "grass": 1854.4
    },
    "n": {
-    "all": 257,
-    "hard": 166,
+    "all": 258,
+    "hard": 167,
     "clay": 67,
     "grass": 24
    },
    "ultimos": [
-    "2026-10-04 P hard vs Novak Djokovic",
     "2026-10-09 G hard vs Wu Yibing",
     "2026-10-11 G hard vs Quentin Halys",
     "2026-10-13 G hard vs Alexander Bublik",
@@ -1086,7 +1085,8 @@
     "2026-10-27 G hard vs Martin Landaluce",
     "2026-10-29 G hard vs Tallon Griekspoor",
     "2026-10-30 G hard vs Arthur Fery",
-    "2026-10-31 P hard vs Alex de Minaur"
+    "2026-10-31 P hard vs Alex de Minaur",
+    "2026-11-04 P hard vs Lorenzo Musetti"
    ]
   },
   "sonego|l": {
@@ -1177,19 +1177,18 @@
    "nombre": "Alex de Minaur",
    "circuito": "ATP",
    "elo": {
-    "all": 1881.3,
-    "hard": 1872.9,
+    "all": 1857.0,
+    "hard": 1845.7,
     "clay": 1759.4,
     "grass": 1730.1
    },
    "n": {
-    "all": 218,
-    "hard": 160,
+    "all": 219,
+    "hard": 161,
     "clay": 39,
     "grass": 19
    },
    "ultimos": [
-    "2026-10-03 G hard vs Quentin Halys",
     "2026-10-04 G hard vs Andrey Rublev",
     "2026-10-11 G hard vs Rei Sakamoto",
     "2026-10-13 G hard vs Karen Khachanov",
@@ -1198,7 +1197,8 @@
     "2026-10-28 G hard vs Learner Tien",
     "2026-10-30 G hard vs Matteo Berrettini",
     "2026-10-31 G hard vs Alexander Zverev",
-    "2026-11-01 P hard vs Carlos Alcaraz"
+    "2026-11-01 P hard vs Carlos Alcaraz",
+    "2026-11-04 P hard vs Tomas Martin Etcheverry"
    ]
   },
   "fritz|t": {
@@ -1533,19 +1533,18 @@
    "nombre": "Lorenzo Musetti",
    "circuito": "ATP",
    "elo": {
-    "all": 1838.1,
-    "hard": 1804.9,
+    "all": 1860.1,
+    "hard": 1830.0,
     "clay": 1908.8,
     "grass": 1754.7
    },
    "n": {
-    "all": 180,
-    "hard": 114,
+    "all": 181,
+    "hard": 115,
     "clay": 50,
     "grass": 16
    },
    "ultimos": [
-    "2026-09-03 P hard vs Dane Sweeny",
     "2026-10-09 P hard vs Zhou Yi",
     "2026-10-19 G hard vs Matteo Arnaldi",
     "2026-10-21 G hard vs Moise Kouame",
@@ -1554,7 +1553,8 @@
     "2026-10-25 G hard vs Taylor Fritz",
     "2026-10-28 G hard vs Frances Tiafoe",
     "2026-10-29 P hard vs Arthur Fery",
-    "2026-11-02 G hard vs Hubert Hurkacz"
+    "2026-11-02 G hard vs Hubert Hurkacz",
+    "2026-11-04 G hard vs Alexander Zverev"
    ]
   },
   "wong|c": {
@@ -17751,19 +17751,18 @@
    "nombre": "Joanna Garland",
    "circuito": "WTA",
    "elo": {
-    "all": 1657.7,
-    "hard": 1692.6,
+    "all": 1624.0,
+    "hard": 1653.9,
     "clay": 1434.3,
     "grass": 1462.5
    },
    "n": {
-    "all": 28,
-    "hard": 24,
+    "all": 29,
+    "hard": 25,
     "clay": 1,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-25 G hard vs Leyre Romero Gormaz",
     "2026-08-26 G hard vs Priscilla Hon",
     "2026-08-28 P hard vs Francesca Jones",
     "2026-09-19 G hard vs Ellen Perez",
@@ -17772,7 +17771,8 @@
     "2026-09-24 P hard vs Wang Xinyu",
     "2026-10-24 G hard vs Maddison Inglis",
     "2026-10-25 P hard vs Tatiana Prozorova",
-    "2026-11-03 G hard vs Jil Teichmann"
+    "2026-11-03 G hard vs Jil Teichmann",
+    "2026-11-04 P hard vs Janice Tjen"
    ]
   },
   "bhamidipaty|s": {
@@ -17878,19 +17878,18 @@
    "nombre": "Janice Tjen",
    "circuito": "WTA",
    "elo": {
-    "all": 1625.3,
-    "hard": 1625.4,
+    "all": 1652.4,
+    "hard": 1657.3,
     "clay": 1458.8,
     "grass": 1432.7
    },
    "n": {
-    "all": 52,
-    "hard": 42,
+    "all": 53,
+    "hard": 43,
     "clay": 4,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-16 P hard vs Sloane Stephens",
     "2026-09-30 G hard vs Anhelina Kalinina",
     "2026-10-02 P hard vs Diana Shnaider",
     "2026-10-12 G hard vs Aoi Ito",
@@ -17899,7 +17898,8 @@
     "2026-10-19 P hard vs Ashlyn Krueger",
     "2026-10-27 G hard vs Polina Kudermetova",
     "2026-10-28 P hard vs Harriet Dart",
-    "2026-11-03 G hard vs Katherine Hui"
+    "2026-11-03 G hard vs Katherine Hui",
+    "2026-11-04 G hard vs Joanna Garland"
    ]
   },
   "vekic|d": {
@@ -46572,7 +46572,7 @@
    0
   ],
   "musetti|l~zverev|a": [
-   3,
+   4,
    1
   ],
   "auger aliassime|f~musetti|l": [
@@ -49549,7 +49549,7 @@
   ],
   "de minaur|a~martin etcheverry|t": [
    2,
-   0
+   1
   ],
   "auger aliassime|f~fritz|t": [
    1,
@@ -91866,7 +91866,11 @@
   "feistel|g~shinikova|i": [
    1,
    0
+  ],
+  "garland|j~tjen|j": [
+   0,
+   1
   ]
  },
- "propios": 10621
+ "propios": 10624
 }

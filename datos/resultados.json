@@ -240579,6 +240579,69 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Alexander Zverev"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     6
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Alex de Minaur",
+    "Tomas Martin Etcheverry"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Joanna Garland",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
