@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T23:10+00:00",
+ "actualizado": "2026-11-04T23:25+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,14 +338,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.332,
+      "pct": 0.333,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.295,
+      "pct": 0.296,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {

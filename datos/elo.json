@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T22:10+00:00",
+ "actualizado": "2026-11-04T23:25+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16288,19 +16288,18 @@
    "nombre": "Jazmin Ortenzi",
    "circuito": "WTA",
    "elo": {
-    "all": 1545.9,
-    "hard": 1575.1,
+    "all": 1536.4,
+    "hard": 1563.3,
     "clay": 1503.1,
     "grass": 1434.3
    },
    "n": {
-    "all": 35,
-    "hard": 32,
+    "all": 36,
+    "hard": 33,
     "clay": 2,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-24 P hard vs Himeno Sakatsume",
     "2026-09-09 P hard vs Mary Stoiana",
     "2026-09-16 G hard vs Chloe Paquet",
     "2026-09-17 P hard vs Paula Badosa",
@@ -16309,7 +16308,8 @@
     "2026-10-26 G hard vs Victoria Bosio",
     "2026-10-28 G hard vs Lourdes Ayala",
     "2026-10-30 P hard vs Alice Tubello",
-    "2026-11-03 G hard vs Elizabeth Mandlik"
+    "2026-11-03 G hard vs Elizabeth Mandlik",
+    "2026-11-04 P hard vs Bianca Andreescu"
    ]
   },
   "camila torres murcia|m": {
@@ -27975,19 +27975,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1825.5,
-    "hard": 1816.5,
+    "all": 1834.4,
+    "hard": 1827.9,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 43,
-    "hard": 35,
+    "all": 44,
+    "hard": 36,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-15 G hard vs Antonia Ruzic",
     "2026-10-16 G hard vs Lucrezia Stefanini",
     "2026-10-17 G hard vs Lucie Havlickova",
     "2026-10-18 G hard vs Dominika Salkova",
@@ -27996,7 +27995,8 @@
     "2026-10-31 G hard vs Alicia Herrero Linana",
     "2026-11-01 G hard vs Carole Monnet",
     "2026-11-01 G hard vs Tatjana Maria",
-    "2026-11-03 G hard vs Tamara Zidansek"
+    "2026-11-03 G hard vs Tamara Zidansek",
+    "2026-11-04 G hard vs Jazmin Ortenzi"
    ]
   },
   "kumru|a": {
@@ -91903,7 +91903,11 @@
   "papamichail|d~zarazua|r": [
    0,
    1
+  ],
+  "andreescu|b~ortenzi|j": [
+   1,
+   0
   ]
  },
- "propios": 10641
+ "propios": 10642
 }
