@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T15:11+00:00",
+ "actualizado": "2026-11-04T15:34+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.29,
+      "pct": 0.291,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.784,
+      "pct": 0.785,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.216,
+      "pct": 0.215,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.784,
+      "pct": 0.785,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.216,
+      "pct": 0.215,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1983,6 +1983,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-04T15:34+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T15:34+00:00",
+   "texto": "📰 Noticias nuevas de Arthur Fils – Tomas Machac: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T15:11+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2120,16 +2130,6 @@
   {
    "hora": "2026-11-03T17:10+00:00",
    "texto": "📰 Noticias nuevas de Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T16:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -9155,7 +9155,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:11+00:00",
+   "actualizado": "2026-11-04T15:34+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -9243,7 +9243,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:11+00:00",
+   "actualizado": "2026-11-04T15:34+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -9267,6 +9267,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Es el sexto clasificado para las ATP Finals de Turín sin tener que saltar a la pista en París - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW9YTVR3ampUSDlaSlZGV1lCRkVJSlNsUVAwcWU4YVI3SU9hQ1E1M3AzTkJDMnREX25wMlRLYW52dXJEckJBaGhTX1NsX2VwemhZczdtSFlBS0FVaWVmeTg1NlJLM0daQ3c3MkFYcy13MEM4M3VxeUJ1N3VGdTlMbFFaanFNSktDR2dNT08tWXZEdnc0S3ZYTTJhVDBZTy1iTlFrMnE5UEtEU1JuV3dYY2FTbHR1d9IBwwFBVV95cUxQbllDQzdXemlIQ21JakFLZ1E4c2d4bW1iYVZ0VTdadm5takpGVUdaZVNMdk5VMzhEODRkYW9RbTB5RVFqUFdLcWF5MzFWT2JQNkV6MWJXbFdoNWl1d1ZYeGZQRHB5bG5WQlVDMU9KV18zTTJzeUJRWGxOd2J0UkRQQVROZTdyWWg5T1hFRHU3NVNJODZxaFpMRkpjQVl2OFA0M1pHSTd3YnBRcnpuVjN1YmtsNkRsTnpJUHVJVHlrR19iU0E?oc=5"
+      },
+      {
        "titulo": "fils-nitto-atp-finals-2026-qualification | Nitto ATP Finals | Tennis - Nitto ATP Finals",
        "fuente": "Nitto ATP Finals",
        "fecha": "2026-11-04",
@@ -9277,12 +9283,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxZlBmZFk0TFBlRENSeUdlT1FhT2FCcU1RRTZGRnJMOXh2TlNlOFAydU1ZVmxXZ0s2azZlRW50U20xRE9pUi1WRmNTY04tUjZWZUY1M0w4OC15OWYyaVdmWWxGSnpNQ3d4UVdINFBEWlBmM2YtZVFSSndqRTA?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils ya está oficialmente clasificado para las ATP Finals 2026 - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0h6VkdlY2V1Mm9haWVtREl0aUdhS1p6SFgwLW11Y3VBZ1A1aHh5cl80cVh0Nk1aWERfVWF5SHJUb3NxaWV2VlpzZ0l4UEhvVXBhSzhwMlRsd2RPQ3ltb2tVcU56ZldzOTdTeDJhb05NRC0tUEJ6Vm1fUzJlbUI5ZHNZUDE0dFY4YVpzOWp2WWVUbERwTUIw?oc=5"
       }
      ]
     },

@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.067,
      "sorpresa": 0.4,
-     "impaciencia": 0.16,
+     "impaciencia": 0.159,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T15:11+00:00",
+    "hora": "2026-11-04T15:34+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.124,
+     "impaciencia": 0.123,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T15:11+00:00",
+    "hora": "2026-11-04T15:34+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T15:11+00:00",
+    "hora": "2026-11-04T15:34+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.124,
+     "impaciencia": 0.123,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T15:11+00:00",
+    "hora": "2026-11-04T15:34+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-02T08:00+00:00",
-   "texto": "🎾 Cartelera: 13 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-02T08:00+00:00",
    "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-04T15:11+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T15:34+00:00",
+   "texto": "📰 Noticias nuevas de Arthur Fils – Tomas Machac: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-04T15:34+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,22 +2618,28 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "93a7e4785676",
   "fd758fca0db9",
   "92ee25f2ac65",
+  "5b83217f1f9d",
+  "5335bf3a6cb9",
   "75b7a5f12e2a",
   "4b2e7f7cee49",
   "f200a9f1c205",
   "0cb626aa210f",
   "cb60ca73849e",
   "b2f40c2da81d",
+  "8aa4c5b3ca12",
   "827a07873e02",
   "42ec3abe65e7",
   "e2e29c6b8e7e",
   "e3ae9f8a271c",
   "b480d3f3db68",
+  "319844cd020b",
   "659c46e0d3a5",
   "5a422c3f3e16",
   "2d07e44b953f",
+  "759ad6a3317d",
   "16aa01666f7d",
   "1a98e0ac1e64",
   "3f0d7e2d67ef",
@@ -2644,8 +2650,10 @@
   "56fbc41c71eb",
   "afac48218a24",
   "9295ea95be4b",
+  "12d902f30fe7",
   "08391ffd8748",
   "52b529afd5ad",
+  "3b0375023627",
   "654f5fde55ae",
   "7c3af93a81ec",
   "3b734caf1b66",
@@ -2697,8 +2705,8 @@
   "afe85260d6f2",
   "233a5782e8ce",
   "89b2ccc05641",
-  "70905871f94f",
   "ca1486ad7f5e",
+  "70905871f94f",
   "b65b420a8f5e",
   "a2ec8cbe2ec3",
   "b0425620a126",
@@ -3409,15 +3417,7 @@
   "309a6a4ee28d",
   "4579c2e12941",
   "641db52d38f7",
-  "57316f3a02cb",
-  "d7434aadfaa9",
-  "9807b5b881ff",
-  "a291f6dbfc9c",
-  "902999a31b66",
-  "8c742e042872",
-  "3c6e581cce81",
-  "697d933e5e96",
-  "e31b6984e0c4"
+  "57316f3a02cb"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-04T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:11+00:00",
+   "actualizado": "2026-11-04T15:34+00:00",
    "elo": 0.116,
    "elo_general": 0.103,
    "elo_en_superficie": 0.129,
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-04T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-04T15:11+00:00",
+   "actualizado": "2026-11-04T15:34+00:00",
    "elo": 0.77,
    "elo_general": 0.795,
    "elo_en_superficie": 0.745,
@@ -10505,6 +10505,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Es el sexto clasificado para las ATP Finals de Turín sin tener que saltar a la pista en París - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW9YTVR3ampUSDlaSlZGV1lCRkVJSlNsUVAwcWU4YVI3SU9hQ1E1M3AzTkJDMnREX25wMlRLYW52dXJEckJBaGhTX1NsX2VwemhZczdtSFlBS0FVaWVmeTg1NlJLM0daQ3c3MkFYcy13MEM4M3VxeUJ1N3VGdTlMbFFaanFNSktDR2dNT08tWXZEdnc0S3ZYTTJhVDBZTy1iTlFrMnE5UEtEU1JuV3dYY2FTbHR1d9IBwwFBVV95cUxQbllDQzdXemlIQ21JakFLZ1E4c2d4bW1iYVZ0VTdadm5takpGVUdaZVNMdk5VMzhEODRkYW9RbTB5RVFqUFdLcWF5MzFWT2JQNkV6MWJXbFdoNWl1d1ZYeGZQRHB5bG5WQlVDMU9KV18zTTJzeUJRWGxOd2J0UkRQQVROZTdyWWg5T1hFRHU3NVNJODZxaFpMRkpjQVl2OFA0M1pHSTd3YnBRcnpuVjN1YmtsNkRsTnpJUHVJVHlrR19iU0E?oc=5"
+      },
+      {
        "titulo": "fils-nitto-atp-finals-2026-qualification | Nitto ATP Finals | Tennis - Nitto ATP Finals",
        "fuente": "Nitto ATP Finals",
        "fecha": "2026-11-04",
@@ -10515,12 +10521,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxZlBmZFk0TFBlRENSeUdlT1FhT2FCcU1RRTZGRnJMOXh2TlNlOFAydU1ZVmxXZ0s2azZlRW50U20xRE9pUi1WRmNTY04tUjZWZUY1M0w4OC15OWYyaVdmWWxGSnpNQ3d4UVdINFBEWlBmM2YtZVFSSndqRTA?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils ya está oficialmente clasificado para las ATP Finals 2026 - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0h6VkdlY2V1Mm9haWVtREl0aUdhS1p6SFgwLW11Y3VBZ1A1aHh5cl80cVh0Nk1aWERfVWF5SHJUb3NxaWV2VlpzZ0l4UEhvVXBhSzhwMlRsd2RPQ3ltb2tVcU56ZldzOTdTeDJhb05NRC0tUEJ6Vm1fUzJlbUI5ZHNZUDE0dFY4YVpzOWp2WWVUbERwTUIw?oc=5"
       }
      ]
     },
