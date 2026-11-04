@@ -240793,6 +240793,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Taylor Fritz",
+    "Alex Molcan"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

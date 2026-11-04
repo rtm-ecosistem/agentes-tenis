@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T17:35+00:00",
+ "actualizado": "2026-11-04T18:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.328,
+      "pct": 0.329,
       "motivo": "Lleva 6 días sin apostar."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.791,
+      "pct": 0.792,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.209,
+      "pct": 0.208,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.211,
+      "pct": 0.209,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.017,
+      "pct": 0.02,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.791,
+      "pct": 0.792,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.209,
+      "pct": 0.208,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
   "partidos": [
-   {
-    "id": "e9c7e8bc7876cbb19446a417d0447cf0",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T18:00+00:00",
-    "jugadores": [
-     "Alex Michelsen",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "e9c7e8bc7876cbb19446a417d0447cf0|h2h|Alex Michelsen|",
-      "mercado": "h2h",
-      "nombre": "Alex Michelsen",
-      "punto": null,
-      "cuota": 5.2,
-      "pinnacle": 5.96
-     },
-     {
-      "id": "e9c7e8bc7876cbb19446a417d0447cf0|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.17,
-      "pinnacle": 1.15
-     },
-     {
-      "id": "e9c7e8bc7876cbb19446a417d0447cf0|totals|Over|20.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 20.5,
-      "cuota": 1.76,
-      "pinnacle": null
-     },
-     {
-      "id": "e9c7e8bc7876cbb19446a417d0447cf0|totals|Under|20.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 20.5,
-      "cuota": 1.95,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alex Michelsen": 5.96,
-     "Carlos Alcaraz": 1.15
-    }
-   },
    {
     "id": "1cd952bfa7bc99f45d2ced1b80209056",
     "deporte": "tennis_atp_paris_masters",
@@ -2151,9 +2101,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 51,
-  "aciertos": 0.6274509803921569,
-  "yield": -0.07725490196078431
+  "apuestas": 52,
+  "aciertos": 0.6346153846153846,
+  "yield": -0.07153846153846154
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {

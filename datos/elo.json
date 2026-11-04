@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T17:35+00:00",
+ "actualizado": "2026-11-04T18:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1205,19 +1205,18 @@
    "nombre": "Taylor Fritz",
    "circuito": "ATP",
    "elo": {
-    "all": 1841.5,
-    "hard": 1839.2,
+    "all": 1852.9,
+    "hard": 1853.0,
     "clay": 1558.6,
     "grass": 1916.4
    },
    "n": {
-    "all": 213,
-    "hard": 150,
+    "all": 214,
+    "hard": 151,
     "clay": 31,
     "grass": 32
    },
    "ultimos": [
-    "2026-10-10 G hard vs Matteo Arnaldi",
     "2026-10-12 P hard vs Stefanos Tsitsipas",
     "2026-10-22 G hard vs Pierre-Hugues Herbert",
     "2026-10-23 G hard vs Daniel Altmaier",
@@ -1226,7 +1225,8 @@
     "2026-10-28 G hard vs Rinky Hijikata",
     "2026-10-29 G hard vs Denis Shapovalov",
     "2026-10-31 P hard vs Valentin Vacherot",
-    "2026-11-03 G hard vs Benjamin Bonzi"
+    "2026-11-03 G hard vs Benjamin Bonzi",
+    "2026-11-04 G hard vs Alex Molcan"
    ]
   },
   "jarry|n": {
@@ -4434,19 +4434,18 @@
    "nombre": "Alex Molcan",
    "circuito": "ATP",
    "elo": {
-    "all": 1766.7,
-    "hard": 1780.1,
+    "all": 1745.5,
+    "hard": 1755.1,
     "clay": 1570.5,
     "grass": 1555.2
    },
    "n": {
-    "all": 42,
-    "hard": 30,
+    "all": 43,
+    "hard": 31,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-28 G hard vs Vit Kopriva",
     "2026-09-29 G hard vs Marco Trungelliti",
     "2026-10-01 G hard vs Tomas Machac",
     "2026-10-02 P hard vs Karen Khachanov",
@@ -4455,7 +4454,8 @@
     "2026-10-25 P hard vs Adrian Mannarino",
     "2026-10-31 G hard vs Daniel Altmaier",
     "2026-11-01 G hard vs Nuno Borges",
-    "2026-11-02 G hard vs Titouan Droguet"
+    "2026-11-02 G hard vs Titouan Droguet",
+    "2026-11-04 P hard vs Taylor Fritz"
    ]
   },
   "pokorny|l": {
@@ -91887,7 +91887,11 @@
   "burillo|i~giovannini|l": [
    0,
    1
+  ],
+  "fritz|t~molcan|a": [
+   1,
+   0
   ]
  },
- "propios": 10631
+ "propios": 10632
 }

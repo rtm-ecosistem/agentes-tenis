@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.065,
+     "envidia": 0.064,
      "sorpresa": 0.4,
-     "impaciencia": 0.155,
+     "impaciencia": 0.154,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T17:35+00:00",
+    "hora": "2026-11-04T18:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.119,
+     "impaciencia": 0.118,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:35+00:00",
+    "hora": "2026-11-04T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.074,
+     "impaciencia": 0.073,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:35+00:00",
+    "hora": "2026-11-04T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.119,
+     "impaciencia": 0.118,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T17:35+00:00",
+    "hora": "2026-11-04T18:10+00:00",
     "rent": 0.0
    }
   }
@@ -2618,14 +2618,26 @@
  "ultima_decision": "2026-11-04",
  "ultima_sala": "2026-11-04-14",
  "noticias_vistas": [
+  "3b734caf1b66",
+  "f1388807bbfb",
+  "25660e7d6233",
+  "8e03506a0f59",
+  "8a79863ebc4f",
+  "802289636972",
+  "ebd51ccf99d4",
+  "2229456db554",
+  "960395fba329",
+  "4d3b49a5735b",
+  "03b2351f4790",
   "df6a3946fc2f",
   "efdbb9fb5f29",
   "0d358195bfc4",
-  "6399c5abd5d0",
+  "4eff3a87bc68",
+  "f6ff647700da",
   "0649208e921c",
+  "92ee25f2ac65",
   "b480d3f3db68",
   "4e104b60968e",
-  "ebd51ccf99d4",
   "4d1115141978",
   "85c4c33127c3",
   "c7bda20f0286",
@@ -2640,7 +2652,6 @@
   "5671ad2d6fb3",
   "fd758fca0db9",
   "2cfdaddd8276",
-  "92ee25f2ac65",
   "5b83217f1f9d",
   "294fb0d1e70f",
   "dc40930d44a7",
@@ -2677,22 +2688,16 @@
   "afac48218a24",
   "9295ea95be4b",
   "12d902f30fe7",
+  "97992ede1f27",
   "08391ffd8748",
   "52b529afd5ad",
   "3b0375023627",
   "654f5fde55ae",
   "c60acc9cfa41",
   "7c3af93a81ec",
-  "3b734caf1b66",
-  "f1388807bbfb",
-  "25660e7d6233",
-  "8e03506a0f59",
-  "8a79863ebc4f",
-  "802289636972",
   "f4549a3ae21a",
-  "2229456db554",
   "b1ca74dd6d87",
-  "960395fba329",
+  "c9b994ca7faa",
   "a2da3ae46c4f",
   "fc38f211ee60",
   "7f1f468a3c5b",
@@ -2914,6 +2919,7 @@
   "958673b284a0",
   "ae760348fa7e",
   "7d627a5192cc",
+  "de704b9e0865",
   "4b5a10ffee41",
   "dfa100466df2",
   "57c2ea32d7d0",
@@ -3050,7 +3056,6 @@
   "5bfb296d027c",
   "d8daca57ad10",
   "30de492efde3",
-  "de704b9e0865",
   "892b6825e700",
   "016f5dee67d6",
   "7b430ebec032",
@@ -3251,12 +3256,14 @@
   "469f1b77e57c",
   "a8a5ac1421c9",
   "5a2dd75c5c20",
+  "e0195f35a5e2",
   "a03713ad6b56",
   "ecc3a7dc0b62",
   "065644f602df",
   "6ac5e00d65da",
   "baf8d517ee36",
   "d258ada78d87",
+  "6399c5abd5d0",
   "ffefe3c9946a",
   "5319922bba34",
   "67996777ae4e",
@@ -3410,14 +3417,7 @@
   "6d632e3c3c18",
   "e92ba639ea27",
   "ca0375454c26",
-  "0a11d08471b9",
-  "5691ba22bccc",
-  "22a4590172ce",
-  "7aa58c92fe33",
-  "476682650c27",
-  "fc191266a1d8",
-  "14cee0274886",
-  "f1332d53a894"
+  "0a11d08471b9"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 51,
-  "ganadas": 32,
-  "unidades": -3.94,
+  "apuestas": 52,
+  "ganadas": 33,
+  "unidades": -3.72,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10590,18 +10590,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "d9db521dae7522d7d24255286307307f",
-    "jugadores": [
-     "Alex Molcan",
-     "Taylor Fritz"
-    ],
-    "inicio": "2026-11-04T13:50+00:00",
-    "mercado": "h2h",
-    "seleccion": "Taylor Fritz",
-    "punto": null,
-    "cuota": 1.22
    },
    {
     "partido": "83e3278f7f08fc8e5f9d88ec513d0aeb",
@@ -10707,7 +10695,8 @@
    "9f0cefd1f030d8ad5ba4085132aff58d",
    "bc5dffba531009c0a80d3facb9410062",
    "1be19552d8710b4628e2747163b4cf78",
-   "b92f417b119f280893500cc87bd8714e"
+   "b92f417b119f280893500cc87bd8714e",
+   "d9db521dae7522d7d24255286307307f"
   ]
  },
  "mercados_casas": {
