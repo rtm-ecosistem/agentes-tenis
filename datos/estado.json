@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.063,
      "sorpresa": 0.4,
-     "impaciencia": 0.152,
+     "impaciencia": 0.151,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 6 días sin apostar."
     },
-    "hora": "2026-11-04T19:10+00:00",
+    "hora": "2026-11-04T19:42+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.116,
+     "impaciencia": 0.115,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:10+00:00",
+    "hora": "2026-11-04T19:42+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.072,
+     "impaciencia": 0.071,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:10+00:00",
+    "hora": "2026-11-04T19:42+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.116,
+     "impaciencia": 0.115,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-04T19:10+00:00",
+    "hora": "2026-11-04T19:42+00:00",
     "rent": 0.0
    }
   }
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 52,
+  "apuestas": 53,
   "ganadas": 33,
-  "unidades": -3.72,
+  "unidades": -4.72,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10590,30 +10590,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "83e3278f7f08fc8e5f9d88ec513d0aeb",
-    "jugadores": [
-     "Thiago Agustin Tirante",
-     "Jan-Lennard Struff"
-    ],
-    "inicio": "2026-11-04T15:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Jan-Lennard Struff",
-    "punto": null,
-    "cuota": 1.45
-   },
-   {
-    "partido": "9c047eea4b968d8a8c3f35fd16ce9e6d",
-    "jugadores": [
-     "Matteo Berrettini",
-     "Ugo Humbert"
-    ],
-    "inicio": "2026-11-04T15:40+00:00",
-    "mercado": "h2h",
-    "seleccion": "Ugo Humbert",
-    "punto": null,
-    "cuota": 1.81
    },
    {
     "partido": "e9c7e8bc7876cbb19446a417d0447cf0",
@@ -10696,7 +10672,9 @@
    "bc5dffba531009c0a80d3facb9410062",
    "1be19552d8710b4628e2747163b4cf78",
    "b92f417b119f280893500cc87bd8714e",
-   "d9db521dae7522d7d24255286307307f"
+   "d9db521dae7522d7d24255286307307f",
+   "83e3278f7f08fc8e5f9d88ec513d0aeb",
+   "9c047eea4b968d8a8c3f35fd16ce9e6d"
   ]
  },
  "mercados_casas": {

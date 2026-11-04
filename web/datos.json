@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T19:10+00:00",
+ "actualizado": "2026-11-04T19:42+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.795,
+      "pct": 0.796,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.205,
+      "pct": 0.204,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.206,
+      "pct": 0.203,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.023,
+      "pct": 0.026,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.795,
+      "pct": 0.796,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.205,
+      "pct": 0.204,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1026,58 +1026,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-04T08:00+00:00",
-  "partidos": [
-   {
-    "id": "1cd952bfa7bc99f45d2ced1b80209056",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-04T19:30+00:00",
-    "jugadores": [
-     "Arthur Fils",
-     "Tomas Machac"
-    ],
-    "opciones": [
-     {
-      "id": "1cd952bfa7bc99f45d2ced1b80209056|h2h|Arthur Fils|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fils",
-      "punto": null,
-      "cuota": 1.52,
-      "pinnacle": 1.58
-     },
-     {
-      "id": "1cd952bfa7bc99f45d2ced1b80209056|h2h|Tomas Machac|",
-      "mercado": "h2h",
-      "nombre": "Tomas Machac",
-      "punto": null,
-      "cuota": 2.55,
-      "pinnacle": 2.52
-     },
-     {
-      "id": "1cd952bfa7bc99f45d2ced1b80209056|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.84,
-      "pinnacle": 1.9
-     },
-     {
-      "id": "1cd952bfa7bc99f45d2ced1b80209056|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.87,
-      "pinnacle": 1.97
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fils": 1.58,
-     "Tomas Machac": 2.52
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
@@ -2101,9 +2050,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 52,
-  "aciertos": 0.6346153846153846,
-  "yield": -0.07153846153846154
+  "apuestas": 53,
+  "aciertos": 0.6226415094339622,
+  "yield": -0.0890566037735849
  },
  "partidos_info": {
   "381536c46bd1e16a9236502df3f748e5": {
