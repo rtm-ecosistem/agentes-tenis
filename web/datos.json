@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T12:10+00:00",
+ "actualizado": "2026-11-05T13:02+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1027,106 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-05T08:00+00:00",
   "partidos": [
-   {
-    "id": "8962e5108426884c7237a80948c77cfb",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T12:20+00:00",
-    "jugadores": [
-     "Lorenzo Musetti",
-     "Luca Van Assche"
-    ],
-    "opciones": [
-     {
-      "id": "8962e5108426884c7237a80948c77cfb|h2h|Lorenzo Musetti|",
-      "mercado": "h2h",
-      "nombre": "Lorenzo Musetti",
-      "punto": null,
-      "cuota": 1.34,
-      "pinnacle": 1.34
-     },
-     {
-      "id": "8962e5108426884c7237a80948c77cfb|h2h|Luca Van Assche|",
-      "mercado": "h2h",
-      "nombre": "Luca Van Assche",
-      "punto": null,
-      "cuota": 3.3,
-      "pinnacle": 3.53
-     },
-     {
-      "id": "8962e5108426884c7237a80948c77cfb|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.89,
-      "pinnacle": 2.02
-     },
-     {
-      "id": "8962e5108426884c7237a80948c77cfb|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.81,
-      "pinnacle": 1.86
-     }
-    ],
-    "pinnacle_h2h": {
-     "Lorenzo Musetti": 1.34,
-     "Luca Van Assche": 3.53
-    }
-   },
-   {
-    "id": "ce54c1892701e4d3d4713f621a47cc00",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T13:00+00:00",
-    "jugadores": [
-     "Rinky Hijikata",
-     "Tomas Martin Etcheverry"
-    ],
-    "opciones": [
-     {
-      "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Rinky Hijikata|",
-      "mercado": "h2h",
-      "nombre": "Rinky Hijikata",
-      "punto": null,
-      "cuota": 2.08,
-      "pinnacle": 2.14
-     },
-     {
-      "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Tomas Martin Etcheverry|",
-      "mercado": "h2h",
-      "nombre": "Tomas Martin Etcheverry",
-      "punto": null,
-      "cuota": 1.75,
-      "pinnacle": 1.78
-     },
-     {
-      "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.93,
-      "pinnacle": null
-     },
-     {
-      "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.78,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Rinky Hijikata": 2.14,
-     "Tomas Martin Etcheverry": 1.78
-    }
-   },
    {
     "id": "235263f6f3bbd21f2327b39e61407934",
     "deporte": "tennis_atp_paris_masters",
@@ -9833,7 +9733,7 @@
    "inicio": "2026-11-05T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T12:10+00:00",
+   "actualizado": "2026-11-05T13:00+00:00",
    "elo": 0.548,
    "elo_general": 0.532,
    "elo_en_superficie": 0.564,
@@ -9921,7 +9821,7 @@
    "inicio": "2026-11-05T15:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T12:10+00:00",
+   "actualizado": "2026-11-05T13:00+00:00",
    "elo": 0.417,
    "elo_general": 0.42,
    "elo_en_superficie": 0.414,
@@ -10009,7 +9909,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T12:10+00:00",
+   "actualizado": "2026-11-05T13:00+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -10097,7 +9997,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T12:10+00:00",
+   "actualizado": "2026-11-05T13:00+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
