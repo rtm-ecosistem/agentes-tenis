@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T01:10+00:00",
+ "actualizado": "2026-11-05T01:52+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.334,
+      "pct": 0.335,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
@@ -366,7 +366,7 @@
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.043,
+      "pct": 0.042,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.811,
+      "pct": 0.812,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.189,
+      "pct": 0.188,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.189,
+      "pct": 0.186,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.04,
+      "pct": 0.043,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.811,
+      "pct": 0.812,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.189,
+      "pct": 0.188,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
