@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T07:58+00:00",
+ "actualizado": "2026-11-05T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 14014,
-  "sport888": 14014,
-  "betsson": 14028
+  "williamhill": 8008,
+  "sport888": 8008,
+  "betsson": 8016
  },
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 18,
-  "restantes": 482,
-  "usados": 18,
-  "actualizado": "2026-11-04T08:00+00:00",
-  "prevision_mes": 117,
+  "gastados_mes": 21,
+  "restantes": 479,
+  "usados": 21,
+  "actualizado": "2026-11-05T08:00+00:00",
+  "prevision_mes": 105,
   "noticias": {
    "dia": "2026-11-04",
    "gastados": 0,
@@ -1025,8 +1025,409 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-04T08:00+00:00",
-  "partidos": []
+  "actualizado": "2026-11-05T08:00+00:00",
+  "partidos": [
+   {
+    "id": "4111a4ac0ae11935311b655ebadd040b",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T10:00+00:00",
+    "jugadores": [
+     "Tommy Paul",
+     "Quentin Halys"
+    ],
+    "opciones": [
+     {
+      "id": "4111a4ac0ae11935311b655ebadd040b|h2h|Quentin Halys|",
+      "mercado": "h2h",
+      "nombre": "Quentin Halys",
+      "punto": null,
+      "cuota": 3.45,
+      "pinnacle": 3.73
+     },
+     {
+      "id": "4111a4ac0ae11935311b655ebadd040b|h2h|Tommy Paul|",
+      "mercado": "h2h",
+      "nombre": "Tommy Paul",
+      "punto": null,
+      "cuota": 1.31,
+      "pinnacle": 1.32
+     },
+     {
+      "id": "4111a4ac0ae11935311b655ebadd040b|totals|Over|22.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 22.5,
+      "cuota": 1.81,
+      "pinnacle": null
+     },
+     {
+      "id": "4111a4ac0ae11935311b655ebadd040b|totals|Under|22.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 22.5,
+      "cuota": 1.89,
+      "pinnacle": null
+     }
+    ],
+    "pinnacle_h2h": {
+     "Quentin Halys": 3.73,
+     "Tommy Paul": 1.32
+    }
+   },
+   {
+    "id": "8a2e76c34cf0bce53c2afc75d9f2793e",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T11:10+00:00",
+    "jugadores": [
+     "Ben Shelton",
+     "Arthur Rinderknech"
+    ],
+    "opciones": [
+     {
+      "id": "8a2e76c34cf0bce53c2afc75d9f2793e|h2h|Arthur Rinderknech|",
+      "mercado": "h2h",
+      "nombre": "Arthur Rinderknech",
+      "punto": null,
+      "cuota": 3.55,
+      "pinnacle": 3.52
+     },
+     {
+      "id": "8a2e76c34cf0bce53c2afc75d9f2793e|h2h|Ben Shelton|",
+      "mercado": "h2h",
+      "nombre": "Ben Shelton",
+      "punto": null,
+      "cuota": 1.3,
+      "pinnacle": 1.34
+     },
+     {
+      "id": "8a2e76c34cf0bce53c2afc75d9f2793e|totals|Over|23.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 23.5,
+      "cuota": 1.89,
+      "pinnacle": 1.95
+     },
+     {
+      "id": "8a2e76c34cf0bce53c2afc75d9f2793e|totals|Under|23.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 23.5,
+      "cuota": 1.82,
+      "pinnacle": 1.92
+     }
+    ],
+    "pinnacle_h2h": {
+     "Arthur Rinderknech": 3.52,
+     "Ben Shelton": 1.34
+    }
+   },
+   {
+    "id": "8962e5108426884c7237a80948c77cfb",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T12:20+00:00",
+    "jugadores": [
+     "Lorenzo Musetti",
+     "Luca Van Assche"
+    ],
+    "opciones": [
+     {
+      "id": "8962e5108426884c7237a80948c77cfb|h2h|Lorenzo Musetti|",
+      "mercado": "h2h",
+      "nombre": "Lorenzo Musetti",
+      "punto": null,
+      "cuota": 1.34,
+      "pinnacle": 1.34
+     },
+     {
+      "id": "8962e5108426884c7237a80948c77cfb|h2h|Luca Van Assche|",
+      "mercado": "h2h",
+      "nombre": "Luca Van Assche",
+      "punto": null,
+      "cuota": 3.3,
+      "pinnacle": 3.53
+     },
+     {
+      "id": "8962e5108426884c7237a80948c77cfb|totals|Over|22.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 22.5,
+      "cuota": 1.89,
+      "pinnacle": 2.02
+     },
+     {
+      "id": "8962e5108426884c7237a80948c77cfb|totals|Under|22.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 22.5,
+      "cuota": 1.81,
+      "pinnacle": 1.86
+     }
+    ],
+    "pinnacle_h2h": {
+     "Lorenzo Musetti": 1.34,
+     "Luca Van Assche": 3.53
+    }
+   },
+   {
+    "id": "ce54c1892701e4d3d4713f621a47cc00",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T13:00+00:00",
+    "jugadores": [
+     "Rinky Hijikata",
+     "Tomas Martin Etcheverry"
+    ],
+    "opciones": [
+     {
+      "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Rinky Hijikata|",
+      "mercado": "h2h",
+      "nombre": "Rinky Hijikata",
+      "punto": null,
+      "cuota": 2.08,
+      "pinnacle": 2.14
+     },
+     {
+      "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Tomas Martin Etcheverry|",
+      "mercado": "h2h",
+      "nombre": "Tomas Martin Etcheverry",
+      "punto": null,
+      "cuota": 1.75,
+      "pinnacle": 1.78
+     },
+     {
+      "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Over|23.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 23.5,
+      "cuota": 1.93,
+      "pinnacle": null
+     },
+     {
+      "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Under|23.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 23.5,
+      "cuota": 1.78,
+      "pinnacle": null
+     }
+    ],
+    "pinnacle_h2h": {
+     "Rinky Hijikata": 2.14,
+     "Tomas Martin Etcheverry": 1.78
+    }
+   },
+   {
+    "id": "235263f6f3bbd21f2327b39e61407934",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T14:10+00:00",
+    "jugadores": [
+     "Nuno Borges",
+     "Ignacio Buse"
+    ],
+    "opciones": [
+     {
+      "id": "235263f6f3bbd21f2327b39e61407934|h2h|Ignacio Buse|",
+      "mercado": "h2h",
+      "nombre": "Ignacio Buse",
+      "punto": null,
+      "cuota": 2.24,
+      "pinnacle": 2.38
+     },
+     {
+      "id": "235263f6f3bbd21f2327b39e61407934|h2h|Nuno Borges|",
+      "mercado": "h2h",
+      "nombre": "Nuno Borges",
+      "punto": null,
+      "cuota": 1.66,
+      "pinnacle": 1.65
+     },
+     {
+      "id": "235263f6f3bbd21f2327b39e61407934|totals|Over|22.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 22.5,
+      "cuota": 1.77,
+      "pinnacle": null
+     },
+     {
+      "id": "235263f6f3bbd21f2327b39e61407934|totals|Under|22.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 22.5,
+      "cuota": 1.94,
+      "pinnacle": null
+     }
+    ],
+    "pinnacle_h2h": {
+     "Ignacio Buse": 2.38,
+     "Nuno Borges": 1.65
+    }
+   },
+   {
+    "id": "47d9edba7490e876194504362c877fe3",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T15:20+00:00",
+    "jugadores": [
+     "Jan-Lennard Struff",
+     "Casper Ruud"
+    ],
+    "opciones": [
+     {
+      "id": "47d9edba7490e876194504362c877fe3|h2h|Casper Ruud|",
+      "mercado": "h2h",
+      "nombre": "Casper Ruud",
+      "punto": null,
+      "cuota": 1.5,
+      "pinnacle": 1.54
+     },
+     {
+      "id": "47d9edba7490e876194504362c877fe3|h2h|Jan-Lennard Struff|",
+      "mercado": "h2h",
+      "nombre": "Jan-Lennard Struff",
+      "punto": null,
+      "cuota": 2.6,
+      "pinnacle": 2.63
+     },
+     {
+      "id": "47d9edba7490e876194504362c877fe3|totals|Over|23.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 23.5,
+      "cuota": 1.94,
+      "pinnacle": 1.97
+     },
+     {
+      "id": "47d9edba7490e876194504362c877fe3|totals|Under|23.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 23.5,
+      "cuota": 1.77,
+      "pinnacle": 1.9
+     }
+    ],
+    "pinnacle_h2h": {
+     "Casper Ruud": 1.54,
+     "Jan-Lennard Struff": 2.63
+    }
+   },
+   {
+    "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T18:00+00:00",
+    "jugadores": [
+     "Matteo Berrettini",
+     "Carlos Alcaraz"
+    ],
+    "opciones": [
+     {
+      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Carlos Alcaraz|",
+      "mercado": "h2h",
+      "nombre": "Carlos Alcaraz",
+      "punto": null,
+      "cuota": 1.15,
+      "pinnacle": 1.18
+     },
+     {
+      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Matteo Berrettini|",
+      "mercado": "h2h",
+      "nombre": "Matteo Berrettini",
+      "punto": null,
+      "cuota": 5.6,
+      "pinnacle": 5.6
+     },
+     {
+      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Over|21.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 21.5,
+      "cuota": 1.88,
+      "pinnacle": 1.93
+     },
+     {
+      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Under|21.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 21.5,
+      "cuota": 1.82,
+      "pinnacle": 1.93
+     }
+    ],
+    "pinnacle_h2h": {
+     "Carlos Alcaraz": 1.18,
+     "Matteo Berrettini": 5.6
+    }
+   },
+   {
+    "id": "6a03e950601f142942705acfb764d107",
+    "deporte": "tennis_atp_paris_masters",
+    "torneo": "ATP Paris Masters",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-05T19:30+00:00",
+    "jugadores": [
+     "Arthur Fils",
+     "Taylor Fritz"
+    ],
+    "opciones": [
+     {
+      "id": "6a03e950601f142942705acfb764d107|h2h|Arthur Fils|",
+      "mercado": "h2h",
+      "nombre": "Arthur Fils",
+      "punto": null,
+      "cuota": 1.76,
+      "pinnacle": 1.78
+     },
+     {
+      "id": "6a03e950601f142942705acfb764d107|h2h|Taylor Fritz|",
+      "mercado": "h2h",
+      "nombre": "Taylor Fritz",
+      "punto": null,
+      "cuota": 2.08,
+      "pinnacle": 2.15
+     },
+     {
+      "id": "6a03e950601f142942705acfb764d107|totals|Over|23.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 23.5,
+      "cuota": 1.85,
+      "pinnacle": null
+     },
+     {
+      "id": "6a03e950601f142942705acfb764d107|totals|Under|23.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 23.5,
+      "cuota": 1.86,
+      "pinnacle": null
+     }
+    ],
+    "pinnacle_h2h": {
+     "Arthur Fils": 1.78,
+     "Taylor Fritz": 2.15
+    }
+   }
+  ]
  },
  "apuestas": [
   {
@@ -1832,6 +2233,36 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-05T08:00+00:00",
+   "texto": "🎾 Cartelera: 8 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-04T17:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -1950,39 +2381,9 @@
    "hora": "2026-11-04T08:00+00:00",
    "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "🎾 Cartelera: 14 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T18:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T18:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-04",
+ "ultima_decision": "2026-11-05",
  "oficina": {
   "total": {
    "apuestas": 2,
@@ -9166,6 +9567,710 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTBPWGg2QTNHcFlrS1IwSVRHN3NxR2VfM2pqY1N0QVBmb3RfcU9mWlR3b0V2cXhveTUtNDg3RjRNR0d3QzhOZWc4YXppX0NjUHF4cjRJcUgtU1ZFOGRVRDVTN0haT3VmZVVnWXV1eGY1NmF1Rm5yTHQ0T3gtdUJPZ1hrU0FuMXlZUmF0QXNkT0lwRTNRdWhXRThvanpQVUJyd2pQVUpacVlqcVR1dUtpdw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "4111a4ac0ae11935311b655ebadd040b": {
+   "id": "4111a4ac0ae11935311b655ebadd040b",
+   "jugadores": [
+    "Tommy Paul",
+    "Quentin Halys"
+   ],
+   "inicio": "2026-11-05T10:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.684,
+   "elo_general": 0.676,
+   "elo_en_superficie": 0.693,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Tommy Paul",
+     "mercado": 0.739,
+     "elo": 1872,
+     "elo_superficie": 1869,
+     "forma": [
+      "G hard vs Andrey Rublev",
+      "G hard vs Luciano Darderi",
+      "P hard vs Carlos Alcaraz",
+      "G hard vs Holger Rune",
+      "G hard vs Daniel Merida"
+     ],
+     "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-11-04 contra Daniel Merida, ganó 6-1 6-1",
+     "noticias": [
+      {
+       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+      },
+      {
+       "titulo": "Highlights: Fritz derrota a su buen amigo Paul rumbo a la final en Lyon - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hub0JrTVpiSGwzV200VkZJbXE1aEZLU1BHaV9rbEZzSHFVcUJJNGEzRnowTEkxVnhsUHJqWmtPd1JTdnRCUDVNSUpLZ2diTU5IRGRqSVFZVjNjbEZsM3lyNTJuOEF6cl9LMkdRdGpxR0w2U0dnVndUUjUzNTVpVU54ckRBVlNreXNzNlEyamZjb1hZWTJmeExHeGd1aUlTZXRDd0JyMA?oc=5"
+      },
+      {
+       "titulo": "🎾 El billete de Rafa Jódar dar para Turín, en manos de Fritz y Paul - Telemadrid",
+       "fuente": "Telemadrid",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU4tbnUzY0hORW9iTU5vMERpckJrb25rZ2wwc0JyMk9yTmdTRDNsRUhTQzZpTWpwazVhVWxZWE9ncnAwaXVJREtWUVNUaXR4VVZpSWlXLUxrLTlWR0hDeHlTVi1XNEFSTTV2OFY4SGNUaW1kWTAzSVRoNWdLVG12OGJXM2RTUnc0ZDZGRGpxVknSAZYBQVVfeXFMT05kR1FnTmROdUtXV2NQT0o1Ym1mYnB5RWppckxRTEhaNkJQS1N3QW5vdEloSlJlMWlJQy16MXlYMXNsVmZ5NEtYMV9KQnJ6dVBtbkx3d0xsMmNOTVBDYmdiekhNcjZlajY3NWRuWnotRjVGYU0zdmJZVGZvbWluNDZuWkhLeXV0TjN3MnRPQXQ4RVFGdGlB?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Quentin Halys",
+     "mercado": 0.261,
+     "elo": 1744,
+     "elo_superficie": 1727,
+     "forma": [
+      "G hard vs Alexander Blockx",
+      "P hard vs Alexander Zverev",
+      "P hard vs Holger Rune",
+      "G hard vs Arthur Fery",
+      "G hard vs Frances Tiafoe"
+     ],
+     "cansancio": "2 partidos, 5 sets y 54 juegos en 3 días; el último el 2026-11-04 contra Frances Tiafoe, ganó 6-3 1-6 7-6",
+     "noticias": [
+      {
+       "titulo": "Highlights: Halys salva cuatro match points y vence a Tiafoe en París - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUUyb1psU0lJV1VST1Y1X1FfWkE3MFkyU0Y3RnE3TmRpY1luNEhtV3hKclhlT20zbldvZmh5aXRFVTNDOU9CNXpYNzlOTDlCRzNUcDdEM00zUE83cDhreDRfVGpJQ1I1dzJ1bkU0OF82ODNocy1Ib1kyQVp2QlJ3cjA2eWFRaHJ3akYweGNDY2hQUklvd3NDRkxySnVjemtQU3Z0SURXcFF1cTg?oc=5"
+      },
+      {
+       "titulo": "Granollers / Zeballos vs Halys / Herbert · Round 2 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXdfbHowSVlzSlVQMVYwcWhfTC1hamlDNkpBb3ZGcmd0Qm56QkxWX3ZiWnNtRmplRnUtVS1hZUQ2R3lxQ2JSNFgtanFvVzhPN1RRaVJxSnRBekNZaVJLYTBPQjZ4eUFWZ0ZZZUp5dC1NUjdJTlZzMXhRWUdLNWc0ZjhMSnZJX2R0aWkzd2tLWU1yNndQVFBOZkVRQ1RzajBqdTR6YVJOLTI1SnAwUGVDWkdsTG1kMlFhY3VILQ?oc=5"
+      },
+      {
+       "titulo": "Tommy Paul vs Quentin Halys · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdJQXRwMENUencwbk15VV9POUdKc0JNNDR2Tl9LSFdnY2VXSnRMb29RbjlRMGRuVHRFVzh6RDZST1o0akE1T0hzaGxXOURyWjFNQnZBVXI0UDZydzZQOWFmRkVNUEFiVE1BemN1SnZDbFZVeE9vRml4am5rbGNSVXFoNDc5cUNoQjdjS1htaVlGS3hCeUE?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "8a2e76c34cf0bce53c2afc75d9f2793e": {
+   "id": "8a2e76c34cf0bce53c2afc75d9f2793e",
+   "jugadores": [
+    "Ben Shelton",
+    "Arthur Rinderknech"
+   ],
+   "inicio": "2026-11-05T11:10+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.824,
+   "elo_general": 0.792,
+   "elo_en_superficie": 0.856,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Ben Shelton",
+     "mercado": 0.724,
+     "elo": 1881,
+     "elo_superficie": 1903,
+     "forma": [
+      "G hard vs Daniel Altmaier",
+      "P hard vs Arthur Gea",
+      "G hard vs Aleksandar Kovacevic",
+      "P hard vs Jerome Kym",
+      "G hard vs Cameron Norrie"
+     ],
+     "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-11-03 contra Cameron Norrie, ganó 6-3 6-4",
+     "noticias": [
+      {
+       "titulo": "Ben Shelton - Arthur Rinderknech en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXdRUjJTYjBtZzREcThFTlU0SjBJOXpweXUzR3JPUy1ybHZUSnJFYlNodUVpQ2swZUVla1RLRmVueTFGMFIxd3RsWlV3aE5fTWJ1SFhYU0JMVEktVkZGRHZoNkpDMWZESGFXdkttc0lSc2pMV1BORmo5QWNIa0tTb1Biazl3UDZUcWU0Y2tkbXoySDVHUGtaaS14UzRYc2dMNEdKNDl4YjhsOTR3WmJ3cHZpZ2lUQzk5?oc=5"
+      },
+      {
+       "titulo": "Rumbo a Turín 2026: Ben Shelton - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Sa1VDanJRUkVtX3JUdnRLekw3b0hJT3dTSHhwcTZYQjh0clMtWEdiQTI4eWtVd0dodUVLQWlDSHJsamFkVTZWakdTODFCamRLa29aY1B2YlMzSXQ2UFZCXzlvQmJsOUYtUmJydmpPeDNFUQ?oc=5"
+      },
+      {
+       "titulo": "Ben Shelton vs Arthur Rinderknech · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzgtb1IzYnBlcWRlNG5adkRESXJUTVdZRnkzcVlNYm5TcWROd1JpRk5KanY5a25NZXI2WWFiMlQtQ0d4MDFNRmtNN3pfeXpnNW5RQ0NpdWRGeEQzQTFBbnB3MUJYaDhKMzBsdWF2WFYzRFFYVWVkYzZQSTBvOUc4aFJ5ZGFULWhqN2ZhdGJNV2doU2FpZVBERUdPSU1zaF96eUE?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Arthur Rinderknech",
+     "mercado": 0.276,
+     "elo": 1649,
+     "elo_superficie": 1594,
+     "forma": [
+      "G hard vs Sho Shimabukuro",
+      "G hard vs Jaume Munar",
+      "P hard vs Daniil Medvedev",
+      "P hard vs Jerome Kym",
+      "G hard vs Mattia Bellucci"
+     ],
+     "cansancio": "2 partidos, 5 sets y 41 juegos en 3 días; el último el 2026-11-04 contra Mattia Bellucci, ganó 6-4 6-1",
+     "noticias": [
+      {
+       "titulo": "Ben Shelton - Arthur Rinderknech en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXdRUjJTYjBtZzREcThFTlU0SjBJOXpweXUzR3JPUy1ybHZUSnJFYlNodUVpQ2swZUVla1RLRmVueTFGMFIxd3RsWlV3aE5fTWJ1SFhYU0JMVEktVkZGRHZoNkpDMWZESGFXdkttc0lSc2pMV1BORmo5QWNIa0tTb1Biazl3UDZUcWU0Y2tkbXoySDVHUGtaaS14UzRYc2dMNEdKNDl4YjhsOTR3WmJ3cHZpZ2lUQzk5?oc=5"
+      },
+      {
+       "titulo": "Bonzi / Rinderknech vs Krawietz / Pütz · Round 2 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1VBNmpEV1FlUEtsejM5c2NOQTVXU2l5cnlFaTFMZGJmazBwRWpYQXRIa1l6OGFmV0hpaC12OEw0b1VXR01ITndOYnc5dE1fLUVkVkNqNGdQV19pSi13d1ktQmpPUE54ODQxbEdkeEFWVmQ0NFFFdHVMa0xWVWt4bm5TYnJzTUZfR2lyWVF5NURoeVE0bzJzQTl3QndIbldHSlpjR1VnWnhmTlNFc1FyOXZkb0pFUkZv?oc=5"
+      },
+      {
+       "titulo": "Ben Shelton vs Arthur Rinderknech · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzgtb1IzYnBlcWRlNG5adkRESXJUTVdZRnkzcVlNYm5TcWROd1JpRk5KanY5a25NZXI2WWFiMlQtQ0d4MDFNRmtNN3pfeXpnNW5RQ0NpdWRGeEQzQTFBbnB3MUJYaDhKMzBsdWF2WFYzRFFYVWVkYzZQSTBvOUc4aFJ5ZGFULWhqN2ZhdGJNV2doU2FpZVBERUdPSU1zaF96eUE?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "8962e5108426884c7237a80948c77cfb": {
+   "id": "8962e5108426884c7237a80948c77cfb",
+   "jugadores": [
+    "Lorenzo Musetti",
+    "Luca Van Assche"
+   ],
+   "inicio": "2026-11-05T12:20+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.772,
+   "elo_general": 0.766,
+   "elo_en_superficie": 0.778,
+   "cara_a_cara": [
+    1,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Lorenzo Musetti",
+     "mercado": 0.725,
+     "elo": 1860,
+     "elo_superficie": 1830,
+     "forma": [
+      "G hard vs Taylor Fritz",
+      "G hard vs Frances Tiafoe",
+      "P hard vs Arthur Fery",
+      "G hard vs Hubert Hurkacz",
+      "G hard vs Alexander Zverev"
+     ],
+     "cansancio": "2 partidos, 4 sets y 47 juegos en 3 días; el último el 2026-11-04 contra Alexander Zverev, ganó 7-6 6-2",
+     "noticias": [
+      {
+       "titulo": "Lorenzo Musetti explica la clave de su victoria ante Zverev en el Masters de París: \"Me acostumbré a no ser el favorito\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenZFOFliYlJleWV6VnVPTkU4YlFydHlvcy16QTVPRlZUYWhyQWlGQS1KUVR2VkJZbEUwRzJld2dCXzg1UEktRXBhWFE0VkE3UXo5OTJ2NUU3Tkp3ck82QjVQbmhIdUlmYmZvMjRpT1MyZ0lWLWQ5SjZqWDBUa05mUVNXSQ?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev vs Lorenzo Musetti · Round 2 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0FkM21QMEQydi03THFRR1QwbnZQcjlTRWxxOGhiQkFKd2dXSGJta09yYWdoc1d1RklkSDFQQ0lWdFk0Y3UyMDZjQkRHTDhxNmxFY3NuVzVrU3BpT0VCMWtzR1R2SUx1X2Z5XzljSTBHTFB6Nzg4aEMwcUdXQUtSRXdocVJPeTJkTmx0TndnUTBnQ3Z3YURkSzA3Zw?oc=5"
+      },
+      {
+       "titulo": "Pronóstico Lorenzo Musetti Luca Van Assche - Rolex Paris Masters 05/11/26 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFVkbkNHTHVmUWxJZTNwVGZyVk5SWUJvSDFERTlIcllXM1R5Y0RuRG9OZnVOel9qcGhUdm5ROUttRnVDV0VtQXJGVlRwWEgxM243MFJvdF9SdklmTjdjQkxiYlI3bWhsSWpYOGs1bmlnc3ZiRjc2MExrbkRuazRUMHBqYU43WnBsUzVN?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Luca Van Assche",
+     "mercado": 0.275,
+     "elo": 1654,
+     "elo_superficie": 1612,
+     "forma": [
+      "G hard vs Valentin Vacherot",
+      "P hard vs Lorenzo Musetti",
+      "P hard vs Learner Tien",
+      "G hard vs Mariano Navone",
+      "G hard vs Learner Tien"
+     ],
+     "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-04 contra Learner Tien, ganó 7-6 6-4",
+     "noticias": [
+      {
+       "titulo": "Pronóstico Lorenzo Musetti Luca Van Assche - Rolex Paris Masters 05/11/26 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFVkbkNHTHVmUWxJZTNwVGZyVk5SWUJvSDFERTlIcllXM1R5Y0RuRG9OZnVOel9qcGhUdm5ROUttRnVDV0VtQXJGVlRwWEgxM243MFJvdF9SdklmTjdjQkxiYlI3bWhsSWpYOGs1bmlnc3ZiRjc2MExrbkRuazRUMHBqYU43WnBsUzVN?oc=5"
+      },
+      {
+       "titulo": "Pronósticos Musetti vs. Van Assche: análisis, predicción y mejores apuestas del ATP París 2026 - Gainblers",
+       "fuente": "Gainblers",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEpqTWZrYmxhdXd1YXVwOFBQNmNDNFd3T0ZhNVk3N3dta1ctM1N2RzlkeDdNMU1VYnBCdi1MRFZ5RTc3bUZkdVpqQlBYSERuUUNFQ3ZXYXdKYnltOVA0eEtLaklCNk9iNzVaeTlDUlRVZ1p5NDE0TVFUdVdkRzlGcmU2WDlENmo2Rmo0dnNpZEN6eURYbEhQbmREOWQtTHc?oc=5"
+      },
+      {
+       "titulo": "Lorenzo Musetti vs Luca Van Assche · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMG9ZQlFlQmRKMVJvMkJ6VHhEN1J3V25INkNIWGNZSG5sTEZzYVJtTGl3NW85V2xZdEN5ckU0RF9kajN2Q1MwN0c5aEZScExwQXkyTjhyMl93WkNhNWpNNV9Iak14VXA5c2RVUkZqa3dFUVgwRWh4andvVXQ3V1R4SURsWlZ3dzBxZmRiSnlMODZ0RXBZWkhOdHZUOGh3WmtF?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "ce54c1892701e4d3d4713f621a47cc00": {
+   "id": "ce54c1892701e4d3d4713f621a47cc00",
+   "jugadores": [
+    "Rinky Hijikata",
+    "Tomas Martin Etcheverry"
+   ],
+   "inicio": "2026-11-05T13:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.584,
+   "elo_general": 0.584,
+   "elo_en_superficie": 0.585,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Rinky Hijikata",
+     "mercado": 0.454,
+     "elo": 1672,
+     "elo_superficie": 1678,
+     "forma": [
+      "P hard vs Taylor Fritz",
+      "G hard vs Jaime Faria",
+      "G hard vs Vit Kopriva",
+      "G hard vs Luciano Darderi",
+      "G hard vs Novak Djokovic"
+     ],
+     "cansancio": "2 partidos, 5 sets y 42 juegos en 3 días; el último el 2026-11-04 contra Novak Djokovic, ganó 2-6 6-3 6-3",
+     "noticias": [
+      {
+       "titulo": "Djokovic cae ante Hijikata en París y se queda fuera de las ATP Finals - UNANIMO Deportes",
+       "fuente": "UNANIMO Deportes",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZm5obk5qa2lQV1ZMamRqcEFydDUxWER1M3JLQWNuWjVmRDNLTDE3bGpBTDB3aUlOQ2xVSTJKaEhwOUhGOWpfWGRzVFl4SUx6Qk95NDNaT1NDSlR6OElKUjhNU0tWbjVPYkJmd3hsY1FjQkJaeVNfY01vV3JvZFU?oc=5"
+      },
+      {
+       "titulo": "Hijikata upsets Djokovic in Paris, leaves Live Race open - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaFFmTTFSTThHRFJ5S3RWX2w5RTFBWkg4TkNfa0hsUG5GTHVPcUx0ZXNsWUxxZzF0aFAzVTg4clcydDdIVlpyajBtd1Y0N0tFRHA3Ty05dFR5a2QyMFVjTV9TU3V0Y2JqREZtUFdGNE15YzgteF9FYUln?oc=5"
+      },
+      {
+       "titulo": "Rinky Hijikata vs Tomás Martín Etcheverry · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNvRzdWckNyYVJGcUJDSzFZZjJFakJ6REVLRmsxN2haUEx6S19lWFJFZUZmQ0hqa3gxTkFFbUpneTJUMHNFLVNHZnF5QXFrbm1INEpVaFZLTWtJSmJWOS1ZMVZfMFVHV056aEU0OFQ0WVVsdzcxdUV3QVhaeHBRcUR0SGk3c09MXzRLNjB1QU1sS1RIdGZxdEN5ZFY5MGZreGc?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Tomas Martin Etcheverry",
+     "mercado": 0.546,
+     "elo": 1613,
+     "elo_superficie": 1618,
+     "forma": [
+      "P hard vs Dalibor Svrcina",
+      "P hard vs Mattia Bellucci",
+      "P hard vs Matteo Berrettini",
+      "G hard vs Andrey Rublev",
+      "G hard vs Alex de Minaur"
+     ],
+     "cansancio": "2 partidos, 5 sets y 58 juegos en 3 días; el último el 2026-11-04 contra Alex de Minaur, ganó 7-6 6-3",
+     "noticias": [
+      {
+       "titulo": "Para Etcheverry, la 21 fue la vencida - Página|12",
+       "fuente": "Página|12",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNzFIV2pMeFVhYzhxb3dweXRYcE5ySjcyT25HcUpDSXFyNkh0NElQLV9yMVhlVGk1OHE1WGw3WEU2WmY1QjgwNGl3bjZxLURrUmxEN3lQS3hDeVlCVEZZZFMyY1VoMlFuV0dZV2hYMmN0TXh3M3B1X21lZGdYejNtU0VR?oc=5"
+      },
+      {
+       "titulo": "Rinky Hijikata vs Tomás Martín Etcheverry · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNvRzdWckNyYVJGcUJDSzFZZjJFakJ6REVLRmsxN2haUEx6S19lWFJFZUZmQ0hqa3gxTkFFbUpneTJUMHNFLVNHZnF5QXFrbm1INEpVaFZLTWtJSmJWOS1ZMVZfMFVHV056aEU0OFQ0WVVsdzcxdUV3QVhaeHBRcUR0SGk3c09MXzRLNjB1QU1sS1RIdGZxdEN5ZFY5MGZreGc?oc=5"
+      },
+      {
+       "titulo": "Masters 1000 de París: Tomás Etcheverry logró el primer triunfo de su carrera ante un top 10 y pasó a octavos - Clarin.com",
+       "fuente": "Clarin.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmxfMkVseDlmVTVKYmkyMWsxYjRYdnh2eXY3Sl9od05XN3Y4bVhXVWt3RnNoTU9wNGVvUE9laGI5dkFBVEFpTUVLeTl1VzVXRUxIUW9JclI1dm5EOU5FSW1MTXV6RnFhdHM5V0dDYnVLb0Etb3NKSWE3MjZGZWMxcGtVSDU4eC1aWDZKenUxMVluUDZoeGgwbUpKYVhTUGNEWXFnRGxDY2hJc2t1Q3loMjZFOGVnMnBDWUphZG02R0s0WER0bEdhZzRNc2dET0U?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "235263f6f3bbd21f2327b39e61407934": {
+   "id": "235263f6f3bbd21f2327b39e61407934",
+   "jugadores": [
+    "Nuno Borges",
+    "Ignacio Buse"
+   ],
+   "inicio": "2026-11-05T14:10+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.548,
+   "elo_general": 0.532,
+   "elo_en_superficie": 0.564,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Nuno Borges",
+     "mercado": 0.591,
+     "elo": 1732,
+     "elo_superficie": 1710,
+     "forma": [
+      "P hard vs Jan-Lennard Struff",
+      "G hard vs Adrian Mannarino",
+      "P hard vs Alex Molcan",
+      "G hard vs Moise Kouame",
+      "G hard vs Karen Khachanov"
+     ],
+     "cansancio": "2 partidos, 4 sets y 35 juegos en 3 días; el último el 2026-11-04 contra Karen Khachanov, ganó 6-3 6-4",
+     "noticias": [
+      {
+       "titulo": "Ignacio Buse: ¿Día y hora del partido ante Nuno Borges por los cuartos de final? - Agencia Andina",
+       "fuente": "Agencia Andina",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXVhanF6akxVTWlTbmdSZVlFQk9uQ2xSeTRqZFkyZmpVTXk3OThTb2pEeG5CQkNROU51M0hYb3hldGNsQTRvZHB4b3ZXMXp5Y2FaVzZLTUQxSEdlb0d2LWdpSVR0MzR2X3Jycm84djR1NUhyVXlVTktxc0JfNlRHRXBUVjBDbVpmZ2JwSjdJMUgwMThudkRvXy0xdWtmMDM5WWhPOUpuTVlxNldyaGV3UmhobWlvbC1m?oc=5"
+      },
+      {
+       "titulo": "Dónde ver EN VIVO Ignacio Buse vs. Nuno Borges hoy: hora, canales de TV y streaming online - Bolavip Perú",
+       "fuente": "Bolavip Perú",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnV6N0FKajl2LVFmM2M2bnNlQ1B2dzlpZTMzNkhQZ1VWeTdLLTM3TFA0cldPajUzaFBCRTVqUnl1MXNZZzVzOG5mTFhQSTZYeUNaZ245X2ZZcHF6a0t2R09vT0c1RGR0Um1xQnBOVUpTUDJwMTFVSS1vVDlSWlV3RHA3X2F3SjVWOHFkbEVKdkJndlVadFFiYjRTeHdENWFKRS1NX1ZXaHV1ZVV3VU1Xb25rMEFDR2PSAbwBQVVfeXFMUDFiR0pjTEhtc0RwRTZsTmw4SnpFUWF5YUpfWjNkYW9DTGpKSHpod1Q0TlRTdjNWQVU4R1c5Y3N3YW1zMWRMMTNuRFRyX3lKR3pjMXBUV2xJT0Z5VnJRVlp0eHJwMFRZXzZuTWFlcDRPcnRHVlkzMC0xMUs2Zm5zZ055eDhaTUR2bUFKR0tEa3NGNDFtOWZRSkNwSVhuNXRFQ09Wa0VZa29sbkd3SnpqRXNqS0x2cC1kYi1OTVU?oc=5"
+      },
+      {
+       "titulo": "Fecha, horarios y canales de TV para ver Ignacio Buse vs. Nuno Borges por Masters 1000 de París - Depor",
+       "fuente": "Depor",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUmF1OG8xLVZRX0hNUzJIblg5RXZrSm5CdnRVS2dOd2FBOG5Tdi1Sb0h6d1Y5VHFHN1FrbkdCckZGTG1rMmNEZGdja0h2ZGhFTWVsZ3FBc3NYZkxrUW5yRUZMeXdBZmFQcE5ldjdpX2NZa21kaXBDdjJuNjZUbDB1VU1FcEk0UGNjeDhFeURIdjd2NzU2SzF1UXZsbFFxaWVTVEV4MnNiZnhpRW1XV0s0ak9DY3ZOTjdCTElvSmxIeXNoaTcyMmZka09ZdldBdnRlSkpkVks3dW1uR2JiTGJSZ2FWcGRyN3ZzLUFvTkJLSmp3WUJJ0gGIAkFVX3lxTE1CajAwUWk0UDdjQ05HYWRVRzN1MXN1c2M0bGNiYUZrZEJtZ3ZicGVabEJIdE9GREx6elM5eG5QRmlVTGtBbTloY21lZjBxdUVial9YdzVxcFI4Tk0zUDVFRDhxRm1pMDRLTENSN2dhQUQtQlJqSDVGOVdlVWxQTXJpQmFSWE5EdmVqSkVwTmN3X0JYUDA3ajRVS0ZJY2VWRE5zTWpUN1phRmh5MW1sMTBTbjZOMkhvR2tQeU1KekhyVENTTi14NVE4dzM4b0dJemJhaWhtaVdGNENRTW9nMVVCaklDVlg0YUk2Z3AxdHgtODBKZlpZNnM4MExhblk5SVRwUDREakJrcA?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Ignacio Buse",
+     "mercado": 0.409,
+     "elo": 1710,
+     "elo_superficie": 1665,
+     "forma": [
+      "P hard vs Quentin Halys",
+      "P hard vs Zizou Bergs",
+      "P hard vs Adrian Mannarino",
+      "G hard vs Zizou Bergs",
+      "G hard vs Daniil Medvedev"
+     ],
+     "cansancio": "2 partidos, 4 sets y 38 juegos en 3 días; el último el 2026-11-04 contra Daniil Medvedev, ganó 6-4 6-4",
+     "noticias": [
+      {
+       "titulo": "Ignacio Buse: ¿Día y hora del partido ante Nuno Borges por los cuartos de final? - Agencia Andina",
+       "fuente": "Agencia Andina",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXVhanF6akxVTWlTbmdSZVlFQk9uQ2xSeTRqZFkyZmpVTXk3OThTb2pEeG5CQkNROU51M0hYb3hldGNsQTRvZHB4b3ZXMXp5Y2FaVzZLTUQxSEdlb0d2LWdpSVR0MzR2X3Jycm84djR1NUhyVXlVTktxc0JfNlRHRXBUVjBDbVpmZ2JwSjdJMUgwMThudkRvXy0xdWtmMDM5WWhPOUpuTVlxNldyaGV3UmhobWlvbC1m?oc=5"
+      },
+      {
+       "titulo": "Dónde ver EN VIVO Ignacio Buse vs. Nuno Borges hoy: hora, canales de TV y streaming online - Bolavip Perú",
+       "fuente": "Bolavip Perú",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnV6N0FKajl2LVFmM2M2bnNlQ1B2dzlpZTMzNkhQZ1VWeTdLLTM3TFA0cldPajUzaFBCRTVqUnl1MXNZZzVzOG5mTFhQSTZYeUNaZ245X2ZZcHF6a0t2R09vT0c1RGR0Um1xQnBOVUpTUDJwMTFVSS1vVDlSWlV3RHA3X2F3SjVWOHFkbEVKdkJndlVadFFiYjRTeHdENWFKRS1NX1ZXaHV1ZVV3VU1Xb25rMEFDR2PSAbwBQVVfeXFMUDFiR0pjTEhtc0RwRTZsTmw4SnpFUWF5YUpfWjNkYW9DTGpKSHpod1Q0TlRTdjNWQVU4R1c5Y3N3YW1zMWRMMTNuRFRyX3lKR3pjMXBUV2xJT0Z5VnJRVlp0eHJwMFRZXzZuTWFlcDRPcnRHVlkzMC0xMUs2Zm5zZ055eDhaTUR2bUFKR0tEa3NGNDFtOWZRSkNwSVhuNXRFQ09Wa0VZa29sbkd3SnpqRXNqS0x2cC1kYi1OTVU?oc=5"
+      },
+      {
+       "titulo": "Fecha, horarios y canales de TV para ver Ignacio Buse vs. Nuno Borges por Masters 1000 de París - Depor",
+       "fuente": "Depor",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUmF1OG8xLVZRX0hNUzJIblg5RXZrSm5CdnRVS2dOd2FBOG5Tdi1Sb0h6d1Y5VHFHN1FrbkdCckZGTG1rMmNEZGdja0h2ZGhFTWVsZ3FBc3NYZkxrUW5yRUZMeXdBZmFQcE5ldjdpX2NZa21kaXBDdjJuNjZUbDB1VU1FcEk0UGNjeDhFeURIdjd2NzU2SzF1UXZsbFFxaWVTVEV4MnNiZnhpRW1XV0s0ak9DY3ZOTjdCTElvSmxIeXNoaTcyMmZka09ZdldBdnRlSkpkVks3dW1uR2JiTGJSZ2FWcGRyN3ZzLUFvTkJLSmp3WUJJ0gGIAkFVX3lxTE1CajAwUWk0UDdjQ05HYWRVRzN1MXN1c2M0bGNiYUZrZEJtZ3ZicGVabEJIdE9GREx6elM5eG5QRmlVTGtBbTloY21lZjBxdUVial9YdzVxcFI4Tk0zUDVFRDhxRm1pMDRLTENSN2dhQUQtQlJqSDVGOVdlVWxQTXJpQmFSWE5EdmVqSkVwTmN3X0JYUDA3ajRVS0ZJY2VWRE5zTWpUN1phRmh5MW1sMTBTbjZOMkhvR2tQeU1KekhyVENTTi14NVE4dzM4b0dJemJhaWhtaVdGNENRTW9nMVVCaklDVlg0YUk2Z3AxdHgtODBKZlpZNnM4MExhblk5SVRwUDREakJrcA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "47d9edba7490e876194504362c877fe3": {
+   "id": "47d9edba7490e876194504362c877fe3",
+   "jugadores": [
+    "Jan-Lennard Struff",
+    "Casper Ruud"
+   ],
+   "inicio": "2026-11-05T15:20+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.417,
+   "elo_general": 0.42,
+   "elo_en_superficie": 0.414,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Jan-Lennard Struff",
+     "mercado": 0.369,
+     "elo": 1754,
+     "elo_superficie": 1728,
+     "forma": [
+      "G hard vs Yannick Hanfmann",
+      "G hard vs Novak Djokovic",
+      "G hard vs Nuno Borges",
+      "P hard vs Jiri Lehecka",
+      "G hard vs Arthur Gea"
+     ],
+     "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-04 contra Thiago Agustin Tirante, perdió 6-7 6-3",
+     "noticias": [
+      {
+       "titulo": "Jan-Lennard Struff vs Casper Ruud · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXJpZ1l4YS0zR1FTTFk2VWlnemNDZ1NKd3A4TFFaRnR2dVkxMEo3V3dlMXh1cGxrakFuYm15dkdmRjB4eXpmVDNYb2VYMnVQdllfTnNsVWMzSEI5V2xBN2t0cXVOS3JHNDFCN3gyQVc4OFFrOWV2aEhNRXhNaVF3ZFpVbUZNOG5IM0xMMlBONEg3S0RGU1RV?oc=5"
+      },
+      {
+       "titulo": "Masters 1000 de París: Tirante perdió una batalla de tres sets ante Struff y quedó eliminado - Diario Neuquino",
+       "fuente": "Diario Neuquino",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlhTSTRpQlVuM05tQjJ5UVlYUnlURU1CMDhXcE9jMjhQenkyYzg2OEtHRGxTRmt5Nk53ZlZNOGViSERxdEl0VEhCem9BUURrUi16SWtaOUZ1ZDk0RmxxNUlVVUtfN3BvQ0IxWVZJbHE4TjBFNGZ4YlpMd0liclNiV0xheUlHZkJuU3duRmxuWUxmY1pvZnNXemxqbzFLOUVqOG5rMjhmejJDNFdOdk9rcnB5VlVPOThxNUJiZU5Bcw?oc=5"
+      },
+      {
+       "titulo": "Tirante planta cara a Stuff pero cae en París - www.abc.com.py",
+       "fuente": "www.abc.com.py",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHFhaTFDV0FZYjlJWWY3Nzg0OU5pNlR0Slp0Vm1mcTYtLUFSeDllVHdMeHRHaXktQjZ4UGR4Q0wtMVQxUS1IVXJlT19XSEk1R0N6WVJSMUFKRTFNQ0hzQWJNejREODlpVk1zVnVxUUhJWGJMZDBHUTRKUGxtVkZZNS1xZGZBTTBaTVIwWHpMQk1fNVBHc0lGMVZjRWE3MGVXQlNOVTloU1NuelFrNHVz?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Casper Ruud",
+     "mercado": 0.631,
+     "elo": 1811,
+     "elo_superficie": 1788,
+     "forma": [
+      "P hard vs Rafael Jodar",
+      "G hard vs Dominic Stricker",
+      "P hard vs Nuno Borges",
+      "G hard vs Juan Manuel Cerundolo",
+      "G hard vs Rafael Jodar"
+     ],
+     "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-11-03 contra Rafael Jodar, ganó 6-3 6-4",
+     "noticias": [
+      {
+       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXAzRUdEd2Zya1R0aVZLY1JjRk5rOVBCU1Y1aVZDdF84MlI4Vkt1UjdqazM3MDJUU3N0OGE0cTFvQVF1NXlhZktVS0FXZlVPTUFOaHAwZmZYdFZvMmw4OURMcGE5RWlkVDNyVmhmRzZobnpOSnNkUmNGd0ljSWNpS3BSSTZoT016dzNCYjBaTTR3MUw2d2NIWTNUcElCMHFTU2JfUDBudGVKTmfSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+      },
+      {
+       "titulo": "Jan-Lennard Struff vs Casper Ruud · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXJpZ1l4YS0zR1FTTFk2VWlnemNDZ1NKd3A4TFFaRnR2dVkxMEo3V3dlMXh1cGxrakFuYm15dkdmRjB4eXpmVDNYb2VYMnVQdllfTnNsVWMzSEI5V2xBN2t0cXVOS3JHNDFCN3gyQVc4OFFrOWV2aEhNRXhNaVF3ZFpVbUZNOG5IM0xMMlBONEg3S0RGU1RV?oc=5"
+      },
+      {
+       "titulo": "Lo que necesita Jódar para clasificar a Turín tras su derrota en París - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VdEFmc3BHSnNaU2dsZExVakJkWG8tN2tielpaWUFQSnQ5c04wRGRUN2hma05PclRvdzJ5NkFKMlpmZjJadkpqVFBCMkQyWHk1eFZnQndIYjJjb2VUQlBDb2M0dzhTMGhCNWFlaDNB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "1ef82c68f5ccf78aa0a6d031f750cc6e": {
+   "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
+   "jugadores": [
+    "Matteo Berrettini",
+    "Carlos Alcaraz"
+   ],
+   "inicio": "2026-11-05T18:00+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.08,
+   "elo_general": 0.077,
+   "elo_en_superficie": 0.083,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Matteo Berrettini",
+     "mercado": 0.174,
+     "elo": 1716,
+     "elo_superficie": 1682,
+     "forma": [
+      "P hard vs Kyrian Jacquet",
+      "G hard vs Tomas Martin Etcheverry",
+      "P hard vs Alex de Minaur",
+      "G hard vs Brandon Nakashima",
+      "G hard vs Ugo Humbert"
+     ],
+     "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-11-04 contra Ugo Humbert, ganó 7-6 7-5",
+     "noticias": [
+      {
+       "titulo": "A qué hora juega Alcaraz contra Berrettini y dónde ver los octavos de final del Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDh2VlppY1pkZzFUZTI3Wm5ydzRsZVFjd3B4Y21QQy1fNnpnXzM4elZIRW5TV1BNWlRaY3RQd0ozdm1NRDVUZzR1V1dMRTBiaGk1dFJJazcxTGNwTFNSY1FqUDRoTDBDbFlJdzV1NGdXbWQ3UDNpdWZrTXJzRjZGV1ZaNWplMDZxdVHSAYoBQVVfeXFMTlFybWEtcFJlR2F2V1pSU19qa3dhRTFjQVVPVnhwRW5hYWsxZkl3ejFHQ2tCOFA3dm1Fa21sRVRDWVlyNS1jN3lKd0dybzZMY1FiVlNNZEJkUDVnalltQVUxUkp5RmRuNlZtRDdkZEwwMVp6VlBLQ2x6R3NuWktkSHJWR2JRdGVySnJB?oc=5"
+      },
+      {
+       "titulo": "Matteo Berrettini vs Carlos Alcaraz en directo: Octavos Masters 1000 París 2026 en AS.com - AS Colombia",
+       "fuente": "AS Colombia",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzY4Wkt3UktSRlB5YTJ5Yjk4TkxoZmJqU255UjZ0N2tna1VPeGUyTUZIeDBOYkN2ZXMyYl9JZ0pENFYybnZmLXRlcEM3aHd1UVRWM3ZXZ3ZlOVZXTGlZNGlfTDRxYzNIOUx0OFlnZk5WS1k4UDV0T3BhazRldXV3aUVUSzJBWnNWdEhUTmt1RVV6VEMyWGo4VGtsQ2lLWUk5cEwwckMyWGQ?oc=5"
+      },
+      {
+       "titulo": "Alcaraz - Berrettini, horario y dónde ver hoy los octavos de final del Masters 1.000 de París - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOczNBY2ZtdV9MdEIzYXA1ZEJTWHp6WHltNjRRelVNRVJQVjNJbmprYWJjalRNcm53aWF0LWQ4eG1IUU9kdnBfN21rN2N1SjBneFR6UFA2aENqbHk1azJ3YzF4LVZsNUc0S0xUYXE4R0FJbW9icGwteWYyM1VpZE9YNnZzdU4tb2pBQmpFZ0hRa1FHZWY2WExua2pNblMxcVdKdThWclZPTHg1TDE5YzJWeGlucUtPSzJzd0M3Mm9qakY5SEplNlFsbmRQMy01cTR0U0k5N2FvQWRJcVhkcjNxMDl6WdIB9wFBVV95cUxOZ2hURjJBNkZ4dGJuVVNQV1ZFbU5tb1ZhckFfN0hncEUzN0ozUHFvZlVkbi0taElWNnkzR1JtWks1Nm1saHVQczgwVm9kWUVSSzd6Tlh1MGdfTVFMS0pDY19qeWRIWXhDSFEzU0tuQk5SSXhTWHYwMWRwbkVRRWlUZjVaX2dKYU0wMENnZldCNVp3aDZHWkhvdlRoMnB2cEtNR2tIWjMxQmkxTmdmOGExNHlPZ3NIVWRNT0l5cERldFUzSmkwdkhCSElSS0w0LUxrc3RNUzRlRjNLcERoNFl6VnEtTDJrMU5QQ2JKZWN2N09JRlU0M1Bj?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Carlos Alcaraz",
+     "mercado": 0.826,
+     "elo": 2148,
+     "elo_superficie": 2100,
+     "forma": [
+      "G hard vs Nikoloz Basilashvili",
+      "G hard vs Tommy Paul",
+      "G hard vs Daniil Medvedev",
+      "G hard vs Alex de Minaur",
+      "G hard vs Alex Michelsen"
+     ],
+     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
+     "noticias": [
+      {
+       "titulo": "Juanjo López, traumatólogo de Carlos Alcaraz: \"Llevo con él desde que tenía ocho años. A nivel personal, es una maravilla, un chico normal\" - Diez Minutos ES",
+       "fuente": "Diez Minutos ES",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTU2VzJhSDZpMjlONTFMVzExckZ4N3ItMEg0YTZzNnZMSkpMa2ZhdGUxc0lNQ2tiWDgwUEdWWGcxdXN1Z0xkQ0p1NUNiS2FRTUJYRVVpYmhUcjFxa3dNMjR0MW40SmJ2bGNiZ1FzbldmMzRpMGFhcGxMNlJHWFh2M0lGRzVYUDlEdVJNT0FlbHE4UEtoWXhmWF9rQ3BuVWFIMGVRdWJwTG5pNkt2MXVUcnpIV1RTU1BBRkdjbGhVaEdmbU9DUEd6THF5ay0tUQ?oc=5"
+      },
+      {
+       "titulo": "Orden de juego (Día 4): Alcaraz encabeza los octavos de final - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVGdEeVY0S2UxQmZ3SlUzdUFodVZtT3FZdHZvTmx0WjZzUlB3QWZHMHZMaWt0dm9uUUZvSHZrbXRYZ1g3RElFcW13Q2hlQVZPVk11M2pBUDl5OVo3d3RuMUpJTlNlUzNiSGtpSGlhVmxQd2RQVVF3aEowVEcxRkNKdXBZV1lYUC0zTWsteUlUOTFlSU1qWjFCOHo1MkpxUHcySG5nc1JxRTVyLW5pRzZRbXNkWDNieG44aU9nRldjbzFsWlhIZi11V1dkbXd1ZHppVDVONDNUeXBnczVmemM5V25HVVh1cmFfcGZBOFJxeGlUX1U?oc=5"
+      },
+      {
+       "titulo": "A qué hora juega Alcaraz contra Berrettini y dónde ver los octavos de final del Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDh2VlppY1pkZzFUZTI3Wm5ydzRsZVFjd3B4Y21QQy1fNnpnXzM4elZIRW5TV1BNWlRaY3RQd0ozdm1NRDVUZzR1V1dMRTBiaGk1dFJJazcxTGNwTFNSY1FqUDRoTDBDbFlJdzV1NGdXbWQ3UDNpdWZrTXJzRjZGV1ZaNWplMDZxdVHSAYoBQVVfeXFMTlFybWEtcFJlR2F2V1pSU19qa3dhRTFjQVVPVnhwRW5hYWsxZkl3ejFHQ2tCOFA3dm1Fa21sRVRDWVlyNS1jN3lKd0dybzZMY1FiVlNNZEJkUDVnalltQVUxUkp5RmRuNlZtRDdkZEwwMVp6VlBLQ2x6R3NuWktkSHJWR2JRdGVySnJB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "6a03e950601f142942705acfb764d107": {
+   "id": "6a03e950601f142942705acfb764d107",
+   "jugadores": [
+    "Arthur Fils",
+    "Taylor Fritz"
+   ],
+   "inicio": "2026-11-05T19:30+00:00",
+   "torneo": "ATP Paris Masters",
+   "superficie": "hard",
+   "actualizado": "2026-11-05T08:00+00:00",
+   "elo": 0.577,
+   "elo_general": 0.603,
+   "elo_en_superficie": 0.552,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Arthur Fils",
+     "mercado": 0.547,
+     "elo": 1925,
+     "elo_superficie": 1889,
+     "forma": [
+      "G hard vs Alex Michelsen",
+      "P hard vs Jan-Lennard Struff",
+      "G hard vs Giovanni Mpetshi Perricard",
+      "G hard vs Alex Michelsen",
+      "G hard vs Tomas Machac"
+     ],
+     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Tomas Machac, ganó 6-3 7-6",
+     "noticias": [
+      {
+       "titulo": "Arthur Fils vs Tomás Macháč · Round 2 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
+      },
+      {
+       "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm4wSGxWQWdUWUh4eVhKMkxsQW12UU5Jel8zZFUydWpVRGhiMGoyS3JveXp0Z2x6LXU2MnEzQjRVTFB3YWRsZUNGbG40ZTlmM2RfZWFINGlPNmhIb3NCUjdvRGU5and2ZHU0ZHFCWEpSUmxaUXFTbEFya1RmQk5qcDhfQm5hc0dLRGlucnloMFd4MGJGS0NvOE9pcHdWZGVCcHpxa2V5cnlVR19jOXZIWA?oc=5"
+      },
+      {
+       "titulo": "Highlights: Fils puede con Machac en París - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1dTMzJEZVA4WDFpdVF0U2V0QlUydExibWItS3cxS3JvV2VWbV90dWc1S1NUWFp3dktlMWtHNVVOakdQTEgtaVFfbW1mQlJ6aEJyQTNna0l2LW9kY3dLcWhiUU1qVzhubVFGeldIcW5RUU5Gb05kV25Vdll0UHNYZkdUbmc0MjlLRFZDQzl3OW5ScG9FcWlmclVubw?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Taylor Fritz",
+     "mercado": 0.453,
+     "elo": 1853,
+     "elo_superficie": 1853,
+     "forma": [
+      "G hard vs Rinky Hijikata",
+      "G hard vs Denis Shapovalov",
+      "P hard vs Valentin Vacherot",
+      "G hard vs Benjamin Bonzi",
+      "G hard vs Alex Molcan"
+     ],
+     "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
+     "noticias": [
+      {
+       "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm4wSGxWQWdUWUh4eVhKMkxsQW12UU5Jel8zZFUydWpVRGhiMGoyS3JveXp0Z2x6LXU2MnEzQjRVTFB3YWRsZUNGbG40ZTlmM2RfZWFINGlPNmhIb3NCUjdvRGU5and2ZHU0ZHFCWEpSUmxaUXFTbEFya1RmQk5qcDhfQm5hc0dLRGlucnloMFd4MGJGS0NvOE9pcHdWZGVCcHpxa2V5cnlVR19jOXZIWA?oc=5"
+      },
+      {
+       "titulo": "Arthur Fils vs Taylor Fritz · Round 3 · ATP Paris - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVRoQWxBa05keFVyY3NpTjJQSUlhS3MtTmtORm9LYUZaeFFJS1VXYUd2UW9RU3pvd01mVHRIaVhZaHl2MDE3eFlmZDdteGp3YmV3WUJlbll3dG9xXzdZLWpmQ0RNODI4WFdCcnlLcUlXRFRzanN5NTVNRkVSSDQyVkdqZ3ZFVkFfWmc3UWt1amhUX3ltMnc?oc=5"
+      },
+      {
+       "titulo": "Highlights: Fritz derrota a su buen amigo Paul rumbo a la final en Lyon - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hub0JrTVpiSGwzV200VkZJbXE1aEZLU1BHaV9rbEZzSHFVcUJJNGEzRnowTEkxVnhsUHJqWmtPd1JTdnRCUDVNSUpLZ2diTU5IRGRqSVFZVjNjbEZsM3lyNTJuOEF6cl9LMkdRdGpxR0w2U0dnVndUUjUzNTVpVU54ckRBVlNreXNzNlEyamZjb1hZWTJmeExHeGd1aUlTZXRDd0JyMA?oc=5"
       }
      ]
     }
