@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T08:01+00:00",
+ "actualizado": "2026-11-05T08:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-11-05T08:00+00:00",
   "prevision_mes": 105,
   "noticias": {
-   "dia": "2026-11-04",
+   "dia": "2026-11-05",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -2233,6 +2233,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-05T08:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T08:10+00:00",
+   "texto": "📰 Noticias nuevas de Tommy Paul – Quentin Halys, Ben Shelton – Arthur Rinderknech, Lorenzo Musetti – Luca Van Assche…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-05T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2371,16 +2381,6 @@
    "hora": "2026-11-04T08:10+00:00",
    "texto": "📰 Noticias nuevas de Mattia Bellucci – Arthur Rinderknech, Quentin Halys – Frances Tiafoe, Luca Van Assche – Learner Tien…: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
   }
  ],
  "ultima_decision": "2026-11-05",
@@ -9581,7 +9581,7 @@
    "inicio": "2026-11-05T10:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.684,
    "elo_general": 0.676,
    "elo_en_superficie": 0.693,
@@ -9608,19 +9608,19 @@
        "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
        "fuente": "MARCA",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXAzRUdEd2Zya1R0aVZLY1JjRk5rOVBCU1Y1aVZDdF84MlI4Vkt1UjdqazM3MDJUU3N0OGE0cTFvQVF1NXlhZktVS0FXZlVPTUFOaHAwZmZYdFZvMmw4OURMcGE5RWlkVDNyVmhmRzZobnpOSnNkUmNGd0ljSWNpS3BSSTZoT016dzNCYjBaTTR3MUw2d2NIWTNUcElCMHFTU2JfUDBudGVKTmfSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+      },
+      {
+       "titulo": "Highlights: Paul supera a Bonzi y vuela a cuartos en Lyon - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEx5OU5yWF9QTEVoUHhhRmFCYk54YkprUURtYktCbW8zX1F3aVpEcnFvbklZZWpjQWZWeVpKTDJ0eEtPa09LQkVVZ21CakNuOGxscmQxeUpNaS1OYzIxXzJaUWlUV3dJejVrdy1GMEVsQnVZTXpEQ0ozQS1SQ2t5eXZRbXV4V0duZE5EdTJsWGowU0dJbWtWZEFDX1NOdw?oc=5"
       },
       {
        "titulo": "Highlights: Fritz derrota a su buen amigo Paul rumbo a la final en Lyon - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hub0JrTVpiSGwzV200VkZJbXE1aEZLU1BHaV9rbEZzSHFVcUJJNGEzRnowTEkxVnhsUHJqWmtPd1JTdnRCUDVNSUpLZ2diTU5IRGRqSVFZVjNjbEZsM3lyNTJuOEF6cl9LMkdRdGpxR0w2U0dnVndUUjUzNTVpVU54ckRBVlNreXNzNlEyamZjb1hZWTJmeExHeGd1aUlTZXRDd0JyMA?oc=5"
-      },
-      {
-       "titulo": "🎾 El billete de Rafa Jódar dar para Turín, en manos de Fritz y Paul - Telemadrid",
-       "fuente": "Telemadrid",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaU4tbnUzY0hORW9iTU5vMERpckJrb25rZ2wwc0JyMk9yTmdTRDNsRUhTQzZpTWpwazVhVWxZWE9ncnAwaXVJREtWUVNUaXR4VVZpSWlXLUxrLTlWR0hDeHlTVi1XNEFSTTV2OFY4SGNUaW1kWTAzSVRoNWdLVG12OGJXM2RTUnc0ZDZGRGpxVknSAZYBQVVfeXFMT05kR1FnTmROdUtXV2NQT0o1Ym1mYnB5RWppckxRTEhaNkJQS1N3QW5vdEloSlJlMWlJQy16MXlYMXNsVmZ5NEtYMV9KQnJ6dVBtbkx3d0xsMmNOTVBDYmdiekhNcjZlajY3NWRuWnotRjVGYU0zdmJZVGZvbWluNDZuWkhLeXV0TjN3MnRPQXQ4RVFGdGlB?oc=5"
       }
      ]
     },
@@ -9669,7 +9669,7 @@
    "inicio": "2026-11-05T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.824,
    "elo_general": 0.792,
    "elo_en_superficie": 0.856,
@@ -9757,7 +9757,7 @@
    "inicio": "2026-11-05T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.772,
    "elo_general": 0.766,
    "elo_en_superficie": 0.778,
@@ -9845,7 +9845,7 @@
    "inicio": "2026-11-05T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.584,
    "elo_general": 0.584,
    "elo_en_superficie": 0.585,
@@ -9933,7 +9933,7 @@
    "inicio": "2026-11-05T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.548,
    "elo_general": 0.532,
    "elo_en_superficie": 0.564,
@@ -10021,7 +10021,7 @@
    "inicio": "2026-11-05T15:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.417,
    "elo_general": 0.42,
    "elo_en_superficie": 0.414,
@@ -10079,16 +10079,16 @@
      "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-11-03 contra Rafael Jodar, ganó 6-3 6-4",
      "noticias": [
       {
-       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXAzRUdEd2Zya1R0aVZLY1JjRk5rOVBCU1Y1aVZDdF84MlI4Vkt1UjdqazM3MDJUU3N0OGE0cTFvQVF1NXlhZktVS0FXZlVPTUFOaHAwZmZYdFZvMmw4OURMcGE5RWlkVDNyVmhmRzZobnpOSnNkUmNGd0ljSWNpS3BSSTZoT016dzNCYjBaTTR3MUw2d2NIWTNUcElCMHFTU2JfUDBudGVKTmfSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
-      },
-      {
        "titulo": "Jan-Lennard Struff vs Casper Ruud · Round 3 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXJpZ1l4YS0zR1FTTFk2VWlnemNDZ1NKd3A4TFFaRnR2dVkxMEo3V3dlMXh1cGxrakFuYm15dkdmRjB4eXpmVDNYb2VYMnVQdllfTnNsVWMzSEI5V2xBN2t0cXVOS3JHNDFCN3gyQVc4OFFrOWV2aEhNRXhNaVF3ZFpVbUZNOG5IM0xMMlBONEg3S0RGU1RV?oc=5"
+      },
+      {
+       "titulo": "Highlights: Ruud pasa a Tien y firma 4R en Shanghái - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXdtRXdCVEp0S0pZZ2tBLTZ2T0JZUVFQa2xrRVNEUzl1TjBYcUZlNnFvQ3NIbXM3MDdRVm1HczhsTTBMT0EtbUpLTl8zNk81WlB0akRiNGRKUEs1RWF4QU1JdjdqbTZud3hhXzhKSzhoSUozV1Z1Vm5Ud1l6T1ZHV1VGQld2SUk2RUVNNkhwY3A?oc=5"
       },
       {
        "titulo": "Lo que necesita Jódar para clasificar a Turín tras su derrota en París - ATP Tour",
@@ -10109,7 +10109,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -10139,16 +10139,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDh2VlppY1pkZzFUZTI3Wm5ydzRsZVFjd3B4Y21QQy1fNnpnXzM4elZIRW5TV1BNWlRaY3RQd0ozdm1NRDVUZzR1V1dMRTBiaGk1dFJJazcxTGNwTFNSY1FqUDRoTDBDbFlJdzV1NGdXbWQ3UDNpdWZrTXJzRjZGV1ZaNWplMDZxdVHSAYoBQVVfeXFMTlFybWEtcFJlR2F2V1pSU19qa3dhRTFjQVVPVnhwRW5hYWsxZkl3ejFHQ2tCOFA3dm1Fa21sRVRDWVlyNS1jN3lKd0dybzZMY1FiVlNNZEJkUDVnalltQVUxUkp5RmRuNlZtRDdkZEwwMVp6VlBLQ2x6R3NuWktkSHJWR2JRdGVySnJB?oc=5"
       },
       {
+       "titulo": "A qué hora juega Alcaraz contra Berrettini y dónde ver los octavos de final del Masters 1000 de París 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXJtYS1wUmVHYXZXWlJTX2prd2FFMWNBVU9WeHBFbmFhazFmSXd6MUdDa0I4UDd2bUVrbWxFVENZWXI1LWM3eUp3R3JvNkxjUWJWU01kQmRQNWdqWW1BVTFSSnlGZG42Vm1EN2RkTDAxWnpWUEtDbHpHc25aS2RIclZHYlF0ZXJKckHSAYoBQVVfeXFMTlFybWEtcFJlR2F2V1pSU19qa3dhRTFjQVVPVnhwRW5hYWsxZkl3ejFHQ2tCOFA3dm1Fa21sRVRDWVlyNS1jN3lKd0dybzZMY1FiVlNNZEJkUDVnalltQVUxUkp5RmRuNlZtRDdkZEwwMVp6VlBLQ2x6R3NuWktkSHJWR2JRdGVySnJB?oc=5"
+      },
+      {
        "titulo": "Matteo Berrettini vs Carlos Alcaraz en directo: Octavos Masters 1000 París 2026 en AS.com - AS Colombia",
        "fuente": "AS Colombia",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzY4Wkt3UktSRlB5YTJ5Yjk4TkxoZmJqU255UjZ0N2tna1VPeGUyTUZIeDBOYkN2ZXMyYl9JZ0pENFYybnZmLXRlcEM3aHd1UVRWM3ZXZ3ZlOVZXTGlZNGlfTDRxYzNIOUx0OFlnZk5WS1k4UDV0T3BhazRldXV3aUVUSzJBWnNWdEhUTmt1RVV6VEMyWGo4VGtsQ2lLWUk5cEwwckMyWGQ?oc=5"
-      },
-      {
-       "titulo": "Alcaraz - Berrettini, horario y dónde ver hoy los octavos de final del Masters 1.000 de París - La Razón",
-       "fuente": "La Razón",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOczNBY2ZtdV9MdEIzYXA1ZEJTWHp6WHltNjRRelVNRVJQVjNJbmprYWJjalRNcm53aWF0LWQ4eG1IUU9kdnBfN21rN2N1SjBneFR6UFA2aENqbHk1azJ3YzF4LVZsNUc0S0xUYXE4R0FJbW9icGwteWYyM1VpZE9YNnZzdU4tb2pBQmpFZ0hRa1FHZWY2WExua2pNblMxcVdKdThWclZPTHg1TDE5YzJWeGlucUtPSzJzd0M3Mm9qakY5SEplNlFsbmRQMy01cTR0U0k5N2FvQWRJcVhkcjNxMDl6WdIB9wFBVV95cUxOZ2hURjJBNkZ4dGJuVVNQV1ZFbU5tb1ZhckFfN0hncEUzN0ozUHFvZlVkbi0taElWNnkzR1JtWks1Nm1saHVQczgwVm9kWUVSSzd6Tlh1MGdfTVFMS0pDY19qeWRIWXhDSFEzU0tuQk5SSXhTWHYwMWRwbkVRRWlUZjVaX2dKYU0wMENnZldCNVp3aDZHWkhvdlRoMnB2cEtNR2tIWjMxQmkxTmdmOGExNHlPZ3NIVWRNT0l5cERldFUzSmkwdkhCSElSS0w0LUxrc3RNUzRlRjNLcERoNFl6VnEtTDJrMU5QQ2JKZWN2N09JRlU0M1Bj?oc=5"
       }
      ]
     },
@@ -10197,7 +10197,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T08:00+00:00",
+   "actualizado": "2026-11-05T08:10+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
@@ -10255,6 +10255,12 @@
      "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+      },
+      {
        "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
@@ -10265,12 +10271,6 @@
        "fuente": "Tennis.com",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVRoQWxBa05keFVyY3NpTjJQSUlhS3MtTmtORm9LYUZaeFFJS1VXYUd2UW9RU3pvd01mVHRIaVhZaHl2MDE3eFlmZDdteGp3YmV3WUJlbll3dG9xXzdZLWpmQ0RNODI4WFdCcnlLcUlXRFRzanN5NTVNRkVSSDQyVkdqZ3ZFVkFfWmc3UWt1amhUX3ltMnc?oc=5"
-      },
-      {
-       "titulo": "Highlights: Fritz derrota a su buen amigo Paul rumbo a la final en Lyon - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hub0JrTVpiSGwzV200VkZJbXE1aEZLU1BHaV9rbEZzSHFVcUJJNGEzRnowTEkxVnhsUHJqWmtPd1JTdnRCUDVNSUpLZ2diTU5IRGRqSVFZVjNjbEZsM3lyNTJuOEF6cl9LMkdRdGpxR0w2U0dnVndUUjUzNTVpVU54ckRBVlNreXNzNlEyamZjb1hZWTJmeExHeGd1aUlTZXRDd0JyMA?oc=5"
       }
      ]
     }
