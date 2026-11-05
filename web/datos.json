@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T20:10+00:00",
+ "actualizado": "2026-11-05T21:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,8 +338,8 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.346,
-      "motivo": "Lleva 7 días sin apostar."
+      "pct": 0.347,
+      "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "sorpresa",
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.08,
+      "pct": 0.079,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.852,
+      "pct": 0.854,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.148,
+      "pct": 0.146,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.151,
+      "pct": 0.149,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.077,
+      "pct": 0.08,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.852,
+      "pct": 0.854,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.148,
+      "pct": 0.146,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2050,9 +2050,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 61,
-  "aciertos": 0.6229508196721312,
-  "yield": -0.09442622950819672
+  "apuestas": 62,
+  "aciertos": 0.6290322580645161,
+  "yield": -0.08483870967741935
  },
  "partidos_info": {
   "d52af5cb645ef831c4dbab0bbaf48dac": {

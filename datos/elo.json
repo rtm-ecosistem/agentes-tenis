@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T19:37+00:00",
+ "actualizado": "2026-11-05T21:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -897,19 +897,18 @@
    "nombre": "Casper Ruud",
    "circuito": "ATP",
    "elo": {
-    "all": 1810.8,
-    "hard": 1788.5,
+    "all": 1823.7,
+    "hard": 1803.8,
     "clay": 1822.3,
     "grass": 1465.8
    },
    "n": {
-    "all": 182,
-    "hard": 114,
+    "all": 183,
+    "hard": 115,
     "clay": 65,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-05 G hard vs Juan Manuel Cerundolo",
     "2026-08-07 P hard vs Joao Fonseca",
     "2026-10-01 P hard vs Luciano Darderi",
     "2026-10-10 G hard vs Bu Yunchaokete",
@@ -918,7 +917,8 @@
     "2026-10-26 G hard vs Dominic Stricker",
     "2026-10-28 P hard vs Nuno Borges",
     "2026-11-02 G hard vs Juan Manuel Cerundolo",
-    "2026-11-03 G hard vs Rafael Jodar"
+    "2026-11-03 G hard vs Rafael Jodar",
+    "2026-11-05 G hard vs Jan-Lennard Struff"
    ]
   },
   "griekspoor|t": {
@@ -1701,19 +1701,18 @@
    "nombre": "Jan-Lennard Struff",
    "circuito": "ATP",
    "elo": {
-    "all": 1754.4,
-    "hard": 1728.0,
+    "all": 1740.2,
+    "hard": 1711.0,
     "clay": 1550.9,
     "grass": 1673.2
    },
    "n": {
-    "all": 143,
-    "hard": 86,
+    "all": 144,
+    "hard": 87,
     "clay": 36,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-20 G hard vs Marcos Giron",
     "2026-10-21 G hard vs Gauthier Onclin",
     "2026-10-23 G hard vs Zizou Bergs",
     "2026-10-24 G hard vs Arthur Fils",
@@ -1722,7 +1721,8 @@
     "2026-10-29 G hard vs Novak Djokovic",
     "2026-10-30 G hard vs Nuno Borges",
     "2026-10-31 P hard vs Jiri Lehecka",
-    "2026-11-03 G hard vs Arthur Gea"
+    "2026-11-03 G hard vs Arthur Gea",
+    "2026-11-05 P hard vs Casper Ruud"
    ]
   },
   "cilic|m": {
@@ -16184,19 +16184,18 @@
    "nombre": "Leyre Romero Gormaz",
    "circuito": "WTA",
    "elo": {
-    "all": 1660.1,
-    "hard": 1683.2,
+    "all": 1682.1,
+    "hard": 1704.5,
     "clay": 1541.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 55,
-    "hard": 45,
+    "all": 56,
+    "hard": 46,
     "clay": 9,
     "grass": 1
    },
    "ultimos": [
-    "2026-10-12 G hard vs Alice Rame",
     "2026-10-15 G hard vs Raluka Serban",
     "2026-10-16 G hard vs Fiona Ferro",
     "2026-10-17 G hard vs Dalma Galfi",
@@ -16205,7 +16204,8 @@
     "2026-10-28 G hard vs Antonia Vergara Rivera",
     "2026-10-30 P hard vs Julia Grabher",
     "2026-11-02 G hard vs Polona Hercog",
-    "2026-11-04 G hard vs Solana Sierra"
+    "2026-11-04 G hard vs Solana Sierra",
+    "2026-11-05 G hard vs Carole Monnet"
    ]
   },
   "jokic|k": {
@@ -19544,19 +19544,18 @@
    "nombre": "Carole Monnet",
    "circuito": "WTA",
    "elo": {
-    "all": 1627.7,
-    "hard": 1618.1,
+    "all": 1605.3,
+    "hard": 1597.1,
     "clay": 1473.3,
     "grass": 1476.0
    },
    "n": {
-    "all": 53,
-    "hard": 47,
+    "all": 54,
+    "hard": 48,
     "clay": 3,
     "grass": 3
    },
    "ultimos": [
-    "2026-09-29 P hard vs Cagla Buyukakcay",
     "2026-10-06 P hard vs Lucrezia Stefanini",
     "2026-10-13 G grass vs Daria Yesypchuk",
     "2026-10-14 P grass vs Elizara Yaneva",
@@ -19565,7 +19564,8 @@
     "2026-10-30 G hard vs Nadia Podoroska",
     "2026-11-01 P hard vs Bianca Andreescu",
     "2026-11-03 G hard vs Maria Herazo Gonzalez",
-    "2026-11-04 G hard vs Laura Samson"
+    "2026-11-04 G hard vs Laura Samson",
+    "2026-11-05 P hard vs Leyre Romero Gormaz"
    ]
   },
   "avanesyan|e": {
@@ -66363,7 +66363,7 @@
   ],
   "monnet|c~romero gormaz|l": [
    0,
-   2
+   3
   ],
   "kawa|k~sherif|m": [
    1,
@@ -91968,7 +91968,11 @@
   "riera|j~zarazua|r": [
    1,
    0
+  ],
+  "lennard struff|j~ruud|c": [
+   0,
+   1
   ]
  },
- "propios": 10662
+ "propios": 10666
 }

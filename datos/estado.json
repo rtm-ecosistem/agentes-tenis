@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.046,
+     "envidia": 0.045,
      "sorpresa": 0.4,
-     "impaciencia": 0.104,
+     "impaciencia": 0.102,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -169,9 +169,9 @@
      "envidia": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado.",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
-     "aburrimiento": "Lleva 7 días sin apostar."
+     "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T20:10+00:00",
+    "hora": "2026-11-05T21:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.078,
+     "impaciencia": 0.077,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T20:10+00:00",
+    "hora": "2026-11-05T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.053,
+     "impaciencia": 0.052,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T20:10+00:00",
+    "hora": "2026-11-05T21:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.078,
+     "impaciencia": 0.077,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T20:10+00:00",
+    "hora": "2026-11-05T21:10+00:00",
     "rent": 0.0
    }
   }
@@ -10739,9 +10739,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 61,
-  "ganadas": 38,
-  "unidades": -5.76,
+  "apuestas": 62,
+  "ganadas": 39,
+  "unidades": -5.26,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10766,18 +10766,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "47d9edba7490e876194504362c877fe3",
-    "jugadores": [
-     "Jan-Lennard Struff",
-     "Casper Ruud"
-    ],
-    "inicio": "2026-11-05T15:20+00:00",
-    "mercado": "h2h",
-    "seleccion": "Casper Ruud",
-    "punto": null,
-    "cuota": 1.5
    }
   ],
   "vistos": [
@@ -10847,7 +10835,8 @@
    "8962e5108426884c7237a80948c77cfb",
    "235263f6f3bbd21f2327b39e61407934",
    "1ef82c68f5ccf78aa0a6d031f750cc6e",
-   "6a03e950601f142942705acfb764d107"
+   "6a03e950601f142942705acfb764d107",
+   "47d9edba7490e876194504362c877fe3"
   ]
  },
  "mercados_casas": {
