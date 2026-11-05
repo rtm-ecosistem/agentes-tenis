@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T13:57+00:00",
+ "actualizado": "2026-11-05T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -645,19 +645,18 @@
    "nombre": "Ben Shelton",
    "circuito": "ATP",
    "elo": {
-    "all": 1881.3,
-    "hard": 1903.1,
+    "all": 1887.6,
+    "hard": 1908.0,
     "clay": 1608.3,
     "grass": 1614.3
    },
    "n": {
-    "all": 195,
-    "hard": 146,
+    "all": 196,
+    "hard": 147,
     "clay": 30,
     "grass": 19
    },
    "ultimos": [
-    "2026-09-05 G hard vs Denis Shapovalov",
     "2026-09-06 G hard vs Stefanos Tsitsipas",
     "2026-09-09 G hard vs Carlos Alcaraz",
     "2026-09-11 G hard vs Frances Tiafoe",
@@ -666,7 +665,8 @@
     "2026-10-11 P hard vs Arthur Gea",
     "2026-10-27 G hard vs Aleksandar Kovacevic",
     "2026-10-29 P hard vs Jerome Kym",
-    "2026-11-03 G hard vs Cameron Norrie"
+    "2026-11-03 G hard vs Cameron Norrie",
+    "2026-11-05 G hard vs Arthur Rinderknech"
    ]
   },
   "hanfmann|y": {
@@ -2288,19 +2288,18 @@
    "nombre": "Arthur Rinderknech",
    "circuito": "ATP",
    "elo": {
-    "all": 1649.2,
-    "hard": 1593.9,
+    "all": 1642.0,
+    "hard": 1588.0,
     "clay": 1645.7,
     "grass": 1661.7
    },
    "n": {
-    "all": 137,
-    "hard": 86,
+    "all": 138,
+    "hard": 87,
     "clay": 31,
     "grass": 20
    },
    "ultimos": [
-    "2026-07-17 P clay vs Stefanos Tsitsipas",
     "2026-07-22 P hard vs Sebastian Baez",
     "2026-08-05 G hard vs Miomir Kecmanovic",
     "2026-08-08 P hard vs Brandon Nakashima",
@@ -2309,7 +2308,8 @@
     "2026-09-02 G hard vs Jaume Munar",
     "2026-09-04 P hard vs Daniil Medvedev",
     "2026-10-27 P hard vs Jerome Kym",
-    "2026-11-04 G hard vs Mattia Bellucci"
+    "2026-11-04 G hard vs Mattia Bellucci",
+    "2026-11-05 P hard vs Ben Shelton"
    ]
   },
   "bublik|a": {
@@ -15162,14 +15162,14 @@
    "nombre": "Vaishnavi Adkar",
    "circuito": "WTA",
    "elo": {
-    "all": 1469.8,
-    "hard": 1473.8,
+    "all": 1429.4,
+    "hard": 1432.2,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 5,
-    "hard": 5,
+    "all": 6,
+    "hard": 6,
     "clay": 0,
     "grass": 0
    },
@@ -15178,7 +15178,8 @@
     "2025-10-26 P hard vs Astrid Lew Yan Foon",
     "2025-10-29 P hard vs Donna Vekic",
     "2026-02-03 P hard vs Lilli Tagger",
-    "2026-11-03 G hard vs Jodie Burrage"
+    "2026-11-03 G hard vs Jodie Burrage",
+    "2026-11-05 P hard vs Anastasia Zakharova"
    ]
   },
   "anshba|a": {
@@ -16017,19 +16018,18 @@
    "nombre": "Anastasia Zakharova",
    "circuito": "WTA",
    "elo": {
-    "all": 1535.9,
-    "hard": 1530.9,
+    "all": 1554.4,
+    "hard": 1551.3,
     "clay": 1359.0,
     "grass": 1527.3
    },
    "n": {
-    "all": 66,
-    "hard": 55,
+    "all": 67,
+    "hard": 56,
     "clay": 5,
     "grass": 6
    },
    "ultimos": [
-    "2026-09-22 P hard vs Jelena Ostapenko",
     "2026-10-01 G hard vs Shao Yushan",
     "2026-10-03 P hard vs Belinda Bencic",
     "2026-10-10 P hard vs Zeynep Sonmez",
@@ -16038,7 +16038,8 @@
     "2026-10-21 P hard vs Marie Bouzkova",
     "2026-10-24 G hard vs Zhang Ruien",
     "2026-10-25 P hard vs Teodora Kostovic",
-    "2026-10-27 P hard vs Magda Linette"
+    "2026-10-27 P hard vs Magda Linette",
+    "2026-11-05 G hard vs Vaishnavi Adkar"
    ]
   },
   "shibahara|e": {
@@ -26471,19 +26472,18 @@
    "nombre": "Noma Noha Akugue",
    "circuito": "WTA",
    "elo": {
-    "all": 1635.3,
-    "hard": 1674.2,
+    "all": 1650.9,
+    "hard": 1689.3,
     "clay": 1497.6,
     "grass": 1449.4
    },
    "n": {
-    "all": 45,
-    "hard": 35,
+    "all": 46,
+    "hard": 36,
     "clay": 6,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-04 G hard vs Ilay Yoruk",
     "2026-10-05 G hard vs Elena Micic",
     "2026-10-07 P hard vs Lucrezia Stefanini",
     "2026-10-13 P grass vs Rebeka Masarova",
@@ -26492,7 +26492,8 @@
     "2026-10-30 G hard vs Ayla Aksu",
     "2026-10-31 G hard vs Anna Blinkova",
     "2026-11-01 P hard vs Alina Charaeva",
-    "2026-11-04 G hard vs Warona Mdlulwa"
+    "2026-11-04 G hard vs Warona Mdlulwa",
+    "2026-11-05 G hard vs Madhurima Sawant"
    ]
   },
   "lanca|s": {
@@ -38748,20 +38749,21 @@
    "nombre": "Madhurima Sawant",
    "circuito": "WTA",
    "elo": {
-    "all": 1487.6,
-    "hard": 1495.7,
+    "all": 1453.2,
+    "hard": 1465.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-11-02 P hard vs Franziska Sziedat",
-    "2026-11-03 G hard vs Laura Bohner"
+    "2026-11-03 G hard vs Laura Bohner",
+    "2026-11-05 P hard vs Noma Noha Akugue"
    ]
   },
   "karunaratne|a": {
@@ -53741,7 +53743,7 @@
   ],
   "rinderknech|a~shelton|b": [
    1,
-   0
+   1
   ],
   "mpetshi perricard|g~nakashima|b": [
    0,
@@ -91950,7 +91952,15 @@
   "lemaitre|t~mikulskyte|j": [
    0,
    1
+  ],
+  "adkar|v~zakharova|a": [
+   0,
+   1
+  ],
+  "noha akugue|n~sawant|m": [
+   1,
+   0
   ]
  },
- "propios": 10653
+ "propios": 10656
 }

@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.049,
+     "envidia": 0.048,
      "sorpresa": 0.4,
-     "impaciencia": 0.115,
+     "impaciencia": 0.113,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T14:10+00:00",
+    "hora": "2026-11-05T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.087,
+     "impaciencia": 0.086,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T14:10+00:00",
+    "hora": "2026-11-05T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.056,
+     "impaciencia": 0.055,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T14:10+00:00",
+    "hora": "2026-11-05T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.087,
+     "impaciencia": 0.086,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T14:10+00:00",
+    "hora": "2026-11-05T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-03T08:01+00:00",
-   "texto": "🎾 Cartelera: 13 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T08:01+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-03T08:01+00:00",
    "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-05T13:57+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,14 +2618,21 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-05-14",
  "noticias_vistas": [
+  "4e9e75f2cd77",
+  "62602efdfb6b",
+  "7f7237907efc",
+  "330af29483fe",
+  "92ee25f2ac65",
   "dbfb92284921",
   "a30af80d62e6",
   "6da43921ad1c",
-  "92ee25f2ac65",
   "691da9515055",
   "6c4f9e092afc",
   "a58b288f6fb5",
+  "459778daf6b5",
   "fbf103efcc61",
+  "da8e5bd295cf",
+  "cdee184e1b90",
   "daff5900161a",
   "ad43c1e2492c",
   "358bd03ab95b",
@@ -2641,15 +2648,18 @@
   "969755c753f0",
   "e65a20d4fc26",
   "d85713eb1097",
+  "6b04881e3f4f",
   "320952370ff6",
   "db0e1ac43b7e",
   "6219bcd3e30e",
   "31d93cdebeb1",
   "159f80a73d4c",
   "0649208e921c",
+  "14cee0274886",
   "756324bce4a4",
   "1370fcca6193",
   "4ecb265f3fd3",
+  "6093ee8d898b",
   "8e68b8df9a60",
   "25e157ea5233",
   "84e2fab87148",
@@ -2664,6 +2674,7 @@
   "094168271ff1",
   "3cfb03176f57",
   "e4cc76054e36",
+  "eaef709e7840",
   "c09d5fe0042a",
   "ddeb3e784143",
   "e0c6fd7062b3",
@@ -2674,7 +2685,6 @@
   "c0c6bba10490",
   "00267caba4f2",
   "95550f9e9184",
-  "eaef709e7840",
   "e073b83febc5",
   "20557a40239a",
   "5de746b1b481",
@@ -2684,6 +2694,7 @@
   "37e71c082c06",
   "a016523ffffe",
   "cf8532e51934",
+  "0d358195bfc4",
   "e30e6ff99668",
   "2643143ff840",
   "e6668d2bf09d",
@@ -2710,7 +2721,6 @@
   "695c3274b6c0",
   "5190d639d143",
   "e9933b68d828",
-  "0d358195bfc4",
   "bb62fb9bc22a",
   "d880179f6fa4",
   "723b09cefda0",
@@ -2752,7 +2762,6 @@
   "56d405d5e4ef",
   "1022298014b3",
   "4112ce475224",
-  "ca1486ad7f5e",
   "03b2351f4790",
   "b2c3e523b396",
   "71d275d205e8",
@@ -2806,6 +2815,7 @@
   "e5946820514e",
   "2172402ef11c",
   "c61d0dcca5b3",
+  "279f73fa518d",
   "871649476b42",
   "0510d2eac060",
   "71336f82ac8f",
@@ -2878,6 +2888,7 @@
   "a0d54fe317ea",
   "ddfa7ab404a7",
   "b90f5c50b74c",
+  "80acbf601f29",
   "5a422c3f3e16",
   "f68906d1978f",
   "ce28395f382e",
@@ -2886,6 +2897,7 @@
   "5671ad2d6fb3",
   "3199e0599a4c",
   "fd758fca0db9",
+  "d2d958f64a14",
   "5b83217f1f9d",
   "597cefa346d6",
   "294fb0d1e70f",
@@ -2990,6 +3002,7 @@
   "afe85260d6f2",
   "233a5782e8ce",
   "89b2ccc05641",
+  "ca1486ad7f5e",
   "b65b420a8f5e",
   "a2ec8cbe2ec3",
   "b0425620a126",
@@ -3404,20 +3417,7 @@
   "e367ed0211ae",
   "ac2f72307ab6",
   "2cdf87a702df",
-  "7cb3aba4b810",
-  "a9f29ce5381e",
-  "c5482f336264",
-  "9578a77a594c",
-  "a3bb85fd7a52",
-  "cbe448d1dc07",
-  "a3af4725b4eb",
-  "53ec5f1b8aab",
-  "d1709bba547e",
-  "8c2334795927",
-  "a596fcae83e5",
-  "ad7b824474f1",
-  "05b09caeba7c",
-  "832e5e4925bc"
+  "7cb3aba4b810"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3444,94 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "381536c46bd1e16a9236502df3f748e5": {
-   "id": "381536c46bd1e16a9236502df3f748e5",
-   "jugadores": [
-    "Daniel Altmaier",
-    "Jiri Lehecka"
-   ],
-   "inicio": "2026-10-29T15:00+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-29T14:10+00:00",
-   "elo": 0.244,
-   "elo_general": 0.234,
-   "elo_en_superficie": 0.254,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Daniel Altmaier",
-     "mercado": 0.165,
-     "elo": 1608,
-     "elo_superficie": 1598,
-     "forma": [
-      "G hard vs Titouan Droguet",
-      "G hard vs Borna Gojo",
-      "P hard vs Taylor Fritz",
-      "G hard vs Henry Bernet",
-      "P hard vs Juan Manuel Cerundolo"
-     ],
-     "cansancio": "1 partidos, 3 sets y 36 juegos en 3 días; el último el 2026-10-26 contra Juan Manuel Cerundolo, ganó 6-7 7-6 6-4 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Daniel Altmaier vs Jiri Lehečka · Round 2 · ATP Basel - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEt1NUJpenVxak5ELW9Pb08ycG92M1dZZXUyTUlXdEFhMTNXRWVEMFN4cUxGUU9BR0VUc1RjZnR0TU9iWTFDRVBlaUpZWFF6Si1MSGhQWUZ1dk5HNWZTdjUwMlhiNWxUbS0ySS0xRkJBa2NHUDNUR3E5X09BcWo2WV9GbHV6Q3BYSi03RnlPRkNVUFpHaVVNcnA4RHpoUQ?oc=5"
-      },
-      {
-       "titulo": "Daniel Altmaier vs Jiri Lehecka: Set 1 Winner - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnJ6WE55MDZCNkU1clZlRi1vd0RBMlFBSDZoNWhtdlplNkIyM1p3SGY4dDVCWXhXeXlWeTMySEFTR2hpUVhiNjk4MTY5OWZlV0JaSU5FTndRVElYOW9hVTR0TUFSd1Q0bk1rZ3pOZXpsNS13empySEdCTldvWnZYazFwLWZ5QQ?oc=5"
-      },
-      {
-       "titulo": "Daniel Altmaier vs. Juan Manuel Cerundolo Basel 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTkc3ZmJYallaME4zUzh0eGxaQkhCMUtLZkYyZjlENGxJaE45WWFDRnAzdlc0b0pPR3FxYUc2dXlNLTQyWkJXWVNhVXMxRVZNSGlOQ1lrZ196aU5kOUxaay1LblA5d2NpWjJ1M09qR1BsbTNs?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Jiri Lehecka",
-     "mercado": 0.835,
-     "elo": 1814,
-     "elo_superficie": 1785,
-     "forma": [
-      "G hard vs Nuno Borges",
-      "P hard vs Rafael Jodar",
-      "G hard vs Raphael Collignon",
-      "P hard vs Tallon Griekspoor",
-      "G hard vs Stan Wawrinka"
-     ],
-     "cansancio": "1 partidos, 2 sets y 25 juegos en 3 días; el último el 2026-10-27 contra Stan Wawrinka, ganó 7-5 7-6",
-     "noticias": [
-      {
-       "titulo": "Daniel Altmaier vs Jiri Lehečka · Round 2 · ATP Basel - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEt1NUJpenVxak5ELW9Pb08ycG92M1dZZXUyTUlXdEFhMTNXRWVEMFN4cUxGUU9BR0VUc1RjZnR0TU9iWTFDRVBlaUpZWFF6Si1MSGhQWUZ1dk5HNWZTdjUwMlhiNWxUbS0ySS0xRkJBa2NHUDNUR3E5X09BcWo2WV9GbHV6Q3BYSi03RnlPRkNVUFpHaVVNcnA4RHpoUQ?oc=5"
-      },
-      {
-       "titulo": "Daniel Altmaier vs Jiri Lehecka: Set 1 Winner - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnJ6WE55MDZCNkU1clZlRi1vd0RBMlFBSDZoNWhtdlplNkIyM1p3SGY4dDVCWXhXeXlWeTMySEFTR2hpUVhiNjk4MTY5OWZlV0JaSU5FTndRVElYOW9hVTR0TUFSd1Q0bk1rZ3pOZXpsNS13empySEdCTldvWnZYazFwLWZ5QQ?oc=5"
-      },
-      {
-       "titulo": "Stan Wawrinka pone fin a su carrera en el tenis - RFI",
-       "fuente": "RFI",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN19FNmNJdnlHUC1VSC15WmhNUmUzM1RjNFJtRUtPX1BaVU9jRnBEYlJ5VU5QSEFJdmIydUVzT0g0R1RaeTB1YXhZZmpFZ2lUOVBWb2cxNm5fcmZCWl9QQlJXeHp6R3FKOGV3Q0VBaVktQTBMb0dMLU12QmszUFFyTDFwbXk2bnZzdTlGOGVLdzBFcC16cUdsLUtabW8?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "704555fd36bea990169b89857cf51075": {
    "id": "704555fd36bea990169b89857cf51075",
    "jugadores": [
@@ -11097,7 +11009,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T13:57+00:00",
+   "actualizado": "2026-11-05T15:10+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -11127,16 +11039,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZuaENCOGRoWEtDdlZ5RUlmYzdhNnBfZGpNd3YwWmtMR2tYNVFmMGRTLTVSSzZkclgtYkJucG9ZWlBRcUdmcEJ1c0FneHFkZjhUQWpTa0RGeHVhNldBejY4bDNEMTJjRG16QWFhODZUWHVReHljaWFCeW5RQlRuQ1NTOWlUa3MzXzBtM0RNVjAydG01TVN1UDgwR3Etb1lmRGtuaDhqNGZOeHo5MURzUWtvZ9IBxwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B?oc=5"
       },
       {
-       "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
-       "fuente": "La Voz de Galicia",
+       "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
+       "fuente": "EL PAÍS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B0gHHAUFVX3lxTE9RTnlYSERLdENhTklfdktOOGNwSW9ZVDRXTm9TeFhYQXZZVFU0ZkRib1JzNFpQTEFoUGFjUnkxOGlVZU9LcUtUVjJTRGY3Q2loZi1hNFg2U2t1Vld2bU0xTldVVlBDaHFNZVB2VHJzWDc1ZHRSSVI4THgwU3JLOWZYMVFFeDVneER2NDMycExXU3VHOXlPZnZZN214YzgzRnJkVm9JenBsYUdsUE14bjRham1lX1l5bEFTd0hrUHQ2bUJfem5aLUE?oc=5"
       },
       {
        "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
        "fuente": "La Voz de Galicia",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWTRhYU5IUlZHODB0UGRYV3FZV0JOOHdnamIzR0JQQzhESVdEUHlQVTBDemMwdE1DVTItMUs5R1FpQ1MyeGhlQW9BaEM3QmJxdWRVZ2lGb2Ffbzd5OTcxNXMzYTVuSVNtOWltU2RMZXVHRkNHRjdsN3AtRWpadU5Ecl90RHExbE1ZdWVrdUhkZVh2aUtuakdhanlUX0h6bjM5MkRxT2tjVVd4am1XZzFjNlUxSVpoajNqVnAyZTBrellkSk1xUnV2ZFlFdkZlYkh1dnZWbktVUnFFN3BQOE9hRmRENHQzV0llTUh6STlNOHNWMktTR3ZxTDc3bnNpeXNTU3pmVU5TTzh2NmNvTnVNQkNXVUJLQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
       }
      ]
     },
@@ -11161,16 +11073,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZuaENCOGRoWEtDdlZ5RUlmYzdhNnBfZGpNd3YwWmtMR2tYNVFmMGRTLTVSSzZkclgtYkJucG9ZWlBRcUdmcEJ1c0FneHFkZjhUQWpTa0RGeHVhNldBejY4bDNEMTJjRG16QWFhODZUWHVReHljaWFCeW5RQlRuQ1NTOWlUa3MzXzBtM0RNVjAydG01TVN1UDgwR3Etb1lmRGtuaDhqNGZOeHo5MURzUWtvZ9IBxwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B?oc=5"
       },
       {
-       "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
-       "fuente": "La Voz de Galicia",
+       "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
+       "fuente": "EL PAÍS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B0gHHAUFVX3lxTE9RTnlYSERLdENhTklfdktOOGNwSW9ZVDRXTm9TeFhYQXZZVFU0ZkRib1JzNFpQTEFoUGFjUnkxOGlVZU9LcUtUVjJTRGY3Q2loZi1hNFg2U2t1Vld2bU0xTldVVlBDaHFNZVB2VHJzWDc1ZHRSSVI4THgwU3JLOWZYMVFFeDVneER2NDMycExXU3VHOXlPZnZZN214YzgzRnJkVm9JenBsYUdsUE14bjRham1lX1l5bEFTd0hrUHQ2bUJfem5aLUE?oc=5"
       },
       {
        "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
        "fuente": "La Voz de Galicia",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWTRhYU5IUlZHODB0UGRYV3FZV0JOOHdnamIzR0JQQzhESVdEUHlQVTBDemMwdE1DVTItMUs5R1FpQ1MyeGhlQW9BaEM3QmJxdWRVZ2lGb2Ffbzd5OTcxNXMzYTVuSVNtOWltU2RMZXVHRkNHRjdsN3AtRWpadU5Ecl90RHExbE1ZdWVrdUhkZVh2aUtuakdhanlUX0h6bjM5MkRxT2tjVVd4am1XZzFjNlUxSVpoajNqVnAyZTBrellkSk1xUnV2ZFlFdkZlYkh1dnZWbktVUnFFN3BQOE9hRmRENHQzV0llTUh6STlNOHNWMktTR3ZxTDc3bnNpeXNTU3pmVU5TTzh2NmNvTnVNQkNXVUJLQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
       }
      ]
     }
@@ -11185,7 +11097,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T13:57+00:00",
+   "actualizado": "2026-11-05T15:10+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
@@ -11209,22 +11121,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Tomas Machac, ganó 6-3 7-6",
      "noticias": [
       {
+       "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
+       "fuente": "EL PAÍS",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZuaENCOGRoWEtDdlZ5RUlmYzdhNnBfZGpNd3YwWmtMR2tYNVFmMGRTLTVSSzZkclgtYkJucG9ZWlBRcUdmcEJ1c0FneHFkZjhUQWpTa0RGeHVhNldBejY4bDNEMTJjRG16QWFhODZUWHVReHljaWFCeW5RQlRuQ1NTOWlUa3MzXzBtM0RNVjAydG01TVN1UDgwR3Etb1lmRGtuaDhqNGZOeHo5MURzUWtvZ9IBxwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B?oc=5"
+      },
+      {
+       "titulo": "Alcaraz pasa a cuartos de final del Masters 1000 de París por una lesión en el brazo de Berrettini - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMm5KWEZBUWFZWFRFbmVhWm9YRFgxN1pPZy1mZE9mN2owZkFOYWNhUTl2SVMxbzBrRVRLSF9Lamw3LVlIVkVMQ0ZydE12VVFwaXlHME5wMWdMNmVYQWxHa2E3ZzBZblhzaWNEUmF0UG54RnYwTEhURjJ2M3ZzX2g2NFBNamRTcWVIajdEdkFURl9Fam1fN2thbGNBZ2xQek9CTzNZeFFPak5qU0lWWng3Szg3MVozQ1ZVTDhwMy1mbTJnVDRnMWllam1R0gHPAUFVX3lxTE0zMW0xZThyYVZyd0F2YzNvWncxNjY3QTlzWUk1Y1Mwcno3MGdwQl9rcjJrUXlENmg3SFZlaDVkeldHcFQ0a1R0OHhuMW5DRG1WNHlwUG5WY1NXcjFFSVBtWFNtVnNTaUtBSUtOZy1NSFFwVjFjQlJiU0dZQk41Ul8wS2NlMHpfZVF1dC1OZ3pWLVhfZUNzc1BJSHFCc3R1ekZUTlRGU2w3YjR3UVZ4eC1RSlVJTFNxTnBwYklhUVVXb2hzcEx6V2x6TWpGVUJ3OA?oc=5"
+      },
+      {
        "titulo": "¿Cuál es la programación de París? - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZGRDRUlVX3JkWlV5aUdtMlF0ZU4zQnYzQWVRX0oycG1vSU1jOUJaOFhoTUNKaThvQThCZmUyMm42M2VuNDZSbDNzRkdXN1hQenFPMHFnSHctUFNjUkJucA?oc=5"
-      },
-      {
-       "titulo": "Masters 1000 París – Fils vs. Fritz: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpka3J4cGpDRVhrWE5qTjNvME1WS0w5aUdBOWhzU2tlQUFUNURZTDE4eUwtY3cxUU9VUkxORmRUUU45X3JsSXFyay1aUHFXZ0xXcTFhdnhBTWdqQnBZN0lJQ3BlRndIYUFpZV9pa2RXdkJ4SnRnRS0yWDBTRVNPUXV5czVpUUdEcXhKU19LUy1Ock9IclNkU0hXbFZicUpKSWYwU1VMclhNUHZIblJCdlJEQmJDdw?oc=5"
-      },
-      {
-       "titulo": "Fils, emocionado tras su última victoria: \"Lo echaba de menos\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3Raa203bldLSDg2czJkdGl3ekU2TTQta0xfR2lvTjhnMm9ZSzRFbTdkTUVlVGQ0anVrYk9KNnQwbkNseExhRHV3cllFYjU1NG1kdzlNSUctTG9TckRvdEV2UDlMSnh0bnZrRU1LbEtOQTFvbkthZ3otNmNUUlE0cFJRSXQ?oc=5"
       }
      ]
     },
@@ -11246,7 +11158,7 @@
        "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
        "fuente": "EL PAÍS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZuaENCOGRoWEtDdlZ5RUlmYzdhNnBfZGpNd3YwWmtMR2tYNVFmMGRTLTVSSzZkclgtYkJucG9ZWlBRcUdmcEJ1c0FneHFkZjhUQWpTa0RGeHVhNldBejY4bDNEMTJjRG16QWFhODZUWHVReHljaWFCeW5RQlRuQ1NTOWlUa3MzXzBtM0RNVjAydG01TVN1UDgwR3Etb1lmRGtuaDhqNGZOeHo5MURzUWtvZ9IBxwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B0gHHAUFVX3lxTE9RTnlYSERLdENhTklfdktOOGNwSW9ZVDRXTm9TeFhYQXZZVFU0ZkRib1JzNFpQTEFoUGFjUnkxOGlVZU9LcUtUVjJTRGY3Q2loZi1hNFg2U2t1Vld2bU0xTldVVlBDaHFNZVB2VHJzWDc1ZHRSSVI4THgwU3JLOWZYMVFFeDVneER2NDMycExXU3VHOXlPZnZZN214YzgzRnJkVm9JenBsYUdsUE14bjRham1lX1l5bEFTd0hrUHQ2bUJfem5aLUE?oc=5"
       },
       {
        "titulo": "Alcaraz pasa a cuartos en París, tras la baja de Berrettini - ATP Tour",
@@ -11267,9 +11179,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 56,
-  "ganadas": 36,
-  "unidades": -3.72,
+  "apuestas": 57,
+  "ganadas": 37,
+  "unidades": -3.42,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -11294,18 +11206,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "8a2e76c34cf0bce53c2afc75d9f2793e",
-    "jugadores": [
-     "Ben Shelton",
-     "Arthur Rinderknech"
-    ],
-    "inicio": "2026-11-05T11:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Ben Shelton",
-    "punto": null,
-    "cuota": 1.3
    },
    {
     "partido": "8962e5108426884c7237a80948c77cfb",
@@ -11441,7 +11341,8 @@
    "9c047eea4b968d8a8c3f35fd16ce9e6d",
    "e9c7e8bc7876cbb19446a417d0447cf0",
    "1cd952bfa7bc99f45d2ced1b80209056",
-   "4111a4ac0ae11935311b655ebadd040b"
+   "4111a4ac0ae11935311b655ebadd040b",
+   "8a2e76c34cf0bce53c2afc75d9f2793e"
   ]
  },
  "mercados_casas": {
