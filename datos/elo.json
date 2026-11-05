@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T12:10+00:00",
+ "actualizado": "2026-11-05T13:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17851,19 +17851,18 @@
    "nombre": "Mai Hontama",
    "circuito": "WTA",
    "elo": {
-    "all": 1575.3,
-    "hard": 1541.9,
+    "all": 1598.5,
+    "hard": 1571.1,
     "clay": 1582.2,
     "grass": 1528.9
    },
    "n": {
-    "all": 39,
-    "hard": 31,
+    "all": 40,
+    "hard": 32,
     "clay": 6,
     "grass": 2
    },
    "ultimos": [
-    "2026-08-26 P hard vs Andrea Lazaro Garcia",
     "2026-09-19 P hard vs Eunhye Lee",
     "2026-09-28 G hard vs Alexandra Panova",
     "2026-09-29 G hard vs Jodie Burrage",
@@ -17872,7 +17871,8 @@
     "2026-10-19 P hard vs Viktorija Golubic",
     "2026-10-24 G hard vs Oleksandra Oliynykova",
     "2026-10-25 P hard vs Maya Joint",
-    "2026-11-03 G hard vs Mananchaya Sawangkaew"
+    "2026-11-03 G hard vs Mananchaya Sawangkaew",
+    "2026-11-05 G hard vs Zhibek Kulambayeva"
    ]
   },
   "tjen|j": {
@@ -18157,19 +18157,18 @@
    "nombre": "Alexandra Eala",
    "circuito": "WTA",
    "elo": {
-    "all": 1806.9,
-    "hard": 1762.9,
+    "all": 1824.7,
+    "hard": 1786.2,
     "clay": 1428.3,
     "grass": 1727.8
    },
    "n": {
-    "all": 67,
-    "hard": 49,
+    "all": 68,
+    "hard": 50,
     "clay": 4,
     "grass": 14
    },
    "ultimos": [
-    "2026-09-03 G hard vs Oleksandra Oliynykova",
     "2026-09-05 P hard vs Iva Jovic",
     "2026-09-24 P hard vs Tatiana Prozorova",
     "2026-10-12 P hard vs Shi Han",
@@ -18178,7 +18177,8 @@
     "2026-10-26 G hard vs Mika Stojsavljevic",
     "2026-10-28 G hard vs Talia Gibson",
     "2026-10-30 P hard vs Diana Shnaider",
-    "2026-11-03 G hard vs Emerson Jones"
+    "2026-11-03 G hard vs Emerson Jones",
+    "2026-11-05 G hard vs Tereza Valentova"
    ]
   },
   "parks|a": {
@@ -22555,19 +22555,18 @@
    "nombre": "Tereza Valentova",
    "circuito": "ATP",
    "elo": {
-    "all": 1731.5,
-    "hard": 1735.2,
+    "all": 1711.6,
+    "hard": 1709.6,
     "clay": 1539.4,
     "grass": 1500.7
    },
    "n": {
-    "all": 49,
-    "hard": 38,
+    "all": 50,
+    "hard": 39,
     "clay": 6,
     "grass": 5
    },
    "ultimos": [
-    "2026-08-26 G hard vs Tian Fangran",
     "2026-08-27 G hard vs Kylie Collins",
     "2026-08-28 G hard vs Julia Grabher",
     "2026-08-29 P hard vs Katie Volynets",
@@ -22576,7 +22575,8 @@
     "2026-10-24 G hard vs En-Shuo Liang",
     "2026-10-25 G hard vs Zhang Shuai",
     "2026-10-27 P hard vs Mia Pohankova",
-    "2026-11-03 G hard vs Himeno Sakatsume"
+    "2026-11-03 G hard vs Himeno Sakatsume",
+    "2026-11-05 P hard vs Alexandra Eala"
    ]
   },
   "yastremska|d": {
@@ -29888,19 +29888,18 @@
    "nombre": "Zhibek Kulambayeva",
    "circuito": "WTA",
    "elo": {
-    "all": 1521.1,
-    "hard": 1534.5,
+    "all": 1489.3,
+    "hard": 1494.1,
     "clay": 1498.7,
     "grass": 1500.0
    },
    "n": {
-    "all": 15,
-    "hard": 11,
+    "all": 16,
+    "hard": 12,
     "clay": 4,
     "grass": 0
    },
    "ultimos": [
-    "2026-05-16 P hard vs Anastasia Zolotareva",
     "2026-07-12 G clay vs Lisa Zaar",
     "2026-07-13 P clay vs Leyre Romero Gormaz",
     "2026-09-07 G hard vs Radka Zelnickova",
@@ -29909,7 +29908,8 @@
     "2026-10-13 P hard vs Francisca Jorge",
     "2026-10-31 G hard vs Yelyzaveta Kotliar",
     "2026-11-01 G hard vs Mei Yamaguchi",
-    "2026-11-03 G hard vs Mei Yamaguchi"
+    "2026-11-03 G hard vs Mei Yamaguchi",
+    "2026-11-05 P hard vs Mai Hontama"
    ]
   },
   "shiyu|y": {
@@ -63787,7 +63787,7 @@
    0
   ],
   "eala|a~valentova|t": [
-   0,
+   1,
    1
   ],
   "maria|t~navarro|e": [
@@ -91937,7 +91937,11 @@
   "halys|q~paul|t": [
    0,
    1
+  ],
+  "hontama|m~kulambayeva|z": [
+   1,
+   0
   ]
  },
- "propios": 10649
+ "propios": 10651
 }
