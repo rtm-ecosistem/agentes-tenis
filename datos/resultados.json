@@ -241367,6 +241367,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-05",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Tomas Martin Etcheverry",
+    "Rinky Hijikata"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }
