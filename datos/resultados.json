@@ -241170,6 +241170,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-05",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Quentin Halys",
+    "Tommy Paul"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
