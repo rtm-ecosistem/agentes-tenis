@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.047,
      "sorpresa": 0.4,
-     "impaciencia": 0.11,
+     "impaciencia": 0.109,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T17:10+00:00",
+    "hora": "2026-11-05T17:39+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.083,
+     "impaciencia": 0.082,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T17:10+00:00",
+    "hora": "2026-11-05T17:39+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T17:10+00:00",
+    "hora": "2026-11-05T17:39+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.083,
+     "impaciencia": 0.082,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T17:10+00:00",
+    "hora": "2026-11-05T17:39+00:00",
     "rent": 0.0
    }
   }
@@ -2618,13 +2618,22 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-05-14",
  "noticias_vistas": [
+  "c47e19edf3d9",
+  "cb66c5db9aa9",
+  "9c3993dce618",
+  "b480d3f3db68",
   "8655de764deb",
   "25db1cc08a0a",
+  "1ed4dd22a2ea",
   "691da9515055",
   "9e055326b416",
+  "92ee25f2ac65",
+  "01313dc02de2",
+  "575a442acf93",
+  "629bbd34fcc0",
+  "311ee260a11c",
   "ee046a70c668",
   "96eb32d67d4e",
-  "92ee25f2ac65",
   "4d166728593a",
   "4bfef65547b4",
   "624de62baeb5",
@@ -2638,19 +2647,19 @@
   "6bea3b2b1f6c",
   "487ebc537f55",
   "dbfb92284921",
-  "0c45f67092fa",
   "a30af80d62e6",
+  "10b4724a82a0",
   "6da43921ad1c",
   "6c4f9e092afc",
   "a58b288f6fb5",
   "459778daf6b5",
-  "e4cc76054e36",
   "fbf103efcc61",
   "da8e5bd295cf",
   "cdee184e1b90",
   "daff5900161a",
   "ad43c1e2492c",
   "358bd03ab95b",
+  "e4cc76054e36",
   "6af4c7077318",
   "fac952065107",
   "8d1c509dada9",
@@ -2689,6 +2698,7 @@
   "1a0f152086ff",
   "094168271ff1",
   "3cfb03176f57",
+  "eaef709e7840",
   "c09d5fe0042a",
   "ddeb3e784143",
   "e0c6fd7062b3",
@@ -2739,6 +2749,7 @@
   "bb62fb9bc22a",
   "d880179f6fa4",
   "026eb295f221",
+  "4504562b2742",
   "723b09cefda0",
   "fdafd12ea7f8",
   "ce69a7f3bda8",
@@ -2865,7 +2876,6 @@
   "5c64081be8f4",
   "f53f3e2a0e83",
   "b1f5c6461cd0",
-  "10b4724a82a0",
   "557cc1385342",
   "4b3cefdfca12",
   "a37cbc9cd903",
@@ -2881,6 +2891,7 @@
   "f6ff647700da",
   "4163b73717c9",
   "aa0bdfd02a3c",
+  "18b50aa9adf3",
   "dfa9d0cd6edf",
   "4e104b60968e",
   "f9b9d98a6b3a",
@@ -2901,7 +2912,6 @@
   "6def9c37a7ed",
   "311d759a15cf",
   "1685ef53b0f4",
-  "18b50aa9adf3",
   "43c641d4fcc0",
   "0b3c8d483b02",
   "a0d54fe317ea",
@@ -2920,6 +2930,7 @@
   "5b83217f1f9d",
   "597cefa346d6",
   "7be4d5946d00",
+  "c2c9019f4c7a",
   "294fb0d1e70f",
   "dc40930d44a7",
   "61cff1843290",
@@ -3036,7 +3047,6 @@
   "ac0dcd2d3227",
   "b2fe43999c97",
   "7b0fe4410ec6",
-  "b480d3f3db68",
   "8e03506a0f59",
   "8a79863ebc4f",
   "802289636972",
@@ -3257,6 +3267,7 @@
   "ed71d0a47c35",
   "423eade41ffb",
   "4e0a20a0c6e3",
+  "0c45f67092fa",
   "b96b2b4129dd",
   "5795e995ad38",
   "7a7b9f294af5",
@@ -3298,7 +3309,6 @@
   "8038ed6d8a77",
   "32dae8d7b861",
   "5afa02238af7",
-  "eaef709e7840",
   "1c268468b18d",
   "d5750385fdd8",
   "0db2a6324179",
@@ -3407,17 +3417,7 @@
   "86c7ab82d901",
   "02d3f77196e0",
   "7465caa25227",
-  "5d1885a816b0",
-  "7cdeb1d74a1e",
-  "b1fc75f5b611",
-  "61cd07f3fc6f",
-  "1ff8555cb9a5",
-  "5b4e6c845616",
-  "4b5a10ffee41",
-  "9f279b3b00c8",
-  "c9caec0de3eb",
-  "9461547a334e",
-  "6af6b99e6bf0"
+  "5d1885a816b0"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10915,9 +10915,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 58,
-  "ganadas": 37,
-  "unidades": -4.42,
+  "apuestas": 60,
+  "ganadas": 38,
+  "unidades": -4.76,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10942,30 +10942,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "8962e5108426884c7237a80948c77cfb",
-    "jugadores": [
-     "Lorenzo Musetti",
-     "Luca Van Assche"
-    ],
-    "inicio": "2026-11-05T12:20+00:00",
-    "mercado": "h2h",
-    "seleccion": "Lorenzo Musetti",
-    "punto": null,
-    "cuota": 1.34
-   },
-   {
-    "partido": "235263f6f3bbd21f2327b39e61407934",
-    "jugadores": [
-     "Nuno Borges",
-     "Ignacio Buse"
-    ],
-    "inicio": "2026-11-05T14:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Nuno Borges",
-    "punto": null,
-    "cuota": 1.66
    },
    {
     "partido": "47d9edba7490e876194504362c877fe3",
@@ -11067,7 +11043,9 @@
    "1cd952bfa7bc99f45d2ced1b80209056",
    "4111a4ac0ae11935311b655ebadd040b",
    "8a2e76c34cf0bce53c2afc75d9f2793e",
-   "ce54c1892701e4d3d4713f621a47cc00"
+   "ce54c1892701e4d3d4713f621a47cc00",
+   "8962e5108426884c7237a80948c77cfb",
+   "235263f6f3bbd21f2327b39e61407934"
   ]
  },
  "mercados_casas": {
