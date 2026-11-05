@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T19:10+00:00",
+ "actualizado": "2026-11-05T19:37+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -352,7 +352,7 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.23,
+      "pct": 0.231,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.849,
+      "pct": 0.851,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.151,
+      "pct": 0.149,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.849,
+      "pct": 0.851,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.151,
+      "pct": 0.149,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1026,58 +1026,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-05T08:00+00:00",
-  "partidos": [
-   {
-    "id": "6a03e950601f142942705acfb764d107",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T19:30+00:00",
-    "jugadores": [
-     "Arthur Fils",
-     "Taylor Fritz"
-    ],
-    "opciones": [
-     {
-      "id": "6a03e950601f142942705acfb764d107|h2h|Arthur Fils|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fils",
-      "punto": null,
-      "cuota": 1.76,
-      "pinnacle": 1.78
-     },
-     {
-      "id": "6a03e950601f142942705acfb764d107|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 2.08,
-      "pinnacle": 2.15
-     },
-     {
-      "id": "6a03e950601f142942705acfb764d107|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.85,
-      "pinnacle": null
-     },
-     {
-      "id": "6a03e950601f142942705acfb764d107|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.86,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fils": 1.78,
-     "Taylor Fritz": 2.15
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
@@ -2101,9 +2050,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 60,
-  "aciertos": 0.6333333333333333,
-  "yield": -0.07933333333333333
+  "apuestas": 61,
+  "aciertos": 0.6229508196721312,
+  "yield": -0.09442622950819672
  },
  "partidos_info": {
   "d52af5cb645ef831c4dbab0bbaf48dac": {

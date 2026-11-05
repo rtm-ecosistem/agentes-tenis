@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.046,
      "sorpresa": 0.4,
-     "impaciencia": 0.106,
+     "impaciencia": 0.105,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T19:10+00:00",
+    "hora": "2026-11-05T19:37+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.08,
+     "impaciencia": 0.079,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T19:10+00:00",
+    "hora": "2026-11-05T19:37+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T19:10+00:00",
+    "hora": "2026-11-05T19:37+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.08,
+     "impaciencia": 0.079,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T19:10+00:00",
+    "hora": "2026-11-05T19:37+00:00",
     "rent": 0.0
    }
   }
@@ -10739,9 +10739,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 60,
+  "apuestas": 61,
   "ganadas": 38,
-  "unidades": -4.76,
+  "unidades": -5.76,
   "pendientes": [
    {
     "partido": "d54412ae826f63d7234c2ea00d4809ac",
@@ -10778,18 +10778,6 @@
     "seleccion": "Casper Ruud",
     "punto": null,
     "cuota": 1.5
-   },
-   {
-    "partido": "6a03e950601f142942705acfb764d107",
-    "jugadores": [
-     "Arthur Fils",
-     "Taylor Fritz"
-    ],
-    "inicio": "2026-11-05T19:30+00:00",
-    "mercado": "h2h",
-    "seleccion": "Arthur Fils",
-    "punto": null,
-    "cuota": 1.76
    }
   ],
   "vistos": [
@@ -10858,7 +10846,8 @@
    "ce54c1892701e4d3d4713f621a47cc00",
    "8962e5108426884c7237a80948c77cfb",
    "235263f6f3bbd21f2327b39e61407934",
-   "1ef82c68f5ccf78aa0a6d031f750cc6e"
+   "1ef82c68f5ccf78aa0a6d031f750cc6e",
+   "6a03e950601f142942705acfb764d107"
   ]
  },
  "mercados_casas": {
