@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T13:57+00:00",
+ "actualizado": "2026-11-05T14:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-05T08:00+00:00",
   "partidos": [
-   {
-    "id": "235263f6f3bbd21f2327b39e61407934",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T14:10+00:00",
-    "jugadores": [
-     "Nuno Borges",
-     "Ignacio Buse"
-    ],
-    "opciones": [
-     {
-      "id": "235263f6f3bbd21f2327b39e61407934|h2h|Ignacio Buse|",
-      "mercado": "h2h",
-      "nombre": "Ignacio Buse",
-      "punto": null,
-      "cuota": 2.24,
-      "pinnacle": 2.38
-     },
-     {
-      "id": "235263f6f3bbd21f2327b39e61407934|h2h|Nuno Borges|",
-      "mercado": "h2h",
-      "nombre": "Nuno Borges",
-      "punto": null,
-      "cuota": 1.66,
-      "pinnacle": 1.65
-     },
-     {
-      "id": "235263f6f3bbd21f2327b39e61407934|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.77,
-      "pinnacle": null
-     },
-     {
-      "id": "235263f6f3bbd21f2327b39e61407934|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.94,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Ignacio Buse": 2.38,
-     "Nuno Borges": 1.65
-    }
-   },
    {
     "id": "47d9edba7490e876194504362c877fe3",
     "deporte": "tennis_atp_paris_masters",

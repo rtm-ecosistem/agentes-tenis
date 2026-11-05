@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T13:57+00:00",
+    "hora": "2026-11-05T14:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:57+00:00",
+    "hora": "2026-11-05T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:57+00:00",
+    "hora": "2026-11-05T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:57+00:00",
+    "hora": "2026-11-05T14:10+00:00",
     "rent": 0.0
    }
   }
@@ -2618,12 +2618,14 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-05-14",
  "noticias_vistas": [
+  "dbfb92284921",
+  "a30af80d62e6",
   "6da43921ad1c",
+  "92ee25f2ac65",
   "691da9515055",
   "6c4f9e092afc",
   "a58b288f6fb5",
   "fbf103efcc61",
-  "92ee25f2ac65",
   "daff5900161a",
   "ad43c1e2492c",
   "358bd03ab95b",
@@ -2634,6 +2636,7 @@
   "889f52e5e812",
   "1f2a720aff0b",
   "4953de1ab57d",
+  "2c4699285c33",
   "fec68c4f95e7",
   "969755c753f0",
   "e65a20d4fc26",
@@ -2656,7 +2659,6 @@
   "8d0498cce81d",
   "03ea22aa10a5",
   "7a22a129097f",
-  "b480d3f3db68",
   "7cece8c7f09f",
   "86befcb8d8bf",
   "094168271ff1",
@@ -2706,6 +2708,7 @@
   "d384d1f8e227",
   "f1388807bbfb",
   "695c3274b6c0",
+  "5190d639d143",
   "e9933b68d828",
   "0d358195bfc4",
   "bb62fb9bc22a",
@@ -2867,6 +2870,7 @@
   "2cfdaddd8276",
   "307fecaf900f",
   "0ef7711759cc",
+  "6def9c37a7ed",
   "311d759a15cf",
   "1685ef53b0f4",
   "43c641d4fcc0",
@@ -2999,6 +3003,7 @@
   "299ece2294cd",
   "ac0dcd2d3227",
   "b2fe43999c97",
+  "b480d3f3db68",
   "8e03506a0f59",
   "8a79863ebc4f",
   "802289636972",
@@ -3412,12 +3417,7 @@
   "a596fcae83e5",
   "ad7b824474f1",
   "05b09caeba7c",
-  "832e5e4925bc",
-  "11c5301ee83a",
-  "330ae33522cc",
-  "559bd326ffb8",
-  "913fcb92357c",
-  "12aa34e5d9ee"
+  "832e5e4925bc"
  ],
  "sala_aciertos": {
   "favorito": [
