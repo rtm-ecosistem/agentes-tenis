@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.05,
+     "envidia": 0.049,
      "sorpresa": 0.4,
-     "impaciencia": 0.116,
+     "impaciencia": 0.115,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T13:10+00:00",
+    "hora": "2026-11-05T13:57+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.088,
+     "impaciencia": 0.087,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:10+00:00",
+    "hora": "2026-11-05T13:57+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.057,
+     "impaciencia": 0.056,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:10+00:00",
+    "hora": "2026-11-05T13:57+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.088,
+     "impaciencia": 0.087,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T13:10+00:00",
+    "hora": "2026-11-05T13:57+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-02T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Denis Shapovalov – Karen Khachanov: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T16:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-03T08:01+00:00",
    "texto": "🎾 Cartelera: 13 partidos en las próximas 24 horas (casa: Betsson).",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-05T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T13:57+00:00",
+   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T13:57+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,9 +2618,14 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-05-14",
  "noticias_vistas": [
+  "6da43921ad1c",
+  "691da9515055",
+  "6c4f9e092afc",
   "a58b288f6fb5",
   "fbf103efcc61",
+  "92ee25f2ac65",
   "daff5900161a",
+  "ad43c1e2492c",
   "358bd03ab95b",
   "6af4c7077318",
   "8d1c509dada9",
@@ -2635,6 +2640,7 @@
   "d85713eb1097",
   "320952370ff6",
   "db0e1ac43b7e",
+  "6219bcd3e30e",
   "31d93cdebeb1",
   "159f80a73d4c",
   "0649208e921c",
@@ -2648,17 +2654,16 @@
   "eb0e9e8dec68",
   "32d68a1c7fd1",
   "8d0498cce81d",
-  "92ee25f2ac65",
   "03ea22aa10a5",
   "7a22a129097f",
   "b480d3f3db68",
   "7cece8c7f09f",
   "86befcb8d8bf",
   "094168271ff1",
+  "3cfb03176f57",
   "e4cc76054e36",
   "c09d5fe0042a",
   "ddeb3e784143",
-  "1a0f152086ff",
   "e0c6fd7062b3",
   "f8a612156eb7",
   "d85f18e1e191",
@@ -2723,10 +2728,12 @@
   "773022bc6fe2",
   "eaef6ac6ddaa",
   "b14ce20ca488",
+  "0b2e774b79a2",
   "b172a27211b4",
   "eb2db9dfdf59",
   "a96a513feae7",
   "c39dae61c600",
+  "2ff9f8d1fa0b",
   "ffac451bdbbc",
   "d097c98c4ab3",
   "3ec2f572f6cd",
@@ -2793,6 +2800,7 @@
   "ed220babb819",
   "3b4b4515fbbb",
   "182e93335e29",
+  "e5946820514e",
   "2172402ef11c",
   "c61d0dcca5b3",
   "871649476b42",
@@ -3271,6 +3279,7 @@
   "59861db0bd11",
   "5326c930885a",
   "a03eec7c4120",
+  "0c45f67092fa",
   "a6058d4e5d37",
   "d2d308a5c1c6",
   "37c0fb2d5092",
@@ -3316,6 +3325,7 @@
   "dab5d4dab327",
   "cbc541478913",
   "7ea93319cdbc",
+  "1a0f152086ff",
   "1c06f9e84cb0",
   "fe2bc2b6b632",
   "8652941ce95c",
@@ -3407,17 +3417,7 @@
   "330ae33522cc",
   "559bd326ffb8",
   "913fcb92357c",
-  "12aa34e5d9ee",
-  "8b8ce5730ba0",
-  "1f3b9e13a506",
-  "db3d6d3534bc",
-  "dd19e694656d",
-  "820da9e18b5c",
-  "18aeb7db9163",
-  "cf57f5ef9b60",
-  "047f48ae9f4e",
-  "fe72e8fc636f",
-  "50447de92e7e"
+  "12aa34e5d9ee"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -11009,7 +11009,7 @@
    "inicio": "2026-11-05T15:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T13:10+00:00",
+   "actualizado": "2026-11-05T13:57+00:00",
    "elo": 0.417,
    "elo_general": 0.42,
    "elo_en_superficie": 0.414,
@@ -11033,6 +11033,12 @@
      "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-04 contra Thiago Agustin Tirante, perdió 6-7 6-3",
      "noticias": [
       {
+       "titulo": "Thiago Tirante luchó hasta el final, pero quedó eliminado del Masters 1000 de París - www.puntocapitalnoticias.com",
+       "fuente": "www.puntocapitalnoticias.com",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUtqV3lDZUR2Z190LVRlTVdlcmE1RndDM2NhbUREUzlkUXlLYm1melBSYUJWTXplM3B3b1dHTW1LMHpNSHVVOGFfekRFWkxsWEMxNG1QSmI1U1otUC1LMXBDMFhEQVJid2NGLTgtR01VQ2t3VFI2NFFZekFleUc1MUxPNjA0R0MtWUNualNyQ3NxSDlkQzRSdmMwMEhyenRBRzdXdjNKUnhzeHlZWHdBTU0xMXc5blhpZzVoVg?oc=5"
+      },
+      {
        "titulo": "Masters de París: Etcheverry le ganó a Rublev y Cerúndolo abandonó por una molestia lumbar - El Argentino Diario",
        "fuente": "El Argentino Diario",
        "fecha": "2026-11-05",
@@ -11043,12 +11049,6 @@
        "fuente": "Rosario3",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU1JKZWZ0d2ZZNGlmM3BNMHlweDd1bTQ2aHBkNEpiTzMzZUxwYmRZX2YxQVU0d3J1Z3Q2VWN1YTdHQUpBM2c3OURtWFpHa2pXd3R1NUZ6cGRYNWY1NWpzR1ZuanFvWThkdlZFeVBld0VVRjl5NFFxZ0c3VjlDNGs5LVd3Q3FoNHVBMkU1cDRzVngyWWhMZEFGQThfbUo3MTNPN1UzUWYwRjlncU9HSVlTbmVIMEJFYldzZEdUcE5ISGdBRWN1Q2M3Z1NmRFVNd2RsbzRZeFhyMUR6bFNwem9MajZkNUtxbXhBMWhFWENic3pBZlhrTC1ZcDNYNld2ZXJVYmZtSHdB0gGGAkFVX3lxTFBTUkplZnR3Zlk0aWYzcE0weXB4N3VtNDZocGQ0SmJPMzNlTHBiZFlfZjFBVTR3cnVndDZVY3VhN0dBSkEzZzc5RG1YWkdrald3dHU1RnpwZFg1ZjU1anNHVm5qcW9ZOGR2VkV5UGV3RVVGOXk0UXFnRzdWOUM0azktV3dDcWg0dUEyRTVwNHNWeDJZaExkQUZBOF9tSjcxM083VTNRZjBGOWdxT0dJWVNuZUgwQkViV3NkR1RwTkhIZ0FFY3VDYzdnU2ZEVU13ZGxvNFl4WHIxRHpsU3B6b0xqNmQ1S3FteEExaEVYQ2JzekFmWGtMLVlwM1g2V3ZlclViZm1Id0E?oc=5"
-      },
-      {
-       "titulo": "Histórico triunfo de Tomás Etcheverry en París: venció a De Miñaur y derrotó por primera vez a un Top 10 - Radio Rafaela",
-       "fuente": "Radio Rafaela",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZENGd2J5TDZINVZhOTdWSGpMMkJ6QmNvWGtGVTZJV1RWNlFWcFBSQk5RNC1IeUh1MlJyTDk1dENBV3JFMGJxLWNocDdSSjJiejRnWGZUVmVDdmhYNkxVcGZUek5jaEM5SHBPQ3FEQXhsemFVODY4ZXh3M2c3dEJuTlVFY2pRTWpQcnBMSUQ3bmVfTEV6Y0ZMdnJVanR3cVNzZFRKdm5oRkV0dC1Gblg0ZUJBeE13aTBqZmpEeVcxQTRhMjUzRm9IdHB6cWs1WmhSSkVZZFNxWQ?oc=5"
       }
      ]
     },
@@ -11073,16 +11073,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFR5OU93ZzZNWkEwM0FxUmxUUk81SVdSaExka3ZsVXhTYTZNLVRJM3NSZkVuQlY2YXpobE55dUFQNnZFOTI1ajFjOFVjb0YwT2h0YkVVamRVeGlWaERMUGEzZmlublgxR2xjN3N1UlBUTzlNWUxxX3NjM3EyWU1mQ1R5VHVPTlljT2pIdk1vdUlDTkZpX1N4U1d2RHNnWmJqUW9SYnFPRWRfSTlkZWhJVEJzdGhJNjFGQm9JXzVDdW9WRUdISzZRVjZB0gHKAUFVX3lxTE5rc2ZsVTRBY3FydnRFYVMzajVnMVBSVDlJMjBHSjFfQlJTSEFyYVJubzU1Yl9ZSml1NC1DYWNxVUVSeGdVVXU3VXpKdTFBMHM2TUZ0My1nTnBGUTFHVVVrbHI0RTFfbzI2M0ZQMGM2STdSTXIwVlBPX2YwYjN6b2JyczRtdGMyVmptSFVUNWExcno4V0xGWlpzOFRJbE9JZmVRVGRwNzUwMVh5NTZXWTJ0NXNHbFE2dUVtZDdsdFJ2QWxFX01LeE11UGc?oc=5"
       },
       {
+       "titulo": "Jan-Lennard Struff - Casper Ruud en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-04",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUlqb3BZSHdaVGFJclFuaXNONjFrdEUzU2sxclMxYmxYY3o4WTR2VDRnQlRYV3lwbFRpZEwyc2NHbmxuLTRpMW9JZHF3VERTZFR4b0pMSWJnQXBRSWRJQVlORFJ2dHk1dWg5YUQ0Y296NTFLamRxeEtEUmRoSmU3ZmF1TmZhQnh2S2VGMGZ2blZVNjhrZHdUSV9VcVVNaWowX28wY1ZGRGxXY2VCVmUxVTZFRUFTQXJQ?oc=5"
+      },
+      {
        "titulo": "Jan-Lennard Struff vs Casper Ruud · Round 3 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXJpZ1l4YS0zR1FTTFk2VWlnemNDZ1NKd3A4TFFaRnR2dVkxMEo3V3dlMXh1cGxrakFuYm15dkdmRjB4eXpmVDNYb2VYMnVQdllfTnNsVWMzSEI5V2xBN2t0cXVOS3JHNDFCN3gyQVc4OFFrOWV2aEhNRXhNaVF3ZFpVbUZNOG5IM0xMMlBONEg3S0RGU1RV?oc=5"
-      },
-      {
-       "titulo": "Casper Ruud vs. Juan Manuel Cerundolo Paris 2026 Round of 64 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iRVFLbzdvM0otQllNY0U4OElxeEZOVVRIY3RwTHpWczZsUlhFU2RwMEFCY3JQVmtxS1luZUhPYWw4bDNRbEw0U2hGV0RJa2FFOVcwNVdkWUZDX2VlR1hjTTlvaXFKVWNmNmlLQUh6YTBmMUxLTEFaSA?oc=5"
       }
      ]
     }
@@ -11097,7 +11097,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T13:10+00:00",
+   "actualizado": "2026-11-05T13:57+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -11133,10 +11133,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
       },
       {
-       "titulo": "Alcaraz avanza a cuartos en París debido a la lesión de Berrettini - France 24",
-       "fuente": "France 24",
+       "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
+       "fuente": "La Voz de Galicia",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnZaTjEwbkF0bXIyNkRrczgweWRxQUpWUDNJM2Y4bUpTVkNibS00WFFEMUhBVktIeXRRSF8xdzJqcTNjN3pJM2dsSUFZT3RTRE1xOXliR0lhbkhnSHpRT2tVTnFYVktZRlFMcU10Vm1SbV9tSE5Kcjdta3JNYnFTZ2Q0YWdobnFxdVMtOERhTzFEa3hZRlBQSVlfMFlqOFlLTGJ5UkhLSjM3ZThheld6ekFvZTdkQkZ4RmlPQmxnOUVDSGJDUi1zRQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWTRhYU5IUlZHODB0UGRYV3FZV0JOOHdnamIzR0JQQzhESVdEUHlQVTBDemMwdE1DVTItMUs5R1FpQ1MyeGhlQW9BaEM3QmJxdWRVZ2lGb2Ffbzd5OTcxNXMzYTVuSVNtOWltU2RMZXVHRkNHRjdsN3AtRWpadU5Ecl90RHExbE1ZdWVrdUhkZVh2aUtuakdhanlUX0h6bjM5MkRxT2tjVVd4am1XZzFjNlUxSVpoajNqVnAyZTBrellkSk1xUnV2ZFlFdkZlYkh1dnZWbktVUnFFN3BQOE9hRmRENHQzV0llTUh6STlNOHNWMktTR3ZxTDc3bnNpeXNTU3pmVU5TTzh2NmNvTnVNQkNXVUJLQQ?oc=5"
       }
      ]
     },
@@ -11167,10 +11167,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2pvWHU5N05Eamw5VENiZVVWcDRhTTN4dG9sM3hUbHBDa0lDYXByZmE4Y1c3dDRmVVc1Szl1N2U4UjZ0UG5QYVNQaHdON05CTUZZc2dwVlNzdklaVm9XRkY2d0N1Z0JSUUJmY3VGcGZVVkFRWDlQNWRnV3dkUkxoZnIwUl9DN2VJa0Y1TG90OU1xUVM2eWlzQnRneWpqcEZsM3Y0WGxPLVRwWkVfZFNFZmNuc25OMWRHNy04cmlpcTYtWVpTQ0pfUjhpbldOSHVwdURlT3lKYUFrN1QzeHgwTmd6QTZmbVhBdllQUllvMnVBMDFTMWFBOHV3?oc=5"
       },
       {
-       "titulo": "Alcaraz avanza a cuartos en París debido a la lesión de Berrettini - France 24",
-       "fuente": "France 24",
+       "titulo": "Matteo Berrettini se retira del Masters París y Carlos Alcaraz avanza a cuartos de final sin jugar - La Voz de Galicia",
+       "fuente": "La Voz de Galicia",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnZaTjEwbkF0bXIyNkRrczgweWRxQUpWUDNJM2Y4bUpTVkNibS00WFFEMUhBVktIeXRRSF8xdzJqcTNjN3pJM2dsSUFZT3RTRE1xOXliR0lhbkhnSHpRT2tVTnFYVktZRlFMcU10Vm1SbV9tSE5Kcjdta3JNYnFTZ2Q0YWdobnFxdVMtOERhTzFEa3hZRlBQSVlfMFlqOFlLTGJ5UkhLSjM3ZThheld6ekFvZTdkQkZ4RmlPQmxnOUVDSGJDUi1zRQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWTRhYU5IUlZHODB0UGRYV3FZV0JOOHdnamIzR0JQQzhESVdEUHlQVTBDemMwdE1DVTItMUs5R1FpQ1MyeGhlQW9BaEM3QmJxdWRVZ2lGb2Ffbzd5OTcxNXMzYTVuSVNtOWltU2RMZXVHRkNHRjdsN3AtRWpadU5Ecl90RHExbE1ZdWVrdUhkZVh2aUtuakdhanlUX0h6bjM5MkRxT2tjVVd4am1XZzFjNlUxSVpoajNqVnAyZTBrellkSk1xUnV2ZFlFdkZlYkh1dnZWbktVUnFFN3BQOE9hRmRENHQzV0llTUh6STlNOHNWMktTR3ZxTDc3bnNpeXNTU3pmVU5TTzh2NmNvTnVNQkNXVUJLQQ?oc=5"
       }
      ]
     }
@@ -11185,7 +11185,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T13:10+00:00",
+   "actualizado": "2026-11-05T13:57+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,

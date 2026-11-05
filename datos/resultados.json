@@ -241237,6 +241237,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-05",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucrezia Stefanini",
+    "Simona Waltert"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-05",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Tiphanie Lemaitre",
+    "Justina Mikulskyte"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }

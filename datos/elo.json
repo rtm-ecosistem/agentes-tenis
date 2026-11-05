@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T13:10+00:00",
+ "actualizado": "2026-11-05T13:57+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -19492,19 +19492,18 @@
    "nombre": "Simona Waltert",
    "circuito": "WTA",
    "elo": {
-    "all": 1548.0,
-    "hard": 1581.6,
+    "all": 1532.7,
+    "hard": 1562.4,
     "clay": 1418.7,
     "grass": 1374.1
    },
    "n": {
-    "all": 58,
-    "hard": 48,
+    "all": 59,
+    "hard": 49,
     "clay": 8,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-10 G hard vs Despina Papamichail",
     "2026-09-11 P hard vs Dalma Galfi",
     "2026-09-29 G hard vs Anastasia Tikhonova",
     "2026-09-30 P hard vs Erika Andreeva",
@@ -19513,7 +19512,8 @@
     "2026-10-09 P hard vs Himeno Sakatsume",
     "2026-10-17 P hard vs Anhelina Kalinina",
     "2026-10-27 P hard vs Jil Teichmann",
-    "2026-11-03 G hard vs Sahaja Yamalapalli"
+    "2026-11-03 G hard vs Sahaja Yamalapalli",
+    "2026-11-05 P hard vs Lucrezia Stefanini"
    ]
   },
   "capurro taborda|m": {
@@ -21031,14 +21031,14 @@
    "nombre": "Tiphanie Lemaitre",
    "circuito": "WTA",
    "elo": {
-    "all": 1412.9,
-    "hard": 1460.1,
+    "all": 1382.0,
+    "hard": 1413.4,
     "clay": 1434.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 7,
-    "hard": 6,
+    "all": 8,
+    "hard": 7,
     "clay": 1,
     "grass": 0
    },
@@ -21049,7 +21049,8 @@
     "2026-02-16 P hard vs Mona Barthel",
     "2026-04-11 P clay vs Chloe Paquet",
     "2026-09-28 P hard vs Harriet Dart",
-    "2026-11-03 G hard vs Lamis Alhussein Abdel Aziz"
+    "2026-11-03 G hard vs Lamis Alhussein Abdel Aziz",
+    "2026-11-05 P hard vs Justina Mikulskyte"
    ]
   },
   "xu|m": {
@@ -21111,19 +21112,18 @@
    "nombre": "Lucrezia Stefanini",
    "circuito": "WTA",
    "elo": {
-    "all": 1679.1,
-    "hard": 1669.5,
+    "all": 1694.8,
+    "hard": 1688.7,
     "clay": 1496.2,
     "grass": 1504.6
    },
    "n": {
-    "all": 53,
-    "hard": 48,
+    "all": 54,
+    "hard": 49,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-10-07 G hard vs Noma Noha Akugue",
     "2026-10-09 G hard vs Polina Iatcenko",
     "2026-10-10 G hard vs Anna Blinkova",
     "2026-10-11 P hard vs Ayla Aksu",
@@ -21132,7 +21132,8 @@
     "2026-10-16 P hard vs Bianca Andreescu",
     "2026-10-27 G hard vs Isabella Maria Serban",
     "2026-10-29 P hard vs Ayla Aksu",
-    "2026-11-03 G hard vs Rada Zolotareva"
+    "2026-11-03 G hard vs Rada Zolotareva",
+    "2026-11-05 G hard vs Simona Waltert"
    ]
   },
   "jodar|r": {
@@ -23901,19 +23902,18 @@
    "nombre": "Justina Mikulskyte",
    "circuito": "ATP",
    "elo": {
-    "all": 1532.9,
-    "hard": 1468.7,
+    "all": 1559.8,
+    "hard": 1513.8,
     "clay": 1550.5,
     "grass": 1492.4
    },
    "n": {
-    "all": 12,
-    "hard": 7,
+    "all": 13,
+    "hard": 8,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-04-27 P hard vs Sofya Lansere",
     "2026-06-23 G grass vs Carol Zhao",
     "2026-06-24 P grass vs Lucia Bronzetti",
     "2026-08-04 G clay vs Weronika Ewald",
@@ -23922,7 +23922,8 @@
     "2026-09-12 G hard vs Antonia Vergara Rivera",
     "2026-09-13 P hard vs Chloe Paquet",
     "2026-09-16 P hard vs Paula Badosa",
-    "2026-11-03 G hard vs Maayan Laron"
+    "2026-11-03 G hard vs Maayan Laron",
+    "2026-11-05 G hard vs Tiphanie Lemaitre"
    ]
   },
   "gjorcheska|l": {
@@ -91941,7 +91942,15 @@
   "hontama|m~kulambayeva|z": [
    1,
    0
+  ],
+  "stefanini|l~waltert|s": [
+   1,
+   0
+  ],
+  "lemaitre|t~mikulskyte|j": [
+   0,
+   1
   ]
  },
- "propios": 10651
+ "propios": 10653
 }
