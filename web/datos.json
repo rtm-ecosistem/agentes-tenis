@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T17:40+00:00",
+ "actualizado": "2026-11-05T18:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.306,
+      "pct": 0.307,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.846,
+      "pct": 0.847,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.154,
+      "pct": 0.153,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.846,
+      "pct": 0.847,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.154,
+      "pct": 0.153,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-05T08:00+00:00",
   "partidos": [
-   {
-    "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T18:00+00:00",
-    "jugadores": [
-     "Matteo Berrettini",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.15,
-      "pinnacle": 1.18
-     },
-     {
-      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Matteo Berrettini|",
-      "mercado": "h2h",
-      "nombre": "Matteo Berrettini",
-      "punto": null,
-      "cuota": 5.6,
-      "pinnacle": 5.6
-     },
-     {
-      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.88,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.82,
-      "pinnacle": 1.93
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.18,
-     "Matteo Berrettini": 5.6
-    }
-   },
    {
     "id": "6a03e950601f142942705acfb764d107",
     "deporte": "tennis_atp_paris_masters",
@@ -1933,6 +1883,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-05T18:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T18:10+00:00",
+   "texto": "📰 Noticias nuevas de Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-05T17:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2071,16 +2031,6 @@
    "hora": "2026-11-05T08:00+00:00",
    "texto": "🎾 Cartelera: 8 partidos en las próximas 24 horas (casa: Betsson).",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T17:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T17:10+00:00",
-   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-05",
@@ -2156,94 +2106,6 @@
   "yield": -0.07933333333333333
  },
  "partidos_info": {
-  "53d4ccf860436088aa717efdf2c38d25": {
-   "id": "53d4ccf860436088aa717efdf2c38d25",
-   "jugadores": [
-    "Ben Shelton",
-    "Jerome Kym"
-   ],
-   "inicio": "2026-10-29T18:10+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-29T16:10+00:00",
-   "elo": 0.875,
-   "elo_general": 0.862,
-   "elo_en_superficie": 0.905,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Ben Shelton",
-     "mercado": 0.739,
-     "elo": 1900,
-     "elo_superficie": 1927,
-     "forma": [
-      "G hard vs Frances Tiafoe",
-      "P hard vs Alexander Zverev",
-      "G hard vs Daniel Altmaier",
-      "P hard vs Arthur Gea",
-      "G hard vs Aleksandar Kovacevic"
-     ],
-     "cansancio": "1 partidos, 3 sets y 39 juegos en 3 días; el último el 2026-10-27 contra Aleksandar Kovacevic, ganó 6-7 7-6 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "ATP 500 Basilea: Ben Shelton vs Jerome Kym - Pensador de Apuestas",
-       "fuente": "Pensador de Apuestas",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDlSYzlSUDUwcjdoMVZEZVlYaUNicXpFVkRqdFFuLWVhWVA0V0I3TUdOaThJSUItc2p6dndxSmtXOGhxYlAtUDV3emRIbV83N2hwaWtJc1doYVgtNmFoYXRmMG9keWpNTzBIbWtkNTEtVzhxVm9FYW90VmZGQ3E2TUZJWQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton Jerome Kym - ATP Basilea 29/10/26 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZ2pvdkFsdHlveTk0dmhxVmJfUjRwNEFJY09lVmlxY0Q3b2wzZzJ5ako5eVFaMWI1YXZZR2dncGhJVDVmMGRfaEdoTVVfNmNMWk56MWwwOEs4cmJXS1dtYUFWYmdOdkM0b29XZWI3ckpFbzdNMnBteVJHLVJaeHM?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Jerome Kym - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXdFelN4dnM4b2ozZ3hRU2JFaWg2TjllZzRTV3dObjlaR3ZYZVUzTF9GRzRFMDBYcUljT2dPZF9wNy12T3d5YmY3RXhBc1VINk1kcGlXVnNZQzVzeEdTOUtZdDZCN2N5MGwzN0NySzZnQzZzWk1jVnBMZ3hINkJfbGxvdWJvQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Jerome Kym",
-     "mercado": 0.261,
-     "elo": 1581,
-     "elo_superficie": 1535,
-     "forma": [
-      "G clay vs Dylan Dietrich",
-      "P clay vs Stefanos Tsitsipas",
-      "G hard vs Dan Added",
-      "P hard vs Colton Smith",
-      "G hard vs Arthur Rinderknech"
-     ],
-     "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-27 contra Arthur Rinderknech, ganó 7-6 6-4",
-     "noticias": [
-      {
-       "titulo": "ATP 500 Basilea: Ben Shelton vs Jerome Kym - Pensador de Apuestas",
-       "fuente": "Pensador de Apuestas",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDlSYzlSUDUwcjdoMVZEZVlYaUNicXpFVkRqdFFuLWVhWVA0V0I3TUdOaThJSUItc2p6dndxSmtXOGhxYlAtUDV3emRIbV83N2hwaWtJc1doYVgtNmFoYXRmMG9keWpNTzBIbWtkNTEtVzhxVm9FYW90VmZGQ3E2TUZJWQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton Jerome Kym - ATP Basilea 29/10/26 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZ2pvdkFsdHlveTk0dmhxVmJfUjRwNEFJY09lVmlxY0Q3b2wzZzJ5ako5eVFaMWI1YXZZR2dncGhJVDVmMGRfaEdoTVVfNmNMWk56MWwwOEs4cmJXS1dtYUFWYmdOdkM0b29XZWI3ckpFbzdNMnBteVJHLVJaeHM?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Ben Shelton vs Jerome Kym - Cuota & Estadística - 29 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXdFelN4dnM4b2ozZ3hRU2JFaWg2TjllZzRTV3dObjlaR3ZYZVUzTF9GRzRFMDBYcUljT2dPZF9wNy12T3d5YmY3RXhBc1VINk1kcGlXVnNZQzVzeEdTOUtZdDZCN2N5MGwzN0NySzZnQzZzWk1jVnBMZ3hINkJfbGxvdWJvQQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "3b65bc657a2d7391944d9e343c189c52": {
    "id": "3b65bc657a2d7391944d9e343c189c52",
    "jugadores": [
@@ -9545,7 +9407,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T17:10+00:00",
+   "actualizado": "2026-11-05T18:10+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
@@ -9569,22 +9431,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Tomas Machac, ganó 6-3 7-6",
      "noticias": [
       {
+       "titulo": "Alcaraz y Djokovic entre los candidatos de octubre al Hot Shot del mes, ¡vota aquí! - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUcwd3R1S192RXNKcFpQNzJaSWFnNXpZQmRoZHJxQkJKNWRfZTYzMnBLN1RGbFlQWTdxTklfWk1IVnRsc1E5WGVNN3NsZ1lkOE90Rm9zRXl1RGxQQlRQb1BxR1hONmN3dWVRSEV5ejNPWEx3cXhxVmFNTGFsTkkzZmxQMA?oc=5"
+      },
+      {
        "titulo": "Arthur Fils - Taylor Fritz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
        "fuente": "Europa Press",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbldVdU04cHQ2a1B2aVQwS1g4WVNxTmdna2tEY0RsOHRfVzByN0dOalY3UE5LaTluUVFRNmNuTS04Q3VFZ0FxR2N3VEgwSldwOWs3dFhLUEhVQktmbnZ0dXhzdjJZa3hrcDcyZDVFYzEwSWZDd3hfX1A5YktMM3hXdVExalhtcXJRR3NrQmNLWW1haXBUWEQ0NG5qcGEyWVo0WHZrTGFSM2NmYkMzeHFab0RLX2gxZW9mZ2dad291TzRFMjhSZmhXYzdweXVqQ3AyTFdud0Z6bmNic3dmZV9sV1BqOG5HMENLd1E?oc=5"
       },
       {
-       "titulo": "Arthur Fils jugará sus primeras ATP Finals tras la victoria de Halys en París - fomoera.com",
-       "fuente": "fomoera.com",
+       "titulo": "Arthur Fils jugará sus primeras ATP Finals tras la victoria de Halys en París - https://fomoera.com/",
+       "fuente": "https://fomoera.com/",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wQzJCUjczNFdZeUIwcWoyaXcycE1aeFZuRGRhWDIyREVzMEZEUmJzWGYzdzJrV3JQbWdIZGRUZWNwelNlLXowNThuMkdaUElKMlVmYUMyazFQeTI2TUJwXy0xeXRrdFl6enlMNDg3Zm13cUE?oc=5"
-      },
-      {
-       "titulo": "Alcaraz pasa a cuartos de final del Masters 1000 de París por una lesión en el brazo de Berrettini - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMm5KWEZBUWFZWFRFbmVhWm9YRFgxN1pPZy1mZE9mN2owZkFOYWNhUTl2SVMxbzBrRVRLSF9Lamw3LVlIVkVMQ0ZydE12VVFwaXlHME5wMWdMNmVYQWxHa2E3ZzBZblhzaWNEUmF0UG54RnYwTEhURjJ2M3ZzX2g2NFBNamRTcWVIajdEdkFURl9Fam1fN2thbGNBZ2xQek9CTzNZeFFPak5qU0lWWng3Szg3MVozQ1ZVTDhwMy1mbTJnVDRnMWllam1R0gHPAUFVX3lxTE0zMW0xZThyYVZyd0F2YzNvWncxNjY3QTlzWUk1Y1Mwcno3MGdwQl9rcjJrUXlENmg3SFZlaDVkeldHcFQ0a1R0OHhuMW5DRG1WNHlwUG5WY1NXcjFFSVBtWFNtVnNTaUtBSUtOZy1NSFFwVjFjQlJiU0dZQk41Ul8wS2NlMHpfZVF1dC1OZ3pWLVhfZUNzc1BJSHFCc3R1ekZUTlRGU2w3YjR3UVZ4eC1RSlVJTFNxTnBwYklhUVVXb2hzcEx6V2x6TWpGVUJ3OA?oc=5"
       }
      ]
     },
@@ -9603,6 +9465,12 @@
      "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "¿A qué hora juega Carlos Alcaraz los cuartos de final del Masters 1.000 de París? Horario, TV y dónde ver - Diario AS",
+       "fuente": "Diario AS",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0p0SUFkd2Q4ZzhlN3J0dVJRN3ZBUGR5MHctZFFwaXhKb3dGV0JwYlpBUlpBcDZGZWpSODZDRDlLYWZ5czQwVXduLXphd3dTMmYwNW9pU3ZROWxxWmhsamR6LVZqV05JM2lxNl9kaU1LZUVpb3VqWDZCTktsYkttTEhEX0ZrNEw4QXdSYTlGNHRzN1BDQXJCRVBjWUg4LTJwTzhNVGd3eFY1VXdCc1U0bnJaMU95VHdBZnl3M29DcFN1YnI3MWtDSEExcUg3SHh2Vm5MbXRKWWwwa0cwOEFV0gHzAUFVX3lxTE8wbUFiU0hueVIyWE5IOWw5dU8wVHFOX0s5T1d3R1V0cXJKWFZGNnZQMjB2c3dNTHk2UnZya2plLTJoZUdNWWNUdlc5ZFNQZ1NHQXQwRDdtU2tUbjhQVjByRXlsdUo4cGpCc0w5WjVBWjBOdzdoQ0o0MVRCMHBlSVVQbFh4alJ5Wk04c1N3X1NyY3FzWnp1RjJuUXZuaWFOOHoxMkZITDV6UWhHS3VRM3lHOTk5eHY5ZER4N0UyTXBkYzVNU09uNFBsdzNPendZdHBkYmNlTGhlVzc2bXE3RmUyd3BMclBnS3UwUGV4cThzbVpLWQ?oc=5"
+      },
+      {
        "titulo": "Arthur Fils - Taylor Fritz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
        "fuente": "Europa Press",
        "fecha": "2026-11-05",
@@ -9613,12 +9481,6 @@
        "fuente": "EL PAÍS",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B0gHHAUFVX3lxTE9RTnlYSERLdENhTklfdktOOGNwSW9ZVDRXTm9TeFhYQXZZVFU0ZkRib1JzNFpQTEFoUGFjUnkxOGlVZU9LcUtUVjJTRGY3Q2loZi1hNFg2U2t1Vld2bU0xTldVVlBDaHFNZVB2VHJzWDc1ZHRSSVI4THgwU3JLOWZYMVFFeDVneER2NDMycExXU3VHOXlPZnZZN214YzgzRnJkVm9JenBsYUdsUE14bjRham1lX1l5bEFTd0hrUHQ2bUJfem5aLUE?oc=5"
-      },
-      {
-       "titulo": "Alcaraz pasa a cuartos en París, tras la baja de Berrettini - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVzNvN1BCUUxxLUhPZW52YlByOUJ0bUt0QWlrYXRLZGJoMHNwSUF4ZUEzMDVBbXN3RlpfbE9raG9UZmNZVkprcUZpZ3FkeS03RTBZWE1Uem1FWUJZUlR2MDNCUThjUUM5VWFWaWhzOTB6dWpvM2V0RG1WMGlyX1NoT1J2LV9UclpxOVE?oc=5"
       }
      ]
     }
