@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T15:10+00:00",
+ "actualizado": "2026-11-05T15:39+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.343,
+      "pct": 0.344,
       "motivo": "Lleva 7 días sin apostar."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.086,
+      "pct": 0.085,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.84,
+      "pct": 0.841,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.16,
+      "pct": 0.159,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.84,
+      "pct": 0.841,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.16,
+      "pct": 0.159,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-05T08:00+00:00",
   "partidos": [
-   {
-    "id": "47d9edba7490e876194504362c877fe3",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-05T15:20+00:00",
-    "jugadores": [
-     "Jan-Lennard Struff",
-     "Casper Ruud"
-    ],
-    "opciones": [
-     {
-      "id": "47d9edba7490e876194504362c877fe3|h2h|Casper Ruud|",
-      "mercado": "h2h",
-      "nombre": "Casper Ruud",
-      "punto": null,
-      "cuota": 1.5,
-      "pinnacle": 1.54
-     },
-     {
-      "id": "47d9edba7490e876194504362c877fe3|h2h|Jan-Lennard Struff|",
-      "mercado": "h2h",
-      "nombre": "Jan-Lennard Struff",
-      "punto": null,
-      "cuota": 2.6,
-      "pinnacle": 2.63
-     },
-     {
-      "id": "47d9edba7490e876194504362c877fe3|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.94,
-      "pinnacle": 1.97
-     },
-     {
-      "id": "47d9edba7490e876194504362c877fe3|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.77,
-      "pinnacle": 1.9
-     }
-    ],
-    "pinnacle_h2h": {
-     "Casper Ruud": 1.54,
-     "Jan-Lennard Struff": 2.63
-    }
-   },
    {
     "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
     "deporte": "tennis_atp_paris_masters",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T15:10+00:00",
+ "actualizado": "2026-11-05T15:39+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16383,19 +16383,18 @@
    "nombre": "Sorana Cirstea",
    "circuito": "WTA",
    "elo": {
-    "all": 1796.8,
-    "hard": 1772.0,
+    "all": 1814.2,
+    "hard": 1792.0,
     "clay": 1742.5,
     "grass": 1602.2
    },
    "n": {
-    "all": 58,
-    "hard": 46,
+    "all": 59,
+    "hard": 47,
     "clay": 9,
     "grass": 3
    },
    "ultimos": [
-    "2026-08-19 P hard vs Jessica Pegula",
     "2026-08-31 G hard vs Julia Grabher",
     "2026-09-02 G hard vs Diane Parry",
     "2026-09-04 G hard vs Jasmine Paolini",
@@ -16404,7 +16403,8 @@
     "2026-10-19 G hard vs Shi Han",
     "2026-10-21 P hard vs Sara Bejlek",
     "2026-10-27 P hard vs Maya Joint",
-    "2026-11-03 G hard vs Maria Timofeeva"
+    "2026-11-03 G hard vs Maria Timofeeva",
+    "2026-11-05 G hard vs Mary Stoiana"
    ]
   },
   "galfi|d": {
@@ -18865,19 +18865,18 @@
    "nombre": "Mary Stoiana",
    "circuito": "WTA",
    "elo": {
-    "all": 1700.6,
-    "hard": 1691.2,
+    "all": 1682.5,
+    "hard": 1670.2,
     "clay": 1543.0,
     "grass": 1572.4
    },
    "n": {
-    "all": 52,
-    "hard": 40,
+    "all": 53,
+    "hard": 41,
     "clay": 7,
     "grass": 5
    },
    "ultimos": [
-    "2026-09-10 P hard vs Julia Riera",
     "2026-09-16 G hard vs Claire Liu",
     "2026-09-17 G hard vs Dominika Salkova",
     "2026-09-18 P hard vs Paula Badosa",
@@ -18886,7 +18885,8 @@
     "2026-10-20 G hard vs Oleksandra Oliynykova",
     "2026-10-22 G hard vs Moyuka Uchijima",
     "2026-10-23 P hard vs Katerina Siniakova",
-    "2026-11-02 G hard vs Venus Williams"
+    "2026-11-02 G hard vs Venus Williams",
+    "2026-11-05 P hard vs Sorana Cirstea"
    ]
   },
   "vidmanova|d": {
@@ -91960,7 +91960,11 @@
   "noha akugue|n~sawant|m": [
    1,
    0
+  ],
+  "cirstea|s~stoiana|m": [
+   1,
+   0
   ]
  },
- "propios": 10656
+ "propios": 10657
 }
