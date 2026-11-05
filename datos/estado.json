@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.052,
      "sorpresa": 0.4,
-     "impaciencia": 0.124,
+     "impaciencia": 0.123,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T09:10+00:00",
+    "hora": "2026-11-05T09:40+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.094,
+     "impaciencia": 0.093,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T09:10+00:00",
+    "hora": "2026-11-05T09:40+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T09:10+00:00",
+    "hora": "2026-11-05T09:40+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.094,
+     "impaciencia": 0.093,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T09:10+00:00",
+    "hora": "2026-11-05T09:40+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-02T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-02T11:34+00:00",
    "texto": "📰 Noticias nuevas de Cameron Norrie – Matteo Arnaldi, Casper Ruud – Juan Manuel Cerundolo: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-05T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T09:40+00:00",
+   "texto": "📰 Noticias nuevas de Lorenzo Musetti – Luca Van Assche, Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T09:40+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,7 +2618,14 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-04-20",
  "noticias_vistas": [
+  "f8a612156eb7",
+  "d85f18e1e191",
+  "dd064b48ada3",
+  "c0c6bba10490",
   "eaef709e7840",
+  "e073b83febc5",
+  "20557a40239a",
+  "92ee25f2ac65",
   "3a6e48283c4b",
   "a016523ffffe",
   "cf8532e51934",
@@ -2650,6 +2657,7 @@
   "e9933b68d828",
   "bb62fb9bc22a",
   "d880179f6fa4",
+  "0d358195bfc4",
   "723b09cefda0",
   "fdafd12ea7f8",
   "ce69a7f3bda8",
@@ -2660,6 +2668,7 @@
   "8ebbebe86e59",
   "9384f6f35340",
   "d2c5064739a9",
+  "c5d4faa04abe",
   "9c22d8560e28",
   "1943cc49a7a0",
   "8bec27dcaa2e",
@@ -2690,6 +2699,7 @@
   "a0ee65a4cb5c",
   "a65103dc24f9",
   "a2bf4e36a099",
+  "36c801957425",
   "a6141b3b2bc0",
   "223760902ed1",
   "4b7d788c83eb",
@@ -2697,6 +2707,7 @@
   "38f6ef3d8d4d",
   "2dfc5408decb",
   "7a46f3f71f05",
+  "27cd6bbb4898",
   "a2c54b042305",
   "27f1b861d925",
   "46ac0c4cbe9e",
@@ -2757,18 +2768,16 @@
   "d08d8554409d",
   "ee02495bfa3b",
   "4d3b49a5735b",
-  "0d358195bfc4",
   "3ad1c22831cf",
   "f04ddce66370",
   "5c64081be8f4",
   "f53f3e2a0e83",
   "b1f5c6461cd0",
-  "92ee25f2ac65",
   "10b4724a82a0",
-  "0649208e921c",
   "557cc1385342",
   "a37cbc9cd903",
   "df6a3946fc2f",
+  "0649208e921c",
   "309e2bb6b97b",
   "885f26ab19d8",
   "9e0636ded7c2",
@@ -2786,6 +2795,7 @@
   "4e104b60968e",
   "f9b9d98a6b3a",
   "4d1115141978",
+  "93a7e4785676",
   "1887ef966d21",
   "ad3ddc1645aa",
   "e823f268cf27",
@@ -2798,7 +2808,6 @@
   "311d759a15cf",
   "43c641d4fcc0",
   "0b3c8d483b02",
-  "93a7e4785676",
   "ddfa7ab404a7",
   "b90f5c50b74c",
   "5a422c3f3e16",
@@ -2918,6 +2927,7 @@
   "a2ec8cbe2ec3",
   "b0425620a126",
   "92efff17efc2",
+  "57c2ea32d7d0",
   "9a3441931f98",
   "a553ac3d8b23",
   "51e1563a1e3c",
@@ -3045,6 +3055,7 @@
   "480431dda708",
   "486cb6612854",
   "12ce43e381ca",
+  "6f294d100a04",
   "deeb5dd83b2c",
   "ca4dec44314b",
   "085bad20355b",
@@ -3098,7 +3109,6 @@
   "7d627a5192cc",
   "4b5a10ffee41",
   "dfa100466df2",
-  "57c2ea32d7d0",
   "a07825ad19f1",
   "80f3e5575bb2",
   "fef058305cfd",
@@ -3160,7 +3170,6 @@
   "188f8aad2b89",
   "4b18ba64346c",
   "62387558bf06",
-  "6f294d100a04",
   "1b8e0f309a7e",
   "e53af9f5d783",
   "350508397cce",
@@ -3408,16 +3417,7 @@
   "01f10a08afa4",
   "70018d246b71",
   "626507b2042e",
-  "0220ebffc36e",
-  "e736cf5961bb",
-  "4597e318b2cd",
-  "0c54f57af05b",
-  "e7625487bf14",
-  "0117c774dfae",
-  "c4e52c89433e",
-  "fe9d125d5894",
-  "42c0812ea1b9",
-  "6295ece93d97"
+  "0220ebffc36e"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10657,7 +10657,7 @@
    "inicio": "2026-11-05T11:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.824,
    "elo_general": 0.792,
    "elo_en_superficie": 0.856,
@@ -10745,7 +10745,7 @@
    "inicio": "2026-11-05T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.772,
    "elo_general": 0.766,
    "elo_en_superficie": 0.778,
@@ -10809,16 +10809,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFVkbkNHTHVmUWxJZTNwVGZyVk5SWUJvSDFERTlIcllXM1R5Y0RuRG9OZnVOel9qcGhUdm5ROUttRnVDV0VtQXJGVlRwWEgxM243MFJvdF9SdklmTjdjQkxiYlI3bWhsSWpYOGs1bmlnc3ZiRjc2MExrbkRuazRUMHBqYU43WnBsUzVN?oc=5"
       },
       {
+       "titulo": "Lorenzo Musetti - Luca Van Assche en directo - Rolex Paris Masters 5 de noviembre de 2026 - SportyTrader",
+       "fuente": "SportyTrader",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjZCWVQ0dlBNLUI5bC01ZDYzV3ZZT09ud2xFS0hHR0VlM2VRalBXS0hkUmxvQy1EVXRXQnFFSlg3WlowVUotdjNmdWd2VjVrNDN6SC1rSkp5dXZhWkFNNXRVc2VjR3dfUU1faUVyWFNKeTdpZXhMUlNXdWlfVElDNWU4aUNkZWl2T0NkMGxvZEw?oc=5"
+      },
+      {
        "titulo": "Pronósticos Musetti vs. Van Assche: análisis, predicción y mejores apuestas del ATP París 2026 - Gainblers",
        "fuente": "Gainblers",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEpqTWZrYmxhdXd1YXVwOFBQNmNDNFd3T0ZhNVk3N3dta1ctM1N2RzlkeDdNMU1VYnBCdi1MRFZ5RTc3bUZkdVpqQlBYSERuUUNFQ3ZXYXdKYnltOVA0eEtLaklCNk9iNzVaeTlDUlRVZ1p5NDE0TVFUdVdkRzlGcmU2WDlENmo2Rmo0dnNpZEN6eURYbEhQbmREOWQtTHc?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti vs Luca Van Assche · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMG9ZQlFlQmRKMVJvMkJ6VHhEN1J3V25INkNIWGNZSG5sTEZzYVJtTGl3NW85V2xZdEN5ckU0RF9kajN2Q1MwN0c5aEZScExwQXkyTjhyMl93WkNhNWpNNV9Iak14VXA5c2RVUkZqa3dFUVgwRWh4andvVXQ3V1R4SURsWlZ3dzBxZmRiSnlMODZ0RXBZWkhOdHZUOGh3WmtF?oc=5"
       }
      ]
     }
@@ -10833,7 +10833,7 @@
    "inicio": "2026-11-05T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.584,
    "elo_general": 0.584,
    "elo_en_superficie": 0.585,
@@ -10921,7 +10921,7 @@
    "inicio": "2026-11-05T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.548,
    "elo_general": 0.532,
    "elo_en_superficie": 0.564,
@@ -11009,7 +11009,7 @@
    "inicio": "2026-11-05T15:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.417,
    "elo_general": 0.42,
    "elo_en_superficie": 0.414,
@@ -11097,7 +11097,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -11121,6 +11121,12 @@
      "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-11-04 contra Ugo Humbert, ganó 7-6 7-5",
      "noticias": [
       {
+       "titulo": "Alcaraz se juega los cuartos en París: a qué hora juega hoy y dónde verlo por TV - Superdeporte",
+       "fuente": "Superdeporte",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWp3QnpzaGhnUVhTQjBBUmU1bXpFUlBwNFoxNlNBUkVaREg1WUxpWTNnRHQ5b3BQOWZINkl6YlNEZVliV2JxRl9GNnJkWHlfbmtCRW0xaS1Sem40YjhVbDdWcXhTRXZPaEJYWUtiTnRzYnpwWDhFZVRocmxzZFQ5ektPMmdXVDlxN08zXzJZdmlTWVh2ZGU2YmV1d2c2dnlGWC1CNWIyOGVISnNaS1MxWnotY9IBuAFBVV95cUxPV0xxclA5NzBIYkJxQ1N3bmRzcEFjZVR1TDVrNzE5RWo3WG1pNmFCbUdKc1dsaXJ1SXNmMlQ1dVJwWC1QalpSVElLaEVPU0c0dEVSRENyWHFLWWsyUnpCM2tHeHdRRlkzRjVmcTVBSXNfNENqQURPbExiZVc5b2lUbmZNVGE3SVFSdTZpLVVXRFRGUnhyVExfNmFWT3J2YjY4VVdmTDRkRktKWk5jakRZVGFfVjc3X2Z3?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs Berrettini: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-05",
@@ -11131,12 +11137,6 @@
        "fuente": "MARCA",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUxBUDd6WGVDUFBiZjZpa09oOXdtaVZ0NTdEOGNadHhTeVRMWTVMQldrdHFOa0QtaEVGMmZWeWd3eGxPZ0hsRk5ZejZzZEc4ejVOVTllZWNjN1dnX1RGaF9icWdoYnM1TFJIdWRjS2FDWFRodXhtTDhQbEZ2NW11RWN6a0UxVWZZbHZjRmFHX2FqN2Z4THkydHgxSTZ4MTE1UE0zendyMWw0RFlaeHVkQU1yQlZPb0ltN2fSAboBQVVfeXFMT3h1dU1DSVVORHV0UHEwNmZiYkRiRkFzYzFsYlc1dU1ncjFNOTdUaGZvaVNnQk1aSU1jZUllNWZjRnIyN0RfQV9yQ2FhRWRIVEhpR3hWWmhibXByLVNyRERvc1BsLTBYcEIzeU5ZRlE1WTBHU2pISDk1ZWhCNWxuMzhqdkxQNk1yU3JaOW0xWFl4TXBhclYxWEZlRGdLTFJET2tycGMyWmRwZUVVY1F6azkwd2RqeDRVcDZ3?oc=5"
-      },
-      {
-       "titulo": "A qué hora juega Alcaraz contra Berrettini y dónde ver los octavos de final del Masters 1000 de París 2026 por TV y en directo - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDh2VlppY1pkZzFUZTI3Wm5ydzRsZVFjd3B4Y21QQy1fNnpnXzM4elZIRW5TV1BNWlRaY3RQd0ozdm1NRDVUZzR1V1dMRTBiaGk1dFJJazcxTGNwTFNSY1FqUDRoTDBDbFlJdzV1NGdXbWQ3UDNpdWZrTXJzRjZGV1ZaNWplMDZxdVHSAYoBQVVfeXFMTlFybWEtcFJlR2F2V1pSU19qa3dhRTFjQVVPVnhwRW5hYWsxZkl3ejFHQ2tCOFA3dm1Fa21sRVRDWVlyNS1jN3lKd0dybzZMY1FiVlNNZEJkUDVnalltQVUxUkp5RmRuNlZtRDdkZEwwMVp6VlBLQ2x6R3NuWktkSHJWR2JRdGVySnJB?oc=5"
       }
      ]
     },
@@ -11155,22 +11155,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
-       "titulo": "Alcaraz vs Berrettini: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
+       "titulo": "Alcaraz se juega los cuartos en París: a qué hora juega hoy y dónde verlo por TV - Superdeporte",
+       "fuente": "Superdeporte",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2psRWVLdWw5Y0RpbTJ3czhNVUh5X1JjZXRLZWFLZktMa3JzSFpISlQ1c0tmcGFMZlBJT0FVNXA4b2MtbXUyN1JGWFZZZVJ0RGlHLVNJSnlVODNNNGxZa2kxT2NYb1l3UWdia2Y5OS1xUTFheW95U1kwZjhyaWpUVHFNOHRodmpLX2Q5ODRLNDljakhwQVh4MEtxZWFCeFlDLUdPTDJTMjlaNkxoVmVXNDZXQUg0cmhZRWU1YUhvMWFDM2JsVHJDUnZR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWp3QnpzaGhnUVhTQjBBUmU1bXpFUlBwNFoxNlNBUkVaREg1WUxpWTNnRHQ5b3BQOWZINkl6YlNEZVliV2JxRl9GNnJkWHlfbmtCRW0xaS1Sem40YjhVbDdWcXhTRXZPaEJYWUtiTnRzYnpwWDhFZVRocmxzZFQ5ektPMmdXVDlxN08zXzJZdmlTWVh2ZGU2YmV1d2c2dnlGWC1CNWIyOGVISnNaS1MxWnotY9IBuAFBVV95cUxPV0xxclA5NzBIYkJxQ1N3bmRzcEFjZVR1TDVrNzE5RWo3WG1pNmFCbUdKc1dsaXJ1SXNmMlQ1dVJwWC1QalpSVElLaEVPU0c0dEVSRENyWHFLWWsyUnpCM2tHeHdRRlkzRjVmcTVBSXNfNENqQURPbExiZVc5b2lUbmZNVGE3SVFSdTZpLVVXRFRGUnhyVExfNmFWT3J2YjY4VVdmTDRkRktKWk5jakRZVGFfVjc3X2Z3?oc=5"
       },
       {
-       "titulo": "Juanjo López, traumatólogo de Carlos Alcaraz: \"Llevo con él desde que tenía ocho años. A nivel personal, es una maravilla, un chico normal\" - Diez Minutos ES",
-       "fuente": "Diez Minutos ES",
+       "titulo": "Alcaraz alarga en París su invicto debutando en 2026 - Superdeporte",
+       "fuente": "Superdeporte",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTU2VzJhSDZpMjlONTFMVzExckZ4N3ItMEg0YTZzNnZMSkpMa2ZhdGUxc0lNQ2tiWDgwUEdWWGcxdXN1Z0xkQ0p1NUNiS2FRTUJYRVVpYmhUcjFxa3dNMjR0MW40SmJ2bGNiZ1FzbldmMzRpMGFhcGxMNlJHWFh2M0lGRzVYUDlEdVJNT0FlbHE4UEtoWXhmWF9rQ3BuVWFIMGVRdWJwTG5pNkt2MXVUcnpIV1RTU1BBRkdjbGhVaEdmbU9DUEd6THF5ay0tUQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEgyX183eHpabG1UNzFWamJZZUVzUUhkYUNEVzM0U25VejFjcVVDWWU1RjFzR09rSmxvNDJuSkp0T0czclBNMGtjV25fM3VXSzlESGRDOWFLamxPUEsyc2lGYnZuTUdrdWZxZTh5T1luREZ6RE5XWWh4dDlLNnM1ZlJCYUowdGQybHgxandqSUtNam85elJsMFltaDMyYnfSAaQBQVVfeXFMTVZsc0wxNEVLYTZYaXE5emI0NS1sTTR6SFJiYk9JTDJhV3g2VkYtMk5JMl9aeHotMEpvY2lTRUl6cy1SaWhCdzJ0WUNfM1FKTlN3YmNpcmRGVFZEaUFsUjN4cHRhQ2l1RHQxSU1nbzE0ZV83VnRuSjNPZmlNYldSOTM0Y2JnY2xWSWF6YmI3aElZZ0JmdUUxOHZYLTBPT0UwUUVoR0M?oc=5"
       },
       {
-       "titulo": "Orden de juego (Día 4): Alcaraz encabeza los octavos de final - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Del 1-4 al 7-4, la increíble secuencia de Carlos Alcaraz en el tie-break ante Alex Michelsen - Antena 3 Noticias",
+       "fuente": "Antena 3 Noticias",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVGdEeVY0S2UxQmZ3SlUzdUFodVZtT3FZdHZvTmx0WjZzUlB3QWZHMHZMaWt0dm9uUUZvSHZrbXRYZ1g3RElFcW13Q2hlQVZPVk11M2pBUDl5OVo3d3RuMUpJTlNlUzNiSGtpSGlhVmxQd2RQVVF3aEowVEcxRkNKdXBZV1lYUC0zTWsteUlUOTFlSU1qWjFCOHo1MkpxUHcySG5nc1JxRTVyLW5pRzZRbXNkWDNieG44aU9nRldjbzFsWlhIZi11V1dkbXd1ZHppVDVONDNUeXBnczVmemM5V25HVVh1cmFfcGZBOFJxeGlUX1U?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOTFHRzljMTA1ZkpSSWdueTVYeU5wVWk0ZE11R19EX3Q3enl2SWsxbTJWd2ZVRHVXVVRFdExrNlRST2ZOUGRJUEpLX2w1TkhLSGlBNTFUTDFqenpKbVhQcktUY2s0V3lVNGU0WWplakVKYVFqRlk2QlZxTDNNNmdsdE5XcUtVNmZuVndYMER4ck5XLWZQNGtlMXlaUjlDbEhkMHNPVUl3OC00MEo1UmY3WXFhdUtoal94QW9fWVZEQmlIci1kYWFHNnF6WXM5c19lOGxtZ09rbEZpZUgxTXdoMm03a3fSAeQBQVVfeXFMTnlUdG9BdjhYWndQNFdQb1lrMHJVcTFIWEt2NnJPYlRFeXRtWUJZVkxBQlJ6SVE4S1pDOXhZSnlzX3hNdU9lUFNENmhoZEtic2s3bHNzWk5kSWVDMGhTejFwVEdhN0Q4aWpNZ1dnSTM2bkloa1d4c3pDZ2FZdUFpNjlOR3FsMHU0dE1XOWVJLVZKNEtKRVIwSEd1NzZlNzFXQzB2dGFuWnlmcGFBbEkzdGVNUlh2RnBvdGtlZ0xHNURWWk0tU3NVcE5JMW5UekZYd1FMR0ZFVzBFQVkzSExiaWUtNFdl?oc=5"
       }
      ]
     }
@@ -11185,7 +11185,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
+   "actualizado": "2026-11-05T09:40+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
@@ -11209,22 +11209,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Tomas Machac, ganó 6-3 7-6",
      "noticias": [
       {
+       "titulo": "Masters 1000 París – Fils vs. Fritz: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpka3J4cGpDRVhrWE5qTjNvME1WS0w5aUdBOWhzU2tlQUFUNURZTDE4eUwtY3cxUU9VUkxORmRUUU45X3JsSXFyay1aUHFXZ0xXcTFhdnhBTWdqQnBZN0lJQ3BlRndIYUFpZV9pa2RXdkJ4SnRnRS0yWDBTRVNPUXV5czVpUUdEcXhKU19LUy1Ock9IclNkU0hXbFZicUpKSWYwU1VMclhNUHZIblJCdlJEQmJDdw?oc=5"
+      },
+      {
+       "titulo": "Fils, emocionado tras su última victoria: \"Lo echaba de menos\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3Raa203bldLSDg2czJkdGl3ekU2TTQta0xfR2lvTjhnMm9ZSzRFbTdkTUVlVGQ0anVrYk9KNnQwbkNseExhRHV3cllFYjU1NG1kdzlNSUctTG9TckRvdEV2UDlMSnh0bnZrRU1LbEtOQTFvbkthZ3otNmNUUlE0cFJRSXQ?oc=5"
+      },
+      {
        "titulo": "Arthur Fils vs Tomás Macháč · Round 2 · ATP Paris - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm4wSGxWQWdUWUh4eVhKMkxsQW12UU5Jel8zZFUydWpVRGhiMGoyS3JveXp0Z2x6LXU2MnEzQjRVTFB3YWRsZUNGbG40ZTlmM2RfZWFINGlPNmhIb3NCUjdvRGU5and2ZHU0ZHFCWEpSUmxaUXFTbEFya1RmQk5qcDhfQm5hc0dLRGlucnloMFd4MGJGS0NvOE9pcHdWZGVCcHpxa2V5cnlVR19jOXZIWA?oc=5"
-      },
-      {
-       "titulo": "Highlights: Fils puede con Machac en París - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1dTMzJEZVA4WDFpdVF0U2V0QlUydExibWItS3cxS3JvV2VWbV90dWc1S1NUWFp3dktlMWtHNVVOakdQTEgtaVFfbW1mQlJ6aEJyQTNna0l2LW9kY3dLcWhiUU1qVzhubVFGeldIcW5RUU5Gb05kV25Vdll0UHNYZkdUbmc0MjlLRFZDQzl3OW5ScG9FcWlmclVubw?oc=5"
       }
      ]
     },
@@ -11243,22 +11243,22 @@
      "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Masters 1000 París – Fils vs. Fritz: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpka3J4cGpDRVhrWE5qTjNvME1WS0w5aUdBOWhzU2tlQUFUNURZTDE4eUwtY3cxUU9VUkxORmRUUU45X3JsSXFyay1aUHFXZ0xXcTFhdnhBTWdqQnBZN0lJQ3BlRndIYUFpZV9pa2RXdkJ4SnRnRS0yWDBTRVNPUXV5czVpUUdEcXhKU19LUy1Ock9IclNkU0hXbFZicUpKSWYwU1VMclhNUHZIblJCdlJEQmJDdw?oc=5"
+      },
+      {
+       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+      },
+      {
        "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-04",
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm4wSGxWQWdUWUh4eVhKMkxsQW12UU5Jel8zZFUydWpVRGhiMGoyS3JveXp0Z2x6LXU2MnEzQjRVTFB3YWRsZUNGbG40ZTlmM2RfZWFINGlPNmhIb3NCUjdvRGU5and2ZHU0ZHFCWEpSUmxaUXFTbEFya1RmQk5qcDhfQm5hc0dLRGlucnloMFd4MGJGS0NvOE9pcHdWZGVCcHpxa2V5cnlVR19jOXZIWA?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils vs Taylor Fritz · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVRoQWxBa05keFVyY3NpTjJQSUlhS3MtTmtORm9LYUZaeFFJS1VXYUd2UW9RU3pvd01mVHRIaVhZaHl2MDE3eFlmZDdteGp3YmV3WUJlbll3dG9xXzdZLWpmQ0RNODI4WFdCcnlLcUlXRFRzanN5NTVNRkVSSDQyVkdqZ3ZFVkFfWmc3UWt1amhUX3ltMnc?oc=5"
-      },
-      {
-       "titulo": "Highlights: Fritz derrota a su buen amigo Paul rumbo a la final en Lyon - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1hub0JrTVpiSGwzV200VkZJbXE1aEZLU1BHaV9rbEZzSHFVcUJJNGEzRnowTEkxVnhsUHJqWmtPd1JTdnRCUDVNSUpLZ2diTU5IRGRqSVFZVjNjbEZsM3lyNTJuOEF6cl9LMkdRdGpxR0w2U0dnVndUUjUzNTVpVU54ckRBVlNreXNzNlEyamZjb1hZWTJmeExHeGd1aUlTZXRDd0JyMA?oc=5"
       }
      ]
     }
