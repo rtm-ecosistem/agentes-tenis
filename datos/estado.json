@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.057,
      "sorpresa": 0.4,
-     "impaciencia": 0.138,
+     "impaciencia": 0.137,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T01:52+00:00",
+    "hora": "2026-11-05T02:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T01:52+00:00",
+    "hora": "2026-11-05T02:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T01:52+00:00",
+    "hora": "2026-11-05T02:10+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T01:52+00:00",
+    "hora": "2026-11-05T02:10+00:00",
     "rent": 0.0
    }
   }
