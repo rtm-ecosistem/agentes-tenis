@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.051,
      "sorpresa": 0.4,
-     "impaciencia": 0.12,
+     "impaciencia": 0.119,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 7 días sin apostar."
     },
-    "hora": "2026-11-05T11:10+00:00",
+    "hora": "2026-11-05T11:37+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.091,
+     "impaciencia": 0.09,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T11:10+00:00",
+    "hora": "2026-11-05T11:37+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T11:10+00:00",
+    "hora": "2026-11-05T11:37+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.091,
+     "impaciencia": 0.09,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-05T11:10+00:00",
+    "hora": "2026-11-05T11:37+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-02T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Kyrian Jacquet – Tomas Machac, Alex Molcan – Titouan Droguet, Ugo Humbert – Botic van de Zandschulp: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-02T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-02T13:52+00:00",
    "texto": "📰 Noticias nuevas de Alex Molcan – Titouan Droguet: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-05T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T11:37+00:00",
+   "texto": "📰 Noticias nuevas de Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-05T11:37+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,10 +2618,19 @@
  "ultima_decision": "2026-11-05",
  "ultima_sala": "2026-11-04-20",
  "noticias_vistas": [
+  "756324bce4a4",
+  "1370fcca6193",
+  "4ecb265f3fd3",
+  "8e68b8df9a60",
+  "25e157ea5233",
+  "eb0e9e8dec68",
+  "32d68a1c7fd1",
+  "92ee25f2ac65",
+  "7a22a129097f",
   "b480d3f3db68",
   "7cece8c7f09f",
   "094168271ff1",
-  "92ee25f2ac65",
+  "e4cc76054e36",
   "c09d5fe0042a",
   "ddeb3e784143",
   "1a0f152086ff",
@@ -2648,6 +2657,7 @@
   "e6668d2bf09d",
   "38221d072b69",
   "87872249bfd5",
+  "644d6719b3d9",
   "9e055326b416",
   "675683aac703",
   "d11490b918de",
@@ -2697,6 +2707,7 @@
   "3ec2f572f6cd",
   "20627e47a7af",
   "a9aedabb2d1b",
+  "e9840684a7a7",
   "47c4007a7c62",
   "816e81396057",
   "afe4d94cd898",
@@ -3001,6 +3012,7 @@
   "ff04a5805172",
   "e8bfcf2c9229",
   "8ce2345723cd",
+  "0ce3172ac0d7",
   "1d289a5c8fad",
   "70805d050c8e",
   "a45ae1d6e020",
@@ -3405,19 +3417,7 @@
   "a0c547aa2857",
   "8a560f3748df",
   "70737a6b273a",
-  "13c7e0632710",
-  "a200cc3368ae",
-  "19bda1f3176d",
-  "c641e383119e",
-  "0a0e632c0c63",
-  "8a739d4a24d9",
-  "823f025bd3a0",
-  "0264a5d2a49e",
-  "a7d435098e94",
-  "e6254b902a68",
-  "75c2d6e4bd62",
-  "df0e158b3b81",
-  "bbd857feb072"
+  "13c7e0632710"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10745,7 +10745,7 @@
    "inicio": "2026-11-05T12:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.772,
    "elo_general": 0.766,
    "elo_en_superficie": 0.778,
@@ -10833,7 +10833,7 @@
    "inicio": "2026-11-05T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.584,
    "elo_general": 0.584,
    "elo_en_superficie": 0.585,
@@ -10921,7 +10921,7 @@
    "inicio": "2026-11-05T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.548,
    "elo_general": 0.532,
    "elo_en_superficie": 0.564,
@@ -11009,7 +11009,7 @@
    "inicio": "2026-11-05T15:20+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.417,
    "elo_general": 0.42,
    "elo_en_superficie": 0.414,
@@ -11097,7 +11097,7 @@
    "inicio": "2026-11-05T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.08,
    "elo_general": 0.077,
    "elo_en_superficie": 0.083,
@@ -11121,22 +11121,22 @@
      "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-11-04 contra Ugo Humbert, ganó 7-6 7-5",
      "noticias": [
       {
-       "titulo": "¿A qué hora se juega el Alcaraz - Berrettini? Canal TV, horario, cómo y dónde ver el Masters 1.000 de París - Diario AS",
+       "titulo": "Alcaraz, a cuartos sin jugar por la retirada de Berrettini - Diario AS",
        "fuente": "Diario AS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLWZqQzduY0ZHTzBHUmZWVE1DZjAybmJuZlY0TlFjdk5aSTZEbVBNX25SbmprWTZQZXlaRWRGdWpQbnIydUktUXl0WFNUei1xc0JxUUZ6VW9sYzlZR0diVHA4V05ibUNkNEI1b1lBOWFFWWNFYUo5UDVUZFpQY0ZySi0tdDhLaU1ETzhfanNvdThvOFdFamFXRG9ib3lNVDFfQUktUS1mXzA2Y0laYjVnSDlkamwyLXBlUGFyV3p1VFNLMWRtS3piUkN4WGVfNzZpb19pVEZrc3J6ZDlUVFHSAfIBQVVfeXFMUDR2aVpSQU1FbnE0WU5SUzFIdDFKQWxrU0hjb3RDdXlfS0dWMW9mSXE0VG55aWRFMGZyNjd2YVdMTWw4MTVfcG9TOHh1MDhsUXktTjhFWno5bDR5S3h0RTBla1JPTUM5RFZISGFKUG9rY2tNRnhuaHlza2RzRTR4RU1fRmcwTVRMRTRHMW5MZDRnR1V6Sy1aOENFMWhxdm1YaGpjNXMxT09qWV9XMHlERG1sZ0tOWno1bDJ2a0RRY3RMSXlmNlhSR1lGZGdhXzlRRWpoN2JDOXlxRmxsV0FKS2Z0OVZ3Z1FfWGRBZTJLcW9tNmc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVZJNU5keDBXaFJvbmh5Ymcwa0dsd1pIYXVUNXRZa2FCc3ZFUU1lTWlBeVNHbmNYSFllYTZCVDA5WEF0ZXlQT0R4UkNsMEhCTGJOTXFmZGUyQzg1LU9zWS1lWFgya3NUUWJhUUtfLU5fMkdoOG9PaEMxRVJSc0dxdy16ZUU4Z093VGxLY2NUS1RFMXVTNjlWSDhwR003bXRUcExTb9IBuAFBVV95cUxNa3U5RjBwMmZodXd3S2R6ckIwV01qU0oySjQ4QnNzN1cxekoyX0hzZXFjcWRLU1JCQ1VJdlhtMk9mMUhlVkhFRTBaUHRQV0E3aHQ1U2ViU2kxck1IZnc3ZVpvNjFsZDVBQXBtcmJYYUoyVXlvdkpicnp0UGMwazBvQ2NkMTJFS2tIVVNzY2FvellCdTQ2blJNQ1o3ZXpBNW1RRnM2UmJhQVdJWk5nZWpIM1BHbXVxLU1j?oc=5"
       },
       {
-       "titulo": "Alcaraz - Berretini: horario y dónde ver por TV el partido del Masters 1000 de París - El Mundo",
-       "fuente": "El Mundo",
+       "titulo": "Alcaraz avanza sin desgaste a cuartos en París tras la retirada de Berrettini - murciaeconomia.com",
+       "fuente": "murciaeconomia.com",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjdjFidkxoVDd4NUlTOXpOTklGYzRjWFNsenBjMTkxZ1pSYXBJaWhTb2hNalpEY3B6em5rRVRZOFRCQVRUcGI4UVZVc0ZXSWZ3c1M3VjlROXhITkRCV3ZLTElwNmZvNk5DZnlfajVEb0hIcXJCZVBz0gF3QVVfeXFMT1RRWGc5SjhKVEhHT1JZOWItQXlnZEVSamR2OW8tZ25QZUZBa09ZcXJXZW9FMm5yd05kTjZTZmFFN1F2ZkJ1bzA1NVRrb2lxM3prSm1scGx5UjQ3dS1MeHJpQlI5Q0FZdjNYVzRxMktreC10ckVZdGc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVd0cDVsWnp5VzZGbkhjRjR1YTctRVdsT3g5MDZWYlZZUm54czVpX0d3WE95YXhDYXgzQ0tFbHQ3Q3RrWFpZcGdvdEtrTGp4VHAtMUswdGdKU2lxYWI1UFZDam9xUGdVa1pOV3hlRHhFX0gwM2xsNkZ3bmxFeDY3SUEzZ3V0aDZKeWZvLXItSmpWNTNwS3NXeEplS0NBbmI0Nm03QVFtbFpwNXlXWE1uRDFGbEtKekk?oc=5"
       },
       {
-       "titulo": "Alcaraz se juega los cuartos en París: a qué hora juega hoy y dónde verlo por TV - Superdeporte",
-       "fuente": "Superdeporte",
+       "titulo": "Carlos Alcaraz pasa a cuartos de final del Masters de París tras la lesión de Berrettini - La Verdad",
+       "fuente": "La Verdad",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWp3QnpzaGhnUVhTQjBBUmU1bXpFUlBwNFoxNlNBUkVaREg1WUxpWTNnRHQ5b3BQOWZINkl6YlNEZVliV2JxRl9GNnJkWHlfbmtCRW0xaS1Sem40YjhVbDdWcXhTRXZPaEJYWUtiTnRzYnpwWDhFZVRocmxzZFQ5ektPMmdXVDlxN08zXzJZdmlTWVh2ZGU2YmV1d2c2dnlGWC1CNWIyOGVISnNaS1MxWnotY9IBuAFBVV95cUxPV0xxclA5NzBIYkJxQ1N3bmRzcEFjZVR1TDVrNzE5RWo3WG1pNmFCbUdKc1dsaXJ1SXNmMlQ1dVJwWC1QalpSVElLaEVPU0c0dEVSRENyWHFLWWsyUnpCM2tHeHdRRlkzRjVmcTVBSXNfNENqQURPbExiZVc5b2lUbmZNVGE3SVFSdTZpLVVXRFRGUnhyVExfNmFWT3J2YjY4VVdmTDRkRktKWk5jakRZVGFfVjc3X2Z3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGRBbzJnT2gwVXV1aS1nTXBEa1NGb2RMcDc4eXVpMVpQbGZyd0VvTHE0eHdhVWdyZVRiTVlsbzd0dU9zY1NYb2tjZnR2T1NnNm5TQzBqMmlVZkxOVUVPMjg1bW9Hc0FtTEw1Wm9lNDJ6VFR3YzhsM3R6RFg0SVVsMHJIdEp1Z1c0bUhuVElQNXN1SE5IWG5oamwybjR3UXZkYkpxeURuWDd4V25RdnfSAbMBQVVfeXFMTUQzallGVV9lRm41ZkUxUTYwYWVFbGdzeWtpNllQd19ScWdWWUdDUW1DMjlPTC1ZRklVc0FDNFlLNXltMGs0LTI3R2VLOWdNVkh5R1ZSMzE4LWphWXhxMWRZazVSSTE5N09TeGNVOERGWml0aHNXdkp6Wml3ZTNkN1dnSkl2MmdLeUlZUi0tNVhpUUdQdU95aGVqOFUxYVVkYnRPZVJ5aGlTMTB2NTZlX3ZCQVU?oc=5"
       }
      ]
     },
@@ -11155,22 +11155,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
-       "titulo": "¿A qué hora se juega el Alcaraz - Berrettini? Canal TV, horario, cómo y dónde ver el Masters 1.000 de París - Diario AS",
+       "titulo": "Alcaraz, a cuartos sin jugar por la retirada de Berrettini - Diario AS",
        "fuente": "Diario AS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLWZqQzduY0ZHTzBHUmZWVE1DZjAybmJuZlY0TlFjdk5aSTZEbVBNX25SbmprWTZQZXlaRWRGdWpQbnIydUktUXl0WFNUei1xc0JxUUZ6VW9sYzlZR0diVHA4V05ibUNkNEI1b1lBOWFFWWNFYUo5UDVUZFpQY0ZySi0tdDhLaU1ETzhfanNvdThvOFdFamFXRG9ib3lNVDFfQUktUS1mXzA2Y0laYjVnSDlkamwyLXBlUGFyV3p1VFNLMWRtS3piUkN4WGVfNzZpb19pVEZrc3J6ZDlUVFHSAfIBQVVfeXFMUDR2aVpSQU1FbnE0WU5SUzFIdDFKQWxrU0hjb3RDdXlfS0dWMW9mSXE0VG55aWRFMGZyNjd2YVdMTWw4MTVfcG9TOHh1MDhsUXktTjhFWno5bDR5S3h0RTBla1JPTUM5RFZISGFKUG9rY2tNRnhuaHlza2RzRTR4RU1fRmcwTVRMRTRHMW5MZDRnR1V6Sy1aOENFMWhxdm1YaGpjNXMxT09qWV9XMHlERG1sZ0tOWno1bDJ2a0RRY3RMSXlmNlhSR1lGZGdhXzlRRWpoN2JDOXlxRmxsV0FKS2Z0OVZ3Z1FfWGRBZTJLcW9tNmc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVZJNU5keDBXaFJvbmh5Ymcwa0dsd1pIYXVUNXRZa2FCc3ZFUU1lTWlBeVNHbmNYSFllYTZCVDA5WEF0ZXlQT0R4UkNsMEhCTGJOTXFmZGUyQzg1LU9zWS1lWFgya3NUUWJhUUtfLU5fMkdoOG9PaEMxRVJSc0dxdy16ZUU4Z093VGxLY2NUS1RFMXVTNjlWSDhwR003bXRUcExTb9IBuAFBVV95cUxNa3U5RjBwMmZodXd3S2R6ckIwV01qU0oySjQ4QnNzN1cxekoyX0hzZXFjcWRLU1JCQ1VJdlhtMk9mMUhlVkhFRTBaUHRQV0E3aHQ1U2ViU2kxck1IZnc3ZVpvNjFsZDVBQXBtcmJYYUoyVXlvdkpicnp0UGMwazBvQ2NkMTJFS2tIVVNzY2FvellCdTQ2blJNQ1o3ZXpBNW1RRnM2UmJhQVdJWk5nZWpIM1BHbXVxLU1j?oc=5"
       },
       {
-       "titulo": "Alcaraz - Berretini: horario y dónde ver por TV el partido del Masters 1000 de París - El Mundo",
-       "fuente": "El Mundo",
+       "titulo": "Alcaraz avanza sin desgaste a cuartos en París tras la retirada de Berrettini - murciaeconomia.com",
+       "fuente": "murciaeconomia.com",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjdjFidkxoVDd4NUlTOXpOTklGYzRjWFNsenBjMTkxZ1pSYXBJaWhTb2hNalpEY3B6em5rRVRZOFRCQVRUcGI4UVZVc0ZXSWZ3c1M3VjlROXhITkRCV3ZLTElwNmZvNk5DZnlfajVEb0hIcXJCZVBz0gF3QVVfeXFMT1RRWGc5SjhKVEhHT1JZOWItQXlnZEVSamR2OW8tZ25QZUZBa09ZcXJXZW9FMm5yd05kTjZTZmFFN1F2ZkJ1bzA1NVRrb2lxM3prSm1scGx5UjQ3dS1MeHJpQlI5Q0FZdjNYVzRxMktreC10ckVZdGc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVd0cDVsWnp5VzZGbkhjRjR1YTctRVdsT3g5MDZWYlZZUm54czVpX0d3WE95YXhDYXgzQ0tFbHQ3Q3RrWFpZcGdvdEtrTGp4VHAtMUswdGdKU2lxYWI1UFZDam9xUGdVa1pOV3hlRHhFX0gwM2xsNkZ3bmxFeDY3SUEzZ3V0aDZKeWZvLXItSmpWNTNwS3NXeEplS0NBbmI0Nm03QVFtbFpwNXlXWE1uRDFGbEtKekk?oc=5"
       },
       {
-       "titulo": "Alcaraz se juega los cuartos en París: a qué hora juega hoy y dónde verlo por TV - Superdeporte",
-       "fuente": "Superdeporte",
+       "titulo": "Carlos Alcaraz pasa a cuartos de final del Masters de París tras la lesión de Berrettini - La Verdad",
+       "fuente": "La Verdad",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWp3QnpzaGhnUVhTQjBBUmU1bXpFUlBwNFoxNlNBUkVaREg1WUxpWTNnRHQ5b3BQOWZINkl6YlNEZVliV2JxRl9GNnJkWHlfbmtCRW0xaS1Sem40YjhVbDdWcXhTRXZPaEJYWUtiTnRzYnpwWDhFZVRocmxzZFQ5ektPMmdXVDlxN08zXzJZdmlTWVh2ZGU2YmV1d2c2dnlGWC1CNWIyOGVISnNaS1MxWnotY9IBuAFBVV95cUxPV0xxclA5NzBIYkJxQ1N3bmRzcEFjZVR1TDVrNzE5RWo3WG1pNmFCbUdKc1dsaXJ1SXNmMlQ1dVJwWC1QalpSVElLaEVPU0c0dEVSRENyWHFLWWsyUnpCM2tHeHdRRlkzRjVmcTVBSXNfNENqQURPbExiZVc5b2lUbmZNVGE3SVFSdTZpLVVXRFRGUnhyVExfNmFWT3J2YjY4VVdmTDRkRktKWk5jakRZVGFfVjc3X2Z3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGRBbzJnT2gwVXV1aS1nTXBEa1NGb2RMcDc4eXVpMVpQbGZyd0VvTHE0eHdhVWdyZVRiTVlsbzd0dU9zY1NYb2tjZnR2T1NnNm5TQzBqMmlVZkxOVUVPMjg1bW9Hc0FtTEw1Wm9lNDJ6VFR3YzhsM3R6RFg0SVVsMHJIdEp1Z1c0bUhuVElQNXN1SE5IWG5oamwybjR3UXZkYkpxeURuWDd4V25RdnfSAbMBQVVfeXFMTUQzallGVV9lRm41ZkUxUTYwYWVFbGdzeWtpNllQd19ScWdWWUdDUW1DMjlPTC1ZRklVc0FDNFlLNXltMGs0LTI3R2VLOWdNVkh5R1ZSMzE4LWphWXhxMWRZazVSSTE5N09TeGNVOERGWml0aHNXdkp6Wml3ZTNkN1dnSkl2MmdLeUlZUi0tNVhpUUdQdU95aGVqOFUxYVVkYnRPZVJ5aGlTMTB2NTZlX3ZCQVU?oc=5"
       }
      ]
     }
@@ -11185,7 +11185,7 @@
    "inicio": "2026-11-05T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-05T11:10+00:00",
+   "actualizado": "2026-11-05T11:37+00:00",
    "elo": 0.577,
    "elo_general": 0.603,
    "elo_en_superficie": 0.552,
@@ -11243,22 +11243,22 @@
      "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
      "noticias": [
       {
-       "titulo": "Masters 1000 París – Fils vs. Fritz: fecha, horario y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
+       "titulo": "Alcaraz, a cuartos sin jugar por la retirada de Berrettini - Diario AS",
+       "fuente": "Diario AS",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpka3J4cGpDRVhrWE5qTjNvME1WS0w5aUdBOWhzU2tlQUFUNURZTDE4eUwtY3cxUU9VUkxORmRUUU45X3JsSXFyay1aUHFXZ0xXcTFhdnhBTWdqQnBZN0lJQ3BlRndIYUFpZV9pa2RXdkJ4SnRnRS0yWDBTRVNPUXV5czVpUUdEcXhKU19LUy1Ock9IclNkU0hXbFZicUpKSWYwU1VMclhNUHZIblJCdlJEQmJDdw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVZJNU5keDBXaFJvbmh5Ymcwa0dsd1pIYXVUNXRZa2FCc3ZFUU1lTWlBeVNHbmNYSFllYTZCVDA5WEF0ZXlQT0R4UkNsMEhCTGJOTXFmZGUyQzg1LU9zWS1lWFgya3NUUWJhUUtfLU5fMkdoOG9PaEMxRVJSc0dxdy16ZUU4Z093VGxLY2NUS1RFMXVTNjlWSDhwR003bXRUcExTb9IBuAFBVV95cUxNa3U5RjBwMmZodXd3S2R6ckIwV01qU0oySjQ4QnNzN1cxekoyX0hzZXFjcWRLU1JCQ1VJdlhtMk9mMUhlVkhFRTBaUHRQV0E3aHQ1U2ViU2kxck1IZnc3ZVpvNjFsZDVBQXBtcmJYYUoyVXlvdkpicnp0UGMwazBvQ2NkMTJFS2tIVVNzY2FvellCdTQ2blJNQ1o3ZXpBNW1RRnM2UmJhQVdJWk5nZWpIM1BHbXVxLU1j?oc=5"
       },
       {
-       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Alcaraz avanza sin desgaste a cuartos en París tras la retirada de Berrettini - murciaeconomia.com",
+       "fuente": "murciaeconomia.com",
        "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTVd0cDVsWnp5VzZGbkhjRjR1YTctRVdsT3g5MDZWYlZZUm54czVpX0d3WE95YXhDYXgzQ0tFbHQ3Q3RrWFpZcGdvdEtrTGp4VHAtMUswdGdKU2lxYWI1UFZDam9xUGdVa1pOV3hlRHhFX0gwM2xsNkZ3bmxFeDY3SUEzZ3V0aDZKeWZvLXItSmpWNTNwS3NXeEplS0NBbmI0Nm03QVFtbFpwNXlXWE1uRDFGbEtKekk?oc=5"
       },
       {
-       "titulo": "Arthur Fils - Taylor Fritz en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWm4wSGxWQWdUWUh4eVhKMkxsQW12UU5Jel8zZFUydWpVRGhiMGoyS3JveXp0Z2x6LXU2MnEzQjRVTFB3YWRsZUNGbG40ZTlmM2RfZWFINGlPNmhIb3NCUjdvRGU5and2ZHU0ZHFCWEpSUmxaUXFTbEFya1RmQk5qcDhfQm5hc0dLRGlucnloMFd4MGJGS0NvOE9pcHdWZGVCcHpxa2V5cnlVR19jOXZIWA?oc=5"
+       "titulo": "Alcaraz accede a cuartos de París por lesión de Berrettini - Onda Regional de Murcia | ORM",
+       "fuente": "Onda Regional de Murcia | ORM",
+       "fecha": "2026-11-05",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjV6cFQ3X0ZYdmNXODNScTRKc2E1aENRX0xybzRfa1pmYkZTaGU1cnVYUXBrT1JBanZqYnBNMUdXbUlWSXA4VHVIWnlDd1l0cXBYMGdqU3lMV0lTaGU0c2VvTEFaRW8xV2NmX1U0WkhVV2cwbGZvVVI3LUNQNkE5YWFsbTM2S1Y3YzJNdHBJSUU?oc=5"
       }
      ]
     }

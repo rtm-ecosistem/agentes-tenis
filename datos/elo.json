@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T11:10+00:00",
+ "actualizado": "2026-11-05T11:37+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14823,19 +14823,18 @@
    "nombre": "Li Zongyu",
    "circuito": "WTA",
    "elo": {
-    "all": 1473.6,
-    "hard": 1473.4,
+    "all": 1456.9,
+    "hard": 1456.4,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 10,
-    "hard": 10,
+    "all": 11,
+    "hard": 11,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2025-10-25 P hard vs Elena Pridankina",
     "2026-05-02 G hard vs Dang Yiming",
     "2026-05-03 G hard vs Priska Nugroho",
     "2026-05-04 G hard vs Zheng Wushuang",
@@ -14844,7 +14843,8 @@
     "2026-10-04 P hard vs Lu Jia-Jing",
     "2026-10-11 G hard vs Isabella Maria Serban",
     "2026-10-26 P hard vs Gaia Maduzzi",
-    "2026-11-03 G hard vs Ana Sofia Sanchez"
+    "2026-11-03 G hard vs Ana Sofia Sanchez",
+    "2026-11-05 P hard vs Anna Blinkova"
    ]
   },
   "young suh lee|c": {
@@ -16598,19 +16598,18 @@
    "nombre": "Moyuka Uchijima",
    "circuito": "WTA",
    "elo": {
-    "all": 1556.4,
-    "hard": 1622.2,
+    "all": 1533.3,
+    "hard": 1591.1,
     "clay": 1357.8,
     "grass": 1434.3
    },
    "n": {
-    "all": 54,
-    "hard": 49,
+    "all": 55,
+    "hard": 50,
     "clay": 4,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-04 P hard vs Aryna Sabalenka",
     "2026-08-12 P hard vs Harriet Dart",
     "2026-08-25 G hard vs Polona Hercog",
     "2026-08-26 P hard vs Lucie Havlickova",
@@ -16619,7 +16618,8 @@
     "2026-10-20 G hard vs Ena Shibahara",
     "2026-10-22 P hard vs Mary Stoiana",
     "2026-10-26 P hard vs Elise Mertens",
-    "2026-11-03 G hard vs Rebecca Sramkova"
+    "2026-11-03 G hard vs Rebecca Sramkova",
+    "2026-11-05 P hard vs Magda Linette"
    ]
   },
   "fernandez|l": {
@@ -16850,19 +16850,18 @@
    "nombre": "Anna Blinkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1716.1,
-    "hard": 1713.4,
+    "all": 1724.8,
+    "hard": 1722.9,
     "clay": 1360.6,
     "grass": 1531.3
    },
    "n": {
-    "all": 73,
-    "hard": 60,
+    "all": 74,
+    "hard": 61,
     "clay": 6,
     "grass": 7
    },
    "ultimos": [
-    "2026-10-01 P hard vs Lois Boisson",
     "2026-10-07 G hard vs Elena Pridankina",
     "2026-10-08 G hard vs Caroline Werner",
     "2026-10-09 G hard vs Bianca Andreescu",
@@ -16871,7 +16870,8 @@
     "2026-10-29 G hard vs Katarina Zavatska",
     "2026-10-30 G hard vs Martyna Kubka",
     "2026-10-31 P hard vs Noma Noha Akugue",
-    "2026-11-03 G hard vs Farah Heddar"
+    "2026-11-03 G hard vs Farah Heddar",
+    "2026-11-05 G hard vs Li Zongyu"
    ]
   },
   "golubic|v": {
@@ -22810,19 +22810,18 @@
    "nombre": "Magda Linette",
    "circuito": "ATP",
    "elo": {
-    "all": 1576.1,
-    "hard": 1542.2,
+    "all": 1600.8,
+    "hard": 1576.0,
     "clay": 1568.5,
     "grass": 1422.8
    },
    "n": {
-    "all": 45,
-    "hard": 39,
+    "all": 46,
+    "hard": 40,
     "clay": 5,
     "grass": 1
    },
    "ultimos": [
-    "2026-08-13 P hard vs Elena-Gabriela Ruse",
     "2026-09-02 P hard vs Francesca Jones",
     "2026-09-21 P hard vs Darya Astakhova",
     "2026-10-01 P hard vs Katerina Siniakova",
@@ -22831,7 +22830,8 @@
     "2026-10-22 P hard vs Katerina Siniakova",
     "2026-10-27 G hard vs Anastasia Zakharova",
     "2026-10-29 P hard vs Lilli Tagger",
-    "2026-11-03 G hard vs Aliona Falei"
+    "2026-11-03 G hard vs Aliona Falei",
+    "2026-11-05 G hard vs Moyuka Uchijima"
    ]
   },
   "williams|v": {
@@ -91925,7 +91925,15 @@
   "kroitor|k~zaytseva|k": [
    0,
    1
+  ],
+  "linette|m~uchijima|m": [
+   1,
+   0
+  ],
+  "blinkova|a~zongyu|l": [
+   1,
+   0
   ]
  },
- "propios": 10646
+ "propios": 10648
 }
