@@ -2616,7 +2616,7 @@
   "betsson": 4008
  },
  "ultima_decision": "2026-11-06",
- "ultima_sala": "2026-11-06-14",
+ "ultima_sala": "2026-11-06-20",
  "noticias_vistas": [
   "370465d4c8c4",
   "cb00d608c633",
@@ -3444,182 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "e66be09cbf07f4ca7b22ef19c32bcb30": {
-   "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
-   "jugadores": [
-    "Jan-Lennard Struff",
-    "Nuno Borges"
-   ],
-   "inicio": "2026-10-30T18:10+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T16:10+00:00",
-   "elo": 0.497,
-   "elo_general": 0.502,
-   "elo_en_superficie": 0.492,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Jan-Lennard Struff",
-     "mercado": 0.538,
-     "elo": 1727,
-     "elo_superficie": 1692,
-     "forma": [
-      "G hard vs Zizou Bergs",
-      "G hard vs Arthur Fils",
-      "P hard vs Tallon Griekspoor",
-      "G hard vs Yannick Hanfmann",
-      "G hard vs Novak Djokovic"
-     ],
-     "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-10-29 contra Novak Djokovic, ganó 6-7 7-5 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Novak Djokovic sufrió un nuevo 'golpe'; eliminado en octavos de final del ATP de Basilea - Noticias Caracol",
-       "fuente": "Noticias Caracol",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORkR4YzdxYlhXYkFvWnZwYThGOHZPMTU4XzdwUFpBS0gwMXVSMlYzSGxwSWVMMHZFZHBmT1VDanoyNjlnRVVrRXNWWnRVN0tYTmNHX2ZNR3VQV20yM0d6d3ZOYWhOWEx3bHp2cjY0WWJLSjF4WXlmanZySFhPOWhlS0I1R1diOWZkZHVSNm5sNzJnX1NlSC1ZNGN6NGFZRHFKZi1ZYkhSY0VFc25ZbDEwNEl6N3d5VF9hZlpnN1lMTDZtR285RVBydklCUG9wY0JRREFoWjlDa3NYUDlsRzlieUtOY9IB4wFBVV95cUxORkR4YzdxYlhXYkFvWnZwYThGOHZPMTU4XzdwUFpBS0gwMXVSMlYzSGxwSWVMMHZFZHBmT1VDanoyNjlnRVVrRXNWWnRVN0tYTmNHX2ZNR3VQV20yM0d6d3ZOYWhOWEx3bHp2cjY0WWJLSjF4WXlmanZySFhPOWhlS0I1R1diOWZkZHVSNm5sNzJnX1NlSC1ZNGN6NGFZRHFKZi1ZYkhSY0VFc25ZbDEwNEl6N3d5VF9hZlpnN1lMTDZtR285RVBydklCUG9wY0JRREFoWjlDa3NYUDlsRzlieUtOYw?oc=5"
-      },
-      {
-       "titulo": "Highlights: Medvedev supera a Struff en su debut en Shanghái 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb005Nm5PNnNDTVp5RC1jR2Y1Vmw0V1YyUUU1RzZRVHp4dVlkVlhEZW1scXZabDVsTUg0eDZnNS1iYXZ1VjVoS2I4aFdfcWxZRjdYWFJiVml4Y0E2R0VVUkw5eldjWmV4V2d1NERTbWhfeWVEdEdITm9yU2V0dDh0a28wWVY5em44Nm1ZRWZyWV9BTHZZOEE?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jan-Lennard Struff Nuno Borges - ATP Basilea 30/10/26 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclVoMlNud0RzWXlVVEgwazA4RTFzRHdUbG03ZkpUcHpVR3p0eGpTUjNJVFlDcWNFZUZHLTFheXZqZFpLakZwTi14Z2htSFhOY1JhN2RvOVVzZzFuVjh2QW5DVlFtcjRxLWJYT1d4QkRoWm1TYnMyaGV5WW1rM0tsRzZ3RFNuZnBTMVE?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Nuno Borges",
-     "mercado": 0.462,
-     "elo": 1726,
-     "elo_superficie": 1698,
-     "forma": [
-      "P hard vs Novak Djokovic",
-      "G hard vs Facundo Diaz Acosta",
-      "P hard vs Jiri Lehecka",
-      "G hard vs Mika Brunold",
-      "G hard vs Casper Ruud"
-     ],
-     "cansancio": "1 partidos, 3 sets y 26 juegos en 3 días; el último el 2026-10-28 contra Casper Ruud, ganó 1-6 6-3 6-4",
-     "noticias": [
-      {
-       "titulo": "Henrique Rocha vence a un jugador del top 20 y se une a Nuno Borges en la tercera ronda de Roland-Garros - Portugal Resident",
-       "fuente": "Portugal Resident",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2ZqeFM4bTVqZ1ZGRDBjZWRDWGJhdjgwVVlSNXJ2b3kxQnVEbEx6cFV0RXlPN0dGUmstbW5zMnpyZGc5eko3azAwYlBGRzhFQ0JpN05jMEJVTWE3RDBJMW9ocmdzRDNpTTlBdUYyQTlhR0dhWmd4eXppVk1lNklBWmhhYU0yWE9OUkFlVFJHd3ZTRmVVWWkwc1daM0hCZE11TUk1dVlyd0lZOVhKMmlQWnc4WFNWM1NQYVppT25MV3RGQ2E3LWZhUmgyTVprQUFxbm1JTVBsNmdyQQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jan-Lennard Struff Nuno Borges - ATP Basilea 30/10/26 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclVoMlNud0RzWXlVVEgwazA4RTFzRHdUbG03ZkpUcHpVR3p0eGpTUjNJVFlDcWNFZUZHLTFheXZqZFpLakZwTi14Z2htSFhOY1JhN2RvOVVzZzFuVjh2QW5DVlFtcjRxLWJYT1d4QkRoWm1TYnMyaGV5WW1rM0tsRzZ3RFNuZnBTMVE?oc=5"
-      },
-      {
-       "titulo": "Jan-Lennard Struff vs Nuno Borges: Game Spread - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkplcG9ZdEtpMkJoNjgwek9tUWoza1RmT2ZQQTRxT0RmOVJqaEg0RHozMktabHp0R0w0V1RJVk96SFZaVHlvOEI1T2dXZzNJSm1ndmd4OVotRUxtVXlFakdqY2w1aVlwR1FpOTNYQ1dSVVRrVjJTaEM0N3R2MzJsYQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "94ca068a80e8dbb6686fd96d402bde0e": {
-   "id": "94ca068a80e8dbb6686fd96d402bde0e",
-   "jugadores": [
-    "Matteo Berrettini",
-    "Alex de Minaur"
-   ],
-   "inicio": "2026-10-30T19:00+00:00",
-   "torneo": "ATP Vienna Open",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T18:10+00:00",
-   "elo": 0.249,
-   "elo_general": 0.271,
-   "elo_en_superficie": 0.227,
-   "cara_a_cara": [
-    1,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Matteo Berrettini",
-     "mercado": 0.33,
-     "elo": 1687,
-     "elo_superficie": 1640,
-     "forma": [
-      "P hard vs Adolfo Daniel Vallejo",
-      "G hard vs Aleksandar Kovacevic",
-      "P hard vs Brandon Nakashima",
-      "P hard vs Kyrian Jacquet",
-      "G hard vs Tomas Martin Etcheverry"
-     ],
-     "cansancio": "1 partidos, 1 sets y 7 juegos en 3 días; el último el 2026-10-29 contra Flavio Cobolli, ganó 5-2",
-     "noticias": [
-      {
-       "titulo": "Matteo Berrettini - Alex de Minaur, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE1ZZnI4d2FUX3BoUFZPUEFWMWRMb2g3S0lJSHcxcXAycm1Md1ktTFFLQkw2Qm5vaVRqZkpUVWZod1U2Y3Z1THp3dXN4emZJY2lGUllQbnV1cDFhWHZWMTJEZGZtUm5QNVBqeDROcnF0V19YVnBhVUdNMlAtbDVxNktYeDhWcHNsODdrcGJ5X25uSWhuUnVXOFhuR012ZVo4cTZxSzFPSkhCOXpCVjVPOTNtbWJ4a2lIcmFPdE1aaXR2ZnlrQzIzSU1hSDZIcGpvRC1VNkpMdTFWR2QzT0wteDZMeWJRdHRlNG5F?oc=5"
-      },
-      {
-       "titulo": "El supuesto triángulo amoroso que revoluciona el tenis: \"¿Si le he sido infiel a Berrettini? Lávate la boca\" - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXVHTzgzY3ZqMEZvS0RBU0p0UjYzQ3dhYXg3UVNtcUxQcjlOQ1F1V1dKcmk3Qk5xR055c1NfSXdUa1JJNU5qa0hVeTMxRHNNYW1Zbl9kSGJYLXdVc2FmLXhyeU9oRHk4bUlSMHRuMWhQZjVJYXhoZjlCMXVFRW9fRzdhNFE4NHBtTGhWQmU2TWpJeFB6eFN1dmdBZHpVWm5xR1RkODFRYlZiUm9RbEh5VzNPOE15dnBIRW1OOTk1SHNtLUVzLXVyTNIByAFBVV95cUxQQVNySTdfRjYwMWxhUkNhY3BwMUlKdjI4cXNfX2ZnSzhmMWQ2NG1OWkZlbmpyY0E0M3YzWHVyVkxfc0ZrMEpDSzRtMThrT3YwQlYyYkhDaEZaTnc2bVRJQ0Q2UTBvNXJrMmZGR2tWMjJfQnNiN2htVDdvRDdJaHhOa2RGdzg5TlVKTFRPWTJjVUI4aW95cEdKVWNhbVZzTkJYa0RMbFNPY3NpTDUyWG80bldMcHV1RkdIbV8xaGU5TENSUkJ4UG5OTw?oc=5"
-      },
-      {
-       "titulo": "Highlights: Berrettini avanza a cuartos en Viena tras el retiro de Cobolli - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWhpLVZycDJSTlZfYWtleXlsYlpnN3ZuMERBbF9hQTdjN2lfb3BXUUpPY1p0N1VCeXA4VUZCempDc29WU24xOU9fb2xmTWVHMjNZM19ydTJEdXFBV2VKbG1Db2JKVlZBZmJvN0h0OTRPSnRHYjhUN2hTVUVFRERKNUtWWjhIaTBXRElRN2xwNXprQUEwLTdPRk5GMVhEWjdERGxZX2dDSQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Alex de Minaur",
-     "mercado": 0.67,
-     "elo": 1859,
-     "elo_superficie": 1852,
-     "forma": [
-      "G hard vs Rei Sakamoto",
-      "G hard vs Karen Khachanov",
-      "P hard vs Alexander Zverev",
-      "G hard vs Tomas Machac",
-      "G hard vs Learner Tien"
-     ],
-     "cansancio": "1 partidos, 2 sets y 18 juegos en 3 días; el último el 2026-10-28 contra Learner Tien, ganó 6-4 6-2",
-     "noticias": [
-      {
-       "titulo": "Matteo Berrettini - Alex de Minaur, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZE1ZZnI4d2FUX3BoUFZPUEFWMWRMb2g3S0lJSHcxcXAycm1Md1ktTFFLQkw2Qm5vaVRqZkpUVWZod1U2Y3Z1THp3dXN4emZJY2lGUllQbnV1cDFhWHZWMTJEZGZtUm5QNVBqeDROcnF0V19YVnBhVUdNMlAtbDVxNktYeDhWcHNsODdrcGJ5X25uSWhuUnVXOFhuR012ZVo4cTZxSzFPSkhCOXpCVjVPOTNtbWJ4a2lIcmFPdE1aaXR2ZnlrQzIzSU1hSDZIcGpvRC1VNkpMdTFWR2QzT0wteDZMeWJRdHRlNG5F?oc=5"
-      },
-      {
-       "titulo": "Marcadores en directo y resultados de los H2H Learner Tien Alex de Minaur - Sofascore",
-       "fuente": "Sofascore",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUdLS1pOZ0tRbklLVW9wbk5LNFdCRzVHbTF4YmpueWF4SENGMDZBb0RnLXRHeEQzSXhzOV9qSVpTVWotR1BxUVkwaThoNUFETkI1VUtudUJ2dWVUR3BUcjNOd19rMVJFR1VwMHFqa3ZoX05Pc1ZiZmYyN0sxUjZFdURBdHg2QQ?oc=5"
-      },
-      {
-       "titulo": "Resumen del Matteo Berrettini - Alex de Minaur - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUU1lNlhXNDRONEVUV1BwV3Fjd0JTVlVjWkt6ODhtVEJBRkxyVWpzbjZzZmY1Z19XbVV6ZVJTcUdlaHZzQXVUUGlIcXpSVzZzNFZHdDBFVG1DVXRaN1dLVVFQaC1fOXBjOW9KZVIwTzlVWjh1UTh3VHVLWjkyYnpDWnhkdENzVjJ6YTBHS0FCcEJxMS1YLVV4Z2k5VHVTR3FvdlpQMlpkeVk0Zw?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "c1a54362fbf98df45c2174b84374dd0c": {
    "id": "c1a54362fbf98df45c2174b84374dd0c",
    "jugadores": [
@@ -10305,7 +10129,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T17:10+00:00",
+   "actualizado": "2026-11-06T19:00+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
@@ -10335,16 +10159,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHUwZzgzdnB1QmVVLWllMmdMRk0tSGVLMnBtbHRqMERXZE43TG90N0FIb0c3RGlzNDhKbGV0d1FyWlU1SWpWckFMSFRpbjRVSUlGVTFLNl9Idlp1Q3RPOFpYZzJnSEttMUVNbzVnRGxNblZTLTd2amQ3Nl9BM2k1a0ZQSVVmcmpGcHRKYXBOZjhsMF8yLVRJaDZJeU9zUm8yRGdNNmRDaUtMeWdSMGU00gG8AUFVX3lxTE1mblpaR2IySnZlc0gzRnBvMnNPMmx6cGk0aUJOcW5Jclpfbk5jQmZPVEE2X3pGX1hqWjNnc0ROT2xqZ3ZfMFRlRHAwZTRmUXhMSnVsOWtqT3NiRnN3WHZ5MXRLS3FZTFJteHppZ1dTMS1OUm0zaFZmZWlUZ3NLODZ0TDVqdkM1NnZmTWNJVEZrVHdVbmVjd2tOLW9pQ0pmLXlOc0dDcV90b01OYmt3UkhQNzNpcVF6bVpVXzZk?oc=5"
       },
       {
+       "titulo": "Jódar, en manos de Alcaraz: El favor que espera de Carlos para estar en las ATP Finals - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdXNzUlUwYkNwMmhoUDFZXzNDX1dyeHlkSW1yTE9RWG9jT2txWlkyLUFTOVh6cWJvVVBmVy0wNERTblMtOW9FaEZWMk9vNGl0UG1uMDJTT0dwX1dYbzJneEZYS1lMTkVhUW1iTElLRlRuSW5SUnRMbU43bmNTZXRnd0hVYXlna2RLSTh5Zm5GeUYzU3prU1ZjWlVnS2JMd3FhUUdmMFBYTXdBWFBvdW50MjMxUzZPaWFYbC1oaldtUkU4djk5SGFsT0xEdmNjUF9MU041YXhITzhoREZUV3k2RGNLemxuQQ?oc=5"
+      },
+      {
        "titulo": "Ruud explica por qué se ven menos partidos buenos en el tenis moderno - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3Q4QTZDenNKOHRHdThCbndqWENTUUFWTTA2TF9lei1VSEZaNWp4RFFJWDh0VHM4SkdETmZHMG5xdlp6MTJBNWN5ZDRDUU81UnBvQkZBNkFtaERTMnBhWW9NS1RHUDBhWGtMS0M5TmFpODJkZFBxb1F3N21GR0N2eWFkYUxfMkdraEdEV2d5QQ?oc=5"
-      },
-      {
-       "titulo": "Highlights: Ruud supera a Struff y avanza a CF en París - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGpfTjdIMGRaM3U4MHdIbWFWa1dQemV0RG1IWlhmX2c1OUZ2UUNTeGtrZkhGc00xZjVOc09CWV90cGpHaUtWTG9nZEJpWHlSbERUMzNfdERZTmtIMk9Pb0xyU2VXdG1URmF0UW44Uml2R2pibVA5RXJPNEZOYjFPRU0xdG1tSXVGVzEzazBKSQ?oc=5"
       }
      ]
     },
