@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T19:10+00:00",
+ "actualizado": "2026-11-06T19:37+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1026,58 +1026,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-06T08:00+00:00",
-  "partidos": [
-   {
-    "id": "0adc47c275819823d018232033a6de7f",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-06T19:30+00:00",
-    "jugadores": [
-     "Casper Ruud",
-     "Nuno Borges"
-    ],
-    "opciones": [
-     {
-      "id": "0adc47c275819823d018232033a6de7f|h2h|Casper Ruud|",
-      "mercado": "h2h",
-      "nombre": "Casper Ruud",
-      "punto": null,
-      "cuota": 1.46,
-      "pinnacle": 1.48
-     },
-     {
-      "id": "0adc47c275819823d018232033a6de7f|h2h|Nuno Borges|",
-      "mercado": "h2h",
-      "nombre": "Nuno Borges",
-      "punto": null,
-      "cuota": 2.75,
-      "pinnacle": 2.82
-     },
-     {
-      "id": "0adc47c275819823d018232033a6de7f|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.83,
-      "pinnacle": 1.88
-     },
-     {
-      "id": "0adc47c275819823d018232033a6de7f|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.87,
-      "pinnacle": 1.99
-     }
-    ],
-    "pinnacle_h2h": {
-     "Casper Ruud": 1.48,
-     "Nuno Borges": 2.82
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
