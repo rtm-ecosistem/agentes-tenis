@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T17:32+00:00",
+ "actualizado": "2026-11-06T18:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,14 +345,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.316,
+      "pct": 0.317,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.237,
+      "pct": 0.238,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.888,
+      "pct": 0.889,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.112,
+      "pct": 0.111,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.888,
+      "pct": 0.889,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.112,
+      "pct": 0.111,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1027,56 +1027,6 @@
  "cartelera": {
   "actualizado": "2026-11-06T08:00+00:00",
   "partidos": [
-   {
-    "id": "e4e0781ebc80c47d216dd73609a3c8e0",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-06T18:00+00:00",
-    "jugadores": [
-     "Taylor Fritz",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "e4e0781ebc80c47d216dd73609a3c8e0|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.33,
-      "pinnacle": 1.35
-     },
-     {
-      "id": "e4e0781ebc80c47d216dd73609a3c8e0|h2h|Taylor Fritz|",
-      "mercado": "h2h",
-      "nombre": "Taylor Fritz",
-      "punto": null,
-      "cuota": 3.35,
-      "pinnacle": 3.45
-     },
-     {
-      "id": "e4e0781ebc80c47d216dd73609a3c8e0|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.8,
-      "pinnacle": null
-     },
-     {
-      "id": "e4e0781ebc80c47d216dd73609a3c8e0|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.91,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.35,
-     "Taylor Fritz": 3.45
-    }
-   },
    {
     "id": "0adc47c275819823d018232033a6de7f",
     "deporte": "tennis_atp_paris_masters",
@@ -2151,9 +2101,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 63,
-  "aciertos": 0.6190476190476191,
-  "yield": -0.09936507936507936
+  "apuestas": 64,
+  "aciertos": 0.625,
+  "yield": -0.08859375
  },
  "partidos_info": {
   "e66be09cbf07f4ca7b22ef19c32bcb30": {

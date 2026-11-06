@@ -241828,6 +241828,31 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Rolex Paris Masters",
+   "circuito": "ATP",
+   "jugadores": [
+    "Rinky Hijikata",
+    "Luca Van Assche"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }

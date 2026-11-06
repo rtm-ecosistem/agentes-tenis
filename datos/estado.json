@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.035,
      "sorpresa": 0.4,
-     "impaciencia": 0.079,
+     "impaciencia": 0.078,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T17:32+00:00",
+    "hora": "2026-11-06T18:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.057,
+     "impaciencia": 0.056,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T17:32+00:00",
+    "hora": "2026-11-06T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T17:32+00:00",
+    "hora": "2026-11-06T18:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.057,
+     "impaciencia": 0.056,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T17:32+00:00",
+    "hora": "2026-11-06T18:10+00:00",
     "rent": 0.0
    }
   }
@@ -2618,15 +2618,16 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
+  "370465d4c8c4",
+  "cb00d608c633",
   "f5b5a4a59b30",
   "be76cd031d37",
   "673df6dcc74d",
   "d4914520030f",
+  "6af683369bb0",
   "0c45f67092fa",
   "2ffc84ed20b5",
   "bd654d354c0f",
-  "92ee25f2ac65",
-  "cb00d608c633",
   "a35f7ab54809",
   "6d2c441b0fd5",
   "1d3831ae3b40",
@@ -2634,22 +2635,25 @@
   "fc50cff5f530",
   "49c0dfbc93ed",
   "aacf78d82640",
+  "5aa1e247029d",
   "76be3cb7f906",
   "4086c97bcaf5",
   "5dc3397dd247",
   "ba1e0a934f3e",
   "adb4087240c1",
   "acbf4a772876",
+  "92ee25f2ac65",
   "36fa213e9bea",
   "9c5d1b4279b5",
+  "f04e92f35d8d",
   "5619023ec14a",
   "ce2f61f76ea4",
+  "cabd4482237c",
   "1f5ca0b48f96",
   "252b6efc7967",
   "d270a6700629",
   "4eaa9319a158",
   "e9314b2c62e0",
-  "370465d4c8c4",
   "b8b95a0aa7b9",
   "5262924345e0",
   "dca8af60abb1",
@@ -2668,6 +2672,7 @@
   "9fdbb4b7bf27",
   "cd19d3f4a895",
   "227c73423edd",
+  "dce64211c23b",
   "e5668fbc29b1",
   "80991b7f098c",
   "73b8ba463ff2",
@@ -2743,9 +2748,9 @@
   "6904f393bf31",
   "1ed4dd22a2ea",
   "85f8e929b705",
-  "dce64211c23b",
   "5175fd4b032f",
   "0c634a6752b9",
+  "ba0a2629c487",
   "571a25d3c2f0",
   "3c0e418d7ce7",
   "f85f91a4c2bc",
@@ -2996,8 +3001,10 @@
   "47c4007a7c62",
   "816e81396057",
   "8e46f8168ac1",
+  "b6b4ee227d03",
   "afe4d94cd898",
   "9aa5e8600466",
+  "86ea8b22c8cd",
   "c924f03959d8",
   "56d405d5e4ef",
   "1022298014b3",
@@ -3223,7 +3230,6 @@
   "0357d977a9a0",
   "9d05ec0eb9ab",
   "7ba776b66e1a",
-  "5aa1e247029d",
   "df4527bd43c4",
   "2fb6d0ab9b68",
   "ceb1f2572210",
@@ -3402,6 +3408,7 @@
   "deeb5dd83b2c",
   "ca4dec44314b",
   "085bad20355b",
+  "33a3c2c47f55",
   "43348b55a2e6",
   "99ef77757398",
   "3c13aa5dbc80",
@@ -3410,14 +3417,7 @@
   "326af9f67503",
   "09ff42b7dcbe",
   "e3449eaee675",
-  "743d3e27495e",
-  "a9c957dac918",
-  "7ca1c0f280c1",
-  "5f11bd883d58",
-  "89cd75375358",
-  "c769f8a8598a",
-  "682c6b117521",
-  "e073ee7acc96"
+  "743d3e27495e"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10387,9 +10387,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 63,
-  "ganadas": 39,
-  "unidades": -6.26,
+  "apuestas": 64,
+  "ganadas": 40,
+  "unidades": -5.67,
   "pendientes": [
    {
     "partido": "c2e61aa3d1076fb1efc4756a1006e80a",
@@ -10402,18 +10402,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "f1676b13a42184d83dee9e84e1b17aa5",
-    "jugadores": [
-     "Luca Van Assche",
-     "Rinky Hijikata"
-    ],
-    "inicio": "2026-11-06T14:10+00:00",
-    "mercado": "h2h",
-    "seleccion": "Luca Van Assche",
-    "punto": null,
-    "cuota": 1.59
    },
    {
     "partido": "e4e0781ebc80c47d216dd73609a3c8e0",
@@ -10509,7 +10497,8 @@
    "1ef82c68f5ccf78aa0a6d031f750cc6e",
    "6a03e950601f142942705acfb764d107",
    "47d9edba7490e876194504362c877fe3",
-   "10a66a309af482f75813cc0d9ce0bdd1"
+   "10a66a309af482f75813cc0d9ce0bdd1",
+   "f1676b13a42184d83dee9e84e1b17aa5"
   ]
  },
  "mercados_casas": {
