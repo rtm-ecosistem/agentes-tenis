@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T14:10+00:00",
+ "actualizado": "2026-11-06T15:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,28 +345,28 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.315,
+      "pct": 0.316,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.236,
+      "pct": 0.237,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.065,
+      "pct": 0.064,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.029,
+      "pct": 0.028,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.882,
+      "pct": 0.884,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.118,
+      "pct": 0.116,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.12,
+      "pct": 0.117,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.109,
+      "pct": 0.111,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.882,
+      "pct": 0.884,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.118,
+      "pct": 0.116,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1933,6 +1933,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-06T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-06T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2071,16 +2081,6 @@
    "hora": "2026-11-05T17:10+00:00",
    "texto": "📰 Noticias nuevas de Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T15:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T15:10+00:00",
-   "texto": "📰 Noticias nuevas de Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-06",
@@ -2151,9 +2151,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 62,
-  "aciertos": 0.6290322580645161,
-  "yield": -0.08483870967741935
+  "apuestas": 63,
+  "aciertos": 0.6190476190476191,
+  "yield": -0.09936507936507936
  },
  "partidos_info": {
   "69ae427eb9d45bc2bc6b0ad750e25934": {
@@ -9105,7 +9105,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T14:10+00:00",
+   "actualizado": "2026-11-06T15:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -9163,6 +9163,12 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
+       "titulo": "Toni Nadal, sobre Carlos Alcaraz: \"Si me llamara a mí para entrenarlo, no me gustaría que superara en títulos a Rafa. Así que tendría un problema\" - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnJUZ3hpQ0pBSEdNWF9OcVpJYlpkOUhnazdfYjBTSUdhYWRJQmZrYlE2TThvYXlBbm81TjRpLUdXWHlqRXhER2FDOHRBY0FOdko3aWNDTm9FZXNaTEFYTGlGcTFzNk5PM0IyUjJhSHRfVXdlNVh2SV8tYXBHZzdKeElPOWNSclk4NFHSAYoBQVVfeXFMT0pOSmM4X0VxbDFsQWM5a2JxdVZBRjZQYk9zOTh0SENUTWg0VEFlZ2pnRVRoTFZtdzF6ZC1tVDdCU01XZ0M1YVRxOHJyZVpnV0hpRkxnbXhMUnp6SzdZWGxKZnhtYUJta203MHBqclVZdEF6b0Fud2hPemRwZndELS1PWGlWS1JnX3p3?oc=5"
+      },
+      {
        "titulo": "¿A qué hora es el Alcaraz - Fritz? TV, horario, dónde y cómo ver hoy los cuartos de final del Masters 1.000 de - Diario AS",
        "fuente": "Diario AS",
        "fecha": "2026-11-06",
@@ -9173,12 +9179,6 @@
        "fuente": "El Debate",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr0gHfAUFVX3lxTFBjbGFabXRDdEs5UVZhd0ZMWk9wR0xIQ2VMOTB4c0dJeFlscmxoRzBoZEZ0RmdnaEkwUm8yWGZudWNQel9pNC0tR1BwbVJoR1EtbTVJRU45Ny1fbkR5b3dZTWdxa0pEVnBiZEozTks1OGw0c0NmMXI1dzVIRjRSdzJIVXhoMmZxTHpPMDA2OVp5aDdYb3dsSTcwN0ExbklRU1BrR3NGZG1lb3dMdVA4dTY4ekNqNnpKVFBNbUFOMVU1akh6VFhWanJsbnJVQ0R0X3p6SWlPZFRuZGc3V05uOGs?oc=5"
       }
      ]
     }
@@ -9193,7 +9193,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T14:10+00:00",
+   "actualizado": "2026-11-06T15:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,

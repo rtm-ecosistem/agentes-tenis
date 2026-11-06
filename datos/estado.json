@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.037,
+     "envidia": 0.036,
      "sorpresa": 0.4,
-     "impaciencia": 0.082,
+     "impaciencia": 0.081,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T14:10+00:00",
+    "hora": "2026-11-06T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.06,
+     "impaciencia": 0.059,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T14:10+00:00",
+    "hora": "2026-11-06T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.042,
+     "impaciencia": 0.041,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T14:10+00:00",
+    "hora": "2026-11-06T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.06,
+     "impaciencia": 0.059,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T14:10+00:00",
+    "hora": "2026-11-06T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-04T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
    "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,25 +2618,30 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
+  "76be3cb7f906",
+  "4086c97bcaf5",
+  "acbf4a772876",
   "92ee25f2ac65",
   "36fa213e9bea",
   "9c5d1b4279b5",
   "ba1e0a934f3e",
   "1f5ca0b48f96",
   "d270a6700629",
+  "4eaa9319a158",
   "370465d4c8c4",
   "b8b95a0aa7b9",
   "dca8af60abb1",
   "9a7a6d49b51c",
   "52449caf9c35",
-  "b480d3f3db68",
   "cfd8253596f4",
+  "b7e6f38d2eef",
   "cb00d608c633",
   "ff202cf37379",
+  "f96ae116ff9d",
   "233b1bb40f76",
   "5bc24b2e86d5",
   "cb635e47135a",
-  "f96ae116ff9d",
+  "f3d7fc33c3e0",
   "2a9b49436888",
   "416920ff4e22",
   "9fdbb4b7bf27",
@@ -2707,7 +2712,6 @@
   "a420b180e0c0",
   "3e76f976821e",
   "a97523067125",
-  "f3d7fc33c3e0",
   "5cc06e243bc6",
   "fac952065107",
   "6904f393bf31",
@@ -2722,6 +2726,7 @@
   "7fef4d3f2529",
   "93cee06b6c91",
   "2de4dacd1022",
+  "a43012de9178",
   "6086117e8edd",
   "e115ce817494",
   "ae65b113387f",
@@ -2791,6 +2796,7 @@
   "8b851c71358b",
   "96eb32d67d4e",
   "4d166728593a",
+  "0c45f67092fa",
   "4bfef65547b4",
   "632747d8179c",
   "1e23243f6ae9",
@@ -2808,7 +2814,6 @@
   "779cfc08ae1a",
   "31d351a3bb17",
   "baf5ff3acbed",
-  "0c45f67092fa",
   "6bea3b2b1f6c",
   "487ebc537f55",
   "dbfb92284921",
@@ -2892,6 +2897,7 @@
   "37e71c082c06",
   "a016523ffffe",
   "cf8532e51934",
+  "b480d3f3db68",
   "d4230a22cd72",
   "b8b0c0cf6ef3",
   "e30e6ff99668",
@@ -3099,6 +3105,7 @@
   "93a7e4785676",
   "0b3c8d483b02",
   "a742a26a9c7e",
+  "a0d54fe317ea",
   "ddfa7ab404a7",
   "b90f5c50b74c",
   "80acbf601f29",
@@ -3326,7 +3333,6 @@
   "c9e84dd8cf0c",
   "b289db9b0c0d",
   "db737b508761",
-  "a0d54fe317ea",
   "70d2d289dbe4",
   "5a5ac8fd8db5",
   "ed0234b889c8",
@@ -3411,13 +3417,7 @@
   "537011696eb6",
   "87668b923b93",
   "19c147fbd6b6",
-  "e98c69ed3ded",
-  "43028ed01d19",
-  "5d4f10a3c101",
-  "f072a8674a00",
-  "68cb03b5abb9",
-  "4371c909c75e",
-  "dd630c76e00c"
+  "e98c69ed3ded"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T14:10+00:00",
+   "actualizado": "2026-11-06T15:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10451,6 +10451,12 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
+       "titulo": "Toni Nadal, sobre Carlos Alcaraz: \"Si me llamara a mí para entrenarlo, no me gustaría que superara en títulos a Rafa. Así que tendría un problema\" - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnJUZ3hpQ0pBSEdNWF9OcVpJYlpkOUhnazdfYjBTSUdhYWRJQmZrYlE2TThvYXlBbm81TjRpLUdXWHlqRXhER2FDOHRBY0FOdko3aWNDTm9FZXNaTEFYTGlGcTFzNk5PM0IyUjJhSHRfVXdlNVh2SV8tYXBHZzdKeElPOWNSclk4NFHSAYoBQVVfeXFMT0pOSmM4X0VxbDFsQWM5a2JxdVZBRjZQYk9zOTh0SENUTWg0VEFlZ2pnRVRoTFZtdzF6ZC1tVDdCU01XZ0M1YVRxOHJyZVpnV0hpRkxnbXhMUnp6SzdZWGxKZnhtYUJta203MHBqclVZdEF6b0Fud2hPemRwZndELS1PWGlWS1JnX3p3?oc=5"
+      },
+      {
        "titulo": "¿A qué hora es el Alcaraz - Fritz? TV, horario, dónde y cómo ver hoy los cuartos de final del Masters 1.000 de - Diario AS",
        "fuente": "Diario AS",
        "fecha": "2026-11-06",
@@ -10461,12 +10467,6 @@
        "fuente": "El Debate",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr0gHfAUFVX3lxTFBjbGFabXRDdEs5UVZhd0ZMWk9wR0xIQ2VMOTB4c0dJeFlscmxoRzBoZEZ0RmdnaEkwUm8yWGZudWNQel9pNC0tR1BwbVJoR1EtbTVJRU45Ny1fbkR5b3dZTWdxa0pEVnBiZEozTks1OGw0c0NmMXI1dzVIRjRSdzJIVXhoMmZxTHpPMDA2OVp5aDdYb3dsSTcwN0ExbklRU1BrR3NGZG1lb3dMdVA4dTY4ekNqNnpKVFBNbUFOMVU1akh6VFhWanJsbnJVQ0R0X3p6SWlPZFRuZGc3V05uOGs?oc=5"
       }
      ]
     }
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T14:10+00:00",
+   "actualizado": "2026-11-06T15:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
@@ -10563,9 +10563,9 @@
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
  "tonta": {
-  "apuestas": 62,
+  "apuestas": 63,
   "ganadas": 39,
-  "unidades": -5.26,
+  "unidades": -6.26,
   "pendientes": [
    {
     "partido": "c2e61aa3d1076fb1efc4756a1006e80a",
@@ -10578,18 +10578,6 @@
     "seleccion": "Learner Tien",
     "punto": null,
     "cuota": 1.72
-   },
-   {
-    "partido": "10a66a309af482f75813cc0d9ce0bdd1",
-    "jugadores": [
-     "Ben Shelton",
-     "Tommy Paul"
-    ],
-    "inicio": "2026-11-06T13:00+00:00",
-    "mercado": "h2h",
-    "seleccion": "Tommy Paul",
-    "punto": null,
-    "cuota": 1.78
    },
    {
     "partido": "f1676b13a42184d83dee9e84e1b17aa5",
@@ -10696,7 +10684,8 @@
    "235263f6f3bbd21f2327b39e61407934",
    "1ef82c68f5ccf78aa0a6d031f750cc6e",
    "6a03e950601f142942705acfb764d107",
-   "47d9edba7490e876194504362c877fe3"
+   "47d9edba7490e876194504362c877fe3",
+   "10a66a309af482f75813cc0d9ce0bdd1"
   ]
  },
  "mercados_casas": {
