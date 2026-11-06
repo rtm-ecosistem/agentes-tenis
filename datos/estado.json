@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T11:10+00:00",
+    "hora": "2026-11-06T11:33+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T11:10+00:00",
+    "hora": "2026-11-06T11:33+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T11:10+00:00",
+    "hora": "2026-11-06T11:33+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T11:10+00:00",
+    "hora": "2026-11-06T11:33+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-03T16:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T16:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-03T17:10+00:00",
    "texto": "📰 Noticias nuevas de Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T11:33+00:00",
+   "texto": "📰 Noticias nuevas de Luca Van Assche – Rinky Hijikata: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T11:33+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,8 +2618,11 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-05-20",
  "noticias_vistas": [
-  "92ee25f2ac65",
+  "b480d3f3db68",
+  "cfd8253596f4",
   "cb00d608c633",
+  "92ee25f2ac65",
+  "ff202cf37379",
   "d4230a22cd72",
   "233b1bb40f76",
   "5bc24b2e86d5",
@@ -2629,7 +2632,6 @@
   "9fdbb4b7bf27",
   "227c73423edd",
   "e5668fbc29b1",
-  "b480d3f3db68",
   "80991b7f098c",
   "73b8ba463ff2",
   "d9fc9be8fbc8",
@@ -3293,6 +3295,7 @@
   "89599a5ae0e3",
   "e99415ed683c",
   "6c9a48030e4c",
+  "1197cd961c01",
   "765c95721cb2",
   "f7730d7a0673",
   "f7c762a433f2",
@@ -3414,10 +3417,7 @@
   "4c6ddc42734d",
   "89da651d7040",
   "733b1bad2e43",
-  "11f7b510ce8d",
-  "d14fbe7f5227",
-  "a2c207551211",
-  "2c5b3fc998b2"
+  "11f7b510ce8d"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10569,7 +10569,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:10+00:00",
+   "actualizado": "2026-11-06T11:33+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -10657,7 +10657,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:10+00:00",
+   "actualizado": "2026-11-06T11:33+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -10715,6 +10715,12 @@
      "cansancio": "2 partidos, 6 sets y 55 juegos en 3 días; el último el 2026-11-05 contra Tomas Martin Etcheverry, ganó 2-6 6-3 7-5",
      "noticias": [
       {
+       "titulo": "Tomás Etcheverry cayó en el Masters 1000 de París ante Rinky Hijikata - Noticias \"d\"",
+       "fuente": "Noticias \"d\"",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDdoQTZHRFhlbkVmLUZSdUtlVUJmWXVJeHBfbkRXcjJLeHZlTV9YN1ZoQW5ESlNJUnprbVlYWHZodl8zWlgyX0E3VHQwd0Jfek1lSVN1THNTMDhLeHEtQUwyMzdIY2dpcld5ZWVVbEVfNlJIZi1sZzM2RURTZ0pEcUFaUXFqbTBlRGtaYTFLY0RYWlBUQ01ueHZGdFRyNTN0dlZpNlZ5dklsRk9oTjh4OQ?oc=5"
+      },
+      {
        "titulo": "Luca Van Assche vs Rinky Hijikata - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-06",
@@ -10725,12 +10731,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZEWW1tZE5JS3VXdkt1YjFfOTUyN1VCYkdsOW8wNXNvb0czTzg3NGVGWmNGNE4yZnkxUDhyNDlkMFQ0eWNoSks1SlNlMURlU09uNFl1aEpFYWVOSUl1REM4VFNWc0xCTExuNDRpZ2lnZDhEc0x3UlowSkZ2a3ZST20zSWsyVUdTajVidmM3cjhTczk5cVUxMU1ybHpwZ0hDeFRIdldJTGxoYk9aM0VCUTRPUXFPTVN0?oc=5"
-      },
-      {
-       "titulo": "La derrota de Etcheverry ante Hijikata deja el Masters 1000 de París sin argentinos - France 24",
-       "fuente": "France 24",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaktQa1pTUXg5THQ3OHpQb2FxSzV6VWtTUkI3WUV3VWFPVUpiSkl3aVdRSThIM1hibmdaVXFweDA5YjkzMF9lQ2hzWnRmTWpEaW1hdnBzbjdRLWZVenpuTGhGZW5EUEljQk12SEFqODM0dWtGUkNVVkxWYkZTcjEweHVxdzBHZER4MHlCbHBrOWEydjhYNHRIbFpJSWdDY0lMRV9scDJnd1R3SzQ3WV9RYXNMVkt2aGZBbmxtVjNiNmhJbFVETzhiZlhIOGVSWDVaMGhCcXduM1k?oc=5"
       }
      ]
     }
@@ -10745,7 +10745,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:10+00:00",
+   "actualizado": "2026-11-06T11:33+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10833,7 +10833,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:10+00:00",
+   "actualizado": "2026-11-06T11:33+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
