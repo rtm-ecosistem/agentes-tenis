@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T15:10+00:00",
+    "hora": "2026-11-06T15:28+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:10+00:00",
+    "hora": "2026-11-06T15:28+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:10+00:00",
+    "hora": "2026-11-06T15:28+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:10+00:00",
+    "hora": "2026-11-06T15:28+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-04T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-04T08:10+00:00",
    "texto": "📰 Noticias nuevas de Mattia Bellucci – Arthur Rinderknech, Quentin Halys – Frances Tiafoe, Luca Van Assche – Learner Tien…: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T15:28+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz, Casper Ruud – Nuno Borges: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T15:28+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,8 +2618,10 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
+  "fc50cff5f530",
   "76be3cb7f906",
   "4086c97bcaf5",
+  "aacf78d82640",
   "acbf4a772876",
   "92ee25f2ac65",
   "36fa213e9bea",
@@ -2680,6 +2682,7 @@
   "17567526f65a",
   "1f615d651b40",
   "40c6d0ccb4b4",
+  "ccd2da5a7ec9",
   "d588f662706e",
   "a6a50b60a410",
   "89d8466d433c",
@@ -3414,10 +3417,7 @@
   "894350596f3a",
   "68b3a584d4e3",
   "b3b49abe7487",
-  "537011696eb6",
-  "87668b923b93",
-  "19c147fbd6b6",
-  "e98c69ed3ded"
+  "537011696eb6"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10393,7 +10393,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T15:10+00:00",
+   "actualizado": "2026-11-06T15:28+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10451,6 +10451,12 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
+       "titulo": "Shelton le hace un favor a Jódar en París y ahora todo queda en manos de Alcaraz - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHUwZzgzdnB1QmVVLWllMmdMRk0tSGVLMnBtbHRqMERXZE43TG90N0FIb0c3RGlzNDhKbGV0d1FyWlU1SWpWckFMSFRpbjRVSUlGVTFLNl9Idlp1Q3RPOFpYZzJnSEttMUVNbzVnRGxNblZTLTd2amQ3Nl9BM2k1a0ZQSVVmcmpGcHRKYXBOZjhsMF8yLVRJaDZJeU9zUm8yRGdNNmRDaUtMeWdSMGU00gG8AUFVX3lxTE1mblpaR2IySnZlc0gzRnBvMnNPMmx6cGk0aUJOcW5Jclpfbk5jQmZPVEE2X3pGX1hqWjNnc0ROT2xqZ3ZfMFRlRHAwZTRmUXhMSnVsOWtqT3NiRnN3WHZ5MXRLS3FZTFJteHppZ1dTMS1OUm0zaFZmZWlUZ3NLODZ0TDVqdkM1NnZmTWNJVEZrVHdVbmVjd2tOLW9pQ0pmLXlOc0dDcV90b01OYmt3UkhQNzNpcVF6bVpVXzZk?oc=5"
+      },
+      {
        "titulo": "Toni Nadal, sobre Carlos Alcaraz: \"Si me llamara a mí para entrenarlo, no me gustaría que superara en títulos a Rafa. Así que tendría un problema\" - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-06",
@@ -10461,12 +10467,6 @@
        "fuente": "Diario AS",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQdIB_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQQ?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
       }
      ]
     }
@@ -10481,7 +10481,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T15:10+00:00",
+   "actualizado": "2026-11-06T15:28+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
@@ -10505,6 +10505,12 @@
      "cansancio": "2 partidos, 4 sets y 37 juegos en 3 días; el último el 2026-11-05 contra Jan-Lennard Struff, ganó 6-3 6-3",
      "noticias": [
       {
+       "titulo": "Shelton le hace un favor a Jódar en París y ahora todo queda en manos de Alcaraz - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHUwZzgzdnB1QmVVLWllMmdMRk0tSGVLMnBtbHRqMERXZE43TG90N0FIb0c3RGlzNDhKbGV0d1FyWlU1SWpWckFMSFRpbjRVSUlGVTFLNl9Idlp1Q3RPOFpYZzJnSEttMUVNbzVnRGxNblZTLTd2amQ3Nl9BM2k1a0ZQSVVmcmpGcHRKYXBOZjhsMF8yLVRJaDZJeU9zUm8yRGdNNmRDaUtMeWdSMGU00gG8AUFVX3lxTE1mblpaR2IySnZlc0gzRnBvMnNPMmx6cGk0aUJOcW5Jclpfbk5jQmZPVEE2X3pGX1hqWjNnc0ROT2xqZ3ZfMFRlRHAwZTRmUXhMSnVsOWtqT3NiRnN3WHZ5MXRLS3FZTFJteHppZ1dTMS1OUm0zaFZmZWlUZ3NLODZ0TDVqdkM1NnZmTWNJVEZrVHdVbmVjd2tOLW9pQ0pmLXlOc0dDcV90b01OYmt3UkhQNzNpcVF6bVpVXzZk?oc=5"
+      },
+      {
        "titulo": "Ruud explica por qué se ven menos partidos buenos en el tenis moderno - Punto de Break",
        "fuente": "Punto de Break",
        "fecha": "2026-11-06",
@@ -10515,12 +10521,6 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGpfTjdIMGRaM3U4MHdIbWFWa1dQemV0RG1IWlhmX2c1OUZ2UUNTeGtrZkhGc00xZjVOc09CWV90cGpHaUtWTG9nZEJpWHlSbERUMzNfdERZTmtIMk9Pb0xyU2VXdG1URmF0UW44Uml2R2pibVA5RXJPNEZOYjFPRU0xdG1tSXVGVzEzazBKSQ?oc=5"
-      },
-      {
-       "titulo": "Highlights: Ruud sails past Struff into Paris 2026 QFs - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2hkTVVpTm1vaXdZMkVVeU41aVpYWGZ4bnRqWEFsTTlJMFpmQkVpRjRwWlFPSHlma0g3aVZtQWQ0aTJ4dFFpQWRXU0tXeHBKZG40TkptTXNjdzJyM2trRW5nOUdzYllhZnQ2ZFBPR19ieC1VWmFvQWJqV3kzMEhYaFdnNzFDcVNzUHhpQlpMWQ?oc=5"
       }
      ]
     },
