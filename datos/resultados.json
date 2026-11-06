@@ -241803,6 +241803,31 @@
     ]
    ],
    "completo": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Magda Linette",
+    "Mai Hontama"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
   }
  ]
 }

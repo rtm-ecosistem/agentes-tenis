@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.036,
+     "envidia": 0.035,
      "sorpresa": 0.4,
-     "impaciencia": 0.08,
+     "impaciencia": 0.079,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T16:10+00:00",
+    "hora": "2026-11-06T17:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.058,
+     "impaciencia": 0.057,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T16:10+00:00",
+    "hora": "2026-11-06T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.041,
+     "impaciencia": 0.04,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T16:10+00:00",
+    "hora": "2026-11-06T17:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.058,
+     "impaciencia": 0.057,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T16:10+00:00",
+    "hora": "2026-11-06T17:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-04T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Mattia Bellucci – Arthur Rinderknech, Quentin Halys – Frances Tiafoe, Luca Van Assche – Learner Tien…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-04T09:10+00:00",
    "texto": "📰 Noticias nuevas de Mattia Bellucci – Arthur Rinderknech, Quentin Halys – Frances Tiafoe, Luca Van Assche – Learner Tien…: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T15:28+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T17:10+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T17:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,27 +2618,43 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
+  "f5b5a4a59b30",
+  "be76cd031d37",
+  "673df6dcc74d",
+  "d4914520030f",
+  "2ffc84ed20b5",
+  "bd654d354c0f",
+  "92ee25f2ac65",
+  "a35f7ab54809",
+  "6d2c441b0fd5",
+  "1d3831ae3b40",
   "a65266723a71",
   "fc50cff5f530",
+  "49c0dfbc93ed",
+  "aacf78d82640",
   "76be3cb7f906",
   "4086c97bcaf5",
-  "aacf78d82640",
+  "adb4087240c1",
   "acbf4a772876",
-  "92ee25f2ac65",
   "36fa213e9bea",
   "9c5d1b4279b5",
   "ba1e0a934f3e",
+  "5619023ec14a",
+  "ce2f61f76ea4",
   "1f5ca0b48f96",
+  "252b6efc7967",
   "d270a6700629",
   "4eaa9319a158",
+  "e9314b2c62e0",
   "370465d4c8c4",
   "b8b95a0aa7b9",
+  "5262924345e0",
+  "cb00d608c633",
   "dca8af60abb1",
   "9a7a6d49b51c",
   "52449caf9c35",
   "cfd8253596f4",
   "b7e6f38d2eef",
-  "cb00d608c633",
   "ff202cf37379",
   "f96ae116ff9d",
   "233b1bb40f76",
@@ -2654,6 +2670,7 @@
   "80991b7f098c",
   "73b8ba463ff2",
   "d9fc9be8fbc8",
+  "94244ec574bd",
   "dc60852b785d",
   "320952370ff6",
   "177fcfae6cb7",
@@ -2719,6 +2736,7 @@
   "3e76f976821e",
   "a97523067125",
   "5cc06e243bc6",
+  "1d765c7ba5b3",
   "fac952065107",
   "6904f393bf31",
   "85f8e929b705",
@@ -2838,7 +2856,6 @@
   "ad43c1e2492c",
   "358bd03ab95b",
   "2f750c469798",
-  "e4cc76054e36",
   "6af4c7077318",
   "23621b85a301",
   "8d1c509dada9",
@@ -2872,6 +2889,7 @@
   "2781bf8144c6",
   "eb0e9e8dec68",
   "8d0498cce81d",
+  "e4cc76054e36",
   "03ea22aa10a5",
   "7a22a129097f",
   "7cece8c7f09f",
@@ -3105,7 +3123,6 @@
   "0ef7711759cc",
   "6def9c37a7ed",
   "311d759a15cf",
-  "1685ef53b0f4",
   "43c641d4fcc0",
   "93a7e4785676",
   "0b3c8d483b02",
@@ -3243,6 +3260,7 @@
   "ac0dcd2d3227",
   "b2fe43999c97",
   "a553ac3d8b23",
+  "1685ef53b0f4",
   "f4549a3ae21a",
   "7b0fe4410ec6",
   "8e03506a0f59",
@@ -3257,7 +3275,6 @@
   "257b9103ce6a",
   "f66c35e1ccc2",
   "d3687d61fbf1",
-  "be76cd031d37",
   "a9df61e3eeb1",
   "7148366d5fd7",
   "21afa57e6481",
@@ -3400,24 +3417,7 @@
   "682c6b117521",
   "e073ee7acc96",
   "12fe5057b799",
-  "314d0d5e6799",
-  "211086e51582",
-  "12ca3fa87bf6",
-  "8ae354b0f3cb",
-  "150942a377e9",
-  "503b889f112a",
-  "dfdfa2ba418f",
-  "eb043582d2a7",
-  "70698a8ff8cb",
-  "721feab1ab87",
-  "c24f4ed2f25f",
-  "afaa6ea06af5",
-  "a763927a10bb",
-  "9ca046330342",
-  "bc70ef960ff0",
-  "2dad26ea8421",
-  "a434e636a100",
-  "894350596f3a"
+  "314d0d5e6799"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3444,182 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "69ae427eb9d45bc2bc6b0ad750e25934": {
-   "id": "69ae427eb9d45bc2bc6b0ad750e25934",
-   "jugadores": [
-    "Alexander Zverev",
-    "Arthur Fery"
-   ],
-   "inicio": "2026-10-30T16:30+00:00",
-   "torneo": "ATP Vienna Open",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T15:32+00:00",
-   "elo": 0.865,
-   "elo_general": 0.863,
-   "elo_en_superficie": 0.867,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Alexander Zverev",
-     "mercado": 0.859,
-     "elo": 2008,
-     "elo_superficie": 1953,
-     "forma": [
-      "G hard vs Alexander Bublik",
-      "G hard vs Alex de Minaur",
-      "P hard vs Alejandro Davidovich Fokina",
-      "G hard vs Martin Landaluce",
-      "G hard vs Tallon Griekspoor"
-     ],
-     "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-10-29 contra Tallon Griekspoor, ganó 6-4 7-5",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
-      },
-      {
-       "titulo": "Zverev ocupa por fin su lugar en lo más alto - Yahoo",
-       "fuente": "Yahoo",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjX25RRXExQnVFcFJ0aGhneW5nUlNhbnFXdDl5ajEzSkR2T0RvM0xUU3k1cnR1ckZpeU1oc1g5dlRhWEtMLTNBZ1VaWGt4S1lfQkFGNllYcmtXVWhOM08zREY4cXZhekZveWU2WkdzYUVOVWQtV2k5WkVGdFVCRGM?oc=5"
-      },
-      {
-       "titulo": "ATP Tour Flashback presented by Nitto: Zverev gana su primer título de Viena en 2021 | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFBPTnFEUnJ6dDhXdDBwTF9yTl95SXpMd1VOWUNQYlRaZkJrb3duTExOU3V1eDJkNll2cG8tcVRoaGs2UmZEaGpPbjQzY2U1di1BR0RDNTRsSTNWdUx0ZXRUNnMxeDVyaWU5MkoxbVp1bVU4VG41VEtPNkpMVnRlQXFiMmMzMi1MdUVNbXczN3F1YU9hVHF1LV9GTTJFbkZqYmxibDV4MHVtd1l3N3ZWLVBFcw?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Arthur Fery",
-     "mercado": 0.141,
-     "elo": 1688,
-     "elo_superficie": 1627,
-     "forma": [
-      "P hard vs Jaime Faria",
-      "G hard vs Marin Cilic",
-      "P hard vs Karen Khachanov",
-      "P hard vs Borna Gojo",
-      "G hard vs Lorenzo Musetti"
-     ],
-     "cansancio": "1 partidos, 3 sets y 32 juegos en 3 días; el último el 2026-10-29 contra Lorenzo Musetti, ganó 6-4 5-7 6-4 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev - Arthur Fery, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBmUk5aY2ZqYko1QXlRVG9FUWRYMkFQbG1rLVJQb1loU2RaZzRQSE9zZFhoa3VWLTgwWmxWQjBwcFRTS1JPancwMWRaMVNVQnpkeEJZblFkQnRRc0tYbDhsV25zeHBETVFUTnc0MzFQcExHa2JaVVdxdjZsZjFncHVtWGo2Wm9mQkJLRjdHNDRSeXlaZXQxbFgzWkNVN3REZ1VGZkRVLUJ4Yi1HRS1ZWU42VndZdThxT0huWDVBTzJTLTdLcmp2NG92SnZKSUxqeTduc0tkQUhLOUJRVHRIVTZ4NzlqbDZjQXc?oc=5"
-      },
-      {
-       "titulo": "Zverez vence a Griekspoor y accede a cuartos de final en Viena - El Aragueño",
-       "fuente": "El Aragueño",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhqbVNqeWpUbG4ta2h4eGJhdDRqQjduYllLZkdod0JQSmhyUktiMEpMb1FtM1ZvSnFfUV9QZVRSMnBZSDBOUTdTdVhQMUJ0Y0FldTZicFUxWjlhYWRKZnBTcFczX1dYT1JjSnRSb1VpSzZoOW92Q0w5VWwtOHZDWkEwck5LTUFBSzJGNm1XVVNvcG8?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alexander Zverev vs Arthur Fery - Cuota & Estadística - 30 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDZBbUxtMHhrOW1vVHN6ZDRrQkZOak1ibVRQTnBvUkttMWU4Ti1uSE45Q21MM2k3UlpydllqRURlYlVGM1BZdVlWRFdkRDBJREFiLXRGbGN5UmVNVHlZbUNla3lNRmd2dTR2ODB6RjRZd2Vrelh2eGozbXR5UHdDcHkzNFliZDludDhlTXF3?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "e01a16acf3ce50a010714d85d5ff6374": {
-   "id": "e01a16acf3ce50a010714d85d5ff6374",
-   "jugadores": [
-    "Jerome Kym",
-    "Jiri Lehecka"
-   ],
-   "inicio": "2026-10-30T17:00+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T16:10+00:00",
-   "elo": 0.258,
-   "elo_general": 0.259,
-   "elo_en_superficie": 0.255,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Jerome Kym",
-     "mercado": 0.279,
-     "elo": 1640,
-     "elo_superficie": 1608,
-     "forma": [
-      "P clay vs Stefanos Tsitsipas",
-      "G hard vs Dan Added",
-      "P hard vs Colton Smith",
-      "G hard vs Arthur Rinderknech",
-      "G hard vs Ben Shelton"
-     ],
-     "cansancio": "2 partidos, 5 sets y 58 juegos en 3 días; el último el 2026-10-29 contra Ben Shelton, ganó 6-3 6-7 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Jérôme Kym tumbó a Ben Shelton y Jan-Lennard Struff a Novak Djokovic en jueves de sorpresas en Basilea - Diario Deportes",
-       "fuente": "Diario Deportes",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT25zVGlVNi1TV0NYLW5NNGIwSVM0OWd2OW5ld20xYlVzZTQyTkhnRkJycW5TLS1XUTN1S0Fmazh6bDdvbEZGSzBGOE9iMGhCbGtvV0FZZzkzbmFiWUhvNWt0N1BNN3cteFlEZnM5NE91QURXeEVENHRhdW5DaE92ckFLY2RrSmVIQ05yTmE1U25KOVRVY09SY2EzZ09ZeUcyMlRzeERpVzlpZFI5bFUyOTlsZnYzM3BGZi1GX0I1OW82eU80Qmh4Zk9iRTNBWEZRN3ZGaXlNNF9Fb1V5OGhxdlBEVS04Y1E?oc=5"
-      },
-      {
-       "titulo": "Highlights: Kym sorprende a Shelton en Basilea para lograr su mayor triunfo ATP - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaUxHWEwwRmVpUVE4bHZmcDluOG9KbEprekdDNEI0Z0JTUnMtUkd6eUVzbkwxa1E4NTZ3Wk1zRjFwVTg0YWI3Ti1kLXlBN2syZl9sZUdzdzBFM01LbWhLbWMtelUwdVF5YWhFbm9YaU9PVWItVS1ZRW5ySm55RUVIYzdnNTQ1VnVNRW9NZUFvYkY3QjF0RUZ3X2tCSjJKNTN2Q2FrYU03ZG5iZWhpdjBqcGtuamZ0SmMzbVE?oc=5"
-      },
-      {
-       "titulo": "Terremoto en Basilea: Shelton cae ante el número 222 del mundo - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0QUVxZnA5NzFfN2VHZnA1Y0l2WUYxS1VXTF92dmIyWWhDMi1yN2thR25CM3NkbDFmczZzbzNSYzktaWZ1bXZGbm1RQWNvWkgyb3F5QlVHM1BIdlRXQU10SGd3?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Jiri Lehecka",
-     "mercado": 0.721,
-     "elo": 1822,
-     "elo_superficie": 1794,
-     "forma": [
-      "P hard vs Rafael Jodar",
-      "G hard vs Raphael Collignon",
-      "P hard vs Tallon Griekspoor",
-      "G hard vs Stan Wawrinka",
-      "G hard vs Daniel Altmaier"
-     ],
-     "cansancio": "2 partidos, 4 sets y 47 juegos en 3 días; el último el 2026-10-29 contra Daniel Altmaier, ganó 7-5 6-4",
-     "noticias": [
-      {
-       "titulo": "¿Cuál es la programación de Basilea? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1razVuNDhsS1pZaTZrM0VPN0RJMU96dXJHNUVhZkpNR093MlJCeFYwOFF2cmF4a1NjMG56MXNCS2kxWUZjaFpmczBjTlFmczAwTkZrempKQWt6RWhzMW5pWQ?oc=5"
-      },
-      {
-       "titulo": "Jérôme Kym vs Jiri Lehečka · Quarterfinal · ATP Basel - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMV8yOWpSN3c2NUZjakhZcG8tVmVJemoydTZzT2FpVllGSGVEUklJWUlOSXp3bWdUMVpYb3Z4aUZQemNOZWFKVVhNSHJPcVc5SlZEc0tEaWZKYkloLVpMSVNHUTA2c2tId25CeXZiVU1xOGUwUkJiOHlMT1hGRE5KRzMtT1p2TlgwZWNyOTZ6elhScGY5a0JV?oc=5"
-      },
-      {
-       "titulo": "Daniel Altmaier vs. Jiri Lehecka Basel 2026 Round of 16 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84NkEzcmpMVUl0QmlLUG1CMW9RZDBRWHFrTGRlUUNsUjQ2OGREeGdhOEVTMEFoZkJnZGNoTEJvUk96b3BvMEFPQlc3cHE4R1Y2SlZqa3NlSXVsSXZSSFFpV3pDT1BTcFAwX0tnNk1pSlBOSWhp?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "e66be09cbf07f4ca7b22ef19c32bcb30": {
    "id": "e66be09cbf07f4ca7b22ef19c32bcb30",
    "jugadores": [
@@ -10393,7 +10217,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T15:28+00:00",
+   "actualizado": "2026-11-06T17:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10417,22 +10241,22 @@
      "cansancio": "3 partidos, 8 sets y 85 juegos en 3 días; el último el 2026-11-05 contra Arthur Fils, ganó 6-3 6-4",
      "noticias": [
       {
-       "titulo": "¿A qué hora es el Alcaraz - Fritz? TV, horario, dónde y cómo ver hoy los cuartos de final del Masters 1.000 de - Diario AS",
-       "fuente": "Diario AS",
+       "titulo": "Taylor Fritz - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQdIB_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVRSUk1rQlRjOS1mMFllWEJ0U1B3VExlbHZiN01Xb2NySzM2ZFZsNVZYYkV6Sk5VOEtHUjRMXzFnM0dreThfajA2d1RKeG5haDNBbThvTzZveUZXNlhMeVBLZGhyMDVoMG1fNzR5ak91T1ZCODBLRkZYZG1lX3oxZDFTNjlTLW5Vd3d5cGpHUkktNURJMG1Cb1ZQSmJ0c1FXcUdROG9SUTJHSmVEYUJWTVJKMTZ5eEtQZURTbVlMWEM1U1VEY1RDRDhnejVVaXRlc1N3MGNST19PdzlIT01heTR5RTg2Z0NOam1jVnpR?oc=5"
       },
       {
-       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
+       "titulo": "¿Cuáles fueron los resultados de París? - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQkkwUTZzZXJCalZQRGczMEZsdWZnQm9LcHlSczVtU190WW0zd0xfWkp2N2lyZy11Tk5kZHRPb2NULWV4cVBQRmEzN2hZY0luVFQtT282VU04UlptWVRr?oc=5"
       },
       {
-       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
+       "titulo": "A qué hora juega hoy Alcaraz en París y cómo ver el partido ante Taylor Fritz - Las Provincias",
+       "fuente": "Las Provincias",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr0gHfAUFVX3lxTFBjbGFabXRDdEs5UVZhd0ZMWk9wR0xIQ2VMOTB4c0dJeFlscmxoRzBoZEZ0RmdnaEkwUm8yWGZudWNQel9pNC0tR1BwbVJoR1EtbTVJRU45Ny1fbkR5b3dZTWdxa0pEVnBiZEozTks1OGw0c0NmMXI1dzVIRjRSdzJIVXhoMmZxTHpPMDA2OVp5aDdYb3dsSTcwN0ExbklRU1BrR3NGZG1lb3dMdVA4dTY4ekNqNnpKVFBNbUFOMVU1akh6VFhWanJsbnJVQ0R0X3p6SWlPZFRuZGc3V05uOGs?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGp1dGt5MXo2bWtTbjZ5a2Z3U29wamhzWWtNZUY4UGFlSnR1b3JCYnc2TXI3SzIyOURfV0hRVmRQTmk2bUFtbFhtSWZjYkc4NjZrTDRaY2xGSGZZbGVZLTZZV2plWU0zQjdRY3FlQTY4U3ZQQm9JZXZ6THEtU1h3S3pEOS1VUjE3d01PMmFhc1lhQzRMNEp3clpOQzZvT3h1Y0Q1cHR5dEhTYTTSAbABQVVfeXFMT1ZEdTdZSWR5VVhKckxtRlNpNWc1dUpaUUJJLVJlNllTYTBxX3NzakVZeGtISXVVV2twZUExYnhtRURtYVdzd1BKUS0wSVdDYTdCeV9VR1ZzMnlNRC1KLXM4c3I0aWFjaEdPRzNXSnl3ZksxZy04SEFFMUxQeU13clVrbzNna0NhUnIwWHg0U1ctdjh2TmtLVXpkTGlEYVZZNVBxV3VpVDZ4Q2ZnSS10MmI?oc=5"
       }
      ]
     },
@@ -10451,22 +10275,22 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
-       "titulo": "Shelton le hace un favor a Jódar en París y ahora todo queda en manos de Alcaraz - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
+       "titulo": "Taylor Fritz - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHUwZzgzdnB1QmVVLWllMmdMRk0tSGVLMnBtbHRqMERXZE43TG90N0FIb0c3RGlzNDhKbGV0d1FyWlU1SWpWckFMSFRpbjRVSUlGVTFLNl9Idlp1Q3RPOFpYZzJnSEttMUVNbzVnRGxNblZTLTd2amQ3Nl9BM2k1a0ZQSVVmcmpGcHRKYXBOZjhsMF8yLVRJaDZJeU9zUm8yRGdNNmRDaUtMeWdSMGU00gG8AUFVX3lxTE1mblpaR2IySnZlc0gzRnBvMnNPMmx6cGk0aUJOcW5Jclpfbk5jQmZPVEE2X3pGX1hqWjNnc0ROT2xqZ3ZfMFRlRHAwZTRmUXhMSnVsOWtqT3NiRnN3WHZ5MXRLS3FZTFJteHppZ1dTMS1OUm0zaFZmZWlUZ3NLODZ0TDVqdkM1NnZmTWNJVEZrVHdVbmVjd2tOLW9pQ0pmLXlOc0dDcV90b01OYmt3UkhQNzNpcVF6bVpVXzZk?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVRSUk1rQlRjOS1mMFllWEJ0U1B3VExlbHZiN01Xb2NySzM2ZFZsNVZYYkV6Sk5VOEtHUjRMXzFnM0dreThfajA2d1RKeG5haDNBbThvTzZveUZXNlhMeVBLZGhyMDVoMG1fNzR5ak91T1ZCODBLRkZYZG1lX3oxZDFTNjlTLW5Vd3d5cGpHUkktNURJMG1Cb1ZQSmJ0c1FXcUdROG9SUTJHSmVEYUJWTVJKMTZ5eEtQZURTbVlMWEM1U1VEY1RDRDhnejVVaXRlc1N3MGNST19PdzlIT01heTR5RTg2Z0NOam1jVnpR?oc=5"
       },
       {
-       "titulo": "Toni Nadal, sobre Carlos Alcaraz: \"Si me llamara a mí para entrenarlo, no me gustaría que superara en títulos a Rafa. Así que tendría un problema\" - SPORT",
-       "fuente": "SPORT",
+       "titulo": "A qué hora juega hoy Alcaraz en París y cómo ver el partido ante Taylor Fritz - Las Provincias",
+       "fuente": "Las Provincias",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnJUZ3hpQ0pBSEdNWF9OcVpJYlpkOUhnazdfYjBTSUdhYWRJQmZrYlE2TThvYXlBbm81TjRpLUdXWHlqRXhER2FDOHRBY0FOdko3aWNDTm9FZXNaTEFYTGlGcTFzNk5PM0IyUjJhSHRfVXdlNVh2SV8tYXBHZzdKeElPOWNSclk4NFHSAYoBQVVfeXFMT0pOSmM4X0VxbDFsQWM5a2JxdVZBRjZQYk9zOTh0SENUTWg0VEFlZ2pnRVRoTFZtdzF6ZC1tVDdCU01XZ0M1YVRxOHJyZVpnV0hpRkxnbXhMUnp6SzdZWGxKZnhtYUJta203MHBqclVZdEF6b0Fud2hPemRwZndELS1PWGlWS1JnX3p3?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGp1dGt5MXo2bWtTbjZ5a2Z3U29wamhzWWtNZUY4UGFlSnR1b3JCYnc2TXI3SzIyOURfV0hRVmRQTmk2bUFtbFhtSWZjYkc4NjZrTDRaY2xGSGZZbGVZLTZZV2plWU0zQjdRY3FlQTY4U3ZQQm9JZXZ6THEtU1h3S3pEOS1VUjE3d01PMmFhc1lhQzRMNEp3clpOQzZvT3h1Y0Q1cHR5dEhTYTTSAbABQVVfeXFMT1ZEdTdZSWR5VVhKckxtRlNpNWc1dUpaUUJJLVJlNllTYTBxX3NzakVZeGtISXVVV2twZUExYnhtRURtYVdzd1BKUS0wSVdDYTdCeV9VR1ZzMnlNRC1KLXM4c3I0aWFjaEdPRzNXSnl3ZksxZy04SEFFMUxQeU13clVrbzNna0NhUnIwWHg0U1ctdjh2TmtLVXpkTGlEYVZZNVBxV3VpVDZ4Q2ZnSS10MmI?oc=5"
       },
       {
-       "titulo": "¿A qué hora es el Alcaraz - Fritz? TV, horario, dónde y cómo ver hoy los cuartos de final del Masters 1.000 de - Diario AS",
-       "fuente": "Diario AS",
+       "titulo": "La clasificación de Jódar a Turín está en manos de Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQdIB_gFBVV95cUxOVXVwb0h6ZHhZUzM2LWctbmpYU0gwWlB2djk3RnE0RVFpMXpmc3I0REM3NEpCTTM3Qkc4YmR2czFiSlNEenZwTTVjSFl3SWI5VnpYZXNqYnc3UkQ5T1NuU0ZzUjlmdFJGWVQtcXBRT1U3cnlyYXdsR2c5RnR1dkpwbERBT1EtY0Vxdjg1aDBXSnk0SzF2eWpucXhWZVVnMmdfRHZlX1E4VHJJcmxrTEVXOURrU0JEbklWdXluZVlKVnFvYkkyUmlHV3g4MUdpcXBCdjd4dE9MS1VMTWUyblFhbnhTRUNQYTdseG9HRHhpdU54MkR4UTI4amctTURxQQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUFWUXYzVHplelpGWUg5akNYNkd5eUdIN2thRjVfclltYmMwRkN5dnJVNjRFd3ZKb3pIZklXaTc4czRENGlzdjJmSEZLYnlfa2YzWXdEanAxdE9lenFxaDgtRmE0eldyb2hMVlJoM0ZMVHlZcmQ3bk8tVGNlNG0yeEJlcU80TmQzZ21JcEwwdGVfbHItWmww?oc=5"
       }
      ]
     }
@@ -10481,7 +10305,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T15:28+00:00",
+   "actualizado": "2026-11-06T17:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
