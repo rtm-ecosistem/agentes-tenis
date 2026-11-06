@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T08:01+00:00",
+ "actualizado": "2026-11-06T08:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-11-06T08:00+00:00",
   "prevision_mes": 96,
   "noticias": {
-   "dia": "2026-11-05",
+   "dia": "2026-11-06",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -2033,6 +2033,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-06T08:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T08:10+00:00",
+   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz…: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-06T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2170,16 +2180,6 @@
   {
    "hora": "2026-11-05T09:10+00:00",
    "texto": "📰 Noticias nuevas de Lorenzo Musetti – Luca Van Assche, Rinky Hijikata – Tomas Martin Etcheverry, Jan-Lennard Struff – Casper Ruud…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Tommy Paul – Quentin Halys, Ben Shelton – Arthur Rinderknech, Lorenzo Musetti – Luca Van Assche…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -9381,7 +9381,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:00+00:00",
+   "actualizado": "2026-11-06T08:10+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -9469,7 +9469,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:00+00:00",
+   "actualizado": "2026-11-06T08:10+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -9557,7 +9557,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:00+00:00",
+   "actualizado": "2026-11-06T08:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -9645,7 +9645,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:00+00:00",
+   "actualizado": "2026-11-06T08:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
