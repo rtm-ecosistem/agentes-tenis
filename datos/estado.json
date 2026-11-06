@@ -159,9 +159,9 @@
    "animo": {
     "mezcla": {
      "tension": 0.3,
-     "envidia": 0.04,
+     "envidia": 0.039,
      "sorpresa": 0.4,
-     "impaciencia": 0.089,
+     "impaciencia": 0.088,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T08:10+00:00",
+    "hora": "2026-11-06T09:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.066,
+     "impaciencia": 0.065,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T08:10+00:00",
+    "hora": "2026-11-06T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -475,14 +475,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.045,
+     "impaciencia": 0.044,
      "aburrimiento": 0.27
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T08:10+00:00",
+    "hora": "2026-11-06T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.066,
+     "impaciencia": 0.065,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T08:10+00:00",
+    "hora": "2026-11-06T09:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-03T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Alex Michelsen – Jiri Lehecka, Ben Shelton – Cameron Norrie: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-03T13:10+00:00",
    "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T08:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T09:10+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T09:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,8 +2618,10 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-05-20",
  "noticias_vistas": [
+  "b480d3f3db68",
   "d4230a22cd72",
   "6bfefce9c3ec",
+  "bfc9cba4b25f",
   "eea166f0dec9",
   "5c7652f9d17d",
   "c348a131a267",
@@ -2627,7 +2629,6 @@
   "370465d4c8c4",
   "9de012035b7f",
   "7e41f725e45c",
-  "b480d3f3db68",
   "746e849e82ff",
   "c51aab12803e",
   "baafff872480",
@@ -2637,6 +2638,7 @@
   "0db3675bb87a",
   "36e72be47af6",
   "17567526f65a",
+  "1f615d651b40",
   "d588f662706e",
   "a6a50b60a410",
   "89d8466d433c",
@@ -2659,12 +2661,13 @@
   "901e269a56ff",
   "42e4b88e4d9c",
   "615c25c245c5",
-  "92ee25f2ac65",
   "b44bea052ce7",
+  "92ee25f2ac65",
   "1020f9a6e657",
+  "e6c2464d5fda",
   "a420b180e0c0",
   "3e76f976821e",
-  "e6c2464d5fda",
+  "f3d7fc33c3e0",
   "5cc06e243bc6",
   "320952370ff6",
   "fac952065107",
@@ -2706,6 +2709,7 @@
   "0bb89857bff3",
   "1539fbfcdf61",
   "882f98991e92",
+  "f9f8469a4586",
   "c47e19edf3d9",
   "84e2fab87148",
   "3bf01bbbf68e",
@@ -2736,6 +2740,8 @@
   "e65b5a8ca8cf",
   "c7519a44ebf8",
   "01313dc02de2",
+  "1d1427c0e61d",
+  "18b4f9635a9b",
   "575a442acf93",
   "629bbd34fcc0",
   "311ee260a11c",
@@ -2754,6 +2760,7 @@
   "4e9e75f2cd77",
   "62602efdfb6b",
   "7f7237907efc",
+  "a9717dc372f0",
   "1fc3dd700649",
   "330af29483fe",
   "aab620736777",
@@ -2762,7 +2769,6 @@
   "31d351a3bb17",
   "baf5ff3acbed",
   "0c45f67092fa",
-  "a9717dc372f0",
   "6bea3b2b1f6c",
   "487ebc537f55",
   "dbfb92284921",
@@ -2777,6 +2783,7 @@
   "da8e5bd295cf",
   "cdee184e1b90",
   "daff5900161a",
+  "3f3cbb2abd7f",
   "ad43c1e2492c",
   "358bd03ab95b",
   "e4cc76054e36",
@@ -2934,6 +2941,7 @@
   "4228d1283522",
   "17bdf8ae099e",
   "38f6ef3d8d4d",
+  "4e48358a8894",
   "2dfc5408decb",
   "7a46f3f71f05",
   "27cd6bbb4898",
@@ -2978,7 +2986,6 @@
   "871649476b42",
   "0510d2eac060",
   "71336f82ac8f",
-  "f9f8469a4586",
   "a75580b68488",
   "4255971cf82d",
   "1f5b8f79d033",
@@ -3051,10 +3058,10 @@
   "ce28395f382e",
   "faec74dc6463",
   "061df9a05539",
-  "5671ad2d6fb3",
   "3199e0599a4c",
   "fd758fca0db9",
   "d2d958f64a14",
+  "5671ad2d6fb3",
   "2cfdaddd8276",
   "5b83217f1f9d",
   "597cefa346d6",
@@ -3410,14 +3417,7 @@
   "f62b703d788d",
   "7361bcb11b98",
   "708ac55a8f31",
-  "2468608dc2e0",
-  "8982b8b64695",
-  "7a210b595e62",
-  "873fe7c25c9b",
-  "cfc8f5507ab8",
-  "3d56096fbdd0",
-  "894676e0f7b6",
-  "10b96efe4a25"
+  "2468608dc2e0"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10569,7 +10569,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:10+00:00",
+   "actualizado": "2026-11-06T09:10+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -10657,7 +10657,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:10+00:00",
+   "actualizado": "2026-11-06T09:10+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -10745,7 +10745,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:10+00:00",
+   "actualizado": "2026-11-06T09:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10833,7 +10833,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T08:10+00:00",
+   "actualizado": "2026-11-06T09:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
