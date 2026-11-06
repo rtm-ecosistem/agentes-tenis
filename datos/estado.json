@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.036,
      "sorpresa": 0.4,
-     "impaciencia": 0.081,
+     "impaciencia": 0.08,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T15:28+00:00",
+    "hora": "2026-11-06T16:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.059,
+     "impaciencia": 0.058,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:28+00:00",
+    "hora": "2026-11-06T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:28+00:00",
+    "hora": "2026-11-06T16:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.059,
+     "impaciencia": 0.058,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T15:28+00:00",
+    "hora": "2026-11-06T16:10+00:00",
     "rent": 0.0
    }
   }
@@ -2618,6 +2618,7 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
+  "a65266723a71",
   "fc50cff5f530",
   "76be3cb7f906",
   "4086c97bcaf5",
@@ -2673,6 +2674,7 @@
   "670d26031839",
   "baafff872480",
   "115d0f51c8d3",
+  "da5aea5d38db",
   "0715759f14d9",
   "3209133a8db4",
   "4e75fd4e4b3e",
@@ -2699,6 +2701,7 @@
   "62e6aacc8f75",
   "3eb967f3def8",
   "fc4ee4f0f2be",
+  "1a0f152086ff",
   "10e827dd4ad7",
   "579821d7adfc",
   "dcce94f2796c",
@@ -2826,7 +2829,6 @@
   "10b4724a82a0",
   "6c4f9e092afc",
   "a58b288f6fb5",
-  "da5aea5d38db",
   "459778daf6b5",
   "fbf103efcc61",
   "da8e5bd295cf",
@@ -2876,7 +2878,6 @@
   "86befcb8d8bf",
   "bae227663c91",
   "0fc9af00a48d",
-  "1a0f152086ff",
   "094168271ff1",
   "3cfb03176f57",
   "ed997ae1d2fc",
@@ -3049,6 +3050,7 @@
   "fc439dde5c6a",
   "49e45b213fa6",
   "8b2cfea5606d",
+  "de2cb8522cab",
   "dd1198e3bc64",
   "b1342fb210ff",
   "d67fc26e3fc5",
@@ -3351,6 +3353,7 @@
   "01250777294a",
   "1baac6335037",
   "f42cecaa6c2d",
+  "cbe45838f67b",
   "baebc75a3bf3",
   "509eb234882a",
   "e9f72fb7c9fe",
@@ -3414,10 +3417,7 @@
   "bc70ef960ff0",
   "2dad26ea8421",
   "a434e636a100",
-  "894350596f3a",
-  "68b3a584d4e3",
-  "b3b49abe7487",
-  "537011696eb6"
+  "894350596f3a"
  ],
  "sala_aciertos": {
   "favorito": [

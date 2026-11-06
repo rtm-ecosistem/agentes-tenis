@@ -241786,6 +241786,23 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yasmine Kabbaj",
+    "Anna Blinkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     0,
+     2
+    ]
+   ],
+   "completo": false
   }
  ]
 }
