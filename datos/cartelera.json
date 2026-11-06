@@ -1,405 +1,205 @@
 {
- "actualizado": "2026-11-05T08:00+00:00",
+ "actualizado": "2026-11-06T08:00+00:00",
  "casa": "betsson",
  "partidos": [
   {
-   "id": "4111a4ac0ae11935311b655ebadd040b",
+   "id": "10a66a309af482f75813cc0d9ce0bdd1",
    "deporte": "tennis_atp_paris_masters",
    "torneo": "ATP Paris Masters",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-05T10:00+00:00",
-   "jugadores": [
-    "Tommy Paul",
-    "Quentin Halys"
-   ],
-   "opciones": [
-    {
-     "id": "4111a4ac0ae11935311b655ebadd040b|h2h|Quentin Halys|",
-     "mercado": "h2h",
-     "nombre": "Quentin Halys",
-     "punto": null,
-     "cuota": 3.45,
-     "pinnacle": 3.73
-    },
-    {
-     "id": "4111a4ac0ae11935311b655ebadd040b|h2h|Tommy Paul|",
-     "mercado": "h2h",
-     "nombre": "Tommy Paul",
-     "punto": null,
-     "cuota": 1.31,
-     "pinnacle": 1.32
-    },
-    {
-     "id": "4111a4ac0ae11935311b655ebadd040b|totals|Over|22.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.81,
-     "pinnacle": null
-    },
-    {
-     "id": "4111a4ac0ae11935311b655ebadd040b|totals|Under|22.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 22.5,
-     "cuota": 1.89,
-     "pinnacle": null
-    }
-   ],
-   "pinnacle_h2h": {
-    "Quentin Halys": 3.73,
-    "Tommy Paul": 1.32
-   }
-  },
-  {
-   "id": "8a2e76c34cf0bce53c2afc75d9f2793e",
-   "deporte": "tennis_atp_paris_masters",
-   "torneo": "ATP Paris Masters",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-05T11:10+00:00",
+   "inicio": "2026-11-06T13:00+00:00",
    "jugadores": [
     "Ben Shelton",
-    "Arthur Rinderknech"
+    "Tommy Paul"
    ],
    "opciones": [
     {
-     "id": "8a2e76c34cf0bce53c2afc75d9f2793e|h2h|Arthur Rinderknech|",
-     "mercado": "h2h",
-     "nombre": "Arthur Rinderknech",
-     "punto": null,
-     "cuota": 3.55,
-     "pinnacle": 3.52
-    },
-    {
-     "id": "8a2e76c34cf0bce53c2afc75d9f2793e|h2h|Ben Shelton|",
+     "id": "10a66a309af482f75813cc0d9ce0bdd1|h2h|Ben Shelton|",
      "mercado": "h2h",
      "nombre": "Ben Shelton",
      "punto": null,
-     "cuota": 1.3,
-     "pinnacle": 1.34
+     "cuota": 2.05,
+     "pinnacle": 2.08
     },
     {
-     "id": "8a2e76c34cf0bce53c2afc75d9f2793e|totals|Over|23.5",
+     "id": "10a66a309af482f75813cc0d9ce0bdd1|h2h|Tommy Paul|",
+     "mercado": "h2h",
+     "nombre": "Tommy Paul",
+     "punto": null,
+     "cuota": 1.78,
+     "pinnacle": 1.83
+    },
+    {
+     "id": "10a66a309af482f75813cc0d9ce0bdd1|totals|Over|25.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 23.5,
-     "cuota": 1.89,
-     "pinnacle": 1.95
+     "punto": 25.5,
+     "cuota": 1.87,
+     "pinnacle": null
     },
     {
-     "id": "8a2e76c34cf0bce53c2afc75d9f2793e|totals|Under|23.5",
+     "id": "10a66a309af482f75813cc0d9ce0bdd1|totals|Under|25.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 23.5,
-     "cuota": 1.82,
-     "pinnacle": 1.92
+     "punto": 25.5,
+     "cuota": 1.83,
+     "pinnacle": null
     }
    ],
    "pinnacle_h2h": {
-    "Arthur Rinderknech": 3.52,
-    "Ben Shelton": 1.34
+    "Ben Shelton": 2.08,
+    "Tommy Paul": 1.83
    }
   },
   {
-   "id": "8962e5108426884c7237a80948c77cfb",
+   "id": "f1676b13a42184d83dee9e84e1b17aa5",
    "deporte": "tennis_atp_paris_masters",
    "torneo": "ATP Paris Masters",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-05T12:20+00:00",
+   "inicio": "2026-11-06T14:10+00:00",
    "jugadores": [
-    "Lorenzo Musetti",
-    "Luca Van Assche"
+    "Luca Van Assche",
+    "Rinky Hijikata"
    ],
    "opciones": [
     {
-     "id": "8962e5108426884c7237a80948c77cfb|h2h|Lorenzo Musetti|",
-     "mercado": "h2h",
-     "nombre": "Lorenzo Musetti",
-     "punto": null,
-     "cuota": 1.34,
-     "pinnacle": 1.34
-    },
-    {
-     "id": "8962e5108426884c7237a80948c77cfb|h2h|Luca Van Assche|",
+     "id": "f1676b13a42184d83dee9e84e1b17aa5|h2h|Luca Van Assche|",
      "mercado": "h2h",
      "nombre": "Luca Van Assche",
      "punto": null,
-     "cuota": 3.3,
-     "pinnacle": 3.53
+     "cuota": 1.59,
+     "pinnacle": 1.59
     },
     {
-     "id": "8962e5108426884c7237a80948c77cfb|totals|Over|22.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.89,
-     "pinnacle": 2.02
-    },
-    {
-     "id": "8962e5108426884c7237a80948c77cfb|totals|Under|22.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 22.5,
-     "cuota": 1.81,
-     "pinnacle": 1.86
-    }
-   ],
-   "pinnacle_h2h": {
-    "Lorenzo Musetti": 1.34,
-    "Luca Van Assche": 3.53
-   }
-  },
-  {
-   "id": "ce54c1892701e4d3d4713f621a47cc00",
-   "deporte": "tennis_atp_paris_masters",
-   "torneo": "ATP Paris Masters",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-05T13:00+00:00",
-   "jugadores": [
-    "Rinky Hijikata",
-    "Tomas Martin Etcheverry"
-   ],
-   "opciones": [
-    {
-     "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Rinky Hijikata|",
+     "id": "f1676b13a42184d83dee9e84e1b17aa5|h2h|Rinky Hijikata|",
      "mercado": "h2h",
      "nombre": "Rinky Hijikata",
      "punto": null,
-     "cuota": 2.08,
-     "pinnacle": 2.14
+     "cuota": 2.37,
+     "pinnacle": 2.49
     },
     {
-     "id": "ce54c1892701e4d3d4713f621a47cc00|h2h|Tomas Martin Etcheverry|",
-     "mercado": "h2h",
-     "nombre": "Tomas Martin Etcheverry",
-     "punto": null,
-     "cuota": 1.75,
-     "pinnacle": 1.78
-    },
-    {
-     "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Over|23.5",
+     "id": "f1676b13a42184d83dee9e84e1b17aa5|totals|Over|23.5",
      "mercado": "totals",
      "nombre": "Over",
      "punto": 23.5,
-     "cuota": 1.93,
+     "cuota": 1.96,
      "pinnacle": null
     },
     {
-     "id": "ce54c1892701e4d3d4713f621a47cc00|totals|Under|23.5",
+     "id": "f1676b13a42184d83dee9e84e1b17aa5|totals|Under|23.5",
      "mercado": "totals",
      "nombre": "Under",
      "punto": 23.5,
-     "cuota": 1.78,
+     "cuota": 1.76,
      "pinnacle": null
     }
    ],
    "pinnacle_h2h": {
-    "Rinky Hijikata": 2.14,
-    "Tomas Martin Etcheverry": 1.78
+    "Luca Van Assche": 1.59,
+    "Rinky Hijikata": 2.49
    }
   },
   {
-   "id": "235263f6f3bbd21f2327b39e61407934",
+   "id": "e4e0781ebc80c47d216dd73609a3c8e0",
    "deporte": "tennis_atp_paris_masters",
    "torneo": "ATP Paris Masters",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-05T14:10+00:00",
+   "inicio": "2026-11-06T18:00+00:00",
    "jugadores": [
-    "Nuno Borges",
-    "Ignacio Buse"
-   ],
-   "opciones": [
-    {
-     "id": "235263f6f3bbd21f2327b39e61407934|h2h|Ignacio Buse|",
-     "mercado": "h2h",
-     "nombre": "Ignacio Buse",
-     "punto": null,
-     "cuota": 2.24,
-     "pinnacle": 2.38
-    },
-    {
-     "id": "235263f6f3bbd21f2327b39e61407934|h2h|Nuno Borges|",
-     "mercado": "h2h",
-     "nombre": "Nuno Borges",
-     "punto": null,
-     "cuota": 1.66,
-     "pinnacle": 1.65
-    },
-    {
-     "id": "235263f6f3bbd21f2327b39e61407934|totals|Over|22.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.77,
-     "pinnacle": null
-    },
-    {
-     "id": "235263f6f3bbd21f2327b39e61407934|totals|Under|22.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 22.5,
-     "cuota": 1.94,
-     "pinnacle": null
-    }
-   ],
-   "pinnacle_h2h": {
-    "Ignacio Buse": 2.38,
-    "Nuno Borges": 1.65
-   }
-  },
-  {
-   "id": "47d9edba7490e876194504362c877fe3",
-   "deporte": "tennis_atp_paris_masters",
-   "torneo": "ATP Paris Masters",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-05T15:20+00:00",
-   "jugadores": [
-    "Jan-Lennard Struff",
-    "Casper Ruud"
-   ],
-   "opciones": [
-    {
-     "id": "47d9edba7490e876194504362c877fe3|h2h|Casper Ruud|",
-     "mercado": "h2h",
-     "nombre": "Casper Ruud",
-     "punto": null,
-     "cuota": 1.5,
-     "pinnacle": 1.54
-    },
-    {
-     "id": "47d9edba7490e876194504362c877fe3|h2h|Jan-Lennard Struff|",
-     "mercado": "h2h",
-     "nombre": "Jan-Lennard Struff",
-     "punto": null,
-     "cuota": 2.6,
-     "pinnacle": 2.63
-    },
-    {
-     "id": "47d9edba7490e876194504362c877fe3|totals|Over|23.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 23.5,
-     "cuota": 1.94,
-     "pinnacle": 1.97
-    },
-    {
-     "id": "47d9edba7490e876194504362c877fe3|totals|Under|23.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 23.5,
-     "cuota": 1.77,
-     "pinnacle": 1.9
-    }
-   ],
-   "pinnacle_h2h": {
-    "Casper Ruud": 1.54,
-    "Jan-Lennard Struff": 2.63
-   }
-  },
-  {
-   "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
-   "deporte": "tennis_atp_paris_masters",
-   "torneo": "ATP Paris Masters",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-05T18:00+00:00",
-   "jugadores": [
-    "Matteo Berrettini",
+    "Taylor Fritz",
     "Carlos Alcaraz"
    ],
    "opciones": [
     {
-     "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Carlos Alcaraz|",
+     "id": "e4e0781ebc80c47d216dd73609a3c8e0|h2h|Carlos Alcaraz|",
      "mercado": "h2h",
      "nombre": "Carlos Alcaraz",
      "punto": null,
-     "cuota": 1.15,
-     "pinnacle": 1.18
+     "cuota": 1.33,
+     "pinnacle": 1.35
     },
     {
-     "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|h2h|Matteo Berrettini|",
+     "id": "e4e0781ebc80c47d216dd73609a3c8e0|h2h|Taylor Fritz|",
      "mercado": "h2h",
-     "nombre": "Matteo Berrettini",
+     "nombre": "Taylor Fritz",
      "punto": null,
-     "cuota": 5.6,
-     "pinnacle": 5.6
+     "cuota": 3.35,
+     "pinnacle": 3.45
     },
     {
-     "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Over|21.5",
+     "id": "e4e0781ebc80c47d216dd73609a3c8e0|totals|Over|22.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 21.5,
-     "cuota": 1.88,
-     "pinnacle": 1.93
+     "punto": 22.5,
+     "cuota": 1.8,
+     "pinnacle": null
     },
     {
-     "id": "1ef82c68f5ccf78aa0a6d031f750cc6e|totals|Under|21.5",
+     "id": "e4e0781ebc80c47d216dd73609a3c8e0|totals|Under|22.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 21.5,
-     "cuota": 1.82,
-     "pinnacle": 1.93
+     "punto": 22.5,
+     "cuota": 1.91,
+     "pinnacle": null
     }
    ],
    "pinnacle_h2h": {
-    "Carlos Alcaraz": 1.18,
-    "Matteo Berrettini": 5.6
+    "Carlos Alcaraz": 1.35,
+    "Taylor Fritz": 3.45
    }
   },
   {
-   "id": "6a03e950601f142942705acfb764d107",
+   "id": "0adc47c275819823d018232033a6de7f",
    "deporte": "tennis_atp_paris_masters",
    "torneo": "ATP Paris Masters",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-05T19:30+00:00",
+   "inicio": "2026-11-06T19:30+00:00",
    "jugadores": [
-    "Arthur Fils",
-    "Taylor Fritz"
+    "Casper Ruud",
+    "Nuno Borges"
    ],
    "opciones": [
     {
-     "id": "6a03e950601f142942705acfb764d107|h2h|Arthur Fils|",
+     "id": "0adc47c275819823d018232033a6de7f|h2h|Casper Ruud|",
      "mercado": "h2h",
-     "nombre": "Arthur Fils",
+     "nombre": "Casper Ruud",
      "punto": null,
-     "cuota": 1.76,
-     "pinnacle": 1.78
+     "cuota": 1.46,
+     "pinnacle": 1.48
     },
     {
-     "id": "6a03e950601f142942705acfb764d107|h2h|Taylor Fritz|",
+     "id": "0adc47c275819823d018232033a6de7f|h2h|Nuno Borges|",
      "mercado": "h2h",
-     "nombre": "Taylor Fritz",
+     "nombre": "Nuno Borges",
      "punto": null,
-     "cuota": 2.08,
-     "pinnacle": 2.15
+     "cuota": 2.75,
+     "pinnacle": 2.82
     },
     {
-     "id": "6a03e950601f142942705acfb764d107|totals|Over|23.5",
+     "id": "0adc47c275819823d018232033a6de7f|totals|Over|22.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 23.5,
-     "cuota": 1.85,
-     "pinnacle": null
+     "punto": 22.5,
+     "cuota": 1.83,
+     "pinnacle": 1.88
     },
     {
-     "id": "6a03e950601f142942705acfb764d107|totals|Under|23.5",
+     "id": "0adc47c275819823d018232033a6de7f|totals|Under|22.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 23.5,
-     "cuota": 1.86,
-     "pinnacle": null
+     "punto": 22.5,
+     "cuota": 1.87,
+     "pinnacle": 1.99
     }
    ],
    "pinnacle_h2h": {
-    "Arthur Fils": 1.78,
-    "Taylor Fritz": 2.15
+    "Casper Ruud": 1.48,
+    "Nuno Borges": 2.82
    }
   }
  ]
