@@ -2616,7 +2616,7 @@
   "betsson": 4008
  },
  "ultima_decision": "2026-11-06",
- "ultima_sala": "2026-11-05-20",
+ "ultima_sala": "2026-11-06-14",
  "noticias_vistas": [
   "370465d4c8c4",
   "b8b95a0aa7b9",
@@ -3444,182 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "7e16ce6f4bf3a1b6f3ecf28768bb8653": {
-   "id": "7e16ce6f4bf3a1b6f3ecf28768bb8653",
-   "jugadores": [
-    "Adrian Mannarino",
-    "Daniil Medvedev"
-   ],
-   "inicio": "2026-10-30T12:30+00:00",
-   "torneo": "ATP Vienna Open",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T11:19+00:00",
-   "elo": 0.242,
-   "elo_general": 0.243,
-   "elo_en_superficie": 0.241,
-   "cara_a_cara": [
-    0,
-    2
-   ],
-   "detalle": [
-    {
-     "nombre": "Adrian Mannarino",
-     "mercado": 0.225,
-     "elo": 1700,
-     "elo_superficie": 1710,
-     "forma": [
-      "P hard vs Nikoloz Basilashvili",
-      "G hard vs Thiago Agustin Tirante",
-      "G hard vs Alex Molcan",
-      "G hard vs Ignacio Buse",
-      "G hard vs Jakub Mensik"
-     ],
-     "cansancio": "2 partidos, 5 sets y 50 juegos en 3 días; el último el 2026-10-28 contra Jakub Mensik, ganó 6-4 7-5",
-     "noticias": [
-      {
-       "titulo": "Mannarino y las 15 obsesiones que lo convierten en un tenista único - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODVySE9pRDZLMjNrRjBzSVJyZTZIUE1QcnNPTVRGRmpPem4td2NFNXc2ek1yZFNJUWxPSm12WWpHNmRSUW10ZEszemlOdWtqZE02VXVGNGh6RF9GSFQxUExkTUhZRlRVOEdEN0V1VlphamE3QmlTTTVMOURxZTAwaGloX3M4TTJSbk1NZ0xUb2lhZw?oc=5"
-      },
-      {
-       "titulo": "Resumen del Adrian Mannarino - Daniil Medvedev - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGpJTFFJcWdqT0F1aFdoWFZXVTFRLXJ0SUFObHF4c1NKNXViRlVtMnF5X1VEa2g3dXFCT1B5NEg5d3FqZGJfY25Gbm1QMjIzVjN2T2drMHZpdEVhQjZLMjl2TXJOZnMySFpBaW1OdXUtX0ItQ1NJem5BN3M5RVNyeVFLRG1fcUhNSEZIX1VwT3ZWNE0zaVRoU2lSVC1VU0M2RldWLVllNnFPZw?oc=5"
-      },
-      {
-       "titulo": "Adrian Mannarino vs Daniil Medvedev · Quarterfinal · ATP Vienna - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFZaY3FwV29feFd1TUFPMXdOdDROdkhCUGh0eGhyVmdmZzlQQ05JNTlXdWt5dnhxZ0hwVnpRVU14SW5wTklBbHB4ckt5YVJCVUpNSnVNaW5TN3JkdTZPVGZkaWtEbUtxRGM0bnowRy1aR2Vma2VBbmVGaFdNcFlSS1VOaWM4bmkyc2VNQm9VNExVRzhyUWxXSVRRQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Daniil Medvedev",
-     "mercado": 0.775,
-     "elo": 1897,
-     "elo_superficie": 1909,
-     "forma": [
-      "G hard vs Sho Shimabukuro",
-      "G hard vs Terence Atmane",
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Daniel Merida",
-      "G hard vs Cameron Norrie"
-     ],
-     "cansancio": "2 partidos, 5 sets y 52 juegos en 3 días; el último el 2026-10-29 contra Cameron Norrie, ganó 4-6 6-3 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "¿Cuál es la programación de Viena? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Tkt6VWZYbTQyMFZWcXJRTnpTQmtQSkQxY3RTUVA3WW5hMmtRYVF3Q1FPa1VOSWVhSHAya3Y2RUV2eGQ2NUd4UGxtUk1QQUtCTW9vdldTREhCSjJpLXVMMlNR?oc=5"
-      },
-      {
-       "titulo": "Highlights: Medvedev supera a Struff en su debut en Shanghái 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb005Nm5PNnNDTVp5RC1jR2Y1Vmw0V1YyUUU1RzZRVHp4dVlkVlhEZW1scXZabDVsTUg0eDZnNS1iYXZ1VjVoS2I4aFdfcWxZRjdYWFJiVml4Y0E2R0VVUkw5eldjWmV4V2d1NERTbWhfeWVEdEdITm9yU2V0dDh0a28wWVY5em44Nm1ZRWZyWV9BTHZZOEE?oc=5"
-      },
-      {
-       "titulo": "Daniil Medvedev levanta bola de partido en Viena - MUNDIARIO",
-       "fuente": "MUNDIARIO",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWZiZ2l5Szh5OUlUTXBhOUczUW85UnN0aDM4cnFHOWVtSFRpZ1ZPUDVPLTA3MlU2UnhRWGYtQ3J0Nnd2OW11cW94aXlpam52YTVPb1FnbHdYMkhrOEdnZ3Rha25Gc2tlNHl0SXJnM0ZrcU5EN2tzRXBKckFoakxoNVVRaHZRbzhYbnhiMWo5clVYVENqblVZOEYzTmpaT3NhNDZ0UTJmSlNMdHRBM1BOMUpPNEtRdFB4Z3J1TXNmRmZ5SW1nQ0NQTtIBzgFBVV95cUxQWmpJeDBTZ1UxT0VRbzRfYzlBQVItckNnZmc5RWNmajRpZGhYWU5paThodzkyS21udFRJOTZTMlQ3cTlUSmZQN0Iyc2EteWk3N1hWcTVpRzh2cE9XMHdQQVlkZkE5bkkyaUF4TVpvTGR1bFJvUEEtU1Zha1Qtc0xQdUNveEtfLWZtWUQyV1JoWW54UFY1UTAxOEJ3VDN3eE5yLU1Ic0VZRU85dUtGeUVDcGhvSG5zY2VkdzBKU3hrR1VFdVRRaFcydW9MUWE0QQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "4eebb3b42f713eff0e760f9abef41572": {
-   "id": "4eebb3b42f713eff0e760f9abef41572",
-   "jugadores": [
-    "Holger Rune",
-    "Valentin Vacherot"
-   ],
-   "inicio": "2026-10-30T13:00+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-30T12:10+00:00",
-   "elo": 0.442,
-   "elo_general": 0.422,
-   "elo_en_superficie": 0.461,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Holger Rune",
-     "mercado": 0.578,
-     "elo": 1722,
-     "elo_superficie": 1745,
-     "forma": [
-      "P hard vs Ugo Humbert",
-      "P hard vs Kyrian Jacquet",
-      "P hard vs Daniel Altmaier",
-      "G hard vs Quentin Halys",
-      "G hard vs Hubert Hurkacz"
-     ],
-     "cansancio": "1 partidos, 3 sets y 31 juegos en 3 días; el último el 2026-10-28 contra Hubert Hurkacz, ganó 3-6 6-3 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Hot Shot: Rune y un gran match-point en Basilea 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDluMkZPbFpzSVVMcDdOcXpVbHVyR1lITlFiSXRtQURvSzRzaFMwVGdmQy0xcjVkNXhJVV92ckx1VkFrU0RiWjNtMThNbVZwNFZTN0QwRHpmVlBJeTNZUG15QkltSmVvRXkwTG5LcU5scjN1WlRQMnVFYWlkdkMtUTkyTTNGTkE?oc=5"
-      },
-      {
-       "titulo": "Holger Rune vs Valentin Vacherot: Set 2 Winner - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGpRbnN2QVRnR3NsRzJBLVZBMXFqMTI1MVhIVXhPY3Z1NUZpOVd1U0pqQnh6SllzYU5LU1E4aHVvRUNhOHVDRkJDTDhlZ2FmX2R3N2czU19qRmxINHE2aG1fRWpveFRDRGJZRGZGMUJXV2J5Z04wZS1tSk16aEE3d2RXVzhVQQ?oc=5"
-      },
-      {
-       "titulo": "Holger Rune - Valentin Vacherot en directo - ATP Basilea: Resultados y resúmenes de Tenis - 30/10/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1lrR2xzT0d6TEkwclFJblRtZW14RzlpSjRrakZWbG02RDI2NldJRkFrQ1pvSGQ0SUt6V2FHQk1MYkpaejMwVG5hNTEtSzM3dVBaQ2Q3TEJ6TENzQXVNbDI4QmlyTVNPTGR2SFB6TmsyMllDbkthMEVpMnFKMG9MTEp2QWY0ZHZqVHZxUF9lWlFGdE9kR0gzaHZOTUpRcXZ6WjN1Si1WdTQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Valentin Vacherot",
-     "mercado": 0.422,
-     "elo": 1777,
-     "elo_superficie": 1772,
-     "forma": [
-      "G hard vs Sebastian Baez",
-      "P hard vs Tommy Paul",
-      "P hard vs Luca Van Assche",
-      "G hard vs Mariano Navone",
-      "G hard vs Rafael Jodar"
-     ],
-     "cansancio": "1 partidos, 3 sets y 34 juegos en 3 días; el último el 2026-10-29 contra Rafael Jodar, ganó 7-6 2-6 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Holger Rune vs Valentin Vacherot: Set 2 Winner - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGpRbnN2QVRnR3NsRzJBLVZBMXFqMTI1MVhIVXhPY3Z1NUZpOVd1U0pqQnh6SllzYU5LU1E4aHVvRUNhOHVDRkJDTDhlZ2FmX2R3N2czU19qRmxINHE2aG1fRWpveFRDRGJZRGZGMUJXV2J5Z04wZS1tSk16aEE3d2RXVzhVQQ?oc=5"
-      },
-      {
-       "titulo": "Rafa Jódar cae ante Vacherot en Basilea y se complica su participación en las ATP Finals - IUSPORT",
-       "fuente": "IUSPORT",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDk4TS1obGswcl9xdkxCS2p4SVpoT0RsaENiNXJyMFFJbzRrMHZLc1EzNE5aSVlRU1dSZ215OGcydUV5czM0YkFvdGpwT2o1X3JfRHRpak1QcVZ0TnNjVUx2SFZIbWdCMzdNQmVFNUo4LXRsQ1lncVBCSUZrVy1BVnhnY2tkZWNGdGROZXJ5bUJmRFdmdmVkcmlfS1h0cElWUFJDREI0bGo4bmprbkRmOHdWRm9ncVdOYk40?oc=5"
-      },
-      {
-       "titulo": "Holger Rune - Valentin Vacherot en directo - ATP Basilea: Resultados y resúmenes de Tenis - 30/10/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1lrR2xzT0d6TEkwclFJblRtZW14RzlpSjRrakZWbG02RDI2NldJRkFrQ1pvSGQ0SUt6V2FHQk1MYkpaejMwVG5hNTEtSzM3dVBaQ2Q3TEJ6TENzQXVNbDI4QmlyTVNPTGR2SFB6TmsyMllDbkthMEVpMnFKMG9MTEp2QWY0ZHZqVHZxUF9lWlFGdE9kR0gzaHZOTUpRcXZ6WjN1Si1WdTQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "cc4564f7b80beae29935d650d1ccb4cb": {
    "id": "cc4564f7b80beae29935d650d1ccb4cb",
    "jugadores": [
@@ -10657,7 +10481,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T12:10+00:00",
+   "actualizado": "2026-11-06T13:01+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -10745,7 +10569,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T12:10+00:00",
+   "actualizado": "2026-11-06T13:01+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10781,10 +10605,10 @@
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1VIWTdya0Y1QWVSbUJjN1RnZzhobm04alFjNW5PTDh5dFk2bFRGQzFBZlZCQ21QclpaaG1manhwNWxlZEpGcnNIcmJ2Z2FUX2RoUDVkM19DYWhndk5MVFpzLUhmTTdvMURqVzdXaEJqSlBNQWxsdGlqczg5aEdrRFJ2ZVRkRWFoeXfSAYoBQVVfeXFMTTBNUUtSTzRWLVlNUjFoUlhBQkd4cEhPSmdieHNMbElpQ1A4bUVCR0Z1UVE1MzA5Um9wVXlCQUFwMTduRE9NUFNSTzZVdWd4WFNldjRuam9rUVhlNy1DXzF6UXdqVFJSZVhXS0FTZTJnc1c1UVhaR2o5d3NjTXVYZjl0MjVGc3FjRTl3?oc=5"
       },
       {
-       "titulo": "A qué hora es el Alcaraz - Fritz: horario y dónde ver hoy en TV los cuartos del Masters 1000 de París - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Previa Alcaraz-Fritz: Hora de romper el techo de París (19:00) - Eurosport",
+       "fuente": "Eurosport",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHpsU3l5clVjRXduUVFfSzVHVDVveXhxcW1NVWRsaFlRSlRLYkhRai12Y21FMTFfWERncEhOY0RjTlhEOVBQUDJWS1ZLSXNkbWtxcFB6cHY1TEh6S1ZTTjhOUTl4T2YyYnFUQjJpMXAwWnRzLS1vMG5FSTI1Yk5SOTZXNm9sbEt6TlhXT1NqZFAycnQ4MG4wNUFINGdmVEptSWFSaTkxbWZ4U2hEUEpMa3FHWHNiUWFGWW9aakN4RmFQWkkwQlHSAcYBQVVfeXFMTUVRRjBXRUdSd0M0NjI1c19YaHdaWDBRWXJ3eG5KMVBXdUpVWENXelZVa3I1aUVLdFQtZGxjMV9kX3ZNRUU5Ym1uV3ZXdWc3M0tQWGZ5M3gxVnpPT1J3blZ2OG9tb3ZzUTliazh1QzhWdDdGS0wzQlJZMFhNeEVRMERTaDJFbTlJWmx1RklEbWctMmdoWTEyaHFQTS1xdmhwVzM4dmRkdm05SEt4VFViSklYTHUyWFY4TjdsYnNMZXdxRmJpaUdB?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDVlVFR6dExhbGlRMTBxLTVJZGRmYW5SVEhTOFYzM2JJeDBHVG0zaU54elZaRUZSZFpBdU9Hckw5LTBjMXp1ZFJ1NUVodnNIX1lUVFFIN0pMSzc4OUY3VmZZc18yaGhCUExHMUZfZVB6ZG5CNGluTXRWVlhQUTVvVmk0a1VzV0NOMm5OUFl3NGRVOHQyQVF6d2RVeVFYZ1Qyb0xCbWZHcWVqaW9GMXlRaWdWRmNDX0tKX1AtUTB2aTloVUFSVFE3dzlrdnZ0R1phbmk5NUMyaXNZdWk5T01YVkQzQzF5Mk1YdXZsUWZXejVwaVph?oc=5"
       }
      ]
     },
@@ -10833,7 +10657,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T12:10+00:00",
+   "actualizado": "2026-11-06T13:01+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
