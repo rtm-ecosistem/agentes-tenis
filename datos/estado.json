@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.039,
      "sorpresa": 0.4,
-     "impaciencia": 0.088,
+     "impaciencia": 0.087,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 8 días sin apostar."
     },
-    "hora": "2026-11-06T09:10+00:00",
+    "hora": "2026-11-06T09:42+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.065,
+     "impaciencia": 0.064,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T09:10+00:00",
+    "hora": "2026-11-06T09:42+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T09:10+00:00",
+    "hora": "2026-11-06T09:42+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.065,
+     "impaciencia": 0.064,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-06T09:10+00:00",
+    "hora": "2026-11-06T09:42+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-03T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-03T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-03T14:10+00:00",
    "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Arthur Gea, Ben Shelton – Cameron Norrie, Casper Ruud – Rafael Jodar: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-06T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T09:42+00:00",
+   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T09:42+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,7 +2618,9 @@
  "ultima_decision": "2026-11-06",
  "ultima_sala": "2026-11-05-20",
  "noticias_vistas": [
+  "227c73423edd",
   "b480d3f3db68",
+  "80991b7f098c",
   "d4230a22cd72",
   "6bfefce9c3ec",
   "bfc9cba4b25f",
@@ -2630,10 +2632,12 @@
   "9de012035b7f",
   "7e41f725e45c",
   "746e849e82ff",
+  "0915dba82f42",
   "c51aab12803e",
   "baafff872480",
   "115d0f51c8d3",
   "0715759f14d9",
+  "3209133a8db4",
   "4e75fd4e4b3e",
   "0db3675bb87a",
   "36e72be47af6",
@@ -2647,6 +2651,7 @@
   "9798143d3b03",
   "05326deef0a0",
   "a2d097517435",
+  "129c2687dfdb",
   "afc2e34b2902",
   "42fe89e2309d",
   "62e6aacc8f75",
@@ -2655,11 +2660,11 @@
   "10e827dd4ad7",
   "579821d7adfc",
   "dcce94f2796c",
+  "901e269a56ff",
+  "42e4b88e4d9c",
   "a73fca03e5e7",
   "62b9facd5534",
   "1dad5ca50726",
-  "901e269a56ff",
-  "42e4b88e4d9c",
   "615c25c245c5",
   "b44bea052ce7",
   "92ee25f2ac65",
@@ -2786,6 +2791,7 @@
   "3f3cbb2abd7f",
   "ad43c1e2492c",
   "358bd03ab95b",
+  "2f750c469798",
   "e4cc76054e36",
   "6af4c7077318",
   "23621b85a301",
@@ -3105,6 +3111,7 @@
   "113d6f270bd9",
   "df52a853fe8d",
   "c5132f9d3c63",
+  "53cd7f928dcd",
   "56fbc41c71eb",
   "a98ce8e9f703",
   "50abd3754591",
@@ -3252,11 +3259,13 @@
   "c2c70b539933",
   "cc6723255a05",
   "9c0fbb72f621",
+  "3e34556b37ae",
   "e2b0a23f7732",
   "ddc4b0e8e50e",
   "1cc6147f1f05",
   "b324d7453667",
   "0b773f8d0155",
+  "85d2b9c24bc4",
   "bb0c633210e1",
   "014ca812b4f7",
   "7bbc4fb3c71f",
@@ -3310,6 +3319,7 @@
   "9689d61bdf2f",
   "458d98a4321c",
   "96acaebce15d",
+  "448502562fb1",
   "1cdb22955ea2",
   "480431dda708",
   "486cb6612854",
@@ -3407,17 +3417,7 @@
   "36575edd56a9",
   "ed71d0a47c35",
   "423eade41ffb",
-  "4e0a20a0c6e3",
-  "b96b2b4129dd",
-  "5795e995ad38",
-  "7a7b9f294af5",
-  "41c5f235e63a",
-  "e9445519f303",
-  "b6c9e13b1a38",
-  "f62b703d788d",
-  "7361bcb11b98",
-  "708ac55a8f31",
-  "2468608dc2e0"
+  "4e0a20a0c6e3"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10569,7 +10569,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:10+00:00",
+   "actualizado": "2026-11-06T09:42+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -10657,7 +10657,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:10+00:00",
+   "actualizado": "2026-11-06T09:42+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -10745,7 +10745,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:10+00:00",
+   "actualizado": "2026-11-06T09:42+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -10833,7 +10833,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:10+00:00",
+   "actualizado": "2026-11-06T09:42+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
