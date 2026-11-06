@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T11:33+00:00",
+ "actualizado": "2026-11-06T12:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.353,
+      "pct": 0.354,
       "motivo": "Lleva 8 días sin apostar."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.067,
+      "pct": 0.066,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.877,
+      "pct": 0.879,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.123,
+      "pct": 0.121,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.877,
+      "pct": 0.879,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.123,
+      "pct": 0.121,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2033,6 +2033,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-06T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-06T11:33+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2170,16 +2180,6 @@
   {
    "hora": "2026-11-05T13:10+00:00",
    "texto": "📰 Noticias nuevas de Nuno Borges – Ignacio Buse, Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Rinky Hijikata – Tomas Martin Etcheverry, Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -9381,7 +9381,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:33+00:00",
+   "actualizado": "2026-11-06T12:10+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -9405,6 +9405,12 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-11-05 contra Arthur Rinderknech, ganó 3-6 6-4 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Ben Shelton - Tommy Paul, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY2UzeTYxcUhCb09TSWcxaDZkd3haUUhmcnhVX3EwanQ4MXIxemxobmxqMkVRT1lFVGxvM0dWU3dfUkNMVlJMaHIyZjljaHplOU1RVVJ5bzZyV0gtaGVuN005X0VJZVRrOXBjTDlmSzRrdjZjQkVyaG40a1pqZmJ6OThOQjQ5TXhDcHJ3UXdlYWk3M1dwZlVCWmhhNmhIVkc2b1AzX0ZXelZWR2ljYUJ3T09vMGxjdDJQN0RPcS01UWJWakJnM3FwS2tZNFhsMHB2aUtxenNKOVhzVEpsdFBCTWRHbFI1UEU?oc=5"
+      },
+      {
        "titulo": "Masters de París: Ben Shelton, el tenista que animó a Tommy Paul todo el año, es ahora su muro hacia Turín - Martin Cid Magazine",
        "fuente": "Martin Cid Magazine",
        "fecha": "2026-11-06",
@@ -9415,12 +9421,6 @@
        "fuente": "SPORT",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
-      },
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZ9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
       }
      ]
     },
@@ -9439,6 +9439,12 @@
      "cansancio": "3 partidos, 6 sets y 59 juegos en 3 días; el último el 2026-11-05 contra Quentin Halys, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Ben Shelton - Tommy Paul, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY2UzeTYxcUhCb09TSWcxaDZkd3haUUhmcnhVX3EwanQ4MXIxemxobmxqMkVRT1lFVGxvM0dWU3dfUkNMVlJMaHIyZjljaHplOU1RVVJ5bzZyV0gtaGVuN005X0VJZVRrOXBjTDlmSzRrdjZjQkVyaG40a1pqZmJ6OThOQjQ5TXhDcHJ3UXdlYWk3M1dwZlVCWmhhNmhIVkc2b1AzX0ZXelZWR2ljYUJ3T09vMGxjdDJQN0RPcS01UWJWakJnM3FwS2tZNFhsMHB2aUtxenNKOVhzVEpsdFBCTWRHbFI1UEU?oc=5"
+      },
+      {
        "titulo": "Masters de París: Ben Shelton, el tenista que animó a Tommy Paul todo el año, es ahora su muro hacia Turín - Martin Cid Magazine",
        "fuente": "Martin Cid Magazine",
        "fecha": "2026-11-06",
@@ -9449,12 +9455,6 @@
        "fuente": "VAVEL.com",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVo2cmUxcDVOaVhIN1huZ19XNm50VzVaN2VIelB0ZHRaTnNVa1FhZzRQTmdLV3U3Q1VKTzVNSHEtX29ndnJHSEE3SktpV2dNMlpWRFJYN2pRRFMtRTVUdzlYX0x5MWFNM2Y2bWpucHlwTnJNOVIwUGx5eGxISFFXTXNNWGQzQ3M4V2hSalNnSy1HNWR0MDMwX29vU1RPeHNKdTBacVJ2NFZHSU8y?oc=5"
-      },
-      {
-       "titulo": "Fritz y Tommy Paul ganan en París y siguen siendo una amenaza para Jódar: Alcaraz puede hacerle un favor - La Razón",
-       "fuente": "La Razón",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM01HejBZQ1MyN1hCb1lvWlRwRnM2b0liakVia0NqTHdmRWhtZG91bG9LUk5NRlFoZ0N2aVR4clpLT3duMmtubW44WmRra3lSc1dNUHMyYThWb1p6OHh1UnVocmdWUVpSYUV1bDkycUpZR0JPNndWRWJKSUNGM0JQX3RyWlJhRFlVRF8zUmpreVYwbTh6M2o5UWl3TjhDdW5ZWHZRZWNWMkp1T3U4TWxHRTNrZlFESjBIQ2NSTjAxVkgxYmt5M2d1bGZhTVRycDZTQzl4UHQxOGlDZktROThHZG1kSHlCaDZxdDlHYVVNWFFWQdIBhgJBVV95cUxQWUpfRFJIN3F4Yjl3OGNXZU9taHZ1YnNZQjRmU3NzbnpfaVN0SExNTjNXOXZzdnNBTG5aeGEtTjJEcnZRZmNReGstdFpGZHFqdlhMN2h1R0NMSlFpRVRmUTBoNVoxakRDQWZLbF9iOHNnMWM5b0gxallHWGl1TFRBNUdJdS1mLW9NTXFjZ0xzSEdNM0t0Q2tTYlRyQVo2ZmNNUTJUenhvTXVBNnRfOEhlNmkwS0FTZmVfUVB4Smt6ajhBaG9LQ1ZfWmNMNEtjY0pwQWhGclJVRWhVOE5hQmhyd1prNVl1YjZnOFVBYUpaT1p6WE90Tkk5dDhnM25KWVNYZjE4WFd3?oc=5"
       }
      ]
     }
@@ -9469,7 +9469,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:33+00:00",
+   "actualizado": "2026-11-06T12:10+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -9557,7 +9557,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:33+00:00",
+   "actualizado": "2026-11-06T12:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -9581,6 +9581,12 @@
      "cansancio": "3 partidos, 8 sets y 85 juegos en 3 días; el último el 2026-11-05 contra Arthur Fils, ganó 6-3 6-4",
      "noticias": [
       {
+       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
+      },
+      {
        "titulo": "Taylor Fritz, rival de Carlos Alcaraz en París: \"Me impresiona su capacidad para ganar de tantas maneras diferentes, para jugar con tantos estilos distintos. Es realmente impresionante, lo hace todo bien\" - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-06",
@@ -9591,12 +9597,6 @@
        "fuente": "MARCA",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdHpsU3l5clVjRXduUVFfSzVHVDVveXhxcW1NVWRsaFlRSlRLYkhRai12Y21FMTFfWERncEhOY0RjTlhEOVBQUDJWS1ZLSXNkbWtxcFB6cHY1TEh6S1ZTTjhOUTl4T2YyYnFUQjJpMXAwWnRzLS1vMG5FSTI1Yk5SOTZXNm9sbEt6TlhXT1NqZFAycnQ4MG4wNUFINGdmVEptSWFSaTkxbWZ4U2hEUEpMa3FHWHNiUWFGWW9aakN4RmFQWkkwQlHSAcYBQVVfeXFMTUVRRjBXRUdSd0M0NjI1c19YaHdaWDBRWXJ3eG5KMVBXdUpVWENXelZVa3I1aUVLdFQtZGxjMV9kX3ZNRUU5Ym1uV3ZXdWc3M0tQWGZ5M3gxVnpPT1J3blZ2OG9tb3ZzUTliazh1QzhWdDdGS0wzQlJZMFhNeEVRMERTaDJFbTlJWmx1RklEbWctMmdoWTEyaHFQTS1xdmhwVzM4dmRkdm05SEt4VFViSklYTHUyWFY4TjdsYnNMZXdxRmJpaUdB?oc=5"
-      },
-      {
-       "titulo": "Fritz, sobre Alcaraz antes de su duelo en París: \"Estoy deseando enfrentarme a él. Voy a necesitar jugar perfecto para ganar. Es el punto de inflexión del torneo. Siento que, si ganó este partido, tendré muchas opciones de ser campeón\" - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNeElHdnpDajRvTU9WWm1FaExLZW9DWUVpTzJfVnZSUW9yaHhnakV3cW00NEd2RE1ydkluOGo3S2x2VDF4eUFxaEx6X3hvMmxkYm9QQ3FCbktQYzljdURCaHBZM1FIX09lVGsxTW1GUWJsSVIwSjZ4N0pVRFJ2OHRqTFJ3cG5JaDZBNnZGSjAtM1d5TnVmaVRPcmxiMkxROVRCQ2ZTR2FWSEc0SVVGc3RmTDlheFZJSTBMRHNqdEppUWlLeHB2cjVDY0xRLTZEV0NLaGM2dlNXX05kWFR5VFlaeWZRbmxEZndwanFza3NsQnd0NzJqMW5NelM2R2JJbF9ybjZUREhGSEFvekw0WXpMeXdaSDdwTVMtUVMtZ0kwSWR1UFlkTDJTcWViSWthMlpDZ04xQ1ZFaG14X0tIN1p5NtIBzgJBVV95cUxPd3p3alZwZlNPck4zRUpXeWlhNHNrODYxbUZNNGhEdC1YbFdsU25YeWtvQmtELTVERi1kNTQwMDYzbGsxeTlNMzJ2ekFCdzgwQkVNVnFQWHFMdmNTUTRaTHFwSmRLSzJLSEROODBnemlJeWVMQ2VoTEhnTktUYWh3TGdrbUlOS1RsLWd4andQNV9VYWpvNGxQVGNiNlNrYTVTMXE1b3hyQnIxRDJEbzdBWU9Uc281NFBUYTNLby1MTk9fdnBUVzNCeWdGbTczRld5c1VTbkRISnIwX196VHR6d3hEM2x2Z015eHR6bnI5MnhJa25GbHVSdmRiNlJYb3BnYmdJeXZrMEdTek5iamVzU1BfUnNCVUs1ekRzNUNFQ1JlYm9vZTItMDcxSkRhQUkwcjZ2aXlxMVlfWHlIWVY0UU9yVFlxWHIxN1JiYktB?oc=5"
       }
      ]
     },
@@ -9615,6 +9615,12 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
+       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
+      },
+      {
        "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-06",
@@ -9625,12 +9631,6 @@
        "fuente": "SPORT",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZ9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
-      },
-      {
-       "titulo": "Taylor Fritz, rival de Carlos Alcaraz en París: \"Me impresiona su capacidad para ganar de tantas maneras diferentes, para jugar con tantos estilos distintos. Es realmente impresionante, lo hace todo bien\" - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1VIWTdya0Y1QWVSbUJjN1RnZzhobm04alFjNW5PTDh5dFk2bFRGQzFBZlZCQ21QclpaaG1manhwNWxlZEpGcnNIcmJ2Z2FUX2RoUDVkM19DYWhndk5MVFpzLUhmTTdvMURqVzdXaEJqSlBNQWxsdGlqczg5aEdrRFJ2ZVRkRWFoeXfSAYoBQVVfeXFMTTBNUUtSTzRWLVlNUjFoUlhBQkd4cEhPSmdieHNMbElpQ1A4bUVCR0Z1UVE1MzA5Um9wVXlCQUFwMTduRE9NUFNSTzZVdWd4WFNldjRuam9rUVhlNy1DXzF6UXdqVFJSZVhXS0FTZTJnc1c1UVhaR2o5d3NjTXVYZjl0MjVGc3FjRTl3?oc=5"
       }
      ]
     }
@@ -9645,7 +9645,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T11:33+00:00",
+   "actualizado": "2026-11-06T12:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
