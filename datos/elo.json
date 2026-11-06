@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T20:10+00:00",
+ "actualizado": "2026-11-06T22:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1205,19 +1205,18 @@
    "nombre": "Taylor Fritz",
    "circuito": "ATP",
    "elo": {
-    "all": 1870.4,
-    "hard": 1871.3,
+    "all": 1865.5,
+    "hard": 1864.3,
     "clay": 1558.6,
     "grass": 1916.4
    },
    "n": {
-    "all": 215,
-    "hard": 152,
+    "all": 216,
+    "hard": 153,
     "clay": 31,
     "grass": 32
    },
    "ultimos": [
-    "2026-10-22 G hard vs Pierre-Hugues Herbert",
     "2026-10-23 G hard vs Daniel Altmaier",
     "2026-10-24 G hard vs Tommy Paul",
     "2026-10-25 P hard vs Lorenzo Musetti",
@@ -1226,7 +1225,8 @@
     "2026-10-31 P hard vs Valentin Vacherot",
     "2026-11-03 G hard vs Benjamin Bonzi",
     "2026-11-04 G hard vs Alex Molcan",
-    "2026-11-05 G hard vs Arthur Fils"
+    "2026-11-05 G hard vs Arthur Fils",
+    "2026-11-06 P hard vs Carlos Alcaraz"
    ]
   },
   "jarry|n": {
@@ -3855,19 +3855,18 @@
    "nombre": "Carlos Alcaraz",
    "circuito": "ATP",
    "elo": {
-    "all": 2148.5,
-    "hard": 2099.6,
+    "all": 2153.6,
+    "hard": 2107.1,
     "clay": 2129.4,
     "grass": 1979.1
    },
    "n": {
-    "all": 192,
-    "hard": 126,
+    "all": 193,
+    "hard": 127,
     "clay": 45,
     "grass": 21
    },
    "ultimos": [
-    "2026-10-05 G hard vs Jaume Munar",
     "2026-10-06 G hard vs Jiri Lehecka",
     "2026-10-10 G hard vs Juan Manuel Cerundolo",
     "2026-10-12 P hard vs Zizou Bergs",
@@ -3876,7 +3875,8 @@
     "2026-10-30 G hard vs Tommy Paul",
     "2026-10-31 G hard vs Daniil Medvedev",
     "2026-11-01 G hard vs Alex de Minaur",
-    "2026-11-04 G hard vs Alex Michelsen"
+    "2026-11-04 G hard vs Alex Michelsen",
+    "2026-11-06 G hard vs Taylor Fritz"
    ]
   },
   "blanchet|u": {
@@ -48295,7 +48295,7 @@
    0
   ],
   "alcaraz|c~fritz|t": [
-   4,
+   5,
    1
   ],
   "medvedev|d~shelton|b": [
@@ -92007,5 +92007,5 @@
    1
   ]
  },
- "propios": 10681
+ "propios": 10683
 }
