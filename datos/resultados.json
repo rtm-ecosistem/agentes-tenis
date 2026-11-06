@@ -241874,6 +241874,31 @@
     ]
    ],
    "completo": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Julia Riera",
+    "Leyre Romero Gormaz"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

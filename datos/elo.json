@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T19:10+00:00",
+ "actualizado": "2026-11-06T20:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -16184,19 +16184,18 @@
    "nombre": "Leyre Romero Gormaz",
    "circuito": "WTA",
    "elo": {
-    "all": 1682.1,
-    "hard": 1704.5,
+    "all": 1703.9,
+    "hard": 1725.9,
     "clay": 1541.0,
     "grass": 1434.3
    },
    "n": {
-    "all": 56,
-    "hard": 46,
+    "all": 57,
+    "hard": 47,
     "clay": 9,
     "grass": 1
    },
    "ultimos": [
-    "2026-10-15 G hard vs Raluka Serban",
     "2026-10-16 G hard vs Fiona Ferro",
     "2026-10-17 G hard vs Dalma Galfi",
     "2026-10-18 P hard vs Clara Burel",
@@ -16205,7 +16204,8 @@
     "2026-10-30 P hard vs Julia Grabher",
     "2026-11-02 G hard vs Polona Hercog",
     "2026-11-04 G hard vs Solana Sierra",
-    "2026-11-05 G hard vs Carole Monnet"
+    "2026-11-05 G hard vs Carole Monnet",
+    "2026-11-06 G hard vs Julia Riera"
    ]
   },
   "jokic|k": {
@@ -17207,19 +17207,18 @@
    "nombre": "Julia Riera",
    "circuito": "WTA",
    "elo": {
-    "all": 1647.8,
-    "hard": 1643.7,
+    "all": 1623.2,
+    "hard": 1620.1,
     "clay": 1572.3,
     "grass": 1505.3
    },
    "n": {
-    "all": 40,
-    "hard": 35,
+    "all": 41,
+    "hard": 36,
     "clay": 3,
     "grass": 2
    },
    "ultimos": [
-    "2026-09-22 P hard vs Elena Micic",
     "2026-09-28 G hard vs Anna Siskova",
     "2026-09-30 P hard vs Antonia Ruzic",
     "2026-10-27 G hard vs Rebeka Masarova",
@@ -17228,7 +17227,8 @@
     "2026-10-31 P hard vs Julia Grabher",
     "2026-11-03 G hard vs Valentina Mediorreal Arias",
     "2026-11-04 G hard vs Julia Grabher",
-    "2026-11-05 G hard vs Renata Zarazua"
+    "2026-11-05 G hard vs Renata Zarazua",
+    "2026-11-06 P hard vs Leyre Romero Gormaz"
    ]
   },
   "oliynykova|o": {
@@ -92001,7 +92001,11 @@
   "hijikata|r~van assche|l": [
    0,
    1
+  ],
+  "riera|j~romero gormaz|l": [
+   0,
+   1
   ]
  },
- "propios": 10680
+ "propios": 10681
 }
