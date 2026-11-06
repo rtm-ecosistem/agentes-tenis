@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T13:10+00:00",
+ "actualizado": "2026-11-06T13:53+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -14981,19 +14981,18 @@
    "nombre": "Sofya Lansere",
    "circuito": "WTA",
    "elo": {
-    "all": 1504.8,
-    "hard": 1527.0,
+    "all": 1560.0,
+    "hard": 1581.1,
     "clay": 1425.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 15,
-    "hard": 14,
+    "all": 16,
+    "hard": 15,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-15 P hard vs Elizara Yaneva",
     "2026-07-20 P clay vs Lola Radivojevic",
     "2026-07-27 P hard vs Irene Burillo",
     "2026-09-07 P hard vs Aurora Zantedeschi",
@@ -15002,7 +15001,8 @@
     "2026-10-01 G hard vs Sofia Costoulas",
     "2026-10-02 P hard vs Jessica Bouzas Maneiro",
     "2026-11-03 G hard vs Angella Okutoyi",
-    "2026-11-04 G hard vs Kristina Novak"
+    "2026-11-04 G hard vs Kristina Novak",
+    "2026-11-06 G hard vs Martyna Kubka"
    ]
   },
   "yamaguchi|m": {
@@ -17802,14 +17802,14 @@
    "nombre": "Maaya Rajeshwaran Revathi",
    "circuito": "WTA",
    "elo": {
-    "all": 1567.6,
-    "hard": 1573.4,
+    "all": 1535.0,
+    "hard": 1541.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 4,
-    "hard": 4,
+    "all": 5,
+    "hard": 5,
     "clay": 0,
     "grass": 0
    },
@@ -17817,7 +17817,8 @@
     "2025-10-29 P hard vs Shrivalli Bhamidipaty",
     "2026-02-03 P hard vs Lanlana Tararudee",
     "2026-11-03 G hard vs Katarzyna Kawa",
-    "2026-11-04 G hard vs Weronika Falkowska"
+    "2026-11-04 G hard vs Weronika Falkowska",
+    "2026-11-06 P hard vs Robin Montgomery"
    ]
   },
   "hunter|s": {
@@ -29052,19 +29053,18 @@
    "nombre": "Robin Montgomery",
    "circuito": "WTA",
    "elo": {
-    "all": 1703.8,
-    "hard": 1711.2,
+    "all": 1722.1,
+    "hard": 1731.2,
     "clay": 1418.5,
     "grass": 1588.1
    },
    "n": {
-    "all": 33,
-    "hard": 25,
+    "all": 34,
+    "hard": 26,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-26 G hard vs Jeline Vandromme",
     "2026-08-27 G hard vs Carson Branstine",
     "2026-09-01 P hard vs Maria Sakkari",
     "2026-09-22 P hard vs Sohyun Park",
@@ -29073,7 +29073,8 @@
     "2026-10-01 P hard vs Katie Volynets",
     "2026-10-28 P hard vs Lisa Pigato",
     "2026-11-03 G hard vs Panna Udvardy",
-    "2026-11-04 G hard vs Jeline Vandromme"
+    "2026-11-04 G hard vs Jeline Vandromme",
+    "2026-11-06 G hard vs Maaya Rajeshwaran Revathi"
    ]
   },
   "corte|c": {
@@ -32631,19 +32632,18 @@
    "nombre": "Martyna Kubka",
    "circuito": "WTA",
    "elo": {
-    "all": 1678.9,
-    "hard": 1676.6,
+    "all": 1626.8,
+    "hard": 1624.6,
     "clay": 1496.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 18,
-    "hard": 16,
+    "all": 19,
+    "hard": 17,
     "clay": 2,
     "grass": 0
    },
    "ultimos": [
-    "2026-09-29 G hard vs Ksenia Efremova",
     "2026-09-30 P hard vs Lois Boisson",
     "2026-10-13 G hard vs Alina Charaeva",
     "2026-10-15 G hard vs Teodora Kostovic",
@@ -32652,7 +32652,8 @@
     "2026-10-29 G hard vs Lisa Pigato",
     "2026-10-30 P hard vs Anna Blinkova",
     "2026-11-03 G hard vs Darja Suvirdjonkova",
-    "2026-11-04 G hard vs Franziska Sziedat"
+    "2026-11-04 G hard vs Franziska Sziedat",
+    "2026-11-06 P hard vs Sofya Lansere"
    ]
   },
   "gray|a": {
@@ -91984,7 +91985,15 @@
   "feistel|g~zaytseva|k": [
    1,
    0
+  ],
+  "montgomery|r~rajeshwaran revathi|m": [
+   1,
+   0
+  ],
+  "kubka|m~lansere|s": [
+   0,
+   1
   ]
  },
- "propios": 10671
+ "propios": 10673
 }

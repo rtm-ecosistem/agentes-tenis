@@ -241677,6 +241677,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Maaya Rajeshwaran Revathi",
+    "Robin Montgomery"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Martyna Kubka",
+    "Sofya Lansere"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     5,
+     7
+    ]
+   ],
+   "completo": true
   }
  ]
 }
