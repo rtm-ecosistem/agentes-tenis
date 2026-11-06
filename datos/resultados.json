@@ -241568,6 +241568,27 @@
     ]
    ],
    "completo": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Claire Liu",
+    "Zeynep Sonmez"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
   }
  ]
 }

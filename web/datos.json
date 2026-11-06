@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T07:10+00:00",
+ "actualizado": "2026-11-06T07:56+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,14 +345,14 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.312,
+      "pct": 0.313,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.234,
+      "pct": 0.235,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.87,
+      "pct": 0.872,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.13,
+      "pct": 0.128,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.87,
+      "pct": 0.872,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.13,
+      "pct": 0.128,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],

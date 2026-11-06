@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T00:10+00:00",
+ "actualizado": "2026-11-06T07:56+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -17014,19 +17014,18 @@
    "nombre": "Claire Liu",
    "circuito": "WTA",
    "elo": {
-    "all": 1695.3,
-    "hard": 1661.0,
+    "all": 1720.6,
+    "hard": 1691.4,
     "clay": 1593.1,
     "grass": 1673.1
    },
    "n": {
-    "all": 47,
-    "hard": 34,
+    "all": 48,
+    "hard": 35,
     "clay": 7,
     "grass": 6
    },
    "ultimos": [
-    "2026-10-05 G hard vs Elsa Jacquemot",
     "2026-10-07 P hard vs Rebecca Sramkova",
     "2026-10-10 P hard vs Lanlana Tararudee",
     "2026-10-17 G hard vs Kanon Sawashiro",
@@ -17035,7 +17034,8 @@
     "2026-10-27 G hard vs Antonia Ruzic",
     "2026-10-30 P hard vs Xinran Sun",
     "2026-11-02 G hard vs Tatiana Prozorova",
-    "2026-11-04 G hard vs Katie Boulter"
+    "2026-11-04 G hard vs Katie Boulter",
+    "2026-11-06 G hard vs Zeynep Sonmez"
    ]
   },
   "zhuoxuan|b": {
@@ -18102,19 +18102,18 @@
    "nombre": "Zeynep Sonmez",
    "circuito": "WTA",
    "elo": {
-    "all": 1689.9,
-    "hard": 1679.0,
+    "all": 1667.2,
+    "hard": 1652.6,
     "clay": 1506.7,
     "grass": 1617.9
    },
    "n": {
-    "all": 64,
-    "hard": 50,
+    "all": 65,
+    "hard": 51,
     "clay": 4,
     "grass": 10
    },
    "ultimos": [
-    "2026-09-30 P hard vs Maddison Inglis",
     "2026-10-10 G hard vs Anastasia Zakharova",
     "2026-10-11 G hard vs Sinja Kraus",
     "2026-10-13 P hard vs Yulia Putintseva",
@@ -18123,7 +18122,8 @@
     "2026-10-27 G hard vs Sara Sorribes Tormo",
     "2026-10-29 P hard vs Jil Teichmann",
     "2026-11-03 G hard vs Dayana Yastremska",
-    "2026-11-05 G hard vs Mika Stojsavljevic"
+    "2026-11-05 G hard vs Mika Stojsavljevic",
+    "2026-11-06 P hard vs Claire Liu"
    ]
   },
   "prozorova|t": {
@@ -78926,7 +78926,7 @@
    1
   ],
   "liu|c~sonmez|z": [
-   1,
+   2,
    0
   ],
   "kessler|m~sabalenka|a": [
@@ -91974,5 +91974,5 @@
    1
   ]
  },
- "propios": 10666
+ "propios": 10667
 }
