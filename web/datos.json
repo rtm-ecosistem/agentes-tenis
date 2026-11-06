@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T13:01+00:00",
+ "actualizado": "2026-11-06T13:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.314,
+      "pct": 0.315,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,14 +359,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.066,
+      "pct": 0.065,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "envidia",
       "cara": "😒",
       "nombre": "Envidia",
-      "pct": 0.03,
+      "pct": 0.029,
       "motivo": "Dejó pasar Jan-Lennard Struff gana el partido @ 3.60 y habría ganado."
      }
     ],
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.879,
+      "pct": 0.881,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.121,
+      "pct": 0.119,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -788,14 +788,14 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.123,
+      "pct": 0.12,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
       "emocion": "calma",
       "cara": "😌",
       "nombre": "Calma",
-      "pct": 0.106,
+      "pct": 0.109,
       "motivo": "No hay nada que le preocupe ni le emocione."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.879,
+      "pct": 0.881,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.121,
+      "pct": 0.119,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1983,6 +1983,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-06T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-06T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2120,16 +2130,6 @@
   {
    "hora": "2026-11-05T13:57+00:00",
    "texto": "📰 Noticias nuevas de Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Nuno Borges – Ignacio Buse, Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -9243,7 +9243,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T13:01+00:00",
+   "actualizado": "2026-11-06T13:10+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -9331,7 +9331,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T13:01+00:00",
+   "actualizado": "2026-11-06T13:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -9361,16 +9361,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
       },
       {
+       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr0gHfAUFVX3lxTFBjbGFabXRDdEs5UVZhd0ZMWk9wR0xIQ2VMOTB4c0dJeFlscmxoRzBoZEZ0RmdnaEkwUm8yWGZudWNQel9pNC0tR1BwbVJoR1EtbTVJRU45Ny1fbkR5b3dZTWdxa0pEVnBiZEozTks1OGw0c0NmMXI1dzVIRjRSdzJIVXhoMmZxTHpPMDA2OVp5aDdYb3dsSTcwN0ExbklRU1BrR3NGZG1lb3dMdVA4dTY4ekNqNnpKVFBNbUFOMVU1akh6VFhWanJsbnJVQ0R0X3p6SWlPZFRuZGc3V05uOGs?oc=5"
+      },
+      {
        "titulo": "Taylor Fritz, rival de Carlos Alcaraz en París: \"Me impresiona su capacidad para ganar de tantas maneras diferentes, para jugar con tantos estilos distintos. Es realmente impresionante, lo hace todo bien\" - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1VIWTdya0Y1QWVSbUJjN1RnZzhobm04alFjNW5PTDh5dFk2bFRGQzFBZlZCQ21QclpaaG1manhwNWxlZEpGcnNIcmJ2Z2FUX2RoUDVkM19DYWhndk5MVFpzLUhmTTdvMURqVzdXaEJqSlBNQWxsdGlqczg5aEdrRFJ2ZVRkRWFoeXfSAYoBQVVfeXFMTTBNUUtSTzRWLVlNUjFoUlhBQkd4cEhPSmdieHNMbElpQ1A4bUVCR0Z1UVE1MzA5Um9wVXlCQUFwMTduRE9NUFNSTzZVdWd4WFNldjRuam9rUVhlNy1DXzF6UXdqVFJSZVhXS0FTZTJnc1c1UVhaR2o5d3NjTXVYZjl0MjVGc3FjRTl3?oc=5"
-      },
-      {
-       "titulo": "Previa Alcaraz-Fritz: Hora de romper el techo de París (19:00) - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDVlVFR6dExhbGlRMTBxLTVJZGRmYW5SVEhTOFYzM2JJeDBHVG0zaU54elZaRUZSZFpBdU9Hckw5LTBjMXp1ZFJ1NUVodnNIX1lUVFFIN0pMSzc4OUY3VmZZc18yaGhCUExHMUZfZVB6ZG5CNGluTXRWVlhQUTVvVmk0a1VzV0NOMm5OUFl3NGRVOHQyQVF6d2RVeVFYZ1Qyb0xCbWZHcWVqaW9GMXlRaWdWRmNDX0tKX1AtUTB2aTloVUFSVFE3dzlrdnZ0R1phbmk5NUMyaXNZdWk5T01YVkQzQzF5Mk1YdXZsUWZXejVwaVph?oc=5"
       }
      ]
     },
@@ -9395,16 +9395,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWM5V0VaaDBfM2ltOTZUSGRpdERBcEFHRXF6WWNvbENhS0hYNWxWWHVtS0NiSUpIWnJtaGpJRE5KN3RKdzFLOGFhekJKbWxVcGE1Y1gxT2Ffbk84ck5BMzltb0ZpR1lidnE4YUs2UHA5cUFnSjFGYnlVTWtfbERMUG1lZ254eFgyNDAyZWk5SnBkRFhNMXhiWkFmNzdlMDlDRkdGaHJvVWEtWVlHNE5sa1ZJUXoxMFFSTkRYcE9mQ2wwX2NoWGllVmRDM0k1VHpWUXRMVk9sN3drd9IB3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr?oc=5"
       },
       {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
-       "fuente": "SPORT",
+       "titulo": "Carlos Alcaraz - Taylor Fritz: horario y dónde ver por TV los cuartos de final del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2xhWm10Q3RLOVFWYXdGTFpPcEdMSENlTDkweHNHSXhZbHJsaEcwaGRGdEZnZ2hJMFJvMlhmbnVjUHpfaTQtLUdQcG1SaEdRLW01SUVOOTctX25EeW93WU1ncWtKRFZwYmRKM05LNThsNHNDZjFyNXc1SEY0UncySFV4aDJmcUx6TzAwNjlaeWg3WG93bEk3MDdBMW5JUVNQa0dzRmRtZW93THVQOHU2OHpDajZ6SlRQTW1BTjFVNWpIelRYVmpybG5yVUNEdF96eklpT2RUbmRnN1dObjhr0gHfAUFVX3lxTFBjbGFabXRDdEs5UVZhd0ZMWk9wR0xIQ2VMOTB4c0dJeFlscmxoRzBoZEZ0RmdnaEkwUm8yWGZudWNQel9pNC0tR1BwbVJoR1EtbTVJRU45Ny1fbkR5b3dZTWdxa0pEVnBiZEozTks1OGw0c0NmMXI1dzVIRjRSdzJIVXhoMmZxTHpPMDA2OVp5aDdYb3dsSTcwN0ExbklRU1BrR3NGZG1lb3dMdVA4dTY4ekNqNnpKVFBNbUFOMVU1akh6VFhWanJsbnJVQ0R0X3p6SWlPZFRuZGc3V05uOGs?oc=5"
       },
       {
        "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
        "fuente": "SPORT",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZ9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
       }
      ]
     }
@@ -9419,7 +9419,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T13:01+00:00",
+   "actualizado": "2026-11-06T13:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,

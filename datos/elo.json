@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T12:10+00:00",
+ "actualizado": "2026-11-06T13:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -27582,19 +27582,18 @@
    "nombre": "Gina Feistel",
    "circuito": "WTA",
    "elo": {
-    "all": 1560.2,
-    "hard": 1575.0,
+    "all": 1606.5,
+    "hard": 1619.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 12,
-    "hard": 12,
+    "all": 13,
+    "hard": 13,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-13 G hard vs Julia Avdeeva",
     "2026-07-16 G hard vs Laura Samson",
     "2026-07-17 P hard vs Veronika Erjavec",
     "2026-09-08 P hard vs Maria Lourdes Carle",
@@ -27603,7 +27602,8 @@
     "2026-10-12 G hard vs Tena Lukas",
     "2026-10-13 P hard vs Guiomar Maristany Zuleta De Reales",
     "2026-11-03 G hard vs Linda Klimovicova",
-    "2026-11-04 G hard vs Isabella Shinikova"
+    "2026-11-04 G hard vs Isabella Shinikova",
+    "2026-11-06 G hard vs Ksenia Zaytseva"
    ]
   },
   "elle valdez|n": {
@@ -30095,19 +30095,18 @@
    "nombre": "Ksenia Zaytseva",
    "circuito": "WTA",
    "elo": {
-    "all": 1613.2,
-    "hard": 1608.4,
+    "all": 1564.5,
+    "hard": 1562.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 10,
-    "hard": 10,
+    "all": 11,
+    "hard": 11,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
-    "2026-04-26 P hard vs Ayla Aksu",
     "2026-09-20 G hard vs Naoko Eto",
     "2026-09-21 P hard vs Ilay Yoruk",
     "2026-09-21 G hard vs Lina Gjorcheska",
@@ -30116,7 +30115,8 @@
     "2026-09-28 G hard vs Tamara Zidansek",
     "2026-09-29 P hard vs Storm Hunter",
     "2026-11-03 G hard vs Jian Ibrahim",
-    "2026-11-05 G hard vs Kristina Kroitor"
+    "2026-11-05 G hard vs Kristina Kroitor",
+    "2026-11-06 P hard vs Gina Feistel"
    ]
   },
   "inisan|e": {
@@ -91980,7 +91980,11 @@
   "sakkari|m~sasnovich|a": [
    1,
    0
+  ],
+  "feistel|g~zaytseva|k": [
+   1,
+   0
   ]
  },
- "propios": 10670
+ "propios": 10671
 }

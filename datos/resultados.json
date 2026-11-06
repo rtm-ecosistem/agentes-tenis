@@ -241656,6 +241656,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Gina Feistel",
+    "Ksenia Zaytseva"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     1
+    ],
+    [
+     7,
+     5
+    ]
+   ],
+   "completo": true
   }
  ]
 }
