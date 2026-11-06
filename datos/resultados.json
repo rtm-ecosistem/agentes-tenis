@@ -241853,6 +241853,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Lucrezia Stefanini",
+    "Anastasia Zakharova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     2,
+     5
+    ]
+   ],
+   "completo": false
   }
  ]
 }
