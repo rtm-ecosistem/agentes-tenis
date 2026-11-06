@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T09:42+00:00",
+ "actualizado": "2026-11-06T10:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -345,7 +345,7 @@
       "emocion": "sorpresa",
       "cara": "😲",
       "nombre": "Sorpresa",
-      "pct": 0.313,
+      "pct": 0.314,
       "motivo": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.068,
+      "pct": 0.067,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -2033,6 +2033,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-06T10:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-06T10:10+00:00",
+   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-06T09:42+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2170,16 +2180,6 @@
   {
    "hora": "2026-11-05T11:10+00:00",
    "texto": "📰 Noticias nuevas de Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Lorenzo Musetti – Luca Van Assche, Rinky Hijikata – Tomas Martin Etcheverry, Jan-Lennard Struff – Casper Ruud…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -9381,7 +9381,7 @@
    "inicio": "2026-11-06T13:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:42+00:00",
+   "actualizado": "2026-11-06T10:10+00:00",
    "elo": 0.524,
    "elo_general": 0.508,
    "elo_en_superficie": 0.54,
@@ -9405,22 +9405,22 @@
      "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-11-05 contra Arthur Rinderknech, ganó 3-6 6-4 7-6 (partido largo)",
      "noticias": [
       {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
+      },
+      {
        "titulo": "Jódar, con el agua al cuello, pide ayuda a Alcaraz y Shelton en París - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzYwdGYwT1BPbWxkcEdqMGtodTdQTUxPOXVucWlXVmozdThkTGFkbTRqMDZqR3FBN2FCWFpPOUItWlVKUDc4R3g3QWZpOGNtcEtSNVBKN2s3OElLZFJvYkpiaW43dVlXUHpPV3FDcEVWRkVVOU5ZYWtfVnVwQ0FpZjgxWnhLSTl6Tjk0OUtLaW1fZmV0RklrMjVZLWRsREx1alFjX0JjTDRNUlcyMDNwd3RR0gG_AUFVX3lxTE1weUMyTmhPZkhURjh0amswR21TMXV6YWtGcldrUjVtcWJqajhobjZmSmZHZzdaZ2ExbmNlRmtfSHJaTWRzSWt4SGpBeldpdlZIZVEwc0hqemc5d2l2TU1EYVlqaTg0UU96WWtDVlJBeUQ0RzdNSS01Q1lCS2hnR2xzSXVidFVkMjFJbGhoWlJuclU4MFJWaUgtbW5JNlpoZHo5VTRyTjNxcEJCM3FpejAyWTVwUUNvdlZDRG9FRGZj?oc=5"
       },
       {
-       "titulo": "Ben Shelton, el gran desafío de un Juan Carlos Ferrero que busca hacer un 'nuevo Alcaraz' - 20Minutos",
-       "fuente": "20Minutos",
+       "titulo": "Jódar, con el agua al cuello, pide ayuda a Alcaraz y Shelton en París - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
        "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWVhOVl5VVgzZ0ZFNDhKclAxWVBfZU1zVzJCdHUyRHNmTzRadzNHYVF0VnRkRFZaZVl1ZnZZV3dqN3NVTjFfREpuRE1tNFJjRENKblpTMjJlSjNLZzNlTjc4aThlTDluOWlzRmhubzlsWDZfa0kwWWxHZmdicDhHeWsxczJ1NVJRbnRTc1dXXzYxSkxuUTJ1X3JwTzB6VWUwazQxeW5mVmxFUnZ3TldFU1hKcjQzMmg3QkdfenlsZ0ZEYWNvYjR6MmN4NEthMGFN?oc=5"
-      },
-      {
-       "titulo": "Ben Shelton, el rey de las remontadas en 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3lRbTF6WERTSTZpanpqSnM2VWVnb3IyLWRHaGt6Tkk3S0Q1alpJZHZKcEtIaEpYVkZMMGlEVVRxMDNDcFVkQTgwODhGTndHRGx0WnlKSXloNTNvWkZ2X2RaMDJfcE1TNVBzN2xKX2tQSk5BV0JqUTVLV3lFUGZBXzhoLW1haWZoZE9JMQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzYwdGYwT1BPbWxkcEdqMGtodTdQTUxPOXVucWlXVmozdThkTGFkbTRqMDZqR3FBN2FCWFpPOUItWlVKUDc4R3g3QWZpOGNtcEtSNVBKN2s3OElLZFJvYkpiaW43dVlXUHpPV3FDcEVWRkVVOU5ZYWtfVnVwQ0FpZjgxWnhLSTl6Tjk0OUtLaW1fZmV0RklrMjVZLWRsREx1alFjX0JjTDRNUlcyMDNwd3RR?oc=5"
       }
      ]
     },
@@ -9469,7 +9469,7 @@
    "inicio": "2026-11-06T14:10+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:42+00:00",
+   "actualizado": "2026-11-06T10:10+00:00",
    "elo": 0.47,
    "elo_general": 0.501,
    "elo_en_superficie": 0.438,
@@ -9493,6 +9493,12 @@
      "cansancio": "2 partidos, 5 sets y 54 juegos en 3 días; el último el 2026-11-05 contra Lorenzo Musetti, ganó 7-5 3-6 6-4 (partido largo)",
      "noticias": [
       {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
+      },
+      {
        "titulo": "Luca Van Assche vs Rinky Hijikata - Coinbase",
        "fuente": "Coinbase",
        "fecha": "2026-11-06",
@@ -9503,12 +9509,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-05",
        "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZEWW1tZE5JS3VXdkt1YjFfOTUyN1VCYkdsOW8wNXNvb0czTzg3NGVGWmNGNE4yZnkxUDhyNDlkMFQ0eWNoSks1SlNlMURlU09uNFl1aEpFYWVOSUl1REM4VFNWc0xCTExuNDRpZ2lnZDhEc0x3UlowSkZ2a3ZST20zSWsyVUdTajVidmM3cjhTczk5cVUxMU1ybHpwZ0hDeFRIdldJTGxoYk9aM0VCUTRPUXFPTVN0?oc=5"
-      },
-      {
-       "titulo": "La resurrección de Luca Van Assche: \"Llegué a preguntarme si quería seguir siendo tenista\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmNlVHUwcGZlYUhVZmswUzJkWE1lSEhKcGtObE1TZWQ2UHJfWmFIVVZuaTBYRkxzTWdnZmstd0Y4VUFkQzJzem1YT0w3TVUyU0QzYm1WejMyVG9KVGEtVXVKcVZrS0NTcDlMSm5GR0k1bmx1VXMway1qR25lSDdNdmwyZC1JSF8wNDM4Sl91QnduUHh3bjcxZTNYQUt5Z2hnekl3bEtNS08?oc=5"
       }
      ]
     },
@@ -9557,7 +9557,7 @@
    "inicio": "2026-11-06T18:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:42+00:00",
+   "actualizado": "2026-11-06T10:10+00:00",
    "elo": 0.19,
    "elo_general": 0.168,
    "elo_en_superficie": 0.212,
@@ -9615,6 +9615,12 @@
      "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
      "noticias": [
       {
+       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-06",
+       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
+      },
+      {
        "titulo": "Fritz, sobre Alcaraz antes de su duelo en París: \"Estoy deseando enfrentarme a él. Voy a necesitar jugar perfecto para ganar. Es el punto de inflexión del torneo. Siento que, si ganó este partido, tendré muchas opciones de ser campeón\" - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-06",
@@ -9625,12 +9631,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzYwdGYwT1BPbWxkcEdqMGtodTdQTUxPOXVucWlXVmozdThkTGFkbTRqMDZqR3FBN2FCWFpPOUItWlVKUDc4R3g3QWZpOGNtcEtSNVBKN2s3OElLZFJvYkpiaW43dVlXUHpPV3FDcEVWRkVVOU5ZYWtfVnVwQ0FpZjgxWnhLSTl6Tjk0OUtLaW1fZmV0RklrMjVZLWRsREx1alFjX0JjTDRNUlcyMDNwd3RR0gG_AUFVX3lxTE1weUMyTmhPZkhURjh0amswR21TMXV6YWtGcldrUjVtcWJqajhobjZmSmZHZzdaZ2ExbmNlRmtfSHJaTWRzSWt4SGpBeldpdlZIZVEwc0hqemc5d2l2TU1EYVlqaTg0UU96WWtDVlJBeUQ0RzdNSS01Q1lCS2hnR2xzSXVidFVkMjFJbGhoWlJuclU4MFJWaUgtbW5JNlpoZHo5VTRyTjNxcEJCM3FpejAyWTVwUUNvdlZDRG9FRGZj?oc=5"
-      },
-      {
-       "titulo": "Ben Shelton, el gran desafío de un Juan Carlos Ferrero que busca hacer un 'nuevo Alcaraz' - 20Minutos",
-       "fuente": "20Minutos",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWVhOVl5VVgzZ0ZFNDhKclAxWVBfZU1zVzJCdHUyRHNmTzRadzNHYVF0VnRkRFZaZVl1ZnZZV3dqN3NVTjFfREpuRE1tNFJjRENKblpTMjJlSjNLZzNlTjc4aThlTDluOWlzRmhubzlsWDZfa0kwWWxHZmdicDhHeWsxczJ1NVJRbnRTc1dXXzYxSkxuUTJ1X3JwTzB6VWUwazQxeW5mVmxFUnZ3TldFU1hKcjQzMmg3QkdfenlsZ0ZEYWNvYjR6MmN4NEthMGFN?oc=5"
       }
      ]
     }
@@ -9645,7 +9645,7 @@
    "inicio": "2026-11-06T19:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-06T09:42+00:00",
+   "actualizado": "2026-11-06T10:10+00:00",
    "elo": 0.609,
    "elo_general": 0.608,
    "elo_en_superficie": 0.61,
