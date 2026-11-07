@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T15:10+00:00",
+    "hora": "2026-11-07T15:19+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T15:10+00:00",
+    "hora": "2026-11-07T15:19+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T15:10+00:00",
+    "hora": "2026-11-07T15:19+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T15:10+00:00",
+    "hora": "2026-11-07T15:19+00:00",
     "rent": 0.0
    }
   }
@@ -2624,6 +2624,7 @@
   "67bc3ba645cf",
   "3b984f9706d5",
   "81b4e6eefd1f",
+  "18208d52af1d",
   "a8fd9213b0b6",
   "92ee25f2ac65",
   "0ae3c2b5ead4",
@@ -2683,6 +2684,7 @@
   "5b2536843402",
   "fdd8feb047a6",
   "b44b5fa299d5",
+  "0c1d9ead2e3f",
   "60612dd1962f",
   "99071ee1e7e0",
   "d2e3b05b35b9",
@@ -2765,6 +2767,7 @@
   "901e269a56ff",
   "42e4b88e4d9c",
   "002cf6c40e7e",
+  "559c2054e564",
   "e5acf85e0cb6",
   "9241bb3ecadb",
   "10b4724a82a0",
@@ -2776,7 +2779,6 @@
   "d4914520030f",
   "6af683369bb0",
   "c9180d6af856",
-  "559c2054e564",
   "2ffc84ed20b5",
   "bd654d354c0f",
   "a35f7ab54809",
@@ -3415,9 +3417,7 @@
   "a286cd16d280",
   "b4f846904048",
   "792029e720e1",
-  "14a57a0aa9db",
-  "d650dabca868",
-  "380bb6d0e83f"
+  "14a57a0aa9db"
  ],
  "sala_aciertos": {
   "favorito": [
