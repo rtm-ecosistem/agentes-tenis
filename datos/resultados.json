@@ -242083,6 +242083,48 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Chennai Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Robin Montgomery",
+    "Janice Tjen"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     3,
+     6
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Bybit Stockholm Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Lorenzo Sonego",
+    "Olle Wallin"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }

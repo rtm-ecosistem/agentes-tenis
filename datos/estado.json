@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.034,
      "sorpresa": 0.4,
-     "impaciencia": 0.059,
+     "impaciencia": 0.058,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T13:35+00:00",
+    "hora": "2026-11-07T14:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T13:35+00:00",
+    "hora": "2026-11-07T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T13:35+00:00",
+    "hora": "2026-11-07T14:10+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T13:35+00:00",
+    "hora": "2026-11-07T14:10+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-05T08:00+00:00",
-   "texto": "🎾 Cartelera: 8 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-05T08:00+00:00",
    "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T13:35+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T14:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T14:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,9 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-07-14",
  "noticias_vistas": [
+  "3b984f9706d5",
+  "a8fd9213b0b6",
+  "92ee25f2ac65",
   "19ee544585db",
   "2389546e70ff",
   "c3cd6c55d9b3",
@@ -2625,23 +2628,24 @@
   "81da77d1243e",
   "1f692de75e1d",
   "0c634a6752b9",
+  "cc9cdf69736f",
   "eb3470cd4a93",
+  "4be157e4a97c",
   "02022684028f",
   "32cdbdb11bbd",
   "b5448b76fc2f",
   "9b328b48647f",
   "c8d69b01fd35",
+  "0ae3c2b5ead4",
   "c156031af6cf",
   "a2ce6b7b5c57",
   "636e75860bb5",
   "2cb55b945832",
-  "92ee25f2ac65",
   "923030b729bd",
   "7910724ca5f2",
   "478530681674",
   "6fb21a515a72",
   "7faf34fa0610",
-  "0ae3c2b5ead4",
   "dc6a9a9aedeb",
   "1c38ddc29436",
   "4b364b148826",
@@ -2662,12 +2666,12 @@
   "3f9f1d328e37",
   "d8f3b05630d9",
   "9dd95baf789f",
+  "adb4087240c1",
   "7a4a7c5458e8",
   "f8bd2b6d33a0",
   "5b2536843402",
   "fdd8feb047a6",
   "b44b5fa299d5",
-  "adb4087240c1",
   "60612dd1962f",
   "99071ee1e7e0",
   "d2e3b05b35b9",
@@ -2701,9 +2705,8 @@
   "de6782a9c25e",
   "c6296bc38143",
   "8bcf412c962f",
-  "6ef0dfaf63a2",
-  "4be157e4a97c",
   "85c5d409c1f3",
+  "6ef0dfaf63a2",
   "0c1c5c2ea3c7",
   "36ea4b297c75",
   "5664cb4f0789",
@@ -2729,6 +2732,7 @@
   "7cb000e5e7a4",
   "f955d6c0a7db",
   "b1e2f60ebd65",
+  "1ac54e947414",
   "e4cc76054e36",
   "4b1d3ed1e507",
   "06c2ef2f33d9",
@@ -2740,6 +2744,7 @@
   "86a2900ad585",
   "6e1c39ae00dc",
   "3b82e3372854",
+  "651c6ab5e80f",
   "7ae3effc576e",
   "a37cbc9cd903",
   "6d017ca5ba2b",
@@ -2760,6 +2765,7 @@
   "673df6dcc74d",
   "d4914520030f",
   "6af683369bb0",
+  "c9180d6af856",
   "559c2054e564",
   "2ffc84ed20b5",
   "bd654d354c0f",
@@ -2784,7 +2790,6 @@
   "9c5d1b4279b5",
   "f04e92f35d8d",
   "5619023ec14a",
-  "c9180d6af856",
   "4eaa9319a158",
   "ce2f61f76ea4",
   "8a6bbea0a95a",
@@ -2866,6 +2871,7 @@
   "b0307cb7331c",
   "9798143d3b03",
   "05326deef0a0",
+  "90791faf4f9d",
   "a2d097517435",
   "b69b7f4c9394",
   "129c2687dfdb",
@@ -3411,13 +3417,7 @@
   "a5787e68488a",
   "aec24a3ca977",
   "afe85260d6f2",
-  "233a5782e8ce",
-  "89b2ccc05641",
-  "70905871f94f",
-  "ca1486ad7f5e",
-  "b65b420a8f5e",
-  "a2ec8cbe2ec3",
-  "b0425620a126"
+  "233a5782e8ce"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3444,358 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "61c8928c277531cc3a82944398f6ee04": {
-   "id": "61c8928c277531cc3a82944398f6ee04",
-   "jugadores": [
-    "Sebastian Baez",
-    "Damir Dzumhur"
-   ],
-   "inicio": "2026-10-31T14:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
-   "elo": 0.518,
-   "elo_general": 0.443,
-   "elo_en_superficie": 0.593,
-   "cara_a_cara": [
-    2,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Sebastian Baez",
-     "mercado": 0.43,
-     "elo": 1548,
-     "elo_superficie": 1548,
-     "forma": [
-      "P hard vs Shang Juncheng",
-      "G hard vs Marcos Giron",
-      "P hard vs Valentin Vacherot",
-      "P hard vs Pierre-Hugues Herbert",
-      "P hard vs Giovanni Mpetshi Perricard"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Felix Balshaw vs Yannick Hanfmann - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWxaclUycENFM1FJSEZaaU9lYkhEQWdCRVUwMnA3U3piVXc0YU1VSjY1RnN2aXE0VkxHWEhJYm1sZjJ4dTV5SnhSNFF1OXIyTmJfTGI5ZFFQeXBFUGxHbVpFd2RhSWtGcGVFR2xGMmJEZTF6LUlYMlpXZGlsNFUtNUdUc0dHVEZYd2Q3MA?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Alejandro Davidovich Fokina vs Moise Kouame - Cuotas y estadísticas - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWNmYUI1WU5vNWc5VVJVSTFPVGxRd0ZJWUUzY005azd3YURwS3YzYzBobmRiVEpVSHo4MVBJWWJSSE1NRER5bzQ2NHR4dVlEYzFEMVp3dTZ3X2VKTkpKdHJxdU5ycU9WTV9qTTkwbGJEYVBKTjRQS0hGNEpPOWtHSXY1dkNXaHNlTU1HRndLWFJKMGJ2M1Nld3JR?oc=5"
-      },
-      {
-       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Damir Dzumhur",
-     "mercado": 0.57,
-     "elo": 1587,
-     "elo_superficie": 1482,
-     "forma": [
-      "G clay vs Alex Molcan",
-      "P clay vs Daniel Merida",
-      "P hard vs Hubert Hurkacz",
-      "G hard vs Dino Prizmic",
-      "P hard vs Zizou Bergs"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Thiago Tirante avanzó a la final de la qualy del ATP Masters 1000 de París - DeporTV",
-       "fuente": "DeporTV",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZTI5YjhpYUM3S2k4QlY5VVZEczdoSXJ4eDhRQTRkenBFdkkxQjZKRTVoUXRZdEFsYW9XbGJ3Q1BSV2hZNEZoWEN4QTJUTzNaV1BCY0s3dC1oQ2ZNOWJWLUJUUV9DbzN0eXZHWG5LZ2xlYUdYYjRWSFF0OGpTM2ZSdmRaV05nUHdSWUUyMEs1RjNSMk8yNEVpdzlMLTlNby00Mmp3?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Hugo Gastón vs Vit Kopriva - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDA5QzQySW9Pd0dCdlpidktBV3NOd1gtcURIUUJwN2QwREVwaGhYX3FibkxhZVFrc3FtQWx5cFZyQXZpQzljMVAzeWhDNHhXbkVqSjBPcHd2OFNLNGJEMFZ3RXBxQTZnOFBRM2lXV21jUFkxbHNJa0Jia0Z5dVh4cFpkUWliZ3M?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "26b452bf13520fa28ea016bf646a6cbc": {
-   "id": "26b452bf13520fa28ea016bf646a6cbc",
-   "jugadores": [
-    "Lorenzo Sonego",
-    "Jaume Munar"
-   ],
-   "inicio": "2026-10-31T14:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
-   "elo": 0.247,
-   "elo_general": 0.271,
-   "elo_en_superficie": 0.223,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Lorenzo Sonego",
-     "mercado": 0.39,
-     "elo": 1528,
-     "elo_superficie": 1502,
-     "forma": [
-      "P hard vs Kamil Majchrzak",
-      "P hard vs Aziz Dougaz",
-      "P hard vs Moise Kouame",
-      "G hard vs Adolfo Daniel Vallejo",
-      "P hard vs Jacob Fearnley"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "ATP París: de Cobolli y Musetti a Berrettini, el cuadro de los italianos - Tennis World Italia",
-       "fuente": "Tennis World Italia",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGhzMFFzRDNpbFFpYVFIUVBzVnY5dVhHSUZXdEd1MmdKdElBUXBCZ21nRVN5ejBuU05hVS1kRkZDc0lOaGhkLXF6Y1VWeEFCWjZSYjJKWU5uZjNsR21KVHVsLS14YVpJSWJ1M2dMRDJpcXJXMEpicGRxOEp1Wkctb3oxTktVTVNqVVZjRVFwUF9JanpHYnVSQmZrS01DWkJ2S1pGU0t4S2xiR0FYc0Y1ektLRGVkaDhjRERzTnBldmcyV1I1cnE4MjVLdE5SSjZiS3o5aw?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
-      },
-      {
-       "titulo": "Alejandro Davidovich Fokina - Moise Kouame en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUGo0RHBiRlEtOXpEeTBQd3R3X1NnTERzaDNha0JHdlpMMlQyM00yTG02WXVMQ01hcGJMUTRnNmRmV0NBS2pNVEVHZU91dy1haE85UFhiZldRVTR2c2pNV3hXbXVPS2I5RlhNdUhCa1lYUkozZ2tWNTVBcG1kcGJ4M0ZKSmYzQjRGWDBxeW5LY1FtWkY1TVpQOEZOZTRGdw?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Jaume Munar",
-     "mercado": 0.61,
-     "elo": 1700,
-     "elo_superficie": 1719,
-     "forma": [
-      "G hard vs Jaime Faria",
-      "G hard vs Kyrian Jacquet",
-      "P hard vs Carlos Alcaraz",
-      "P hard vs Jenson Brooksby",
-      "G hard vs Federico Cina"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "5a856de2f4f6df9ea205100c2c304254": {
-   "id": "5a856de2f4f6df9ea205100c2c304254",
-   "jugadores": [
-    "Valentin Vacherot",
-    "Taylor Fritz"
-   ],
-   "inicio": "2026-10-31T14:00+00:00",
-   "torneo": "ATP Swiss Indoors Basel",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
-   "elo": 0.426,
-   "elo_general": 0.426,
-   "elo_en_superficie": 0.427,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Valentin Vacherot",
-     "mercado": 0.266,
-     "elo": 1796,
-     "elo_superficie": 1795,
-     "forma": [
-      "P hard vs Tommy Paul",
-      "P hard vs Luca Van Assche",
-      "G hard vs Mariano Navone",
-      "G hard vs Rafael Jodar",
-      "G hard vs Holger Rune"
-     ],
-     "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-10-30 contra Holger Rune, ganó 6-3 3-6 6-3",
-     "noticias": [
-      {
-       "titulo": "Horario y dónde ver por TV el debut de Djokovic en el Masters 1000 de París ante Valentin Vacherot - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX013MEZMQlA5TlFwTFAtckExR2RUeVVGeHNYbnExQmhBMzB0MGMzQnRSQ2lUbGZyZDdXb1hhRFBwRS1YY0VUQzhZZ05YblRjUmdfS19vZlVkUVlReVNWOXY2eVpILThWRGFHTFE3Qllpc0VmZ3hZOXZIaGp1Y0NyZTJoa1NSSVNNM01fTExHWWk2aHg2MWlveU1SUHp5X3Z0ZGh5NHhOaGx0dTJPUktUY3RUOV9SZGNkaVZQdDhUWXFhTkJxa1p5OGpPQWFlQ2F5SzlzWDJpTVhULThkU3FaM3hjenF2YjlwQmN2VGxKQWZpVEZsTGRBQW1pSHBzdw?oc=5"
-      },
-      {
-       "titulo": "De Miñaur y Fritz complican la vida a Jódar con sus victorias - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3BUTExZNWFkNDRHQjNOd05TNVZJMkdPakY5cUluRktFQXBHSDR0LUZPanNCVDN6cjJDNUxxQVBBYmVyQmdTQ2pYVWttc09SaGZjZG1aZ3d1YVRhaHdmclhKdnNPX0Zwa19iWjRMV0hnZ0J1RFB4VHdtcEl2TEJPWTlEVHEteEtSOG1GaHpxWW1KRl81d1lmbDJRck95UmN4NmxZVG9RWkN0VmpmeklfTWJxSTBGUdIBtgFBVV95cUxNX3BUTExZNWFkNDRHQjNOd05TNVZJMkdPakY5cUluRktFQXBHSDR0LUZPanNCVDN6cjJDNUxxQVBBYmVyQmdTQ2pYVWttc09SaGZjZG1aZ3d1YVRhaHdmclhKdnNPX0Zwa19iWjRMV0hnZ0J1RFB4VHdtcEl2TEJPWTlEVHEteEtSOG1GaHpxWW1KRl81d1lmbDJRck95UmN4NmxZVG9RWkN0VmpmeklfTWJxSTBGUQ?oc=5"
-      },
-      {
-       "titulo": "Fritz-Vacherot y Lehecka-Struff, semifinales en Basilea - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTBrWWU4ZHBjNjYwY1ZxRTh5ZTVZZENXN3NuN1dwNzRwdlpFQ1Z0N0Fvc2FoT1dnX3doa25QeXhLVTBzMVFwZ0s5UTRMcnBRSEc5SHVlUUJxaHFtRVBlQllYTDJweHU1aGcwTndURFppY3M2bUlNZG9nbWI3azdEOWI1X1ltM1hiaU9GQUZycFpDUGNrSmZac0lMc1o0RnFsNWZxTno4QzlHd9IBxAFBVV95cUxNbDBuVGhBUGt3M0RSSDlRQUY5M1dpeHlKNEl3a3M4N1g5bHVDYnIxbHZjMmRzb0QxUnQ4Zms4QUJFaUM1X3prNUpmdldPYl9FbEhEdmhhOGU1QjJKWnl4VjBjaVNmZ3Rad3V3dDdVdWdia1Vsd3FfZW5lWmQ2UkpuU2FFcTF5d0FKV1l1a0tZaVhKaHdkWE9vdlhvcE5XWDl3bEtiWUhON1ZSODlReThNQmF3enZkclNYb2xOZFJtaWtLV3c0?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Taylor Fritz",
-     "mercado": 0.734,
-     "elo": 1848,
-     "elo_superficie": 1846,
-     "forma": [
-      "G hard vs Daniel Altmaier",
-      "G hard vs Tommy Paul",
-      "P hard vs Lorenzo Musetti",
-      "G hard vs Rinky Hijikata",
-      "G hard vs Denis Shapovalov"
-     ],
-     "cansancio": "3 partidos, 5 sets y 49 juegos en 3 días; el último el 2026-10-30 contra Arthur Fils, ganó 5-2",
-     "noticias": [
-      {
-       "titulo": "¿Cuáles fueron los resultados de Basilea? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxWXJ0NHVRUnFmSlNSc04yNjRhazFTU3dPMjlzMXM2bUZBQy02QjlaaHlqRzFLdmhDNF91YUhNeWM3c0JLYjdLOWdJREdLR0Z3QXFuazlibGowNFRteG9n?oc=5"
-      },
-      {
-       "titulo": "Hot Shot: Paul conecta un ángulo perfecto ante Fritz en Lyon - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVN3ZVhLUmxFdDZicTVpZGlTcjhiT09hV3M2TXZuUjd4bWEwbVVIZTgxVTdGUjhhNTBSZkxMX2FNTDdJaWlpQjhPSDVlSHl2OERCdDZvajBjaC1lWHJHRGRNdWlUcTluUmR3S2ItVWw2cEZha21MSUxaZUd6MHp5b2dLVDVWWExUMjJ4TmxXMkdDUQ?oc=5"
-      },
-      {
-       "titulo": "Otro candidato a las ATP Finals con problemas físicos - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWw2Q1ljSWdxTkdSWkgyQm1GRmdGSEw2cVNxRG9PN1RjcnJZN0I5M2Qxd0RwbEpacTRNSzNSaGhpT1lPZ1ZCSWNKSC0zeGNsbldBS3AtSWkxbWl1QXhnMzU5N212OUJZVFpJSnBOMDNXbjBUVlFORzVpWTZaa29fUnAxTUN1SVlXNFJvOFBCZXM4aWw1T1doNmRNVU5WNmZkYVQ2VzBoeE1RTFJ1?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "3f0addea74d69db2f1b7595d4fb2b1af": {
-   "id": "3f0addea74d69db2f1b7595d4fb2b1af",
-   "jugadores": [
-    "Daniil Medvedev",
-    "Carlos Alcaraz"
-   ],
-   "inicio": "2026-10-31T14:00+00:00",
-   "torneo": "ATP Vienna Open",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T13:10+00:00",
-   "elo": 0.249,
-   "elo_general": 0.211,
-   "elo_en_superficie": 0.286,
-   "cara_a_cara": [
-    1,
-    3
-   ],
-   "detalle": [
-    {
-     "nombre": "Daniil Medvedev",
-     "mercado": 0.334,
-     "elo": 1904,
-     "elo_superficie": 1917,
-     "forma": [
-      "G hard vs Terence Atmane",
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Daniel Merida",
-      "G hard vs Cameron Norrie",
-      "G hard vs Adrian Mannarino"
-     ],
-     "cansancio": "3 partidos, 7 sets y 69 juegos en 3 días; el último el 2026-10-30 contra Adrian Mannarino, ganó 6-2 6-3",
-     "noticias": [
-      {
-       "titulo": "Daniil Medvedev - Carlos Alcaraz, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY01Mbk80eTFDbERmQlNkVWRoT2RPLVl4c19xb2w3RnNDRTBWYjF6aXBjbk9BOE5KdEtIS05vZnpPWlFxYUVaN0NWUlhBY29jbDJyM21CNmJqU2RMc2plTVhQT0VWTHdnVmZzNDBwTk1VRThURDdpRjhjUkVLRkhHd0F3em82UnlZZGMzdXRLQVh2N0FGOHpXZG1LQ1R2OGJGenl2X210RkZLaDJ1NThnd0NuU25KMlZYZXYzaTBnWnhSVEVwSklyb3hkdTRNLXFCUEc1Qkk0ZjZFdmF5anE1OURPV05vMlhXTnE4UQ?oc=5"
-      },
-      {
-       "titulo": "Dónde ver el Alcaraz - Medvedev hoy: a qué hora se juega la semifinal del ATP 500 de Viena 2026 - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVU1a2N3aEVQbDF4cFZaeWpYT00wZzRudXh1VG15MTFhdnFnMF8waVhuWG4zNnduOU9YOUZtcGxVaFBrbk9tQ1k4dkJBaTdRUDZ3SmF5T0dmdm1GRlluR29ka2d2MzVQQkVZTXc5enNKX0JPaF94UkEtUUE1UV9WRi1TRGJEX3BnY3ZTT1VB0gGOAUFVX3lxTE9nTXlFSlN4cXRSd1dtSU1pdTdGNGZGRlBURlBqZHBiOXktQWdYRzNndy1tcnV2V19zNDk5bDV2LWttbE5JV2lFN2gxd0pVUkF2SnlnYWQtS0ZTdUFfVTgxMmtfT1N3TkY4TXRhTTczOTczQjE0Y2s3X29ROXNNTEl4WTcyb0hFbzBoUnJvOUE?oc=5"
-      },
-      {
-       "titulo": "Dónde ver el Alcaraz - Medvedev hoy: a qué hora se juega la semifinal del ATP 500 de Viena 2026 - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVU1a2N3aEVQbDF4cFZaeWpYT00wZzRudXh1VG15MTFhdnFnMF8waVhuWG4zNnduOU9YOUZtcGxVaFBrbk9tQ1k4dkJBaTdRUDZ3SmF5T0dmdm1GRlluR29ka2d2MzVQQkVZTXc5enNKX0JPaF94UkEtUUE1UV9WRi1TRGJEX3BnY3ZTT1VB?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Carlos Alcaraz",
-     "mercado": 0.666,
-     "elo": 2133,
-     "elo_superficie": 2076,
-     "forma": [
-      "G hard vs Juan Manuel Cerundolo",
-      "P hard vs Zizou Bergs",
-      "G hard vs Karen Khachanov",
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Tommy Paul"
-     ],
-     "cansancio": "2 partidos, 4 sets y 43 juegos en 3 días; el último el 2026-10-30 contra Tommy Paul, ganó 6-4 7-6",
-     "noticias": [
-      {
-       "titulo": "Daniil Medvedev - Carlos Alcaraz, en directo hoy: sigue el partido de Erste Bank Open - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY01Mbk80eTFDbERmQlNkVWRoT2RPLVl4c19xb2w3RnNDRTBWYjF6aXBjbk9BOE5KdEtIS05vZnpPWlFxYUVaN0NWUlhBY29jbDJyM21CNmJqU2RMc2plTVhQT0VWTHdnVmZzNDBwTk1VRThURDdpRjhjUkVLRkhHd0F3em82UnlZZGMzdXRLQVh2N0FGOHpXZG1LQ1R2OGJGenl2X210RkZLaDJ1NThnd0NuU25KMlZYZXYzaTBnWnhSVEVwSklyb3hkdTRNLXFCUEc1Qkk0ZjZFdmF5anE1OURPV05vMlhXTnE4UQ?oc=5"
-      },
-      {
-       "titulo": "Dónde ver el Alcaraz - Medvedev hoy: a qué hora se juega la semifinal del ATP 500 de Viena 2026 - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVU1a2N3aEVQbDF4cFZaeWpYT00wZzRudXh1VG15MTFhdnFnMF8waVhuWG4zNnduOU9YOUZtcGxVaFBrbk9tQ1k4dkJBaTdRUDZ3SmF5T0dmdm1GRlluR29ka2d2MzVQQkVZTXc5enNKX0JPaF94UkEtUUE1UV9WRi1TRGJEX3BnY3ZTT1VB0gGOAUFVX3lxTE9nTXlFSlN4cXRSd1dtSU1pdTdGNGZGRlBURlBqZHBiOXktQWdYRzNndy1tcnV2V19zNDk5bDV2LWttbE5JV2lFN2gxd0pVUkF2SnlnYWQtS0ZTdUFfVTgxMmtfT1N3TkY4TXRhTTczOTczQjE0Y2s3X29ROXNNTEl4WTcyb0hFbzBoUnJvOUE?oc=5"
-      },
-      {
-       "titulo": "Dónde ver el Alcaraz - Medvedev hoy: a qué hora se juega la semifinal del ATP 500 de Viena 2026 - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVU1a2N3aEVQbDF4cFZaeWpYT00wZzRudXh1VG15MTFhdnFnMF8waVhuWG4zNnduOU9YOUZtcGxVaFBrbk9tQ1k4dkJBaTdRUDZ3SmF5T0dmdm1GRlluR29ka2d2MzVQQkVZTXc5enNKX0JPaF94UkEtUUE1UV9WRi1TRGJEX3BnY3ZTT1VB?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "e29817fd8c010bb31e6c920398185da1": {
    "id": "e29817fd8c010bb31e6c920398185da1",
    "jugadores": [
@@ -9525,7 +9173,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T13:35+00:00",
+   "actualizado": "2026-11-07T14:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -9549,6 +9197,12 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
+      },
+      {
        "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
@@ -9559,12 +9213,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Casper Ruud: horario y dónde ver por TV las semifinales del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
       }
      ]
     },
@@ -9583,6 +9231,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
+      },
+      {
        "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
@@ -9593,12 +9247,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz - Casper Ruud: horario y dónde ver por TV las semifinales del Masters 1000 de París - El Debate",
-       "fuente": "El Debate",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
       }
      ]
     }

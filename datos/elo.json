@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T13:10+00:00",
+ "actualizado": "2026-11-07T14:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1093,19 +1093,18 @@
    "nombre": "Lorenzo Sonego",
    "circuito": "ATP",
    "elo": {
-    "all": 1560.2,
-    "hard": 1544.9,
+    "all": 1574.5,
+    "hard": 1563.1,
     "clay": 1448.1,
     "grass": 1621.7
    },
    "n": {
-    "all": 148,
-    "hard": 100,
+    "all": 149,
+    "hard": 101,
     "clay": 28,
     "grass": 20
    },
    "ultimos": [
-    "2026-09-24 G hard vs James Duckworth",
     "2026-09-25 P hard vs Jenson Brooksby",
     "2026-09-28 P hard vs Kamil Majchrzak",
     "2026-10-05 P hard vs Aziz Dougaz",
@@ -1114,7 +1113,8 @@
     "2026-10-25 P hard vs Jacob Fearnley",
     "2026-10-31 G hard vs Jaume Munar",
     "2026-11-01 G hard vs Adolfo Daniel Vallejo",
-    "2026-11-02 P hard vs Mattia Bellucci"
+    "2026-11-02 P hard vs Mattia Bellucci",
+    "2026-11-07 G hard vs Olle Wallin"
    ]
   },
   "mannarino|a": {
@@ -13366,20 +13366,21 @@
    "nombre": "Olle Wallin",
    "circuito": "ATP",
    "elo": {
-    "all": 1510.6,
-    "hard": 1522.9,
+    "all": 1461.4,
+    "hard": 1469.1,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 2,
-    "hard": 2,
+    "all": 3,
+    "hard": 3,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2025-09-12 G hard vs Aziz Ouakaa",
-    "2025-09-12 P hard vs Moez Echargui"
+    "2025-09-12 P hard vs Moez Echargui",
+    "2026-11-07 P hard vs Lorenzo Sonego"
    ]
   },
   "ouakaa|a": {
@@ -17881,19 +17882,18 @@
    "nombre": "Janice Tjen",
    "circuito": "WTA",
    "elo": {
-    "all": 1680.1,
-    "hard": 1686.8,
+    "all": 1707.5,
+    "hard": 1716.5,
     "clay": 1458.8,
     "grass": 1432.7
    },
    "n": {
-    "all": 54,
-    "hard": 44,
+    "all": 55,
+    "hard": 45,
     "clay": 4,
     "grass": 6
    },
    "ultimos": [
-    "2026-10-02 P hard vs Diana Shnaider",
     "2026-10-12 G hard vs Aoi Ito",
     "2026-10-14 G hard vs Daria Snigur",
     "2026-10-15 P hard vs Ann Li",
@@ -17902,7 +17902,8 @@
     "2026-10-28 P hard vs Harriet Dart",
     "2026-11-03 G hard vs Katherine Hui",
     "2026-11-04 G hard vs Joanna Garland",
-    "2026-11-06 G hard vs Polina Kudermetova"
+    "2026-11-06 G hard vs Polina Kudermetova",
+    "2026-11-07 G hard vs Robin Montgomery"
    ]
   },
   "vekic|d": {
@@ -29053,19 +29054,18 @@
    "nombre": "Robin Montgomery",
    "circuito": "WTA",
    "elo": {
-    "all": 1722.1,
-    "hard": 1731.2,
+    "all": 1689.8,
+    "hard": 1695.5,
     "clay": 1418.5,
     "grass": 1588.1
    },
    "n": {
-    "all": 34,
-    "hard": 26,
+    "all": 35,
+    "hard": 27,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-08-27 G hard vs Carson Branstine",
     "2026-09-01 P hard vs Maria Sakkari",
     "2026-09-22 P hard vs Sohyun Park",
     "2026-09-28 G hard vs Aran Teixido Garcia",
@@ -29074,7 +29074,8 @@
     "2026-10-28 P hard vs Lisa Pigato",
     "2026-11-03 G hard vs Panna Udvardy",
     "2026-11-04 G hard vs Jeline Vandromme",
-    "2026-11-06 G hard vs Maaya Rajeshwaran Revathi"
+    "2026-11-06 G hard vs Maaya Rajeshwaran Revathi",
+    "2026-11-07 P hard vs Janice Tjen"
    ]
   },
   "corte|c": {
@@ -92026,7 +92027,15 @@
   "brunold|m~gojo|b": [
    0,
    1
+  ],
+  "montgomery|r~tjen|j": [
+   0,
+   1
+  ],
+  "sonego|l~wallin|o": [
+   1,
+   0
   ]
  },
- "propios": 10689
+ "propios": 10691
 }
