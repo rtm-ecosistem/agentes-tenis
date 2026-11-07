@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T03:29+00:00",
+ "actualizado": "2026-11-07T04:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -352,14 +352,14 @@
       "emocion": "tension",
       "cara": "😬",
       "nombre": "Tensión",
-      "pct": 0.239,
+      "pct": 0.24,
       "motivo": "Va un poco por debajo de lo que empezó (-2,0 %)."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.055,
+      "pct": 0.054,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
