@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T12:10+00:00",
+ "actualizado": "2026-11-07T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -2156,94 +2156,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "d2d80372138d7a9fb0ac07d2ff097c5e": {
-   "id": "d2d80372138d7a9fb0ac07d2ff097c5e",
-   "jugadores": [
-    "Tallon Griekspoor",
-    "Benjamin Bonzi"
-   ],
-   "inicio": "2026-10-31T13:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T12:10+00:00",
-   "elo": 0.493,
-   "elo_general": 0.477,
-   "elo_en_superficie": 0.51,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Tallon Griekspoor",
-     "mercado": 0.61,
-     "elo": 1680,
-     "elo_superficie": 1693,
-     "forma": [
-      "G hard vs Jiri Lehecka",
-      "G hard vs Francisco Cerundolo",
-      "G hard vs Jan-Lennard Struff",
-      "G hard vs Brandon Nakashima",
-      "P hard vs Alexander Zverev"
-     ],
-     "cansancio": "2 partidos, 5 sets y 52 juegos en 3 días; el último el 2026-10-29 contra Alexander Zverev, perdió 4-6 5-7",
-     "noticias": [
-      {
-       "titulo": "Zverev supera a Griekspoor en Viena y asegura su ascenso al No. 1 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGenY0R2xBVTh0TkFvQl92Vm9jeElsM1p6NjdmNXdlQ3gxUDB3RGs5VXZHTkxIclRrbmxUYU9aalM1VVFsNTM0eUhQaTkycHcwS05EVTRwTDA3TnYwcDNFREQ2OTBTSkwwRU81LWUzWUVXclRRNVlwTUJB?oc=5"
-      },
-      {
-       "titulo": "Alemán Alexander Zverev se convierte automáticamente en el N° 1 del mundo, al vencer al neerlandés Tallon Griekspoor en el ATP 500, de Viena - El Informador Venezuela",
-       "fuente": "El Informador Venezuela",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZHV2WEZHZ2w4RU9xR0FGU2Y3aEZmZEpZNVBJWUhMampKQWoyNGJOV1BJdC1aZXJMWjJ3ZFRDTkdUNWlUU0xWRWRsbTl3d0VLMFlSMk5xUWdoZnFJeWludVJYWEkyRzdfSzdVenpRTlg0b29JOWxlTWtNcGlfYmZhU2RsN0V2NTU3SVlpYl9DdFJJWngxaFpoZi1pc2J5M2J2RWtIRFBZYWxUUm0tYlM4YW5ZSzUzNXFidHJqcXRzVk1vYU81U0ZRNVlaRE90cVhjRlh5WGlIVjZjUE5qR01sTEw1bHFNM0Q3X3V4RlRTVWkwWnh2UU9tbXIzUU4yYmYtUmdsUGJjVkxOcFZyY0FYSW8zSQ?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Benjamin Bonzi",
-     "mercado": 0.39,
-     "elo": 1696,
-     "elo_superficie": 1686,
-     "forma": [
-      "G hard vs Alex Molcan",
-      "G hard vs Ignacio Buse",
-      "P hard vs Karen Khachanov",
-      "G hard vs Cameron Norrie",
-      "P hard vs Tommy Paul"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTU9aeWFRZ3NtUkRDMlVOU2w5OXRoNDFQblNNTTJ1Y0JZRlJJMFd5eFRIYmFtLXpxU1NadWs4clppbnZncUxiaTAwaUViVGJwbnAyeGowdTZ1ZFdWRGUwc2VHa1BPSzJEUkowVm1LSE1zTG41c1R0QU9iZnRobWxBTjliY0hPbU9XZHl5Q1JJTDNTZU0?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Tallon Griekspoor vs Benjamin Bonzi - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHVUb3dxM3JYakJGNVpNaXRkcVR3M1N6bElJZHRpeWZzY3EzdzI2MGNtUHdielJiYzhHckNkWEpKU1R6b0JfVU12UVctTmM2aVBnR3dxNjBwdVR5d3BodXFZbGEzQ3BpNHM5NUt2bUNIbEdjSkE2T01JOHNCUUI0NXA1LVMxX2NnSjNQNzdwQQ?oc=5"
-      },
-      {
-       "titulo": "Entry List ATP Challenger Orleans 2026 - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aUHRXQllYR1JkbE05OHczemk5UWpzTF9Nd0s3MWk0bVY5Q3gxOG5wNTVsQk81bVRnTXRfOER0VFZEOFFHTVFCelEyN2pISVpXNmlyQnI5WnM3YU41X2dmdzB3T0Y4eXd1RU1BVmp1UQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "61c8928c277531cc3a82944398f6ee04": {
    "id": "61c8928c277531cc3a82944398f6ee04",
    "jugadores": [
@@ -8237,7 +8149,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T12:10+00:00",
+   "actualizado": "2026-11-07T13:00+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -8261,6 +8173,12 @@
      "cansancio": "3 partidos, 8 sets y 89 juegos en 3 días; el último el 2026-11-06 contra Rinky Hijikata, ganó 6-4 6-7 7-5 (partido largo)",
      "noticias": [
       {
+       "titulo": "Luca Van Assche - Ben Shelton, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmZHdVdwNjhJQlh4UzdocXVPM0xrZm82QXIzdl9RUUQ0bHBpdF9ldHhOTjVSZzdFMmJVT0wzS1d0MS16Zl9qbko3X21lZXo5Y1NraG9xSVdLM0xBM0pSQmkwc2pOOXpGQjNCSEo4aFVmUEVXQ3ZqNWh4ZWc3UmNja0N1MWN5ci1ncDQzbWJ6Y3B2a2RBT1czNkhqdXlBR2xKTjFjblBXbFNZdnZfQ3lmS3d1NDhXcjZxYTg5YnZfRWRGNG1SaHJxY2ZPUWhmY19teHZEU3k4bGFXeUFKbjVqMzlYNVVTbjRKM3VlYnRR?oc=5"
+      },
+      {
        "titulo": "Luca Van Assche, en semifinales del Masters de París: una remontada ante Hijikata le da un éxito histórico - KarloBag.eu",
        "fuente": "KarloBag.eu",
        "fecha": "2026-11-07",
@@ -8271,12 +8189,6 @@
        "fuente": "EL PAÍS",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUhwQW9ZTEJmVWhFeWtQYlJIc1RQcTE3WkJEY1ZFNHZBM2dFVC1zNGx6RDZNQWtlRmh4djF3Z2FKWWZmN2tKY3U1cXA2U2o1NEZaaUt1anJPMEIxa005b2lqcXhkWHlEWGU0TVM2eGxaVnlvMUtiN1ZpNWhTVTEwS0Q2Tk5ueVlOUmRlNGlpOGFNam9GZHoyZThUNDJHSkg5Y1MxMHlnUXlMLTA?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche vs Ben Shelton en directo: Semifinal Masters 1000 París 2026 en AS.com - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWxwcnNnclVwYlNjbkNZMnl1NFdHaXZTaVJpN1A3TmF0T084eTNzcXkxSnU1Q3NjM0xicUltYVp2cXFoV0U0SnFJbjBGVDJyd1NWb3dUV0xZZl9MeWhDN05vTm9fWEZRYlJFLXNrcHFGb2hFd1I4Yzc0dXNXXzJZRVl0VWR4bjJOVVFhOXJLeWJnNWtNdVBneUF3?oc=5"
       }
      ]
     },
@@ -8295,6 +8207,12 @@
      "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-11-06 contra Tommy Paul, ganó 6-4 4-6 6-3",
      "noticias": [
       {
+       "titulo": "Luca Van Assche - Ben Shelton, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmZHdVdwNjhJQlh4UzdocXVPM0xrZm82QXIzdl9RUUQ0bHBpdF9ldHhOTjVSZzdFMmJVT0wzS1d0MS16Zl9qbko3X21lZXo5Y1NraG9xSVdLM0xBM0pSQmkwc2pOOXpGQjNCSEo4aFVmUEVXQ3ZqNWh4ZWc3UmNja0N1MWN5ci1ncDQzbWJ6Y3B2a2RBT1czNkhqdXlBR2xKTjFjblBXbFNZdnZfQ3lmS3d1NDhXcjZxYTg5YnZfRWRGNG1SaHJxY2ZPUWhmY19teHZEU3k4bGFXeUFKbjVqMzlYNVVTbjRKM3VlYnRR?oc=5"
+      },
+      {
        "titulo": "Ben Shelton vs. Tommy Paul Paris 2026 Quarterfinal | Stats Centre | ATP Tour | Tennis - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-07",
@@ -8305,12 +8223,6 @@
        "fuente": "EL PAÍS",
        "fecha": "2026-11-06",
        "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUhwQW9ZTEJmVWhFeWtQYlJIc1RQcTE3WkJEY1ZFNHZBM2dFVC1zNGx6RDZNQWtlRmh4djF3Z2FKWWZmN2tKY3U1cXA2U2o1NEZaaUt1anJPMEIxa005b2lqcXhkWHlEWGU0TVM2eGxaVnlvMUtiN1ZpNWhTVTEwS0Q2Tk5ueVlOUmRlNGlpOGFNam9GZHoyZThUNDJHSkg5Y1MxMHlnUXlMLTA?oc=5"
-      },
-      {
-       "titulo": "Shelton le hace un favor a Jódar en París y ahora todo queda en manos de Alcaraz - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHUwZzgzdnB1QmVVLWllMmdMRk0tSGVLMnBtbHRqMERXZE43TG90N0FIb0c3RGlzNDhKbGV0d1FyWlU1SWpWckFMSFRpbjRVSUlGVTFLNl9Idlp1Q3RPOFpYZzJnSEttMUVNbzVnRGxNblZTLTd2amQ3Nl9BM2k1a0ZQSVVmcmpGcHRKYXBOZjhsMF8yLVRJaDZJeU9zUm8yRGdNNmRDaUtMeWdSMGU00gG8AUFVX3lxTE1mblpaR2IySnZlc0gzRnBvMnNPMmx6cGk0aUJOcW5Jclpfbk5jQmZPVEE2X3pGX1hqWjNnc0ROT2xqZ3ZfMFRlRHAwZTRmUXhMSnVsOWtqT3NiRnN3WHZ5MXRLS3FZTFJteHppZ1dTMS1OUm0zaFZmZWlUZ3NLODZ0TDVqdkM1NnZmTWNJVEZrVHdVbmVjd2tOLW9pQ0pmLXlOc0dDcV90b01OYmt3UkhQNzNpcVF6bVpVXzZk?oc=5"
       }
      ]
     }
@@ -8325,7 +8237,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T12:10+00:00",
+   "actualizado": "2026-11-07T13:00+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -8349,22 +8261,22 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz - Casper Ruud: horario y dónde ver por TV las semifinales del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
+      },
+      {
        "titulo": "Highlights: Ruud sorprende a Jódar y avanza en París - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2RrR1VwY3FUNXJ2LURQVm5oTDhneTZUaFBUdEp5bmRMeUZvY1BQNlk3NVVRWnU1dlpOUi12cTJPeUhGcS1iVGEzYlJqVEVPV2x5V3dDMmJtNkxaZkpNMTBFX09SQk43VFdFR2Ixb241aG9YY3F5dGpoSnpRc3RKTDI1S0NwTmpKUnR0WDdfclRhRTg?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
-       "fuente": "La Opinión de Murcia",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
-       "fuente": "La Opinión de Murcia",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZA?oc=5"
       }
      ]
     },
@@ -8383,22 +8295,22 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz - Casper Ruud: horario y dónde ver por TV las semifinales del Masters 1000 de París - El Debate",
+       "fuente": "El Debate",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
+      },
+      {
        "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
        "fuente": "La Opinión de Murcia",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
-       "fuente": "La Opinión de Murcia",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZA?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz y las semifinales de París que valen una clasificación histórica para Rafa Jódar - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnhIUUpDVFdhZ3RUNGl1QXQya2V5bU1fS0VoX0tOb1lTeDRXR0p0S0VUREpPMW4xbmotQVY0VU11Z2kwc280eWtscTkwSDFpXy1hLVJTZ05ESUJQQlh0OTJrZ2NUclc0NFNPeHk4VVRlUTlMSWZGa2V3OW85UVhveGZTZFlNTy0zT0h1UHIwTmFkb1lVb2U0dEJQcTh0ZU01YnU1QXZUYmJrUTdKblB5TQ?oc=5"
       }
      ]
     }
