@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T13:10+00:00",
+ "actualizado": "2026-11-07T13:35+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1028,56 +1028,6 @@
   "actualizado": "2026-11-07T08:00+00:00",
   "partidos": [
    {
-    "id": "9ebb22b87460accfb899c0e613b47651",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-07T13:30+00:00",
-    "jugadores": [
-     "Luca Van Assche",
-     "Ben Shelton"
-    ],
-    "opciones": [
-     {
-      "id": "9ebb22b87460accfb899c0e613b47651|h2h|Ben Shelton|",
-      "mercado": "h2h",
-      "nombre": "Ben Shelton",
-      "punto": null,
-      "cuota": 1.26,
-      "pinnacle": 1.29
-     },
-     {
-      "id": "9ebb22b87460accfb899c0e613b47651|h2h|Luca Van Assche|",
-      "mercado": "h2h",
-      "nombre": "Luca Van Assche",
-      "punto": null,
-      "cuota": 3.9,
-      "pinnacle": 3.94
-     },
-     {
-      "id": "9ebb22b87460accfb899c0e613b47651|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.77,
-      "pinnacle": null
-     },
-     {
-      "id": "9ebb22b87460accfb899c0e613b47651|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.94,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Ben Shelton": 1.29,
-     "Luca Van Assche": 3.94
-    }
-   },
-   {
     "id": "d4b8a9b232417b21fd0dd2de1af179ee",
     "deporte": "tennis_atp_paris_masters",
     "torneo": "ATP Paris Masters",
@@ -1933,6 +1883,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-07T13:35+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T13:35+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T13:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2070,16 +2030,6 @@
   {
    "hora": "2026-11-06T13:10+00:00",
    "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -8237,7 +8187,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T13:10+00:00",
+   "actualizado": "2026-11-07T13:35+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -8261,6 +8211,12 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
+      },
+      {
        "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
@@ -8271,12 +8227,6 @@
        "fuente": "El Debate",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
-      },
-      {
-       "titulo": "Highlights: Ruud sorprende a Jódar y avanza en París - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2RrR1VwY3FUNXJ2LURQVm5oTDhneTZUaFBUdEp5bmRMeUZvY1BQNlk3NVVRWnU1dlpOUi12cTJPeUhGcS1iVGEzYlJqVEVPV2x5V3dDMmJtNkxaZkpNMTBFX09SQk43VFdFR2Ixb241aG9YY3F5dGpoSnpRc3RKTDI1S0NwTmpKUnR0WDdfclRhRTg?oc=5"
       }
      ]
     },
@@ -8295,6 +8245,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
+      },
+      {
        "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
@@ -8305,12 +8261,6 @@
        "fuente": "El Debate",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFVwbzJmTHJCUEJnNEg5QVpoQUFDTk5KN19lQ3lYcnVPYzBBcFVWX2hMQXg5M1FlcjBkRzhsVk9PY3Y4bVFPY3NtVHFnWTNLNnA0ZzJkWWNzOF9PaG9iMFVIYnYyNjc4bzNqUWpIZlp3UUhCVmRrNzFobTVkYkxfOVhhX2ZPZWRNbXJEbTV6Y3RwUWI5X0c0U19POTZORUMzRkhCZWZEWk1XVzZMdzJ5cldVa0NhSTNhWVRWYmVmWVpSRGFCNWFkOVl2Q05ueWFGejE1QjlsWjVOVk3SAdsBQVVfeXFMTVRVcG8yZkxyQlBCZzRIOUFaaEFBQ05OSjdfZUN5WHJ1T2MwQXBVVl9oTEF4OTNRZXIwZEc4bFZPT2N2OG1RT2NzbVRxZ1kzSzZwNGcyZFljczhfT2hvYjBVSGJ2MjY3OG8zalFqSGZad1FIQlZkazcxaG01ZGJMXzlYYV9mT2VkTW1yRG01emN0cFFiOV9HNFNfTzk2TkVDM0ZIQmVmRFpNV1c2THcyeXJXVWtDYUkzYVlUVmJlZllaUkRhQjVhZDlZdkNObnlhRnoxNUI5bFo1TlZN?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
-       "fuente": "La Opinión de Murcia",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
       }
      ]
     }
