@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T14:10+00:00",
+ "actualizado": "2026-11-07T15:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -338,7 +338,7 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.362,
+      "pct": 0.363,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.047,
+      "pct": 0.046,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.913,
+      "pct": 0.915,
       "motivo": "Lleva 10 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.087,
+      "pct": 0.085,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.913,
+      "pct": 0.915,
       "motivo": "Lleva 10 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.087,
+      "pct": 0.085,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1883,6 +1883,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-07T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2019,16 +2029,6 @@
   },
   {
    "hora": "2026-11-06T15:10+00:00",
-   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T14:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T14:10+00:00",
    "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
   }
@@ -7835,7 +7835,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T14:10+00:00",
+   "actualizado": "2026-11-07T15:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -7859,6 +7859,12 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
+      },
+      {
        "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-07",
@@ -7869,12 +7875,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
       }
      ]
     },
@@ -7893,22 +7893,22 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
+      },
+      {
+       "titulo": "Fritz se desahoga tras su dolorosa derrota ante Alcaraz: \"Todavía no sé qué pensar\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE9aTHRrUXI1N2pGY0c1UkxkWEozRE56aGt1RmhTSElFS0c5bnFVWUZNcFdxbnFjZVRlWW15TEI3MXh3MnE1cDdDQ0NxTlBDOXdtWE5zRjZFTnFnN1luQW5jeU5sa1hGdWJhS2NhcTNuWEZLM0xsYmdQYnNQSVJCR28zeXRwcEw0REJVcXdocFlBRXBpWXA2bEY1ZWE1UQ?oc=5"
+      },
+      {
        "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
-      },
-      {
-       "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
       }
      ]
     }

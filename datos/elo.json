@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T14:10+00:00",
+ "actualizado": "2026-11-07T15:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -5868,19 +5868,18 @@
    "nombre": "Damir Dzumhur",
    "circuito": "ATP",
    "elo": {
-    "all": 1564.6,
-    "hard": 1461.6,
+    "all": 1540.9,
+    "hard": 1439.3,
     "clay": 1659.9,
     "grass": 1379.6
    },
    "n": {
-    "all": 92,
-    "hard": 51,
+    "all": 93,
+    "hard": 52,
     "clay": 34,
     "grass": 7
    },
    "ultimos": [
-    "2026-06-30 P grass vs Arthur Fery",
     "2026-07-13 G clay vs Henrique Rocha",
     "2026-07-15 G clay vs Juan Carlos Prado Angelo",
     "2026-07-16 G clay vs Matteo Arnaldi",
@@ -5889,7 +5888,8 @@
     "2026-08-31 P hard vs Hubert Hurkacz",
     "2026-10-21 G hard vs Dino Prizmic",
     "2026-10-22 P hard vs Zizou Bergs",
-    "2026-10-31 P hard vs Sebastian Baez"
+    "2026-10-31 P hard vs Sebastian Baez",
+    "2026-11-07 P hard vs Inaki Montes-De La Torre"
    ]
   },
   "milev|y": {
@@ -14982,19 +14982,18 @@
    "nombre": "Sofya Lansere",
    "circuito": "WTA",
    "elo": {
-    "all": 1560.0,
-    "hard": 1581.1,
+    "all": 1608.3,
+    "hard": 1631.7,
     "clay": 1425.3,
     "grass": 1500.0
    },
    "n": {
-    "all": 16,
-    "hard": 15,
+    "all": 17,
+    "hard": 16,
     "clay": 1,
     "grass": 0
    },
    "ultimos": [
-    "2026-07-20 P clay vs Lola Radivojevic",
     "2026-07-27 P hard vs Irene Burillo",
     "2026-09-07 P hard vs Aurora Zantedeschi",
     "2026-09-19 P hard vs Aoi Ito",
@@ -15003,7 +15002,8 @@
     "2026-10-02 P hard vs Jessica Bouzas Maneiro",
     "2026-11-03 G hard vs Angella Okutoyi",
     "2026-11-04 G hard vs Kristina Novak",
-    "2026-11-06 G hard vs Martyna Kubka"
+    "2026-11-06 G hard vs Martyna Kubka",
+    "2026-11-07 G hard vs Noma Noha Akugue"
    ]
   },
   "yamaguchi|m": {
@@ -23677,19 +23677,18 @@
    "nombre": "Alice Tubello",
    "circuito": "ATP",
    "elo": {
-    "all": 1705.7,
-    "hard": 1724.4,
+    "all": 1685.7,
+    "hard": 1701.9,
     "clay": 1438.3,
     "grass": 1434.3
    },
    "n": {
-    "all": 28,
-    "hard": 26,
+    "all": 29,
+    "hard": 27,
     "clay": 1,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-18 P hard vs Samira De Stefano",
     "2026-09-22 G hard vs Dalila Spiteri",
     "2026-09-24 P hard vs Julia Grabher",
     "2026-10-26 G hard vs Laura Samson",
@@ -23698,7 +23697,8 @@
     "2026-10-31 G hard vs Nauhany Vitoria Leme Da Silva",
     "2026-11-01 G hard vs Julia Grabher",
     "2026-11-03 G hard vs Rebeka Masarova",
-    "2026-11-04 G hard vs Marina Bassols Ribera"
+    "2026-11-04 G hard vs Marina Bassols Ribera",
+    "2026-11-07 P hard vs Bianca Andreescu"
    ]
   },
   "vickery|s": {
@@ -26474,19 +26474,18 @@
    "nombre": "Noma Noha Akugue",
    "circuito": "WTA",
    "elo": {
-    "all": 1670.2,
-    "hard": 1704.4,
+    "all": 1636.6,
+    "hard": 1666.8,
     "clay": 1497.6,
     "grass": 1449.4
    },
    "n": {
-    "all": 47,
-    "hard": 37,
+    "all": 48,
+    "hard": 38,
     "clay": 6,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-07 P hard vs Lucrezia Stefanini",
     "2026-10-13 P grass vs Rebeka Masarova",
     "2026-10-27 G hard vs Danka Kovinic",
     "2026-10-28 G hard vs Linda Klimovicova",
@@ -26495,7 +26494,8 @@
     "2026-11-01 P hard vs Alina Charaeva",
     "2026-11-04 G hard vs Warona Mdlulwa",
     "2026-11-05 G hard vs Madhurima Sawant",
-    "2026-11-06 G hard vs Justina Mikulskyte"
+    "2026-11-06 G hard vs Justina Mikulskyte",
+    "2026-11-07 P hard vs Sofya Lansere"
    ]
   },
   "lanca|s": {
@@ -27979,19 +27979,18 @@
    "nombre": "Bianca Andreescu",
    "circuito": "WTA",
    "elo": {
-    "all": 1834.4,
-    "hard": 1827.9,
+    "all": 1851.4,
+    "hard": 1848.0,
     "clay": 1499.5,
     "grass": 1598.4
    },
    "n": {
-    "all": 44,
-    "hard": 36,
+    "all": 45,
+    "hard": 37,
     "clay": 4,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-16 G hard vs Lucrezia Stefanini",
     "2026-10-17 G hard vs Lucie Havlickova",
     "2026-10-18 G hard vs Dominika Salkova",
     "2026-10-27 G hard vs Katherine Hui",
@@ -28000,7 +27999,8 @@
     "2026-11-01 G hard vs Carole Monnet",
     "2026-11-01 G hard vs Tatjana Maria",
     "2026-11-03 G hard vs Tamara Zidansek",
-    "2026-11-04 G hard vs Jazmin Ortenzi"
+    "2026-11-04 G hard vs Jazmin Ortenzi",
+    "2026-11-07 G hard vs Alice Tubello"
    ]
   },
   "kumru|a": {
@@ -38940,6 +38940,25 @@
    "ultimos": [
     "2026-11-04 G hard vs Suzan Lamens",
     "2026-11-05 P hard vs Ksenia Zaytseva"
+   ]
+  },
+  "montes de la torre|i": {
+   "nombre": "Inaki Montes-De La Torre",
+   "circuito": "ATP",
+   "elo": {
+    "all": 1577.7,
+    "hard": 1558.4,
+    "clay": 1500.0,
+    "grass": 1500.0
+   },
+   "n": {
+    "all": 1,
+    "hard": 1,
+    "clay": 0,
+    "grass": 0
+   },
+   "ultimos": [
+    "2026-11-07 G hard vs Damir Dzumhur"
    ]
   }
  },
@@ -92035,7 +92054,19 @@
   "sonego|l~wallin|o": [
    1,
    0
+  ],
+  "andreescu|b~tubello|a": [
+   1,
+   0
+  ],
+  "lansere|s~noha akugue|n": [
+   1,
+   0
+  ],
+  "dzumhur|d~montes de la torre|i": [
+   0,
+   1
   ]
  },
- "propios": 10691
+ "propios": 10694
 }

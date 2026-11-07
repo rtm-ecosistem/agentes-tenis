@@ -242125,6 +242125,69 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Reto Win Tennis Cali Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Bianca Andreescu",
+    "Alice Tubello"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     6,
+     0
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Noma Noha Akugue",
+    "Sofya Lansere"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     6,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Bybit Stockholm Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Inaki Montes-De La Torre",
+    "Damir Dzumhur"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "completo": true
   }
  ]
 }

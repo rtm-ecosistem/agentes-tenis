@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.034,
      "sorpresa": 0.4,
-     "impaciencia": 0.058,
+     "impaciencia": 0.057,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T14:10+00:00",
+    "hora": "2026-11-07T15:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.043,
+     "impaciencia": 0.042,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T14:10+00:00",
+    "hora": "2026-11-07T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T14:10+00:00",
+    "hora": "2026-11-07T15:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.043,
+     "impaciencia": 0.042,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T14:10+00:00",
+    "hora": "2026-11-07T15:10+00:00",
     "rent": 0.0
    }
   }
@@ -2196,16 +2196,6 @@
  "bitacora": [
   {
    "hora": "2026-11-05T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-05T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-05T08:00+00:00",
    "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
   },
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T14:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T15:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T15:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,15 +2618,25 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-07-14",
  "noticias_vistas": [
+  "82968b4d4d41",
+  "a55da71a6dfd",
+  "5d54e2212cc5",
+  "67bc3ba645cf",
   "3b984f9706d5",
+  "81b4e6eefd1f",
   "a8fd9213b0b6",
   "92ee25f2ac65",
+  "0ae3c2b5ead4",
+  "50298ac50326",
+  "dc52448fa812",
   "19ee544585db",
   "2389546e70ff",
+  "23eafdbf3753",
   "c3cd6c55d9b3",
   "4aecb710bf4c",
   "81da77d1243e",
   "1f692de75e1d",
+  "0ea6724313c9",
   "0c634a6752b9",
   "cc9cdf69736f",
   "eb3470cd4a93",
@@ -2636,16 +2646,17 @@
   "b5448b76fc2f",
   "9b328b48647f",
   "c8d69b01fd35",
-  "0ae3c2b5ead4",
   "c156031af6cf",
   "a2ce6b7b5c57",
   "636e75860bb5",
+  "3e1270eb9630",
   "2cb55b945832",
   "923030b729bd",
   "7910724ca5f2",
   "478530681674",
   "6fb21a515a72",
   "7faf34fa0610",
+  "36ea4b297c75",
   "dc6a9a9aedeb",
   "1c38ddc29436",
   "4b364b148826",
@@ -2708,7 +2719,6 @@
   "85c5d409c1f3",
   "6ef0dfaf63a2",
   "0c1c5c2ea3c7",
-  "36ea4b297c75",
   "5664cb4f0789",
   "2ee24d668947",
   "e5de85e94841",
@@ -3407,17 +3417,7 @@
   "792029e720e1",
   "14a57a0aa9db",
   "d650dabca868",
-  "380bb6d0e83f",
-  "95d5b19aece7",
-  "4ef582e3327e",
-  "5601ac023caa",
-  "3010a6398e89",
-  "4183ae7c3596",
-  "0a6d44fbd272",
-  "a5787e68488a",
-  "aec24a3ca977",
-  "afe85260d6f2",
-  "233a5782e8ce"
+  "380bb6d0e83f"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -9173,7 +9173,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T14:10+00:00",
+   "actualizado": "2026-11-07T15:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -9197,6 +9197,12 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
+      },
+      {
        "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-07",
@@ -9207,12 +9213,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
       }
      ]
     },
@@ -9231,22 +9231,22 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
+      },
+      {
+       "titulo": "Fritz se desahoga tras su dolorosa derrota ante Alcaraz: \"Todavía no sé qué pensar\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE9aTHRrUXI1N2pGY0c1UkxkWEozRE56aGt1RmhTSElFS0c5bnFVWUZNcFdxbnFjZVRlWW15TEI3MXh3MnE1cDdDQ0NxTlBDOXdtWE5zRjZFTnFnN1luQW5jeU5sa1hGdWJhS2NhcTNuWEZLM0xsYmdQYnNQSVJCR28zeXRwcEw0REJVcXdocFlBRXBpWXA2bEY1ZWE1UQ?oc=5"
+      },
+      {
        "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
-      },
-      {
-       "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
-      },
-      {
-       "titulo": "Alcaraz, semifinal contra Ruud hoy en París: \"Lo recordaré mucho tiempo. Esto es un juego y hay que divertirse y divertir\" - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU041WW5IZjZ6OGhLcWdRQzdZbTBVbkluRGpBOEFZYklxWWdlM3h3eDZfMV9fM0owVnJTa1FEWjJ0cFR2MkxGX2hVUUFUZlpBUjlha0xpcVY1QUhsbnZ6TFRQVjkzcS1nNXdDWVpKeTUtNDZ0dFhuRlF6bGdUcWU5U1N5WG9ldnUwUk1WbGZOY25GZ3RsRVNpY00tNXBNTlgtNkpMV3Q0dGxpaXM4aFdLZEsxNWhEcXdNQlJUUXpjbFBoLW5LTVc1ZFQ5RnFrZ09pZmhqMlJ30gHjAUFVX3lxTFBWQVRuQzh1NzFHaHRrMXZjbWVIM1dIYWwtZW9mdk1RVWdGUjk4elg1dHYtZVlyOFFyMHZQeTY2N1JqdHk1YkhxVnRxLUljYm1icHluNmdqa3AzS01QdnV5UUVTelN5Q0QwWDJacXVhSTF0TXVVMnJYam9obkVBYlNUSnBvcTFZRmczTENGdXgyYURVajV4S0w0SzdxN3VuN3dPVmFyR0o4UFhNdnY2enVpcEc3NjVXcFYxSEYtc1dWeXk1MW1QVnppUGVJVWJ1d1RCSWpkMGEybzlTbnpMMDZ6WHhr?oc=5"
       }
      ]
     }
