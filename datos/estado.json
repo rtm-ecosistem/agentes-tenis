@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.034,
      "sorpresa": 0.4,
-     "impaciencia": 0.064,
+     "impaciencia": 0.063,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T08:10+00:00",
+    "hora": "2026-11-07T09:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.047,
+     "impaciencia": 0.046,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T08:10+00:00",
+    "hora": "2026-11-07T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T08:10+00:00",
+    "hora": "2026-11-07T09:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.047,
+     "impaciencia": 0.046,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T08:10+00:00",
+    "hora": "2026-11-07T09:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-04T12:10+00:00",
-   "texto": "📰 Noticias nuevas de Alex Molcan – Taylor Fritz, Thiago Agustin Tirante – Jan-Lennard Struff: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T12:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-04T13:10+00:00",
    "texto": "📰 Noticias nuevas de Alex Molcan – Taylor Fritz, Matteo Berrettini – Ugo Humbert: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T08:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T09:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T09:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,6 +2618,13 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-06-20",
  "noticias_vistas": [
+  "1c38ddc29436",
+  "4b364b148826",
+  "68d21d7f2c67",
+  "fc4441086a92",
+  "ab6086d23d09",
+  "6edb6dab5737",
+  "f39ad2c3227c",
   "f1fdddababeb",
   "f236f7b3057f",
   "0ff298771c6a",
@@ -2629,18 +2636,21 @@
   "f8bd2b6d33a0",
   "5b2536843402",
   "fdd8feb047a6",
+  "b44b5fa299d5",
   "8cb07ab0e628",
+  "36ea4b297c75",
   "61d028c3c627",
   "2d8af1e2cbff",
   "50e9b594c112",
   "e715903fd685",
   "b27c63e8f410",
+  "6688c511922a",
   "41f3ebf21fa9",
   "a55c6b61f635",
-  "68d21d7f2c67",
   "ccf239a2985f",
   "7c31d481f520",
   "787dc2985085",
+  "adb4087240c1",
   "9db4888d0928",
   "76be3cb7f906",
   "867cc03bf6a3",
@@ -2661,11 +2671,10 @@
   "5664cb4f0789",
   "2ee24d668947",
   "e5de85e94841",
-  "92ee25f2ac65",
   "c41e6cac49ef",
-  "36ea4b297c75",
   "4be157e4a97c",
   "75713ea63f8c",
+  "92ee25f2ac65",
   "df93360f350b",
   "c0cb46d015cb",
   "ac896e02b7e0",
@@ -2674,6 +2683,7 @@
   "baa777d258e0",
   "461c10a96d43",
   "89ed1a08da52",
+  "ba1e0a934f3e",
   "224240e3a113",
   "4aba78bbd808",
   "310626b106da",
@@ -2684,6 +2694,7 @@
   "b1e2f60ebd65",
   "99071ee1e7e0",
   "4b1d3ed1e507",
+  "4eaa9319a158",
   "06c2ef2f33d9",
   "14fd9b678aba",
   "4d3081414332",
@@ -2710,8 +2721,6 @@
   "be76cd031d37",
   "937c5ad3003b",
   "673df6dcc74d",
-  "adb4087240c1",
-  "cb00d608c633",
   "d4914520030f",
   "6af683369bb0",
   "559c2054e564",
@@ -2721,13 +2730,13 @@
   "6d2c441b0fd5",
   "1d3831ae3b40",
   "a65266723a71",
+  "f3d7fc33c3e0",
   "fc50cff5f530",
   "49c0dfbc93ed",
   "260720835a2d",
   "5aa1e247029d",
   "4086c97bcaf5",
   "9905953d7578",
-  "ba1e0a934f3e",
   "5dc3397dd247",
   "ccc3b495e078",
   "47a516d02321",
@@ -2738,7 +2747,6 @@
   "9c5d1b4279b5",
   "f04e92f35d8d",
   "5619023ec14a",
-  "4eaa9319a158",
   "ce2f61f76ea4",
   "8a6bbea0a95a",
   "cabd4482237c",
@@ -2750,6 +2758,7 @@
   "e1f7889ae9f7",
   "b8b95a0aa7b9",
   "5262924345e0",
+  "cb00d608c633",
   "dca8af60abb1",
   "9a7a6d49b51c",
   "52449caf9c35",
@@ -2761,7 +2770,6 @@
   "233b1bb40f76",
   "5bc24b2e86d5",
   "cb635e47135a",
-  "f3d7fc33c3e0",
   "2a9b49436888",
   "416920ff4e22",
   "9fdbb4b7bf27",
@@ -2941,6 +2949,7 @@
   "7f7237907efc",
   "1fc3dd700649",
   "330af29483fe",
+  "b5ba3125ace6",
   "aab620736777",
   "921c2486cdd3",
   "779cfc08ae1a",
@@ -3061,6 +3070,7 @@
   "fe3db9cb3b96",
   "5190d639d143",
   "e9933b68d828",
+  "36d1db2ed729",
   "bb62fb9bc22a",
   "d880179f6fa4",
   "026eb295f221",
@@ -3407,17 +3417,7 @@
   "b287160410a3",
   "5adc8752f756",
   "6ba5ac35ad43",
-  "70ed554affed",
-  "2d69ccd7d9e3",
-  "0746d926bbd1",
-  "91b5642a00d8",
-  "8918b97db3e7",
-  "35cc9152c41b",
-  "5f14a8991916",
-  "da94e8b2824f",
-  "1a08f1a0ead9",
-  "3b607fb52f3e",
-  "bbf64dafe5fe"
+  "70ed554affed"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -10129,7 +10129,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T08:10+00:00",
+   "actualizado": "2026-11-07T09:10+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -10217,7 +10217,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T08:10+00:00",
+   "actualizado": "2026-11-07T09:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -10241,22 +10241,22 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
-       "titulo": "A qué hora es el Alcaraz - Ruud: horario, canal y dónde ver hoy en TV las semifinales del Masters 1000 de París - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
+       "fuente": "El Confidencial",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTBlQkljNlFTSjZQc29ObmlMSE1oQnNOR2R0SjhOeGgza01zM1VzREI4TGJWb1UtLWZQNHlxa1hNTDRkRzZtTWozMnJHUUhENTY4cENDNkRiT19qWG1lLUEwZ2pyczJ2ZGVoQ05GVk5faExVWDBmVXJUSkVFTjVWY0dCWVZDWXh4cFlCQWgyaTQ1eTJaRmJHajN3NEtGTi1yaWVjSmdkcTB6Q3RFSzFtX1hwbEpvRHZDRlN5OUszNDhzcG9vMGxZODRuVWdUTE94R2fSAdIBQVVfeXFMTkZzSnJ0LXlPd19Kb29vQXduZVIweE1tNzdqdFE5Y084VEExeG5SYVA4c28wVWlMRlZoZFFSVXVmdW12OFhYb3NWcXFlSmJPVHBLZVdCYkY1bmhKcUR5OVZHUjZaZmpJU3dDSmR6dm9wXzZ2Tm5qRkd1U19vNVM4X2w5WjZQRXpmLTZsbzlORTV4ZXlGYWlZQi04enRIRm4zbU50MVJjbVdmdWx3UGJLN0J4c2thZWtpcTl1aVBNR3Jjc0ZmekZvMzc3c1daVVBEUkhR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1RXdWxzV2FSc1gtSHVhYTl5dVphVmU3YWdQNUQxMXBCQUxoemdhdWIwYjJKX0N0S01LaFBtbkNGYTRXZWFERnFwS3dlS1JUTUttb240QUdBWmw2Z3FYT3ZFWWtCUDhISVI2TlkyeDZReFc3cjQtcE5ua1Z3QUZkVmhYUncydVhjQXhXendKbmduU0s0dnp5YkVfSmhYRGsxYTViaXgtbjR2clFTTENiWEl3Y0h4aXFtX1E?oc=5"
       },
       {
-       "titulo": "Hot Shot: El gran ángulo de Ruud para llevarse el primer set ante Jódar en París - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Ruud, rival de Alcaraz en París, revela el calvario que ha vivido: \"Era la primera vez que sentía la necesidad de apagar el despertador por la mañana. Me entrenaba porque era mi trabajo, no porque tuviera ganas de mejorar. Me asustó sentir eso. Busqué ayu - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzBMU29tTzJLdWlxVDVYSWdEN081YmZZWF9ZbW1nTlpaWmpLWnNnb0Y1aTJ4eEJCaDBkZGtCZDROVGhZSG0yUGM3WHU5eGZPeVNJTHl0MW9WLTRqY2lDaDFHSmc5M0JLWjY0Y1FzTUZwRmVBWlJoNUVodS1ZcS1BeHMxdDc4cmw3YXktSU8wTUQxWjdxYUFCSkNjdm44Q00yQ3dJbklNSE9Oa285ODF6LWpydw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWmt2NkZLRTM0WHppS01nd2E1RXZtQ09PVjNYMEx1R3NMUjRPa2NRWTdTUmtRTjl1VUJqbVVjY3BkYlJNQkZLbXRNNEJ5VVRpY1ZOaGlhQnJvN3dhQi10SW1Xb1puWHM4VUJXRU5ZQ19EQWN3UHhFVndHSTNqNUc3c2hCUGw3dHQ0cFR5M1BZb29MUnYtUXJOcThWa2tqSXFwZ1VQRDlJdWktYWQ1S1lOalN3NnFMNVhTRFhRZ3R4ZVp6QmVaVmRHTll6X2NKM0EtSVZHalZTXzNkdTJjeGFmbkdvdzQ2WjdRRU1YVXlUMEtKN01uRUtTSDJhQW5Zb1Q5TTdMbldEeVJjTDNMbF9Qa2hMNzFyaU5pbWg4anlybnJ6SnJDeFNzalRmbElYazRNd0g5SzRXVy1VcllWVHpPUWU5RmxsajloNmNlSl9qM3FlTl8wb1E3MEhFSnY1QjhT0gHuAkFVX3lxTE5MYWtQejd3aHFYLU9hUU80aGd6VjlwYkpMMTZNVmN6YjIyZ2pBSmY4RmJNM2p0aUxuNXdvaWh3dEQxTVhJUlFoRk10OXFab3ZjSmNlNmlkemthcTBMZTd6bTFWakwwb040UEVtOHVVYjBlTWpVMU5jZVlzMC13ZlozUkI0bkU5LVpFVXhWTXExTEI3ZldIS3A2cHN2UTVKbExDWGE5cFIyMjV0dmFWWm0tdXpzVmdjcXRobWN2eU9HYUUtLWQ3eVRlVnJPSF9FVUxMcmQzYjRIUi1ja1JpTjg5QTRUMGYxOHJCSnczZEIwcjZfczduQVFUTGtzcGRNUm5rNWdlekVSMFg3T2F4T0JkblFPZFJlUVB5eHRiN3dmTlZJUlEwUXJjZkVibzJEZlRUcm5BdW1YTldOemFYeVBXSTdwUGcyQ3hLZUZjZEFVbDBvQ04yM245RFpTR2o3MUdkdjVfZzlWNGt0MWQ1dw?oc=5"
       },
       {
-       "titulo": "Casper Ruud supera a Borges y cita a Carlos Alcaraz en la final en París - Diario de México",
-       "fuente": "Diario de México",
+       "titulo": "Carlas Alcaraz – Casper Ruud: Horario y dónde ver la semifinal del ATP 1000 de Paris - Industria del Tenis",
+       "fuente": "Industria del Tenis",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2ZWb1dEMnBGdkxYQlRPejdLdzJlMkR5ZTJsNVpMQm04ekZsOWtnRmNiSWFwTGc1eXExQ092LUlScldBdUxFYnpZa0oyTEs3bGgtWHZIV1hEanY4YTZWV3F0YzliVmRPSEdtNlJkSFJESmtia1VxcDFxY0tiTkRhc1ZZbDNjUFhwRm9ZaUlIQ3U1TGYwX1BFandWZEIxVDEwZnBUWkJST1R5OWdXRGNz0gG0AUFVX3lxTE42ZDRxMTh6NDVZOWk3NENiVTNOWlBWVXFjOHVURW8wN1RGbkx3MzctYTdqMk9GY0R2bm5lV1gta2UwVEJHYU9adW15Smd2V0Z5YVpSY3RHX1EtMXVTSHE4ZG5YU0ZTMkpmdnAzZ1VtOFI3X0wwcFlUcmlVS0FoRjJtekxxdXJFNUpXX2hlLXZRYzhscnVsdnBRTjlJbDJBek9CcWZNbW5VRmc4ajdnZkhBYzVQbA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1M4ajJQem56bXloNnBianNLaTVzaWJPSnRFY3ZJWG8waFlyQ255X01rVVM0Tmc4LVpieHI3TDBNUVliUDYzQmlCOUhBX3VVa1BnaF9SQ1l6QVpHMXFfY3kwamFpOTJUY2ZHN00xWk1pRkU1ZThJZHV1X2FwN0t3dlVsZnFoc2N5NTRBV3l2YXU4cWp1NXFMaC1LeERvZGF1WmxmWGY4d2lSMHRxTlpUUG1wcnhOVm8?oc=5"
       }
      ]
     },
@@ -10275,22 +10275,22 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
-       "titulo": "A qué hora es el Alcaraz - Ruud: horario, canal y dónde ver hoy en TV las semifinales del Masters 1000 de París - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
+       "fuente": "El Confidencial",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObTBlQkljNlFTSjZQc29ObmlMSE1oQnNOR2R0SjhOeGgza01zM1VzREI4TGJWb1UtLWZQNHlxa1hNTDRkRzZtTWozMnJHUUhENTY4cENDNkRiT19qWG1lLUEwZ2pyczJ2ZGVoQ05GVk5faExVWDBmVXJUSkVFTjVWY0dCWVZDWXh4cFlCQWgyaTQ1eTJaRmJHajN3NEtGTi1yaWVjSmdkcTB6Q3RFSzFtX1hwbEpvRHZDRlN5OUszNDhzcG9vMGxZODRuVWdUTE94R2fSAdIBQVVfeXFMTkZzSnJ0LXlPd19Kb29vQXduZVIweE1tNzdqdFE5Y084VEExeG5SYVA4c28wVWlMRlZoZFFSVXVmdW12OFhYb3NWcXFlSmJPVHBLZVdCYkY1bmhKcUR5OVZHUjZaZmpJU3dDSmR6dm9wXzZ2Tm5qRkd1U19vNVM4X2w5WjZQRXpmLTZsbzlORTV4ZXlGYWlZQi04enRIRm4zbU50MVJjbVdmdWx3UGJLN0J4c2thZWtpcTl1aVBNR3Jjc0ZmekZvMzc3c1daVVBEUkhR?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1RXdWxzV2FSc1gtSHVhYTl5dVphVmU3YWdQNUQxMXBCQUxoemdhdWIwYjJKX0N0S01LaFBtbkNGYTRXZWFERnFwS3dlS1JUTUttb240QUdBWmw2Z3FYT3ZFWWtCUDhISVI2TlkyeDZReFc3cjQtcE5ua1Z3QUZkVmhYUncydVhjQXhXendKbmduU0s0dnp5YkVfSmhYRGsxYTViaXgtbjR2clFTTENiWEl3Y0h4aXFtX1E?oc=5"
       },
       {
-       "titulo": "Carlos Alcaraz firma una remontada épica en París, salva dos bolas de partido y se mete en semifinales - COPE",
-       "fuente": "COPE",
+       "titulo": "A qué hora y dónde ver el partido de Alcaraz en semifinales del Masters 1000 de París - Punto de Break",
+       "fuente": "Punto de Break",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWUpjVnNsRHB2ZEc3N3NGYlJHdjN1a2V2QUdvaDRQa25RRV81a3JjSHc2c3pwZnBOZG5fUFFTVkhNc0hTbDVfdDFHNHJtY2J1cTV3dFhZNW02ZTktTEpFaERtUzNZN0VJUmVNVEJXV1AwdzEtWGc0TlhZem8yUU9XazhhQ0VSY0hHVnFhcHoxZDI3TUFqUF9SaUZXUXp5eTd1eFNpdWo4TndFOEt3NV9neUlmREludmVtci1OV2RGVl9NYllueVJKaXFBZDZ5WWp4ckFka3E5eV85UjhRNXB3QzJtUmZ1ckUycWVXdy1QMGQzN2gxNDE5SENGMG1wbW1BN2k4YkVaMGdRR2g1TUZ1OHZfUWxMSklKTGFkS2w4NHYtT05CREVFNkVGbDllNktEZUxiX1ppRHpRWXF5OTFiMtIBxgJBVV95cUxQUTFQTDhETXNoQ0FzTEFQdXM2c28xMHBNRlFKY2d5dTZQM01zczhucTZzNXBucUVLUW1RUUpBeEl6SEgwaWg3aG9zeWhjNkRJcTZicDVsTVpCYXpIT2p0MGVoQ3VCYWdvWWtCM0xtVUswYjhnNmZfcno1NE1qaE80SEVzOHBXdHkwZ0RObV8yd0x4N0hKYXhmanUtdU93TGtTdGpHa1hXNEJZUHNSbnhfT2Y4aUVnMURYb29Hb0thX3cxTTVBRERPVm9fMDJvbTNGOHdkXzAxbHJ6U0N4bnJpSnpRMFpZbjVsSlpkZ3VGemVibzRqTVNMVVBfM3RVbXhMZU9fREdBa0VaajM2ZndkcUdFSEJNV2RQSFZkZ1hXc00wZGxmdE44a0Q4Y3BPY1VaWE0wa3hnVjROS3VZVVRFSnh1RGFkUQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1IyaXVqVDl2M2JQcTFkVzIzMi1qY19VRWgyME5OYTdGcjNwRlc5QkJZeGpYY1VfVHhCcEo2X2JPVHY3amRZLXV2WXQtZXdHX21IcjdNZTZsRFZ2UVl6bGxxcXgxR0JrNFVvSElYSFZaUUNHUWVxQlFYaHJST2o1VS12UmMxYmkxODVxd2RzenJCZzJsbXh1YkJTZw?oc=5"
       },
       {
-       "titulo": "Casper Ruud supera a Borges y cita a Carlos Alcaraz en la final en París - Diario de México",
-       "fuente": "Diario de México",
+       "titulo": "Ruud, rival de Alcaraz en París, revela el calvario que ha vivido: \"Era la primera vez que sentía la necesidad de apagar el despertador por la mañana. Me entrenaba porque era mi trabajo, no porque tuviera ganas de mejorar. Me asustó sentir eso. Busqué ayu - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2ZWb1dEMnBGdkxYQlRPejdLdzJlMkR5ZTJsNVpMQm04ekZsOWtnRmNiSWFwTGc1eXExQ092LUlScldBdUxFYnpZa0oyTEs3bGgtWHZIV1hEanY4YTZWV3F0YzliVmRPSEdtNlJkSFJESmtia1VxcDFxY0tiTkRhc1ZZbDNjUFhwRm9ZaUlIQ3U1TGYwX1BFandWZEIxVDEwZnBUWkJST1R5OWdXRGNz0gG0AUFVX3lxTE42ZDRxMTh6NDVZOWk3NENiVTNOWlBWVXFjOHVURW8wN1RGbkx3MzctYTdqMk9GY0R2bm5lV1gta2UwVEJHYU9adW15Smd2V0Z5YVpSY3RHX1EtMXVTSHE4ZG5YU0ZTMkpmdnAzZ1VtOFI3X0wwcFlUcmlVS0FoRjJtekxxdXJFNUpXX2hlLXZRYzhscnVsdnBRTjlJbDJBek9CcWZNbW5VRmc4ajdnZkhBYzVQbA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWmt2NkZLRTM0WHppS01nd2E1RXZtQ09PVjNYMEx1R3NMUjRPa2NRWTdTUmtRTjl1VUJqbVVjY3BkYlJNQkZLbXRNNEJ5VVRpY1ZOaGlhQnJvN3dhQi10SW1Xb1puWHM4VUJXRU5ZQ19EQWN3UHhFVndHSTNqNUc3c2hCUGw3dHQ0cFR5M1BZb29MUnYtUXJOcThWa2tqSXFwZ1VQRDlJdWktYWQ1S1lOalN3NnFMNVhTRFhRZ3R4ZVp6QmVaVmRHTll6X2NKM0EtSVZHalZTXzNkdTJjeGFmbkdvdzQ2WjdRRU1YVXlUMEtKN01uRUtTSDJhQW5Zb1Q5TTdMbldEeVJjTDNMbF9Qa2hMNzFyaU5pbWg4anlybnJ6SnJDeFNzalRmbElYazRNd0g5SzRXVy1VcllWVHpPUWU5RmxsajloNmNlSl9qM3FlTl8wb1E3MEhFSnY1QjhT0gHuAkFVX3lxTE5MYWtQejd3aHFYLU9hUU80aGd6VjlwYkpMMTZNVmN6YjIyZ2pBSmY4RmJNM2p0aUxuNXdvaWh3dEQxTVhJUlFoRk10OXFab3ZjSmNlNmlkemthcTBMZTd6bTFWakwwb040UEVtOHVVYjBlTWpVMU5jZVlzMC13ZlozUkI0bkU5LVpFVXhWTXExTEI3ZldIS3A2cHN2UTVKbExDWGE5cFIyMjV0dmFWWm0tdXpzVmdjcXRobWN2eU9HYUUtLWQ3eVRlVnJPSF9FVUxMcmQzYjRIUi1ja1JpTjg5QTRUMGYxOHJCSnczZEIwcjZfczduQVFUTGtzcGRNUm5rNWdlekVSMFg3T2F4T0JkblFPZFJlUVB5eHRiN3dmTlZJUlEwUXJjZkVibzJEZlRUcm5BdW1YTldOemFYeVBXSTdwUGcyQ3hLZUZjZEFVbDBvQ04yM245RFpTR2o3MUdkdjVfZzlWNGt0MWQ1dw?oc=5"
       }
      ]
     }
