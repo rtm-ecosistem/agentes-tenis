@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.034,
      "sorpresa": 0.4,
-     "impaciencia": 0.06,
+     "impaciencia": 0.059,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T12:10+00:00",
+    "hora": "2026-11-07T13:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.044,
+     "impaciencia": 0.043,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T12:10+00:00",
+    "hora": "2026-11-07T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T12:10+00:00",
+    "hora": "2026-11-07T13:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.044,
+     "impaciencia": 0.043,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T12:10+00:00",
+    "hora": "2026-11-07T13:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-04T15:34+00:00",
-   "texto": "📰 Noticias nuevas de Arthur Fils – Tomas Machac: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T15:34+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-04T17:10+00:00",
    "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T12:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T13:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T13:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,7 +2618,11 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-07-14",
  "noticias_vistas": [
+  "19ee544585db",
+  "2389546e70ff",
+  "4aecb710bf4c",
   "81da77d1243e",
+  "1f692de75e1d",
   "eb3470cd4a93",
   "32cdbdb11bbd",
   "b5448b76fc2f",
@@ -2628,16 +2632,20 @@
   "a2ce6b7b5c57",
   "636e75860bb5",
   "2cb55b945832",
-  "0ae3c2b5ead4",
   "92ee25f2ac65",
+  "923030b729bd",
   "7910724ca5f2",
   "478530681674",
+  "6fb21a515a72",
   "7faf34fa0610",
+  "0ae3c2b5ead4",
   "4be157e4a97c",
+  "dc6a9a9aedeb",
   "1c38ddc29436",
   "4b364b148826",
   "4ec9f7c794b5",
   "68d21d7f2c67",
+  "3db3bd3985cb",
   "fc4441086a92",
   "ab6086d23d09",
   "6edb6dab5737",
@@ -2669,6 +2677,7 @@
   "b27c63e8f410",
   "6688c511922a",
   "41f3ebf21fa9",
+  "e7d4a401eb6c",
   "a55c6b61f635",
   "1fb30ddc4bd4",
   "ccf239a2985f",
@@ -2738,8 +2747,8 @@
   "42e4b88e4d9c",
   "002cf6c40e7e",
   "e5acf85e0cb6",
-  "10b4724a82a0",
   "9241bb3ecadb",
+  "10b4724a82a0",
   "f5b5a4a59b30",
   "26eb3b428194",
   "be76cd031d37",
@@ -2808,6 +2817,7 @@
   "80991b7f098c",
   "73b8ba463ff2",
   "d9fc9be8fbc8",
+  "fc89b981889d",
   "e9c5b5fbcb13",
   "94244ec574bd",
   "dc60852b785d",
@@ -3153,6 +3163,7 @@
   "4112ce475224",
   "03b2351f4790",
   "b2c3e523b396",
+  "4319e496a2d3",
   "71d275d205e8",
   "7726e77cc5f3",
   "90399fb445b0",
@@ -3406,18 +3417,7 @@
   "92efff17efc2",
   "7dcb3ca6a4ff",
   "57c2ea32d7d0",
-  "9a3441931f98",
-  "51e1563a1e3c",
-  "eb66b2ed6a1a",
-  "6fbc7092b889",
-  "299ece2294cd",
-  "ac0dcd2d3227",
-  "b2fe43999c97",
-  "a553ac3d8b23",
-  "1685ef53b0f4",
-  "f4549a3ae21a",
-  "7b0fe4410ec6",
-  "8e03506a0f59"
+  "9a3441931f98"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -9525,7 +9525,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T13:00+00:00",
+   "actualizado": "2026-11-07T13:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,

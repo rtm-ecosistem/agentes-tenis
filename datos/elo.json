@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T12:10+00:00",
+ "actualizado": "2026-11-07T13:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -1953,19 +1953,18 @@
    "nombre": "Borna Gojo",
    "circuito": "ATP",
    "elo": {
-    "all": 1514.2,
-    "hard": 1543.2,
+    "all": 1545.6,
+    "hard": 1577.0,
     "clay": 1404.5,
     "grass": 1497.0
    },
    "n": {
-    "all": 20,
-    "hard": 10,
+    "all": 21,
+    "hard": 11,
     "clay": 8,
     "grass": 2
    },
    "ultimos": [
-    "2026-05-20 G clay vs Henrique Rocha",
     "2026-05-22 P clay vs Jurij Rodionov",
     "2026-06-22 G grass vs Coleman Wong",
     "2026-06-24 P grass vs Colton Smith",
@@ -1974,7 +1973,8 @@
     "2026-10-18 G hard vs Francesco Maestrelli",
     "2026-10-19 G hard vs Vitaliy Sachko",
     "2026-10-20 G hard vs Arthur Fery",
-    "2026-10-22 P hard vs Daniel Altmaier"
+    "2026-10-22 P hard vs Daniel Altmaier",
+    "2026-11-07 G hard vs Mika Brunold"
    ]
   },
   "andrea huesler|m": {
@@ -16851,19 +16851,18 @@
    "nombre": "Anna Blinkova",
    "circuito": "WTA",
    "elo": {
-    "all": 1724.8,
-    "hard": 1722.9,
+    "all": 1737.7,
+    "hard": 1737.6,
     "clay": 1360.6,
     "grass": 1531.3
    },
    "n": {
-    "all": 74,
-    "hard": 61,
+    "all": 75,
+    "hard": 62,
     "clay": 6,
     "grass": 7
    },
    "ultimos": [
-    "2026-10-07 G hard vs Elena Pridankina",
     "2026-10-08 G hard vs Caroline Werner",
     "2026-10-09 G hard vs Bianca Andreescu",
     "2026-10-10 P hard vs Lucrezia Stefanini",
@@ -16872,7 +16871,8 @@
     "2026-10-30 G hard vs Martyna Kubka",
     "2026-10-31 P hard vs Noma Noha Akugue",
     "2026-11-03 G hard vs Farah Heddar",
-    "2026-11-05 G hard vs Li Zongyu"
+    "2026-11-05 G hard vs Li Zongyu",
+    "2026-11-07 G hard vs Yasmine Kabbaj"
    ]
   },
   "golubic|v": {
@@ -25346,19 +25346,18 @@
    "nombre": "Yasmine Kabbaj",
    "circuito": "WTA",
    "elo": {
-    "all": 1574.8,
-    "hard": 1587.4,
+    "all": 1557.1,
+    "hard": 1567.7,
     "clay": 1559.9,
     "grass": 1435.2
    },
    "n": {
-    "all": 31,
-    "hard": 27,
+    "all": 32,
+    "hard": 28,
     "clay": 3,
     "grass": 1
    },
    "ultimos": [
-    "2026-09-08 P hard vs Cagla Buyukakcay",
     "2026-09-15 G hard vs Angela Fita Boluda",
     "2026-09-16 G hard vs Maria Garcia Cid",
     "2026-09-18 G hard vs Despina Papamichail",
@@ -25367,7 +25366,8 @@
     "2026-10-27 G hard vs Rebeca Pereira",
     "2026-10-29 P hard vs Julia Riera",
     "2026-11-02 G hard vs Jahnie Van Zyl",
-    "2026-11-04 G hard vs Diana Martynov"
+    "2026-11-04 G hard vs Diana Martynov",
+    "2026-11-07 P hard vs Anna Blinkova"
    ]
   },
   "patil|s": {
@@ -38127,21 +38127,22 @@
    "nombre": "Mika Brunold",
    "circuito": "ATP",
    "elo": {
-    "all": 1483.3,
-    "hard": 1472.1,
+    "all": 1433.7,
+    "hard": 1428.7,
     "clay": 1500.0,
     "grass": 1500.0
    },
    "n": {
-    "all": 3,
-    "hard": 3,
+    "all": 4,
+    "hard": 4,
     "clay": 0,
     "grass": 0
    },
    "ultimos": [
     "2026-10-24 G hard vs Jaime Faria",
     "2026-10-25 P hard vs Remy Bertola",
-    "2026-10-26 P hard vs Nuno Borges"
+    "2026-10-26 P hard vs Nuno Borges",
+    "2026-11-07 P hard vs Borna Gojo"
    ]
   },
   "ying shek|c": {
@@ -92017,7 +92018,15 @@
   "basilashvili|n~passaro|f": [
    1,
    0
+  ],
+  "blinkova|a~kabbaj|y": [
+   1,
+   0
+  ],
+  "brunold|m~gojo|b": [
+   0,
+   1
   ]
  },
- "propios": 10687
+ "propios": 10689
 }

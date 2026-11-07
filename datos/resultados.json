@@ -242033,6 +242033,56 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Angola Ladies Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Yasmine Kabbaj",
+    "Anna Blinkova"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     4,
+     6
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Bybit Stockholm Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Borna Gojo",
+    "Mika Brunold"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
