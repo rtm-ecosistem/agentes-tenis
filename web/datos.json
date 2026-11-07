@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T23:22+00:00",
+ "actualizado": "2026-11-07T00:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.058,
+      "pct": 0.057,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.896,
+      "pct": 0.898,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.104,
+      "pct": 0.102,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.896,
+      "pct": 0.898,
       "motivo": "Lleva 9 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.104,
+      "pct": 0.102,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -2050,9 +2050,9 @@
  },
  "biblioteca": [],
  "tonta": {
-  "apuestas": 65,
-  "aciertos": 0.6307692307692307,
-  "yield": -0.08215384615384615
+  "apuestas": 66,
+  "aciertos": 0.6363636363636364,
+  "yield": -0.07393939393939394
  },
  "partidos_info": {
   "c1a54362fbf98df45c2174b84374dd0c": {
