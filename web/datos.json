@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T09:27+00:00",
+ "actualizado": "2026-11-07T10:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.051,
+      "pct": 0.05,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -1933,6 +1933,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-07T10:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T10:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T09:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2071,16 +2081,6 @@
    "hora": "2026-11-06T10:10+00:00",
    "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T09:42+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T09:42+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-07",
@@ -2156,270 +2156,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "2a5f1771a236171c3e21d21bdf56bff4": {
-   "id": "2a5f1771a236171c3e21d21bdf56bff4",
-   "jugadores": [
-    "Jaime Faria",
-    "Rinky Hijikata"
-   ],
-   "inicio": "2026-10-31T10:05+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
-   "elo": 0.487,
-   "elo_general": 0.535,
-   "elo_en_superficie": 0.439,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Jaime Faria",
-     "mercado": 0.451,
-     "elo": 1612,
-     "elo_superficie": 1551,
-     "forma": [
-      "G hard vs Arthur Fery",
-      "P hard vs Jaume Munar",
-      "P hard vs Arthur Gea",
-      "P hard vs Felix Balshaw",
-      "P hard vs Mika Brunold"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Jaime Faria - Rinky Hijikata en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEx2LWRkbTBpTVlTMmh6ZjVLQWR6Qi0yTlpCaDNZM3VGZW5BZng1WFFTQlBTb2Y5NHdjUU5CWGl1SnBlcHF3c2t5UGlGME1CX1F4Z09oeG93SGc0d1JHc1NZNGlBVF93T1BYbERKLUl2Z3lTVktFRGxtcDdEU2ZVNTVieE1SWWdaT1kw?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jaime Faria vs Rinky Hijikata - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOS1BRVRBWlo2dWNtZmZpa2JLR1hYYnVPOGtFeHJsZ0k0UnhFaEVMdXl4cHF2SktwUkdQTHZTWXFSSTc5Q19acWNENlpuWTJXbTJ3enBVc252cFQxd2hfZGhSY1IyeVlseUs4NW9zMUlNTmE3b0pjNlhqLVhoQzZtbmZRT2ZKTk1jOXFj?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz avanza a semifinales en Viena tras vencer a Tommy Paul - Uruguay Al Día",
-       "fuente": "Uruguay Al Día",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1NaS2tSMVpWenFrUWtCa1QtcHdMVzBRV2hjOU9NZWVSOEF2RXhyX3RVMDBKck8ya1d1bVRDRG5ETFVoY0VkU0hOcUVHcFZLUUZvb0M0TmJHdHdGVTB6LWZDaFNCeU1jcm1XVEtHaEVSaUNGcjVEY09NZnktZ3JLTDg2REhYVHhRXzFTYjFpS29fZVJqak5GT1V6aXZ4d2c?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Rinky Hijikata",
-     "mercado": 0.549,
-     "elo": 1587,
-     "elo_superficie": 1593,
-     "forma": [
-      "P hard vs Roman Safiullin",
-      "P hard vs Terence Atmane",
-      "G hard vs Miomir Kecmanovic",
-      "P hard vs Yannick Hanfmann",
-      "P hard vs Taylor Fritz"
-     ],
-     "cansancio": "1 partidos, 2 sets y 23 juegos en 3 días; el último el 2026-10-28 contra Taylor Fritz, perdió 4-6 6-7",
-     "noticias": [
-      {
-       "titulo": "Jaime Faria - Rinky Hijikata en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEx2LWRkbTBpTVlTMmh6ZjVLQWR6Qi0yTlpCaDNZM3VGZW5BZng1WFFTQlBTb2Y5NHdjUU5CWGl1SnBlcHF3c2t5UGlGME1CX1F4Z09oeG93SGc0d1JHc1NZNGlBVF93T1BYbERKLUl2Z3lTVktFRGxtcDdEU2ZVNTVieE1SWWdaT1kw?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jaime Faria vs Rinky Hijikata - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOS1BRVRBWlo2dWNtZmZpa2JLR1hYYnVPOGtFeHJsZ0k0UnhFaEVMdXl4cHF2SktwUkdQTHZTWXFSSTc5Q19acWNENlpuWTJXbTJ3enBVc252cFQxd2hfZGhSY1IyeVlseUs4NW9zMUlNTmE3b0pjNlhqLVhoQzZtbmZRT2ZKTk1jOXFj?oc=5"
-      },
-      {
-       "titulo": "Djokovic remonta ante Humbert y supera la primera ronda del ATP de Basilea - Diario Libre",
-       "fuente": "Diario Libre",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQW1FVjlGY1ZlT0hsRjFIWXdSWE55OHdydndreS1acDBMQWlubEdiX1g4QTVJeDE4Sm1DcWpMbldMM2JaV2x6THVUOEVOUVE2YVA5cVY3U1RITGN1eGx5elBaQ19ZNGUzbVdmTEFfakRHemRYQW04UnR5X1V6NDJOUHJ5SW9VMlNCY2RXZDJEamh0S2JKLXA1N2g2eUJEVzVJTjcwMHhFWU90QXc3NlpWRFVXRVdwSTlKYWEtdNIBvAFBVV95cUxOQW1FVjlGY1ZlT0hsRjFIWXdSWE55OHdydndreS1acDBMQWlubEdiX1g4QTVJeDE4Sm1DcWpMbldMM2JaV2x6THVUOEVOUVE2YVA5cVY3U1RITGN1eGx5elBaQ19ZNGUzbVdmTEFfakRHemRYQW04UnR5X1V6NDJOUHJ5SW9VMlNCY2RXZDJEamh0S2JKLXA1N2g2eUJEVzVJTjcwMHhFWU90QXc3NlpWRFVXRVdwSTlKYWEtdA?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "b79cec36580dcc0d4a39f0e998bf6259": {
-   "id": "b79cec36580dcc0d4a39f0e998bf6259",
-   "jugadores": [
-    "Pablo Carreno Busta",
-    "Mattia Bellucci"
-   ],
-   "inicio": "2026-10-31T10:05+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
-   "elo": 0.52,
-   "elo_general": 0.555,
-   "elo_en_superficie": 0.485,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Pablo Carreno Busta",
-     "mercado": 0.42,
-     "elo": 1622,
-     "elo_superficie": 1604,
-     "forma": [
-      "P hard vs Daniil Medvedev",
-      "G hard vs Mariano Navone",
-      "G hard vs Alejandro Tabilo",
-      "P hard vs Felix Auger-Aliassime",
-      "P hard vs Jacob Fearnley"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
-      },
-      {
-       "titulo": "Pablo Carreño-Busta - Mattia Bellucci en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjJKOHVmcllQelJ0X0FDZ0tBamZWZFhRbGQ0YjBuQXo5cWdIcDQxR2JDUmJBWEhybjZraEp0OGltRUFUeHdEcUxQUDRxVmZaTU9iRVR0OTlXMWgtMGhpaF9YT0tjem9fbHF2blBYRE1ucmc0dFlsQ2dKVWwyd3lZa013aEQtV2l1N0JRM3d0LUxOem0tTlVV?oc=5"
-      },
-      {
-       "titulo": "Alejandro Tabilo vs Pablo Carreno-Busta » Mejores Cuotas y Estadísticas - Odds Scanner",
-       "fuente": "Odds Scanner",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qRnRncDlvVUpsVEFDam5ZZ09MZWh1ek5LWmUyQXY1TS1iTjBvRGFBNzZMaGRndDJpbjNiTTl6V0pRdFRyczNqUUUwelNyYW83UllrNWFGa0dtRXJPX0p2OVpxUUNnUGVUZk4ydG5SWHRYYVFxQ2tzdzhyZVk?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Mattia Bellucci",
-     "mercado": 0.58,
-     "elo": 1584,
-     "elo_superficie": 1614,
-     "forma": [
-      "G hard vs Elias Ymer",
-      "G hard vs Alexandre Muller",
-      "P hard vs Zhou Yi",
-      "G hard vs Tomas Martin Etcheverry",
-      "P hard vs Terence Atmane"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Andrey Rublev - Tomas Martin Etcheverry en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTJiNGY4MjMzRl9NWHp5Q0I4bEpNa2JQRFZPNUNBZmRhVnRBT0F2WGl2cnhJdWJYNXBLcXFxNEFMbXdJR29mUHVISVRlY3p5NzdMSWdUVnkwY3RpczVEZ3ptUmYzRERkNV9uNjRCSWdmV0hienU1bThIY3M5WWtSXy1EeFFOOEtZU2hHSTc0YkVyck96T3RueQ?oc=5"
-      },
-      {
-       "titulo": "Pablo Carreño-Busta - Mattia Bellucci en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjJKOHVmcllQelJ0X0FDZ0tBamZWZFhRbGQ0YjBuQXo5cWdIcDQxR2JDUmJBWEhybjZraEp0OGltRUFUeHdEcUxQUDRxVmZaTU9iRVR0OTlXMWgtMGhpaF9YT0tjem9fbHF2blBYRE1ucmc0dFlsQ2dKVWwyd3lZa013aEQtV2l1N0JRM3d0LUxOem0tTlVV?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlZlRW1UOVVlNmp3R2ZzVmdPLXBrck5ZRXlmNkM4VE9aMXlCamE4Q2RqdzlxaDV3WXNxd3NFOEdSa1N5TTkzLVBTLWlCZ3QzZ09BeWZFOEtFaHI2d3RVaE9FUC1QZ2lpOFFWdlI5dHRNQzYtUHNkS2xGQjhQT05udHY3NmJ0Rkk1aUdTeVp5aWhqTnVQVkE5ag?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "8f1291f57aab2102a046f3688a5cb9da": {
-   "id": "8f1291f57aab2102a046f3688a5cb9da",
-   "jugadores": [
-    "Thiago Agustin Tirante",
-    "Zachary Svajda"
-   ],
-   "inicio": "2026-10-31T10:05+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T09:22+00:00",
-   "elo": 0.658,
-   "elo_general": 0.654,
-   "elo_en_superficie": 0.663,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Thiago Agustin Tirante",
-     "mercado": 0.484,
-     "elo": 1663,
-     "elo_superficie": 1640,
-     "forma": [
-      "P hard vs Jan-Lennard Struff",
-      "G hard vs Hamad Medjedovic",
-      "P hard vs Rafael Jodar",
-      "P hard vs Facundo Diaz Acosta",
-      "P hard vs Adrian Mannarino"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Thiago Agustin Tirante vs Zachary Svajda EN VIVO 31/10/2026 | Tenis - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hVSFdYd3AtbFZvSDF5b2Njc2lwajJRcHdmNzBVZVYwUDhGTF9LTVNaQWg1OVFSWnJ2STFIWTBkX09SOFBCLUZJb19Sd09TX2N2dHhxOExFb2FLaFl1Y0wzMWdPZ0hJR2d5RjExNHRDWHRhSUtaTGRnQVZxN09vSDA5UHBFckYxY2tRVlB1VkxQd3oxXzRGdm9xaUdKRVJEMnc?oc=5"
-      },
-      {
-       "titulo": "Thiago Agustin Tirante - Zachary Svajda en vivo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOG5vZ3JaQUlFZUwtRTU3djNGMUQ2bldOMUtJNDhKYWdtR3lzQWdLMWVzYk9RRXZlNnVvV3JxVzB2WVpnZDMwQ2ZGWVNhaHlnWjdaU24yOG1CQ1hGYkpwblNmdjloVmZwa044cFNLUmZfV0pZMHA5Snl5RmNvM1FTb0dYamZjSjBQdFJCanZqaE9pNWdaWGY4TmVB?oc=5"
-      },
-      {
-       "titulo": "Entry List ATP París 2026 - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1raXhLZlU0QkZ1aTZLNHBLOWl2NzBqRU54VEx4STgxVjNkRFUyQXdMZG9hSHh4MUZWVEZLazBrT0p1N3I2TVNkVUFlUkZ1NGd5NzlSWFZad2Z1YlRMMXc?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Zachary Svajda",
-     "mercado": 0.516,
-     "elo": 1552,
-     "elo_superficie": 1523,
-     "forma": [
-      "P hard vs Arthur Gea",
-      "P hard vs Aleksandar Kovacevic",
-      "G hard vs Fabian Marozsan",
-      "P hard vs Learner Tien",
-      "P hard vs Juan Manuel Cerundolo"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Daniel Mérida Aguilar vs Alexander Blockx - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2drRWZkM0pQa3h6WjlvbFFnWGZ3TTFIX3I2X05MaHdUYm5rM3dnWElqYkdRaG5vX2VQaTg5NzRFVmEyZ2RxSHp6cTBPWV91aEVPRFFKMDVBSzFDYmpUT3UwczNONlJLRUNUSDdNbVp4QnY2YVEwdjFRZTZOc3BmaHJPOHZSenFLMGZwVVRRS3hhNUlWSXFDM0l5RQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "4eaa8a4094623f5bcb9871f3ed3916ce": {
    "id": "4eaa8a4094623f5bcb9871f3ed3916ce",
    "jugadores": [
@@ -8841,7 +8577,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T09:10+00:00",
+   "actualizado": "2026-11-07T10:10+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -8929,7 +8665,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T09:10+00:00",
+   "actualizado": "2026-11-07T10:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -8987,6 +8723,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Carlos Alcaraz y las semifinales de París que valen una clasificación histórica para Rafa Jódar - El Confidencial",
+       "fuente": "El Confidencial",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnhIUUpDVFdhZ3RUNGl1QXQya2V5bU1fS0VoX0tOb1lTeDRXR0p0S0VUREpPMW4xbmotQVY0VU11Z2kwc280eWtscTkwSDFpXy1hLVJTZ05ESUJQQlh0OTJrZ2NUclc0NFNPeHk4VVRlUTlMSWZGa2V3OW85UVhveGZTZFlNTy0zT0h1UHIwTmFkb1lVb2U0dEJQcTh0ZU01YnU1QXZUYmJrUTdKblB5TQ?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-07",
@@ -8997,12 +8739,6 @@
        "fuente": "Punto de Break",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1IyaXVqVDl2M2JQcTFkVzIzMi1qY19VRWgyME5OYTdGcjNwRlc5QkJZeGpYY1VfVHhCcEo2X2JPVHY3amRZLXV2WXQtZXdHX21IcjdNZTZsRFZ2UVl6bGxxcXgxR0JrNFVvSElYSFZaUUNHUWVxQlFYaHJST2o1VS12UmMxYmkxODVxd2RzenJCZzJsbXh1YkJTZw?oc=5"
-      },
-      {
-       "titulo": "Ruud, rival de Alcaraz en París, revela el calvario que ha vivido: \"Era la primera vez que sentía la necesidad de apagar el despertador por la mañana. Me entrenaba porque era mi trabajo, no porque tuviera ganas de mejorar. Me asustó sentir eso. Busqué ayu - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWmt2NkZLRTM0WHppS01nd2E1RXZtQ09PVjNYMEx1R3NMUjRPa2NRWTdTUmtRTjl1VUJqbVVjY3BkYlJNQkZLbXRNNEJ5VVRpY1ZOaGlhQnJvN3dhQi10SW1Xb1puWHM4VUJXRU5ZQ19EQWN3UHhFVndHSTNqNUc3c2hCUGw3dHQ0cFR5M1BZb29MUnYtUXJOcThWa2tqSXFwZ1VQRDlJdWktYWQ1S1lOalN3NnFMNVhTRFhRZ3R4ZVp6QmVaVmRHTll6X2NKM0EtSVZHalZTXzNkdTJjeGFmbkdvdzQ2WjdRRU1YVXlUMEtKN01uRUtTSDJhQW5Zb1Q5TTdMbldEeVJjTDNMbF9Qa2hMNzFyaU5pbWg4anlybnJ6SnJDeFNzalRmbElYazRNd0g5SzRXVy1VcllWVHpPUWU5RmxsajloNmNlSl9qM3FlTl8wb1E3MEhFSnY1QjhT0gHuAkFVX3lxTE5MYWtQejd3aHFYLU9hUU80aGd6VjlwYkpMMTZNVmN6YjIyZ2pBSmY4RmJNM2p0aUxuNXdvaWh3dEQxTVhJUlFoRk10OXFab3ZjSmNlNmlkemthcTBMZTd6bTFWakwwb040UEVtOHVVYjBlTWpVMU5jZVlzMC13ZlozUkI0bkU5LVpFVXhWTXExTEI3ZldIS3A2cHN2UTVKbExDWGE5cFIyMjV0dmFWWm0tdXpzVmdjcXRobWN2eU9HYUUtLWQ3eVRlVnJPSF9FVUxMcmQzYjRIUi1ja1JpTjg5QTRUMGYxOHJCSnczZEIwcjZfczduQVFUTGtzcGRNUm5rNWdlekVSMFg3T2F4T0JkblFPZFJlUVB5eHRiN3dmTlZJUlEwUXJjZkVibzJEZlRUcm5BdW1YTldOemFYeVBXSTdwUGcyQ3hLZUZjZEFVbDBvQ04yM245RFpTR2o3MUdkdjVfZzlWNGt0MWQ1dw?oc=5"
       }
      ]
     }
