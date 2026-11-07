@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T10:10+00:00",
+ "actualizado": "2026-11-07T11:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -359,7 +359,7 @@
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.05,
+      "pct": 0.049,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      },
      {
@@ -573,14 +573,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.907,
+      "pct": 0.909,
       "motivo": "Lleva 10 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.093,
+      "pct": 0.091,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1009,14 +1009,14 @@
       "emocion": "aburrimiento",
       "cara": "🥱",
       "nombre": "Aburrimiento",
-      "pct": 0.907,
+      "pct": 0.909,
       "motivo": "Lleva 10 días sin apostar."
      },
      {
       "emocion": "impaciencia",
       "cara": "😑",
       "nombre": "Impaciencia",
-      "pct": 0.093,
+      "pct": 0.091,
       "motivo": "Lleva 4 días sin ver ninguna apuesta clara."
      }
     ],
@@ -1933,6 +1933,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-07T11:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T11:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T10:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -2071,16 +2081,6 @@
    "hora": "2026-11-06T11:10+00:00",
    "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
  "ultima_decision": "2026-11-07",
@@ -2156,88 +2156,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "4eaa8a4094623f5bcb9871f3ed3916ce": {
-   "id": "4eaa8a4094623f5bcb9871f3ed3916ce",
-   "jugadores": [
-    "Hugo Gaston",
-    "Vit Kopriva"
-   ],
-   "inicio": "2026-10-31T11:05+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T10:10+00:00",
-   "elo": 0.53,
-   "elo_general": 0.537,
-   "elo_en_superficie": 0.523,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Hugo Gaston",
-     "mercado": 0.671,
-     "elo": 1521,
-     "elo_superficie": 1468,
-     "forma": [
-      "G hard vs Sho Shimabukuro",
-      "G hard vs Jaime Faria",
-      "P hard vs Andrey Rublev",
-      "P hard vs Liam Draxl",
-      "P hard vs Jacob Fearnley"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Hugo Gastón vs Vit Kopriva - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDA5QzQySW9Pd0dCdlpidktBV3NOd1gtcURIUUJwN2QwREVwaGhYX3FibkxhZVFrc3FtQWx5cFZyQXZpQzljMVAzeWhDNHhXbkVqSjBPcHd2OFNLNGJEMFZ3RXBxQTZnOFBRM2lXV21jUFkxbHNJa0Jia0Z5dVh4cFpkUWliZ3M?oc=5"
-      },
-      {
-       "titulo": "Hugo Gaston vs. Daniil Glinka Brest 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-28",
-       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VU2VfbTlyQ0pmNnJySEhnei1zZjhpS1JSaTN6MGxId2UzMXBMZXJLamlaWTVVRVMwRVE4TGJLblVqOXE0V0hhRjNBZDg1aDBPR0doYmZKbXZxZGVGd3BpOGFvNHRHSlNQbkV3UDktX05LQ1U5U1RUc2lR?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Vit Kopriva",
-     "mercado": 0.329,
-     "elo": 1495,
-     "elo_superficie": 1453,
-     "forma": [
-      "G hard vs Hu Jia",
-      "P hard vs Denis Shapovalov",
-      "P hard vs Alex Molcan",
-      "P hard vs Zizou Bergs",
-      "P hard vs Lukas Neumayer"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Lorenzo Sonego vs Jaume Munar - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXlUZ1FiSzB2cm50eDE3RS1zZndfNkl6c1BwZXQxYTlGN3V3NXRjeEdjZ2gzdGVKbkNpbVVuZlVJaUFsSFBub3hZZUlzVm43RXM5ZHVCaUVFWVV3Y3lmQWJ1Qk9fS3Z0OEpodmNKODltVlRoQUUyM0FCd2tINk1KM0NISWQyWXkx?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Sebastian Baez vs Damir Dzumhur - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHZiZnhmdV9vQ0dYeUZ1Z1E4QlhtOVBKLUh1cFhiRlNUME1JWC1OZFlZeFRwdDJDcXA1ekZtZ01BS2ktTjlNSUpabER5ci10RVk2enNIeFdFX0NodXRINExxakVDX1Q0RXRudk5XcXBKanFJdmxtc0F6cGh0VVI0Nl8tcDNUUUlmczFIZ0pn?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Daniel Mérida Aguilar vs Alexander Blockx - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2drRWZkM0pQa3h6WjlvbFFnWGZ3TTFIX3I2X05MaHdUYm5rM3dnWElqYkdRaG5vX2VQaTg5NzRFVmEyZ2RxSHp6cTBPWV91aEVPRFFKMDVBSzFDYmpUT3UwczNONlJLRUNUSDdNbVp4QnY2YVEwdjFRZTZOc3BmaHJPOHZSenFLMGZwVVRRS3hhNUlWSXFDM0l5RQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "2885e6fd43f434fcec49d2f755b3e433": {
    "id": "2885e6fd43f434fcec49d2f755b3e433",
    "jugadores": [
@@ -8577,7 +8495,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T10:10+00:00",
+   "actualizado": "2026-11-07T11:10+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -8665,7 +8583,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T10:10+00:00",
+   "actualizado": "2026-11-07T11:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -8689,6 +8607,12 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
+       "fuente": "La Opinión de Murcia",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
+      },
+      {
        "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-07",
@@ -8699,12 +8623,6 @@
        "fuente": "Mundo Deportivo",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWmt2NkZLRTM0WHppS01nd2E1RXZtQ09PVjNYMEx1R3NMUjRPa2NRWTdTUmtRTjl1VUJqbVVjY3BkYlJNQkZLbXRNNEJ5VVRpY1ZOaGlhQnJvN3dhQi10SW1Xb1puWHM4VUJXRU5ZQ19EQWN3UHhFVndHSTNqNUc3c2hCUGw3dHQ0cFR5M1BZb29MUnYtUXJOcThWa2tqSXFwZ1VQRDlJdWktYWQ1S1lOalN3NnFMNVhTRFhRZ3R4ZVp6QmVaVmRHTll6X2NKM0EtSVZHalZTXzNkdTJjeGFmbkdvdzQ2WjdRRU1YVXlUMEtKN01uRUtTSDJhQW5Zb1Q5TTdMbldEeVJjTDNMbF9Qa2hMNzFyaU5pbWg4anlybnJ6SnJDeFNzalRmbElYazRNd0g5SzRXVy1VcllWVHpPUWU5RmxsajloNmNlSl9qM3FlTl8wb1E3MEhFSnY1QjhT0gHuAkFVX3lxTE5MYWtQejd3aHFYLU9hUU80aGd6VjlwYkpMMTZNVmN6YjIyZ2pBSmY4RmJNM2p0aUxuNXdvaWh3dEQxTVhJUlFoRk10OXFab3ZjSmNlNmlkemthcTBMZTd6bTFWakwwb040UEVtOHVVYjBlTWpVMU5jZVlzMC13ZlozUkI0bkU5LVpFVXhWTXExTEI3ZldIS3A2cHN2UTVKbExDWGE5cFIyMjV0dmFWWm0tdXpzVmdjcXRobWN2eU9HYUUtLWQ3eVRlVnJPSF9FVUxMcmQzYjRIUi1ja1JpTjg5QTRUMGYxOHJCSnczZEIwcjZfczduQVFUTGtzcGRNUm5rNWdlekVSMFg3T2F4T0JkblFPZFJlUVB5eHRiN3dmTlZJUlEwUXJjZkVibzJEZlRUcm5BdW1YTldOemFYeVBXSTdwUGcyQ3hLZUZjZEFVbDBvQ04yM245RFpTR2o3MUdkdjVfZzlWNGt0MWQ1dw?oc=5"
-      },
-      {
-       "titulo": "Carlas Alcaraz – Casper Ruud: Horario y dónde ver la semifinal del ATP 1000 de Paris - Industria del Tenis",
-       "fuente": "Industria del Tenis",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1M4ajJQem56bXloNnBianNLaTVzaWJPSnRFY3ZJWG8waFlyQ255X01rVVM0Tmc4LVpieHI3TDBNUVliUDYzQmlCOUhBX3VVa1BnaF9SQ1l6QVpHMXFfY3kwamFpOTJUY2ZHN00xWk1pRkU1ZThJZHV1X2FwN0t3dlVsZnFoc2N5NTRBV3l2YXU4cWp1NXFMaC1LeERvZGF1WmxmWGY4d2lSMHRxTlpUUG1wcnhOVm8?oc=5"
       }
      ]
     },
@@ -8723,6 +8641,12 @@
      "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
      "noticias": [
       {
+       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
+       "fuente": "La Opinión de Murcia",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
+      },
+      {
        "titulo": "Carlos Alcaraz y las semifinales de París que valen una clasificación histórica para Rafa Jódar - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-07",
@@ -8733,12 +8657,6 @@
        "fuente": "El Confidencial",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1RXdWxzV2FSc1gtSHVhYTl5dVphVmU3YWdQNUQxMXBCQUxoemdhdWIwYjJKX0N0S01LaFBtbkNGYTRXZWFERnFwS3dlS1JUTUttb240QUdBWmw2Z3FYT3ZFWWtCUDhISVI2TlkyeDZReFc3cjQtcE5ua1Z3QUZkVmhYUncydVhjQXhXendKbmduU0s0dnp5YkVfSmhYRGsxYTViaXgtbjR2clFTTENiWEl3Y0h4aXFtX1E?oc=5"
-      },
-      {
-       "titulo": "A qué hora y dónde ver el partido de Alcaraz en semifinales del Masters 1000 de París - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1IyaXVqVDl2M2JQcTFkVzIzMi1qY19VRWgyME5OYTdGcjNwRlc5QkJZeGpYY1VfVHhCcEo2X2JPVHY3amRZLXV2WXQtZXdHX21IcjdNZTZsRFZ2UVl6bGxxcXgxR0JrNFVvSElYSFZaUUNHUWVxQlFYaHJST2o1VS12UmMxYmkxODVxd2RzenJCZzJsbXh1YkJTZw?oc=5"
       }
      ]
     }
