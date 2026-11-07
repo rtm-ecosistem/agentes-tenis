@@ -161,7 +161,7 @@
      "tension": 0.3,
      "envidia": 0.034,
      "sorpresa": 0.4,
-     "impaciencia": 0.061,
+     "impaciencia": 0.06,
      "aburrimiento": 0.45
     },
     "motivos": {
@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T11:18+00:00",
+    "hora": "2026-11-07T12:10+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -326,14 +326,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.045,
+     "impaciencia": 0.044,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:18+00:00",
+    "hora": "2026-11-07T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:18+00:00",
+    "hora": "2026-11-07T12:10+00:00",
     "rent": 0.0
    }
   },
@@ -637,14 +637,14 @@
    },
    "animo": {
     "mezcla": {
-     "impaciencia": 0.045,
+     "impaciencia": 0.044,
      "aburrimiento": 0.45
     },
     "motivos": {
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:18+00:00",
+    "hora": "2026-11-07T12:10+00:00",
     "rent": 0.0
    }
   }
@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-04T15:11+00:00",
-   "texto": "📰 Noticias nuevas de Alex Michelsen – Carlos Alcaraz, Arthur Fils – Tomas Machac: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-04T15:11+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-04T15:34+00:00",
    "texto": "📰 Noticias nuevas de Arthur Fils – Tomas Machac: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T11:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T12:10+00:00",
+   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T12:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2618,14 +2618,22 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-06-20",
  "noticias_vistas": [
+  "81da77d1243e",
+  "eb3470cd4a93",
   "32cdbdb11bbd",
+  "b5448b76fc2f",
   "9b328b48647f",
+  "c8d69b01fd35",
   "c156031af6cf",
   "a2ce6b7b5c57",
+  "636e75860bb5",
+  "2cb55b945832",
+  "0ae3c2b5ead4",
   "92ee25f2ac65",
   "7910724ca5f2",
   "478530681674",
   "7faf34fa0610",
+  "4be157e4a97c",
   "1c38ddc29436",
   "4b364b148826",
   "4ec9f7c794b5",
@@ -2652,6 +2660,7 @@
   "adb4087240c1",
   "60612dd1962f",
   "99071ee1e7e0",
+  "ba1e0a934f3e",
   "8cb07ab0e628",
   "61d028c3c627",
   "2d8af1e2cbff",
@@ -2680,10 +2689,9 @@
   "de6782a9c25e",
   "c6296bc38143",
   "8bcf412c962f",
-  "85c5d409c1f3",
   "6ef0dfaf63a2",
+  "85c5d409c1f3",
   "0c1c5c2ea3c7",
-  "4be157e4a97c",
   "36ea4b297c75",
   "5664cb4f0789",
   "2ee24d668947",
@@ -2699,7 +2707,6 @@
   "baa777d258e0",
   "461c10a96d43",
   "89ed1a08da52",
-  "ba1e0a934f3e",
   "224240e3a113",
   "4aba78bbd808",
   "310626b106da",
@@ -2711,9 +2718,7 @@
   "b1e2f60ebd65",
   "e4cc76054e36",
   "4b1d3ed1e507",
-  "4eaa9319a158",
   "06c2ef2f33d9",
-  "0ae3c2b5ead4",
   "de82e7f757f1",
   "14fd9b678aba",
   "4d3081414332",
@@ -2766,6 +2771,7 @@
   "9c5d1b4279b5",
   "f04e92f35d8d",
   "5619023ec14a",
+  "4eaa9319a158",
   "ce2f61f76ea4",
   "8a6bbea0a95a",
   "cabd4482237c",
@@ -2829,8 +2835,8 @@
   "3209133a8db4",
   "4e75fd4e4b3e",
   "0db3675bb87a",
-  "36e72be47af6",
   "317709057c65",
+  "36e72be47af6",
   "17567526f65a",
   "1f615d651b40",
   "40c6d0ccb4b4",
@@ -3411,13 +3417,7 @@
   "1685ef53b0f4",
   "f4549a3ae21a",
   "7b0fe4410ec6",
-  "8e03506a0f59",
-  "8a79863ebc4f",
-  "802289636972",
-  "2229456db554",
-  "6a29c1345036",
-  "95c9deb32475",
-  "bb08228cd005"
+  "8e03506a0f59"
  ],
  "sala_aciertos": {
   "favorito": [
@@ -3444,264 +3444,6 @@
   ]
  },
  "partidos_info": {
-  "2885e6fd43f434fcec49d2f755b3e433": {
-   "id": "2885e6fd43f434fcec49d2f755b3e433",
-   "jugadores": [
-    "Juan Manuel Cerundolo",
-    "Aleksandar Kovacevic"
-   ],
-   "inicio": "2026-10-31T12:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T11:15+00:00",
-   "elo": 0.641,
-   "elo_general": 0.681,
-   "elo_en_superficie": 0.602,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Juan Manuel Cerundolo",
-     "mercado": 0.451,
-     "elo": 1653,
-     "elo_superficie": 1578,
-     "forma": [
-      "G hard vs Nicolas Mejia",
-      "P hard vs Carlos Alcaraz",
-      "P hard vs Mariano Navone",
-      "G hard vs Zachary Svajda",
-      "G hard vs Daniel Altmaier"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico Arthur Rinderknech vs Francisco Cerundolo - Cuota & Estadística - 1 de noviembre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pPZUYtR1pIa0xiYzQxZ2xmdHFiOTlvaUxJZEZBV3RqTXZUcGFXWnZCekRSQ0Y2dzJ3NFc3WnRYOVZjWFlfcV9fRTNjdFUzQ2k3S2I5SWI4TzhVNWs4djJIYThjNWdldXRzQl9meElXWlBfMDkzOEEyeXpVS2p0V0VKYlFNMFpzaHlXbDFFNjdMREJGSmxxUTJPdw?oc=5"
-      },
-      {
-       "titulo": "Arthur Rinderknech - Francisco Cerundolo en vivo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTk0WWtZSTU4ekVHYkwtZEs2QUViSk5ndGNzbENsNFdGZXFPWTBDa1JJb2VSWjJHZmpjeVBsVmhPN3dHSHlfQXNjQnQ2eE1SRTdIYkpfRHRwVzJVQ0VjU3dld081WkRJeUJCMkVZWWh0a2RDWGhkbEl4eUJOZDNXRUFhSWtPWEM3NFN5LVN6cDMyalRSLWcxUzNiQQ?oc=5"
-      },
-      {
-       "titulo": "Arthur Rinderknech - Francisco Cerundolo en directo - ATP Roland Garros 1 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3pDcDlXNENnX19xWXhoY2NhOHdDdy1RME00aDlIVWdRTlY4NHZHZzhUQW90VzZwV0JyQ0lJT0k5U2dPa2M0NTBSYUZUZERfUDByc0RFaDk1VmRUeU1qMUV2OGJWWjd2OHByUWEtTnpGYTJQZEFnYThwVk9GVU1RcThtV1R2UXVPa0xUTzFMYW1jZnJYdHdaRWpn?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Aleksandar Kovacevic",
-     "mercado": 0.549,
-     "elo": 1522,
-     "elo_superficie": 1506,
-     "forma": [
-      "P hard vs Matteo Berrettini",
-      "P hard vs Stefanos Tsitsipas",
-      "G hard vs James Duckworth",
-      "P hard vs Giovanni Mpetshi Perricard",
-      "P hard vs Ben Shelton"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Highlights: Shelton sobrevive a Kovacevic en Basilea - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTER5RjBEUXFIM0w0N01Hd2c4R2NDY3JaLXlBNEJEN0VYLU1ZZ0VCN19Rd0g2QnlRT0t4TGUxQmJzMW1CMXZlb2swUVJKWkdTR0MwTFl0M19KR2Y1MmROQ2FSbzJ1MHMzNU9YQ1BGd2JKWmdWdnBsWmprZ0lvbU5UbEJuV08wQ3MzR2NpNTA0N3VwZll5SVQyMg?oc=5"
-      },
-      {
-       "titulo": "¡Bang, bang, bang, bang! Shelton dispara 4 aces seguidos en Basilea - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1NTX0pQX0s4aVJLWWJ5cjhBekdmb0N0aXFvQWJ1RUNuTG5sNUFXeGJSWVhHWHJGZU1PSzBKVlRBZEZIRUlVUGYzRUNZb3gyVDQ5SjlILUx3RTVNX3F4Sjk0SkRlSHVPZ0gyZmhMbDlIRVZVNlpLMmd0YnpWM0pfN004RVpxZVQzVGw1VzVQblZaNFZPb2JsSlhGS2Y?oc=5"
-      },
-      {
-       "titulo": "Hot Shot: Shelton se luce con una volea media en Basilea 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1FaVENhZlhQdWZ4YXQ5OVZIa09WcGJfY3hvS2hocWNuc3RQM3pneVMxbW1sdmpHOXJWZm9KdWtHYThBUFAyTDRNcDZoWlpBcHRaWi00ODBzZXpkazBXWll4V3BVN09zbGUzakxKUFllaENYRVRBcDZ0QWVVZFhKYzNGM1ZrVmNWVWpCTHpyeG5EeWxYdmZNV3o0dWY2TU9ZZHVQellB?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "07a663103251981d597b64c7120f808c": {
-   "id": "07a663103251981d597b64c7120f808c",
-   "jugadores": [
-    "James Duckworth",
-    "Miomir Kecmanovic"
-   ],
-   "inicio": "2026-10-31T12:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T11:15+00:00",
-   "elo": 0.622,
-   "elo_general": 0.613,
-   "elo_en_superficie": 0.632,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "James Duckworth",
-     "mercado": 0.429,
-     "elo": 1578,
-     "elo_superficie": 1564,
-     "forma": [
-      "P hard vs Hubert Hurkacz",
-      "G hard vs Miomir Kecmanovic",
-      "G hard vs Luciano Darderi",
-      "P hard vs Stefanos Tsitsipas",
-      "P hard vs Aleksandar Kovacevic"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
-      },
-      {
-       "titulo": "Entry List ATP Challenger Taipéi 2026 - Canal Tenis",
-       "fuente": "Canal Tenis",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtZVBBbjNrdktCNGR1VzhNMDNHNmdhdTZhdUc5SXhHcENGbGhpT2lkOGg0ZklRV3EtZW56WEZXUEE2ZnJMUW5ESnRWeTE0azNpcXdhaFN2bUtXbk9lQzFLTDRHZEEtMW0zUHgxcFBB?oc=5"
-      },
-      {
-       "titulo": "Tommy Paul - Luciano Darderi Resultado 2-0 - Erste Bank Open - 29 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-29",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjR4RmtvV18tSlk3eWtOaUZEMmxCanl4SU4zVG4tbjhHM21HeFlQZzVIUk16LXBoWFVZWnJEUDEyNmU4VDdhUlQxMlFSNVdfSXZ5Mk81RTdpeXY1emN5N3RndTNVU2RPSlJIZkd1M2FRRWJXWkJSdEhUYzd6Q0hTTmp1NTVQemkxYzZj?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Miomir Kecmanovic",
-     "mercado": 0.571,
-     "elo": 1498,
-     "elo_superficie": 1470,
-     "forma": [
-      "P hard vs Adrian Mannarino",
-      "G hard vs Sho Shimabukuro",
-      "P hard vs Jakub Mensik",
-      "P hard vs James Duckworth",
-      "P hard vs Rinky Hijikata"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Pronóstico James Duckworth vs Miomir Kecmanovic - Cuotas y estadísticas - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlVMUjNLT2sxV2RpaDRRcDhWYVFiaEJHTkdtc1l0a3lKQlVwTzRhajlHdnh4RFFBUFVtSVNPTjhqQURDaHFyNkZYQ3hMT1l3dDVrQ0pCZDJnd3hQZ2JtelQ1TUQtdFllRU40Q05Bb3ZOaEVicTJ1TGhGZ3AtZU9VM2JhdTE4VDZxU2RNV0hCM1E?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Jaime Faria vs Rinky Hijikata - Cuota & Estadística - 31 de octubre de 2026 - Wincomparator",
-       "fuente": "Wincomparator",
-       "fecha": "2026-10-30",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOS1BRVRBWlo2dWNtZmZpa2JLR1hYYnVPOGtFeHJsZ0k0UnhFaEVMdXl4cHF2SktwUkdQTHZTWXFSSTc5Q19acWNENlpuWTJXbTJ3enBVc252cFQxd2hfZGhSY1IyeVlseUs4NW9zMUlNTmE3b0pjNlhqLVhoQzZtbmZRT2ZKTk1jOXFj?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "e8546c13023c2eba48ee1634f96f3ca8": {
-   "id": "e8546c13023c2eba48ee1634f96f3ca8",
-   "jugadores": [
-    "Tomas Machac",
-    "Martin Landaluce"
-   ],
-   "inicio": "2026-10-31T12:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-10-31T11:15+00:00",
-   "elo": 0.732,
-   "elo_general": 0.737,
-   "elo_en_superficie": 0.727,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Tomas Machac",
-     "mercado": 0.644,
-     "elo": 1644,
-     "elo_superficie": 1650,
-     "forma": [
-      "P hard vs Alexander Bublik",
-      "G hard vs Zangar Nurlanuly",
-      "P hard vs Karen Khachanov",
-      "G hard vs Corentin Moutet",
-      "P hard vs Alex de Minaur"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Sigue el tenis en directo a través de Flashscore - Flashscore.cl",
-       "fuente": "Flashscore.cl",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXBmaDB2OVlweUgzOWE4UzFiUmdjNFJheXNESmlDMTR6Z1dEZ1J2SW5sZ2h3M0xhSTlPWk1XQW5kVkZuOTRzN3VwbzRsSG1WclpWVzNiUXp5RGZLdmROMUw3UDlELTZOdkZoRG9nTWFONXZjNHVzSnRIRzJ3cHFZbWFSTm9oS3labm40djNRZDdhRjNVVHNOQg?oc=5"
-      },
-      {
-       "titulo": "Tomas Machac - Martin Landaluce en directo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHp0eHZPWkMyRlVRc0dZcTIxdlBzZHcxbjY0WE1ORzZBUVp0djdBdUlNc2g2SkwyXzcxSF9iNGhDMFUxMkFtd05pWTRRWFQ0OEh5Nmk2bG0wbWs1dU1LLUVBSDFUeFVrMjdydGZtdzgydjU2STdkdEdfV0dDTndvakg5U2NaOXdJVE9mbEVB?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Martin Landaluce",
-     "mercado": 0.356,
-     "elo": 1464,
-     "elo_superficie": 1480,
-     "forma": [
-      "P hard vs Jacob Fearnley",
-      "P hard vs Marco Trungelliti",
-      "P hard vs Jan-Lennard Struff",
-      "P hard vs Stan Wawrinka",
-      "P hard vs Alexander Zverev"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Highlights: Zverev vence a Landaluce en Viena tras salvar cuatro match points - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVh6T3o1LU5wVmlVMHhZS2xXd1FEUG9DaldXU2MwX1JhTExKSUs2R3FfLUFkYmRLdlA0VExOeGR6eHR0WnluZGxGUXRLaEtDXzlMclZPd2tuc1VQWGhxZnhwVGc1US11dTBVald1VGhIS19uUlQ0TXpGRS05V0VCOXFQMHN5Wl9OblVoZVNTMDVNLUN6T1hFUG1RSFhPRnRaeDJiT1kwdjBUNjNtNGc?oc=5"
-      },
-      {
-       "titulo": "Tomas Machac - Martin Landaluce en directo - ATP Roland Garros 31 de octubre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHp0eHZPWkMyRlVRc0dZcTIxdlBzZHcxbjY0WE1ORzZBUVp0djdBdUlNc2g2SkwyXzcxSF9iNGhDMFUxMkFtd05pWTRRWFQ0OEh5Nmk2bG0wbWs1dU1LLUVBSDFUeFVrMjdydGZtdzgydjU2STdkdEdfV0dDTndvakg5U2NaOXdJVE9mbEVB?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Alcaraz, Quevedo, Munar, Landaluce y Carreño saltan a pista - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-10-31",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkVDRVZlZnFHVjVVcjl6Tmt1NTV0ejJZWFpmX1RqV0t2S210VFMtN2t5MEpDdkdUc3hULXJneVRteElZLTFoU0xiWi1LRGlaWkFIVW5NcFpHS3ZWeWFDR2wtOWtjQ1RfNmFUZWpTYnhxdFdZaGg5OXVCenZVVmpFVUNhaHJHWDVDdjVXaEFzQXlKbXlqbUJBTkw5RWZoQQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "d2d80372138d7a9fb0ac07d2ff097c5e": {
    "id": "d2d80372138d7a9fb0ac07d2ff097c5e",
    "jugadores": [
@@ -9783,7 +9525,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T11:10+00:00",
+   "actualizado": "2026-11-07T12:10+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -9871,7 +9613,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T11:10+00:00",
+   "actualizado": "2026-11-07T12:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,
@@ -9895,22 +9637,22 @@
      "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
      "noticias": [
       {
+       "titulo": "Highlights: Ruud sorprende a Jódar y avanza en París - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2RrR1VwY3FUNXJ2LURQVm5oTDhneTZUaFBUdEp5bmRMeUZvY1BQNlk3NVVRWnU1dlpOUi12cTJPeUhGcS1iVGEzYlJqVEVPV2x5V3dDMmJtNkxaZkpNMTBFX09SQk43VFdFR2Ixb241aG9YY3F5dGpoSnpRc3RKTDI1S0NwTmpKUnR0WDdfclRhRTg?oc=5"
+      },
+      {
        "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
        "fuente": "La Opinión de Murcia",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
       },
       {
-       "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
+       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
+       "fuente": "La Opinión de Murcia",
        "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1RXdWxzV2FSc1gtSHVhYTl5dVphVmU3YWdQNUQxMXBCQUxoemdhdWIwYjJKX0N0S01LaFBtbkNGYTRXZWFERnFwS3dlS1JUTUttb240QUdBWmw2Z3FYT3ZFWWtCUDhISVI2TlkyeDZReFc3cjQtcE5ua1Z3QUZkVmhYUncydVhjQXhXendKbmduU0s0dnp5YkVfSmhYRGsxYTViaXgtbjR2clFTTENiWEl3Y0h4aXFtX1E?oc=5"
-      },
-      {
-       "titulo": "Ruud, rival de Alcaraz en París, revela el calvario que ha vivido: \"Era la primera vez que sentía la necesidad de apagar el despertador por la mañana. Me entrenaba porque era mi trabajo, no porque tuviera ganas de mejorar. Me asustó sentir eso. Busqué ayu - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQWmt2NkZLRTM0WHppS01nd2E1RXZtQ09PVjNYMEx1R3NMUjRPa2NRWTdTUmtRTjl1VUJqbVVjY3BkYlJNQkZLbXRNNEJ5VVRpY1ZOaGlhQnJvN3dhQi10SW1Xb1puWHM4VUJXRU5ZQ19EQWN3UHhFVndHSTNqNUc3c2hCUGw3dHQ0cFR5M1BZb29MUnYtUXJOcThWa2tqSXFwZ1VQRDlJdWktYWQ1S1lOalN3NnFMNVhTRFhRZ3R4ZVp6QmVaVmRHTll6X2NKM0EtSVZHalZTXzNkdTJjeGFmbkdvdzQ2WjdRRU1YVXlUMEtKN01uRUtTSDJhQW5Zb1Q5TTdMbldEeVJjTDNMbF9Qa2hMNzFyaU5pbWg4anlybnJ6SnJDeFNzalRmbElYazRNd0g5SzRXVy1VcllWVHpPUWU5RmxsajloNmNlSl9qM3FlTl8wb1E3MEhFSnY1QjhT0gHuAkFVX3lxTE5MYWtQejd3aHFYLU9hUU80aGd6VjlwYkpMMTZNVmN6YjIyZ2pBSmY4RmJNM2p0aUxuNXdvaWh3dEQxTVhJUlFoRk10OXFab3ZjSmNlNmlkemthcTBMZTd6bTFWakwwb040UEVtOHVVYjBlTWpVMU5jZVlzMC13ZlozUkI0bkU5LVpFVXhWTXExTEI3ZldIS3A2cHN2UTVKbExDWGE5cFIyMjV0dmFWWm0tdXpzVmdjcXRobWN2eU9HYUUtLWQ3eVRlVnJPSF9FVUxMcmQzYjRIUi1ja1JpTjg5QTRUMGYxOHJCSnczZEIwcjZfczduQVFUTGtzcGRNUm5rNWdlekVSMFg3T2F4T0JkblFPZFJlUVB5eHRiN3dmTlZJUlEwUXJjZkVibzJEZlRUcm5BdW1YTldOemFYeVBXSTdwUGcyQ3hLZUZjZEFVbDBvQ04yM245RFpTR2o3MUdkdjVfZzlWNGt0MWQ1dw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZA?oc=5"
       }
      ]
     },
@@ -9935,16 +9677,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZNIBqgFBVV95cUxOd01CVVZCV2JuSUhkckRHbEtlbEFHSXowczNEVVBVcHVOS0dXN2szNVllUkE4NFhnMzVlRXhFSUZ3NS02RHF2Z1A0YkFIaTlFeFBKaDg5VnFHa0FpTEJnelp0X0NSRnBDUm1hdTk5VHZ1VGpjTVJrS053d2FOMFRhUEVYU05sRkxza3B2SGV0NnlHd2x2R0ZzM3I1QXpfZmV2ZVRlZUQ3RmxwQQ?oc=5"
       },
       {
+       "titulo": "Carlos Alcaraz-Casper Ruud, en el Masters de París: dónde verlo y a qué hora - La Opinión de Murcia",
+       "fuente": "La Opinión de Murcia",
+       "fecha": "2026-11-07",
+       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG1ZQUFwTWFobHJPQUs4ZlBpaUpGX0haYk9hM1pvR3dlbnRDckJvVmRCTEFuSkNEaGJnZktOVXloTVBOTTZKV1gtbDNXQ3ZyRjR5TW1PM21YRk9mRGpMLURHODNaWktNWDVZeERnYjNTaHNJb3ZLREFTTXJYTjZtNHJWOEJPM1M0bC1OV29yejdmWlpsVS1qWXdVNVdYV0RsVUFRZA?oc=5"
+      },
+      {
        "titulo": "Carlos Alcaraz y las semifinales de París que valen una clasificación histórica para Rafa Jódar - El Confidencial",
        "fuente": "El Confidencial",
        "fecha": "2026-11-07",
        "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnhIUUpDVFdhZ3RUNGl1QXQya2V5bU1fS0VoX0tOb1lTeDRXR0p0S0VUREpPMW4xbmotQVY0VU11Z2kwc280eWtscTkwSDFpXy1hLVJTZ05ESUJQQlh0OTJrZ2NUclc0NFNPeHk4VVRlUTlMSWZGa2V3OW85UVhveGZTZFlNTy0zT0h1UHIwTmFkb1lVb2U0dEJQcTh0ZU01YnU1QXZUYmJrUTdKblB5TQ?oc=5"
-      },
-      {
-       "titulo": "Alcaraz vs. Ruud: horario y dónde ver por TV el partido del Masters 1000 de París - El Confidencial",
-       "fuente": "El Confidencial",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1RXdWxzV2FSc1gtSHVhYTl5dVphVmU3YWdQNUQxMXBCQUxoemdhdWIwYjJKX0N0S01LaFBtbkNGYTRXZWFERnFwS3dlS1JUTUttb240QUdBWmw2Z3FYT3ZFWWtCUDhISVI2TlkyeDZReFc3cjQtcE5ua1Z3QUZkVmhYUncydVhjQXhXendKbmduU0s0dnp5YkVfSmhYRGsxYTViaXgtbjR2clFTTENiWEl3Y0h4aXFtX1E?oc=5"
       }
      ]
     }

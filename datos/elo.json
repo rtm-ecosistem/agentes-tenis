@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T08:10+00:00",
+ "actualizado": "2026-11-07T12:10+00:00",
  "jugadores": {
   "dimitrov|g": {
    "nombre": "Grigor Dimitrov",
@@ -7916,19 +7916,18 @@
    "nombre": "Francesco Passaro",
    "circuito": "ATP",
    "elo": {
-    "all": 1581.1,
-    "hard": 1552.6,
+    "all": 1564.7,
+    "hard": 1535.7,
     "clay": 1521.9,
     "grass": 1500.0
    },
    "n": {
-    "all": 35,
-    "hard": 18,
+    "all": 36,
+    "hard": 19,
     "clay": 17,
     "grass": 0
    },
    "ultimos": [
-    "2026-02-14 G clay vs Elmer Moller",
     "2026-02-15 P clay vs Vilius Gaubas",
     "2026-02-17 G clay vs Dino Prizmic",
     "2026-02-18 P clay vs Alejandro Tabilo",
@@ -7937,7 +7936,8 @@
     "2026-08-24 G hard vs Felix Gill",
     "2026-08-26 G hard vs Tom Gentzsch",
     "2026-08-28 G hard vs Shintaro Mochizuki",
-    "2026-09-02 P hard vs Jesper de Jong"
+    "2026-09-02 P hard vs Jesper de Jong",
+    "2026-11-07 P hard vs Nikoloz Basilashvili"
    ]
   },
   "rodionov|j": {
@@ -11157,19 +11157,18 @@
    "nombre": "Nikoloz Basilashvili",
    "circuito": "ATP",
    "elo": {
-    "all": 1738.6,
-    "hard": 1755.8,
+    "all": 1751.4,
+    "hard": 1767.2,
     "clay": 1381.1,
     "grass": 1470.5
    },
    "n": {
-    "all": 70,
-    "hard": 57,
+    "all": 71,
+    "hard": 58,
     "clay": 10,
     "grass": 3
    },
    "ultimos": [
-    "2026-10-06 G hard vs Liam Draxl",
     "2026-10-17 G hard vs Taro Daniel",
     "2026-10-18 G hard vs Adam Walton",
     "2026-10-19 G hard vs Marin Cilic",
@@ -11178,7 +11177,8 @@
     "2026-10-24 G hard vs Stefanos Tsitsipas",
     "2026-10-25 P hard vs Daniil Medvedev",
     "2026-10-28 G hard vs Jurij Rodionov",
-    "2026-10-29 P hard vs Carlos Alcaraz"
+    "2026-10-29 P hard vs Carlos Alcaraz",
+    "2026-11-07 G hard vs Francesco Passaro"
    ]
   },
   "onclin|g": {
@@ -18159,19 +18159,18 @@
    "nombre": "Alexandra Eala",
    "circuito": "WTA",
    "elo": {
-    "all": 1824.7,
-    "hard": 1786.2,
+    "all": 1846.1,
+    "hard": 1813.1,
     "clay": 1428.3,
     "grass": 1727.8
    },
    "n": {
-    "all": 68,
-    "hard": 50,
+    "all": 69,
+    "hard": 51,
     "clay": 4,
     "grass": 14
    },
    "ultimos": [
-    "2026-09-05 P hard vs Iva Jovic",
     "2026-09-24 P hard vs Tatiana Prozorova",
     "2026-10-12 P hard vs Shi Han",
     "2026-10-19 G hard vs Diane Parry",
@@ -18180,7 +18179,8 @@
     "2026-10-28 G hard vs Talia Gibson",
     "2026-10-30 P hard vs Diana Shnaider",
     "2026-11-03 G hard vs Emerson Jones",
-    "2026-11-05 G hard vs Tereza Valentova"
+    "2026-11-05 G hard vs Tereza Valentova",
+    "2026-11-07 G hard vs Maria Sakkari"
    ]
   },
   "parks|a": {
@@ -24361,19 +24361,18 @@
    "nombre": "Maria Sakkari",
    "circuito": "ATP",
    "elo": {
-    "all": 1807.8,
-    "hard": 1809.7,
+    "all": 1783.5,
+    "hard": 1780.0,
     "clay": 1514.8,
     "grass": 1523.1
    },
    "n": {
-    "all": 48,
-    "hard": 38,
+    "all": 49,
+    "hard": 39,
     "clay": 6,
     "grass": 4
    },
    "ultimos": [
-    "2026-10-03 G hard vs Storm Hunter",
     "2026-10-05 P hard vs Elina Svitolina",
     "2026-10-12 G hard vs Donna Vekic",
     "2026-10-13 G hard vs Marta Kostyuk",
@@ -24382,7 +24381,8 @@
     "2026-10-27 P hard vs Yulia Putintseva",
     "2026-11-02 G hard vs Carol Young Suh Lee",
     "2026-11-04 G hard vs Maya Joint",
-    "2026-11-06 G hard vs Aliaksandra Sasnovich"
+    "2026-11-06 G hard vs Aliaksandra Sasnovich",
+    "2026-11-07 P hard vs Alexandra Eala"
    ]
   },
   "bouzas maneiro|j": {
@@ -92009,7 +92009,15 @@
   "liu|c~shubladze|a": [
    1,
    0
+  ],
+  "eala|a~sakkari|m": [
+   1,
+   0
+  ],
+  "basilashvili|n~passaro|f": [
+   1,
+   0
   ]
  },
- "propios": 10685
+ "propios": 10687
 }

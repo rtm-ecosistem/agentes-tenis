@@ -241987,6 +241987,52 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Alexandra Eala",
+    "Maria Sakkari"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Bybit Stockholm Open",
+   "circuito": "ATP",
+   "jugadores": [
+    "Francesco Passaro",
+    "Nikoloz Basilashvili"
+   ],
+   "ganador": 1,
+   "sets": [
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     6
+    ]
+   ],
+   "completo": true
   }
  ]
 }
