@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T08:01+00:00",
+ "actualizado": "2026-11-07T08:10+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -25,7 +25,7 @@
   "actualizado": "2026-11-07T08:00+00:00",
   "prevision_mes": 89,
   "noticias": {
-   "dia": "2026-11-06",
+   "dia": "2026-11-07",
    "gastados": 0,
    "partidos": [],
    "pendientes": {}
@@ -1933,6 +1933,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-07T08:10+00:00",
+   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-07T08:10+00:00",
+   "texto": "📰 Noticias nuevas de Luca Van Assche – Ben Shelton, Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2070,16 +2080,6 @@
   {
    "hora": "2026-11-06T09:10+00:00",
    "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
   }
  ],
@@ -8841,7 +8841,7 @@
    "inicio": "2026-11-07T13:30+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T08:00+00:00",
+   "actualizado": "2026-11-07T08:10+00:00",
    "elo": 0.222,
    "elo_general": 0.248,
    "elo_en_superficie": 0.196,
@@ -8929,7 +8929,7 @@
    "inicio": "2026-11-07T16:00+00:00",
    "torneo": "ATP Paris Masters",
    "superficie": "hard",
-   "actualizado": "2026-11-07T08:00+00:00",
+   "actualizado": "2026-11-07T08:10+00:00",
    "elo": 0.149,
    "elo_general": 0.138,
    "elo_en_superficie": 0.159,

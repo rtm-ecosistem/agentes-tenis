@@ -241966,6 +241966,27 @@
     ]
    ],
    "completo": true
+  },
+  {
+   "fecha": "2026-11-07",
+   "torneo": "Prudential Hong Kong Tennis Open",
+   "circuito": "WTA",
+   "jugadores": [
+    "Claire Liu",
+    "Alexandra Shubladze"
+   ],
+   "ganador": 0,
+   "sets": [
+    [
+     7,
+     5
+    ],
+    [
+     6,
+     4
+    ]
+   ],
+   "completo": true
   }
  ]
 }
