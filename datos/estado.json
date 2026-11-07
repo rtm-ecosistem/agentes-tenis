@@ -171,7 +171,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 9 días sin apostar."
     },
-    "hora": "2026-11-07T11:10+00:00",
+    "hora": "2026-11-07T11:18+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -333,7 +333,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:10+00:00",
+    "hora": "2026-11-07T11:18+00:00",
     "rent": 0.0
    }
   },
@@ -482,7 +482,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:10+00:00",
+    "hora": "2026-11-07T11:18+00:00",
     "rent": 0.0
    }
   },
@@ -644,7 +644,7 @@
      "impaciencia": "Lleva 4 días sin ver ninguna apuesta clara.",
      "aburrimiento": "Lleva 10 días sin apostar."
     },
-    "hora": "2026-11-07T11:10+00:00",
+    "hora": "2026-11-07T11:18+00:00",
     "rent": 0.0
    }
   }
@@ -2618,10 +2618,12 @@
  "ultima_decision": "2026-11-07",
  "ultima_sala": "2026-11-06-20",
  "noticias_vistas": [
+  "32cdbdb11bbd",
   "9b328b48647f",
   "c156031af6cf",
-  "7910724ca5f2",
+  "a2ce6b7b5c57",
   "92ee25f2ac65",
+  "7910724ca5f2",
   "478530681674",
   "7faf34fa0610",
   "1c38ddc29436",
@@ -2702,10 +2704,12 @@
   "4aba78bbd808",
   "310626b106da",
   "0c634a6752b9",
+  "a39608c25f25",
   "98e7351ee7cb",
   "7cb000e5e7a4",
   "f955d6c0a7db",
   "b1e2f60ebd65",
+  "e4cc76054e36",
   "4b1d3ed1e507",
   "4eaa9319a158",
   "06c2ef2f33d9",
@@ -2728,8 +2732,8 @@
   "901e269a56ff",
   "42e4b88e4d9c",
   "002cf6c40e7e",
-  "10b4724a82a0",
   "e5acf85e0cb6",
+  "10b4724a82a0",
   "9241bb3ecadb",
   "f5b5a4a59b30",
   "26eb3b428194",
@@ -3021,7 +3025,6 @@
   "2781bf8144c6",
   "eb0e9e8dec68",
   "8d0498cce81d",
-  "e4cc76054e36",
   "03ea22aa10a5",
   "7a22a129097f",
   "7cece8c7f09f",
@@ -3414,10 +3417,7 @@
   "2229456db554",
   "6a29c1345036",
   "95c9deb32475",
-  "bb08228cd005",
-  "0e1ce0bcf4c4",
-  "cf048b23e69f",
-  "257b9103ce6a"
+  "bb08228cd005"
  ],
  "sala_aciertos": {
   "favorito": [
