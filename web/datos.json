@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T15:19+00:00",
+ "actualizado": "2026-11-09T19:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -1026,58 +1026,7 @@
  ],
  "cartelera": {
   "actualizado": "2026-11-07T08:00+00:00",
-  "partidos": [
-   {
-    "id": "d4b8a9b232417b21fd0dd2de1af179ee",
-    "deporte": "tennis_atp_paris_masters",
-    "torneo": "ATP Paris Masters",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-07T16:00+00:00",
-    "jugadores": [
-     "Casper Ruud",
-     "Carlos Alcaraz"
-    ],
-    "opciones": [
-     {
-      "id": "d4b8a9b232417b21fd0dd2de1af179ee|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.17,
-      "pinnacle": 1.19
-     },
-     {
-      "id": "d4b8a9b232417b21fd0dd2de1af179ee|h2h|Casper Ruud|",
-      "mercado": "h2h",
-      "nombre": "Casper Ruud",
-      "punto": null,
-      "cuota": 5.2,
-      "pinnacle": 5.25
-     },
-     {
-      "id": "d4b8a9b232417b21fd0dd2de1af179ee|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.88,
-      "pinnacle": 1.92
-     },
-     {
-      "id": "d4b8a9b232417b21fd0dd2de1af179ee|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.83,
-      "pinnacle": 1.95
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.19,
-     "Casper Ruud": 5.25
-    }
-   }
-  ]
+  "partidos": []
  },
  "apuestas": [
   {
