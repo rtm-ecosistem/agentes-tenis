@@ -2195,16 +2195,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-05T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-05T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-05T08:10+00:00",
    "texto": "📰 Noticias nuevas de Tommy Paul – Quentin Halys, Ben Shelton – Arthur Rinderknech, Lorenzo Musetti – Luca Van Assche…: la sala actualiza su informe.",
    "tipo": "info"
@@ -2593,6 +2583,16 @@
    "hora": "2026-11-07T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-10T08:00+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-10T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2600,8 +2600,8 @@
   "gastados_mes": 27,
   "restantes": 473,
   "usados": 27,
-  "actualizado": "2026-11-07T08:00+00:00",
-  "prevision_mes": 89,
+  "actualizado": "2026-11-10T08:00+00:00",
+  "prevision_mes": 54,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2611,11 +2611,11 @@
  },
  "casa": "betsson",
  "cobertura": {
-  "williamhill": 2002,
-  "sport888": 2002,
-  "betsson": 2004
+  "williamhill": 0,
+  "sport888": 0,
+  "betsson": 0
  },
- "ultima_decision": "2026-11-07",
+ "ultima_decision": "2026-11-10",
  "ultima_sala": "2026-11-09-20",
  "noticias_vistas": [
   "82968b4d4d41",
@@ -9360,15 +9360,8 @@
   ]
  },
  "mercados_casas": {
-  "williamhill": {
-   "h2h": 2
-  },
-  "sport888": {
-   "h2h": 2
-  },
-  "betsson": {
-   "h2h": 2,
-   "totals": 2
-  }
+  "williamhill": {},
+  "sport888": {},
+  "betsson": {}
  }
 }

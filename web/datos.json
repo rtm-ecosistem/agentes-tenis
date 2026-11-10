@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T19:01+00:00",
+ "actualizado": "2026-11-10T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 2002,
-  "sport888": 2002,
-  "betsson": 2004
+  "williamhill": 0,
+  "sport888": 0,
+  "betsson": 0
  },
  "creditos": {
   "mes": "2026-11",
   "gastados_mes": 27,
   "restantes": 473,
   "usados": 27,
-  "actualizado": "2026-11-07T08:00+00:00",
-  "prevision_mes": 89,
+  "actualizado": "2026-11-10T08:00+00:00",
+  "prevision_mes": 54,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -1025,7 +1025,7 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-07T08:00+00:00",
+  "actualizado": "2026-11-10T08:00+00:00",
   "partidos": []
  },
  "apuestas": [
@@ -1832,6 +1832,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-10T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-10T08:00+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-07T15:10+00:00",
    "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
    "tipo": "info"
@@ -1970,19 +1980,9 @@
    "hora": "2026-11-06T15:28+00:00",
    "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz, Casper Ruud – Nuno Borges: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T15:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T15:10+00:00",
-   "texto": "📰 Noticias nuevas de Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-07",
+ "ultima_decision": "2026-11-10",
  "oficina": {
   "total": {
    "apuestas": 2,
