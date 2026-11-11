@@ -2606,7 +2606,7 @@
   "betsson": 2004
  },
  "ultima_decision": "2026-11-11",
- "ultima_sala": "2026-11-10-20",
+ "ultima_sala": "2026-11-11-14",
  "noticias_vistas": [
   "82968b4d4d41",
   "a55da71a6dfd",
@@ -3434,622 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "3d3a05094b9f2796c2b3d68ef4b43c66": {
-   "id": "3d3a05094b9f2796c2b3d68ef4b43c66",
-   "jugadores": [
-    "Mattia Bellucci",
-    "Arthur Rinderknech"
-   ],
-   "inicio": "2026-11-04T10:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T09:10+00:00",
-   "elo": 0.589,
-   "elo_general": 0.526,
-   "elo_en_superficie": 0.652,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Mattia Bellucci",
-     "mercado": 0.562,
-     "elo": 1649,
-     "elo_superficie": 1676,
-     "forma": [
-      "G hard vs Tomas Martin Etcheverry",
-      "P hard vs Terence Atmane",
-      "G hard vs Pablo Carreno Busta",
-      "G hard vs Thiago Agustin Tirante",
-      "G hard vs Lorenzo Sonego"
-     ],
-     "cansancio": "2 partidos, 4 sets y 39 juegos en 3 días; el último el 2026-11-02 contra Lorenzo Sonego, ganó 6-4 6-3",
-     "noticias": [
-      {
-       "titulo": "Mattia Bellucci - Arthur Rinderknech en vivo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2JjOUdJczNlQzdFOHlLSFVFX0pXd3RXTjJYT0drTXEtNnlJZ0tpY1MwR05vaE5KVFBqZFU3anVhWndURTE5U1BKU3pvTE5KaWRJWjl0aXEwRzFKV1d2TnAtRUN1QkJDQzFLbVZpM3RyMkVYNG50MUpPeW52R0ItOWkwaDdEaWpMVWZnODVjZTZuWTMzU2c?oc=5"
-      },
-      {
-       "titulo": "Mattia Bellucci vs Arthur Rinderknech · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUkwcGNlZENkNWZUMjRkaTRpd1hmQUE0N1VxZFpJTUNXT0Nxc2FIUVVZS2E5UXMyQmVITHhKTFVEX05tb2U5VHFlbTdKbHExQzRhSlN4LWFseXpnbWRXX0JodmZpZ1NheDNaVW51RktJSWJZc0s0cnJnWnBvd3pESFpFVlJ6ZWxmV3k1ejVZQ2RZbnlqd1FfNEJlLWhQNFlLWDc0?oc=5"
-      },
-      {
-       "titulo": "Mattia Bellucci tiene un objetivo claro: «Lo daré todo para entrar en el top 50» - Tennis World Italia",
-       "fuente": "Tennis World Italia",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTNiSDFOQkEzU1JYZU4wbDVncDZfTDVKSTU0NXF1dHcxTjNrMDRTSjhNbXlUMXl2ZDFrY1NZU1MxTlhNV3F1MGpCaU94Y1VjNjZGVXJGcmdDS3YyUVJoNGNMTS0yYzNmMUUwT0xBb0xaaXlZMHNGWVlyalFBQlhnM2FhTDdkWVphLUtvVlVtNTUyU1o0ODZtaVlhUDVvT2xLMEdsVVJsVWFsWmpwMlpydE9CNTRyMktfeW5JanJZY253cGh0eHczZ2VMX1pMQlZEeVloNmpRZjdycm92Zy11cnE4cE5KUTQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Arthur Rinderknech",
-     "mercado": 0.438,
-     "elo": 1631,
-     "elo_superficie": 1567,
-     "forma": [
-      "P hard vs Juan Manuel Cerundolo",
-      "G hard vs Sho Shimabukuro",
-      "G hard vs Jaume Munar",
-      "P hard vs Daniil Medvedev",
-      "P hard vs Jerome Kym"
-     ],
-     "cansancio": "1 partidos, 3 sets y 24 juegos en 3 días; el último el 2026-11-03 contra Francisco Cerundolo, ganó 3-6 7-6 2-0",
-     "noticias": [
-      {
-       "titulo": "Mattia Bellucci - Arthur Rinderknech en vivo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2JjOUdJczNlQzdFOHlLSFVFX0pXd3RXTjJYT0drTXEtNnlJZ0tpY1MwR05vaE5KVFBqZFU3anVhWndURTE5U1BKU3pvTE5KaWRJWjl0aXEwRzFKV1d2TnAtRUN1QkJDQzFLbVZpM3RyMkVYNG50MUpPeW52R0ItOWkwaDdEaWpMVWZnODVjZTZuWTMzU2c?oc=5"
-      },
-      {
-       "titulo": "Etcheverry eliminó a Rublev y Francisco Cerúndolo abandonó ante Rinderknech | 3 de noviembre de 2026 - Hoy Día Córdoba",
-       "fuente": "Hoy Día Córdoba",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjlzS2xxV3E3dU5xX2toZXR6Sjl1OEV0TXhpVEhzcnQteGhlQ1FQcnYtNXIxYktiNnZLZEJ1aWl0LUJVNS01aEJ2ZWl3X1JRVWZtd2VOU3hrZXQ0SnJLNVdaOEE3c1NTWWQ4UU11amlWNEJhSXltNDF4MlJONXlkMEI3M0RadVFwWWVXRDFvdW03WlJtWGpicTl6VUNPVGdtNC1LMHJfanR1dG5sUm9vcVByRG92dWts0gG4AUFVX3lxTE1yOXNLbHFXcTd1TnFfa2hldHpKOXU4RXRNeGlUSHNydC14aGVDUVBydi01cjFiS2I2dktkQnVpaXQtQlU1LTVoQnZlaXdfUlFVZm13ZU5TeGtldDRKcks1V1o4QTdzU1NZZDhRTXVqaVY0QmFJeW00MXgyUk41eWQwQjczRFp1UXBZZVdEMW91bTdaUm1YamJxOXpVQ09UZ200LUswcl9qdHV0bmxSb29xUHJEb3Z1a2w?oc=5"
-      },
-      {
-       "titulo": "Mattia Bellucci vs Arthur Rinderknech · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUkwcGNlZENkNWZUMjRkaTRpd1hmQUE0N1VxZFpJTUNXT0Nxc2FIUVVZS2E5UXMyQmVITHhKTFVEX05tb2U5VHFlbTdKbHExQzRhSlN4LWFseXpnbWRXX0JodmZpZ1NheDNaVW51RktJSWJZc0s0cnJnWnBvd3pESFpFVlJ6ZWxmV3k1ejVZQ2RZbnlqd1FfNEJlLWhQNFlLWDc0?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "b1f8e4cc08a752752738c51105899ad6": {
-   "id": "b1f8e4cc08a752752738c51105899ad6",
-   "jugadores": [
-    "Quentin Halys",
-    "Frances Tiafoe"
-   ],
-   "inicio": "2026-11-04T10:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T09:10+00:00",
-   "elo": 0.3,
-   "elo_general": 0.315,
-   "elo_en_superficie": 0.286,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Quentin Halys",
-     "mercado": 0.417,
-     "elo": 1719,
-     "elo_superficie": 1697,
-     "forma": [
-      "G hard vs Coleman Wong",
-      "G hard vs Alexander Blockx",
-      "P hard vs Alexander Zverev",
-      "P hard vs Holger Rune",
-      "G hard vs Arthur Fery"
-     ],
-     "cansancio": "1 partidos, 2 sets y 25 juegos en 3 días; el último el 2026-11-03 contra Arthur Fery, ganó 7-6 7-5",
-     "noticias": [
-      {
-       "titulo": "Quentin Halys - Frances Tiafoe, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1ZFcmgtUEtHSFphR3E0Ym9Ca1lzMG1mTmVmNE5CWWlzdHhGMGJvLTYxMzIxaGM5bGJwbEZQU052b04zd1NmdHVBc0d0RktURjRuaU5qN2l6TGJ6NEVOc3owa1kxS0FtNXVfZW13QlVQNlNLRmJvWm1tdUY4V1dMQUF3UWlwc0FWTEhzdlY2ZEpDNks5dk9Vclpqb2dqU1NabE5TX0JVTVAxVG9tUFlQck16Vl9lRUZfZllnLU51N3E0MGc2WmlMZ29SakFhUF90ZUg1T1oweXh5S25SNnFwWDVJYkhMclZTckxrOG9Cdw?oc=5"
-      },
-      {
-       "titulo": "¿Cuáles fueron los resultados de París? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQkkwUTZzZXJCalZQRGczMEZsdWZnQm9LcHlSczVtU190WW0zd0xfWkp2N2lyZy11Tk5kZHRPb2NULWV4cVBQRmEzN2hZY0luVFQtT282VU04UlptWVRr?oc=5"
-      },
-      {
-       "titulo": "Granollers / Zeballos vs Halys / Herbert · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDAyZFlQTncxUXY4Nm5ZOXlFMU9RRS1YbkVEWEZSamt6XzNLMGpGMm9VOFJRQ1VsdnExaC1rRGtGalJuRVpkcnBNN3pBdVFpVUloclppRUVfSWVKVFgtUE1OVklKdkU2eTZ1cHI2ZWU3S2NMR2NNMGpVaHpDRFRSNzBrTGNDQjVMWnY5YkFRQ0hLa1FsYXU1TENlUGVzQjFPUGs3X3g1NWVCWmxTX1Zxb1pSaW5HRjVQZ1FVTg?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Frances Tiafoe",
-     "mercado": 0.583,
-     "elo": 1854,
-     "elo_superficie": 1856,
-     "forma": [
-      "G hard vs Kei Nishikori",
-      "P hard vs Arthur Fils",
-      "G hard vs Yannick Hanfmann",
-      "P hard vs Alejandro Davidovich Fokina",
-      "P hard vs Lorenzo Musetti"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Quentin Halys - Frances Tiafoe, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ1ZFcmgtUEtHSFphR3E0Ym9Ca1lzMG1mTmVmNE5CWWlzdHhGMGJvLTYxMzIxaGM5bGJwbEZQU052b04zd1NmdHVBc0d0RktURjRuaU5qN2l6TGJ6NEVOc3owa1kxS0FtNXVfZW13QlVQNlNLRmJvWm1tdUY4V1dMQUF3UWlwc0FWTEhzdlY2ZEpDNks5dk9Vclpqb2dqU1NabE5TX0JVTVAxVG9tUFlQck16Vl9lRUZfZllnLU51N3E0MGc2WmlMZ29SakFhUF90ZUg1T1oweXh5S25SNnFwWDVJYkhMclZTckxrOG9Cdw?oc=5"
-      },
-      {
-       "titulo": "Quentin Halys - Frances Tiafoe en vivo - Rolex Paris Masters 4 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTZ5WVpvUjNvUl9CUVhtYzdZTGg2bHozOXBQVEphbDBjMk5pV0RiRldGSTBrVUxfV1YtYi01blhNelRHM1Jzc2h3anJUdVByQ2dOdnIxQXFpckJ4NXBtLUZIYmU1NG1TWnAzV1pBM1VZeTV2U0tzb25LNFZLSXAtNTktRDltVjBNWEhXSkhR?oc=5"
-      },
-      {
-       "titulo": "Djokovic batalló para remontar ante Vacherot en su estreno en el Masters de París - Cooperativa",
-       "fuente": "Cooperativa",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1NVUUw3ZzN1TFotNFBaNldQUnd1VlV6UFljemI5c1lzbE1md3JPQ3VzemhEUHA5dGFabVJVQVBrNmhfaUV6dlB5ZmNudWYxcVcyWnNGMW9vS0pwZmRGcDN2MUxEdGVsb0Z2MVFjRnZtamJ2b2FBREJ6TS1lT0dxMDhiRDBGRG5TLWxhWtIBjAFBVV95cUxOc1NVUUw3ZzN1TFotNFBaNldQUnd1VlV6UFljemI5c1lzbE1md3JPQ3VzemhEUHA5dGFabVJVQVBrNmhfaUV6dlB5ZmNudWYxcVcyWnNGMW9vS0pwZmRGcDN2MUxEdGVsb0Z2MVFjRnZtamJ2b2FBREJ6TS1lT0dxMDhiRDBGRG5TLWxhWg?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "4ce1d6b1ec3f3a58daf5d9c774afc3f6": {
-   "id": "4ce1d6b1ec3f3a58daf5d9c774afc3f6",
-   "jugadores": [
-    "Luca Van Assche",
-    "Learner Tien"
-   ],
-   "inicio": "2026-11-04T11:10+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T10:10+00:00",
-   "elo": 0.272,
-   "elo_general": 0.294,
-   "elo_en_superficie": 0.25,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Luca Van Assche",
-     "mercado": 0.373,
-     "elo": 1623,
-     "elo_superficie": 1574,
-     "forma": [
-      "G hard vs Clement Tabur",
-      "G hard vs Valentin Vacherot",
-      "P hard vs Lorenzo Musetti",
-      "P hard vs Learner Tien",
-      "G hard vs Mariano Navone"
-     ],
-     "cansancio": "1 partidos, 2 sets y 21 juegos en 3 días; el último el 2026-11-02 contra Mariano Navone, ganó 6-3 7-5",
-     "noticias": [
-      {
-       "titulo": "Luca Van Assche - Learner Tien en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEEyRDRYY3owQ3pRNTB0dnVBRTdPWm9nZnd4cDJRVTYwS0dIckxVamtiX1JTUXpWMHNXVWNuMTVILW9MNEhJWG5sdnRkdUFiYW5GN3JIMVNvYkVXY3V1WTNLbENUVHBQX0p3b01HbE12X3RydGZDSGczb0Qza204WWtVMjl1RGlxVGNteTNYZDFtUmJNczZlSVVqbllqTkplMHJyVWRtcVhlT2R5a19YaTI4Skw5UQ?oc=5"
-      },
-      {
-       "titulo": "Cash / Nakashima vs Vacherot / Van Assche · Round 1 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3lSYjltUWE4R055RkphV0tlaThtZ3U0My02d3lrZEdQaERFa1JNVjl6U2M1aS1wZlJnYXFKREY5N3E1YUZ5M0tHNFFJeHJ0SnZuRDlFUWJKUXlPN3ZTN2Q3ZGRzNHMtVU5tRlFMVTdOSC04Z0t2TXlNSVhGU1ZaY282ZDA4N3gyMFRxelVrNTZzMDNaUmF0eTVFV3RBS29RdkE4eGhiV0o3TGFWSzJJdnViMFN3SVhuUjJqU0ln?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche vs Learner Tien · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXlabGN2RHdSem94ME84SC1zdGtGWjNwY3huc0p6WlZmRFp6SjVLYnJEWGhZdXIzX1FJcFRqUFN2dzRRUDVVNUx5SUo2V20xS0tiSTE1aER6Rm5XLWlNOURocmZPSnctUGxwVEhJbGZyTEVSUUp4MFRHSjh1ZkRLbkhOUTZzTkt5aUg5MDBweGRYbk02UDZySVpvYW0?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Learner Tien",
-     "mercado": 0.627,
-     "elo": 1774,
-     "elo_superficie": 1766,
-     "forma": [
-      "P hard vs Hubert Hurkacz",
-      "G hard vs Zachary Svajda",
-      "P hard vs Casper Ruud",
-      "G hard vs Luca Van Assche",
-      "P hard vs Alex de Minaur"
-     ],
-     "cansancio": "1 partidos, 2 sets y 16 juegos en 3 días; el último el 2026-11-03 contra Adolfo Daniel Vallejo, ganó 6-3 4-3",
-     "noticias": [
-      {
-       "titulo": "Luca Van Assche - Learner Tien en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEEyRDRYY3owQ3pRNTB0dnVBRTdPWm9nZnd4cDJRVTYwS0dIckxVamtiX1JTUXpWMHNXVWNuMTVILW9MNEhJWG5sdnRkdUFiYW5GN3JIMVNvYkVXY3V1WTNLbENUVHBQX0p3b01HbE12X3RydGZDSGczb0Qza204WWtVMjl1RGlxVGNteTNYZDFtUmJNczZlSVVqbllqTkplMHJyVWRtcVhlT2R5a19YaTI4Skw5UQ?oc=5"
-      },
-      {
-       "titulo": "¿Cuál es la programación de Viena? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Tkt6VWZYbTQyMFZWcXJRTnpTQmtQSkQxY3RTUVA3WW5hMmtRYVF3Q1FPa1VOSWVhSHAya3Y2RUV2eGQ2NUd4UGxtUk1QQUtCTW9vdldTREhCSjJpLXVMMlNR?oc=5"
-      },
-      {
-       "titulo": "Hot Shot: Tien afina su puntería en París 2026 - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jSnBFNnEzNV9PSFREMWRpY1NEOHRwTE43RC1UZHZVQjRNNDV5QzFpc1BfLXJoRFRURFFxbjlTTnpCN1V5OHhwR2txR2JXSEltZVBFaXVlR3N3cXFDOGE1cmNZaDBpLURSYV9QcUlTajk0WnhFdjZVMEJlcGZxdw?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "bff9716e2c2e4b207744b20ff82a2241": {
-   "id": "bff9716e2c2e4b207744b20ff82a2241",
-   "jugadores": [
-    "Tommy Paul",
-    "Daniel Merida Aguilar"
-   ],
-   "inicio": "2026-11-04T11:30+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T10:10+00:00",
-   "elo": 0.668,
-   "elo_general": 0.658,
-   "elo_en_superficie": 0.677,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Tommy Paul",
-     "mercado": 0.791,
-     "elo": 1861,
-     "elo_superficie": 1857,
-     "forma": [
-      "P hard vs Taylor Fritz",
-      "G hard vs Andrey Rublev",
-      "G hard vs Luciano Darderi",
-      "P hard vs Carlos Alcaraz",
-      "G hard vs Holger Rune"
-     ],
-     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-03 contra Holger Rune, ganó 7-5 6-4",
-     "noticias": [
-      {
-       "titulo": "Las cuentas de Jódar para jugar las ATP Finals: De Miñaur, Djokovic, Fritz y Paul deciden su futuro - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdXNzUlUwYkNwMmhoUDFZXzNDX1dyeHlkSW1yTE9RWG9jT2txWlkyLUFTOVh6cWJvVVBmVy0wNERTblMtOW9FaEZWMk9vNGl0UG1uMDJTT0dwX1dYbzJneEZYS1lMTkVhUW1iTElLRlRuSW5SUnRMbU43bmNTZXRnd0hVYXlna2RLSTh5Zm5GeUYzU3prU1ZjWlVnS2JMd3FhUUdmMFBYTXdBWFBvdW50MjMxUzZPaWFYbC1oaldtUkU4djk5SGFsT0xEdmNjUF9MU041YXhITzhoREZUV3k2RGNLemxuQQ?oc=5"
-      },
-      {
-       "titulo": "Paula vanza en el Masters de París - Flashscore.cl",
-       "fuente": "Flashscore.cl",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1lTSWxZUGdfV2ttQnFjUDk1NEYySjlYS3o3Szhub1NtdzhkWW1QWU5nY3cxemVxcXRLMnRfMGlLbXMwRXdUM0xmYnhRVy1VanJ6S1ZWa3FDUFBIV1hqa0lmUXQ5MjdGS3Rib1g0czkwSlYwY0RhekhJU0h6Q1l1bEl1ekEzMElsalE5M0VQQ0Z6RDBmakMzWHdDVDVmZVRIQ2hoRUlBQ2Z5MVJKSHpGSjdLOGJkdw?oc=5"
-      },
-      {
-       "titulo": "Tommy Paul vs Daniel Merida Aguilar EN VIVO 04/11/2026 | Tenis - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnNXZ0dzWlcyYkotNC1oblJsQXoxc3VQUEh4ZkNfTnBlOEtRc0M4ZnZpM0Qzb0VaYWJlZTY2V19PTU5ib0Vpbm5leHBoQVhwZHJXYkRvTWhfa0JmTmtMQzBrOTF1cmdFZmxkT25xSTVsWkVhRU40Y0lOQnN2S0VEaW5VdWxNZUhTUlFYWlVJZkZqQ0xuMHVMSXhETQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Daniel Merida Aguilar",
-     "mercado": 0.209,
-     "elo": 1747,
-     "elo_superficie": 1728,
-     "forma": [
-      "G hard vs Andrey Rublev",
-      "P hard vs Alex Michelsen",
-      "P hard vs Botic van de Zandschulp",
-      "P hard vs Daniil Medvedev",
-      "G hard vs Sebastian Baez"
-     ],
-     "cansancio": "1 partidos, 2 sets y 18 juegos en 3 días; el último el 2026-11-02 contra Sebastian Baez, ganó 6-4 6-2",
-     "noticias": [
-      {
-       "titulo": "Tommy Paul vs Daniel Merida Aguilar EN VIVO 04/11/2026 | Tenis - Flashscore.com.ar",
-       "fuente": "Flashscore.com.ar",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnNXZ0dzWlcyYkotNC1oblJsQXoxc3VQUEh4ZkNfTnBlOEtRc0M4ZnZpM0Qzb0VaYWJlZTY2V19PTU5ib0Vpbm5leHBoQVhwZHJXYkRvTWhfa0JmTmtMQzBrOTF1cmdFZmxkT25xSTVsWkVhRU40Y0lOQnN2S0VEaW5VdWxNZUhTUlFYWlVJZkZqQ0xuMHVMSXhETQ?oc=5"
-      },
-      {
-       "titulo": "ATP Masters 1000 de París - Paul vs. Mérida Aguilar: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMnJyWnNxcnRIbkZWVThiQm5Oc3djM3RYcjkyS3ZPNnl3aFJQUFZfUUlWNDJ1N0M2a3RMcGJLRlAwNHdkdVp3NEhOQjVseDFPamY5NXYyWWNGRGNGR0s1ekxmTkdRS0tqaDZjVVpSQldENHZGVF9vTmh1bG1jS3FUbEctWVp3UmlsNEw2S2dlYVBaeTh4cU9wM28tMDZac0hZMU1Pb2w3UzJxNE5wZzEySlVqQ1c3TnZsSVNVanFna0RYLVFJNi1B?oc=5"
-      },
-      {
-       "titulo": "Tommy Paul vs Daniel Mérida · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZJX3dXRFFCaWNzN1hxM1hhRVozWlNfd3JlbnVkRDVlLXdPMXF6RnhvMGxrXzVha1Zid2cybWVTTFoxSXI3V0M2c1BGc3pNaDV4TjJtYnpnaEpVVy1nalF1VzFCQU9qbnlNWVQwWktEWDBVdlQ4dkkxeGlCNjFhUDlseUZRU2hxMDlZRUhOVzRpeHRjMy1z?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "bc5dffba531009c0a80d3facb9410062": {
-   "id": "bc5dffba531009c0a80d3facb9410062",
-   "jugadores": [
-    "Ignacio Buse",
-    "Daniil Medvedev"
-   ],
-   "inicio": "2026-11-04T12:20+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T11:38+00:00",
-   "elo": 0.187,
-   "elo_general": 0.216,
-   "elo_en_superficie": 0.158,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Ignacio Buse",
-     "mercado": 0.152,
-     "elo": 1674,
-     "elo_superficie": 1617,
-     "forma": [
-      "P hard vs Benjamin Bonzi",
-      "P hard vs Quentin Halys",
-      "P hard vs Zizou Bergs",
-      "P hard vs Adrian Mannarino",
-      "G hard vs Zizou Bergs"
-     ],
-     "cansancio": "1 partidos, 2 sets y 18 juegos en 3 días; el último el 2026-11-02 contra Zizou Bergs, ganó 6-2 6-4",
-     "noticias": [
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO vía ESPN y Disney Plus: ver gratis por Masters 1000 de París - Depor",
-       "fuente": "Depor",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXVUekdOdGlBWWtDbjFLZ1hiQTBmQi1nQm5IMFYzSUhpcWk3UDRoSDgtVzdBYkhWMVdfQnUyZklQQUpPVWRQbnozNHA1SmU4OTQtME1SalVacjZiNl9VdmI3NHh5d0o0RXQwYnhtRTVWWFdEckw3NTJ2SVlCT3FVRThCS0lsLTlnTDNtY1V0Zm1DS0g3V0RWTEFKSmJFSmRWdDZTTVo0a2tabzJHQXh0Q1FOWVVEVmVHMTdPd0gxeXFFYzFjcVJzNHl3MW9FOEdjd0laM09RM2xULXlJWVpBcWRqTTMwd3lhZjQ1SmJ3MzY3YmtBLWtOR212VU5LVDh6QlllaDFqLU5uclVYdnNTS0VXc9IBpwJBVV95cUxNbWdpaFM2Vk85ZXpaOGgySGZobGVzdmpfRkkwZzFYUEQ3M1FMRUJOeGhGQ1hsaXNnU2JYaFpFMFd6c3E2NXlSLTZ3R09VT3JKdWFFTVA3VzdIS1E2WHR4RzBjaU1KTTc2NXNRcWM4WVk1SVhfRFNZeE04QnQ5eGZGYi0xcGdpdXRyc25nZHdrR182cGpHUzJibWpUSU4tX18zVEJieVgyb3ZDeWpzenRFcVYwemRkb0Q5czVYSkMtaXpITkpxRnJ6X1I5QnMwbzhyRlpUV0NvUWV1YVFsTExTa3E2RDRpV1lXS1NnSVh1bFBRV1QyNWFJZkRoelU4NG9vWkhTTmo0OERSVmxHc0V6TF9pUVNFWkNiMkp4TlNjLWFJTjNGMFVB?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
-       "fuente": "El Comercio Perú",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn0gH8AUFVX3lxTE8ySXEweW1ZUmRNbDVQT0RfZE1zeHR1RWZhbm0xRjR3QlBuSGkwUHlYVkM4dk1SVGk1SV94QUhNcjRlaVhodXEtajAtUENwLUV2ZDlrV3JyYTJLZnJhN0IzSnlrQjg1eTJYX05LOTYzeXFDekstNURwcEVRUklLMy1kUHk5cFRDZ2VlRFhRSnRTZHpNcTUxNzZMaXB0MFVLSUxTVmxVTEE4d3A3WVlnSzRwMXRkdUJxRC0wcmVNZlhIR0Npc1BubVZjWTFUZWF5dFRvUTJfTmlZcWZESnpPcWI2YzRwTWl5Ylo0WGNkRFFnYTVzQkNmVy1BNUZNRQ?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
-       "fuente": "El Comercio Perú",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Daniil Medvedev",
-     "mercado": 0.848,
-     "elo": 1898,
-     "elo_superficie": 1908,
-     "forma": [
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Daniel Merida",
-      "G hard vs Cameron Norrie",
-      "G hard vs Adrian Mannarino",
-      "P hard vs Carlos Alcaraz"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev EN VIVO vía ESPN y Disney Plus: ver gratis por Masters 1000 de París - Depor",
-       "fuente": "Depor",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXVUekdOdGlBWWtDbjFLZ1hiQTBmQi1nQm5IMFYzSUhpcWk3UDRoSDgtVzdBYkhWMVdfQnUyZklQQUpPVWRQbnozNHA1SmU4OTQtME1SalVacjZiNl9VdmI3NHh5d0o0RXQwYnhtRTVWWFdEckw3NTJ2SVlCT3FVRThCS0lsLTlnTDNtY1V0Zm1DS0g3V0RWTEFKSmJFSmRWdDZTTVo0a2tabzJHQXh0Q1FOWVVEVmVHMTdPd0gxeXFFYzFjcVJzNHl3MW9FOEdjd0laM09RM2xULXlJWVpBcWRqTTMwd3lhZjQ1SmJ3MzY3YmtBLWtOR212VU5LVDh6QlllaDFqLU5uclVYdnNTS0VXc9IBpwJBVV95cUxNbWdpaFM2Vk85ZXpaOGgySGZobGVzdmpfRkkwZzFYUEQ3M1FMRUJOeGhGQ1hsaXNnU2JYaFpFMFd6c3E2NXlSLTZ3R09VT3JKdWFFTVA3VzdIS1E2WHR4RzBjaU1KTTc2NXNRcWM4WVk1SVhfRFNZeE04QnQ5eGZGYi0xcGdpdXRyc25nZHdrR182cGpHUzJibWpUSU4tX18zVEJieVgyb3ZDeWpzenRFcVYwemRkb0Q5czVYSkMtaXpITkpxRnJ6X1I5QnMwbzhyRlpUV0NvUWV1YVFsTExTa3E2RDRpV1lXS1NnSVh1bFBRV1QyNWFJZkRoelU4NG9vWkhTTmo0OERSVmxHc0V6TF9pUVNFWkNiMkp4TlNjLWFJTjNGMFVB?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
-       "fuente": "El Comercio Perú",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn0gH8AUFVX3lxTE8ySXEweW1ZUmRNbDVQT0RfZE1zeHR1RWZhbm0xRjR3QlBuSGkwUHlYVkM4dk1SVGk1SV94QUhNcjRlaVhodXEtajAtUENwLUV2ZDlrV3JyYTJLZnJhN0IzSnlrQjg1eTJYX05LOTYzeXFDekstNURwcEVRUklLMy1kUHk5cFRDZ2VlRFhRSnRTZHpNcTUxNzZMaXB0MFVLSUxTVmxVTEE4d3A3WVlnSzRwMXRkdUJxRC0wcmVNZlhIR0Npc1BubVZjWTFUZWF5dFRvUTJfTmlZcWZESnpPcWI2YzRwTWl5Ylo0WGNkRFFnYTVzQkNmVy1BNUZNRQ?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs. Daniil Medvédev en vivo: hora y canales para ver partido por Masters 1000 de París 2026 - El Comercio Perú",
-       "fuente": "El Comercio Perú",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVENkdHB0RWMySGpFRFRPRkpLUi0tYm5VZ0lyanlFc2xBWVo4S2d1b25DWUFXQWtzRldkcGFYcHczSHdUM3lxVDROdWJ2dHV0by00MjVqeXE3ckRGblpLc0VCN1lvTERaMkJWUXpRLWJ0bmphR1E1WHYwNGtSdFpndzFjOWtSaEp6T2FlMFdiMVgyYjFUOWJSRHhNb0hlYzQyRGpkUmlzQU1RV0hoTXU2Qk5kb1BCLUlGenZheWlDSDl6RlR1YUZHSGM0d1Z4YlBHQTBNeGxaWVlJaG1zendSSWFuY1pDVEVn?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "25d8efdbfad95b30f2e8c67fd47f72fc": {
-   "id": "25d8efdbfad95b30f2e8c67fd47f72fc",
-   "jugadores": [
-    "Alexander Zverev",
-    "Lorenzo Musetti"
-   ],
-   "inicio": "2026-11-04T12:30+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T11:38+00:00",
-   "elo": 0.695,
-   "elo_general": 0.709,
-   "elo_en_superficie": 0.681,
-   "cara_a_cara": [
-    1,
-    3
-   ],
-   "detalle": [
-    {
-     "nombre": "Alexander Zverev",
-     "mercado": 0.675,
-     "elo": 1993,
-     "elo_superficie": 1937,
-     "forma": [
-      "P hard vs Alejandro Davidovich Fokina",
-      "G hard vs Martin Landaluce",
-      "G hard vs Tallon Griekspoor",
-      "G hard vs Arthur Fery",
-      "P hard vs Alex de Minaur"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev - Lorenzo Musetti, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQVpKc0dlY3pEV3FmN3pBOVFUNy1rek9PVnBWSjFHRy13UERtUjhmbFBDLUZsUmpkb0hRdjBraGsxamtWTTRpRkdTUHM3bWZuVlJyVGhPSV9ENGRMb2x5ZVlPOGFhN0FpVm1hd3gydkRLSnc2Z1UzOTNyQTlNVWFOMWdRejhkZjhCUTRyd2lfU3VjemJyMXY1TUhQWjlpU1B5eWZQb3NTdjdSRERjVzFLWHdJMUR2TmpjMnhLSURrc19DRmRTazZBZ25NbEpHRU5qTjBaZWZPYTFtQS1UNUNETjgydElrLWJNMU1STFIzMWFiVUdn?oc=5"
-      },
-      {
-       "titulo": "¿Alexander Zverev, el mejor tenista del año? El análisis, entre números e intangibles - TyC Sports",
-       "fuente": "TyC Sports",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1FZXzlEOTRSdWZjMFgyYl9mNnNlMjM1TEEtNVNVZWV4dDJnQ2NLbjl1dVU0aXZCRFRRMDBRRlJwUEhJQklHM3p4UndTVlZ0bTVuX0N1emZLZFc5Ymp3UHkwU0xmMGxBVFZMSGxkM2xPNzVmMVhUV0pPRzd4ejNidkM2eWVTM0VFLVJWaXpPcG9XVkpMUUU4d2lDSFlLbUlIcmhidTRFRlE1cjVLcFVEMU95dkw2TmxQU3hVaUdKaFFFUkI3X0E?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev - Lorenzo Musetti en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2U1dVA4ZDVqcm45ZzJEMzdUTkc4T2lNYnpqLW9DOHVwSDlzQmJIYk1qalZGUHFNd19SOTRDVEw1OEhrbTF1dFhkRUZxeGQteDNSVm9heTJPcE5iZ0RlVzc0azJEZUFtcEFlZjVmajlnRnZlRmpCOFdYWEZkU1dINlJDY0tlNkVPT0JKekJKVml1dEVGcnpnZmVDMGNtMXoxUC1wa2V4SmYxdlRiN0NjZkVvclNKeTRUMkk4?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Lorenzo Musetti",
-     "mercado": 0.325,
-     "elo": 1838,
-     "elo_superficie": 1805,
-     "forma": [
-      "G hard vs Flavio Cobolli",
-      "G hard vs Taylor Fritz",
-      "G hard vs Frances Tiafoe",
-      "P hard vs Arthur Fery",
-      "G hard vs Hubert Hurkacz"
-     ],
-     "cansancio": "1 partidos, 2 sets y 26 juegos en 3 días; el último el 2026-11-02 contra Hubert Hurkacz, ganó 7-6 7-6",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev - Lorenzo Musetti, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQVpKc0dlY3pEV3FmN3pBOVFUNy1rek9PVnBWSjFHRy13UERtUjhmbFBDLUZsUmpkb0hRdjBraGsxamtWTTRpRkdTUHM3bWZuVlJyVGhPSV9ENGRMb2x5ZVlPOGFhN0FpVm1hd3gydkRLSnc2Z1UzOTNyQTlNVWFOMWdRejhkZjhCUTRyd2lfU3VjemJyMXY1TUhQWjlpU1B5eWZQb3NTdjdSRERjVzFLWHdJMUR2TmpjMnhLSURrc19DRmRTazZBZ25NbEpHRU5qTjBaZWZPYTFtQS1UNUNETjgydElrLWJNMU1STFIzMWFiVUdn?oc=5"
-      },
-      {
-       "titulo": "Highlights: Musetti frena a Hurkacz con un gran debut en París - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclR0Ri1xRXQxd1ItN2FYVU5uOEQwTGlWUEQ2aEg2X1RNbXVfUllDY3FGYW0xX0h1NVJnb0JFNVZEUVVTNXFqZWl4SGJMenBzU25nUnEtZ2dKcjZTWjREaHk1eVhzZ19lajc2dXZwZW1hMHNlVGNPdFkxcmd6d3ZBcHlTQmgxcVFCdDVRZkhWdU5JNm1YTkRJOTlGSU0?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev - Lorenzo Musetti en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2U1dVA4ZDVqcm45ZzJEMzdUTkc4T2lNYnpqLW9DOHVwSDlzQmJIYk1qalZGUHFNd19SOTRDVEw1OEhrbTF1dFhkRUZxeGQteDNSVm9heTJPcE5iZ0RlVzc0azJEZUFtcEFlZjVmajlnRnZlRmpCOFdYWEZkU1dINlJDY0tlNkVPT0JKekJKVml1dEVGcnpnZmVDMGNtMXoxUC1wa2V4SmYxdlRiN0NjZkVvclNKeTRUMkk4?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "9f0cefd1f030d8ad5ba4085132aff58d": {
-   "id": "9f0cefd1f030d8ad5ba4085132aff58d",
-   "jugadores": [
-    "Tomas Martin Etcheverry",
-    "Alex de Minaur"
-   ],
-   "inicio": "2026-11-04T12:40+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T11:38+00:00",
-   "elo": 0.158,
-   "elo_general": 0.155,
-   "elo_en_superficie": 0.161,
-   "cara_a_cara": [
-    0,
-    2
-   ],
-   "detalle": [
-    {
-     "nombre": "Tomas Martin Etcheverry",
-     "mercado": 0.182,
-     "elo": 1586,
-     "elo_superficie": 1586,
-     "forma": [
-      "P hard vs Stefanos Tsitsipas",
-      "P hard vs Dalibor Svrcina",
-      "P hard vs Mattia Bellucci",
-      "P hard vs Matteo Berrettini",
-      "G hard vs Andrey Rublev"
-     ],
-     "cansancio": "1 partidos, 3 sets y 36 juegos en 3 días; el último el 2026-11-03 contra Andrey Rublev, ganó 6-4 6-7 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Tomás Etcheverry - Alex de Minaur en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcElhRGJpemxJWHVsdXFRenVfNkRLNWRrandwZzVOZlVBZHBhWTNsU1RaSWZUWnJXVjlDUDlOYTNXZUpXNXcwX1YyV1VRZE14NGNRbGtXUGNoQkx6dy1VTnZjcWxlUlE4NUk3ZzZLWXNBX2k5THlLby1iWWpYMVFKTXRYb3h2c1BHRGF4cVducXkwbjl2bHpnT2Frc0tCVkhKQlAwQUxyN01nYXZaOVkzTW14MzgwaGNzZnc?oc=5"
-      },
-      {
-       "titulo": "Tomás Etcheverry avanza a la segunda ronda del Masters 1000 de París tras vencer a Rublev - Cadena 3 Argentina",
-       "fuente": "Cadena 3 Argentina",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzhoN0p3M0Z4OXowOXFFQzdFc1pmODBqRURRQnNXeXI0UFNLOHZnSnhuWmduWUNxRUJqQXFVV280VG1nQjFNWkpIR3BOaGN3bWVSYVVDNUZVUDg3NmxTZDJwTnB1R3JaV3diTmpBVmhwQ05kVDVKcHcwdmpUNlZsLU8yVU1fcGdBTlIzVHZQRHRsbkNoQ3NOZDZHTlQxVTVIaC14UF9yNTk5Qi1HeVVYR0pxS29UQVMxZVVSVkNreUZrNmhqTVp5cld0UVduUjNIR3pjMV9qNkLSAdgBQVVfeXFMUDc4aDdKdzNGeDl6MDlxRUM3RXNaZjgwakVEUUJzV3lyNFBTSzh2Z0p4blpnbllDcUVCakFxVVdvNFRtZ0IxTVpKSEdwTmhjd21lUmFVQzVGVVA4NzZsU2QycE5wdUdyWld3Yk5qQVZocENOZFQ1SnB3MHZqVDZWbC1PMlVNX3BnQU5SM1R2UER0bG5DaENzTmQ2R05UMVU1SGgteFBfcjU5OUItR3lVWEdKcUtvVEFTMWVVUlZDa3lGazZoak1aeXJXdFFXblIzSEd6YzFfajZC?oc=5"
-      },
-      {
-       "titulo": "Masters 1000 de París: Etcheverry se impuso y pasó a segunda ronda - Página|12",
-       "fuente": "Página|12",
-       "fecha": "2026-11-03",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk8zTzlhbTRIUFdBUWpPeTNBZUpsVzVJa01pbnZmZ0RSRkIwclZ4eU83V19Ma2NxUlJnREJWdkxVQUplTGYzaTUzeHpyVlFUTnFDQTE4d1dDVTRQOGVwZGtNMXhLNW1kbkRMbVlnNlJoWnQwYld6TnZFZVk0LVVaOXlSM1lvNnQzQmlHUmdzNjd0SnFnYklHSDhqZ3c1X29qZmc?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Alex de Minaur",
-     "mercado": 0.818,
-     "elo": 1881,
-     "elo_superficie": 1873,
-     "forma": [
-      "G hard vs Tomas Machac",
-      "G hard vs Learner Tien",
-      "G hard vs Matteo Berrettini",
-      "G hard vs Alexander Zverev",
-      "P hard vs Carlos Alcaraz"
-     ],
-     "cansancio": "1 partidos, 2 sets y 17 juegos en 3 días; el último el 2026-11-01 contra Carlos Alcaraz, perdió 1-6 4-6",
-     "noticias": [
-      {
-       "titulo": "Las cuentas de Jódar para jugar las ATP Finals: De Miñaur, Djokovic, Fritz y Paul deciden su futuro - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdXNzUlUwYkNwMmhoUDFZXzNDX1dyeHlkSW1yTE9RWG9jT2txWlkyLUFTOVh6cWJvVVBmVy0wNERTblMtOW9FaEZWMk9vNGl0UG1uMDJTT0dwX1dYbzJneEZYS1lMTkVhUW1iTElLRlRuSW5SUnRMbU43bmNTZXRnd0hVYXlna2RLSTh5Zm5GeUYzU3prU1ZjWlVnS2JMd3FhUUdmMFBYTXdBWFBvdW50MjMxUzZPaWFYbC1oaldtUkU4djk5SGFsT0xEdmNjUF9MU041YXhITzhoREZUV3k2RGNLemxuQQ?oc=5"
-      },
-      {
-       "titulo": "Tomás Etcheverry - Alex de Minaur en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcElhRGJpemxJWHVsdXFRenVfNkRLNWRrandwZzVOZlVBZHBhWTNsU1RaSWZUWnJXVjlDUDlOYTNXZUpXNXcwX1YyV1VRZE14NGNRbGtXUGNoQkx6dy1VTnZjcWxlUlE4NUk3ZzZLWXNBX2k5THlLby1iWWpYMVFKTXRYb3h2c1BHRGF4cVducXkwbjl2bHpnT2Frc0tCVkhKQlAwQUxyN01nYXZaOVkzTW14MzgwaGNzZnc?oc=5"
-      },
-      {
-       "titulo": "Hot Shot: ¿Punto del torneo? Alcaraz levanta lo imposible ante De Miñaur en Viena - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQndXSFpFX1E2ODJjeTgxMVBLRzZMaE5oVFZlOVlOMXU1QUNvZURWSWppQXZhZXY0UEsyd3dYMWdIcEUwelVqQzVDX1doVDNDaWxWZkdMNlFXTTRjcG0yNTV3OTZpWUNITkFDVlFqUGRMYW1EVmxsVC1MenhrRkg0YjVmOUE1em43TG5FdHFYREdFcjk0OGlwTEVNdEZCM2g1bUdMMjFORzZDLXYyTlZVRnNaWkxTOFkxMzhoUHFR?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "1be19552d8710b4628e2747163b4cf78": {
    "id": "1be19552d8710b4628e2747163b4cf78",
    "jugadores": [
@@ -5907,7 +5291,7 @@
    "inicio": "2026-11-11T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-11T08:00+00:00",
+   "actualizado": "2026-11-11T13:00+00:00",
    "elo": 0.499,
    "elo_general": 0.443,
    "elo_en_superficie": 0.555,
@@ -5931,10 +5315,10 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Rivalry Rewind: The best of Karolina Muchova vs. Elina Svitolina - WTA Tennis",
-       "fuente": "WTA",
+       "titulo": "WTA Finals – Svitolina vs Muchova: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVSVDhramJRSTBVNU9lMXZtUzRBX2pYYWhYem9kOEhIbF9hUjU0NU1FaUJYTUxiZUdQZnlrUnFyQktNaFJPaXpnYVd0Q2I3bUZjYW1Hcm5UeDRfUkY3d0JLZ3ZaUW42TGpmcVpKOWF4amd3M1MxOEx0STdueDgyeFlCMm90cXVWajFsMEdMc0ZvVWdUYnlIdWlkZXhfLXB5Z2JBREQwRQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW51Z0hKcUFSNE9xQTVmRHpORWVJT2JuVWdIQlQ4SThiYWtNQ0FtTWJpOU00N0xPT1FDbVRXQ1dTaV8wV1JENy1LVXNRN0FWRmU3ekZQaVFzUkN0UDVleU1ySDdIOTM5YllRSGR1OEdLYk5sT3VNTUVsczVNY0lXY2xWTElEREw5MS0wWWd5dU9NQTRic29sSWZacnpPRVpvb0lLbHZqczU0SE03aE1iSVJoY3VCVWlNTTRUSGhyckQ3RXRQUDdwSklJQTZOZms?oc=5"
       },
       {
        "titulo": "Resumen del Elina Svitolina - Karolína Muchová - Eurosport",
@@ -5965,10 +5349,10 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Rivalry Rewind: The best of Karolina Muchova vs. Elina Svitolina - WTA Tennis",
-       "fuente": "WTA",
+       "titulo": "WTA Finals – Svitolina vs Muchova: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVSVDhramJRSTBVNU9lMXZtUzRBX2pYYWhYem9kOEhIbF9hUjU0NU1FaUJYTUxiZUdQZnlrUnFyQktNaFJPaXpnYVd0Q2I3bUZjYW1Hcm5UeDRfUkY3d0JLZ3ZaUW42TGpmcVpKOWF4amd3M1MxOEx0STdueDgyeFlCMm90cXVWajFsMEdMc0ZvVWdUYnlIdWlkZXhfLXB5Z2JBREQwRQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW51Z0hKcUFSNE9xQTVmRHpORWVJT2JuVWdIQlQ4SThiYWtNQ0FtTWJpOU00N0xPT1FDbVRXQ1dTaV8wV1JENy1LVXNRN0FWRmU3ekZQaVFzUkN0UDVleU1ySDdIOTM5YllRSGR1OEdLYk5sT3VNTUVsczVNY0lXY2xWTElEREw5MS0wWWd5dU9NQTRic29sSWZacnpPRVpvb0lLbHZqczU0SE03aE1iSVJoY3VCVWlNTTRUSGhyckQ3RXRQUDdwSklJQTZOZms?oc=5"
       },
       {
        "titulo": "Sabalenka y Andreeva arrancan con triunfo y se medirán en las WTA Finals - https://fomoera.com/",
@@ -5995,7 +5379,7 @@
    "inicio": "2026-11-11T21:10+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-11T08:00+00:00",
+   "actualizado": "2026-11-11T13:00+00:00",
    "elo": 0.518,
    "elo_general": 0.47,
    "elo_en_superficie": 0.566,
@@ -6019,22 +5403,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Otro micro abierto sacude de nuevo el mundo del tenis: \"Sabalenka es horrible...\" - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Polémica por un nuevo micro abierto en el tenis: \"Mira, mira, Sabalenka es horrible\" - 20Minutos",
+       "fuente": "20Minutos",
        "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb21BMDA3UERJcWk2enZFR3BsamhfYVh2SXZjbFpOaXkwdVhTX1FaeTM0ZXhGaWhibTdWWEFnZ2NRTjc4UV9wOXA2Q3VGOUstQVpxWVBiY1pTSG5NQmc2c0hOaXpBN21FN1VEQ0s0SFM2aWJZVGtzcjFVMElrTGV3aklUd2FfOGdpVmo2cVFGREdRRHB4cDBaZTN2ZnI4ck5vd1hfeXBBQ3JULWZUR2dVWTJ30gGyAUFVX3lxTE1LNHNHTEpiaXhWamhTcG44NmlORFVCZjRRS0RmRXMxcU42VXQ4MkFsTkdCekdScmV0UWVjOGNERGhDNndXbVNfampoQWVzZ2lObi03VHVDaFVtbFJiclROamd1ZUNjYVFjeE5rSllVdmdGTF9IcHBMZW50VlpremdlVUZkUmIyMDZrUHNEYkUxLUswcTNxSnM2TmFrdnA5VHBZekJUUEh1NDRxOVdUak5sdFE?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHJZSDY4S2hnNHZDS1V1SVh0TXFCNU9FRVFkTjA3UlFGQUhHekNuS2lYeVczUldZSUM5Vm93MlE5bTZ5NGl2U29XSnpjZEt4MUx2Mmw2RmpzTkN4eFU0eUw2NGIydmQ1cWRDc3prMEpERFdISEFZUU03bXF3cE9BcnhmeGhsaFlrS0J6UlRGUi1kZkItREhKWWlYOWRPUVp6YkdtamNKYnZrZlliYlI5Y0M2M0lTTU5pWU5yMEpXeUhhQkZBcFBr?oc=5"
       },
       {
-       "titulo": "FAGE WTA Finals Day 4 preview: How Sabalenka and Andreeva can advance - WTA Tennis",
-       "fuente": "WTA",
+       "titulo": "WTA Finals – Sabalenka vs Andreeva: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXFYU2VwaFZBdm1obGJoekpJeWpfcDJNU0RreXR4cVNSTmV4a0dUU05sMVBjYVpJYmR4WkticU5ITjdlckJxNy1sVmFnX1BkWFVhQ2JTSE05UzJueUFuczFWU0dQYTViQU4zSUVDRWJJQjdqaGU1bHFfMmkzNU9iNjRIcmZfQ2RhSmYxcUFibUp0Wm9uN09hNm5majBBVFpwa3RkaVhKNE1kb0w1Ykw4MmRZTmRqWEtJX01J?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxmVC00cFMwY1U1SUROY1l6YU9tYU5UY0ZTRFhibkFhUVNLZEVqRlBUX2VXMjgtYm8yRHh6OTlCQzhjQWxlbnlTWVRhUW0wYm05OHl4ZXh4M0plUm1WbkZSd0RzTGZVbW9lQWpFTjVNbmtoR2pkR3VSS0ViRXhhV0hfN1dzZVJINDJjZUdCZkpLMWtyZi1oYnhPZTd3eDB3a25VbEZHOHZsZ1ZVb0VHYk9lZGQ1eDZyNEhfbkVteWJuZHBrdVVnR2Z2bENMSUVM?oc=5"
       },
       {
-       "titulo": "Rivalry Rewind: The best of Mirra Andreeva vs. Aryna Sabalenka - WTA Tennis",
-       "fuente": "WTA",
+       "titulo": "Horario y dónde ver en TV y online el Aryna Sabalenka-Mirra Andreeva de fase de grupos - Eurosport",
+       "fuente": "Eurosport",
        "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzZkaGFPRGE0dkJ0N0ZUVXRrbk9EOEZfQVZSeEJhbW85QjJLRUV5TElfRW5QX3JkV1l6WC1VbHgzTDBRZ2tGaEhxMXFHeXZqVVBHRC1jcGx4ejFoRThtUTFKbndiMDY3bjdlN1pHVFczUDAyWkhwWklxdUcyOHJ4QVV2WkdUZEZLMkZpLUtpclF0d05RQXUzZzNlbmJVT09FWUh2MA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeWd5ZDAwLWtoR2huMERybXJTYkdlUGRXY2JsRTJiRFJMSXY1ZXBmeFZhbWpxazNHMjdJaEpnMkVnWVVzR2dQVUdCMmJqSkRDb2pTc1gwNUhnajE0X0RpTjVsUzlmajBfMWN0TmhKZExQM3JPUWp6SlRVWU50cC1lWkVxUXV1RmxPVjE3MWdtOFd3N1RVUlc1eGRKS0xncWtnQ3VCbGctbk5feWZiMS1jTEtXX3hrV2R6UlNldTloVVMwbDZ5eTR1TzZ5enYybjF3SnZCOHU3MG04SmRNajAtaENZMUxlTmtFcTFlY1ZHdUI2QjRySVRiRlQ5SVQ2TEU4dXNHVFlFUFZmRU1rWmtrNVVxaw?oc=5"
       }
      ]
     },
@@ -6053,22 +5437,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "WTA Finals – Sabalenka vs Andreeva: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxmVC00cFMwY1U1SUROY1l6YU9tYU5UY0ZTRFhibkFhUVNLZEVqRlBUX2VXMjgtYm8yRHh6OTlCQzhjQWxlbnlTWVRhUW0wYm05OHl4ZXh4M0plUm1WbkZSd0RzTGZVbW9lQWpFTjVNbmtoR2pkR3VSS0ViRXhhV0hfN1dzZVJINDJjZUdCZkpLMWtyZi1oYnhPZTd3eDB3a25VbEZHOHZsZ1ZVb0VHYk9lZGQ1eDZyNEhfbkVteWJuZHBrdVVnR2Z2bENMSUVM?oc=5"
+      },
+      {
+       "titulo": "Horario y dónde ver en TV y online el Aryna Sabalenka-Mirra Andreeva de fase de grupos - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeWd5ZDAwLWtoR2huMERybXJTYkdlUGRXY2JsRTJiRFJMSXY1ZXBmeFZhbWpxazNHMjdJaEpnMkVnWVVzR2dQVUdCMmJqSkRDb2pTc1gwNUhnajE0X0RpTjVsUzlmajBfMWN0TmhKZExQM3JPUWp6SlRVWU50cC1lWkVxUXV1RmxPVjE3MWdtOFd3N1RVUlc1eGRKS0xncWtnQ3VCbGctbk5feWZiMS1jTEtXX3hrV2R6UlNldTloVVMwbDZ5eTR1TzZ5enYybjF3SnZCOHU3MG04SmRNajAtaENZMUxlTmtFcTFlY1ZHdUI2QjRySVRiRlQ5SVQ2TEU4dXNHVFlFUFZmRU1rWmtrNVVxaw?oc=5"
+      },
+      {
        "titulo": "FAGE WTA Finals Day 4 preview: How Sabalenka and Andreeva can advance - WTA Tennis",
        "fuente": "WTA",
        "fecha": "2026-11-11",
        "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXFYU2VwaFZBdm1obGJoekpJeWpfcDJNU0RreXR4cVNSTmV4a0dUU05sMVBjYVpJYmR4WkticU5ITjdlckJxNy1sVmFnX1BkWFVhQ2JTSE05UzJueUFuczFWU0dQYTViQU4zSUVDRWJJQjdqaGU1bHFfMmkzNU9iNjRIcmZfQ2RhSmYxcUFibUp0Wm9uN09hNm5majBBVFpwa3RkaVhKNE1kb0w1Ykw4MmRZTmRqWEtJX01J?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Mirra Andreeva vs. Aryna Sabalenka - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzZkaGFPRGE0dkJ0N0ZUVXRrbk9EOEZfQVZSeEJhbW85QjJLRUV5TElfRW5QX3JkV1l6WC1VbHgzTDBRZ2tGaEhxMXFHeXZqVVBHRC1jcGx4ejFoRThtUTFKbndiMDY3bjdlN1pHVFczUDAyWkhwWklxdUcyOHJ4QVV2WkdUZEZLMkZpLUtpclF0d05RQXUzZzNlbmJVT09FWUh2MA?oc=5"
-      },
-      {
-       "titulo": "Sabalenka y Andreeva arrancan con triunfo y se medirán en las WTA Finals - https://fomoera.com/",
-       "fuente": "https://fomoera.com/",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudUxnOVd5S2J6a0NjMHhMS3JkLXA3T2d1dWNwdDhNSU52T0ttLXV2MG9QelIyZGdwN3RWWHVaS2ZzLW1wMXdWcElwMjdjUnZjaGpEU2RzUzlSLUV5dW1yYkRzQmF2cjVhU05Z?oc=5"
       }
      ]
     }
