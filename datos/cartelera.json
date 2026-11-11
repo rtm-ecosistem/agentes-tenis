@@ -1,5 +1,100 @@
 {
- "actualizado": "2026-11-10T08:00+00:00",
+ "actualizado": "2026-11-11T08:00+00:00",
  "casa": "betsson",
- "partidos": []
+ "partidos": [
+  {
+   "id": "d87ade1e56f0c96e3b28b59dea344837",
+   "deporte": "tennis_wta_finals",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-11-11T20:00+00:00",
+   "jugadores": [
+    "Elina Svitolina",
+    "Karolina Muchova"
+   ],
+   "opciones": [
+    {
+     "id": "d87ade1e56f0c96e3b28b59dea344837|h2h|Elina Svitolina|",
+     "mercado": "h2h",
+     "nombre": "Elina Svitolina",
+     "punto": null,
+     "cuota": 2.22,
+     "pinnacle": null
+    },
+    {
+     "id": "d87ade1e56f0c96e3b28b59dea344837|h2h|Karolina Muchova|",
+     "mercado": "h2h",
+     "nombre": "Karolina Muchova",
+     "punto": null,
+     "cuota": 1.67,
+     "pinnacle": null
+    },
+    {
+     "id": "d87ade1e56f0c96e3b28b59dea344837|totals|Over|22.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 22.5,
+     "cuota": 1.91,
+     "pinnacle": null
+    },
+    {
+     "id": "d87ade1e56f0c96e3b28b59dea344837|totals|Under|22.5",
+     "mercado": "totals",
+     "nombre": "Under",
+     "punto": 22.5,
+     "cuota": 1.79,
+     "pinnacle": null
+    }
+   ],
+   "pinnacle_h2h": {}
+  },
+  {
+   "id": "d1549c8585e649677db3579affc1da2e",
+   "deporte": "tennis_wta_finals",
+   "torneo": "WTA Finals",
+   "circuito": "WTA",
+   "superficie": "hard",
+   "inicio": "2026-11-11T21:10+00:00",
+   "jugadores": [
+    "Aryna Sabalenka",
+    "Mirra Andreeva"
+   ],
+   "opciones": [
+    {
+     "id": "d1549c8585e649677db3579affc1da2e|h2h|Aryna Sabalenka|",
+     "mercado": "h2h",
+     "nombre": "Aryna Sabalenka",
+     "punto": null,
+     "cuota": 1.89,
+     "pinnacle": null
+    },
+    {
+     "id": "d1549c8585e649677db3579affc1da2e|h2h|Mirra Andreeva|",
+     "mercado": "h2h",
+     "nombre": "Mirra Andreeva",
+     "punto": null,
+     "cuota": 1.92,
+     "pinnacle": null
+    },
+    {
+     "id": "d1549c8585e649677db3579affc1da2e|totals|Over|22.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 22.5,
+     "cuota": 1.88,
+     "pinnacle": null
+    },
+    {
+     "id": "d1549c8585e649677db3579affc1da2e|totals|Under|22.5",
+     "mercado": "totals",
+     "nombre": "Under",
+     "punto": 22.5,
+     "cuota": 1.83,
+     "pinnacle": null
+    }
+   ],
+   "pinnacle_h2h": {}
+  }
+ ]
 }
