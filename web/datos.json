@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T08:01+00:00",
+ "actualizado": "2026-11-12T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -2115,358 +2115,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "4111a4ac0ae11935311b655ebadd040b": {
-   "id": "4111a4ac0ae11935311b655ebadd040b",
-   "jugadores": [
-    "Tommy Paul",
-    "Quentin Halys"
-   ],
-   "inicio": "2026-11-05T10:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T09:10+00:00",
-   "elo": 0.684,
-   "elo_general": 0.676,
-   "elo_en_superficie": 0.693,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Tommy Paul",
-     "mercado": 0.739,
-     "elo": 1872,
-     "elo_superficie": 1869,
-     "forma": [
-      "G hard vs Andrey Rublev",
-      "G hard vs Luciano Darderi",
-      "P hard vs Carlos Alcaraz",
-      "G hard vs Holger Rune",
-      "G hard vs Daniel Merida"
-     ],
-     "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-11-04 contra Daniel Merida, ganó 6-1 6-1",
-     "noticias": [
-      {
-       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXAzRUdEd2Zya1R0aVZLY1JjRk5rOVBCU1Y1aVZDdF84MlI4Vkt1UjdqazM3MDJUU3N0OGE0cTFvQVF1NXlhZktVS0FXZlVPTUFOaHAwZmZYdFZvMmw4OURMcGE5RWlkVDNyVmhmRzZobnpOSnNkUmNGd0ljSWNpS3BSSTZoT016dzNCYjBaTTR3MUw2d2NIWTNUcElCMHFTU2JfUDBudGVKTmfSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
-      },
-      {
-       "titulo": "Rafa Jódar saca la calculadora para estar en las ATP Finals de Turín - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVBNTC1idEhfQmJOVERKdHREcTdGa0dTX1dSZ2ZOU2RWZjh2S0hNM1g0bWlZdTdpOUNSNUFIb3oxZFNxZmhaTkhLMFJlYVZ3bjBhVEk0Zk1MMmEwMTJUUmY5aGhJa2hOeW45Zjl4TTN3LXl0S2NfUmtkOWZFLUxtZTBORTJhRFg3QWVCcy1WYVFKRlA2bXpZSEx6QTBRcXVRU2xwYzVjMzZNdWvSAasBQVVfeXFMT0VQTUwtYnRIX0JiTlRESnR0RHE3RmtHU19XUmdmTlNkVmY4dktITTNYNG1pWXU3aTlDUjVBSG96MWRTcWZoWk5ISzBSZWFWd24wYVRJNGZNTDJhMDEyVFJmOWhoSWtoTnluOWY5eE0zdy15dEtjX1JrZDlmRS1MbWUwTkUyYURYN0FlQnMtVmFRSkZQNm16WUhMekEwUXF1UVNscGM1YzM2TXVr?oc=5"
-      },
-      {
-       "titulo": "Highlights: Paul supera a Bonzi y vuela a cuartos en Lyon - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEx5OU5yWF9QTEVoUHhhRmFCYk54YkprUURtYktCbW8zX1F3aVpEcnFvbklZZWpjQWZWeVpKTDJ0eEtPa09LQkVVZ21CakNuOGxscmQxeUpNaS1OYzIxXzJaUWlUV3dJejVrdy1GMEVsQnVZTXpEQ0ozQS1SQ2t5eXZRbXV4V0duZE5EdTJsWGowU0dJbWtWZEFDX1NOdw?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Quentin Halys",
-     "mercado": 0.261,
-     "elo": 1744,
-     "elo_superficie": 1727,
-     "forma": [
-      "G hard vs Alexander Blockx",
-      "P hard vs Alexander Zverev",
-      "P hard vs Holger Rune",
-      "G hard vs Arthur Fery",
-      "G hard vs Frances Tiafoe"
-     ],
-     "cansancio": "2 partidos, 5 sets y 54 juegos en 3 días; el último el 2026-11-04 contra Frances Tiafoe, ganó 6-3 1-6 7-6",
-     "noticias": [
-      {
-       "titulo": "Highlights: Halys salva cuatro match points y vence a Tiafoe en París - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUUyb1psU0lJV1VST1Y1X1FfWkE3MFkyU0Y3RnE3TmRpY1luNEhtV3hKclhlT20zbldvZmh5aXRFVTNDOU9CNXpYNzlOTDlCRzNUcDdEM00zUE83cDhreDRfVGpJQ1I1dzJ1bkU0OF82ODNocy1Ib1kyQVp2QlJ3cjA2eWFRaHJ3akYweGNDY2hQUklvd3NDRkxySnVjemtQU3Z0SURXcFF1cTg?oc=5"
-      },
-      {
-       "titulo": "Granollers / Zeballos vs Halys / Herbert · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXdfbHowSVlzSlVQMVYwcWhfTC1hamlDNkpBb3ZGcmd0Qm56QkxWX3ZiWnNtRmplRnUtVS1hZUQ2R3lxQ2JSNFgtanFvVzhPN1RRaVJxSnRBekNZaVJLYTBPQjZ4eUFWZ0ZZZUp5dC1NUjdJTlZzMXhRWUdLNWc0ZjhMSnZJX2R0aWkzd2tLWU1yNndQVFBOZkVRQ1RzajBqdTR6YVJOLTI1SnAwUGVDWkdsTG1kMlFhY3VILQ?oc=5"
-      },
-      {
-       "titulo": "Tommy Paul vs Quentin Halys · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdJQXRwMENUencwbk15VV9POUdKc0JNNDR2Tl9LSFdnY2VXSnRMb29RbjlRMGRuVHRFVzh6RDZST1o0akE1T0hzaGxXOURyWjFNQnZBVXI0UDZydzZQOWFmRkVNUEFiVE1BemN1SnZDbFZVeE9vRml4am5rbGNSVXFoNDc5cUNoQjdjS1htaVlGS3hCeUE?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "8a2e76c34cf0bce53c2afc75d9f2793e": {
-   "id": "8a2e76c34cf0bce53c2afc75d9f2793e",
-   "jugadores": [
-    "Ben Shelton",
-    "Arthur Rinderknech"
-   ],
-   "inicio": "2026-11-05T11:10+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T10:10+00:00",
-   "elo": 0.824,
-   "elo_general": 0.792,
-   "elo_en_superficie": 0.856,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Ben Shelton",
-     "mercado": 0.724,
-     "elo": 1881,
-     "elo_superficie": 1903,
-     "forma": [
-      "G hard vs Daniel Altmaier",
-      "P hard vs Arthur Gea",
-      "G hard vs Aleksandar Kovacevic",
-      "P hard vs Jerome Kym",
-      "G hard vs Cameron Norrie"
-     ],
-     "cansancio": "1 partidos, 2 sets y 19 juegos en 3 días; el último el 2026-11-03 contra Cameron Norrie, ganó 6-3 6-4",
-     "noticias": [
-      {
-       "titulo": "Ben Shelton - Arthur Rinderknech en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXdRUjJTYjBtZzREcThFTlU0SjBJOXpweXUzR3JPUy1ybHZUSnJFYlNodUVpQ2swZUVla1RLRmVueTFGMFIxd3RsWlV3aE5fTWJ1SFhYU0JMVEktVkZGRHZoNkpDMWZESGFXdkttc0lSc2pMV1BORmo5QWNIa0tTb1Biazl3UDZUcWU0Y2tkbXoySDVHUGtaaS14UzRYc2dMNEdKNDl4YjhsOTR3WmJ3cHZpZ2lUQzk5?oc=5"
-      },
-      {
-       "titulo": "Rumbo a Turín 2026: Ben Shelton - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Sa1VDanJRUkVtX3JUdnRLekw3b0hJT3dTSHhwcTZYQjh0clMtWEdiQTI4eWtVd0dodUVLQWlDSHJsamFkVTZWakdTODFCamRLa29aY1B2YlMzSXQ2UFZCXzlvQmJsOUYtUmJydmpPeDNFUQ?oc=5"
-      },
-      {
-       "titulo": "Ben Shelton vs Arthur Rinderknech · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzgtb1IzYnBlcWRlNG5adkRESXJUTVdZRnkzcVlNYm5TcWROd1JpRk5KanY5a25NZXI2WWFiMlQtQ0d4MDFNRmtNN3pfeXpnNW5RQ0NpdWRGeEQzQTFBbnB3MUJYaDhKMzBsdWF2WFYzRFFYVWVkYzZQSTBvOUc4aFJ5ZGFULWhqN2ZhdGJNV2doU2FpZVBERUdPSU1zaF96eUE?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Arthur Rinderknech",
-     "mercado": 0.276,
-     "elo": 1649,
-     "elo_superficie": 1594,
-     "forma": [
-      "G hard vs Sho Shimabukuro",
-      "G hard vs Jaume Munar",
-      "P hard vs Daniil Medvedev",
-      "P hard vs Jerome Kym",
-      "G hard vs Mattia Bellucci"
-     ],
-     "cansancio": "2 partidos, 5 sets y 41 juegos en 3 días; el último el 2026-11-04 contra Mattia Bellucci, ganó 6-4 6-1",
-     "noticias": [
-      {
-       "titulo": "Ben Shelton - Arthur Rinderknech en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXdRUjJTYjBtZzREcThFTlU0SjBJOXpweXUzR3JPUy1ybHZUSnJFYlNodUVpQ2swZUVla1RLRmVueTFGMFIxd3RsWlV3aE5fTWJ1SFhYU0JMVEktVkZGRHZoNkpDMWZESGFXdkttc0lSc2pMV1BORmo5QWNIa0tTb1Biazl3UDZUcWU0Y2tkbXoySDVHUGtaaS14UzRYc2dMNEdKNDl4YjhsOTR3WmJ3cHZpZ2lUQzk5?oc=5"
-      },
-      {
-       "titulo": "Bonzi / Rinderknech vs Krawietz / Pütz · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1VBNmpEV1FlUEtsejM5c2NOQTVXU2l5cnlFaTFMZGJmazBwRWpYQXRIa1l6OGFmV0hpaC12OEw0b1VXR01ITndOYnc5dE1fLUVkVkNqNGdQV19pSi13d1ktQmpPUE54ODQxbEdkeEFWVmQ0NFFFdHVMa0xWVWt4bm5TYnJzTUZfR2lyWVF5NURoeVE0bzJzQTl3QndIbldHSlpjR1VnWnhmTlNFc1FyOXZkb0pFUkZv?oc=5"
-      },
-      {
-       "titulo": "Ben Shelton vs Arthur Rinderknech · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzgtb1IzYnBlcWRlNG5adkRESXJUTVdZRnkzcVlNYm5TcWROd1JpRk5KanY5a25NZXI2WWFiMlQtQ0d4MDFNRmtNN3pfeXpnNW5RQ0NpdWRGeEQzQTFBbnB3MUJYaDhKMzBsdWF2WFYzRFFYVWVkYzZQSTBvOUc4aFJ5ZGFULWhqN2ZhdGJNV2doU2FpZVBERUdPSU1zaF96eUE?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "8962e5108426884c7237a80948c77cfb": {
-   "id": "8962e5108426884c7237a80948c77cfb",
-   "jugadores": [
-    "Lorenzo Musetti",
-    "Luca Van Assche"
-   ],
-   "inicio": "2026-11-05T12:20+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T11:37+00:00",
-   "elo": 0.772,
-   "elo_general": 0.766,
-   "elo_en_superficie": 0.778,
-   "cara_a_cara": [
-    1,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Lorenzo Musetti",
-     "mercado": 0.725,
-     "elo": 1860,
-     "elo_superficie": 1830,
-     "forma": [
-      "G hard vs Taylor Fritz",
-      "G hard vs Frances Tiafoe",
-      "P hard vs Arthur Fery",
-      "G hard vs Hubert Hurkacz",
-      "G hard vs Alexander Zverev"
-     ],
-     "cansancio": "2 partidos, 4 sets y 47 juegos en 3 días; el último el 2026-11-04 contra Alexander Zverev, ganó 7-6 6-2",
-     "noticias": [
-      {
-       "titulo": "Zverev estalla: “Siento que soy el único número uno que tiene que dar explicaciones” - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTU16X2MxUS1Pc3JXUnJDRkNXeVpTVjBSNjRIUHNwSi1hY2Y0bEhWMW12M3FndmJ3Tk5VV3M0VEZlNXI5SGFfZWd5bW5iREVUVGF1UklGdjJEVXlWUjZXLUIyUTRwWVFKenpUcHV2c083UF9SWkFxZGI0aDNEa3dCdENzaGR3SU40LUN4Y3JYOUctUGY5TTNuNHpXaW9GVElpMUZMbklIY19uR0F0dWh0RTBGYlJrTExPUHItNlV6aC1FMlR40gHYAUFVX3lxTFAyRjJfU0VNaXpoOFBQTXB4UlJiY1JSMk1VdnZSNHRQLVF1RlVFY1NjaXlIVHRfTW9DRkU2aVhEcDY3MG9fLU1YNkE4MnBhbXVwTnprUkVCTkY4aUVWaU8xdWdSRk5iV2MxQVdueW5VcW9abUd5cFc1MGpNOGZsc3d1QzB2MzhXTnBNcVB2elVUQWhjaTVlTnJhM0lRZVdhaWs1NHNfa1U0cUFVSGVBRVhCNW4tc19ack1mVE56YXpqNmk3TG9BcmVpTTFwZFpBMnlsZzU4WFBVbg?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti - Luca Van Assche Related Videos: Live Tenis Updates - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSENTS1AtaW9uN29nYTZtYmY1VWlsSWh1UElyLTBaWVNHQy04N2Y3d1NEX0gxaGRGN0JmVzQ5WXdZU1pXZ3JaTEI2bEd6cDJIX255bTB6M2stNFpySjVCZjQtRGNYc29DS28ycU1xTXVfYnFwR1E3SHFETnFwVnFWWktBLXl5Q2xMYVdKc2pMN3E2R29kdy1HTWt0SkZ0blVQYXFvSW5NbS1iMmdyczNiTURoVUdsYl9nYm04VlZoaXNoZFk?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti explica la clave de su victoria ante Zverev en el Masters de París: \"Me acostumbré a no ser el favorito\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenZFOFliYlJleWV6VnVPTkU4YlFydHlvcy16QTVPRlZUYWhyQWlGQS1KUVR2VkJZbEUwRzJld2dCXzg1UEktRXBhWFE0VkE3UXo5OTJ2NUU3Tkp3ck82QjVQbmhIdUlmYmZvMjRpT1MyZ0lWLWQ5SjZqWDBUa05mUVNXSQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Luca Van Assche",
-     "mercado": 0.275,
-     "elo": 1654,
-     "elo_superficie": 1612,
-     "forma": [
-      "G hard vs Valentin Vacherot",
-      "P hard vs Lorenzo Musetti",
-      "P hard vs Learner Tien",
-      "G hard vs Mariano Navone",
-      "G hard vs Learner Tien"
-     ],
-     "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-04 contra Learner Tien, ganó 7-6 6-4",
-     "noticias": [
-      {
-       "titulo": "Lorenzo Musetti - Luca Van Assche Related Videos: Live Tenis Updates - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSENTS1AtaW9uN29nYTZtYmY1VWlsSWh1UElyLTBaWVNHQy04N2Y3d1NEX0gxaGRGN0JmVzQ5WXdZU1pXZ3JaTEI2bEd6cDJIX255bTB6M2stNFpySjVCZjQtRGNYc29DS28ycU1xTXVfYnFwR1E3SHFETnFwVnFWWktBLXl5Q2xMYVdKc2pMN3E2R29kdy1HTWt0SkZ0blVQYXFvSW5NbS1iMmdyczNiTURoVUdsYl9nYm04VlZoaXNoZFk?oc=5"
-      },
-      {
-       "titulo": "Pronóstico Lorenzo Musetti Luca Van Assche - Rolex Paris Masters 05/11/26 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFVkbkNHTHVmUWxJZTNwVGZyVk5SWUJvSDFERTlIcllXM1R5Y0RuRG9OZnVOel9qcGhUdm5ROUttRnVDV0VtQXJGVlRwWEgxM243MFJvdF9SdklmTjdjQkxiYlI3bWhsSWpYOGs1bmlnc3ZiRjc2MExrbkRuazRUMHBqYU43WnBsUzVN?oc=5"
-      },
-      {
-       "titulo": "Lorenzo Musetti - Luca Van Assche en directo - Rolex Paris Masters 5 de noviembre de 2026 - SportyTrader",
-       "fuente": "SportyTrader",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjZCWVQ0dlBNLUI5bC01ZDYzV3ZZT09ud2xFS0hHR0VlM2VRalBXS0hkUmxvQy1EVXRXQnFFSlg3WlowVUotdjNmdWd2VjVrNDN6SC1rSkp5dXZhWkFNNXRVc2VjR3dfUU1faUVyWFNKeTdpZXhMUlNXdWlfVElDNWU4aUNkZWl2T0NkMGxvZEw?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "ce54c1892701e4d3d4713f621a47cc00": {
-   "id": "ce54c1892701e4d3d4713f621a47cc00",
-   "jugadores": [
-    "Rinky Hijikata",
-    "Tomas Martin Etcheverry"
-   ],
-   "inicio": "2026-11-05T13:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T12:10+00:00",
-   "elo": 0.584,
-   "elo_general": 0.584,
-   "elo_en_superficie": 0.585,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Rinky Hijikata",
-     "mercado": 0.454,
-     "elo": 1672,
-     "elo_superficie": 1678,
-     "forma": [
-      "P hard vs Taylor Fritz",
-      "G hard vs Jaime Faria",
-      "G hard vs Vit Kopriva",
-      "G hard vs Luciano Darderi",
-      "G hard vs Novak Djokovic"
-     ],
-     "cansancio": "2 partidos, 5 sets y 42 juegos en 3 días; el último el 2026-11-04 contra Novak Djokovic, ganó 2-6 6-3 6-3",
-     "noticias": [
-      {
-       "titulo": "Djokovic se apaga - El Correo",
-       "fuente": "El Correo",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDI0eks1R0lFSUlVQjhfS3B6eVVsUE1iVm5TaU9FSUFKVkNna2ZxWlN3eFNuTi1mdEdfMFdBd3k1bDVjVkJnWldOTnhTVUdNSmh0VURtdWdmS0dwNzlLdEdtOUdCaU9fV3dXNFJsZ21CMC1TRXN0SkM4TC04MzB1MDVleU5WQdIBiwFBVV95cUxORzc1NnlZdTNDcmtXOWhXeFdTSk43bjlhcHpnWkNyYlRQaDlBRTZPT21MU2tWa1BEWUFYWnhxRVZPZ1BFUm5oMFUtZER0OVVqdDZ0MnJ2XzRlMnZoLU1kQlJ2aG9nMDU1YkVwT25WWDlqYUVtNWJKSjJvQ2xGTjBWOGs1MmVMcmhHTGdr?oc=5"
-      },
-      {
-       "titulo": "El año más difícil para Djokovic - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3FMcU9QbUtza2Y4ajJEY0FsRUMyWFFzT1loSjRYdXhWYjV4TEFhYndlUGVLUnhPcGZOaEdYUVFTMU5PanJrY2FpbWg0ejF1TWVVVFBoQzlGOUxZWjBkOGw1ZjFDVmRMcEtwSVZzeWx0S3dTOGphQ2tTaUJ3eEFsc2hWWdIBlwFBVV95cUxQdDduMkxwM1N1RV9ETFg2ZkJmNmY1TWZGdS11N2FYYm0yd2JfNkN0NW1XUnJsV3had2hJZGg1VHB2QjV0ZnRiLTFjb0ZJT05VV1B3VGc4d0I2bGEyUmxhNnJQQWpqWU9zdXlQS2s5Zm5lNXVlejVrM0t4YjYyalViR0RSMXhLSUdLVDVTSUEtd05aNktQdEtN?oc=5"
-      },
-      {
-       "titulo": "Djokovic cae ante Hijikata en París y se queda fuera de las ATP Finals - UNANIMO Deportes",
-       "fuente": "UNANIMO Deportes",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZm5obk5qa2lQV1ZMamRqcEFydDUxWER1M3JLQWNuWjVmRDNLTDE3bGpBTDB3aUlOQ2xVSTJKaEhwOUhGOWpfWGRzVFl4SUx6Qk95NDNaT1NDSlR6OElKUjhNU0tWbjVPYkJmd3hsY1FjQkJaeVNfY01vV3JvZFU?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Tomas Martin Etcheverry",
-     "mercado": 0.546,
-     "elo": 1613,
-     "elo_superficie": 1618,
-     "forma": [
-      "P hard vs Dalibor Svrcina",
-      "P hard vs Mattia Bellucci",
-      "P hard vs Matteo Berrettini",
-      "G hard vs Andrey Rublev",
-      "G hard vs Alex de Minaur"
-     ],
-     "cansancio": "2 partidos, 5 sets y 58 juegos en 3 días; el último el 2026-11-04 contra Alex de Minaur, ganó 7-6 6-3",
-     "noticias": [
-      {
-       "titulo": "Masters de París: Etcheverry le ganó a Rublev y Cerúndolo abandonó por una molestia lumbar - El Argentino Diario",
-       "fuente": "El Argentino Diario",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3EyUTR3RnVlU21ialA0a0hMVEllVjIxdGEycGFnWFBqNVc0eGEzYnJxQnhvX2pKNl9YZ2lwX1QyUVh1dWlrc3dzOXlhSHpSMDh4NlItaFltUWdIRG9odkd4R25OVnYxQnBHbjVCQWhJcjVWRV8xdHJ1ZWJYcjJwcWhoM25sT2pDbzUxNVRlYXpkWWF5NS1Ta3g5Mk1KOW5Fb1M0SHBsemJWT0lmamxEdTNKQUlFcm9qMHdz?oc=5"
-      },
-      {
-       "titulo": "Tenis: Tomás Etcheverry avanzó a octavos de final y Thiago Tirante busca la clasificación en el Masters de ... - Rosario3",
-       "fuente": "Rosario3",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU1JKZWZ0d2ZZNGlmM3BNMHlweDd1bTQ2aHBkNEpiTzMzZUxwYmRZX2YxQVU0d3J1Z3Q2VWN1YTdHQUpBM2c3OURtWFpHa2pXd3R1NUZ6cGRYNWY1NWpzR1ZuanFvWThkdlZFeVBld0VVRjl5NFFxZ0c3VjlDNGs5LVd3Q3FoNHVBMkU1cDRzVngyWWhMZEFGQThfbUo3MTNPN1UzUWYwRjlncU9HSVlTbmVIMEJFYldzZEdUcE5ISGdBRWN1Q2M3Z1NmRFVNd2RsbzRZeFhyMUR6bFNwem9MajZkNUtxbXhBMWhFWENic3pBZlhrTC1ZcDNYNld2ZXJVYmZtSHdB0gGGAkFVX3lxTFBTUkplZnR3Zlk0aWYzcE0weXB4N3VtNDZocGQ0SmJPMzNlTHBiZFlfZjFBVTR3cnVndDZVY3VhN0dBSkEzZzc5RG1YWkdrald3dHU1RnpwZFg1ZjU1anNHVm5qcW9ZOGR2VkV5UGV3RVVGOXk0UXFnRzdWOUM0azktV3dDcWg0dUEyRTVwNHNWeDJZaExkQUZBOF9tSjcxM083VTNRZjBGOWdxT0dJWVNuZUgwQkViV3NkR1RwTkhIZ0FFY3VDYzdnU2ZEVU13ZGxvNFl4WHIxRHpsU3B6b0xqNmQ1S3FteEExaEVYQ2JzekFmWGtMLVlwM1g2V3ZlclViZm1Id0E?oc=5"
-      },
-      {
-       "titulo": "Histórico triunfo de Tomás Etcheverry en París: venció a De Miñaur y derrotó por primera vez a un Top 10 - Radio Rafaela",
-       "fuente": "Radio Rafaela",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZENGd2J5TDZINVZhOTdWSGpMMkJ6QmNvWGtGVTZJV1RWNlFWcFBSQk5RNC1IeUh1MlJyTDk1dENBV3JFMGJxLWNocDdSSjJiejRnWGZUVmVDdmhYNkxVcGZUek5jaEM5SHBPQ3FEQXhsemFVODY4ZXh3M2c3dEJuTlVFY2pRTWpQcnBMSUQ3bmVfTEV6Y0ZMdnJVanR3cVNzZFRKdm5oRkV0dC1Gblg0ZUJBeE13aTBqZmpEeVcxQTRhMjUzRm9IdHB6cWs1WmhSSkVZZFNxWQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "235263f6f3bbd21f2327b39e61407934": {
    "id": "235263f6f3bbd21f2327b39e61407934",
    "jugadores": [
@@ -3532,7 +3180,7 @@
    "inicio": "2026-11-12T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-12T08:00+00:00",
+   "actualizado": "2026-11-12T13:00+00:00",
    "elo": 0.247,
    "elo_general": 0.332,
    "elo_en_superficie": 0.161,
@@ -3556,16 +3204,16 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "WTA Finals - Kostyuk vs Gauff: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
+      },
+      {
        "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-11",
        "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
-      },
-      {
-       "titulo": "¡Sorpresa para la local! Coco Gauff sufre una inesperada derrota en las Finales de la WTA - Diario Las Américas",
-       "fuente": "Diario Las Américas",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWdPeUh5UXJ0MmpFSDdoTlFqQzUzTEtzUWgwc0V3cWhoT3MxUWVncEVRMTNLYXpuQWhlU2xkX1pocUl6ZkI2U1VvQ1JsS3ZXSnlZOEVVOXBrNlhVQUhPUTVHTTlDRFh6SzBiYjRlT1RUWUxKVGRqR2hlc1Q4YkQyRDdEcVAxLWx4V0tQZ3A3YUhLN3hWNnNscThTZ0ZsczZjb0VfNnZQWVl2NE5hQTdybm1VNHB4QUw3TlNXQmJ1YWM2MENXYWdv0gHMAUFVX3lxTE9lb2xNR1BiYlN2UjVFUzc4X1VnMVVac3ZGMXMxSm8xZkdqejNEaHpra3pjd05nRlBJMzNRaTFSSmNJSVU4UHdUeTVOTTQzWUhZRElzSVhvcERSam43Q1NlX3NqSUNYbm1oRmYtZUhMNUh0ZVZnVDVrejV6R3VBc1Vmek5QRGI0cl95LWF5UV9ZVFJSZFoxczZaTW9SVVJrZm9PU3hvWjI4RURVQjlneFBia1poMWVQLTAxYjJRU1FUS3BkdE5aNDQ5dkk0ZQ?oc=5"
       },
       {
        "titulo": "Rivalry Rewind: The best of Coco Gauff vs. Marta Kostyuk - WTA Tennis",
@@ -3590,22 +3238,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "WTA Finals - Kostyuk vs Gauff: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
+      },
+      {
+       "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
+      },
+      {
        "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
        "fuente": "WTA",
        "fecha": "2026-11-12",
        "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHFMYloyQUpCcUhKaWYxeDNjcXlXS2VETy1ULUtSUWFJNV9fZTB2dHZlOVN3NlhUYzV2WGRNbC12TTFuaUpta2h4MFZJaVVCa0hnLTMzMWVEdGpqZUVDZmVfS1VqdEtDS1F3M242U2pTUkdRVmhpZXE0aW5QQWtuQmJ6WGpDcDZXcnppbm1zY0RnTlBjUFdqTm9UdXRkWE1WY0l6cFhLOU44NW5fbkRHckltZ2lHZw?oc=5"
-      },
-      {
-       "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
-      },
-      {
-       "titulo": "¡Sorpresa para la local! Coco Gauff sufre una inesperada derrota en las Finales de la WTA - Diario Las Américas",
-       "fuente": "Diario Las Américas",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWdPeUh5UXJ0MmpFSDdoTlFqQzUzTEtzUWgwc0V3cWhoT3MxUWVncEVRMTNLYXpuQWhlU2xkX1pocUl6ZkI2U1VvQ1JsS3ZXSnlZOEVVOXBrNlhVQUhPUTVHTTlDRFh6SzBiYjRlT1RUWUxKVGRqR2hlc1Q4YkQyRDdEcVAxLWx4V0tQZ3A3YUhLN3hWNnNscThTZ0ZsczZjb0VfNnZQWVl2NE5hQTdybm1VNHB4QUw3TlNXQmJ1YWM2MENXYWdv0gHMAUFVX3lxTE9lb2xNR1BiYlN2UjVFUzc4X1VnMVVac3ZGMXMxSm8xZkdqejNEaHpra3pjd05nRlBJMzNRaTFSSmNJSVU4UHdUeTVOTTQzWUhZRElzSVhvcERSam43Q1NlX3NqSUNYbm1oRmYtZUhMNUh0ZVZnVDVrejV6R3VBc1Vmek5QRGI0cl95LWF5UV9ZVFJSZFoxczZaTW9SVVJrZm9PU3hvWjI4RURVQjlneFBia1poMWVQLTAxYjJRU1FUS3BkdE5aNDQ5dkk0ZQ?oc=5"
       }
      ]
     }
@@ -3620,7 +3268,7 @@
    "inicio": "2026-11-12T21:30+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-12T08:00+00:00",
+   "actualizado": "2026-11-12T13:00+00:00",
    "elo": 0.571,
    "elo_general": 0.511,
    "elo_en_superficie": 0.632,
@@ -3644,22 +3292,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Jessica Pegula vs. Linda Noskova - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVFUN1RfcjNqcW5yRTdoWERxZ2hCeWFubURDanNCakVkV2NMT1g3VlNlVzY4aW5nNFJtWjVfQko0WWlNYUFnNjlKeTQwRHJ4WGFKTWZwajF3a3pRbDdfNnkwY0ItNUM0S2FqeG52OEUtQ1dYZS1tZnN6RElnT1pVVHYwendndlRkcmZrUEI5R3Foc1JHTWZTd2J6aDZHNTk2ZlE?oc=5"
+       "titulo": "WTA Finals – Pegula vs Nosková: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEFTUE8zWUV5Z0dNdFAyQ01mekx1WnpMLUVmNUN2djlGQURraGN3LU1ZSXl0T2FuR2R4bnptVkJOYXVITHgtTjNRRVhhLUtzVVNIOXhXTkJMSldpZ0ZNdVpUV0piaUFBd0Q2OWp4eGpIVG9HcHJVV2dBdFVPN2JGVExMaUNrVGFQalpOai1iUktTTEc4WXpJNXNQb1RSLWlrb05oandxZnJGSFlwT1Nib0xYdXVESm9SeUc1ZkZzaUk5ZS1ZLS14VHBPSQ?oc=5"
       },
       {
        "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
        "fuente": "WTA",
-       "fecha": "2026-11-11",
+       "fecha": "2026-11-12",
        "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
+      },
+      {
+       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
       }
      ]
     },
@@ -3678,6 +3326,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "WTA Finals – Pegula vs Nosková: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEFTUE8zWUV5Z0dNdFAyQ01mekx1WnpMLUVmNUN2djlGQURraGN3LU1ZSXl0T2FuR2R4bnptVkJOYXVITHgtTjNRRVhhLUtzVVNIOXhXTkJMSldpZ0ZNdVpUV0piaUFBd0Q2OWp4eGpIVG9HcHJVV2dBdFVPN2JGVExMaUNrVGFQalpOai1iUktTTEc4WXpJNXNQb1RSLWlrb05oandxZnJGSFlwT1Nib0xYdXVESm9SeUc1ZkZzaUk5ZS1ZLS14VHBPSQ?oc=5"
+      },
+      {
        "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
        "fuente": "WTA",
        "fecha": "2026-11-12",
@@ -3688,12 +3342,6 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-11",
        "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Jessica Pegula vs. Linda Noskova - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVFUN1RfcjNqcW5yRTdoWERxZ2hCeWFubURDanNCakVkV2NMT1g3VlNlVzY4aW5nNFJtWjVfQko0WWlNYUFnNjlKeTQwRHJ4WGFKTWZwajF3a3pRbDdfNnkwY0ItNUM0S2FqeG52OEUtQ1dYZS1tZnN6RElnT1pVVHYwendndlRkcmZrUEI5R3Foc1JHTWZTd2J6aDZHNTk2ZlE?oc=5"
       }
      ]
     }
