@@ -2606,7 +2606,7 @@
   "betsson": 2004
  },
  "ultima_decision": "2026-11-12",
- "ultima_sala": "2026-11-12-14",
+ "ultima_sala": "2026-11-12-20",
  "noticias_vistas": [
   "82968b4d4d41",
   "a55da71a6dfd",
@@ -3434,270 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "235263f6f3bbd21f2327b39e61407934": {
-   "id": "235263f6f3bbd21f2327b39e61407934",
-   "jugadores": [
-    "Nuno Borges",
-    "Ignacio Buse"
-   ],
-   "inicio": "2026-11-05T14:10+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T13:10+00:00",
-   "elo": 0.548,
-   "elo_general": 0.532,
-   "elo_en_superficie": 0.564,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Nuno Borges",
-     "mercado": 0.591,
-     "elo": 1732,
-     "elo_superficie": 1710,
-     "forma": [
-      "P hard vs Jan-Lennard Struff",
-      "G hard vs Adrian Mannarino",
-      "P hard vs Alex Molcan",
-      "G hard vs Moise Kouame",
-      "G hard vs Karen Khachanov"
-     ],
-     "cansancio": "2 partidos, 4 sets y 35 juegos en 3 días; el último el 2026-11-04 contra Karen Khachanov, ganó 6-3 6-4",
-     "noticias": [
-      {
-       "titulo": "Ignacio Buse: ¿Día y hora del partido ante Nuno Borges por los cuartos de final? - Agencia Andina",
-       "fuente": "Agencia Andina",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXVhanF6akxVTWlTbmdSZVlFQk9uQ2xSeTRqZFkyZmpVTXk3OThTb2pEeG5CQkNROU51M0hYb3hldGNsQTRvZHB4b3ZXMXp5Y2FaVzZLTUQxSEdlb0d2LWdpSVR0MzR2X3Jycm84djR1NUhyVXlVTktxc0JfNlRHRXBUVjBDbVpmZ2JwSjdJMUgwMThudkRvXy0xdWtmMDM5WWhPOUpuTVlxNldyaGV3UmhobWlvbC1m?oc=5"
-      },
-      {
-       "titulo": "Ver hoy, Ignacio Buse vs, Nuno Borges EN VIVO: mira gratis por ESPN y Disney Plus - Depor",
-       "fuente": "Depor",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaUxPTThSa0M2ZTF0OFJvUEJfN0twTS12U19EenhuNDgycFZ0V19FZ3RrWHFneWUxODJ6bFhXaUY1UHUwM0d1Z0lEWUM2bHE5WFRxN0tsZTdwcTRfajNHQmc0T0U5Vk9zUGlDdkE2WWFvY1pyUjRvcVE0cE9MN2ZBcjZHZWk3TlplQnhtLWpubExabEZHaTFRU1cyS3JkdXdLM0dmbHlEQVh6S1JDbm53by1BUXFRVEMwSFVWRWRFZ0hGdFJGem81dHdWNy1yWGo3R00wRzVSUk8zYkR6ZGswckh5Y2hUOHUzclVxbXpuSnotOGVhdU1pM21QSDhVd2tiNFZvVlg1ajVvaWo2THFMTTgtWDBFcWfSAasCQVVfeXFMUGdiMlF5RnJRYTY0Nmh0aF90bmpjcFJlRE10dGhxMzYxTEwtcGlqZWJwSTk0U2tEaENtTm1naWdmZk9CWVV4Y1pHMDZtRkZxSXlydy1ITXRHT0VZNVNIR0JXRU5Pc24xcUROVFU4dTFMeXpGMERPWHZqU1REVWRHNFVtRVI3Q2FrYkotVElsbmRaNEhVbnVrTXhqWmJkNHR2WlRQTDJWUEhqRkItZGlXTXhvVndVeVYtdGhTZ0YxMm54cW4xdFJVZFFhbXBmb1lLTG1xLWhZOV9jOE84MlFiYjU4MTEyZURjZnctRldINmFMU2FwQkJaX0xSamVZOWlrS3JzOTFfQVBVMzdjVmhkWnBNMGV0a3JYaW5tb3ZVYXlCdllpX1J3Q2FBRkk?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs Nuno Borges: día, hora y canal TV del duelo por octavos de final del Masters 1000 de París 2026 - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0xFOUxwc3hCREpOdDBsVEpjUFVlT29QVGZBWWZ3WHlsOHpLdUY4alMydjBVOWFfWVFXZE5kNDlSZGp4bEY5WUNkblg0Q2s1Qlg2dk1wY1luX1FiMF9vYThZTWowcEdfOWU3ck1melNRdkNrUW5wZWdYWTdfOTZfNlc3SFZXSEdTdk41TTV4NEVHOEhxRjg5b1RyTDF0ei1ILXgzSmZFV2RLbzJKX0lWNktQZzZmSDE5U0VPSGlaSXFsbGJyZ0VlVlpTMEticTctY2lXMzllcjh4b2ZCY1lxWURVNzNvRTdPRHluRVVXYljSAYsCQVVfeXFMTTdONUZyRDhzRmVDSTQ2c1VSaWFvZWxZWjFQbVhjdDI3ZDN2aUV5X2ZpcG9VX3ZNVWRlQmw1LUJSWExMV18yaFlLelVQNzZBX1RuMHJFaV9WSlQxNjM3ZFhlVmtQbl9WaWxETk10eE5UTmY0OENuT0l3NVowWG5mM19JY0YtbUZ1TzhrZ2tWZi16VnR3VDI1OVZHTHdhOUM1dUZTc28yS0pQNWp4LTVsem1ESXBtSXU1dWVjdTBKUTlheEhnOXdRVWthay1oQ1QtTFVaY3E1WmFYNXpFeEZhemFydVZFR3lERGZIUmdoa0Y0cTl2VkszY1RWZk5kZkVDMHRKdXNsajZKMEJv?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Ignacio Buse",
-     "mercado": 0.409,
-     "elo": 1710,
-     "elo_superficie": 1665,
-     "forma": [
-      "P hard vs Quentin Halys",
-      "P hard vs Zizou Bergs",
-      "P hard vs Adrian Mannarino",
-      "G hard vs Zizou Bergs",
-      "G hard vs Daniil Medvedev"
-     ],
-     "cansancio": "2 partidos, 4 sets y 38 juegos en 3 días; el último el 2026-11-04 contra Daniil Medvedev, ganó 6-4 6-4",
-     "noticias": [
-      {
-       "titulo": "Ignacio Buse: ¿Día y hora del partido ante Nuno Borges por los cuartos de final? - Agencia Andina",
-       "fuente": "Agencia Andina",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXVhanF6akxVTWlTbmdSZVlFQk9uQ2xSeTRqZFkyZmpVTXk3OThTb2pEeG5CQkNROU51M0hYb3hldGNsQTRvZHB4b3ZXMXp5Y2FaVzZLTUQxSEdlb0d2LWdpSVR0MzR2X3Jycm84djR1NUhyVXlVTktxc0JfNlRHRXBUVjBDbVpmZ2JwSjdJMUgwMThudkRvXy0xdWtmMDM5WWhPOUpuTVlxNldyaGV3UmhobWlvbC1m?oc=5"
-      },
-      {
-       "titulo": "Ver hoy, Ignacio Buse vs, Nuno Borges EN VIVO: mira gratis por ESPN y Disney Plus - Depor",
-       "fuente": "Depor",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaUxPTThSa0M2ZTF0OFJvUEJfN0twTS12U19EenhuNDgycFZ0V19FZ3RrWHFneWUxODJ6bFhXaUY1UHUwM0d1Z0lEWUM2bHE5WFRxN0tsZTdwcTRfajNHQmc0T0U5Vk9zUGlDdkE2WWFvY1pyUjRvcVE0cE9MN2ZBcjZHZWk3TlplQnhtLWpubExabEZHaTFRU1cyS3JkdXdLM0dmbHlEQVh6S1JDbm53by1BUXFRVEMwSFVWRWRFZ0hGdFJGem81dHdWNy1yWGo3R00wRzVSUk8zYkR6ZGswckh5Y2hUOHUzclVxbXpuSnotOGVhdU1pM21QSDhVd2tiNFZvVlg1ajVvaWo2THFMTTgtWDBFcWfSAasCQVVfeXFMUGdiMlF5RnJRYTY0Nmh0aF90bmpjcFJlRE10dGhxMzYxTEwtcGlqZWJwSTk0U2tEaENtTm1naWdmZk9CWVV4Y1pHMDZtRkZxSXlydy1ITXRHT0VZNVNIR0JXRU5Pc24xcUROVFU4dTFMeXpGMERPWHZqU1REVWRHNFVtRVI3Q2FrYkotVElsbmRaNEhVbnVrTXhqWmJkNHR2WlRQTDJWUEhqRkItZGlXTXhvVndVeVYtdGhTZ0YxMm54cW4xdFJVZFFhbXBmb1lLTG1xLWhZOV9jOE84MlFiYjU4MTEyZURjZnctRldINmFMU2FwQkJaX0xSamVZOWlrS3JzOTFfQVBVMzdjVmhkWnBNMGV0a3JYaW5tb3ZVYXlCdllpX1J3Q2FBRkk?oc=5"
-      },
-      {
-       "titulo": "Ignacio Buse vs Nuno Borges: día, hora y canal TV del duelo por octavos de final del Masters 1000 de París 2026 - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY0xFOUxwc3hCREpOdDBsVEpjUFVlT29QVGZBWWZ3WHlsOHpLdUY4alMydjBVOWFfWVFXZE5kNDlSZGp4bEY5WUNkblg0Q2s1Qlg2dk1wY1luX1FiMF9vYThZTWowcEdfOWU3ck1melNRdkNrUW5wZWdYWTdfOTZfNlc3SFZXSEdTdk41TTV4NEVHOEhxRjg5b1RyTDF0ei1ILXgzSmZFV2RLbzJKX0lWNktQZzZmSDE5U0VPSGlaSXFsbGJyZ0VlVlpTMEticTctY2lXMzllcjh4b2ZCY1lxWURVNzNvRTdPRHluRVVXYljSAYsCQVVfeXFMTTdONUZyRDhzRmVDSTQ2c1VSaWFvZWxZWjFQbVhjdDI3ZDN2aUV5X2ZpcG9VX3ZNVWRlQmw1LUJSWExMV18yaFlLelVQNzZBX1RuMHJFaV9WSlQxNjM3ZFhlVmtQbl9WaWxETk10eE5UTmY0OENuT0l3NVowWG5mM19JY0YtbUZ1TzhrZ2tWZi16VnR3VDI1OVZHTHdhOUM1dUZTc28yS0pQNWp4LTVsem1ESXBtSXU1dWVjdTBKUTlheEhnOXdRVWthay1oQ1QtTFVaY3E1WmFYNXpFeEZhemFydVZFR3lERGZIUmdoa0Y0cTl2VkszY1RWZk5kZkVDMHRKdXNsajZKMEJv?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "47d9edba7490e876194504362c877fe3": {
-   "id": "47d9edba7490e876194504362c877fe3",
-   "jugadores": [
-    "Jan-Lennard Struff",
-    "Casper Ruud"
-   ],
-   "inicio": "2026-11-05T15:20+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T13:57+00:00",
-   "elo": 0.417,
-   "elo_general": 0.42,
-   "elo_en_superficie": 0.414,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Jan-Lennard Struff",
-     "mercado": 0.369,
-     "elo": 1754,
-     "elo_superficie": 1728,
-     "forma": [
-      "G hard vs Yannick Hanfmann",
-      "G hard vs Novak Djokovic",
-      "G hard vs Nuno Borges",
-      "P hard vs Jiri Lehecka",
-      "G hard vs Arthur Gea"
-     ],
-     "cansancio": "2 partidos, 4 sets y 44 juegos en 3 días; el último el 2026-11-04 contra Thiago Agustin Tirante, perdió 6-7 6-3",
-     "noticias": [
-      {
-       "titulo": "Thiago Tirante luchó hasta el final, pero quedó eliminado del Masters 1000 de París - www.puntocapitalnoticias.com",
-       "fuente": "www.puntocapitalnoticias.com",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUtqV3lDZUR2Z190LVRlTVdlcmE1RndDM2NhbUREUzlkUXlLYm1melBSYUJWTXplM3B3b1dHTW1LMHpNSHVVOGFfekRFWkxsWEMxNG1QSmI1U1otUC1LMXBDMFhEQVJid2NGLTgtR01VQ2t3VFI2NFFZekFleUc1MUxPNjA0R0MtWUNualNyQ3NxSDlkQzRSdmMwMEhyenRBRzdXdjNKUnhzeHlZWHdBTU0xMXc5blhpZzVoVg?oc=5"
-      },
-      {
-       "titulo": "Masters de París: Etcheverry le ganó a Rublev y Cerúndolo abandonó por una molestia lumbar - El Argentino Diario",
-       "fuente": "El Argentino Diario",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3EyUTR3RnVlU21ialA0a0hMVEllVjIxdGEycGFnWFBqNVc0eGEzYnJxQnhvX2pKNl9YZ2lwX1QyUVh1dWlrc3dzOXlhSHpSMDh4NlItaFltUWdIRG9odkd4R25OVnYxQnBHbjVCQWhJcjVWRV8xdHJ1ZWJYcjJwcWhoM25sT2pDbzUxNVRlYXpkWWF5NS1Ta3g5Mk1KOW5Fb1M0SHBsemJWT0lmamxEdTNKQUlFcm9qMHdz?oc=5"
-      },
-      {
-       "titulo": "Tenis: Tomás Etcheverry avanzó a octavos de final y Thiago Tirante busca la clasificación en el Masters de ... - Rosario3",
-       "fuente": "Rosario3",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU1JKZWZ0d2ZZNGlmM3BNMHlweDd1bTQ2aHBkNEpiTzMzZUxwYmRZX2YxQVU0d3J1Z3Q2VWN1YTdHQUpBM2c3OURtWFpHa2pXd3R1NUZ6cGRYNWY1NWpzR1ZuanFvWThkdlZFeVBld0VVRjl5NFFxZ0c3VjlDNGs5LVd3Q3FoNHVBMkU1cDRzVngyWWhMZEFGQThfbUo3MTNPN1UzUWYwRjlncU9HSVlTbmVIMEJFYldzZEdUcE5ISGdBRWN1Q2M3Z1NmRFVNd2RsbzRZeFhyMUR6bFNwem9MajZkNUtxbXhBMWhFWENic3pBZlhrTC1ZcDNYNld2ZXJVYmZtSHdB0gGGAkFVX3lxTFBTUkplZnR3Zlk0aWYzcE0weXB4N3VtNDZocGQ0SmJPMzNlTHBiZFlfZjFBVTR3cnVndDZVY3VhN0dBSkEzZzc5RG1YWkdrald3dHU1RnpwZFg1ZjU1anNHVm5qcW9ZOGR2VkV5UGV3RVVGOXk0UXFnRzdWOUM0azktV3dDcWg0dUEyRTVwNHNWeDJZaExkQUZBOF9tSjcxM083VTNRZjBGOWdxT0dJWVNuZUgwQkViV3NkR1RwTkhIZ0FFY3VDYzdnU2ZEVU13ZGxvNFl4WHIxRHpsU3B6b0xqNmQ1S3FteEExaEVYQ2JzekFmWGtMLVlwM1g2V3ZlclViZm1Id0E?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Casper Ruud",
-     "mercado": 0.631,
-     "elo": 1811,
-     "elo_superficie": 1788,
-     "forma": [
-      "P hard vs Rafael Jodar",
-      "G hard vs Dominic Stricker",
-      "P hard vs Nuno Borges",
-      "G hard vs Juan Manuel Cerundolo",
-      "G hard vs Rafael Jodar"
-     ],
-     "cansancio": "2 partidos, 4 sets y 36 juegos en 3 días; el último el 2026-11-03 contra Rafael Jodar, ganó 6-3 6-4",
-     "noticias": [
-      {
-       "titulo": "Paul pasa a cuartos de París y sigue como amenaza de Jódar para uno de los dos billetes de ATP Finals - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFR5OU93ZzZNWkEwM0FxUmxUUk81SVdSaExka3ZsVXhTYTZNLVRJM3NSZkVuQlY2YXpobE55dUFQNnZFOTI1ajFjOFVjb0YwT2h0YkVVamRVeGlWaERMUGEzZmlublgxR2xjN3N1UlBUTzlNWUxxX3NjM3EyWU1mQ1R5VHVPTlljT2pIdk1vdUlDTkZpX1N4U1d2RHNnWmJqUW9SYnFPRWRfSTlkZWhJVEJzdGhJNjFGQm9JXzVDdW9WRUdISzZRVjZB0gHKAUFVX3lxTE5rc2ZsVTRBY3FydnRFYVMzajVnMVBSVDlJMjBHSjFfQlJTSEFyYVJubzU1Yl9ZSml1NC1DYWNxVUVSeGdVVXU3VXpKdTFBMHM2TUZ0My1nTnBGUTFHVVVrbHI0RTFfbzI2M0ZQMGM2STdSTXIwVlBPX2YwYjN6b2JyczRtdGMyVmptSFVUNWExcno4V0xGWlpzOFRJbE9JZmVRVGRwNzUwMVh5NTZXWTJ0NXNHbFE2dUVtZDdsdFJ2QWxFX01LeE11UGc?oc=5"
-      },
-      {
-       "titulo": "Jan-Lennard Struff - Casper Ruud en directo - París Masters: Resultados y resúmenes de Tenis - 05/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUlqb3BZSHdaVGFJclFuaXNONjFrdEUzU2sxclMxYmxYY3o4WTR2VDRnQlRYV3lwbFRpZEwyc2NHbmxuLTRpMW9JZHF3VERTZFR4b0pMSWJnQXBRSWRJQVlORFJ2dHk1dWg5YUQ0Y296NTFLamRxeEtEUmRoSmU3ZmF1TmZhQnh2S2VGMGZ2blZVNjhrZHdUSV9VcVVNaWowX28wY1ZGRGxXY2VCVmUxVTZFRUFTQXJQ?oc=5"
-      },
-      {
-       "titulo": "Jan-Lennard Struff vs Casper Ruud · Round 3 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXJpZ1l4YS0zR1FTTFk2VWlnemNDZ1NKd3A4TFFaRnR2dVkxMEo3V3dlMXh1cGxrakFuYm15dkdmRjB4eXpmVDNYb2VYMnVQdllfTnNsVWMzSEI5V2xBN2t0cXVOS3JHNDFCN3gyQVc4OFFrOWV2aEhNRXhNaVF3ZFpVbUZNOG5IM0xMMlBONEg3S0RGU1RV?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "1ef82c68f5ccf78aa0a6d031f750cc6e": {
-   "id": "1ef82c68f5ccf78aa0a6d031f750cc6e",
-   "jugadores": [
-    "Matteo Berrettini",
-    "Carlos Alcaraz"
-   ],
-   "inicio": "2026-11-05T18:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T17:10+00:00",
-   "elo": 0.08,
-   "elo_general": 0.077,
-   "elo_en_superficie": 0.083,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Matteo Berrettini",
-     "mercado": 0.174,
-     "elo": 1716,
-     "elo_superficie": 1682,
-     "forma": [
-      "P hard vs Kyrian Jacquet",
-      "G hard vs Tomas Martin Etcheverry",
-      "P hard vs Alex de Minaur",
-      "G hard vs Brandon Nakashima",
-      "G hard vs Ugo Humbert"
-     ],
-     "cansancio": "2 partidos, 5 sets y 57 juegos en 3 días; el último el 2026-11-04 contra Ugo Humbert, ganó 7-6 7-5",
-     "noticias": [
-      {
-       "titulo": "Carlos Alcaraz, a cuartos del Masters 1.000 de París sin jugar: Berrettini anuncia su retirada - 20Minutos",
-       "fuente": "20Minutos",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamFzZnpQMVY2SjVWRndIeUdXZ0pwS2tCTzZJOUtNU1ZNdE1lT3NZbmNxWWRpcTVpU3FvQ0g0ZkRkcjVudzk5NGpXUG1VeVNDYm50SC1EWTZBLXQ3R0F4NkdUV2M5al9TNVh6cmN3elNfX0dHZ3FEYkpYZURYVGxYQVJLWHR1T1o1NmMyY2JyRHlUSGJPdl9oaFdLWnNBOUM3eGxTdFpWQjYyaDFUc1c3Y2RNby1XWEJUd09Wa2ctZHBzTjdxajk4NjdOQWVSWXh2endnUQ?oc=5"
-      },
-      {
-       "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZuaENCOGRoWEtDdlZ5RUlmYzdhNnBfZGpNd3YwWmtMR2tYNVFmMGRTLTVSSzZkclgtYkJucG9ZWlBRcUdmcEJ1c0FneHFkZjhUQWpTa0RGeHVhNldBejY4bDNEMTJjRG16QWFhODZUWHVReHljaWFCeW5RQlRuQ1NTOWlUa3MzXzBtM0RNVjAydG01TVN1UDgwR3Etb1lmRGtuaDhqNGZOeHo5MURzUWtvZ9IBxwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B?oc=5"
-      },
-      {
-       "titulo": "Alcaraz accede a los cuartos de París por la baja de Berrettini - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU55WEhES3RDYU5JX3ZLTjhjcElvWVQ0V05vU3hYWEF2WVRVNGZEYm9SczRaUExBaFBhY1J5MThpVWVPS3FLVFYyU0RmN0NpaGYtYTRYNlNrdVZXdm1NMU5XVVZQQ2hxTWVQdlRyc1g3NWR0UklSOEx4MFNySzlmWDFRRXg1Z3hEdjQzMnBMV1N1Rzl5T2Z2WTdteGM4M0ZyZFZvSXpwbGFHbFBNeG40YWptZV9ZeWxBU3dIa1B0Nm1CX3puWi1B0gHHAUFVX3lxTE9RTnlYSERLdENhTklfdktOOGNwSW9ZVDRXTm9TeFhYQXZZVFU0ZkRib1JzNFpQTEFoUGFjUnkxOGlVZU9LcUtUVjJTRGY3Q2loZi1hNFg2U2t1Vld2bU0xTldVVlBDaHFNZVB2VHJzWDc1ZHRSSVI4THgwU3JLOWZYMVFFeDVneER2NDMycExXU3VHOXlPZnZZN214YzgzRnJkVm9JenBsYUdsUE14bjRham1lX1l5bEFTd0hrUHQ2bUJfem5aLUE?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Carlos Alcaraz",
-     "mercado": 0.826,
-     "elo": 2148,
-     "elo_superficie": 2100,
-     "forma": [
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Tommy Paul",
-      "G hard vs Daniil Medvedev",
-      "G hard vs Alex de Minaur",
-      "G hard vs Alex Michelsen"
-     ],
-     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
-     "noticias": [
-      {
-       "titulo": "Alcaraz, Djokovic star in October's Hot Shot of the Month; Vote here - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRU1qd1E0c1FoM3NjQi16TmNDaDF4Wnl2V0szS1hzU0ZGSVpoWVBkVDFUMGtuWlZldGZRbTkwalJJS2RVTVBSMF9Cb2ttekxuMHlRMnpmZDNqM0JMMDQ2ZGFpMWNFV0xaQVFDc3Q2MmJSWmxMU1k2QkdBWlNCdXJOdHJvRQ?oc=5"
-      },
-      {
-       "titulo": "Carlos Alcaraz, a cuartos del Masters 1.000 de París sin jugar: Berrettini anuncia su retirada - 20Minutos",
-       "fuente": "20Minutos",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamFzZnpQMVY2SjVWRndIeUdXZ0pwS2tCTzZJOUtNU1ZNdE1lT3NZbmNxWWRpcTVpU3FvQ0g0ZkRkcjVudzk5NGpXUG1VeVNDYm50SC1EWTZBLXQ3R0F4NkdUV2M5al9TNVh6cmN3elNfX0dHZ3FEYkpYZURYVGxYQVJLWHR1T1o1NmMyY2JyRHlUSGJPdl9oaFdLWnNBOUM3eGxTdFpWQjYyaDFUc1c3Y2RNby1XWEJUd09Wa2ctZHBzTjdxajk4NjdOQWVSWXh2endnUQ?oc=5"
-      },
-      {
-       "titulo": "\"Ferrero no puede tomarse como personal el objetivo de vencer a Alcaraz\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHlxcDh1UWFjWTc0elFfeWoxMnAwdnlIMlUxY19TSnI2UkxWcE1LVzMwTVUzbWdoLWdJQVFkckRNZHBzMFlwcG1tM0FIWkN1azB4YVFvU2pXNUxDRXRvc0xtelBOeExBb1ktaWFRckhhUUNobElBQ3JGVzgxTUsxeHpCMHZmV2RnYnh6LXBrdDV5NFpYakE?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "6a03e950601f142942705acfb764d107": {
    "id": "6a03e950601f142942705acfb764d107",
    "jugadores": [
@@ -4499,7 +4235,7 @@
    "inicio": "2026-11-12T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-12T13:00+00:00",
+   "actualizado": "2026-11-12T19:00+00:00",
    "elo": 0.247,
    "elo_general": 0.332,
    "elo_en_superficie": 0.161,
@@ -4529,16 +4265,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
       },
       {
+       "titulo": "Marta Kostyuk espera un mejor resultado tras ser «destrozada» por Coco Gauff en Cincinnati - Tennis World ES",
+       "fuente": "Tennis World ES",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWF92MDVpSUN6SG1mTjRHSFgxX0FtMFdFbkU0cFM3NFVMVGhqLVZNVFFXamxKRlUzRG1CM21ubUtVaWQ1czNXWXBsc0tXd2ZZeU1WdVh0RjhPSFVhRzhhMUxrOFEzZF9CT0FPQzUzWTNKR1FleFEydTJXblRQemQ3V00wczFueU05X25mbUVORXNpeFBlMzVONkhoYzhESlV5TGFTR2VZTmI0VUNYTTJyZ3h3V3Q5YkJCODhrU3RlUlIwMWtaRmRCSExYN1hTUmVxanh0Tl8wUQ?oc=5"
+      },
+      {
        "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
        "fuente": "Eurosport",
        "fecha": "2026-11-11",
        "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Coco Gauff vs. Marta Kostyuk - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnFCTV9hUUVtQ1lpcFJzTTZrNmQzY1FRbXBCRTk3bFZ2dFZ0bHhGNGtPOEZqeExpbXN6MVktM0dtZXhwV1ZObDIxbGZFUGZhMERGUV9UbW9sc1J2TGhIVFpKUUtuX3pLUy1yWmJXRjZpRVR0S1JxbEtnYlV6MjMzWDBFelNpLUx5UG0xNWNLMXdRNHdYaUdHd20zQkI?oc=5"
       }
      ]
     },
@@ -4563,16 +4299,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
       },
       {
+       "titulo": "El refugio secreto de Coco Gauff en Florida que esconde la playa favorita de la tenista: no es Miami - Noticias del Vino",
+       "fuente": "Noticias del Vino",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVo5SEpPVi1wTU8yUU4tVGJRV1lsaFR5X0d3c09fbFhWSlcyQmRTalVFX1hBYWZRaHI5UVZoUTJVcmN3UHdhTTIyeVhVQkpBMTdhYU1Kc1pvMl9KLTY5aDB2Q0tXY19tamdVaWprU2d0bHpQZUVVYm5DZXBJblpOXzhQQUZaS0NCY0FhSUdSUFhGQ21WZjY3aUJQUEJWemVHWEFmWUdiVXJlT3NGRXFtdjY1WlhlQmpLTC11ak5iUW5jMm5PVHFSbXZGanRNMWkxVkQzYTVITUZobXV6Y3J1V0RTc3o3b1dpdmJIQzNIN20?oc=5"
+      },
+      {
        "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
        "fuente": "WTA",
        "fecha": "2026-11-12",
        "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
-      },
-      {
-       "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHFMYloyQUpCcUhKaWYxeDNjcXlXS2VETy1ULUtSUWFJNV9fZTB2dHZlOVN3NlhUYzV2WGRNbC12TTFuaUpta2h4MFZJaVVCa0hnLTMzMWVEdGpqZUVDZmVfS1VqdEtDS1F3M242U2pTUkdRVmhpZXE0aW5QQWtuQmJ6WGpDcDZXcnppbm1zY0RnTlBjUFdqTm9UdXRkWE1WY0l6cFhLOU44NW5fbkRHckltZ2lHZw?oc=5"
       }
      ]
     }
@@ -4587,7 +4323,7 @@
    "inicio": "2026-11-12T21:30+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-12T13:00+00:00",
+   "actualizado": "2026-11-12T19:00+00:00",
    "elo": 0.571,
    "elo_general": 0.511,
    "elo_en_superficie": 0.632,
