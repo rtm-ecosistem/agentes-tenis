@@ -165,9 +165,9 @@
     "motivos": {
      "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
-     "aburrimiento": "Lleva 13 días sin apostar."
+     "aburrimiento": "Lleva 14 días sin apostar."
     },
-    "hora": "2026-11-11T08:00+00:00",
+    "hora": "2026-11-12T08:00+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,9 +325,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 14 días sin apostar."
+     "aburrimiento": "Lleva 15 días sin apostar."
     },
-    "hora": "2026-11-11T08:00+00:00",
+    "hora": "2026-11-12T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -472,9 +472,9 @@
      "aburrimiento": 0.27
     },
     "motivos": {
-     "aburrimiento": "Lleva 14 días sin apostar."
+     "aburrimiento": "Lleva 15 días sin apostar."
     },
-    "hora": "2026-11-11T08:00+00:00",
+    "hora": "2026-11-12T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -632,9 +632,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 14 días sin apostar."
+     "aburrimiento": "Lleva 15 días sin apostar."
     },
-    "hora": "2026-11-11T08:00+00:00",
+    "hora": "2026-11-12T08:00+00:00",
     "rent": 0.0
    }
   }
@@ -2185,36 +2185,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-05T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Lorenzo Musetti – Luca Van Assche, Rinky Hijikata – Tomas Martin Etcheverry, Jan-Lennard Struff – Casper Ruud…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T11:37+00:00",
-   "texto": "📰 Noticias nuevas de Matteo Berrettini – Carlos Alcaraz, Arthur Fils – Taylor Fritz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-05T11:37+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-05T12:10+00:00",
    "texto": "📰 Noticias nuevas de Rinky Hijikata – Tomas Martin Etcheverry, Jan-Lennard Struff – Casper Ruud, Matteo Berrettini – Carlos Alcaraz…: la sala actualiza su informe.",
    "tipo": "info"
@@ -2583,15 +2553,45 @@
    "hora": "2026-11-11T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-12T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 30,
-  "restantes": 470,
-  "usados": 30,
-  "actualizado": "2026-11-11T08:00+00:00",
-  "prevision_mes": 52,
+  "gastados_mes": 33,
+  "restantes": 467,
+  "usados": 33,
+  "actualizado": "2026-11-12T08:00+00:00",
+  "prevision_mes": 50,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2605,7 +2605,7 @@
   "sport888": 2002,
   "betsson": 2004
  },
- "ultima_decision": "2026-11-11",
+ "ultima_decision": "2026-11-12",
  "ultima_sala": "2026-11-11-20",
  "noticias_vistas": [
   "82968b4d4d41",
@@ -3434,94 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "1cd952bfa7bc99f45d2ced1b80209056": {
-   "id": "1cd952bfa7bc99f45d2ced1b80209056",
-   "jugadores": [
-    "Arthur Fils",
-    "Tomas Machac"
-   ],
-   "inicio": "2026-11-04T19:30+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-04T19:01+00:00",
-   "elo": 0.77,
-   "elo_general": 0.795,
-   "elo_en_superficie": 0.745,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Arthur Fils",
-     "mercado": 0.615,
-     "elo": 1918,
-     "elo_superficie": 1879,
-     "forma": [
-      "P hard vs Botic van de Zandschulp",
-      "G hard vs Alex Michelsen",
-      "P hard vs Jan-Lennard Struff",
-      "G hard vs Giovanni Mpetshi Perricard",
-      "G hard vs Alex Michelsen"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Arthur Fils - Tomas Machac, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR2hkeFhYQXljWWhFUGtoeTZuZ0tuWFVHdTlabkJLenoyVV9fSExrNTlFQ04tYUFnYTB5YVFqSVpyZ3ZveDQ5YlN3d3RvZW5jMTFBQTNUc0Q3ZVBWdlVSbkxXbFhsQ2d5bWVLeW5PT3lQNmJObE5QQ0NrT3VvMkRvUWkyS3RuSldBYlZ2b1U0ZTk0aERTdkhlbWlkS1FyQlE2dDFMZl9UMVBiLVRraHl2LWxVdWJnS1Q2NXAwZU9KYm5CRDRYRFJ2MWVlazRwMkNVMGhPb3dnbjF5UFFpcjQ4Q2VKdnVtblN4Y2c?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils vs Tomáš Macháč · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
-      },
-      {
-       "titulo": "Es el sexto clasificado para las ATP Finals de Turín sin tener que saltar a la pista en París - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW9YTVR3ampUSDlaSlZGV1lCRkVJSlNsUVAwcWU4YVI3SU9hQ1E1M3AzTkJDMnREX25wMlRLYW52dXJEckJBaGhTX1NsX2VwemhZczdtSFlBS0FVaWVmeTg1NlJLM0daQ3c3MkFYcy13MEM4M3VxeUJ1N3VGdTlMbFFaanFNSktDR2dNT08tWXZEdnc0S3ZYTTJhVDBZTy1iTlFrMnE5UEtEU1JuV3dYY2FTbHR1d9IBwwFBVV95cUxQbllDQzdXemlIQ21JakFLZ1E4c2d4bW1iYVZ0VTdadm5takpGVUdaZVNMdk5VMzhEODRkYW9RbTB5RVFqUFdLcWF5MzFWT2JQNkV6MWJXbFdoNWl1d1ZYeGZQRHB5bG5WQlVDMU9KV18zTTJzeUJRWGxOd2J0UkRQQVROZTdyWWg5T1hFRHU3NVNJODZxaFpMRkpjQVl2OFA0M1pHSTd3YnBRcnpuVjN1YmtsNkRsTnpJUHVJVHlrR19iU0E?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Tomas Machac",
-     "mercado": 0.385,
-     "elo": 1683,
-     "elo_superficie": 1693,
-     "forma": [
-      "G hard vs Corentin Moutet",
-      "P hard vs Alex de Minaur",
-      "G hard vs Martin Landaluce",
-      "G hard vs Sebastian Baez",
-      "G hard vs Kyrian Jacquet"
-     ],
-     "cansancio": "2 partidos, 4 sets y 38 juegos en 3 días; el último el 2026-11-02 contra Kyrian Jacquet, ganó 7-6 6-1",
-     "noticias": [
-      {
-       "titulo": "Arthur Fils - Tomas Machac, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR2hkeFhYQXljWWhFUGtoeTZuZ0tuWFVHdTlabkJLenoyVV9fSExrNTlFQ04tYUFnYTB5YVFqSVpyZ3ZveDQ5YlN3d3RvZW5jMTFBQTNUc0Q3ZVBWdlVSbkxXbFhsQ2d5bWVLeW5PT3lQNmJObE5QQ0NrT3VvMkRvUWkyS3RuSldBYlZ2b1U0ZTk0aERTdkhlbWlkS1FyQlE2dDFMZl9UMVBiLVRraHl2LWxVdWJnS1Q2NXAwZU9KYm5CRDRYRFJ2MWVlazRwMkNVMGhPb3dnbjF5UFFpcjQ4Q2VKdnVtblN4Y2c?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils vs Tomáš Macháč · Round 2 · ATP Paris - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekgtNDEwWkEydnU4a0ZHREFpZE15WWZNV2g2RlROXy1yalJ3clgycnpTcnRSTG5jRi1VRmJVZGNqZHZjbDU4Ry1tWE93M3Q3Qjg4Z1N0V251ZnA2ZVZxV1VieXdOWWsxZ2k2cXlSRDVUSUJJNzNaMXpLVV9BamVyUlB4VURtc2t1dDdYN3dDRk9Rd1A0Qnc0?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils - Tomáš Machác en directo - París Masters: Resultados y resúmenes de Tenis - 04/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-04",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTBPWGg2QTNHcFlrS1IwSVRHN3NxR2VfM2pqY1N0QVBmb3RfcU9mWlR3b0V2cXhveTUtNDg3RjRNR0d3QzhOZWc4YXppX0NjUHF4cjRJcUgtU1ZFOGRVRDVTN0haT3VmZVVnWXV1eGY1NmF1Rm5yTHQ0T3gtdUJPZ1hrU0FuMXlZUmF0QXNkT0lwRTNRdWhXRThvanpQVUJyd2pQVUpacVlqcVR1dUtpdw?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "4111a4ac0ae11935311b655ebadd040b": {
    "id": "4111a4ac0ae11935311b655ebadd040b",
    "jugadores": [
@@ -4929,6 +4841,182 @@
      ]
     }
    ]
+  },
+  "b8a1b5d0077794775db0a2ca6b15baf7": {
+   "id": "b8a1b5d0077794775db0a2ca6b15baf7",
+   "jugadores": [
+    "Marta Kostyuk",
+    "Coco Gauff"
+   ],
+   "inicio": "2026-11-12T20:00+00:00",
+   "torneo": "WTA Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-12T08:00+00:00",
+   "elo": 0.247,
+   "elo_general": 0.332,
+   "elo_en_superficie": 0.161,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Marta Kostyuk",
+     "mercado": null,
+     "elo": 1914,
+     "elo_superficie": 1739,
+     "forma": [
+      "G hard vs Sloane Stephens",
+      "G hard vs Ekaterina Alexandrova",
+      "P hard vs Linda Noskova",
+      "P hard vs Liudmila Samsonova",
+      "P hard vs Maria Sakkari"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
+      },
+      {
+       "titulo": "¡Sorpresa para la local! Coco Gauff sufre una inesperada derrota en las Finales de la WTA - Diario Las Américas",
+       "fuente": "Diario Las Américas",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWdPeUh5UXJ0MmpFSDdoTlFqQzUzTEtzUWgwc0V3cWhoT3MxUWVncEVRMTNLYXpuQWhlU2xkX1pocUl6ZkI2U1VvQ1JsS3ZXSnlZOEVVOXBrNlhVQUhPUTVHTTlDRFh6SzBiYjRlT1RUWUxKVGRqR2hlc1Q4YkQyRDdEcVAxLWx4V0tQZ3A3YUhLN3hWNnNscThTZ0ZsczZjb0VfNnZQWVl2NE5hQTdybm1VNHB4QUw3TlNXQmJ1YWM2MENXYWdv0gHMAUFVX3lxTE9lb2xNR1BiYlN2UjVFUzc4X1VnMVVac3ZGMXMxSm8xZkdqejNEaHpra3pjd05nRlBJMzNRaTFSSmNJSVU4UHdUeTVOTTQzWUhZRElzSVhvcERSam43Q1NlX3NqSUNYbm1oRmYtZUhMNUh0ZVZnVDVrejV6R3VBc1Vmek5QRGI0cl95LWF5UV9ZVFJSZFoxczZaTW9SVVJrZm9PU3hvWjI4RURVQjlneFBia1poMWVQLTAxYjJRU1FUS3BkdE5aNDQ5dkk0ZQ?oc=5"
+      },
+      {
+       "titulo": "Rivalry Rewind: The best of Coco Gauff vs. Marta Kostyuk - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnFCTV9hUUVtQ1lpcFJzTTZrNmQzY1FRbXBCRTk3bFZ2dFZ0bHhGNGtPOEZqeExpbXN6MVktM0dtZXhwV1ZObDIxbGZFUGZhMERGUV9UbW9sc1J2TGhIVFpKUUtuX3pLUy1yWmJXRjZpRVR0S1JxbEtnYlV6MjMzWDBFelNpLUx5UG0xNWNLMXdRNHdYaUdHd20zQkI?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Coco Gauff",
+     "mercado": null,
+     "elo": 2035,
+     "elo_superficie": 2026,
+     "forma": [
+      "G hard vs Mirra Andreeva",
+      "P hard vs Elena Rybakina",
+      "G hard vs Camila Osorio",
+      "G hard vs Xinran Sun",
+      "P hard vs Elise Mertens"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHFMYloyQUpCcUhKaWYxeDNjcXlXS2VETy1ULUtSUWFJNV9fZTB2dHZlOVN3NlhUYzV2WGRNbC12TTFuaUpta2h4MFZJaVVCa0hnLTMzMWVEdGpqZUVDZmVfS1VqdEtDS1F3M242U2pTUkdRVmhpZXE0aW5QQWtuQmJ6WGpDcDZXcnppbm1zY0RnTlBjUFdqTm9UdXRkWE1WY0l6cFhLOU44NW5fbkRHckltZ2lHZw?oc=5"
+      },
+      {
+       "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
+      },
+      {
+       "titulo": "¡Sorpresa para la local! Coco Gauff sufre una inesperada derrota en las Finales de la WTA - Diario Las Américas",
+       "fuente": "Diario Las Américas",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWdPeUh5UXJ0MmpFSDdoTlFqQzUzTEtzUWgwc0V3cWhoT3MxUWVncEVRMTNLYXpuQWhlU2xkX1pocUl6ZkI2U1VvQ1JsS3ZXSnlZOEVVOXBrNlhVQUhPUTVHTTlDRFh6SzBiYjRlT1RUWUxKVGRqR2hlc1Q4YkQyRDdEcVAxLWx4V0tQZ3A3YUhLN3hWNnNscThTZ0ZsczZjb0VfNnZQWVl2NE5hQTdybm1VNHB4QUw3TlNXQmJ1YWM2MENXYWdv0gHMAUFVX3lxTE9lb2xNR1BiYlN2UjVFUzc4X1VnMVVac3ZGMXMxSm8xZkdqejNEaHpra3pjd05nRlBJMzNRaTFSSmNJSVU4UHdUeTVOTTQzWUhZRElzSVhvcERSam43Q1NlX3NqSUNYbm1oRmYtZUhMNUh0ZVZnVDVrejV6R3VBc1Vmek5QRGI0cl95LWF5UV9ZVFJSZFoxczZaTW9SVVJrZm9PU3hvWjI4RURVQjlneFBia1poMWVQLTAxYjJRU1FUS3BkdE5aNDQ5dkk0ZQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "7d0fa680caf6f5718ca51b421754252d": {
+   "id": "7d0fa680caf6f5718ca51b421754252d",
+   "jugadores": [
+    "Jessica Pegula",
+    "Linda Noskova"
+   ],
+   "inicio": "2026-11-12T21:30+00:00",
+   "torneo": "WTA Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-12T08:00+00:00",
+   "elo": 0.571,
+   "elo_general": 0.511,
+   "elo_en_superficie": 0.632,
+   "cara_a_cara": [
+    0,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Jessica Pegula",
+     "mercado": null,
+     "elo": 1964,
+     "elo_superficie": 1934,
+     "forma": [
+      "G hard vs Leylah Fernandez",
+      "G hard vs Sorana Cirstea",
+      "G hard vs Emma Navarro",
+      "P hard vs Aryna Sabalenka",
+      "P hard vs Jelena Ostapenko"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
+      },
+      {
+       "titulo": "Rivalry Rewind: The best of Jessica Pegula vs. Linda Noskova - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVFUN1RfcjNqcW5yRTdoWERxZ2hCeWFubURDanNCakVkV2NMT1g3VlNlVzY4aW5nNFJtWjVfQko0WWlNYUFnNjlKeTQwRHJ4WGFKTWZwajF3a3pRbDdfNnkwY0ItNUM0S2FqeG52OEUtQ1dYZS1tZnN6RElnT1pVVHYwendndlRkcmZrUEI5R3Foc1JHTWZTd2J6aDZHNTk2ZlE?oc=5"
+      },
+      {
+       "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Linda Noskova",
+     "mercado": null,
+     "elo": 1957,
+     "elo_superficie": 1840,
+     "forma": [
+      "G hard vs Marta Kostyuk",
+      "P hard vs Aryna Sabalenka",
+      "G hard vs Elena-Gabriela Ruse",
+      "G hard vs Viktorija Golubic",
+      "P hard vs Ekaterina Alexandrova"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHFMYloyQUpCcUhKaWYxeDNjcXlXS2VETy1ULUtSUWFJNV9fZTB2dHZlOVN3NlhUYzV2WGRNbC12TTFuaUpta2h4MFZJaVVCa0hnLTMzMWVEdGpqZUVDZmVfS1VqdEtDS1F3M242U2pTUkdRVmhpZXE0aW5QQWtuQmJ6WGpDcDZXcnppbm1zY0RnTlBjUFdqTm9UdXRkWE1WY0l6cFhLOU44NW5fbkRHckltZ2lHZw?oc=5"
+      },
+      {
+       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
+      },
+      {
+       "titulo": "Rivalry Rewind: The best of Jessica Pegula vs. Linda Noskova - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-11",
+       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVFUN1RfcjNqcW5yRTdoWERxZ2hCeWFubURDanNCakVkV2NMT1g3VlNlVzY4aW5nNFJtWjVfQko0WWlNYUFnNjlKeTQwRHJ4WGFKTWZwajF3a3pRbDdfNnkwY0ItNUM0S2FqeG52OEUtQ1dYZS1tZnN6RElnT1pVVHYwendndlRkcmZrUEI5R3Foc1JHTWZTd2J6aDZHNTk2ZlE?oc=5"
+      }
+     ]
+    }
+   ]
   }
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
@@ -4984,6 +5072,30 @@
     "seleccion": "Aryna Sabalenka",
     "punto": null,
     "cuota": 1.89
+   },
+   {
+    "partido": "b8a1b5d0077794775db0a2ca6b15baf7",
+    "jugadores": [
+     "Marta Kostyuk",
+     "Coco Gauff"
+    ],
+    "inicio": "2026-11-12T20:00+00:00",
+    "mercado": "h2h",
+    "seleccion": "Coco Gauff",
+    "punto": null,
+    "cuota": 1.33
+   },
+   {
+    "partido": "7d0fa680caf6f5718ca51b421754252d",
+    "jugadores": [
+     "Jessica Pegula",
+     "Linda Noskova"
+    ],
+    "inicio": "2026-11-12T21:30+00:00",
+    "mercado": "h2h",
+    "seleccion": "Linda Noskova",
+    "punto": null,
+    "cuota": 1.83
    }
   ],
   "vistos": [
