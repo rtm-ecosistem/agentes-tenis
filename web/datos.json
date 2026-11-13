@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T13:00+00:00",
+ "actualizado": "2026-11-13T19:00+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -2115,182 +2115,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "f1676b13a42184d83dee9e84e1b17aa5": {
-   "id": "f1676b13a42184d83dee9e84e1b17aa5",
-   "jugadores": [
-    "Luca Van Assche",
-    "Rinky Hijikata"
-   ],
-   "inicio": "2026-11-06T14:10+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-06T13:10+00:00",
-   "elo": 0.47,
-   "elo_general": 0.501,
-   "elo_en_superficie": 0.438,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Luca Van Assche",
-     "mercado": 0.61,
-     "elo": 1688,
-     "elo_superficie": 1651,
-     "forma": [
-      "P hard vs Lorenzo Musetti",
-      "P hard vs Learner Tien",
-      "G hard vs Mariano Navone",
-      "G hard vs Learner Tien",
-      "G hard vs Lorenzo Musetti"
-     ],
-     "cansancio": "2 partidos, 5 sets y 54 juegos en 3 días; el último el 2026-11-05 contra Lorenzo Musetti, ganó 7-5 3-6 6-4 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
-      },
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZ9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche vs Rinky Hijikata - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNnJhVVdmOVA5NTNiblVFbWVnTXVaWGk5MlktMXVqT0hZN0N5UEVVbHU5ejIwWWU1ajY5MDhJdzk1cUVlakdVa3VhTDhVLWZ5RTZfQjRyMXMyUy1fZDB5bXNLdjRZNEtMTDR2YnFpbmVjeHZpRndhSnQ5MldpRUk?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Rinky Hijikata",
-     "mercado": 0.39,
-     "elo": 1687,
-     "elo_superficie": 1694,
-     "forma": [
-      "G hard vs Jaime Faria",
-      "G hard vs Vit Kopriva",
-      "G hard vs Luciano Darderi",
-      "G hard vs Novak Djokovic",
-      "G hard vs Tomas Martin Etcheverry"
-     ],
-     "cansancio": "2 partidos, 6 sets y 55 juegos en 3 días; el último el 2026-11-05 contra Tomas Martin Etcheverry, ganó 2-6 6-3 7-5",
-     "noticias": [
-      {
-       "titulo": "Tomás Etcheverry cayó en el Masters 1000 de París ante Rinky Hijikata - Noticias \"d\"",
-       "fuente": "Noticias \"d\"",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRDdoQTZHRFhlbkVmLUZSdUtlVUJmWXVJeHBfbkRXcjJLeHZlTV9YN1ZoQW5ESlNJUnprbVlYWHZodl8zWlgyX0E3VHQwd0Jfek1lSVN1THNTMDhLeHEtQUwyMzdIY2dpcld5ZWVVbEVfNlJIZi1sZzM2RURTZ0pEcUFaUXFqbTBlRGtaYTFLY0RYWlBUQ01ueHZGdFRyNTN0dlZpNlZ5dklsRk9oTjh4OQ?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche vs Rinky Hijikata - Coinbase",
-       "fuente": "Coinbase",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNnJhVVdmOVA5NTNiblVFbWVnTXVaWGk5MlktMXVqT0hZN0N5UEVVbHU5ejIwWWU1ajY5MDhJdzk1cUVlakdVa3VhTDhVLWZ5RTZfQjRyMXMyUy1fZDB5bXNLdjRZNEtMTDR2YnFpbmVjeHZpRndhSnQ5MldpRUk?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche - Rinky Hijikata en directo - París Masters: Resultados y resúmenes de Tenis - 06/11/2026 - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEZEWW1tZE5JS3VXdkt1YjFfOTUyN1VCYkdsOW8wNXNvb0czTzg3NGVGWmNGNE4yZnkxUDhyNDlkMFQ0eWNoSks1SlNlMURlU09uNFl1aEpFYWVOSUl1REM4VFNWc0xCTExuNDRpZ2lnZDhEc0x3UlowSkZ2a3ZST20zSWsyVUdTajVidmM3cjhTczk5cVUxMU1ybHpwZ0hDeFRIdldJTGxoYk9aM0VCUTRPUXFPTVN0?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "e4e0781ebc80c47d216dd73609a3c8e0": {
-   "id": "e4e0781ebc80c47d216dd73609a3c8e0",
-   "jugadores": [
-    "Taylor Fritz",
-    "Carlos Alcaraz"
-   ],
-   "inicio": "2026-11-06T18:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-06T17:10+00:00",
-   "elo": 0.19,
-   "elo_general": 0.168,
-   "elo_en_superficie": 0.212,
-   "cara_a_cara": [
-    1,
-    4
-   ],
-   "detalle": [
-    {
-     "nombre": "Taylor Fritz",
-     "mercado": 0.281,
-     "elo": 1870,
-     "elo_superficie": 1871,
-     "forma": [
-      "G hard vs Denis Shapovalov",
-      "P hard vs Valentin Vacherot",
-      "G hard vs Benjamin Bonzi",
-      "G hard vs Alex Molcan",
-      "G hard vs Arthur Fils"
-     ],
-     "cansancio": "3 partidos, 8 sets y 85 juegos en 3 días; el último el 2026-11-05 contra Arthur Fils, ganó 6-3 6-4",
-     "noticias": [
-      {
-       "titulo": "Taylor Fritz - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVRSUk1rQlRjOS1mMFllWEJ0U1B3VExlbHZiN01Xb2NySzM2ZFZsNVZYYkV6Sk5VOEtHUjRMXzFnM0dreThfajA2d1RKeG5haDNBbThvTzZveUZXNlhMeVBLZGhyMDVoMG1fNzR5ak91T1ZCODBLRkZYZG1lX3oxZDFTNjlTLW5Vd3d5cGpHUkktNURJMG1Cb1ZQSmJ0c1FXcUdROG9SUTJHSmVEYUJWTVJKMTZ5eEtQZURTbVlMWEM1U1VEY1RDRDhnejVVaXRlc1N3MGNST19PdzlIT01heTR5RTg2Z0NOam1jVnpR?oc=5"
-      },
-      {
-       "titulo": "¿Cuáles fueron los resultados de París? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHQkkwUTZzZXJCalZQRGczMEZsdWZnQm9LcHlSczVtU190WW0zd0xfWkp2N2lyZy11Tk5kZHRPb2NULWV4cVBQRmEzN2hZY0luVFQtT282VU04UlptWVRr?oc=5"
-      },
-      {
-       "titulo": "A qué hora juega hoy Alcaraz en París y cómo ver el partido ante Taylor Fritz - Las Provincias",
-       "fuente": "Las Provincias",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGp1dGt5MXo2bWtTbjZ5a2Z3U29wamhzWWtNZUY4UGFlSnR1b3JCYnc2TXI3SzIyOURfV0hRVmRQTmk2bUFtbFhtSWZjYkc4NjZrTDRaY2xGSGZZbGVZLTZZV2plWU0zQjdRY3FlQTY4U3ZQQm9JZXZ6THEtU1h3S3pEOS1VUjE3d01PMmFhc1lhQzRMNEp3clpOQzZvT3h1Y0Q1cHR5dEhTYTTSAbABQVVfeXFMT1ZEdTdZSWR5VVhKckxtRlNpNWc1dUpaUUJJLVJlNllTYTBxX3NzakVZeGtISXVVV2twZUExYnhtRURtYVdzd1BKUS0wSVdDYTdCeV9VR1ZzMnlNRC1KLXM4c3I0aWFjaEdPRzNXSnl3ZksxZy04SEFFMUxQeU13clVrbzNna0NhUnIwWHg0U1ctdjh2TmtLVXpkTGlEYVZZNVBxV3VpVDZ4Q2ZnSS10MmI?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Carlos Alcaraz",
-     "mercado": 0.719,
-     "elo": 2148,
-     "elo_superficie": 2100,
-     "forma": [
-      "G hard vs Nikoloz Basilashvili",
-      "G hard vs Tommy Paul",
-      "G hard vs Daniil Medvedev",
-      "G hard vs Alex de Minaur",
-      "G hard vs Alex Michelsen"
-     ],
-     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Alex Michelsen, ganó 7-6 6-3",
-     "noticias": [
-      {
-       "titulo": "Taylor Fritz - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVVRSUk1rQlRjOS1mMFllWEJ0U1B3VExlbHZiN01Xb2NySzM2ZFZsNVZYYkV6Sk5VOEtHUjRMXzFnM0dreThfajA2d1RKeG5haDNBbThvTzZveUZXNlhMeVBLZGhyMDVoMG1fNzR5ak91T1ZCODBLRkZYZG1lX3oxZDFTNjlTLW5Vd3d5cGpHUkktNURJMG1Cb1ZQSmJ0c1FXcUdROG9SUTJHSmVEYUJWTVJKMTZ5eEtQZURTbVlMWEM1U1VEY1RDRDhnejVVaXRlc1N3MGNST19PdzlIT01heTR5RTg2Z0NOam1jVnpR?oc=5"
-      },
-      {
-       "titulo": "A qué hora juega hoy Alcaraz en París y cómo ver el partido ante Taylor Fritz - Las Provincias",
-       "fuente": "Las Provincias",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGp1dGt5MXo2bWtTbjZ5a2Z3U29wamhzWWtNZUY4UGFlSnR1b3JCYnc2TXI3SzIyOURfV0hRVmRQTmk2bUFtbFhtSWZjYkc4NjZrTDRaY2xGSGZZbGVZLTZZV2plWU0zQjdRY3FlQTY4U3ZQQm9JZXZ6THEtU1h3S3pEOS1VUjE3d01PMmFhc1lhQzRMNEp3clpOQzZvT3h1Y0Q1cHR5dEhTYTTSAbABQVVfeXFMT1ZEdTdZSWR5VVhKckxtRlNpNWc1dUpaUUJJLVJlNllTYTBxX3NzakVZeGtISXVVV2twZUExYnhtRURtYVdzd1BKUS0wSVdDYTdCeV9VR1ZzMnlNRC1KLXM4c3I0aWFjaEdPRzNXSnl3ZksxZy04SEFFMUxQeU13clVrbzNna0NhUnIwWHg0U1ctdjh2TmtLVXpkTGlEYVZZNVBxV3VpVDZ4Q2ZnSS10MmI?oc=5"
-      },
-      {
-       "titulo": "La clasificación de Jódar a Turín está en manos de Alcaraz - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUFWUXYzVHplelpGWUg5akNYNkd5eUdIN2thRjVfclltYmMwRkN5dnJVNjRFd3ZKb3pIZklXaTc4czRENGlzdjJmSEZLYnlfa2YzWXdEanAxdE9lenFxaDgtRmE0eldyb2hMVlJoM0ZMVHlZcmQ3bk8tVGNlNG0yeEJlcU80TmQzZ21JcEwwdGVfbHItWmww?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "0adc47c275819823d018232033a6de7f": {
    "id": "0adc47c275819823d018232033a6de7f",
    "jugadores": [
@@ -2916,7 +2740,7 @@
    "inicio": "2026-11-13T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-13T13:00+00:00",
+   "actualizado": "2026-11-13T19:00+00:00",
    "elo": 0.517,
    "elo_general": 0.504,
    "elo_en_superficie": 0.53,
@@ -2940,22 +2764,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Diana Shnaider to replace Muchova in FAGE WTA Finals group-stage match against Andreeva - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE90Q0UtYlhIUEl4RVZ3UGtNWWdVNVNQQ3poYnpUNGpKOFhhMGRyUjFrWlZ3Rk5lS2w1OWJzTWJReVlvX3VMV3c4UXotSFlIdTVrb2wtNTdHSzFTVTJXX3ZDNHNPRHhicnBJVy1KX29IUVBxdVdDSG5wTmtvYnR2VXhnSndsek5jQ0FyUDFDWnVNR2dnejMtMGhPVzhQVVZPcUVWX3hhY001blBBREs3OV9YcHFFbzJGZlJBR05VcEJDMnZn?oc=5"
+      },
+      {
        "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-13",
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
       },
       {
-       "titulo": "WTA Finals 2026 | Jessica Pegula vs Mirra Andreeva, la semifinal del morbo: \"Es el partido que la gente quería\" - Eurosport",
-       "fuente": "Eurosport",
+       "titulo": "Jessica Pegula vs Mirra Andreeva · Semifinal · WTA Finals - Tennis.com",
+       "fuente": "Tennis.com",
        "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0R1QXk1bW95UW1WZ0Etbk4tdzRlYjdPMVBhbi1pR0UtY3dpRkNjZ0FwbXo5WkVFbXlHWVdmb2FlSndTdUNYWFBUcmlWdVZVNWU0Z1ZTb21sLW9mbUM5bm5Eb1ludzNfNGpJRGlVVEJiNmluWUNVQ2F4TzRhTWtYVXpOQWF0dXhWUG00YjBKVmN3VUZKLVM0eWRET0Z3VU1JX0FhRUJxQjBoQklKT2s4QWdsUUlfZENYVE1jOGhRU2NmdTNmWXJnRGlB?oc=5"
-      },
-      {
-       "titulo": "Pegula avanza a semifinales de las WTA Finals, donde enfrentará a Andreeva - VS Sports",
-       "fuente": "VS Sports",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXlTdy1BblFPR19fR3VoMjdXVTc0MVRjY25yTU9UTDNnV0RJT2VMckdkNHdoX3BMTnlNTzgtdXBrRkNLZzFyQzljVWU0Y1IwWXFQbFlGaHJjNEZOWk9rTGpfVlN0UzNRWmw5VmM1MFJkMzNwamRMeWo0TVdMQTRwZ21Qa003Q25XREdiVkd2M0N4Z2VDZUVpNGdaZzJHd2VFOGNFRDBaeE4tV3lYak5WVklKZzBrLWhFeURr?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE1EWlJNMlU2NEg2T1lJRWhYRUtONjJHYXk0d3BiUGM4Unl5V1NMdUtnSFktYlZoQ2Q3U2ZYLTg5Unpkc0V6SmxxVTFPZ2pvVEJBVkx5OFlCOWZZVlpwbjJMc3JocDk1N1NnNmtER3p6WkNzdkEwNENrWjNUcW5WNzJwd2VrcVl6bEljejNRMW4?oc=5"
       }
      ]
     },
@@ -2974,6 +2798,12 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Diana Shnaider to replace Muchova in FAGE WTA Finals group-stage match against Andreeva - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE90Q0UtYlhIUEl4RVZ3UGtNWWdVNVNQQ3poYnpUNGpKOFhhMGRyUjFrWlZ3Rk5lS2w1OWJzTWJReVlvX3VMV3c4UXotSFlIdTVrb2wtNTdHSzFTVTJXX3ZDNHNPRHhicnBJVy1KX29IUVBxdVdDSG5wTmtvYnR2VXhnSndsek5jQ0FyUDFDWnVNR2dnejMtMGhPVzhQVVZPcUVWX3hhY001blBBREs3OV9YcHFFbzJGZlJBR05VcEJDMnZn?oc=5"
+      },
+      {
        "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-13",
@@ -2984,12 +2814,6 @@
        "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-13",
        "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWVySHJCU2o0bzJCX0hyVHB4aE9EMlRZSHhoOGVZVWtIQ09GU0dDOVRZeE9JVEtzYzRaR2R0YXg3UmlxUUpfNjExQTRkWG9mQ0ZTV3VaU1V0SlRjSEhhUm9mRVNaYURycWtzem9Sd3RRXzhWUzlwbFJHb0NITVVWaVd3a044VGxNOGpxdDIwamMzYzRBdnhsb0xuRW9XdFhPNWlQNmFrcUM?oc=5"
-      },
-      {
-       "titulo": "Tenis en directo: Andreeva-Muchova y Sabalenka-Svitolina en las WTA Finals - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXVQWXo3WUcxN0RSTjJkY1RRS0VLcHdacGtUSUstMGp2aGhrSmNRVFAyaGY4a01DcVdYS0xFQ2RfUHVyTmxGOUQ5YXQ0b3F5aWI5U05PTFVvVDZDQ3MyTFUweGNRRkozLU1GaER6N3dManFXYkhKWmhLbkRFV3RYd0ZxcjdEcDBFMGZxMHdjVnk0WjlDaWsxN1NIRXVoY0FlMnFtVmJMd1MxQXpHZ2c?oc=5"
       }
      ]
     }
@@ -3004,7 +2828,7 @@
    "inicio": "2026-11-13T21:30+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-13T13:00+00:00",
+   "actualizado": "2026-11-13T19:00+00:00",
    "elo": 0.536,
    "elo_general": 0.532,
    "elo_en_superficie": 0.541,
