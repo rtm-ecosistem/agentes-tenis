@@ -2606,7 +2606,7 @@
   "betsson": 2004
  },
  "ultima_decision": "2026-11-13",
- "ultima_sala": "2026-11-12-20",
+ "ultima_sala": "2026-11-13-14",
  "noticias_vistas": [
   "82968b4d4d41",
   "a55da71a6dfd",
@@ -3434,94 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "10a66a309af482f75813cc0d9ce0bdd1": {
-   "id": "10a66a309af482f75813cc0d9ce0bdd1",
-   "jugadores": [
-    "Ben Shelton",
-    "Tommy Paul"
-   ],
-   "inicio": "2026-11-06T13:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-06T12:10+00:00",
-   "elo": 0.524,
-   "elo_general": 0.508,
-   "elo_en_superficie": 0.54,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Ben Shelton",
-     "mercado": 0.468,
-     "elo": 1888,
-     "elo_superficie": 1908,
-     "forma": [
-      "P hard vs Arthur Gea",
-      "G hard vs Aleksandar Kovacevic",
-      "P hard vs Jerome Kym",
-      "G hard vs Cameron Norrie",
-      "G hard vs Arthur Rinderknech"
-     ],
-     "cansancio": "2 partidos, 5 sets y 51 juegos en 3 días; el último el 2026-11-05 contra Arthur Rinderknech, ganó 3-6 6-4 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Ben Shelton - Tommy Paul, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY2UzeTYxcUhCb09TSWcxaDZkd3haUUhmcnhVX3EwanQ4MXIxemxobmxqMkVRT1lFVGxvM0dWU3dfUkNMVlJMaHIyZjljaHplOU1RVVJ5bzZyV0gtaGVuN005X0VJZVRrOXBjTDlmSzRrdjZjQkVyaG40a1pqZmJ6OThOQjQ5TXhDcHJ3UXdlYWk3M1dwZlVCWmhhNmhIVkc2b1AzX0ZXelZWR2ljYUJ3T09vMGxjdDJQN0RPcS01UWJWakJnM3FwS2tZNFhsMHB2aUtxenNKOVhzVEpsdFBCTWRHbFI1UEU?oc=5"
-      },
-      {
-       "titulo": "Masters de París: Ben Shelton, el tenista que animó a Tommy Paul todo el año, es ahora su muro hacia Turín - Martin Cid Magazine",
-       "fuente": "Martin Cid Magazine",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakd0SUFkQ3BBVXhMVGFSUGljTllONEZLcWNWcVpONWF3UGhZcXVjeFJaTkFDNTc1TEMwUmwtNDVOSDE0cVVUQWpwUDkyai0zUDl2U2NZZ0VHMk9SNm9ReVR6ZzZrT3FENUdmY0dBTDduT0ZtY2FoLVpKejByX2FyV0pXdWszMVJaWWVUY0xyQ2xadXlCUU15WWxrQkllNXh2UmhMLTZNd1g3LTkzejN1aGd1V2tWdndmVWhaTkRkUmtEVXR2alpUWTZIWGZtR3JSeEUwYQ?oc=5"
-      },
-      {
-       "titulo": "Partidos Masters 1000 de París hoy: orden de juego y horarios de Alcaraz, Shelton y Van Assche - SPORT",
-       "fuente": "SPORT",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMWZLNVE5S2VqbE9haFp1dmZiYlZSSjNjVUwxaXJCYWhKNDJzRTlQUEdSNVRiUGFuTjdJcUlXQnRXZlVXcFBtNWlVVTJ3Vzd3c2JOdS03cXM2VXhhOGw0M0VpcUNVM29yQl9RdkVhX3FqQmN2b0JzNng4UDM3VF9uSWd3dmR3WDk5Nm9EUm5QUkhuZlNKOGt6X2dQeDhQcFAtU1pnTVlyZV9GVUhpZTVYVEZnVm91R1dFMDRzcEE0RHhTd9IBwgFBVV95cUxOXzkzN2NXMHRHNG1IdFF1My1abldRNGFNVUliMjN1QTlZV1dseGYtX3hXb2s1QkllenRzTjlEYmxRTE9ENExMY0ltdXp0X2JfdnVZTmk5VzZ2dXR6R0dBM0FveHRTY2hUMmZHaURNN2lpVHZBOVlmZVhYWEdZN2w2ODBmRkJaWGpzUExQeFViVGdGeFNiTWdDX3pUUk1YWEUzVHNpb2JnZ2NEcXU2MElsNVE5TmpZZm5ERDdSQzI2MlBIZw?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Tommy Paul",
-     "mercado": 0.532,
-     "elo": 1882,
-     "elo_superficie": 1880,
-     "forma": [
-      "G hard vs Luciano Darderi",
-      "P hard vs Carlos Alcaraz",
-      "G hard vs Holger Rune",
-      "G hard vs Daniel Merida",
-      "G hard vs Quentin Halys"
-     ],
-     "cansancio": "3 partidos, 6 sets y 59 juegos en 3 días; el último el 2026-11-05 contra Quentin Halys, ganó 7-6 6-4",
-     "noticias": [
-      {
-       "titulo": "Ben Shelton - Tommy Paul, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY2UzeTYxcUhCb09TSWcxaDZkd3haUUhmcnhVX3EwanQ4MXIxemxobmxqMkVRT1lFVGxvM0dWU3dfUkNMVlJMaHIyZjljaHplOU1RVVJ5bzZyV0gtaGVuN005X0VJZVRrOXBjTDlmSzRrdjZjQkVyaG40a1pqZmJ6OThOQjQ5TXhDcHJ3UXdlYWk3M1dwZlVCWmhhNmhIVkc2b1AzX0ZXelZWR2ljYUJ3T09vMGxjdDJQN0RPcS01UWJWakJnM3FwS2tZNFhsMHB2aUtxenNKOVhzVEpsdFBCTWRHbFI1UEU?oc=5"
-      },
-      {
-       "titulo": "Masters de París: Ben Shelton, el tenista que animó a Tommy Paul todo el año, es ahora su muro hacia Turín - Martin Cid Magazine",
-       "fuente": "Martin Cid Magazine",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakd0SUFkQ3BBVXhMVGFSUGljTllONEZLcWNWcVpONWF3UGhZcXVjeFJaTkFDNTc1TEMwUmwtNDVOSDE0cVVUQWpwUDkyai0zUDl2U2NZZ0VHMk9SNm9ReVR6ZzZrT3FENUdmY0dBTDduT0ZtY2FoLVpKejByX2FyV0pXdWszMVJaWWVUY0xyQ2xadXlCUU15WWxrQkllNXh2UmhMLTZNd1g3LTkzejN1aGd1V2tWdndmVWhaTkRkUmtEVXR2alpUWTZIWGZtR3JSeEUwYQ?oc=5"
-      },
-      {
-       "titulo": "La única rotura en París que acerca a Tommy Paul a Turín y lo cita con Ben Shelton - VAVEL.com",
-       "fuente": "VAVEL.com",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVo2cmUxcDVOaVhIN1huZ19XNm50VzVaN2VIelB0ZHRaTnNVa1FhZzRQTmdLV3U3Q1VKTzVNSHEtX29ndnJHSEE3SktpV2dNMlpWRFJYN2pRRFMtRTVUdzlYX0x5MWFNM2Y2bWpucHlwTnJNOVIwUGx5eGxISFFXTXNNWGQzQ3M4V2hSalNnSy1HNWR0MDMwX29vU1RPeHNKdTBacVJ2NFZHSU8y?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "f1676b13a42184d83dee9e84e1b17aa5": {
    "id": "f1676b13a42184d83dee9e84e1b17aa5",
    "jugadores": [
@@ -4323,7 +4235,7 @@
    "inicio": "2026-11-13T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-13T08:00+00:00",
+   "actualizado": "2026-11-13T13:00+00:00",
    "elo": 0.517,
    "elo_general": 0.504,
    "elo_en_superficie": 0.53,
@@ -4347,22 +4259,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Pegula echa a Gauff de las WTA Finals y se las verá con Andreeva en el partido del morbo - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckJBanNtaExIQi1DRUtsYUcyQXJyOTJOMEJPdG94N090Z3ZuZnZtdmNDZUdBWGNFY1lwcWk5cUNBYVluMkswM2ZsYzdXWlFRVGRSRy1hYldwempsdnhWZWl2a29ha2ZOY3VzbUg0Ri1YT3gwMF9TOVNxTmg1YU8tTFhSMUVibk5pRW9OVWMtcU5XbWFSYW1QN1ZpaWk2ekRxbTFXTjluTExEQl81Y2RIblVEOXk4UEFyT0HSAccBQVVfeXFMT1RwVzhEQ000bXg2LThPQTVfRDhlRjFMbkp3MFBadGxEUzNMMm1DYjJQNW5nM3F6NlVZX2c2RW9DQjBEYUpaYzhQWFdnSXQtSG9ER0VrckIzdWhBeGdlekFUT1FOSnFYV3NCd1pnRVdMOG5CN0RqQjdxY3oxazdaSlhBVHZqSnRHQUhIU3l5Q1VjVUo5SXBiUkwwQkE2NUo1RDhxd01tcWM4SGFCTTJpV1BKRVpnb1duUXdWRGtuUmlfYk1MTjZYaw?oc=5"
-      },
-      {
        "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-13",
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
       },
       {
-       "titulo": "Pegula avanza a semifinales de las WTA Finals, donde enfrentará a Andreeva - France 24",
-       "fuente": "France 24",
+       "titulo": "WTA Finals 2026 | Jessica Pegula vs Mirra Andreeva, la semifinal del morbo: \"Es el partido que la gente quería\" - Eurosport",
+       "fuente": "Eurosport",
        "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVVJYYUpDRkgyeTYyRlh0N1dGXzJFelAtckUzQzlKTEZJNk84cWE3czhsbTdwVWx5V1R1dUcxSXRtRlZsbXlsV1dqRFk3b3pUbGpNZWtUYVhzRjhqS1FPMkdoSl9CQ1NPQkNBcURZd1NqZWdObGhzYTFXd3FJQWxiUWZ4NHl1ZWszS2R0LWUxNUVKRTZGQ1ctWkUtQkdMQ3VsS2JYWEFQMm9KMzktRC1MYTdmSDFrX2hkMW95UENkM2tqX244aEt1MGx0SQ?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0R1QXk1bW95UW1WZ0Etbk4tdzRlYjdPMVBhbi1pR0UtY3dpRkNjZ0FwbXo5WkVFbXlHWVdmb2FlSndTdUNYWFBUcmlWdVZVNWU0Z1ZTb21sLW9mbUM5bm5Eb1ludzNfNGpJRGlVVEJiNmluWUNVQ2F4TzRhTWtYVXpOQWF0dXhWUG00YjBKVmN3VUZKLVM0eWRET0Z3VU1JX0FhRUJxQjBoQklKT2s4QWdsUUlfZENYVE1jOGhRU2NmdTNmWXJnRGlB?oc=5"
+      },
+      {
+       "titulo": "Pegula avanza a semifinales de las WTA Finals, donde enfrentará a Andreeva - VS Sports",
+       "fuente": "VS Sports",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXlTdy1BblFPR19fR3VoMjdXVTc0MVRjY25yTU9UTDNnV0RJT2VMckdkNHdoX3BMTnlNTzgtdXBrRkNLZzFyQzljVWU0Y1IwWXFQbFlGaHJjNEZOWk9rTGpfVlN0UzNRWmw5VmM1MFJkMzNwamRMeWo0TVdMQTRwZ21Qa003Q25XREdiVkd2M0N4Z2VDZUVpNGdaZzJHd2VFOGNFRDBaeE4tV3lYak5WVklKZzBrLWhFeURr?oc=5"
       }
      ]
     },
@@ -4387,16 +4299,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
       },
       {
-       "titulo": "Resumen del Mirra Andreeva - Karolína Muchová - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekNORUpsdngzY194dHo0UWZRUHJwSmphSVFtTHpyeFFGUmJWUGVnQTZqSlQtdXdaNmpEekVYVC1nRzV6TFk0Und6TlE0QmlsY3l3bTk1U0p5ZXR1NkdWbnk4TWtXSGRDUTlZalRWTk9ReUZONDR5dmN3WWlRMXkxX183Z1BjRDJHTWRrcERVMi1LbzZKQkpBR19GVXRHWlRmMVRMQ3F0NmdnQQ?oc=5"
+       "titulo": "WTA Finals - Andreeva vs Muchová: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWVySHJCU2o0bzJCX0hyVHB4aE9EMlRZSHhoOGVZVWtIQ09GU0dDOVRZeE9JVEtzYzRaR2R0YXg3UmlxUUpfNjExQTRkWG9mQ0ZTV3VaU1V0SlRjSEhhUm9mRVNaYURycWtzem9Sd3RRXzhWUzlwbFJHb0NITVVWaVd3a044VGxNOGpxdDIwamMzYzRBdnhsb0xuRW9XdFhPNWlQNmFrcUM?oc=5"
       },
       {
-       "titulo": "Elina Svitolina remonta ante Karolina Muchova y gana en las Finales de la WTA - Potosinoticias.com",
-       "fuente": "Potosinoticias.com",
+       "titulo": "Tenis en directo: Andreeva-Muchova y Sabalenka-Svitolina en las WTA Finals - Flashscore.es",
+       "fuente": "Flashscore.es",
        "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTVCWEdScnpyQ0FXMl91cWFYbk41ZG9yQlFSUzEwdFZ3NmdHS0UzSlNtUTZVWnp3aGdfMF81eEZfaGlZWVNtWmNwMEgwMHlYSlNxcXpacjNKZTV4MTVTVUNCQm5jemVHaUhZT1lFYS1mZEhuemRoX3RLUnRjNzhaY1hFcU1pX043NkE2dFhza0ZqN2s5dk1pbzZzbjZSdFVub1RIczNKYi04NDI4bzZuVlF0Q1BfYW8?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXVQWXo3WUcxN0RSTjJkY1RRS0VLcHdacGtUSUstMGp2aGhrSmNRVFAyaGY4a01DcVdYS0xFQ2RfUHVyTmxGOUQ5YXQ0b3F5aWI5U05PTFVvVDZDQ3MyTFUweGNRRkozLU1GaER6N3dManFXYkhKWmhLbkRFV3RYd0ZxcjdEcDBFMGZxMHdjVnk0WjlDaWsxN1NIRXVoY0FlMnFtVmJMd1MxQXpHZ2c?oc=5"
       }
      ]
     }
@@ -4411,7 +4323,7 @@
    "inicio": "2026-11-13T21:30+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-13T08:00+00:00",
+   "actualizado": "2026-11-13T13:00+00:00",
    "elo": 0.536,
    "elo_general": 0.532,
    "elo_en_superficie": 0.541,
@@ -4435,22 +4347,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Sabalenka, la estrella del tenis que pudo ser modelo o boxeadora: \"Me encanta mi cuerpo\" - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0VHZXlQZS1aMDFUMTA0Y2U5azNkVF9Ubk1DUzZCaW5GNGVIcmM0OE5SdFM5aHdwZUo5bXo3eHVzQjBTeDE0VWZkZWZkOHBYelVlMnJaRUhDWmxWcERKNVNPUDd3M1AyQURmMXBER09zcnhPNHZBbllOel92WGxXN2tXdkhja2tmUWZndTBnbTd5RWRtNzhtczZaQ3Iyb3ZwU3FmY1NRUUh4NXhGSExpLWdTbnpPODFi0gG4AUFVX3lxTFBhWnNyLUtMMUthY1JpbDBQOG9oXzRxTktQUWtfQ2g3OUNPb1NHV1lIUThnMkRFSFZxVi1NM1dGLTFHNGZjWXB3bHdaRkgtQnVpSU9TS2VqUXVYVmw3VUNTbHA3VnJFc0RFaG91RzI1WmdBY2lPZ01QZ2d3N296aDEyOFlxRkRkTmtsZUNOYnhWU013U2hEZnIxakl5SFEtOHdhMDZ5MUwtNW1aZWM2eFRsTjc5dWYzQlE?oc=5"
-      },
-      {
        "titulo": "Aryna Sabalenka vs Elina Svitolina · Round Robin · WTA Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-13",
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
       },
       {
-       "titulo": "Reportero comenta que Aryna Sabalenka es 'horrible', sin saber que tenía el micrófono abierto - The Mirror US en Español",
-       "fuente": "The Mirror US en Español",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZk9zRGtza0xid2xFVzNPNlhWSHFiWUZnZ0Z3dThSWi00TGQ3Mlo5SG84NTl1N1V1LU53NUJ1R1VCVlhKMXJWZ1A5VzhMa1ZaN0VneHkzTWZUSnZ3MnVOTHAxUTdncTRxSXV2ZlZMNHp0WlJTcUdkc3JjZm5HTVpjQ2VBcFdwUDFOZzRsVUxuUVRzUQ?oc=5"
+       "titulo": "WTA Finals - Sabalenka vs Svitolina: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUYzZWs0TGxYc0lyVFZnOENSeWhVRUdTWGFxQjVWTlNUSTVjQUhpMlc4TTItUWp6WDRQUUJzWC1PSnF6RjM2RkQ1TmpBLTRTQmRlYUFwc0RZcGtBc2h5Q2NQMHVjNVBPam1vYklsUnNtR21wTVNGeXJsajN0LUdHVGJCczZWWTloNklOUFJmVVpLUW5mRWEtWlJwZWpfLWtkTHBvNDlWYjcwNUJuSG5ZYQ?oc=5"
+      },
+      {
+       "titulo": "Sabalenka, la estrella del tenis que pudo ser modelo o boxeadora: \"Me encanta mi cuerpo\" - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVpzci1LTDFLYWNSaWwwUDhvaF80cU5LUFFrX0NoNzlDT29TR1dZSFE4ZzJERUhWcVYtTTNXRi0xRzRmY1lwd2x3WkZILUJ1aUlPU0tlalF1WFZsN1VDU2xwN1ZyRXNERWhvdUcyNVpnQWNpT2dNUGdndzdvemgxMjhZcUZEZE5rbGVDTmJ4VlNNd1NoRGZyMWpJeUhRLTh3YTA2eTFMLTVtWmVjNnhUbE43OXVmM0JR0gG4AUFVX3lxTFBhWnNyLUtMMUthY1JpbDBQOG9oXzRxTktQUWtfQ2g3OUNPb1NHV1lIUThnMkRFSFZxVi1NM1dGLTFHNGZjWXB3bHdaRkgtQnVpSU9TS2VqUXVYVmw3VUNTbHA3VnJFc0RFaG91RzI1WmdBY2lPZ01QZ2d3N296aDEyOFlxRkRkTmtsZUNOYnhWU013U2hEZnIxakl5SFEtOHdhMDZ5MUwtNW1aZWM2eFRsTjc5dWYzQlE?oc=5"
       }
      ]
     },
@@ -4475,16 +4387,16 @@
        "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
       },
       {
+       "titulo": "WTA Finals - Sabalenka vs Svitolina: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUYzZWs0TGxYc0lyVFZnOENSeWhVRUdTWGFxQjVWTlNUSTVjQUhpMlc4TTItUWp6WDRQUUJzWC1PSnF6RjM2RkQ1TmpBLTRTQmRlYUFwc0RZcGtBc2h5Q2NQMHVjNVBPam1vYklsUnNtR21wTVNGeXJsajN0LUdHVGJCczZWWTloNklOUFJmVVpLUW5mRWEtWlJwZWpfLWtkTHBvNDlWYjcwNUJuSG5ZYQ?oc=5"
+      },
+      {
        "titulo": "Andreeva-Pegula, semifinal con morbo en las Finales de la WTA; Noskova espera rival - Infobae",
        "fuente": "Infobae",
        "fecha": "2026-11-13",
        "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0dwX09saEFMdGl2TWtJaGtDbkIxUHRabWNzTmZFNFB1S2J0eFZzYm4xSFBhdmg2NTZsY203bzYtcG1FWnd1QmYyWHV4UHcxRkpYYVBpamhNdWNfWGhTNllKTjVTcEM0a3loS0JVUVRZUjRDQ1hwOFlJQmkxZGlyVmFOSHBFMDI0b0VQUk83dkJRRkVlWWlIZ1lETkcyaFNyLVU1NmI4SnQ4N2luUU1xTFBlQWk0Y0QtR0xIMFVqZEtEbVA1YkMxcXFZYzFvNlnSAeoBQVVfeXFMUEd3ZmFiaWpyNEphODNnVUVnMmppTElxRm5yUENGTGIxanVFR25LRC1kNDJFU1BMWFBNXy1aQ0NsNXIzbnhOc19ZSVQ3bU1QTG10YXRTOHNvb2lKMDJlckZTU1hsSmRHaG5VMjU5bWNZblE3VzdoWllZWmZjU3pfUENhR1ZfVlFYeW5XNTN2WHYtZktGZjJLWU81VnROQm1kVTN6dnNJaW1QSzZHQXdpX01xU1RVYk9RRzV2UEtFcWItU0hWWVVKUFpxRnE5TVZCempOX1k3LUpGanE0RGlsMnJiU0ZqUlJhOHhR?oc=5"
-      },
-      {
-       "titulo": "Resumen del Aryna Sabalenka - Elina Svitolina - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RFdlh2ZzZjY0FwU0xON3pWRUVnOFNxa1V0aUhsTXZsOWRyZFlMMlZUYUpsWXFsa25JTnBYSm44UUNXWGxDWTdUYUNTY1VHTHpTMVZvU3lCNFJXQ0k0MFpEenRDc1o5eUJoVkZ5MzQtMmpmZ2tEOTA3MVJoZnZwM215NTEyS1pUbWU1WHhxVlhzZ292X0dra2JMbk1GNmt0cE1aYkNZWGkxQQ?oc=5"
       }
      ]
     }
