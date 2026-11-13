@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T19:01+00:00",
+ "actualizado": "2026-11-13T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,11 +19,11 @@
  },
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 33,
-  "restantes": 467,
-  "usados": 33,
-  "actualizado": "2026-11-12T08:00+00:00",
-  "prevision_mes": 50,
+  "gastados_mes": 36,
+  "restantes": 464,
+  "usados": 36,
+  "actualizado": "2026-11-13T08:00+00:00",
+  "prevision_mes": 47,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -339,7 +339,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.391,
-      "motivo": "Lleva 14 días sin apostar."
+      "motivo": "Lleva 15 días sin apostar."
      },
      {
       "emocion": "sorpresa",
@@ -560,7 +560,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 15 días sin apostar."
+      "motivo": "Lleva 16 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -761,7 +761,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.771,
-      "motivo": "Lleva 15 días sin apostar."
+      "motivo": "Lleva 16 días sin apostar."
      },
      {
       "emocion": "calma",
@@ -982,7 +982,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 15 días sin apostar."
+      "motivo": "Lleva 16 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -990,97 +990,97 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-12T08:00+00:00",
+  "actualizado": "2026-11-13T08:00+00:00",
   "partidos": [
    {
-    "id": "b8a1b5d0077794775db0a2ca6b15baf7",
+    "id": "6b92a67eab021047017da9d42e1e1fae",
     "deporte": "tennis_wta_finals",
     "torneo": "WTA Finals",
     "circuito": "WTA",
     "superficie": "hard",
-    "inicio": "2026-11-12T20:00+00:00",
+    "inicio": "2026-11-13T20:00+00:00",
     "jugadores": [
-     "Marta Kostyuk",
-     "Coco Gauff"
+     "Mirra Andreeva",
+     "Karolina Muchova"
     ],
     "opciones": [
      {
-      "id": "b8a1b5d0077794775db0a2ca6b15baf7|h2h|Coco Gauff|",
+      "id": "6b92a67eab021047017da9d42e1e1fae|h2h|Karolina Muchova|",
       "mercado": "h2h",
-      "nombre": "Coco Gauff",
+      "nombre": "Karolina Muchova",
       "punto": null,
-      "cuota": 1.33,
+      "cuota": 3.25,
       "pinnacle": null
      },
      {
-      "id": "b8a1b5d0077794775db0a2ca6b15baf7|h2h|Marta Kostyuk|",
+      "id": "6b92a67eab021047017da9d42e1e1fae|h2h|Mirra Andreeva|",
       "mercado": "h2h",
-      "nombre": "Marta Kostyuk",
+      "nombre": "Mirra Andreeva",
       "punto": null,
-      "cuota": 3.35,
+      "cuota": 1.35,
       "pinnacle": null
      },
      {
-      "id": "b8a1b5d0077794775db0a2ca6b15baf7|totals|Over|20.5",
+      "id": "6b92a67eab021047017da9d42e1e1fae|totals|Over|20.5",
       "mercado": "totals",
       "nombre": "Over",
       "punto": 20.5,
-      "cuota": 1.8,
+      "cuota": 1.78,
       "pinnacle": null
      },
      {
-      "id": "b8a1b5d0077794775db0a2ca6b15baf7|totals|Under|20.5",
+      "id": "6b92a67eab021047017da9d42e1e1fae|totals|Under|20.5",
       "mercado": "totals",
       "nombre": "Under",
       "punto": 20.5,
-      "cuota": 1.91,
+      "cuota": 1.93,
       "pinnacle": null
      }
     ],
     "pinnacle_h2h": {}
    },
    {
-    "id": "7d0fa680caf6f5718ca51b421754252d",
+    "id": "29a6e4e35a3b385e9666473ad68f2084",
     "deporte": "tennis_wta_finals",
     "torneo": "WTA Finals",
     "circuito": "WTA",
     "superficie": "hard",
-    "inicio": "2026-11-12T21:30+00:00",
+    "inicio": "2026-11-13T21:30+00:00",
     "jugadores": [
-     "Jessica Pegula",
-     "Linda Noskova"
+     "Aryna Sabalenka",
+     "Elina Svitolina"
     ],
     "opciones": [
      {
-      "id": "7d0fa680caf6f5718ca51b421754252d|h2h|Jessica Pegula|",
+      "id": "29a6e4e35a3b385e9666473ad68f2084|h2h|Aryna Sabalenka|",
       "mercado": "h2h",
-      "nombre": "Jessica Pegula",
+      "nombre": "Aryna Sabalenka",
       "punto": null,
-      "cuota": 1.99,
+      "cuota": 1.51,
       "pinnacle": null
      },
      {
-      "id": "7d0fa680caf6f5718ca51b421754252d|h2h|Linda Noskova|",
+      "id": "29a6e4e35a3b385e9666473ad68f2084|h2h|Elina Svitolina|",
       "mercado": "h2h",
-      "nombre": "Linda Noskova",
+      "nombre": "Elina Svitolina",
       "punto": null,
-      "cuota": 1.83,
+      "cuota": 2.6,
       "pinnacle": null
      },
      {
-      "id": "7d0fa680caf6f5718ca51b421754252d|totals|Over|22.5",
+      "id": "29a6e4e35a3b385e9666473ad68f2084|totals|Over|21.5",
       "mercado": "totals",
       "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.91,
+      "punto": 21.5,
+      "cuota": 1.78,
       "pinnacle": null
      },
      {
-      "id": "7d0fa680caf6f5718ca51b421754252d|totals|Under|22.5",
+      "id": "29a6e4e35a3b385e9666473ad68f2084|totals|Under|21.5",
       "mercado": "totals",
       "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.8,
+      "punto": 21.5,
+      "cuota": 1.93,
       "pinnacle": null
      }
     ],
@@ -1892,6 +1892,36 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-13T08:00+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-12T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2010,39 +2040,9 @@
    "hora": "2026-11-07T12:10+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T09:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T09:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-12",
+ "ultima_decision": "2026-11-13",
  "oficina": {
   "total": {
    "apuestas": 2,
@@ -2115,94 +2115,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "6a03e950601f142942705acfb764d107": {
-   "id": "6a03e950601f142942705acfb764d107",
-   "jugadores": [
-    "Arthur Fils",
-    "Taylor Fritz"
-   ],
-   "inicio": "2026-11-05T19:30+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-05T19:01+00:00",
-   "elo": 0.577,
-   "elo_general": 0.603,
-   "elo_en_superficie": 0.552,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Arthur Fils",
-     "mercado": 0.547,
-     "elo": 1925,
-     "elo_superficie": 1889,
-     "forma": [
-      "G hard vs Alex Michelsen",
-      "P hard vs Jan-Lennard Struff",
-      "G hard vs Giovanni Mpetshi Perricard",
-      "G hard vs Alex Michelsen",
-      "G hard vs Tomas Machac"
-     ],
-     "cansancio": "1 partidos, 2 sets y 22 juegos en 3 días; el último el 2026-11-04 contra Tomas Machac, ganó 6-3 7-6",
-     "noticias": [
-      {
-       "titulo": "Los ocho torneos en los que Alcaraz no ha pasado de cuartos: ¿Saldrá París de la lista? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fem1KXzZCWERidUVwdVAtZ1NDV2JxOTNsNV9GWlN1TVRLS2Y5S085ZGRjQ0VSdGdud3hrajMyRVFjbzNFSmFJQVpGN3pxaTNpWFNPQjdSaV9zX0dGSXhTVG1QdWlkNFN3UUNaMA?oc=5"
-      },
-      {
-       "titulo": "Alcaraz y Djokovic entre los candidatos de octubre al Hot Shot del mes, ¡vota aquí! - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUcwd3R1S192RXNKcFpQNzJaSWFnNXpZQmRoZHJxQkJKNWRfZTYzMnBLN1RGbFlQWTdxTklfWk1IVnRsc1E5WGVNN3NsZ1lkOE90Rm9zRXl1RGxQQlRQb1BxR1hONmN3dWVRSEV5ejNPWEx3cXhxVmFNTGFsTkkzZmxQMA?oc=5"
-      },
-      {
-       "titulo": "¿A qué hora juega Carlos Alcaraz los cuartos de final del Masters 1.000 de París? Horario, TV y dónde ver - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0p0SUFkd2Q4ZzhlN3J0dVJRN3ZBUGR5MHctZFFwaXhKb3dGV0JwYlpBUlpBcDZGZWpSODZDRDlLYWZ5czQwVXduLXphd3dTMmYwNW9pU3ZROWxxWmhsamR6LVZqV05JM2lxNl9kaU1LZUVpb3VqWDZCTktsYkttTEhEX0ZrNEw4QXdSYTlGNHRzN1BDQXJCRVBjWUg4LTJwTzhNVGd3eFY1VXdCc1U0bnJaMU95VHdBZnl3M29DcFN1YnI3MWtDSEExcUg3SHh2Vm5MbXRKWWwwa0cwOEFV0gHzAUFVX3lxTE8wbUFiU0hueVIyWE5IOWw5dU8wVHFOX0s5T1d3R1V0cXJKWFZGNnZQMjB2c3dNTHk2UnZya2plLTJoZUdNWWNUdlc5ZFNQZ1NHQXQwRDdtU2tUbjhQVjByRXlsdUo4cGpCc0w5WjVBWjBOdzdoQ0o0MVRCMHBlSVVQbFh4alJ5Wk04c1N3X1NyY3FzWnp1RjJuUXZuaWFOOHoxMkZITDV6UWhHS3VRM3lHOTk5eHY5ZER4N0UyTXBkYzVNU09uNFBsdzNPendZdHBkYmNlTGhlVzc2bXE3RmUyd3BMclBnS3UwUGV4cThzbVpLWQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Taylor Fritz",
-     "mercado": 0.453,
-     "elo": 1853,
-     "elo_superficie": 1853,
-     "forma": [
-      "G hard vs Rinky Hijikata",
-      "G hard vs Denis Shapovalov",
-      "P hard vs Valentin Vacherot",
-      "G hard vs Benjamin Bonzi",
-      "G hard vs Alex Molcan"
-     ],
-     "cansancio": "2 partidos, 6 sets y 66 juegos en 3 días; el último el 2026-11-04 contra Alex Molcan, ganó 6-7 7-5 7-6 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Carlos Alcaraz se queda sin rival por primera vez en su carrera antes de jugar y otros diez se le retiran - Murcia Plaza",
-       "fuente": "Murcia Plaza",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc1dOUkFweE5ZZXlpdi1MdmVYN214Y3p2cWZiRy04bFVzY3hqTm9EZVZnek5XakN0YUlUc3p4R25fU1l6bXB2SDJZQmFLNUJwYzJvWXl6MFpSNDlKR09XVzFKbnE4d2hQWkt2d1ZnSEowY2piV05tOHhaM2RPWHpxMTZZaWh3Y0xfUU5SczhGN1RwVmRmUFFLSGpXZFFNRDN6emNfa29zVGpnSHJOVkVXRlRxampkeFhueU9nSTFTVWJ5dXkyMG1ldVBLblhmanpFUWNDbDU4Q2xmaHJNUUwtWGZvUXMyaEM2ZVdtSUZB?oc=5"
-      },
-      {
-       "titulo": "¿A qué hora juega Carlos Alcaraz los cuartos de final del Masters 1.000 de París? Horario, TV y dónde ver - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMG1BYlNIbnlSMlhOSDlsOXVPMFRxTl9LOU9Xd0dVdHFySlhWRjZ2UDIwdnN3TUx5NlJ2cmtqZS0yaGVHTVljVHZXOWRTUGdTR0F0MEQ3bVNrVG44UFYwckV5bHVKOHBqQnNMOVo1QVowTnc3aENKNDFUQjBwZUlVUGxYeGpSeVpNOHNTd19TcmNxc1p6dUYyblF2bmlhTjh6MTJGSEw1elFoR0t1UTN5Rzk5OXh2OWREeDdFMk1wZGM1TVNPbjRQbHczT3p3WXRwZGJjZUxoZVc3Nm1xN0ZlMndwTHJQZ0t1MFBleHE4c21aS1nSAfMBQVVfeXFMTzBtQWJTSG55UjJYTkg5bDl1TzBUcU5fSzlPV3dHVXRxckpYVkY2dlAyMHZzd01MeTZSdnJramUtMmhlR01ZY1R2VzlkU1BnU0dBdDBEN21Ta1RuOFBWMHJFeWx1SjhwakJzTDlaNUFaME53N2hDSjQxVEIwcGVJVVBsWHhqUnlaTThzU3dfU3JjcXNaenVGMm5Rdm5pYU44ejEyRkhMNXpRaEdLdVEzeUc5OTl4djlkRHg3RTJNcGRjNU1TT240UGx3M096d1l0cGRiY2VMaGVXNzZtcTdGZTJ3cExyUGdLdTBQZXhxOHNtWktZ?oc=5"
-      },
-      {
-       "titulo": "Arthur Fils - Taylor Fritz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-05",
-       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbldVdU04cHQ2a1B2aVQwS1g4WVNxTmdna2tEY0RsOHRfVzByN0dOalY3UE5LaTluUVFRNmNuTS04Q3VFZ0FxR2N3VEgwSldwOWs3dFhLUEhVQktmbnZ0dXhzdjJZa3hrcDcyZDVFYzEwSWZDd3hfX1A5YktMM3hXdVExalhtcXJRR3NrQmNLWW1haXBUWEQ0NG5qcGEyWVo0WHZrTGFSM2NmYkMzeHFab0RLX2gxZW9mZ2dad291TzRFMjhSZmhXYzdweXVqQ3AyTFdud0Z6bmNic3dmZV9sV1BqOG5HMENLd1E?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "10a66a309af482f75813cc0d9ce0bdd1": {
    "id": "10a66a309af482f75813cc0d9ce0bdd1",
    "jugadores": [
@@ -3078,6 +2990,182 @@
        "fuente": "Eurosport",
        "fecha": "2026-11-11",
        "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "6b92a67eab021047017da9d42e1e1fae": {
+   "id": "6b92a67eab021047017da9d42e1e1fae",
+   "jugadores": [
+    "Mirra Andreeva",
+    "Karolina Muchova"
+   ],
+   "inicio": "2026-11-13T20:00+00:00",
+   "torneo": "WTA Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-13T08:00+00:00",
+   "elo": 0.517,
+   "elo_general": 0.504,
+   "elo_en_superficie": 0.53,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Mirra Andreeva",
+     "mercado": null,
+     "elo": 1950,
+     "elo_superficie": 1909,
+     "forma": [
+      "G hard vs Polina Kudermetova",
+      "G hard vs Daria Snigur",
+      "G hard vs Ekaterina Alexandrova",
+      "G hard vs Nikola Bartunkova",
+      "P hard vs Zheng Qinwen"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Pegula echa a Gauff de las WTA Finals y se las verá con Andreeva en el partido del morbo - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckJBanNtaExIQi1DRUtsYUcyQXJyOTJOMEJPdG94N090Z3ZuZnZtdmNDZUdBWGNFY1lwcWk5cUNBYVluMkswM2ZsYzdXWlFRVGRSRy1hYldwempsdnhWZWl2a29ha2ZOY3VzbUg0Ri1YT3gwMF9TOVNxTmg1YU8tTFhSMUVibk5pRW9OVWMtcU5XbWFSYW1QN1ZpaWk2ekRxbTFXTjluTExEQl81Y2RIblVEOXk4UEFyT0HSAccBQVVfeXFMT1RwVzhEQ000bXg2LThPQTVfRDhlRjFMbkp3MFBadGxEUzNMMm1DYjJQNW5nM3F6NlVZX2c2RW9DQjBEYUpaYzhQWFdnSXQtSG9ER0VrckIzdWhBeGdlekFUT1FOSnFYV3NCd1pnRVdMOG5CN0RqQjdxY3oxazdaSlhBVHZqSnRHQUhIU3l5Q1VjVUo5SXBiUkwwQkE2NUo1RDhxd01tcWM4SGFCTTJpV1BKRVpnb1duUXdWRGtuUmlfYk1MTjZYaw?oc=5"
+      },
+      {
+       "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
+      },
+      {
+       "titulo": "Pegula avanza a semifinales de las WTA Finals, donde enfrentará a Andreeva - France 24",
+       "fuente": "France 24",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVVJYYUpDRkgyeTYyRlh0N1dGXzJFelAtckUzQzlKTEZJNk84cWE3czhsbTdwVWx5V1R1dUcxSXRtRlZsbXlsV1dqRFk3b3pUbGpNZWtUYVhzRjhqS1FPMkdoSl9CQ1NPQkNBcURZd1NqZWdObGhzYTFXd3FJQWxiUWZ4NHl1ZWszS2R0LWUxNUVKRTZGQ1ctWkUtQkdMQ3VsS2JYWEFQMm9KMzktRC1MYTdmSDFrX2hkMW95UENkM2tqX244aEt1MGx0SQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Karolina Muchova",
+     "mercado": null,
+     "elo": 1947,
+     "elo_superficie": 1888,
+     "forma": [
+      "G hard vs Liudmila Samsonova",
+      "G hard vs Naomi Osaka",
+      "P hard vs Nikola Bartunkova",
+      "G hard vs Catherine McNally",
+      "P hard vs Diana Shnaider"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
+      },
+      {
+       "titulo": "Resumen del Mirra Andreeva - Karolína Muchová - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekNORUpsdngzY194dHo0UWZRUHJwSmphSVFtTHpyeFFGUmJWUGVnQTZqSlQtdXdaNmpEekVYVC1nRzV6TFk0Und6TlE0QmlsY3l3bTk1U0p5ZXR1NkdWbnk4TWtXSGRDUTlZalRWTk9ReUZONDR5dmN3WWlRMXkxX183Z1BjRDJHTWRrcERVMi1LbzZKQkpBR19GVXRHWlRmMVRMQ3F0NmdnQQ?oc=5"
+      },
+      {
+       "titulo": "Elina Svitolina remonta ante Karolina Muchova y gana en las Finales de la WTA - Potosinoticias.com",
+       "fuente": "Potosinoticias.com",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTVCWEdScnpyQ0FXMl91cWFYbk41ZG9yQlFSUzEwdFZ3NmdHS0UzSlNtUTZVWnp3aGdfMF81eEZfaGlZWVNtWmNwMEgwMHlYSlNxcXpacjNKZTV4MTVTVUNCQm5jemVHaUhZT1lFYS1mZEhuemRoX3RLUnRjNzhaY1hFcU1pX043NkE2dFhza0ZqN2s5dk1pbzZzbjZSdFVub1RIczNKYi04NDI4bzZuVlF0Q1BfYW8?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "29a6e4e35a3b385e9666473ad68f2084": {
+   "id": "29a6e4e35a3b385e9666473ad68f2084",
+   "jugadores": [
+    "Aryna Sabalenka",
+    "Elina Svitolina"
+   ],
+   "inicio": "2026-11-13T21:30+00:00",
+   "torneo": "WTA Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-13T08:00+00:00",
+   "elo": 0.536,
+   "elo_general": 0.532,
+   "elo_en_superficie": 0.541,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Aryna Sabalenka",
+     "mercado": null,
+     "elo": 1929,
+     "elo_superficie": 1955,
+     "forma": [
+      "G hard vs Jessica Pegula",
+      "P hard vs Elena Rybakina",
+      "G hard vs Renata Zarazua",
+      "P hard vs Nikola Bartunkova",
+      "P hard vs Ann Li"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Sabalenka, la estrella del tenis que pudo ser modelo o boxeadora: \"Me encanta mi cuerpo\" - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0VHZXlQZS1aMDFUMTA0Y2U5azNkVF9Ubk1DUzZCaW5GNGVIcmM0OE5SdFM5aHdwZUo5bXo3eHVzQjBTeDE0VWZkZWZkOHBYelVlMnJaRUhDWmxWcERKNVNPUDd3M1AyQURmMXBER09zcnhPNHZBbllOel92WGxXN2tXdkhja2tmUWZndTBnbTd5RWRtNzhtczZaQ3Iyb3ZwU3FmY1NRUUh4NXhGSExpLWdTbnpPODFi0gG4AUFVX3lxTFBhWnNyLUtMMUthY1JpbDBQOG9oXzRxTktQUWtfQ2g3OUNPb1NHV1lIUThnMkRFSFZxVi1NM1dGLTFHNGZjWXB3bHdaRkgtQnVpSU9TS2VqUXVYVmw3VUNTbHA3VnJFc0RFaG91RzI1WmdBY2lPZ01QZ2d3N296aDEyOFlxRkRkTmtsZUNOYnhWU013U2hEZnIxakl5SFEtOHdhMDZ5MUwtNW1aZWM2eFRsTjc5dWYzQlE?oc=5"
+      },
+      {
+       "titulo": "Aryna Sabalenka vs Elina Svitolina · Round Robin · WTA Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
+      },
+      {
+       "titulo": "Reportero comenta que Aryna Sabalenka es 'horrible', sin saber que tenía el micrófono abierto - The Mirror US en Español",
+       "fuente": "The Mirror US en Español",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZk9zRGtza0xid2xFVzNPNlhWSHFiWUZnZ0Z3dThSWi00TGQ3Mlo5SG84NTl1N1V1LU53NUJ1R1VCVlhKMXJWZ1A5VzhMa1ZaN0VneHkzTWZUSnZ3MnVOTHAxUTdncTRxSXV2ZlZMNHp0WlJTcUdkc3JjZm5HTVpjQ2VBcFdwUDFOZzRsVUxuUVRzUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Elina Svitolina",
+     "mercado": null,
+     "elo": 1907,
+     "elo_superficie": 1927,
+     "forma": [
+      "G hard vs Ann Li",
+      "P hard vs Zheng Qinwen",
+      "G hard vs Liudmila Samsonova",
+      "G hard vs Guo Hanyu",
+      "P hard vs Sonay Kartal"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Aryna Sabalenka vs Elina Svitolina · Round Robin · WTA Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
+      },
+      {
+       "titulo": "Andreeva-Pegula, semifinal con morbo en las Finales de la WTA; Noskova espera rival - Infobae",
+       "fuente": "Infobae",
+       "fecha": "2026-11-13",
+       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0dwX09saEFMdGl2TWtJaGtDbkIxUHRabWNzTmZFNFB1S2J0eFZzYm4xSFBhdmg2NTZsY203bzYtcG1FWnd1QmYyWHV4UHcxRkpYYVBpamhNdWNfWGhTNllKTjVTcEM0a3loS0JVUVRZUjRDQ1hwOFlJQmkxZGlyVmFOSHBFMDI0b0VQUk83dkJRRkVlWWlIZ1lETkcyaFNyLVU1NmI4SnQ4N2luUU1xTFBlQWk0Y0QtR0xIMFVqZEtEbVA1YkMxcXFZYzFvNlnSAeoBQVVfeXFMUEd3ZmFiaWpyNEphODNnVUVnMmppTElxRm5yUENGTGIxanVFR25LRC1kNDJFU1BMWFBNXy1aQ0NsNXIzbnhOc19ZSVQ3bU1QTG10YXRTOHNvb2lKMDJlckZTU1hsSmRHaG5VMjU5bWNZblE3VzdoWllZWmZjU3pfUENhR1ZfVlFYeW5XNTN2WHYtZktGZjJLWU81VnROQm1kVTN6dnNJaW1QSzZHQXdpX01xU1RVYk9RRzV2UEtFcWItU0hWWVVKUFpxRnE5TVZCempOX1k3LUpGanE0RGlsMnJiU0ZqUlJhOHhR?oc=5"
+      },
+      {
+       "titulo": "Resumen del Aryna Sabalenka - Elina Svitolina - Eurosport",
+       "fuente": "Eurosport",
+       "fecha": "2026-11-12",
+       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RFdlh2ZzZjY0FwU0xON3pWRUVnOFNxa1V0aUhsTXZsOWRyZFlMMlZUYUpsWXFsa25JTnBYSm44UUNXWGxDWTdUYUNTY1VHTHpTMVZvU3lCNFJXQ0k0MFpEenRDc1o5eUJoVkZ5MzQtMmpmZ2tEOTA3MVJoZnZwM215NTEyS1pUbWU1WHhxVlhzZ292X0dra2JMbk1GNmt0cE1aYkNZWGkxQQ?oc=5"
       }
      ]
     }
