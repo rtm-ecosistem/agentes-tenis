@@ -1,100 +1,106 @@
 {
- "actualizado": "2026-11-13T08:00+00:00",
+ "actualizado": "2026-11-14T08:00+00:00",
  "casa": "betsson",
  "partidos": [
   {
-   "id": "6b92a67eab021047017da9d42e1e1fae",
+   "id": "53d87628f7d7ae2c16b9b10ab1be03ab",
    "deporte": "tennis_wta_finals",
    "torneo": "WTA Finals",
    "circuito": "WTA",
    "superficie": "hard",
-   "inicio": "2026-11-13T20:00+00:00",
+   "inicio": "2026-11-14T20:00+00:00",
    "jugadores": [
-    "Mirra Andreeva",
-    "Karolina Muchova"
+    "Jessica Pegula",
+    "Mirra Andreeva"
    ],
    "opciones": [
     {
-     "id": "6b92a67eab021047017da9d42e1e1fae|h2h|Karolina Muchova|",
+     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|h2h|Jessica Pegula|",
      "mercado": "h2h",
-     "nombre": "Karolina Muchova",
+     "nombre": "Jessica Pegula",
      "punto": null,
-     "cuota": 3.25,
-     "pinnacle": null
+     "cuota": 3.2,
+     "pinnacle": 3.38
     },
     {
-     "id": "6b92a67eab021047017da9d42e1e1fae|h2h|Mirra Andreeva|",
+     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|h2h|Mirra Andreeva|",
      "mercado": "h2h",
      "nombre": "Mirra Andreeva",
      "punto": null,
      "cuota": 1.35,
-     "pinnacle": null
+     "pinnacle": 1.36
     },
     {
-     "id": "6b92a67eab021047017da9d42e1e1fae|totals|Over|20.5",
+     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|totals|Over|21.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 20.5,
-     "cuota": 1.78,
-     "pinnacle": null
+     "punto": 21.5,
+     "cuota": 1.88,
+     "pinnacle": 1.98
     },
     {
-     "id": "6b92a67eab021047017da9d42e1e1fae|totals|Under|20.5",
+     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|totals|Under|21.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 20.5,
-     "cuota": 1.93,
-     "pinnacle": null
+     "punto": 21.5,
+     "cuota": 1.83,
+     "pinnacle": 1.88
     }
    ],
-   "pinnacle_h2h": {}
+   "pinnacle_h2h": {
+    "Jessica Pegula": 3.38,
+    "Mirra Andreeva": 1.36
+   }
   },
   {
-   "id": "29a6e4e35a3b385e9666473ad68f2084",
+   "id": "57cede457aa62785e8460c5b2a052ac6",
    "deporte": "tennis_wta_finals",
    "torneo": "WTA Finals",
    "circuito": "WTA",
    "superficie": "hard",
-   "inicio": "2026-11-13T21:30+00:00",
+   "inicio": "2026-11-14T21:10+00:00",
    "jugadores": [
-    "Aryna Sabalenka",
+    "Linda Noskova",
     "Elina Svitolina"
    ],
    "opciones": [
     {
-     "id": "29a6e4e35a3b385e9666473ad68f2084|h2h|Aryna Sabalenka|",
-     "mercado": "h2h",
-     "nombre": "Aryna Sabalenka",
-     "punto": null,
-     "cuota": 1.51,
-     "pinnacle": null
-    },
-    {
-     "id": "29a6e4e35a3b385e9666473ad68f2084|h2h|Elina Svitolina|",
+     "id": "57cede457aa62785e8460c5b2a052ac6|h2h|Elina Svitolina|",
      "mercado": "h2h",
      "nombre": "Elina Svitolina",
      "punto": null,
-     "cuota": 2.6,
-     "pinnacle": null
+     "cuota": 2.36,
+     "pinnacle": 2.53
     },
     {
-     "id": "29a6e4e35a3b385e9666473ad68f2084|totals|Over|21.5",
+     "id": "57cede457aa62785e8460c5b2a052ac6|h2h|Linda Noskova|",
+     "mercado": "h2h",
+     "nombre": "Linda Noskova",
+     "punto": null,
+     "cuota": 1.59,
+     "pinnacle": 1.58
+    },
+    {
+     "id": "57cede457aa62785e8460c5b2a052ac6|totals|Over|22.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 21.5,
-     "cuota": 1.78,
-     "pinnacle": null
+     "punto": 22.5,
+     "cuota": 1.89,
+     "pinnacle": 1.95
     },
     {
-     "id": "29a6e4e35a3b385e9666473ad68f2084|totals|Under|21.5",
+     "id": "57cede457aa62785e8460c5b2a052ac6|totals|Under|22.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 21.5,
-     "cuota": 1.93,
-     "pinnacle": null
+     "punto": 22.5,
+     "cuota": 1.81,
+     "pinnacle": 1.92
     }
    ],
-   "pinnacle_h2h": {}
+   "pinnacle_h2h": {
+    "Elina Svitolina": 2.53,
+    "Linda Noskova": 1.58
+   }
   }
  ]
 }
