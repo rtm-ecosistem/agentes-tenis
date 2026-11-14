@@ -2606,7 +2606,7 @@
   "betsson": 2004
  },
  "ultima_decision": "2026-11-14",
- "ultima_sala": "2026-11-14-14",
+ "ultima_sala": "2026-11-14-20",
  "noticias_vistas": [
   "82968b4d4d41",
   "a55da71a6dfd",
@@ -3434,182 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "9ebb22b87460accfb899c0e613b47651": {
-   "id": "9ebb22b87460accfb899c0e613b47651",
-   "jugadores": [
-    "Luca Van Assche",
-    "Ben Shelton"
-   ],
-   "inicio": "2026-11-07T13:30+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-07T13:00+00:00",
-   "elo": 0.222,
-   "elo_general": 0.248,
-   "elo_en_superficie": 0.196,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Luca Van Assche",
-     "mercado": 0.247,
-     "elo": 1709,
-     "elo_superficie": 1678,
-     "forma": [
-      "P hard vs Learner Tien",
-      "G hard vs Mariano Navone",
-      "G hard vs Learner Tien",
-      "G hard vs Lorenzo Musetti",
-      "G hard vs Rinky Hijikata"
-     ],
-     "cansancio": "3 partidos, 8 sets y 89 juegos en 3 días; el último el 2026-11-06 contra Rinky Hijikata, ganó 6-4 6-7 7-5 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Luca Van Assche - Ben Shelton, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmZHdVdwNjhJQlh4UzdocXVPM0xrZm82QXIzdl9RUUQ0bHBpdF9ldHhOTjVSZzdFMmJVT0wzS1d0MS16Zl9qbko3X21lZXo5Y1NraG9xSVdLM0xBM0pSQmkwc2pOOXpGQjNCSEo4aFVmUEVXQ3ZqNWh4ZWc3UmNja0N1MWN5ci1ncDQzbWJ6Y3B2a2RBT1czNkhqdXlBR2xKTjFjblBXbFNZdnZfQ3lmS3d1NDhXcjZxYTg5YnZfRWRGNG1SaHJxY2ZPUWhmY19teHZEU3k4bGFXeUFKbjVqMzlYNVVTbjRKM3VlYnRR?oc=5"
-      },
-      {
-       "titulo": "Luca Van Assche, en semifinales del Masters de París: una remontada ante Hijikata le da un éxito histórico - KarloBag.eu",
-       "fuente": "KarloBag.eu",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHBaam9zTGYzTEpNdFNRaVNfc2pvcU5mNmo0YzZMNnoyWVY4ME8xd3BPeUVGODNsQlA4bXN0V0Y1bHRrUGVpdEZhRVRqME42dExFZV9LVDNwNGVYUEowZHhxcDA3a2FPREV1U2JJUkIyTzdnUXdCYUNINE1uZWd5OWlDbXdfOHdiZk94WWlKMURkWU1zblhEdUVSUUNzcHpyRUZ3R1cxR3VmWEJzM21DZkFSaHhEOHhFaFBj?oc=5"
-      },
-      {
-       "titulo": "Estadísticas Partido: Luca Van Assche vs Ben Shelton Semifinal en Masters 1000 París 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUhwQW9ZTEJmVWhFeWtQYlJIc1RQcTE3WkJEY1ZFNHZBM2dFVC1zNGx6RDZNQWtlRmh4djF3Z2FKWWZmN2tKY3U1cXA2U2o1NEZaaUt1anJPMEIxa005b2lqcXhkWHlEWGU0TVM2eGxaVnlvMUtiN1ZpNWhTVTEwS0Q2Tk5ueVlOUmRlNGlpOGFNam9GZHoyZThUNDJHSkg5Y1MxMHlnUXlMLTA?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Ben Shelton",
-     "mercado": 0.753,
-     "elo": 1902,
-     "elo_superficie": 1923,
-     "forma": [
-      "G hard vs Aleksandar Kovacevic",
-      "P hard vs Jerome Kym",
-      "G hard vs Cameron Norrie",
-      "G hard vs Arthur Rinderknech",
-      "G hard vs Tommy Paul"
-     ],
-     "cansancio": "2 partidos, 6 sets y 61 juegos en 3 días; el último el 2026-11-06 contra Tommy Paul, ganó 6-4 4-6 6-3",
-     "noticias": [
-      {
-       "titulo": "Luca Van Assche - Ben Shelton, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVmZHdVdwNjhJQlh4UzdocXVPM0xrZm82QXIzdl9RUUQ0bHBpdF9ldHhOTjVSZzdFMmJVT0wzS1d0MS16Zl9qbko3X21lZXo5Y1NraG9xSVdLM0xBM0pSQmkwc2pOOXpGQjNCSEo4aFVmUEVXQ3ZqNWh4ZWc3UmNja0N1MWN5ci1ncDQzbWJ6Y3B2a2RBT1czNkhqdXlBR2xKTjFjblBXbFNZdnZfQ3lmS3d1NDhXcjZxYTg5YnZfRWRGNG1SaHJxY2ZPUWhmY19teHZEU3k4bGFXeUFKbjVqMzlYNVVTbjRKM3VlYnRR?oc=5"
-      },
-      {
-       "titulo": "Ben Shelton vs. Tommy Paul Paris 2026 Quarterfinal | Stats Centre | ATP Tour | Tennis - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90THgyLWZxd0lsemFtMDdRRXM4LS1xbXZuc3RLNEtuYndHM0JTZTVfUVhHS2t1QmJlaUdjWFJDcDVOcEkzMGs5V2NWTmdualRvVFh0WjROT1d0bm5EWVRkR1lxUktRdlF4WUgwQnM1WDQxWFBM?oc=5"
-      },
-      {
-       "titulo": "Estadísticas Partido: Luca Van Assche vs Ben Shelton Semifinal en Masters 1000 París 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-06",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUhwQW9ZTEJmVWhFeWtQYlJIc1RQcTE3WkJEY1ZFNHZBM2dFVC1zNGx6RDZNQWtlRmh4djF3Z2FKWWZmN2tKY3U1cXA2U2o1NEZaaUt1anJPMEIxa005b2lqcXhkWHlEWGU0TVM2eGxaVnlvMUtiN1ZpNWhTVTEwS0Q2Tk5ueVlOUmRlNGlpOGFNam9GZHoyZThUNDJHSkg5Y1MxMHlnUXlMLTA?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "d4b8a9b232417b21fd0dd2de1af179ee": {
-   "id": "d4b8a9b232417b21fd0dd2de1af179ee",
-   "jugadores": [
-    "Casper Ruud",
-    "Carlos Alcaraz"
-   ],
-   "inicio": "2026-11-07T16:00+00:00",
-   "torneo": "ATP Paris Masters",
-   "superficie": "hard",
-   "actualizado": "2026-11-07T15:10+00:00",
-   "elo": 0.149,
-   "elo_general": 0.138,
-   "elo_en_superficie": 0.159,
-   "cara_a_cara": [
-    1,
-    2
-   ],
-   "detalle": [
-    {
-     "nombre": "Casper Ruud",
-     "mercado": 0.185,
-     "elo": 1836,
-     "elo_superficie": 1818,
-     "forma": [
-      "P hard vs Nuno Borges",
-      "G hard vs Juan Manuel Cerundolo",
-      "G hard vs Rafael Jodar",
-      "G hard vs Jan-Lennard Struff",
-      "G hard vs Nuno Borges"
-     ],
-     "cansancio": "2 partidos, 4 sets y 41 juegos en 3 días; el último el 2026-11-06 contra Nuno Borges, ganó 7-6 6-4",
-     "noticias": [
-      {
-       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
-      },
-      {
-       "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
-      },
-      {
-       "titulo": "Horario, canal y dónde ver por TV el Alcaraz - Ruud del Masters 1000 de París de tenis - Mundo Deportivo",
-       "fuente": "Mundo Deportivo",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTE9TOE5ycl9BdFNBYnpwWkRCcGFBQTdyY29CVnkwM2YtaGNoVWlnZ2NuMnVUZU4tU2ZHanZ4SGxTSllTWDZ0bVppc254VXNwWlljS2dad1BhbGZEVDFGTFctNm95eERrbW5JbTVuQWxuNmZjeWhZbkg1SEMyMVpYOTJDbGxyVDdWZThTWXg4bEJpSTNQb3ZjV3hEdkExd2hJX1BwRllqem5LRzZGMlUxQzd3eVFSb2tZ0gHGAUFVX3lxTE1na1l0U1B3ajhmTkFzM05YQklSUTJrM24xQjloNmNPSl84MWpQWTJ4R1BkVXFTeHFTRi1zREhtT0ctcDVFRG1KQkRZLS1ueV80eWtQdUtfYlhORTIyYjZub3h4aDA0UUdnMlpKSUxNekYtaktmaF9GMnhSTi01X0pTZy1fTm1DZnRuWU8xT3RxOGI0aEJBcHJQWlhJam8zb1pvamljOUNjQ2VSS3BuUFJUeFlFZDk2WkRIS0JoaGRZeHFyVDlrZw?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Carlos Alcaraz",
-     "mercado": 0.815,
-     "elo": 2154,
-     "elo_superficie": 2107,
-     "forma": [
-      "G hard vs Tommy Paul",
-      "G hard vs Daniil Medvedev",
-      "G hard vs Alex de Minaur",
-      "G hard vs Alex Michelsen",
-      "G hard vs Taylor Fritz"
-     ],
-     "cansancio": "2 partidos, 5 sets y 56 juegos en 3 días; el último el 2026-11-06 contra Taylor Fritz, ganó 6-7 7-5 6-3 (partido largo)",
-     "noticias": [
-      {
-       "titulo": "Casper Ruud - Carlos Alcaraz, en directo hoy: sigue el partido de Rolex Paris Masters - Europa Press",
-       "fuente": "Europa Press",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnM1SDhXOU9NMlRBZlhPeUw5RTJ1QVlyc3NpUjBOQTdzeDZfcjlFdVhqRmpSN0dJNkxCU1VyV1JEVmx2OU9jR1U1YWtkRU02R1A1UE1NSUJYQWRPNmx5Z1JyOFhpeTExSC1RajlLYl9ZUzdxcF96VjB5NUZ0Ym1UUnMybXYtclI0UG9sTUJBTUhQSE9jbkc0X3MxOXBjWmx5UWJELWhDQkhSRlUzakhETWhKSzkzMHVLUl8xOWhiQmJSQURMRDg1OEg4NElUV0NNRmtIckluQXhzNUxHZkV2SGFkdkd1VnVncExvbg?oc=5"
-      },
-      {
-       "titulo": "Fritz se desahoga tras su dolorosa derrota ante Alcaraz: \"Todavía no sé qué pensar\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE9aTHRrUXI1N2pGY0c1UkxkWEozRE56aGt1RmhTSElFS0c5bnFVWUZNcFdxbnFjZVRlWW15TEI3MXh3MnE1cDdDQ0NxTlBDOXdtWE5zRjZFTnFnN1luQW5jeU5sa1hGdWJhS2NhcTNuWEZLM0xsYmdQYnNQSVJCR28zeXRwcEw0REJVcXdocFlBRXBpWXA2bEY1ZWE1UQ?oc=5"
-      },
-      {
-       "titulo": "Se llevan las manos a la cabeza: Ruud y Borges alucinan con el puntazo inverosímil de Alcaraz - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-07",
-       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExzNjlmQlBwOUNTVVdQX0RERDFGdVhhVHliS0d1UFRpbEowa3h3aXdKMVBGVzZvdmhhZnlaYkR4R1J3WnU2bjc0WFllNzJUZlFqWG53RF9pNV9VQkpvckM3dWR1WWhfaXh1cTExRUt6T3ZZSEJpa01mam1Nd21yWVpONDBVd1RlRTRlMTY4d0xkWnRNQ2hJbW43WkViYjhXQmhvODctVGEzMUZwcklyd3VTeEpxTTZ1WE1FZDA1S3Vwckp4akFJRHVyM3BuNUFvSHZha2dzbHh5U1ZRVWExUl93c3RVT24ySERmdFFoU1g?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "d87ade1e56f0c96e3b28b59dea344837": {
    "id": "d87ade1e56f0c96e3b28b59dea344837",
    "jugadores": [
@@ -4147,7 +3971,7 @@
    "inicio": "2026-11-14T20:00+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-14T13:01+00:00",
+   "actualizado": "2026-11-14T19:00+00:00",
    "elo": 0.528,
    "elo_general": 0.521,
    "elo_en_superficie": 0.536,
@@ -4205,22 +4029,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Mirra Andreeva estaba «estresada» y temía que «no ganaría ni un partido» en las WTA Finals - Tennis World ES",
+       "fuente": "Tennis World ES",
+       "fecha": "2026-11-14",
+       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnhDbDNGNWoyT3pSWmRrU0JpclZYUHd6QkNNZDlBTjgzTWlSSkZIUkRYUHZsNXkyWVFGaTJITnoyeUVfSE54Nzh6RFRhZE5jejlrTkt6bGFpdnJHZlFseEdIZUk2WGxSNUlUdHllVXZtOWgtTmI2R3VrMVQwUkw3eGNwaXNpWVJUdU1JcEZ1UndvVFNJWnZzMmV3UER0WHhXYlJCOWFlTmliN3UyazhDbWNGSS0zQXlpWHJSM0ZTYjRIQkFtMWd4U3h0MGpwNW96aWRUWDZ3cHBIU3hITXBGSDdocEo?oc=5"
+      },
+      {
+       "titulo": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider - WTA Tennis",
+       "fuente": "WTA",
+       "fecha": "2026-11-14",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTFMQkN2UkRWUjMyUm5xVUlsd1hQV3VhOXRHaUZWaHJnVE9XalhzMm5lbW5QS3kzRzBXVmpESHBhYmNSc1BISjR2UWNxZEwzWjhtMy0yOWVxNzBFZ29CblFWczNVQko5LW00U1ppTnVDSHUta3dvaUhydnpZaWt0d0lXZENNaVR0UUhuRWlnRkdUSTBn?oc=5"
+      },
+      {
        "titulo": "Vídeo: Mirra Andreeva hace una divertida petición al público estadounidense antes de enfrentarse a Jessica Pegula - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-14",
        "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT1RTTkhhcTcwUlNJNDNSWlRqTDhYLWdsRTBkUjJiYjdMVU91T1dEbkc3QTltbTA1Z3dKOU5oajRHSmRmNjFXVGRxQWJEWjhTS19SS0lSUHNhNWFKQ0lfLXRkb3NZZnN3THJ0bjY4WS1sWFJvaDBqX2NJcUxHendGbmhQQzJDcEJKMjNhZ1lDTzdNQWJPcFRabGxZeXFuUDdVeUs0aXBrRTR1Q2Z2YnVEX3NXdEYteXg5d0FQSnhiVW51dXpYa3NhU3kxSlRVNmxyc1R4Tm9pVVZkWnhHQ2JUUFFWcF9LNUctZlBLMUZpX0dmWE9uX2tDSi15UFFiYzA3OXlnWXNtTQ?oc=5"
-      },
-      {
-       "titulo": "Sabalenka se la pega y no jugará las semis de las WTA Finals - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTVubTZ4WDRJbzFyamZiWmR3NFlYLTcwOUZiOG10bG1hS0dzM3lZUWFIMlk2M3NTdnc5cFNvSEUxa0ROdVJaNnJOV0EzN0x4Yjlhd29MNFdCZ3ptaExGbEdUdXFBb0g1UUJYZ201S2FSQWE4S243RUdBM2lKZHEyUlZPVzFLUkhYbVk0ZWRLVlZfZ0l2TzBn0gGrAUFVX3lxTE52VnBVUFNTcDFzUnlWZUFkRmQ2bzlMUUJLRWg0UFA2YXhmSjVCT2k4akVBbm1IVnNDZlBveHZqMmw4UndNU2xuXzlsU1FuUkFXdEJMODNLTEtwMXRGMkRIcGtTcGtwWmlQellEM0FhMUxralZhM0s3MzJGZi1RNjFCTEZxeWhRVFliMnlmcXFhd1JOa3h1bUs0NnpZU2JpTDM0dWxQWFh4STY0TQ?oc=5"
-      },
-      {
-       "titulo": "Jessica Pegula admite que conoce «poco» el juego de Mirra Andreeva - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnV4WmdkY21jSEhKTTdlZ0V2X0hOWDNqYkZPYm9MUXl1TTlTdkxCa2xTUTBpMUdSVUw1cHRlSF95VFpVNFlMekdlQ1hfRlc3cUZNb3dpY1RPOHotaTFNYU1Ua2o3VHN0ZXh6YVhoX3JqSXItRGFoX21xZGlBT1Z0eFV4bWpHR0E1aUdpczdMdTRaQUJIQ1JEREdYS3hac0I4NVBpb1JidlZCemQtQXIyS0prXzliRUU?oc=5"
       }
      ]
     }
@@ -4235,7 +4059,7 @@
    "inicio": "2026-11-14T21:10+00:00",
    "torneo": "WTA Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-14T13:01+00:00",
+   "actualizado": "2026-11-14T19:00+00:00",
    "elo": 0.475,
    "elo_general": 0.572,
    "elo_en_superficie": 0.378,
@@ -4293,22 +4117,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Svitolina aparta a Sabalenka de las semifinales de las WTA Finals - VS Sports",
-       "fuente": "VS Sports",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUt4b1RvSU1UX0JnWGFQak1UemhPLXRnOEFDZUNpWE50am1ndUpnRTZFNVplRG9VbmtGTU14OHNab184RS1ZejFXT1Jva0xQQjJpNGp5XzF4X1Jlb3pFd1dKOTdqc3c1cUVSamFVS1RSYjRHakIwNUVWZTdXRlJNMUxvSlR4YmhVbm5Pc25TdWhBUm52RVJDcl9ORGJOT1YwUjVYVW56RFpnaG9DV0tVLQ?oc=5"
-      },
-      {
-       "titulo": "Elina Svitolina admite que estaba «muy afectada» antes de pasar página en las WTA Finals - Tennis World ES",
+       "titulo": "Elina Svitolina admite sentirse «abrumada» por el acoso en redes sociales tras su divorcio - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVhjV1RjVGJKU3FWNjhpUWJmWUlnNy03dkxVOWI5ZXhYUXctanlYcWJoOHhYVHZLdjJILVZOS0txR3RYYjVMTEQ2LVNhbHp4anVXRTZZTGFtWGd5eXFOaGJBRWFoV2lyOElGRFF6eEFrTjZCYXhYTnZYNUpXSE0xaXd5cWtORzhVMElNdWNTUjlLa0J2TnI1THpxX3NwY1hYXzBBTldLR1FZb1IyOTViMXJwRGNFRzY1cjh5bDlUYzUweUdqbVlfQ3NTdF9tLXpyT3FDbA?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1owYzRQYkxyZ3RTZ2E3N2lwU0wtV21oQXRvQ1ZuVmNtY01MODQ2dVptUUttd1hpRks1dDE4QnFzZy1yNlR3QkQ4cUl5OWx1WFhybGliUEFBWmRzMmtJWVdsQU9NaUtjaXZ1akZqd2p5T0NkNjJULWlqX0prYUlfNXpyTl9zT1ptWTBoUWFjS184b3ZjVFNndUg3Y2FRZk96b0pQbXlsMGFEV1p2RmhDMHl6MXN4aGVySEdDOG44YVhLNHFRYjJUU29ydk8zcEE3ZzBfLS1aWVk5aGdMalVacmJ5bFM0azg?oc=5"
       },
       {
-       "titulo": "Svitolina echa a Sabalenka de las WTA Finals y se enfrentará a Noskova en semifinales - El Periódico",
-       "fuente": "El Periódico",
+       "titulo": "Sabalenka, acusada de insultar a Svitolina y Ucrania: ¿Qué dijo la bielorrusa? - Match Tenis",
+       "fuente": "Match Tenis",
        "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzVITTdkc1lPWlp1QVV2cGVSa3REVHJFaEpnYVBZMkxvUERkZG93VEZVT2pXQzZGRTE4UE9NS0lfR2RHdmJ0YlpUdkVER3NmSnVudzNLQ1J3OVQ3aXZpa1RWR0dack1sbjI2X08zZ1hFb2VHeEowY0xHSUtGbEN4Y1poWnc1dTJlTTcxQzFzV1FBRndQQTNTSm530gGaAUFVX3lxTFBhQVJ6YmNQSUhXOEZhdDRHeVpHVkRZd0p0b1VZVDNUT0pUSWZhdjBndmhHRHdlZi02OTRZREx5djBUblBxYkl4NWFnc2h3MGVUVm01REVYOUpGN0VxYkFXSXdLVmZIQVBaLXFKWkpOLXdDWXZ0VUJFellRS3lrSFp0ZG5GdW92eXBYc0dxN28xcFZ5cm9XakMyTHc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmVtWEZxQ3I3S1F6ZmtVQllHRnJHbmxkQXdPU2ZZcWxJZUxpNXFjcUY3SXRmUE5jTHBiX1NvV2NyTlBySnhFSm9nM0RMNnZVTjlUMmFOdVprYVRHMlhNZGh5SnJaVlBnWkNJXw?oc=5"
+      },
+      {
+       "titulo": "Sabalenka es acusada de insultar gravemente a Svitolina y Ucrania - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-14",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTVJQWRoRGFyS3FPa2VIUDBkd291WEhkRmhjeGtHQy0wNG5oQUVHa1g2UG8wTGdqR0dIdFVHWU9JSkVTR0ZlSWcxWmFITUxxQmY2VlkxODM0eTRtSUZRZnNCUjNzaWFsbUtzTllISGEyQlZkV0FFVWlZNU1aenpEZUVWeGRQSXptTHZ6YUdFZnNySnQzaVhOM0Zsbw?oc=5"
       }
      ]
     }
