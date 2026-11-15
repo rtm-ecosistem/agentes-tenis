@@ -1,105 +1,155 @@
 {
- "actualizado": "2026-11-14T08:00+00:00",
+ "actualizado": "2026-11-15T08:00+00:00",
  "casa": "betsson",
  "partidos": [
   {
-   "id": "53d87628f7d7ae2c16b9b10ab1be03ab",
+   "id": "a09dfd51fadc5c32dd0adb4f799b8628",
+   "deporte": "tennis_atp_finals",
+   "torneo": "ATP Finals",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-11-15T13:00+00:00",
+   "jugadores": [
+    "Alexander Zverev",
+    "Rafael Jodar"
+   ],
+   "opciones": [
+    {
+     "id": "a09dfd51fadc5c32dd0adb4f799b8628|h2h|Alexander Zverev|",
+     "mercado": "h2h",
+     "nombre": "Alexander Zverev",
+     "punto": null,
+     "cuota": 1.38,
+     "pinnacle": 1.4
+    },
+    {
+     "id": "a09dfd51fadc5c32dd0adb4f799b8628|h2h|Rafael Jodar|",
+     "mercado": "h2h",
+     "nombre": "Rafael Jodar",
+     "punto": null,
+     "cuota": 3.05,
+     "pinnacle": 3.2
+    },
+    {
+     "id": "a09dfd51fadc5c32dd0adb4f799b8628|totals|Over|23.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 23.5,
+     "cuota": 1.94,
+     "pinnacle": null
+    },
+    {
+     "id": "a09dfd51fadc5c32dd0adb4f799b8628|totals|Under|23.5",
+     "mercado": "totals",
+     "nombre": "Under",
+     "punto": 23.5,
+     "cuota": 1.77,
+     "pinnacle": null
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alexander Zverev": 1.4,
+    "Rafael Jodar": 3.2
+   }
+  },
+  {
+   "id": "2e7a66dfb5caacad9c224d3eaf230dee",
+   "deporte": "tennis_atp_finals",
+   "torneo": "ATP Finals",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-11-15T19:30+00:00",
+   "jugadores": [
+    "Ben Shelton",
+    "Arthur Fils"
+   ],
+   "opciones": [
+    {
+     "id": "2e7a66dfb5caacad9c224d3eaf230dee|h2h|Arthur Fils|",
+     "mercado": "h2h",
+     "nombre": "Arthur Fils",
+     "punto": null,
+     "cuota": 2.45,
+     "pinnacle": 2.55
+    },
+    {
+     "id": "2e7a66dfb5caacad9c224d3eaf230dee|h2h|Ben Shelton|",
+     "mercado": "h2h",
+     "nombre": "Ben Shelton",
+     "punto": null,
+     "cuota": 1.56,
+     "pinnacle": 1.58
+    },
+    {
+     "id": "2e7a66dfb5caacad9c224d3eaf230dee|totals|Over|25.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 25.5,
+     "cuota": 1.89,
+     "pinnacle": 1.96
+    },
+    {
+     "id": "2e7a66dfb5caacad9c224d3eaf230dee|totals|Under|25.5",
+     "mercado": "totals",
+     "nombre": "Under",
+     "punto": 25.5,
+     "cuota": 1.82,
+     "pinnacle": 1.93
+    }
+   ],
+   "pinnacle_h2h": {
+    "Arthur Fils": 2.55,
+    "Ben Shelton": 1.58
+   }
+  },
+  {
+   "id": "db0cf55e0c26bfbf59d91c22de428d25",
    "deporte": "tennis_wta_finals",
    "torneo": "WTA Finals",
    "circuito": "WTA",
    "superficie": "hard",
-   "inicio": "2026-11-14T20:00+00:00",
+   "inicio": "2026-11-15T20:00+00:00",
    "jugadores": [
-    "Jessica Pegula",
+    "Elina Svitolina",
     "Mirra Andreeva"
    ],
    "opciones": [
     {
-     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|h2h|Jessica Pegula|",
-     "mercado": "h2h",
-     "nombre": "Jessica Pegula",
-     "punto": null,
-     "cuota": 3.2,
-     "pinnacle": 3.38
-    },
-    {
-     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|h2h|Mirra Andreeva|",
-     "mercado": "h2h",
-     "nombre": "Mirra Andreeva",
-     "punto": null,
-     "cuota": 1.35,
-     "pinnacle": 1.36
-    },
-    {
-     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|totals|Over|21.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 21.5,
-     "cuota": 1.88,
-     "pinnacle": 1.98
-    },
-    {
-     "id": "53d87628f7d7ae2c16b9b10ab1be03ab|totals|Under|21.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 21.5,
-     "cuota": 1.83,
-     "pinnacle": 1.88
-    }
-   ],
-   "pinnacle_h2h": {
-    "Jessica Pegula": 3.38,
-    "Mirra Andreeva": 1.36
-   }
-  },
-  {
-   "id": "57cede457aa62785e8460c5b2a052ac6",
-   "deporte": "tennis_wta_finals",
-   "torneo": "WTA Finals",
-   "circuito": "WTA",
-   "superficie": "hard",
-   "inicio": "2026-11-14T21:10+00:00",
-   "jugadores": [
-    "Linda Noskova",
-    "Elina Svitolina"
-   ],
-   "opciones": [
-    {
-     "id": "57cede457aa62785e8460c5b2a052ac6|h2h|Elina Svitolina|",
+     "id": "db0cf55e0c26bfbf59d91c22de428d25|h2h|Elina Svitolina|",
      "mercado": "h2h",
      "nombre": "Elina Svitolina",
      "punto": null,
-     "cuota": 2.36,
-     "pinnacle": 2.53
+     "cuota": 3.2,
+     "pinnacle": 3.3
     },
     {
-     "id": "57cede457aa62785e8460c5b2a052ac6|h2h|Linda Noskova|",
+     "id": "db0cf55e0c26bfbf59d91c22de428d25|h2h|Mirra Andreeva|",
      "mercado": "h2h",
-     "nombre": "Linda Noskova",
+     "nombre": "Mirra Andreeva",
      "punto": null,
-     "cuota": 1.59,
-     "pinnacle": 1.58
+     "cuota": 1.36,
+     "pinnacle": 1.38
     },
     {
-     "id": "57cede457aa62785e8460c5b2a052ac6|totals|Over|22.5",
+     "id": "db0cf55e0c26bfbf59d91c22de428d25|totals|Over|21.5",
      "mercado": "totals",
      "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.89,
-     "pinnacle": 1.95
+     "punto": 21.5,
+     "cuota": 1.94,
+     "pinnacle": 1.98
     },
     {
-     "id": "57cede457aa62785e8460c5b2a052ac6|totals|Under|22.5",
+     "id": "db0cf55e0c26bfbf59d91c22de428d25|totals|Under|21.5",
      "mercado": "totals",
      "nombre": "Under",
-     "punto": 22.5,
-     "cuota": 1.81,
-     "pinnacle": 1.92
+     "punto": 21.5,
+     "cuota": 1.78,
+     "pinnacle": 1.89
     }
    ],
    "pinnacle_h2h": {
-    "Elina Svitolina": 2.53,
-    "Linda Noskova": 1.58
+    "Elina Svitolina": 3.3,
+    "Mirra Andreeva": 1.38
    }
   }
  ]

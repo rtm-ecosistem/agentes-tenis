@@ -1,6 +1,630 @@
 {
- "actualizado": "2026-11-14T19:01+00:00",
+ "actualizado": "2026-11-15T08:01+00:00",
  "noticias": [
+  {
+   "id": "08b1c48e5829",
+   "titulo": "Ben Shelton explica cómo Juan Carlos Ferrero puede ayudarlo a plantar cara a Alcaraz y Sinner - Tennis World ES",
+   "resumen": "Ben Shelton explica cómo Juan Carlos Ferrero puede ayudarlo a plantar cara a Alcaraz y Sinner Tennis World ES",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQjQyR29JTG1TQnRKcWdJZEowdkJ3UDF3bzVoUnRjRURLaWVKbTlpcFNhejFhLXJaWXl0alZSUXJMLTQtSzhxbWR3Z0lReEl5UlBjbG9PZkVIbHVNU3AzM3ctUEVabVZUZXVEUnZXdXliRUdTazNOUVVNdldKQ2JKYnJLdTJjN3R4RFQwTGVCWjk4ejZrMU1mdFJSNUQ3c2R1cnZSR3gydDlNYXNGck1rUHRXNGswcE16VjhkSkpQSncwbW1jT1NhMVFrR3lDbXZ6cHlZQzRPR015aXRNSmhyUnBYY3hSZHg0Mm5RVnRn?oc=5",
+   "fecha": "2026-11-15T07:05+00:00",
+   "fuente": "Tennis World ES",
+   "jugador": "Ben Shelton"
+  },
+  {
+   "id": "7df05ede85d4",
+   "titulo": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals - Tennis.com",
+   "resumen": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlCQjF3b2FXaWpOdW5XWVlqUG1PbUpCNTRGcW5LcUo4Y29vNzdLaGdMS050dERjNDRycExuckRHR1JWVHFOTmpKQUJhQ3JWZU9pVjhMN1FDSWpUNGJ3N3NraHZZTFRVTUlBaDhUV3M3eXF4YkJodkpjaXdYd1pYUGlhY3Z5UTgwOWR2cjVyLTNGNGUw?oc=5",
+   "fecha": "2026-11-15T06:04+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "de19de1d6210",
+   "titulo": "Tennis Scores, Tournaments, Rankings & News - Tennis.com",
+   "resumen": "Tennis Scores, Tournaments, Rankings & News Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tNkF5dFJzM21DZzZUNFc0MGVQY1VEdkZJOGFCb3dqS2N6ZnVsc3ZqcUF2R0pYUmVyTUxLOU9IWjJaRGxkMmVjOS1WNU8zVm1q?oc=5",
+   "fecha": "2026-11-15T06:04+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "417149e3baeb",
+   "titulo": "Heliövaara / Patten vs Luz / Matos · Round Robin · ATP Finals - Tennis.com",
+   "resumen": "Heliövaara / Patten vs Luz / Matos · Round Robin · ATP Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWdna2FGMVNvZTNSam5sNHc2eGVNYzBycUU3ZFhMRlo2em9Bb1J0RmI0cHY1Z0k0YTUxV0hvZ3BKaGloaUd4enA0V2VxZ2hvNjJwSW9UOUZQazBXWGVrTXNzQVFYeGxNb2ZrSDBPd05HamlJVnFKajlFUEJkWmN3Vm8tQkxTYjFTSENGWElvRzNqTUJ3c3AxbloyX1NQS0pqaUU1aE50aTgxWDdLclE?oc=5",
+   "fecha": "2026-11-15T06:04+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "8d38e348f1f3",
+   "titulo": "Arévalo / Pavić vs Arribagé / Olivetti · Round Robin · ATP Finals - Tennis.com",
+   "resumen": "Arévalo / Pavić vs Arribagé / Olivetti · Round Robin · ATP Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXZ0VktIc2FSdDRQUnpndlI0SkFNZ25UbGw3T2pvT0lvbE1XRzRfX0xEZVNYQndBNDdwSjVZZ1VPM2ZuMkZuQmZOZkdiZXp0NmpuQUZVaW9EVHB2NVprZGtzS0dUS0Fjc0xrQzU5ekVLMXJNcGZLTVA5RjR3MEtNYUpuUm84c216YkdQYnN0TlJDV2dkOGxHSE4zZXRXeEc3Rm41TzhRRnFYMld3d1IzXzlhSQ?oc=5",
+   "fecha": "2026-11-15T06:04+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "427b969b6ade",
+   "titulo": "Ben Shelton vs Arthur Fils · Round Robin · ATP Finals - Tennis.com",
+   "resumen": "Ben Shelton vs Arthur Fils · Round Robin · ATP Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDc2bVdYbjBmeUtEbTY5aVdUdkNSb19QcS1BQnRSYkdvZDV4ODFwWXU5TW1jRzh6NlN5VG43ZC0yUkVIN1N1ZEkwcFhqMllXYTRxTUNOelJiY2RwOG9YclVsME0wMzJJWU04OUo0RkI3OWktSzhNRzI2cEplQXpuRUYwSjNPR0pDV1plbjFnRFNJMjQ4?oc=5",
+   "fecha": "2026-11-15T06:04+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "b649ee1362a4",
+   "titulo": "Ucraniana Svitolina arrolla a Noskova y buscará revancha ante rusa Andreeva en la final de las WTA Finals - Los Angeles Times",
+   "resumen": "Ucraniana Svitolina arrolla a Noskova y buscará revancha ante rusa Andreeva en la final de las WTA Finals Los Angeles Times",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkNKa0VOWDViZGdJU3hNV1YwLS05dzhJRWl6V1FIY1ZmUzQ2REJhUjBJQVc0OGJvUnF0RWpJNGRWR0txMkRzelpsUTNHMjhpX1lLZW9jMGk0Z0xsWXl0THVOZjAxRGJyNVZ5bUhxejhkUEk4RkluYVladDBiNGRuV1ZQTUJNMkJsdHI3b2RHWlN3RG5DQS1paVMtb1FDMlZUcE5uOE1raGhLQXN2Ri1EWW9PQlotV3U4Z0pqNGhPeXFwNDlGaElZSTJ2UExWUm9lMmxlZGc5bVVPQVhTVFN3WGJPbnE5M0NJejNpUzJocWpxUUdkTWlr?oc=5",
+   "fecha": "2026-11-15T06:03+00:00",
+   "fuente": "Los Angeles Times",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "3b5918470e4f",
+   "titulo": "Svitolina downs Noskova to set FAGE WTA Finals championship showdown with Andreeva - WTA Tennis",
+   "resumen": "Svitolina downs Noskova to set FAGE WTA Finals championship showdown with Andreeva WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGdfdk13dXNOdkpOSHF4dnZjNElsbk1vcS03cDliMGh1bUxxWXFsZ3hPc0N5VVBNNGhhbnZOZnZ1Q3RFVDlHY1EyZU0xMDA3Mk1mWU5QcHRJREdUdkxNOXJadnNETEZ4ZHNMdUFobElHMGJlbGs3QTZxaVRjRGhTNTZ1MXFLX3NMYXMyVFBvTzFMR3B3QmhRNjZWdm1KZWVtWFE3YW5saVhUUDdzY2czVGJFX3ZtQkttd1c0dElB?oc=5",
+   "fecha": "2026-11-15T05:54+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "547b5ff488e9",
+   "titulo": "Andreeva vs. Svitolina: Everything to know about the 2026 FAGE WTA Finals championships - WTA Tennis",
+   "resumen": "Andreeva vs. Svitolina: Everything to know about the 2026 FAGE WTA Finals championships WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcGhpck92MHFEUUNJSXRQSkpoVUFGLS1kSmRUV1JYRTZibnlVLWV4Qi1RNGJlSkJQSkNWb0dDR1pUaVBOb2o2SFFsaE1RX0RvbHdwbjA0VmpodjlRTVBYSTUxS2pocWQ0Wl83ZWI1c29kRW1jSVdTd3YtMFRJT1lGZTRNYU03VVVRWTNrVnFYYWJfWnJkMlB2TDhzMDZZTzV3Y1FvX2lCS3FLVWxJbUoxbHV0OUc0VzA4VkMxeHRuUDNfZ3FYZnp6VENwTm81WmM?oc=5",
+   "fecha": "2026-11-15T05:54+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "29b451705860",
+   "titulo": "Advantage who? Navratilova and Shriver make the case for Andreeva and Svitolina at the FAGE WTA Finals - WTA Tennis",
+   "resumen": "Advantage who? Navratilova and Shriver make the case for Andreeva and Svitolina at the FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnRiNkNSTVRJdUcyZHpQTlJvMFpYWVFhNDA4VHJrbUNwTi16RXBZSmo4OS1rYWFUSGhsNG4xSGppZHFaVDNxSmxxTDIyTnA1NWR4Njhhcl9hYlRjODhUNDMyU2lCMGJmR09iNUhkZFlEQUt5RENCUzRNWFVMTkxGNDlheFdhdlZBYUdhQlJzWmJiX3otQUlFMmVPRVZBTFdzYTZWLTNCU1NEb0FRX2ZWT2ppMkZzY3VsODlqOGhkZWdhX0MwUXUxU094Z291enEtdTVSTUZpOA?oc=5",
+   "fecha": "2026-11-15T05:26+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "3979b59bb203",
+   "titulo": "Andreeva knocks out Pegula to secure spot in FAGE WTA Finals championship - WTA Tennis",
+   "resumen": "Andreeva knocks out Pegula to secure spot in FAGE WTA Finals championship WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJKSXg5amFuNmZOZmo1OWNsZG5ibXpWOEtMdWtpdXNURTBSSEJvd3Ezb0xJcTVkSVRQaDJRcVJZTXlVN1liYWFVNUlXUnZwVjhwSjdrcjA1M0xzYTlFdWlpMExGYUsyUmVkWF9oXzI4cG5OZGFTbGZzRkViNmZtOXVsMmVJd3ZBem10N1RBV0sxazZSQjlwZW5pR0Z5cm9aRUQzMTNYUG1ESmFKX24xY1l2R0Q?oc=5",
+   "fecha": "2026-11-15T05:25+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "dc891bacd07d",
+   "titulo": "How it happened: Andreeva and Svitolina set up a rematch for the FAGE WTA Finals title - WTA Tennis",
+   "resumen": "How it happened: Andreeva and Svitolina set up a rematch for the FAGE WTA Finals title WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3o3aGtra0ZmVTRiWXlQUzh1Si1MbFhKWVM3a2psN2dBSnR2bHRGME5aelB3MmRHZG9TLW9yUDRIVkI3dk1EQk9rVFI4dXhjZjFDX0lDenJSbk1FeXJVODhvb1pMbkJDR21DdDBVaXR0cXVzWFdEUno5UTM0VWw1aTd2aUI3eDBjMzVuMWd1QzNHcE9vVkJEenUxa0l0azNLRzB3ZjEtOW9fa01wd0kxX3dUUG9xRDA?oc=5",
+   "fecha": "2026-11-15T05:11+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "c196e024b0ae",
+   "titulo": "Unbeaten Errani, Paolini to battle Siniakova, Townsend for WTA Finals doubles crown - WTA Tennis",
+   "resumen": "Unbeaten Errani, Paolini to battle Siniakova, Townsend for WTA Finals doubles crown WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmdSc2VzU3RTNFdnZkUxeXZOZnN1TDZiZ0dDeFRTNVZjUGJUaTZRd0g2azRUWlFja0NMemFPbEdMVlpJYjFSNE9DVFJkYU5oNTdzSUtqa1ZXSEJtemhCRWZmLXMwZjNsdmtEaE9DdFJDb0tJR21WQmp5eGZ4NHprWEd6X0Jray01M0xDNEJDWmpMblJaV0JVSjMzM3NlSWdJY2U5eWdSTl9PSno3QVBmWFpYZDJKX05fU0RlSQ?oc=5",
+   "fecha": "2026-11-15T05:07+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "af8baecd33bd",
+   "titulo": "Svitolina drops three games against Noskova to reach FAGE WTA Finals championship - WTA Tennis",
+   "resumen": "Svitolina drops three games against Noskova to reach FAGE WTA Finals championship WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXBFTktITV91RHM0TTB1ZXNRTnFJNTlTSDFRd3ZqUzhIb2ZIeXVUMDJsLUhISHZfRlFnNDdZTWFTYUVDbDBUODhlVXdFQ3haMUN3ZHVQRTM3bnBXdGRuQmxWRHVJQXc5ZUtBU1FaNVAtUC1rTTlxUUFwVlpWS1JiV05nQ1gyOHdIbk5PcUk5eVJvQ0hfeU9RckhlSzAzNTJGQk54Ry1oTTB4STZFWmxkTExkSTdFSzFzYTJ4X1JONA?oc=5",
+   "fecha": "2026-11-15T05:04+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "146a32002790",
+   "titulo": "Sabalenka se disculpa por su arrebato de ira en la derrota ante Svitolina - France 24",
+   "resumen": "Sabalenka se disculpa por su arrebato de ira en la derrota ante Svitolina France 24",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNDN29kXzZidEJfVG9zZ0FQTXB4VWlZS0Z0X2FKQzJjNHVXaU9pbVJwcU80bmZNQVgxV3FmUzQwamFZaEJRZmtuNTAtTFhOMUpZZDhoeGVxNjRRajdKMDlTT0pPV01za0tUdVl0NVJ3cGx3QU9XakZjSVdoY3RwQ095aldxOG5OZnM1SEtxbzhHanBWcmI0ZTNGUHJRd1V2UXlZZFhnWlZzaDRpQjBXU1B1cFltSHJ1ZjFjcHBSYjFsVnRC?oc=5",
+   "fecha": "2026-11-15T04:49+00:00",
+   "fuente": "France 24",
+   "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "6d92b686589c",
+   "titulo": "Alexander Zverev vs Rafa Jódar en directo: Fase de Grupos Final ATP 2026 en AS.com - Diario AS",
+   "resumen": "Alexander Zverev vs Rafa Jódar en directo: Fase de Grupos Final ATP 2026 en AS.com Diario AS",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEhtWll4dXlqaE1Ua3o5akJKc3BxT1BkYWRyR0c4anU5NnlXc3NOQUdmZmw1anloSzZSOFdVdk53S0F0LVZqRFd1T0xHOHZvT21LTFdaTG5OZzVsb2pVTmpLWUtsOUotcDlKWmlOOHVFekdNaHRQUXdLcEptQlZ0UGRhWUpkUHZxWnc?oc=5",
+   "fecha": "2026-11-15T04:46+00:00",
+   "fuente": "Diario AS",
+   "jugador": "Alexander Zverev"
+  },
+  {
+   "id": "7baac8bc7bfd",
+   "titulo": "Estadísticas Partido: Alexander Zverev vs Rafa Jódar Fase de Grupos en Final ATP 2026 - EL PAÍS",
+   "resumen": "Estadísticas Partido: Alexander Zverev vs Rafa Jódar Fase de Grupos en Final ATP 2026 EL PAÍS",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRSSWVkQUk2MnpGZXBpY0U2dklwdi1wTURSNFk4ZjRtZnhuVnFnRExSZThiY2pxUzNHTGNNSXlGRjFzRzFmeU8zcjNTa3FWcUlGdVJGOUEwd3pLclhadEpXVTNnWm0wb0NrVFZfUWREMEd3Qmd3dHRkTTZ4a0NULWxENWpxdmtIUE9Oc1lrTGZtSVJ5WW1IU2pKSQ?oc=5",
+   "fecha": "2026-11-15T04:42+00:00",
+   "fuente": "EL PAÍS",
+   "jugador": "Alexander Zverev"
+  },
+  {
+   "id": "ad1c61650a57",
+   "titulo": "Errani, Paolini reach first FAGE WTA Finals championship match - WTA Tennis",
+   "resumen": "Errani, Paolini reach first FAGE WTA Finals championship match WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUY3MFUyX3J1OXhVb3IxTlBxQ3JtMXJPdWZFaVcwSTFMSFNvMHpEQ3dNSnNIc3pVc01QcWRKVHBJMkctb2hMSy1XdG40ZURJMUdCVlB1cjlSa0JtUU9JMlctREh0bU9XOXRXMGpxRXI3WGg4Y196LXVSemxFOFdqc1djS0k5MVFNSUcyN21zZmxYMnZJOGE4Q3dUWkw3M2N3Q09SSg?oc=5",
+   "fecha": "2026-11-15T04:37+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "c9bc6c7602bf",
+   "titulo": "Flavio Cobolli señala a dos jugadores mejores que Alexander Zverev, pero defiende al número uno del mundo - Tennis World ES",
+   "resumen": "Flavio Cobolli señala a dos jugadores mejores que Alexander Zverev, pero defiende al número uno del mundo Tennis World ES",
+   "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUTd0SWx2SUFSczNTYWtPU0dIUkVTWmpxcUtkWjJpMkc2UXM0ODFmVDZKU2NHN2l5SXFBUWJDVEtWaEdkaVc0NWxlbW1sdlBwam82Uk94WHJHT011R1pSR1lMVU1UTFZSWng5V3JwS25ucjFiZG12TXJaU3FmbGpOZGRIcm5rWXVsNmttVU5GOVoyYmJkMUdObFlXYW1RTHZIMFg5VjRTRXdqRFoyZ2xhY1FwNlpPSE80eXZ5ODB2cElpRWZyZ2VNMnBZUXpZcTA0X3ZnSldSYVdROHdTdkFHYXJkdmJIeXFDTkQxcnFPdGp5U1RDekIzQS1aSUU?oc=5",
+   "fecha": "2026-11-15T04:05+00:00",
+   "fuente": "Tennis World ES",
+   "jugador": "Alexander Zverev"
+  },
+  {
+   "id": "4168d1816e63",
+   "titulo": "Siniaková / Townsend vs Errani / Paolini · Final · WTA Finals - Tennis.com",
+   "resumen": "Siniaková / Townsend vs Errani / Paolini · Final · WTA Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjJuLXFSM1p3QWZ3N3FhTHVnRnVpcG9GUEw5YXdmdE04cnU4NjgzRlRzVjJIRzk0NHZHRVpLSEpMTTNtN3VMU2JtdWZrSzhzOGplYzYxN1RqdURqakNYWG5kXzQ3N0tZdXRCOHUxazlEdlBNbDNNVTdqWENTZEY3ck9xX01pT3p4SkI2ZjZfV3ZnYnBCbnNzZVFpNjNpNGFXc0ZIN2I0cFVtdTcxRXc?oc=5",
+   "fecha": "2026-11-15T03:54+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "b7dc5cc32f08",
+   "titulo": "What Svitolina takes from her third trip to the WTA Finals final - WTA Tennis",
+   "resumen": "What Svitolina takes from her third trip to the WTA Finals final WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVFpaW84V2FZQ3ZFWDhQX2tmV3BWdjBMQjBfS0xHaHJXQm9PZ1BMZTFtOEFRcmtIeHVOazlLSXYwRVQ1eEpUbmwxRWhlTFQyRVhPOXZzQklUQnFsWjUxWlRBbi1xSmU3SU1pOVVNZ0VLZWFRM21UQnFVS0J0anVEc0txbDVnTk9EamZxcnE0NFpDUV80WkhMVVFrdUg1YjhfeE56azlhRzFaemhJZUo5eVk1bjBXUQ?oc=5",
+   "fecha": "2026-11-15T03:40+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "1275c0f8b0aa",
+   "titulo": "Horario y dónde ver en TV y online el Elina Svitolina-Mirra Andreeva de la final de las WTA Finals - Eurosport",
+   "resumen": "Horario y dónde ver en TV y online el Elina Svitolina-Mirra Andreeva de la final de las WTA Finals Eurosport",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMlNQdW1ZQ1BJcm40YW5ZRExTU182akNyVTZEZG93LUNvQkVDVk1qVlYxX210eXQxOUhTNWdqVEkyQU1LeVJxWlQtMkZXb2hyVmx2LXdjTHZmTXJSVVFrMVBYWmVJZVVFNlp1Y2V2amExenhIUjkzRF9xdHZwUmw4TFZQYlRQdXVvbjFiVmQ1cXBHNjVHSGgxelRRTEh2dDlHWjJUNDhmb3g2Z09BRi1mWTc0ODRVeWEwcXctUmRBb1dTTmFfLVhVbVp5cWc0M0taQVc1ODZvZzZjc2JwTzJWZDQtTzJNbGlfYmltMncwaEx1TEVxc2QwcHNKSGVscHBkaC02RDBSM3BPUTA?oc=5",
+   "fecha": "2026-11-15T03:06+00:00",
+   "fuente": "Eurosport",
+   "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "03b4c08d68fb",
+   "titulo": "Resumen del Mirra Andreeva - Elina Svitolina - Eurosport",
+   "resumen": "Resumen del Mirra Andreeva - Elina Svitolina Eurosport",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHh0M3hjQ0JyVjRqVW9ZUUdVc1lqTnFvejVzdEdqU1VmM25ReFR0LXQtejZWOHowNnI2aVNTTnVBUmYxMXFVNVFnYzllQjFvdEU2Q216RmlMVVJQdmhDMThCVmJ0VE9VcFFWVC1WSjlzVG1ETUxyc0NHMm55dmF6OXVmVHF4V1ZFYjJTSTlKY3V2LUFWOXFsOHl3eHJnZkptZElFakFRSkY?oc=5",
+   "fecha": "2026-11-15T03:06+00:00",
+   "fuente": "Eurosport",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "515e8c2b966d",
+   "titulo": "Jódar - Zverev, horario y dónde ver hoy la primera ronda de las ATP Finals - La Razón",
+   "resumen": "Jódar - Zverev, horario y dónde ver hoy la primera ronda de las ATP Finals La Razón",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTFQaTZQQVlteU1Ccy1Xc1AydGlrZEYtZDBpSjBmY0wyOUxldjJMUVNZdndQeVF4TXF3WG0zRXlWcHpubndjQ0tGOGZoUmRiVUdhUDJsOWQ3OFpPb2NiN1ZpX1RRMHJrYXFiTXFjOGRqdV9PUGx4cDR5Yks4Z2lsdDdjZUVmYkRZVDNYaVRvczI1Q2JBSzAzY3U3cl8taHp1VDBUcnJjOVVDRDVNZVduRFZvc0Y3RjB1YnVENmsyRTBxTUdlQWZqTXdSUG96VFZD0gHkAUFVX3lxTE9HbUVRcFNVdkVZS25EX202MWQ4MDl1X0VQRVBBaDNpdkJoLXpqdzlfSTlqR0ZSUVc2TkhtbElGVXMxMkNhMnF3WU1JSk9xNHByeDk4eW52NjVZNGNFZFE5aEUwbGV0SzBSbU9tR2N4czlFU0NicUM4Q1FxV01vTDZ3b0pLRTJaMng5c2tqSVpaMWd1c3JENC1MTjQ1ZE5GZ0wxSXludkFwWDMxYUd2eUdhcnhodjJCbGtsNjhDb3pzZi12S2Z5X1dkOXR5dDZIYWx4TEY0bnc0WS1zeVBXZDU2d1pWQg?oc=5",
+   "fecha": "2026-11-15T02:54+00:00",
+   "fuente": "La Razón",
+   "jugador": "Rafael Jodar"
+  },
+  {
+   "id": "78bca4b58499",
+   "titulo": "Siniakova, Townsend advance to second FAGE WTA Finals championship as a pair - WTA Tennis",
+   "resumen": "Siniakova, Townsend advance to second FAGE WTA Finals championship as a pair WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYktiNkZfSUdaOExyQnhPVHVObzJBSEpCc01aZE9ZOUl6aXJ6NG43Zm05VWptWFYxZnB2MkUyZDk5cGQ3OS1yNlYtbV9tc1VlbGpyUndtSkg4WnpqYm5RWFRjTVh2TUhKdVVFM2ZaZC1oa0J3SUNQTmcxSnZXd1lLYUlnUDNqU2VLTTVCblpTSXhlNklPeTdYTnlWQUw0bnJqZzlKcTJDWlhqYVlFcjdWQTBjUTZWOUdQRUVESg?oc=5",
+   "fecha": "2026-11-15T02:34+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "92ee25f2ac65",
+   "titulo": "The Official Home of the Women's Tennis Association | WTA Tennis - WTA Tennis",
+   "resumen": "The Official Home of the Women's Tennis Association | WTA Tennis WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE15RHVxS0lzREZualVDY3VFQ0N0dmpTN0dmUTZWQXV6UHFFWlZhbFpoRmZBWVk5bTdEeHB2dWJuQQ?oc=5",
+   "fecha": "2026-11-15T02:07+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "aead195ebb49",
+   "titulo": "La sensación adolescente Mirra Andreeva y la veterana Elina Svitolina van por título de Finales WTA - AP News",
+   "resumen": "La sensación adolescente Mirra Andreeva y la veterana Elina Svitolina van por título de Finales WTA AP News",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzNEazN3Wk1mRktsWWZ1Vk9WajduQkdWbWx2RTVLZVFGX2xNMUxwaFZzV183Z1N2ZFZUdVJqSVFnN0xJZ3NDTXVSbC1EQndDXzV2QVVHWTB0TXJnYm1LT1VZS0E0a2JFZnlJdTYtbWRjYUZ2bklzajNCa1BfMGdqd2tKbzk1TzVyRFU4MXIzZjQyRFZBTnFPQno0bnlUeldTUzZLUnJPZFY?oc=5",
+   "fecha": "2026-11-15T02:07+00:00",
+   "fuente": "AP News",
+   "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "edf8a819fd62",
+   "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Shelton – Fils - Canal Tenis",
+   "resumen": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Shelton – Fils Canal Tenis",
+   "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ybGFWWXdSQ3B0dGNsVF9PaDZZOVE0ajhmOWk5WmotLThGNmVDanVjOXNhMEFPR0ppTE5LaWNtVnVqRVczdDlFRmgwbWgwV3JkVEM1ajBqcDdNcWVJQU9ZXzZGX1dERjZORkUtejFjLW9mSFU3RzJB?oc=5",
+   "fecha": "2026-11-15T02:01+00:00",
+   "fuente": "Canal Tenis",
+   "jugador": "Ben Shelton"
+  },
+  {
+   "id": "c2c70b539933",
+   "titulo": "Women’s Tennis Tournament News | Latest Headlines & Updates - WTA Official - WTA Tennis",
+   "resumen": "Women’s Tennis Tournament News | Latest Headlines & Updates - WTA Official WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TX19pa2FJalhoYTZfb2E5ekxLbXFPb2NRZVRaM2lmMEpyTUVTRlpCVFBNbDFHeUVFbHAteDl6RWNtRE0ycVJmalRRel9jWWtlYXlMTA?oc=5",
+   "fecha": "2026-11-15T01:43+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "86820f019432",
+   "titulo": "Press conference: Mirra Andreeva speaks on semifinal win ahead of first FAGE WTA Finals championship - WTA Tennis",
+   "resumen": "Press conference: Mirra Andreeva speaks on semifinal win ahead of first FAGE WTA Finals championship WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSkZsb1JjMFVqZlZndHFmU1pxLTdQbmlRUUF2VWFhMmxHS0toUW9nNVNyS1YxMU80VHc3dGgxMC1pNmNCRXRBakxmNGZyNFpRWXh4MWkwdU44VXMzc2FCc1A4ZmE1b2FXNFF2cEktZGY1bGphdUdkNnp5dkdLRE96ZHF0eHBMbDAtNEVEOXF2NGFtYmF1ZEt3TmhtTGhsS0tkNnJtblc5eWprMGhDRHZCRzNmUTlHbklUdWN5alJqaUtydFhRSFNmWHNpNkxLejBVYlpB?oc=5",
+   "fecha": "2026-11-15T01:33+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "27f9c90db3bc",
+   "titulo": "Sigue los entrenamientos de Alcaraz, Zverev,... en las Nitto ATP Finals - ATP Tour",
+   "resumen": "Sigue los entrenamientos de Alcaraz, Zverev,... en las Nitto ATP Finals ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUxmcEdNWDNWZC1MOVgzaUpadlpCd1RONGtDeG8yT181UkZ2VGFrSFZoM1NJalVTRTBsTk9ITEJyR0s2SElNc3RCcHIwbDdBQWNrVDBNemRQblZCX1JsWE9CREdaQW8yREpHUTNIUmxNcThwQm13TWhqXzRELWl2UlRzMTg?oc=5",
+   "fecha": "2026-11-15T01:31+00:00",
+   "fuente": "ATP Tour",
+   "jugador": "Alexander Zverev"
+  },
+  {
+   "id": "73019528b146",
+   "titulo": "Hiroki Moriya vs Sam Ryan Ziegann · Qualifiers · ATP Challenger Sydney, Australia - Tennis.com",
+   "resumen": "Hiroki Moriya vs Sam Ryan Ziegann · Qualifiers · ATP Challenger Sydney, Australia Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbm1jZWNrX3NOU2ZlV3RqYjdlYXNCbVhnSzNGM1RHYzN2Tk9CeXQ1cDdXRXBhTW9jVExVWUtyTjlvc0VvdGYweTZRVUJneTBpRmkyNXZJZE9QOFVYT05TWjFneVRzMUJXUXNGbFNTcnRkdFQ5WGFwRnpkRHVPenlfU2pvQ1Q1V0FNYVhWZGRhSXFGZms?oc=5",
+   "fecha": "2026-11-15T01:30+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "50922471ef03",
+   "titulo": "WTA Finals 2027 - Punto de Break",
+   "resumen": "WTA Finals 2027 Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWDNhdG9pWFdRaWQwTmd0RVR4cFJHUzlEREVvajhPQmNrcmhvd0hPRnA4Q3JzNGpYUm85TmdvX09GVmJRazEwRkd6RXNqYUJ2YjVvcVVuckxrckRmTFd3?oc=5",
+   "fecha": "2026-11-15T01:17+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "852116a054af",
+   "titulo": "Dónde y a qué hora ver a Alexander Zverev vs. Rafael Jódar por las ATP Finals - La Tercera",
+   "resumen": "Dónde y a qué hora ver a Alexander Zverev vs. Rafael Jódar por las ATP Finals La Tercera",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYm5sZnVZLUVWTlZEekhWVnZNRmVhRFRYSktSZTJ5dHhaTkw1dGhNcDd6azdtTzRWaE0yRlBJbVVaMVJaakd6bTN2LTNMeHF3MmpjdVI3ci1DQ2FXQnJrNWwtQk5Gc3Z3OTVvYWptT1BnUThYczRMTFpNd1VYMWUzcXY5eGtGX3d2aGljdDJUR2xXSkt2RmZTemc2ZVhNMUJBWjFhd3NoTU00d09UdFJHdG9HbG1feEpvWDJFWUp3Y1Vqd9IB4wFBVV95cUxPUVlMQjJ4XzBFWjI1RzJKNmJ0U3loWFIzODRST2dHWjJyZzBjZnZxSmR3NFQ2Qi1ZMXlycXNfTjlkcHM3ek1WRTZmbU9fYmt4cVV3RzRMMVVEb1pMN1lzTmQxT0JaT193MDBhQTkzYS1FYWstZTQ4MlNfWVpvR1g0SXFtRGs2SVg2T2Z3MnNST0REeDI1WnprMjBxckozNlRSd0NBX19kcWI2Q0RlTWVBbTUtY0xaaGVVN1lCR2d1cldFZElscE1FcWhJWFdzXy1NOS1MSnpSTS1VeXF6ckNpS1JhQQ?oc=5",
+   "fecha": "2026-11-15T00:58+00:00",
+   "fuente": "La Tercera",
+   "jugador": "Rafael Jodar"
+  },
+  {
+   "id": "2c9f818f4228",
+   "titulo": "Andreeva books first FAGE WTA Finals championship ticket after win over Pegula - WTA Tennis",
+   "resumen": "Andreeva books first FAGE WTA Finals championship ticket after win over Pegula WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSUh2SU5uUWF2bVZITjA0WkZoMF9venBVamdmZkJXNHpNMEgwS29TczYyaG9UekZ4dWl5MUQ5TE9JR3kzSlV1ekRHdXJLc0tSa3kzVkJRT2U2bkxNYkxVUVA4UFRjVUxfNVZRRDJXdWZRTUYwZ2NvcGlCVzZrVFJZVmFfZUprVGNnX3JiaGJpUUJwNm1jN3ZtLVh0RWJ1QTN0T2NXaFRoZ3R6UU9ucklidjhUMC0xcGRsdTRNaE54S1phMjBWYW90OXhFZXR3YVhOeU9YMVF5a1E?oc=5",
+   "fecha": "2026-11-15T00:57+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "d261d1534de5",
+   "titulo": "El dueño del circuito ante el debutante español: la previa del duelo entre Zverev y Jódar en las ATP Finals 2026 - ESPN Deportes",
+   "resumen": "El dueño del circuito ante el debutante español: la previa del duelo entre Zverev y Jódar en las ATP Finals 2026 ESPN Deportes",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFZEY1pXai1tdlNMejVsVzZQaF82T0VkdnFjY2JHQWMtRkpnaHNEU1BWeFg3ZG1JckZLbVEyWHNsdGd6N3I3OXBwYnBNQWI5OThDQjJLeXJ1bTEyOFBaRFYwWFVIdlRfUUY5dlZqN19CcmU5ZzYtTENEUmFfa2RZV0p5cTNOS0gxcGhaaEZmaXRLaUJPWmFSQ2laenFLdWtNQnlEZE1pU0VNYTE3eU5oRVl4UFV4YUc1NDFIdklLVkU?oc=5",
+   "fecha": "2026-11-15T00:54+00:00",
+   "fuente": "ESPN Deportes",
+   "jugador": "Rafael Jodar"
+  },
+  {
+   "id": "9b89cdc2c121",
+   "titulo": "Elina Svitolina vs Mirra Andreeva · Final · WTA Finals - Tennis.com",
+   "resumen": "Elina Svitolina vs Mirra Andreeva · Final · WTA Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmpIS2ZiVDhfRHpMazE3T1hlTkM4ZGFWMjdabk5EVW5VOTFuT29yUDZwa2laZGs2OXVGQjNQMWlwN0x6QzkxWV83YWxZRGJSX01teGxSOVZOZmZLcVVycDNkdDdYNnJ3N2RfZHFLNXU3NUducXFtWDNWenFIREpsT00wRFlKa2NEck8tME9iZ3VRNDhr?oc=5",
+   "fecha": "2026-11-15T00:51+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "b4b19a3a23a8",
+   "titulo": "Horario, televisión y dónde ver WTA Finals 2026: Svitolina – Andreeva - Canal Tenis",
+   "resumen": "Horario, televisión y dónde ver WTA Finals 2026: Svitolina – Andreeva Canal Tenis",
+   "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZXdySHY3RXBJTnJpZm1MRHAtXzBuMzlCcVh3VWQtVTQ3N3VST1hucFd0Vl9YelJtdTlpSU95cGRjS09vTmp4RUVtRjZ1WUJvVjh3NTVXeC0zZHpSSEZIMjNSa2Faa05jYkc4cURDM1M1aFhxdUVj?oc=5",
+   "fecha": "2026-11-15T00:43+00:00",
+   "fuente": "Canal Tenis",
+   "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "a277fd733462",
+   "titulo": "Paul / Vocel vs Behar / Paris · Semifinal · ATP Challenger Orleans - Tennis.com",
+   "resumen": "Paul / Vocel vs Behar / Paris · Semifinal · ATP Challenger Orleans Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmFLb1BtUUsxNGhjUVVsdDNXdnh6YWc3a2NTMC1RZm5lLXdLRHZ0TGRuOGVXdm1EN1NUTzF2d2FDdUZ6aXpveU9oNmUxS0lCZ0Ixb1QzYjVIUzA0WHlweDJhMGJRcnlnMnY5NlZsajI5NGNoeVZ1akxrRm9hY3pUOV9hbV9ZLTlIWW8wb09iZVBrV0xGOGdUUGpIRk5lYndBZ255WEt5MlR2Zw?oc=5",
+   "fecha": "2026-11-15T00:39+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "25dbe303e731",
+   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
+   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81OUR2Zi1EUVRoaEkzbFVYR25wSm4zck9HV3hYZ1lCRldZS2k0U2JWaU1YVFJXaEJJRmF5bW9qeTVjYl82Zi1ZODVXelFBSFF1Qk9sRGt4c3VkaTloUGczTm5DbEt1UVFCcGlmOTV0djRoMGtrN0dqVFBn?oc=5",
+   "fecha": "2026-11-15T00:14+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "a97571cd45e8",
+   "titulo": "WTA Finals: Elina Svitolina arrolla a Linda Noskova y alcanza la final - Tennis World ES",
+   "resumen": "WTA Finals: Elina Svitolina arrolla a Linda Noskova y alcanza la final Tennis World ES",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMTREZDZ2cThzNHFmNm91cmxacjBVOWpnMlBEMFNYdkh0em90RkVjamU2aG11STVLY3ptSDNDbFN4aUZSRmdvbjllQTkzZDNjSDgtalk1TER3ZWd2VVBtMHZFVWNOanVVSV9Jdk53Y05NQXprUmEwWTd6ZnR5UmhSbTYyZ1RqSjN2a2ZvQXZNYlV4UTZMcmJkeTl3LUVKNnRveDFfOExvQndBRTZUcWVsV3BzMzV5TzRBV1dfOV9LOHViQ2JQQ2tfQW1RdFBVX2d4?oc=5",
+   "fecha": "2026-11-15T00:05+00:00",
+   "fuente": "Tennis World ES",
+   "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "f4061d50a79d",
+   "titulo": "Kristina Mladenovic Hanyu Guo vs. Sara Errani Jasmine Paolini-Match Highlights - WTA Tennis",
+   "resumen": "Kristina Mladenovic Hanyu Guo vs. Sara Errani Jasmine Paolini-Match Highlights WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFRRaGJZUEoyb0VnUXF3SXY4eXFyZklkYkpTdjR4N2QzYW1veVJyUVZuam4xZHd5YVlaekstM3ZBMDBNTFBkdnN4LXJDQUxPVzdyNWRMMk5XM3NHZTBYYXdFNHRuaWtmd2FrQklESDlxWlVacGZNVF8wMTY5UTRPTGRKVnlhXzJoOXNNeG56NGl6cFNIU0M1ZDZOemlVd3UwcTRxV19NY1pEMmxhZjZVVW1xWm1nZ0gxOVE?oc=5",
+   "fecha": "2026-11-14T23:50+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "d89611546874",
+   "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Zverev – Jódar - Canal Tenis",
+   "resumen": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Zverev – Jódar Canal Tenis",
+   "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UdFloVjJYODdTVVpPazBqWU4wbEFSOGZXaEdzbHgwdHFuWXpKUjFZdVZyZHF1aUtnNTVibHE0SkowSHNlSUx5aTRWb2FpUldkYzM2Wi1RSGZiQm9wdURUNDhhZDhJcVA0TFBQRHlyb1pvZjJ0eF84?oc=5",
+   "fecha": "2026-11-14T23:49+00:00",
+   "fuente": "Canal Tenis",
+   "jugador": "Rafael Jodar"
+  },
+  {
+   "id": "48c698eb3cf3",
+   "titulo": "WTA Finals - Tennis.com",
+   "resumen": "WTA Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRlUyQ0FnU3NhUUhYS2k2Nmh1T05lRGo2NGxoa2kzeFlTWnVkYmRnYkI0ZE41SGJERkVlU1pyMFdQWmQxOTI1c1ZzdVRiRUpIX3dJbjFyaFhVcHo0ZGpYdU4xOUJma05TeUxuYlpB?oc=5",
+   "fecha": "2026-11-14T23:45+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "c0f3840c95f3",
+   "titulo": "A qué hora y dónde ver la final de las WTA Finals 2026 entre Andreeva y Svitolina - Punto de Break",
+   "resumen": "A qué hora y dónde ver la final de las WTA Finals 2026 entre Andreeva y Svitolina Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmhBZmVXUllUMzd2T2UzOVkxVkpNdnRfeTlyTnEyb3FVYmFydHdxaktrYVZxSjJaZnhmS3dpZkhiblg5NDJQaWZBUkc0T2hJWmFfSlc1Zk9uSG9BSUVlYVJpTUJ1blRwNjdkSWh6U3hMWndRUVRvdzJ6QXRuVzdTUVBFVEplTFd2c1lqeG9qLVpWSm8?oc=5",
+   "fecha": "2026-11-14T23:45+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "098db62d11d5",
+   "titulo": "Casper Ruud - Ben Shelton 0-2 - Flashscore.es",
+   "resumen": "Casper Ruud - Ben Shelton 0-2 Flashscore.es",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0Q3WFhhbVZBOE5Ob0tKcDVtYmVUbkN0Z1RLY2tfM2tyczVRWEFXb3R4TUY2ZHNlSjdPM2VTSnctZ3dSeTgtVnVEUHU5b3FBNUVOMXM0RHZjZUt0cDhLbzc5Wkc4NGt0SzB2QW40SVp1MUZQZkZwVFc2QWxXS3JtamJZT3VMSHAyUUE?oc=5",
+   "fecha": "2026-11-14T23:24+00:00",
+   "fuente": "Flashscore.es",
+   "jugador": "Ben Shelton"
+  },
+  {
+   "id": "2a3936915b9a",
+   "titulo": "Svitolina quiere ser maestra ocho años después - Punto de Break",
+   "resumen": "Svitolina quiere ser maestra ocho años después Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZU9DSXZySmZqZkhvclN0TnRMMldSbWdpTGQtTG82ZXk1S0pSOTFoMDNMU0VlYlc3amRqTkxSS0VZUnF4dHlDODV5NXAwYUZvLWk1b2xRbHVsMXpPYmRmNjVtSWJCcEFHNTJMVWQyckszX2FOZDhTOUdpU0xPZkxNbUxBblZpZnVsOWc?oc=5",
+   "fecha": "2026-11-14T23:01+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "ade5a8190d71",
+   "titulo": "Svitolina veut être maestra huit ans après - Punto de Break",
+   "resumen": "Svitolina veut être maestra huit ans après Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2FqdXVoMlBEbnBFZGhwNlE3LTNJU29qazVySVZrakpCZ20xWUh0RFUzYU1sX1VsUFZNZHFzalM5V2hmUU9MMFJkTThQVkpsSW5MZWpJN3RYMi03c01LWXFVUUxKS3ZCYUlDcktVYm4wdDdpNW1BQVdDOHR2c1Q5aWFsUkxTblRid1Nsb1dB?oc=5",
+   "fecha": "2026-11-14T23:01+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "afc4e9b9c36f",
+   "titulo": "Svitolina vuole diventare maestra otto anni dopo - Punto de Break",
+   "resumen": "Svitolina vuole diventare maestra otto anni dopo Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNtM29JZ3VPWVctNGluNjVraXE4TkszeHdabHl6cjA1emR5eDB1UDd1aTlDNHBwcWcwYm5xQ2dZalBabEwyaU53Q3J4SVgxQmg5Z0ZmZ1FHR3kzTDN2ZkF4WEhObHZ2UV9OZmltcUZvaDBBbVBMbGxoX3AwSGtXS09LaEhrTkcxSERsSEc0UHppS0dOWXc?oc=5",
+   "fecha": "2026-11-14T23:01+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "8f6b23c54737",
+   "titulo": "WTA Finals - Tennis.com",
+   "resumen": "WTA Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WGFiZzhyNFFpNzVLXzhwV2hlc1Q3VGNxdWNnNnZOWXJJQTI0ZWtSR0JFYVdxQXBhTmhZMU4xZmhjY0ZnQVZfZEVrZXJtS3hBc3J4Qk5xbE81VTV0TGdUT2hnYnExSVBjZ19DSkZn?oc=5",
+   "fecha": "2026-11-14T22:47+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "e5ae6d53de7e",
+   "titulo": "Mirra Andreeva vence a Jessica Pegula y va por el título de las Finales de la WTA Finals - Independent en Español",
+   "resumen": "Mirra Andreeva vence a Jessica Pegula y va por el título de las Finales de la WTA Finals Independent en Español",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHl4a0FNYnc4Vmp0OVY0Q2YyUUoyWF9RdWVxYXBMVWtXZUZ0ZW1vUm4tSDdhalB5N19YUzdWNHFtVDJEWHRHcjIzWTRDTFlRbnVBaVdvdXRzR2MtOFJYNnFEckhYM0wyNUhiUzI4Y2lKVTNKaXN0NGpSeXVhcTZhTmFQOWczQUt6OGZkRXliZzZZa1FacThlZmNES1ZsUm5jUHJpMlFqRTBaV1lsOGMyUjhkZXhtU0V2OTRzMS1CV29VYVNNNjZ4WEJtMVFCWUdidXV5NVNoRk01dWkzUXpB?oc=5",
+   "fecha": "2026-11-14T22:35+00:00",
+   "fuente": "Independent en Español",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "794423998928",
+   "titulo": "WTA Finals: Mirra Andreeva remonta en ambos sets y derrota a Jessica Pegula - Tennis World ES",
+   "resumen": "WTA Finals: Mirra Andreeva remonta en ambos sets y derrota a Jessica Pegula Tennis World ES",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXY0bk13NEx1NEdaS1NYWUlRVHhkTmdMOEhucHdCRFRGRHNtTzkyeXVKMld1OVdsTVoxS3ZHa3Y0SWtUejNvcl9RN3plSWpfQVV2RzNKWTE0emYxX3B5bEZfbjc5ZGhVNmJEUzFjY1NsMEJGdjFNc1Z3bENyVG05MFVENUZfMDJyaFZsdG1GQS1PZFJVeHRCeFBaQzRaaHUwVU5SaDhuaHdVMEJIcjJDLW94d2Z3WEtoeHQ4elh4cm5BUVVTdThzLXJnNXFlYTFsQ1h1TVcyTQ?oc=5",
+   "fecha": "2026-11-14T22:35+00:00",
+   "fuente": "Tennis World ES",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "a42dca4667a7",
+   "titulo": "Andreeva sigue de dulce en Indian Wells y buscará el título en las WTA Finals - Match Tenis",
+   "resumen": "Andreeva sigue de dulce en Indian Wells y buscará el título en las WTA Finals Match Tenis",
+   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tTDNEM3VqQUJRWmhwMGRUMlZuS0Q4OWI1OU1VakY3NjJ2UUF1SmNDMGEtdVNENkVzaGJKMGhyXzR3R3Joa3E5TzRLZkctMjRSaExJSFVTVlA3N1hreXdXYjlzLUNMaUtpYXc?oc=5",
+   "fecha": "2026-11-14T22:34+00:00",
+   "fuente": "Match Tenis",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "75841c5d2561",
+   "titulo": "Nitto ATP Finals doubles stars ready for thrilling finale in Turin - ATP Tour",
+   "resumen": "Nitto ATP Finals doubles stars ready for thrilling finale in Turin ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Slhkb2NfQ05rYUZQb2YydHJxTG1naTJHX29vZU53WkJxdVpGVVJVcXI4SzZZZElzWC1BTVczV2wxUExucUE3RjNOaWp1NklCLXB0T0RGM0RNS1F3YWVYd25uNXBRckdCNmowT2R0MXBIUnA4d3c?oc=5",
+   "fecha": "2026-11-14T22:31+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "d0022f5f4eff",
+   "titulo": "La joven Andreeva pugnará por el título de las WTA Finals ante Svitolina - France 24",
+   "resumen": "La joven Andreeva pugnará por el título de las WTA Finals ante Svitolina France 24",
+   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORE9NZXl6VVk4NVZleDJIb3dPa3JOS1oxdTlHWW5HcHVCRGZFZW5wUFJsU0pPbEZOZ01WTmdSVGY2Y0RqVjR4aERmUUFXWmluZXF5ZlRKS1VuSDlVU256TDM4eGNkcHdVcWQ4YTZRYnlhNzkwaUxEbVhzd1JTMHV1Vjd5Rkhpdl9qZkgwZktyVWJKNFVSWHg0R1dNdGowVmg0bUdCa2ZXRXh3QTVIcV9JYlJlSFNNT2hNZG1xeDBraEtVRjBOazhFQ293WFIzM0Y1bU9NdXAzSkVDMEFVMk9tcXJjVkxFenpWSWF3?oc=5",
+   "fecha": "2026-11-14T22:25+00:00",
+   "fuente": "France 24",
+   "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "2dbd9d8be5ea",
+   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
+   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Q3pXV3pSOWtpNWpKZ2xlRTlkYU9fblpqM213OEhFbW1VWl9zWUd0UUx0aE5nUElrLWMtbmE1SC1sTEE2bE5feEFsTExxdTVQNVZ4bEl1UWFxWXlkaFNVY014LW9iZjdUa2ZzLXBCX2xyZWltTDhyX1ZR?oc=5",
+   "fecha": "2026-11-14T21:55+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "55e4111db00f",
+   "titulo": "Andreeva se asegura terminar el año como Nº2 del mundo - Punto de Break",
+   "resumen": "Andreeva se asegura terminar el año como Nº2 del mundo Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpvYzVrQ0I0ZlBmNzhCcENzSkRXeUE3cEg2enpDLVdGUDJMYy12LWxNdkVSMURtNmlqQVV4aG1ZU1dUUUl1U1NFOHV4Sl93bFBtTHNpRlBfUl9oRFBxYU5BemlIdjVrMGhKSXh1VFNwLThFVUZqMWd5WTYxSUNCcEZMZnlGUQ?oc=5",
+   "fecha": "2026-11-14T21:53+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "251a1db7a38e",
+   "titulo": "Andreeva no tiene freno y luchará mañana por conquistar las WTA Finals - Punto de Break",
+   "resumen": "Andreeva no tiene freno y luchará mañana por conquistar las WTA Finals Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2dGdmg3VTF5bW1UcE5TLWRNUmRJd0ZuTVFQTnRXZGdjUktlYkRDb1B4ZGMybThjU20tMWJlS3ZfVVIyZzVVVWlsME9kSlVvU2lPVjl2YjFzM0ZEZGVvZjBWM1U5eHFCTnEwT1RXb2JrQ2c5cU1OUGxFZmxJamJ4WGVFNlZTTEJ0amc2eUlNX1VjLTBDYXFySG9B?oc=5",
+   "fecha": "2026-11-14T21:41+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "4391e4f846d8",
+   "titulo": "Andreeva n'a pas de frein et se battra demain pour conquérir les finales WTA - Punto de Break",
+   "resumen": "Andreeva n'a pas de frein et se battra demain pour conquérir les finales WTA Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3hMOXJsaFE2Y3QzeWwyUmtZR0poWE5wWmFkbFNSbDRkZzdROXJ6MnRTMG54NHNkS19xczZldFBrOGZSS3gxaDNRd05jNk9Rdkc4aFRhLWRmVWNuZDdjOUlaR3JKdTJ4Y3JyelluZzQ3M2JMNE1iQlMxbkJVRmE1Z3FGS3NQMm5VSWZjZHRQTG5KNEJTTC15WVF2WTNXem9Pejd6M3kyR2ZtSzBFaWlVeWp3?oc=5",
+   "fecha": "2026-11-14T21:41+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "f113d58e2bf0",
+   "titulo": "Andreeva non ha freni e combatterà domani per conquistare le WTA Finals - Punto de Break",
+   "resumen": "Andreeva non ha freni e combatterà domani per conquistare le WTA Finals Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTG50U0hHQVFyLW1KRVMwYm9ISGhodVBsUXRGVjFSOGNyYlYyYW9TcU1DLXR0Q3JYZl9BcE1wcnB2Nkdoai11UDVsWS15SzZKeVhFUFdXT0lyY2JHNUs4R3lRV3J3ZDBuSTJkZTRLX2xxR05xYW10eWhZQUpWdm9JbjM2Si1LWndXVDNuZ00tNmhoMnozYVhkVWtOVldHd1dhbVoyR18xTmVYSm1Nemc?oc=5",
+   "fecha": "2026-11-14T21:41+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "238bf384aaea",
+   "titulo": "Andreeva impresses with pair of winners in FAGE WTA Finals semis - WTA Tennis",
+   "resumen": "Andreeva impresses with pair of winners in FAGE WTA Finals semis WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmNHdHk5bzU2MnZDdWRSNDRzZGFyWWpyd1ZqaVBIMWRJQjhCbzFpak9YOUppbFd1R1Eyb3RhQlp3R0tSeTl0NUFYQmZkVkRpQ1Bmay1JMTh0bHRwQmpEeXB2M1pkd3lIU1M4clVxdC1oaTBCY0VYdlFfV2QxdHNIUFZIVU5NMjBSMjlGVi1iQXJBYTNuQ09tYWxvZzJSUl96SE5hejdGcG8?oc=5",
+   "fecha": "2026-11-14T21:31+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "6bb0f1d8dc56",
+   "titulo": "Sabalenka pide disculpas tras sus insultos: \"Debería haberlo gestionado mejor\" - Punto de Break",
+   "resumen": "Sabalenka pide disculpas tras sus insultos: \"Debería haberlo gestionado mejor\" Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3lhS2VDYTVoUHZLSkFranlRbWljTm42RjhEdXR0d29raHpvREZKcWpFczlkYlVRdDJCWmh2eGJFMGRGRVNBSHIxZ19UY1NnRU9FYTZ0VnppeFdVT0VzMUg0cF96aXVFcGhaelZZbGhjdFVfWXhUOVJ3N3R2b1R3aVdaTk1BbFRhTGE0ellMN19mZU1ERk81cTNzSWFhQ01JQTFHam1fQUdvdw?oc=5",
+   "fecha": "2026-11-14T21:23+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "bb4396e57630",
+   "titulo": "Guo / Mladenovic vs Errani / Paolini · Semifinal · WTA Finals - Tennis.com",
+   "resumen": "Guo / Mladenovic vs Errani / Paolini · Semifinal · WTA Finals Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFljUU56ZlVKd1FqME4xUV82akk4Qk1ITnlIZHdiaWFHbEVxUngtZjFMc2ROb25yY3pCR2xGYWNuTkFZbG1DUlFUdjAzNjhpa0VpcWZpRTlTWDkwdGR1cEJ1c1E2aHNWLTI5ZHpNdDUwcG5sVmVxaW5QMnVuUDczc242TGt1VG5YU0JxSGUySTAyWmY1QWpxVGo3bHBFbzcxZTBWMExsWU4?oc=5",
+   "fecha": "2026-11-14T21:23+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "a155b297547e",
+   "titulo": "Zverev se mide con el debutante Jódar, Shelton & Fils cruzan en el Día 1 en Turín - Nitto ATP Finals",
+   "resumen": "Zverev se mide con el debutante Jódar, Shelton & Fils cruzan en el Día 1 en Turín Nitto ATP Finals",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekE1NGpld3RpVks2cWlOazNMTERXSk9iMXJpSWlsbDY4V0dzTWN2NmgyVzFEVXFwZEwtVW94dDgwaWI1aXRkNmU3ejdFZDhnN2w0QlBVUmx3ODJSMTV6dTdIUXhRb3Frb01Fb05JSFRpdllLNXNPbHVHUXFOVUQ0dXlyTDlOYUoya1hZeHd4ZFRHOFVBUHA2UzcwVXdueDJNVlE?oc=5",
+   "fecha": "2026-11-14T21:11+00:00",
+   "fuente": "Nitto ATP Finals",
+   "jugador": "Rafael Jodar"
+  },
+  {
+   "id": "c97335e3e2e2",
+   "titulo": "Francesco Forti/Filippo Romano vs. Mats Hermans/Max Houkes Florence 2026 Semifinal | Stats Centre | ATP Tour | Tennis - ATP Tour",
+   "resumen": "Francesco Forti/Filippo Romano vs. Mats Hermans/Max Houkes Florence 2026 Semifinal | Stats Centre | ATP Tour | Tennis ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fNWNsN2phaVdCcUNDbVFObW1wV29NRFR3YWZvSGt2dHd3RktIZnBUSFVBNE93ZFp2eDJ2VlNjSlFpc196YXZRQVdMeHZpQVZWN1Y2b0RUX2lfNnN0WDQ2cE01UERvYXRIWDdzWFdKRUR3XzdsbGlDYkxn?oc=5",
+   "fecha": "2026-11-14T20:28+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "2e36ce00b35d",
+   "titulo": "Zverev meets debutant Jodar, Shelton & Fils clash on Day 1 in Turin - ATP Tour",
+   "resumen": "Zverev meets debutant Jodar, Shelton & Fils clash on Day 1 in Turin ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmJYUFhYQTdXeFFpdVNWZURCTFBVTl9pX3dhYzdjUllmUHJjbFYwSmJjaFVYOEI2eEJ5dE5jZDBwZEJobWpKWmN4YmVGeFA5MzdMNFBGS2tVOVBkZFBzUzVkTnFGNmMyY1FzOFZWZ015QTZBVmZtSlNrY3pycWxLcEN3SE1uaENTZzFwZ0VMd0FNQV9iekV5Vw?oc=5",
+   "fecha": "2026-11-14T20:08+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "98f604560977",
+   "titulo": "Michael Agwi VS Viktor Durasovic | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
+   "resumen": "Michael Agwi VS Viktor Durasovic | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlVsYTdyNkZHOHExbUt3blR4aDhuWTJXaWhwVmhBTmR4SEN6Wks5UWdMcS1BVWliOU10X3pkNGFYdkpYcXR2RzJYQ1JDYkc3NkNjV20wanVMRGQzVjZJTXVUakc2Tl9URV9ITXh5bmJBNUE5MXQyN0ZMNmRQVFFSLUpWM3BuZDJ2R2xBT1lKRnRmamZnOW4yVQ?oc=5",
+   "fecha": "2026-11-14T19:54+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "a0cc8bbbdc24",
+   "titulo": "Dalibor Svrcina VS Leo Borg | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
+   "resumen": "Dalibor Svrcina VS Leo Borg | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEpiWTVNWW12RDl1Vi15NFZFZ2RkSmtaLVpNRlJZX3dGUzBsdnZ5SUE0SXJ4OFU1Q05ZODBWUTJGRVI5aV9uVE1Kc0FscUVPRzE3dC1nSVFwd2tMQi1lc2t4NUhlMnBuT1NVMjc1aEl3RTV1U0pZYU4zM2dhR0kwRm1EbUI3c0dfRHAtcEFITmx0cms?oc=5",
+   "fecha": "2026-11-14T19:52+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "467926c3687c",
+   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
+   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MZWJjczE1dDN3R3oyN0JrTlhDelpWWExhbUs5a0gtU3hIbExpcEJVTzltTVVVQ2hsZzQ5RnB5bmgzM1BuRjVJWEoxeGtZMkVlSHhsMG5YX0J5aVlkR1F4YWlTX2o4TjROczA4WGVWOWZJYWRDcXBsZHpR?oc=5",
+   "fecha": "2026-11-14T19:47+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "310701356d0a",
+   "titulo": "Bianca Andreescu sigue imparable: tercer título en cinco semanas - Punto de Break",
+   "resumen": "Bianca Andreescu sigue imparable: tercer título en cinco semanas Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFZYzFrN19nZ3paMjI0Z0FaNV9ocHd2Z1RtQ1oxY1FGcGg1azNMQUJhWUZLeWswNVMzRk5MZUQ5dEFrUUdjaXA5SFhRcmxWM2lyUzk5YzFXUGMzQWN3WExmOThqVXZTSldMTUFUVFZsbkt6QjY4NTFOcGFhX2tsUjB4cVJfdHVsd05MNGE3c1Q0RWdaalY0NUFWY2hoOU5FRlE?oc=5",
+   "fecha": "2026-11-14T19:37+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "c207a77a4fb4",
+   "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+   "resumen": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5",
+   "fecha": "2026-11-14T19:23+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "3e6790330d49",
+   "titulo": "Madison Keys rompe su silencio y descubre cuáles son sus planes en 2027 - Punto de Break",
+   "resumen": "Madison Keys rompe su silencio y descubre cuáles son sus planes en 2027 Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHhtTkpKRExuU2I4U195WWZvYXZ0YWdQSVBZVFF5X3FZeFFXWGtTb0UtUDJUNGRpYnBkMzRpbEJIWXk3aUdKUVUzWmEybkxocW5vSjYxd1ZIRTR6UmgyaUVlUzlwMkh0aUEyV05ZV1l5R3prNWowT2twSHRyeFk1eGxJb29aNUhwXzZUbWdKZFhMRHd0cmhN?oc=5",
+   "fecha": "2026-11-14T19:18+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "d35f1dfe16f6",
+   "titulo": "Nishesh Basavareddy vs Daniel Altmaier · Semifinal · ATP Challenger Orleans - Tennis.com",
+   "resumen": "Nishesh Basavareddy vs Daniel Altmaier · Semifinal · ATP Challenger Orleans Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjdlQTlwR2VmU0FCWXh5WmZSa3FvZU45UUY5V1g5UjZJblF6UnlSU2Rwa3NUT21zRVlWOTlPTTFCNGdVZFFxNVIzanB2WUhuZTdTeDdyNjVBZmVXWk9Wam9WWXIyTGVhTzVUN2twc2x1UkpqSW41SDBVVG9COXNVVFRrQ3RrV2FkdWlDMzIxbVNNOTFnVGwwQW1FQ3M5eG1wYVE?oc=5",
+   "fecha": "2026-11-14T19:09+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "b90bba759946",
+   "titulo": "Shelton y Ferrero arrancan en Turín: “Es genial contar con otra mente tenística” - Nitto ATP Finals",
+   "resumen": "Shelton y Ferrero arrancan en Turín: “Es genial contar con otra mente tenística” Nitto ATP Finals",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnB0cGRaVjV5Qk5rRWQyWXJXMUwtSk00VDBUVHhuR3UtOExOSmlYODRpVVczb0E4WHY1Y2lPUWVMd0ppY1ltTS1ydkp5eXY3VVRZRkdtMzZTUlJQQTlTMVJJb0dYZkZVZjRZZWkxRG5rZzZzMzQzTFNEcEdSNVhMbzRXMWlTZmthbmFqRzQxU3d1ZjZBM2c?oc=5",
+   "fecha": "2026-11-14T19:01+00:00",
+   "fuente": "Nitto ATP Finals",
+   "jugador": "Ben Shelton"
+  },
+  {
+   "id": "07aa00350f96",
+   "titulo": "Ferrero ya tiene un plan para Shelton - Punto de Break",
+   "resumen": "Ferrero ya tiene un plan para Shelton Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRlJuV3ZJUlRXLXNPQXNVNTU5bWFuTDVvR3E1dU1USHNiVHBwRnpFX05lQnJueW9teFhLTkt2Q0VwblpIcHE3VVJ3WkFGU2lGNDJSN3o5cy1TMjNTa00tQ1E2dTdQd1BZZEVIOA?oc=5",
+   "fecha": "2026-11-14T19:00+00:00",
+   "fuente": "Punto de Break"
+  },
   {
    "id": "9676e923cdf8",
    "titulo": "Tennis Scores, Tournaments, Rankings & News - Tennis.com",
@@ -28,11 +652,20 @@
    "jugador": "Elina Svitolina"
   },
   {
+   "id": "75b2dfc484fc",
+   "titulo": "Alcaraz y Ferrero se funden en un abrazo en el reencuentro más esperado en Turín - Eurosport",
+   "resumen": "Alcaraz y Ferrero se funden en un abrazo en el reencuentro más esperado en Turín Eurosport",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcUdqLXYzMkRTRzk2NG1DVjlwbWlseVhjWDh4a3FkS05pcXBVcmpxTHh1Wi1PQlU0ME5nMjRKb19TYkJSb0dKNE9XY25hOFlGZ3RjM3YtQ2lCdkUyLVB3NWRPMVVKeXZQbTg3WG13WVNOZllJUXAzbjFvdXpONFZZcml4bGwwdXNISkRmUTMwTjBMNml3VGdJWXZNM0hSRmlBZjRHVVZPYi0wbjMtX1FZNlRhNEE1Q1R3OTNSWHlQS3hxYTJZd2V4MTc2cUdpZEJlN0dxV2VtX3pzdVNYSHBWWmVWV3JTNnZvNlp3ZEI1OWw?oc=5",
+   "fecha": "2026-11-14T18:22+00:00",
+   "fuente": "Eurosport",
+   "jugador": "Ben Shelton"
+  },
+  {
    "id": "31ecbd2d7aa0",
    "titulo": "Shelton practises with Ferrero for the first time at Nitto ATP Finals - ATP Tour",
    "resumen": "Shelton practises with Ferrero for the first time at Nitto ATP Finals ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWViSnFwQWtFbWFyZmVjWUZpRTNRMEJjcG9zUHdJZHNLYmxTcWxlQ3l1a0xyc0lLUzhUWnVpaDVCamo4NHFZcGN3UGVVVVNua3REQ1lzUjVDNTF2c0ZuNEd0VHBObjg4VjhKUmd3OHJablFpQ3d2dGg5Y05sR3ZhY2tTQVI?oc=5",
-   "fecha": "2026-11-14T18:01+00:00",
+   "fecha": "2026-11-14T18:03+00:00",
    "fuente": "ATP Tour"
   },
   {
@@ -56,7 +689,7 @@
    "titulo": "Fritz ends season with Stockholm title - ATP Tour",
    "resumen": "Fritz ends season with Stockholm title ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2pHZW9RZUVwTDlxd1h5b1lKSU1RQ2xsTUMwS2djVFdGWW9ybjNkZDY0RGNjSTZUeXBHby1xVnBxdkNwWWJOT2V6cVV5NVp1aGpwZEl4bk1tbTVWN24zRUhNV01YR3RzYzNlNFB4WjBRUnFQcVpzUnh1LW1iYW5YLQ?oc=5",
-   "fecha": "2026-11-14T17:48+00:00",
+   "fecha": "2026-11-14T17:54+00:00",
    "fuente": "ATP Tour"
   },
   {
@@ -84,14 +717,6 @@
    "fuente": "WTA"
   },
   {
-   "id": "48c698eb3cf3",
-   "titulo": "WTA Finals - Tennis.com",
-   "resumen": "WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRlUyQ0FnU3NhUUhYS2k2Nmh1T05lRGo2NGxoa2kzeFlTWnVkYmRnYkI0ZE41SGJERkVlU1pyMFdQWmQxOTI1c1ZzdVRiRUpIX3dJbjFyaFhVcHo0ZGpYdU4xOUJma05TeUxuYlpB?oc=5",
-   "fecha": "2026-11-14T16:58+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
    "id": "112099cf8561",
    "titulo": "John Sperle VS Moez Echargui | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
    "resumen": "John Sperle VS Moez Echargui | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
@@ -112,15 +737,15 @@
    "titulo": "What is the Nitto ATP Finals schedule? - ATP Tour",
    "resumen": "What is the Nitto ATP Finals schedule? ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FM2xPVXhTVDNtclpoNHdlalFJa3RzX3JQZlBoUnhKSnJXQTdaVENCc0Vsb1BEQXp0RDJ3VkR4WnJteGlURjQzZHFFYlUyQWNKUDd2SEI2bml2bW9wMUhYaDdaOHM2WWZfVDlpR3lmTQ?oc=5",
-   "fecha": "2026-11-14T16:39+00:00",
+   "fecha": "2026-11-14T16:40+00:00",
    "fuente": "ATP Tour"
   },
   {
-   "id": "c207a77a4fb4",
-   "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
-   "resumen": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5",
-   "fecha": "2026-11-14T16:23+00:00",
+   "id": "aa3bdf00d3fa",
+   "titulo": "Bybit Stockholm Open - ATP Tour",
+   "resumen": "Bybit Stockholm Open ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMUDVUUjdnU1hyLUpTd1J1a3J1UmFDMWJJQlI5Zkc4NUcwb3gzZFdRWmJGcDZ3SFJVQUhLaFNCZUdIWFJ5Wlhpal9wcWVnRV9aa0FBOFBlTk8zWXVxMC1aWkczYnZhY0FpZ2VzNDVxQWMyZVBv?oc=5",
+   "fecha": "2026-11-14T16:24+00:00",
    "fuente": "ATP Tour"
   },
   {
@@ -128,6 +753,14 @@
    "titulo": "Así ha sido el reencuentro de Ferrero y Alcaraz en Turín - Punto de Break",
    "resumen": "Así ha sido el reencuentro de Ferrero y Alcaraz en Turín Punto de Break",
    "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnlRQkljdEtMUTFCRWthZUlwcElsWGZXc0FKS3QtMTJRMkdsOS0talEwUjA3TlcyRlE3MjhTNi1iSUhTU0k0cDRkYXh5N2VadVREam5pd2tHVDNLY0hrU0ZtRDVyZDRzX0lDQ2cyUE1tRGdwVmZhQUdoWWlhMzdEZEF5SmJ2aXAya3c?oc=5",
+   "fecha": "2026-11-14T15:43+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "461187c368de",
+   "titulo": "This has been the reunion of Ferrero and Alcaraz in Turin - Punto de Break",
+   "resumen": "This has been the reunion of Ferrero and Alcaraz in Turin Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbW9hQnNidTVOYmxtT0JHODBmSnVyS1Ffc2Q2MHRzelhkMDczQzNrcXVQME9pLUJ6Q3N6emhaaTF4dmRUMUFIMERkWDdpMTNPSmdUWTh2TnNRb2dzV3FnbjlxbEg4UDVLRVRrYm9USG9pNWlnOFhBYXlGOFBCVm54V3VLRzg2bU5ZMXlZVmNyMDd3bGc4QUJUQlBRMVUxNHEtRlE?oc=5",
    "fecha": "2026-11-14T15:43+00:00",
    "fuente": "Punto de Break"
   },
@@ -157,11 +790,27 @@
    "fuente": "Punto de Break"
   },
   {
+   "id": "f9d14aecfbd3",
+   "titulo": "ATP Challenger Alicante, Spain - Tennis.com",
+   "resumen": "ATP Challenger Alicante, Spain Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUNCMGpRdGdQdGFIbkg5TGlMLVVXVVBJeFlxa0NvVGlQRGx2ZGtoa1pxUFU5Z0hPa0k3SUh2UnJub01pYU5YOTRGUHZIa1V1Mmc0UUFPdkJKUFRKaEc5MkIwbTllTFdYanRIRnpUeWQtMXZvbGE3MVFxVndyWE44OWJZdE1xSEU?oc=5",
+   "fecha": "2026-11-14T15:00+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "9e4492ff7769",
    "titulo": "Sabalenka es acusada de insultar gravemente a Svitolina y Ucrania - Punto de Break",
    "resumen": "Sabalenka es acusada de insultar gravemente a Svitolina y Ucrania Punto de Break",
    "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTVJQWRoRGFyS3FPa2VIUDBkd291WEhkRmhjeGtHQy0wNG5oQUVHa1g2UG8wTGdqR0dIdFVHWU9JSkVTR0ZlSWcxWmFITUxxQmY2VlkxODM0eTRtSUZRZnNCUjNzaWFsbUtzTllISGEyQlZkV0FFVWlZNU1aenpEZUVWeGRQSXptTHZ6YUdFZnNySnQzaVhOM0Zsbw?oc=5",
    "fecha": "2026-11-14T14:47+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "68b8b4dffd82",
+   "titulo": "A qué hora y dónde ver el debut de Rafael Jódar en las ATP Finals 2026 contra Zverev - Punto de Break",
+   "resumen": "A qué hora y dónde ver el debut de Rafael Jódar en las ATP Finals 2026 contra Zverev Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVZtVlgxVGVCS0lPb0EtUW1zYmwybmRDOWRFaklLR0hjRFo3elZvQ1F2TGJsMXRFcEtfRW40clNFNDIyTXllcnVpUERBVmVLZ2xGQnAzQ1NOeTV4bGhXaHBhbVdvUTFSNE9SUEl6aVI2bEhGYzJXRldYMmhwd294OVdVVW1lX3BGU1ZnS3dzSDhSckNL?oc=5",
+   "fecha": "2026-11-14T14:25+00:00",
    "fuente": "Punto de Break"
   },
   {
@@ -173,12 +822,20 @@
    "fuente": "Punto de Break"
   },
   {
-   "id": "8fdb1ae87a1b",
-   "titulo": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider - WTA Tennis",
-   "resumen": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTFMQkN2UkRWUjMyUm5xVUlsd1hQV3VhOXRHaUZWaHJnVE9XalhzMm5lbW5QS3kzRzBXVmpESHBhYmNSc1BISjR2UWNxZEwzWjhtMy0yOWVxNzBFZ29CblFWczNVQko5LW00U1ppTnVDSHUta3dvaUhydnpZaWt0d0lXZENNaVR0UUhuRWlnRkdUSTBn?oc=5",
-   "fecha": "2026-11-14T14:13+00:00",
-   "fuente": "WTA"
+   "id": "a51a60ae7841",
+   "titulo": "Fritz terminerà il 2026 come il numero 1 del 2027 - Punto de Break",
+   "resumen": "Fritz terminerà il 2026 come il numero 1 del 2027 Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0ppTHh5T1Qzd1cyWGZ6NTZPYWlBSTE0dHJNaERYc3NoZDd3NVdzeHRCdkp3N0hmRmxBTHJvN2w3TmJocExaVnpWVHZrZHh6YVJ2VUpRV2s2Nkk1a0x4ZWNxejVpLXdiNVRMRk1BU3lqcVBnMnFlYUdyamR6Tk9oeGRzVXV6QWVNd1IxNWM0d3lvQQ?oc=5",
+   "fecha": "2026-11-14T14:24+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "85477a3475e5",
+   "titulo": "Fritz will finish 2026 as number 1 of 2027 - Punto de Break",
+   "resumen": "Fritz will finish 2026 as number 1 of 2027 Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXpQc0ZvaENsbGVPM2R3OXZMZENfTWRKTG53RWl3Y2doM3lDYmZOX0J6MUtJb1JGX2VDUHNPcW80Z0FqUGtnNmd4M29qVzhrM1hoNG9ueDZlUkRodmZJM0xFMVpYaVloTFpsYklHRU9QYVdieGE4UjZZTmxhUkxncE1kYjktbEV1UkNsWGl3?oc=5",
+   "fecha": "2026-11-14T14:24+00:00",
+   "fuente": "Punto de Break"
   },
   {
    "id": "a4e1bbdc9794",
@@ -197,20 +854,28 @@
    "fuente": "ATP Tour"
   },
   {
+   "id": "173f9d02781a",
+   "titulo": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina - WTA Tennis",
+   "resumen": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWhPQ3VaMDd1aHVacGhhbTBKampfQ0VyZmtOSHFmLXMtSk56dFRGdUlxYWRMZkhZZmtxMG00dGp0SkxvQlhCeDZtNEg3ZmpYcXdfSm1uRWQxajg3V3NuQVNsRHhDQnU2THRsWndTcmoxMWZYSjhZVjVYTmdDSHZqOGJoUF9hV2Z0LUE0TUxUV3dFQXY1OUxSMzBsQnRtSlhtZzZF?oc=5",
+   "fecha": "2026-11-14T13:20+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "ac64a239ac8d",
+   "titulo": "Charlotte Pikkaart vs Zejda Veljacic · UTR PTT Carvoeiro Women 08 - Tennis.com",
+   "resumen": "Charlotte Pikkaart vs Zejda Veljacic · UTR PTT Carvoeiro Women 08 Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmxGNWl2aG1VTEZxdnlGdV9lQ0FsMHFoeWluMVR5UnJiNXpaMTlpd0d0WjcySGxYd3JMUndqaDNUVUpBdGF1MjBXajlTUk0yWG5YWXhQcXdaR0hURXQtVU1jV1U4NUl2RnRuSE9YWWQ0SXpCVGQ0bHlvVmtwdzBJNEhKRWZ4R19IejljTkV3MmtJc0tiQVNrZGxmVlotSDR1UURGckRHY1g?oc=5",
+   "fecha": "2026-11-14T13:08+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "0bf13bcd3307",
    "titulo": "De levantar el trofeo a dirigir el torneo: la nueva vida de Garbiñe Muguruza - Punto de Break",
    "resumen": "De levantar el trofeo a dirigir el torneo: la nueva vida de Garbiñe Muguruza Punto de Break",
    "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnlUN1hJb1MzQkNGQXI2a05uMVBWc3VJaVpvODlPT1VQa3VZSmRoRmMtX2poMmNkVU5aSVF4SGhKMVF6RzJnZEktbk9ZemR4UjZnZTU1WDRWamo2X1lrM3NmWHNaOVRLU1JoMTMyV2hoRW1JcUczdzVPbWlsNnVPZU4wbmpsUjdieXpRdG9uYWdHalduaHpMQ0dEbTEwbXc?oc=5",
    "fecha": "2026-11-14T13:00+00:00",
    "fuente": "Punto de Break"
-  },
-  {
-   "id": "7df05ede85d4",
-   "titulo": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals - Tennis.com",
-   "resumen": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlCQjF3b2FXaWpOdW5XWVlqUG1PbUpCNTRGcW5LcUo4Y29vNzdLaGdMS050dERjNDRycExuckRHR1JWVHFOTmpKQUJhQ3JWZU9pVjhMN1FDSWpUNGJ3N3NraHZZTFRVTUlBaDhUV3M3eXF4YkJodkpjaXdYd1pYUGlhY3Z5UTgwOWR2cjVyLTNGNGUw?oc=5",
-   "fecha": "2026-11-14T12:37+00:00",
-   "fuente": "Tennis.com"
   },
   {
    "id": "c93e06db6aa1",
@@ -313,11 +978,19 @@
    "fuente": "WTA"
   },
   {
-   "id": "92ee25f2ac65",
-   "titulo": "The Official Home of the Women's Tennis Association | WTA Tennis - WTA Tennis",
-   "resumen": "The Official Home of the Women's Tennis Association | WTA Tennis WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE15RHVxS0lzREZualVDY3VFQ0N0dmpTN0dmUTZWQXV6UHFFWlZhbFpoRmZBWVk5bTdEeHB2dWJuQQ?oc=5",
-   "fecha": "2026-11-14T10:06+00:00",
+   "id": "163fbdba7f98",
+   "titulo": "Stefan Kozlov vs Michael Zheng · Quarterfinal · ATP Challenger Knoxville, USA - Tennis.com",
+   "resumen": "Stefan Kozlov vs Michael Zheng · Quarterfinal · ATP Challenger Knoxville, USA Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEE5NVFGZ0haQVE3b3p6OGw2Q2VBMEtyNE15MG5rSzZJYlVycmdsa214a1VmaW5EdVlxeXNOSFdqQWxnRnktRGszYUlKbi1STDcwQk1MeldhVlJTZzNkVTR1LTdtYjhWUEhHeDZYSGFuc1VCbi1VYnFuai1OTnNjdGtmcnhYTGNUNG5BY09vMWRFVmhJYnpiRTZR?oc=5",
+   "fecha": "2026-11-14T10:09+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
+   "id": "25f9cb02e396",
+   "titulo": "Down a set, Svitolina rallies past Muchova to even her record at the FAGE WTA Finals - WTA Tennis",
+   "resumen": "Down a set, Svitolina rallies past Muchova to even her record at the FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXdlTWthWG05QXpjNDF4UGc0NHBxckZQbGp1bDZobUNhWUN2NWYyTkZmOVdfbFk3OXJtNEd5Y0dlQUdRcjN0YWFhWFJrWW9SX2ZQY2twQUpiVURaNXBLaER0VU9saE9vdWtmUmRIUzNrSndLT0llX0k3MXlsSlFBdE1hdmEwWWJ3WmNpMlk4bklpc0c4ekV5dQ?oc=5",
+   "fecha": "2026-11-14T10:02+00:00",
    "fuente": "WTA"
   },
   {
@@ -348,14 +1021,6 @@
    "jugador": "Elina Svitolina"
   },
   {
-   "id": "173f9d02781a",
-   "titulo": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina - WTA Tennis",
-   "resumen": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWhPQ3VaMDd1aHVacGhhbTBKampfQ0VyZmtOSHFmLXMtSk56dFRGdUlxYWRMZkhZZmtxMG00dGp0SkxvQlhCeDZtNEg3ZmpYcXdfSm1uRWQxajg3V3NuQVNsRHhDQnU2THRsWndTcmoxMWZYSjhZVjVYTmdDSHZqOGJoUF9hV2Z0LUE0TUxUV3dFQXY1OUxSMzBsQnRtSlhtZzZF?oc=5",
-   "fecha": "2026-11-14T09:17+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "cfbc2141368e",
    "titulo": "Svitolina desvela cómo es su relación actual con Monfils: \"Hablé con él diez minutos antes del partido\" - Punto de Break",
    "resumen": "Svitolina desvela cómo es su relación actual con Monfils: \"Hablé con él diez minutos antes del partido\" Punto de Break",
@@ -379,6 +1044,15 @@
    "fecha": "2026-11-14T08:42+00:00",
    "fuente": "Eurosport",
    "jugador": "Elina Svitolina"
+  },
+  {
+   "id": "84a75ecd9f7b",
+   "titulo": "Highlights: Shelton alcanza las SF en París y pone fin a las esperanzas de Paul - ATP Tour",
+   "resumen": "Highlights: Shelton alcanza las SF en París y pone fin a las esperanzas de Paul ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVBnd2oxQ2xhSFRRb2N1M1pMYmtjbW9wbUhYckE0cGhzZU9CNUhkRHJnLUc3bG1FdU1UbDNRUG5FQkJFRHJwQUZpNjAzZU1pU2NqMDBITkNOTkpoclpSUm91Y3p2WXpkenNzUjFkNGlPTk5JbjFDUUNEbDY3SVVzRkJzeElONEJwaVVGT1NycFNKVHc2RjJ3bHZ3TDJwdmgx?oc=5",
+   "fecha": "2026-11-14T08:38+00:00",
+   "fuente": "ATP Tour",
+   "jugador": "Ben Shelton"
   },
   {
    "id": "85b08841ea5e",
@@ -414,20 +1088,20 @@
    "fuente": "Punto de Break"
   },
   {
+   "id": "83b2d97f4a01",
+   "titulo": "Erjavec / Kulambayeva vs McAdoo / Rogers · Semifinal · WTA 125K Sopo, Colombia - Tennis.com",
+   "resumen": "Erjavec / Kulambayeva vs McAdoo / Rogers · Semifinal · WTA 125K Sopo, Colombia Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkpsVGVFYS1aWWlOVGUyME4wTnpMUDNrOUplS2VVMXpJUGk1b0J0OExOQUx3bFFldVJaWEtKUnV4RlY5enc2T3BpNE1qc3hKbDZORm1BaVpRdlFLOFZkNWp4QlIwdS1ZeDFZbjFHc0EwS2o1OW5WVlpYVnlOQVluYVBMRS1EZjdYQXMtdUdDTEUtb01GY05PVk5jWExIY09BZlBJTHVETVRpUGI3Q2NwMkxPZ1VjQmc?oc=5",
+   "fecha": "2026-11-14T08:08+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "a6d3a00bdfce",
    "titulo": "El nuevo sueño de Elina Svitolina: \"Quiero que mi hija me vea ganar torneos\" - Punto de Break",
    "resumen": "El nuevo sueño de Elina Svitolina: \"Quiero que mi hija me vea ganar torneos\" Punto de Break",
    "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblh5VlhDbWk1cUhIVEgwQ2V6REVGY2V4bHpWTkRreUROWDlRVlpPcmM1b2ZfSnU3NHpWMDFtTE5MQ1dtMEo3Vk14NFBIcjhLcHVBekVVN2oxaTVlMXdHR25KSjQ3cWhQdkU5WnZiRnZFTFlRZXlVTWlEa2ZTR08zUllfTFNBMHNhZnFXNTZTaEFmZzViUnIyTk9Wak9FQQ?oc=5",
    "fecha": "2026-11-14T07:53+00:00",
    "fuente": "Punto de Break"
-  },
-  {
-   "id": "a340220e76c5",
-   "titulo": "How it happened: Svitolina runs away with the third against Sabalenka to reach the FAGE WTA Finals semifinals - WTA Tennis",
-   "resumen": "How it happened: Svitolina runs away with the third against Sabalenka to reach the FAGE WTA Finals semifinals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUEtaGw5c0tETHduTXpTT3QxUUpidHdWSzNDUDM0YWxzN2JzRmtCbG0tTS15a2FmLWhGbU5Wa25QRzFtODNST2UySUswUGpxdHA0ZWFWd3pYYUwxVWc5M3htLVAzcjhOQXYyNUZzR2MwT29tdWVINXAtR1BreWdldU5ZZzhjU1cwMEhmcnJRaXdTNlJwTTgtTVBrZnkxR2VZaXc4bjUxakQzZnp5Y1JGWFdoMmhGV01Da3pBWVVIRnkxM1NMV0JZbl9B?oc=5",
-   "fecha": "2026-11-14T07:49+00:00",
-   "fuente": "WTA"
   },
   {
    "id": "0e9ab9f56e34",
@@ -512,22 +1186,6 @@
    "jugador": "Linda Noskova"
   },
   {
-   "id": "f177393a168c",
-   "titulo": "'What just happened!' Gauff scrambles all over the court to win crazy point at FAGE WTA Finals - WTA Tennis",
-   "resumen": "'What just happened!' Gauff scrambles all over the court to win crazy point at FAGE WTA Finals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1YzZWJCS293VWdNRUVEOUZES21wc0hWZjhBUGs0bkxLZzZRVk5iRldBVEdISG1uLUQtVFNtM3k5OGlHNHhxLVB5M1VFVEFkbzRXaGNPWGxLSzREZjRILXJ0ejF3Z0xsalVYUFdBUXd0MXZpUjJlOGhsdjRrZGZVWFVrZTMtQlF5eHpXYjZmSEZ5UVBNanROUnhReFgtb0NCZ2VJWkhvSXRUN2owYVBJOGVRNXZXbFJUMkpVSVQ3dHU1MWp2c0N6aUtNLU8?oc=5",
-   "fecha": "2026-11-14T04:52+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "75dfe68e9fa4",
-   "titulo": "Dabrowski Stefani Remain Unbeaten Secure Semifinal Berth At Fage WTA Finals - WTA Tennis",
-   "resumen": "Dabrowski Stefani Remain Unbeaten Secure Semifinal Berth At Fage WTA Finals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzc2Q3JfdEx0VHExQnpHbFpMU3J2d3BPYVpGUXl1QkhNX3NXVUtuXzYwaW14TFdkLXNFSTZJZWdUSG8wWDV6S2hBMlZtX1dueEVlNXJIWUVoSEZlRjZPMEFlVTlpU2NQM1NSWml5eWViRjl4NERzNWt2aHZaclVYSUI0clhQb2ljVUVwb0ktTWZSOGRkXzIyWWNKUjY0QWt1TVotb2FUZVJqR2Rfa0k0WmZCV2xHdzQ?oc=5",
-   "fecha": "2026-11-14T04:43+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "7f882e04887a",
    "titulo": "Videos - ATP Tour",
    "resumen": "Videos ATP Tour",
@@ -570,12 +1228,12 @@
    "fuente": "Tennis.com"
   },
   {
-   "id": "8f6b23c54737",
-   "titulo": "WTA Finals - Tennis.com",
-   "resumen": "WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WGFiZzhyNFFpNzVLXzhwV2hlc1Q3VGNxdWNnNnZOWXJJQTI0ZWtSR0JFYVdxQXBhTmhZMU4xZmhjY0ZnQVZfZEVrZXJtS3hBc3J4Qk5xbE81VTV0TGdUT2hnYnExSVBjZ19DSkZn?oc=5",
-   "fecha": "2026-11-14T04:09+00:00",
-   "fuente": "Tennis.com"
+   "id": "75dfe68e9fa4",
+   "titulo": "Dabrowski, Stefani remain unbeaten, secure semifinal berth at FAGE WTA Finals - WTA Tennis",
+   "resumen": "Dabrowski, Stefani remain unbeaten, secure semifinal berth at FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzc2Q3JfdEx0VHExQnpHbFpMU3J2d3BPYVpGUXl1QkhNX3NXVUtuXzYwaW14TFdkLXNFSTZJZWdUSG8wWDV6S2hBMlZtX1dueEVlNXJIWUVoSEZlRjZPMEFlVTlpU2NQM1NSWml5eWViRjl4NERzNWt2aHZaclVYSUI0clhQb2ljVUVwb0ktTWZSOGRkXzIyWWNKUjY0QWt1TVotb2FUZVJqR2Rfa0k0WmZCV2xHdzQ?oc=5",
+   "fecha": "2026-11-14T04:07+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "5ca6807ebdb2",
@@ -585,6 +1243,14 @@
    "fecha": "2026-11-14T03:35+00:00",
    "fuente": "Tennis World ES",
    "jugador": "Mirra Andreeva"
+  },
+  {
+   "id": "8fdb1ae87a1b",
+   "titulo": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider - WTA Tennis",
+   "resumen": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTFMQkN2UkRWUjMyUm5xVUlsd1hQV3VhOXRHaUZWaHJnVE9XalhzMm5lbW5QS3kzRzBXVmpESHBhYmNSc1BISjR2UWNxZEwzWjhtMy0yOWVxNzBFZ29CblFWczNVQko5LW00U1ppTnVDSHUta3dvaUhydnpZaWt0d0lXZENNaVR0UUhuRWlnRkdUSTBn?oc=5",
+   "fecha": "2026-11-14T03:14+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "ed3ee6de8d1f",
@@ -604,8 +1270,8 @@
   },
   {
    "id": "8e7c0b1f1d75",
-   "titulo": "UNICHARM EHIME INTERNATIONAL OPEN Court 6 Sakamoto, Rei - Harris, Billy | Challenger Tour - ATP Tour",
-   "resumen": "UNICHARM EHIME INTERNATIONAL OPEN Court 6 Sakamoto, Rei - Harris, Billy | Challenger Tour ATP Tour",
+   "titulo": "UNICHARM EHIME INTERNATIONAL OPEN Court 6 Sakamoto, Rei - Harris, Billy | Challenger Tour | Challenger TV | ATP Tour | Tennis - ATP Tour",
+   "resumen": "UNICHARM EHIME INTERNATIONAL OPEN Court 6 Sakamoto, Rei - Harris, Billy | Challenger Tour | Challenger TV | ATP Tour | Tennis ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaEw0U1FNOS1peVh4bG1SZkVralZjZVQwNXRXNjI2ODFmWnh3Qkk0OG0wRHAwY093VVBwbTVBSWxsN2NfQm9UalRiNVVTQk5SekFtcW13M181ZnZHb21RS2hlNWI3bTFYQ1U2VEczcWp2Z3VVMmhpODZlc2ZKcXRNVGFVYUdzanNzR0dwSGpldXJhcGZuRjY4ZjNqdHlkQmlFd192aEhEM0tLcHRDMGV1cEN0cTNsaExzdVZIdVlxUmdsTzRpNTQ1UEE2aTh4LXhQeWx6Nm5oT01VNmJOMDZkSDVMQ3JQUlpQTTczdWpVNA?oc=5",
    "fecha": "2026-11-14T02:16+00:00",
    "fuente": "ATP Tour"
@@ -679,14 +1345,6 @@
    "fuente": "Tennis.com"
   },
   {
-   "id": "068783afa8c4",
-   "titulo": "Svitolina ousts Sabalenka at FAGE WTA Finals to book semifinal berth at Indian Wells - WTA Tennis",
-   "resumen": "Svitolina ousts Sabalenka at FAGE WTA Finals to book semifinal berth at Indian Wells WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjctcDU0Y1ZWQ2VMaEY0V3VvYURRRjRxcXNPSHNBNlVCQXVKRjdIVHFWVi1lcTdWejZPZUl2RWFSeDNDNGluakFvU0N1YWNJeEVwY0trRHA3Y2lKVnNvVm5lZV8tdnhyQ1dJR3dQZjRXX0VId0NsWTFZOWxrYWowR0hycWRKNUNPQnVMZnhFWTBJRUVHZl9qN3UyeDJ3Yy1RT2VPOE1MZmV1T0g4b0tpM3RkS1kxZWVEWTJNUzRRblF5MDA?oc=5",
-   "fecha": "2026-11-14T00:28+00:00",
-   "fuente": "WTA"
-  },
-  {
    "id": "36d58384febf",
    "titulo": "ATP No. 1 Club Gala Photo Gallery 2026 - ATP Tour",
    "resumen": "ATP No. 1 Club Gala Photo Gallery 2026 ATP Tour",
@@ -746,6 +1404,14 @@
    "jugador": "Elina Svitolina"
   },
   {
+   "id": "068783afa8c4",
+   "titulo": "Svitolina ousts Sabalenka at FAGE WTA Finals to book semifinal berth at Indian Wells - WTA Tennis",
+   "resumen": "Svitolina ousts Sabalenka at FAGE WTA Finals to book semifinal berth at Indian Wells WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjctcDU0Y1ZWQ2VMaEY0V3VvYURRRjRxcXNPSHNBNlVCQXVKRjdIVHFWVi1lcTdWejZPZUl2RWFSeDNDNGluakFvU0N1YWNJeEVwY0trRHA3Y2lKVnNvVm5lZV8tdnhyQ1dJR3dQZjRXX0VId0NsWTFZOWxrYWowR0hycWRKNUNPQnVMZnhFWTBJRUVHZl9qN3UyeDJ3Yy1RT2VPOE1MZmV1T0g4b0tpM3RkS1kxZWVEWTJNUzRRblF5MDA?oc=5",
+   "fecha": "2026-11-13T23:37+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "49877d55a87b",
    "titulo": "Aryna Sabalenka 1 - 2 Elina Svitolina: resumen y estadísticas del partido de WTA Finals, Group B (WTA) - Europa Press",
    "resumen": "Aryna Sabalenka 1 - 2 Elina Svitolina: resumen y estadísticas del partido de WTA Finals, Group B (WTA) Europa Press",
@@ -753,14 +1419,6 @@
    "fecha": "2026-11-13T23:32+00:00",
    "fuente": "Europa Press",
    "jugador": "Elina Svitolina"
-  },
-  {
-   "id": "0389da04b3d3",
-   "titulo": "Svitolina catches Sabalenka off guard with clever drop shot at FAGE WTA Finals - WTA Tennis",
-   "resumen": "Svitolina catches Sabalenka off guard with clever drop shot at FAGE WTA Finals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkU3REJVdVNrOGNXSzQtTmF4YTlmTHhIZkFPQXJ0aU9LUUtOcFVqbXJPZWRTd0NqMk85X2NpMnBBejNoM1I3elFwcWI4UnRScW5xdkM0cG5OV2NEU2R3cDJTN2tXbnJVZUcxUDZpLWlYbDRQS0I1dHFRVUdwak01bHBqajllZUJvdVJPOGJ4dkJibnNCblR4X3ZoT1lXX2RWZ2c?oc=5",
-   "fecha": "2026-11-13T23:32+00:00",
-   "fuente": "WTA"
   },
   {
    "id": "c025e248f386",
@@ -787,12 +1445,21 @@
    "fuente": "Punto de Break"
   },
   {
-   "id": "f94b11f88bb2",
-   "titulo": "Errani, Paolini cruise into semis at FAGE WTA Finals with perfect group record - WTA Tennis",
-   "resumen": "Errani, Paolini cruise into semis at FAGE WTA Finals with perfect group record WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlJoSV9FMTVoOWI4YXVNNDVYSnFjYnRCanFoM2VzU2dvcG9FRllPbE9NTjAxUWxYeGs3dVJ1TXpVTFRsLXg2WHFlR2pQSjRlX2ZaYlBiREx2UjA4RHBvbl82ZlRndU1keExGeTc1WlBFOTZ6YlNxbHQwTE8xTkhuVmpKV3h5UmdpTVc5SG91ZDB2WlplWHVtRzlMMG90Y2lmcUE0Wk5aQkFtS1dveEtUS3BnYUdXWFVIQ2c?oc=5",
-   "fecha": "2026-11-13T23:06+00:00",
+   "id": "0389da04b3d3",
+   "titulo": "Svitolina catches Sabalenka off guard with clever drop shot at FAGE WTA Finals - WTA Tennis",
+   "resumen": "Svitolina catches Sabalenka off guard with clever drop shot at FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkU3REJVdVNrOGNXSzQtTmF4YTlmTHhIZkFPQXJ0aU9LUUtOcFVqbXJPZWRTd0NqMk85X2NpMnBBejNoM1I3elFwcWI4UnRScW5xdkM0cG5OV2NEU2R3cDJTN2tXbnJVZUcxUDZpLWlYbDRQS0I1dHFRVUdwak01bHBqajllZUJvdVJPOGJ4dkJibnNCblR4X3ZoT1lXX2RWZ2c?oc=5",
+   "fecha": "2026-11-13T22:38+00:00",
    "fuente": "WTA"
+  },
+  {
+   "id": "109327f29860",
+   "titulo": "Ben Shelton - Arthur Fils en directo - ATP Finals Individual masculino -: Resultados y resúmenes de Tenis - 15/11/2026 - Eurosport",
+   "resumen": "Ben Shelton - Arthur Fils en directo - ATP Finals Individual masculino -: Resultados y resúmenes de Tenis - 15/11/2026 Eurosport",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXg1ZGQ3OGNYa18wdEFLS2FkWHN3d25Nd0RPRkh2aVBKeTdTbktLZWxRa2Focy1mMHIzOVJXeC1KT3F4aFBidkJWbnlOYWVOdHAxdGI4NWdicHFhSHgwaERXSXBxaVVIRXc2N3ZKQzJZREhRcTFBNWt3UjJrcE92UTJ1dzFZOGhZaHRuU3lPTXlHNWxFN3A3Uw?oc=5",
+   "fecha": "2026-11-13T22:06+00:00",
+   "fuente": "Eurosport",
+   "jugador": "Arthur Fils"
   },
   {
    "id": "7a5806d80bd2",
@@ -917,6 +1584,22 @@
    "fuente": "ATP Tour"
   },
   {
+   "id": "a340220e76c5",
+   "titulo": "How it happened: Svitolina runs away with the third against Sabalenka to reach the FAGE WTA Finals semifinals - WTA Tennis",
+   "resumen": "How it happened: Svitolina runs away with the third against Sabalenka to reach the FAGE WTA Finals semifinals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUEtaGw5c0tETHduTXpTT3QxUUpidHdWSzNDUDM0YWxzN2JzRmtCbG0tTS15a2FmLWhGbU5Wa25QRzFtODNST2UySUswUGpxdHA0ZWFWd3pYYUwxVWc5M3htLVAzcjhOQXYyNUZzR2MwT29tdWVINXAtR1BreWdldU5ZZzhjU1cwMEhmcnJRaXdTNlJwTTgtTVBrZnkxR2VZaXc4bjUxakQzZnp5Y1JGWFdoMmhGV01Da3pBWVVIRnkxM1NMV0JZbl9B?oc=5",
+   "fecha": "2026-11-13T19:50+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "04f138930c08",
+   "titulo": "Tennis Scores, Tournaments, Rankings & News - Tennis.com",
+   "resumen": "Tennis Scores, Tournaments, Rankings & News Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11aGYtR0JncFhTUERZMHp0MnpsaVdLcHE2UTRXRXRjQms2T2RsQkNRTzlCdmJ5R3NEaXRXMDhtWHdIMlQ3eFh3SUdnRW1oZ0Jq?oc=5",
+   "fecha": "2026-11-13T19:46+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "f4523d24d7c0",
    "titulo": "Zverev, Alcaraz & Nitto ATP Finals stars take centre stage in Turin - ATP Tour",
    "resumen": "Zverev, Alcaraz & Nitto ATP Finals stars take centre stage in Turin ATP Tour",
@@ -950,6 +1633,15 @@
    "jugador": "Mirra Andreeva"
   },
   {
+   "id": "8060719912fd",
+   "titulo": "Jódar: “Sueñas con poder estar algún día en este torneo” - ATP Tour",
+   "resumen": "Jódar: “Sueñas con poder estar algún día en este torneo” ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWpBblFRZmsyR3lvZF9jNFZBQy1WdnYzZ2dLR2l6T3hmT2JhSVA1QU1PamdfTnZJQTNFVEtva3hZMzZUTHRLSEtBWG1iWXZlekpqckR2a25rdTUxM19wNmpPeXI2OHdVM0RjVjJQOHJqTjJjXy1QVFAxZDZhc1Q4cUFqSQ?oc=5",
+   "fecha": "2026-11-13T18:58+00:00",
+   "fuente": "ATP Tour",
+   "jugador": "Rafael Jodar"
+  },
+  {
    "id": "d08a4bb2c364",
    "titulo": "Carlos Alcaraz on Turin goals & Juan Carlos Ferrero reunion: 'I will give him a big hug' | ATP Tour | Tennis - ATP Tour",
    "resumen": "Carlos Alcaraz on Turin goals & Juan Carlos Ferrero reunion: 'I will give him a big hug' | ATP Tour | Tennis ATP Tour",
@@ -962,6 +1654,14 @@
    "titulo": "Alcaraz, antes de verse de nuevo con Ferrero: \"Tengo muchas ganas de darle un abrazo enorme\" - Punto de Break",
    "resumen": "Alcaraz, antes de verse de nuevo con Ferrero: \"Tengo muchas ganas de darle un abrazo enorme\" Punto de Break",
    "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZThjNC1NVEhjUVlraTJfQjdVUjV1TDgyRldjZ1VXSlE0Y2daYWFzaG5IcFU0cWZxb2lTQ3FZd2dTNE1SODJXTlZOTGlyR0RCV3NabXV3VkRUSXlFTnRqTWpJTmNwQUxmOWhaZUFubC1zTW9DNmF2YXQyWmdmNFZ2ajdvOUE2QlJoS29sN2NrWW94c2d5b1pQRA?oc=5",
+   "fecha": "2026-11-13T18:42+00:00",
+   "fuente": "Punto de Break"
+  },
+  {
+   "id": "fea47c788547",
+   "titulo": "Alcaraz, antes de verse de nuevo con Ferrero: \"Tengo muchas ganas de darle un abrazo enorme\" - Punto de Break",
+   "resumen": "Alcaraz, antes de verse de nuevo con Ferrero: \"Tengo muchas ganas de darle un abrazo enorme\" Punto de Break",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaENVbHpuc0pPTlR6bnhDWGtYOGRZbTNISkZLZmtnUG5QQ0pReV8zV3RPV19OZjVZRFJqZnpuZkRkR0lNSnVJT1docTBjQ2RRZi15RmpVUF9VWnZEWXhZdTRTTDgxa1RVeTRycTJ4UFdCX1lON2xJSzBOeDRlQVptSW95dWs5ektJTExlbHo4bml0YnFDMHBhMA?oc=5",
    "fecha": "2026-11-13T18:42+00:00",
    "fuente": "Punto de Break"
   },
@@ -1061,14 +1761,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45YXdaWXQ1NGtPS0p1eENOVUN6YkpjTWI4NEZ3UkI3WmdCVGpaSXg4WlNDRTg3YnFnUF9zMkFkUGlPWnEybmxraFNaN2pHLVFNWklEdmVWcmNxeDRMVkFGQmxfQ25tYUp4QTN2alZUcnhhWWM4VWRUaA?oc=5",
    "fecha": "2026-11-13T16:48+00:00",
    "fuente": "ATP Tour"
-  },
-  {
-   "id": "04f138930c08",
-   "titulo": "Tennis Scores, Tournaments, Rankings & News - Tennis.com",
-   "resumen": "Tennis Scores, Tournaments, Rankings & News Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11aGYtR0JncFhTUERZMHp0MnpsaVdLcHE2UTRXRXRjQms2T2RsQkNRTzlCdmJ5R3NEaXRXMDhtWHdIMlQ3eFh3SUdnRW1oZ0Jq?oc=5",
-   "fecha": "2026-11-13T16:44+00:00",
-   "fuente": "Tennis.com"
   },
   {
    "id": "6d2d1ad12b58",
@@ -1390,6 +2082,14 @@
    "fuente": "Tennis.com"
   },
   {
+   "id": "34bc541c31fd",
+   "titulo": "Liam Draxl vs Clément Chidekh · Quarterfinal · ATP Challenger Knoxville, USA - Tennis.com",
+   "resumen": "Liam Draxl vs Clément Chidekh · Quarterfinal · ATP Challenger Knoxville, USA Tennis.com",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZV8ya0ZSdFNFUVlNVlhtaTJJTUM0OGY2cmRNRGNQTmNKQmJhUjI5aC1MeUVHUWRneHRYUmtmZ21selVWNW9IUVhWNmh4MHJVczBaUkFzQ0c1dERVblR1OWg5V3pTNjJKQmh0U09rckdaTHM4a1VZMlg1ZERaTjZWb2hXM3dXaFBONjE0dmstcmhydHpKeGtKMklhUQ?oc=5",
+   "fecha": "2026-11-13T08:00+00:00",
+   "fuente": "Tennis.com"
+  },
+  {
    "id": "c84ba79ebc75",
    "titulo": "Pegula saves match point, beats Noskova to advance to FAGE WTA Finals semis - WTA Tennis",
    "resumen": "Pegula saves match point, beats Noskova to advance to FAGE WTA Finals semis WTA Tennis",
@@ -1473,12 +2173,28 @@
    "fuente": "WTA"
   },
   {
+   "id": "817e299b8ead",
+   "titulo": "Gabriela Dabrowski Luisa Stefani vs. Su-Wei Hsieh Jelena Ostapenko-Match Highlights - WTA Tennis",
+   "resumen": "Gabriela Dabrowski Luisa Stefani vs. Su-Wei Hsieh Jelena Ostapenko-Match Highlights WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVR5RkVEcTNEejlVUVlKZzZLbVN4YmxlWVlsd05QemM2enA3RzNteDN2S1dSQVVEYXItUzFsMXVrQWE1ZDZDeDFreWFudl9DaHp1V3Q1Rng5aG5YMGdWYmU4d05GTk9sTXJ4Ui1TWGZYektEVzY2Q3hkNFo1SmZqWDh6cF9EV182QXFnQWR5UWVVcUV5NWZtM0ZwY2h2UFpjeGJwWUMzb3h2OVVCQ3lzUlUtSVNxUzI2WUphSWg1bHo?oc=5",
+   "fecha": "2026-11-13T05:01+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "328f6f09226d",
    "titulo": "Nicholas Matos - ATP Tour",
    "resumen": "Nicholas Matos ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMeWJiWWNLODhXSzNFTkNsU3RMZ0pxT0FiYzg3WnNXUGtRNV9OaExxaHREd0dhNkw3eWF0OXJzVlMweDFHb05jMDZoUEFxeE1mMGJnLVBZeDlNbElDbE5Pa29uUkk0a2FvSUE?oc=5",
    "fecha": "2026-11-13T04:48+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "f94b11f88bb2",
+   "titulo": "Errani, Paolini cruise into semis at FAGE WTA Finals with perfect group record - WTA Tennis",
+   "resumen": "Errani, Paolini cruise into semis at FAGE WTA Finals with perfect group record WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlJoSV9FMTVoOWI4YXVNNDVYSnFjYnRCanFoM2VzU2dvcG9FRllPbE9NTjAxUWxYeGs3dVJ1TXpVTFRsLXg2WHFlR2pQSjRlX2ZaYlBiREx2UjA4RHBvbl82ZlRndU1keExGeTc1WlBFOTZ6YlNxbHQwTE8xTkhuVmpKV3h5UmdpTVc5SG91ZDB2WlplWHVtRzlMMG90Y2lmcUE0Wk5aQkFtS1dveEtUS3BnYUdXWFVIQ2c?oc=5",
+   "fecha": "2026-11-13T04:43+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "ef2c5c5eb489",
@@ -1769,6 +2485,14 @@
    "fuente": "WTA"
   },
   {
+   "id": "12d9dec239a3",
+   "titulo": "Hsieh, Ostapenko keep semifinal hopes alive at FAGE WTA Finals - WTA Tennis",
+   "resumen": "Hsieh, Ostapenko keep semifinal hopes alive at FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2liY21Ic0g3RVB6dnFEU2F3NzMzc0JnWXh5aU5JeFdjdDhIVHFHZWZvZHZscldwaUJSdURTQmtqNXdpeWJQUXZqTlN5OUhCcXk4RVY3bjJKSlZYT1hmWUlSSTlickcwcXlyVmJWdVlLZUFKdWNfT3BwZW5IcFJxMkJMamNsdTV3Z1JtaXlrRE5hZGJWWWZ6N1pTcFc0ejFFTkRNbQ?oc=5",
+   "fecha": "2026-11-12T21:32+00:00",
+   "fuente": "WTA"
+  },
+  {
    "id": "0161503f3788",
    "titulo": "Sinner muestra su lado más íntimo: \"He aprendido lo importante que es desconectar\" - Punto de Break",
    "resumen": "Sinner muestra su lado más íntimo: \"He aprendido lo importante que es desconectar\" Punto de Break",
@@ -1791,6 +2515,14 @@
    "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVkd4TGNYMkpVVXdfOXZiMnY3VjlLZWoxYlp4b3ZpTzlkRzNjTkgxbGU1UmlNNHdmNWdUSGY2LTZFZXZrNEtqdHp4T0JKeW1iS0dMOHltaGluN051TlRhc1VuVDBwVFFuc3E1dEtHcy1yZUtC?oc=5",
    "fecha": "2026-11-12T21:07+00:00",
    "fuente": "ATP Tour"
+  },
+  {
+   "id": "f177393a168c",
+   "titulo": "'What just happened!' Gauff scrambles all over the court to win crazy point at FAGE WTA Finals - WTA Tennis",
+   "resumen": "'What just happened!' Gauff scrambles all over the court to win crazy point at FAGE WTA Finals WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1YzZWJCS293VWdNRUVEOUZES21wc0hWZjhBUGs0bkxLZzZRVk5iRldBVEdISG1uLUQtVFNtM3k5OGlHNHhxLVB5M1VFVEFkbzRXaGNPWGxLSzREZjRILXJ0ejF3Z0xsalVYUFdBUXd0MXZpUjJlOGhsdjRrZGZVWFVrZTMtQlF5eHpXYjZmSEZ5UVBNanROUnhReFgtb0NCZ2VJWkhvSXRUN2owYVBJOGVRNXZXbFJUMkpVSVQ3dHU1MWp2c0N6aUtNLU8?oc=5",
+   "fecha": "2026-11-12T20:43+00:00",
+   "fuente": "WTA"
   },
   {
    "id": "37b29add7603",
@@ -1882,6 +2614,15 @@
    "fuente": "WTA"
   },
   {
+   "id": "4fac70bb97e6",
+   "titulo": "Fils y su magia se llevan el Hot Shot del mes de octubre - ATP Tour",
+   "resumen": "Fils y su magia se llevan el Hot Shot del mes de octubre ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU20yS3JjcHZSVTBVS0dlZHNsajhJM3o0b3FGbjhQR2R2d1UwQmxjeEdZcXgwMENhRUxsRVRseFBVOExDVmNoSTNfTlhYMmhSZjh5WkwyUU1TTFpuc05nSzFtYU1BZ0JuTC1GcUpFNUh0YmxqWVl5Nnd0RjB6elNTT1NGcnc?oc=5",
+   "fecha": "2026-11-12T17:57+00:00",
+   "fuente": "ATP Tour",
+   "jugador": "Arthur Fils"
+  },
+  {
    "id": "b7c862724fab",
    "titulo": "Así será el reparto económico de las ATP Finals: el mayor prize money de la historia ATP - Punto de Break",
    "resumen": "Así será el reparto económico de las ATP Finals: el mayor prize money de la historia ATP Punto de Break",
@@ -1943,6 +2684,14 @@
    "resumen": "Hot Shot of the Month: Fils blasts tweener winner to claim October's award ATP Tour",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTI5cmY5V21tRnVTRmlFSld2NVNIMlpENi1zRFlWdUV1TzNUakF0el9RWnd1MXB1M1FtZFVCRGZYbldEYzZESy0tdEZpZTZQNjNBV1BxQzMxU1FhbHRTbFdBQWRWaHRjZFZvOTAzdDlTLUNSTEFBMHZncE1FekR2RUVqWVF0cElUNEFMUE1qOFA1Rkt0QnJwRmxxMDdUVFE0TTJZcGp0SzQ?oc=5",
    "fecha": "2026-11-12T17:21+00:00",
+   "fuente": "ATP Tour"
+  },
+  {
+   "id": "828090831710",
+   "titulo": "Martinez, Pedro - Martineau, Matteo, CENTRAL ARENA - ATP Tour",
+   "resumen": "Martinez, Pedro - Martineau, Matteo, CENTRAL ARENA ATP Tour",
+   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZU9uMWJ3TFphOUsxck1ZMXNMQnpDTUZjNkdEd2w5d29naWUxQ2EwLThEdDh0Q1h2UTFKdy01M0V2Zlp4VDl4UGJuS19zTmpPX1Y3cm1XVzIxdnF4Qnh0bFk5VVJKdGpWUWw1M2JpcC1rbld1MEFlYXdmNmNDdTRLZXQxSVpUY2l1UWtIRk1kMkpsNVVlbG9adlpYMWM1WjZ0NDFRb09SNVRuNGFRRHZmOWlWdV9QN1ltS1U3cTU5amhyLXhsRklIU2N3aUYzOUhTcjNnb1dVZU1ZeDJpei1LVUxDeVRpc3BEcldlVFFaSVNDOW5C?oc=5",
+   "fecha": "2026-11-12T17:15+00:00",
    "fuente": "ATP Tour"
   },
   {
@@ -2106,6 +2855,15 @@
    "fuente": "Tennis.com"
   },
   {
+   "id": "6e6bcb3fa2c6",
+   "titulo": "Alcaraz con Medvedev, Cobolli y Tiafoe en el Masters; Jódar con Zverev, Shelton y Fils - France 24",
+   "resumen": "Alcaraz con Medvedev, Cobolli y Tiafoe en el Masters; Jódar con Zverev, Shelton y Fils France 24",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzZJQ3RkRWVWcklEQjBIR0puUlRLMTNXT0QxYUZxMHpXTXJpTEdnOEhjQmVoLUJONkw1bEN0QkdWVEE2WXgwVUEtTnRnbEhhNEI1VjJfdm5vMk1qb3N2VzVubU9HNk9nRC1zVVZiRHFLVXJjWmw5QjllZW96dlg5YnF6eVE1emNyQTNQNUxNaUpzR1lEZXJXa2pMSXI3aUFCOHYyYVdlcHZXUXNHS2RmaVV6U3VVZ3Zia0RtaFMxYUNfcFNpd0ZaaXNNUHBUa1RvLURwRy0wZko?oc=5",
+   "fecha": "2026-11-12T15:37+00:00",
+   "fuente": "France 24",
+   "jugador": "Arthur Fils"
+  },
+  {
    "id": "f1dfb9bcc190",
    "titulo": "Iva Jovic | Grand Slams | Activity & More - WTA Tennis",
    "resumen": "Iva Jovic | Grand Slams | Activity & More WTA Tennis",
@@ -2267,6 +3025,15 @@
    "fuente": "ATP Tour"
   },
   {
+   "id": "511cce0249f2",
+   "titulo": "Jódar se enfrentará a Zverev, Shelton y Fils en la fase de grupos de las ATP Finals de Turín - Federación de Tenis de Madrid",
+   "resumen": "Jódar se enfrentará a Zverev, Shelton y Fils en la fase de grupos de las ATP Finals de Turín Federación de Tenis de Madrid",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2d1WV9iNmNXT2JhU0gybEd1Tzl6N1JyV1BJX2pLSlZ0cGYxZW9QZTVPS0tXTzYzZW9HRXZMMG53VnhMcHZtMHdnM1pXSkg4VE1JNmdsUVk4M1V6VjBxX2JvYkdQM0EwR3FGX1pnR2o0YTlPLV85UDRGUXdwU01JR0htVmZBemhURF9oVm1pN25wc0Y2d2xOUzFKTFE0eGU3a1czay1oWEkxRFk?oc=5",
+   "fecha": "2026-11-12T12:33+00:00",
+   "fuente": "Federación de Tenis de Madrid",
+   "jugador": "Arthur Fils"
+  },
+  {
    "id": "d0432f50f687",
    "titulo": "Zeballos y Granollers ya conocen su cuadro en las ATP Finals 2026 - Punto de Break",
    "resumen": "Zeballos y Granollers ya conocen su cuadro en las ATP Finals 2026 Punto de Break",
@@ -2288,6 +3055,14 @@
    "resumen": "Women's Tennis Association - Official Website WTA Tennis",
    "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXLVU4MU9qN2FCWXRNemVZQXdFcmZmUThxX0YyS0FrZ1VlVVhQbUoxdGpkcENmV1VBVWxJTlJ1bkF2SVU4cTRJNDN3Vll4WGxxZmFiRkl6Y1kxa1hYa3dIaWdIdGo0ZTBRdXJZQ2pZMGlDLWdfSUxDaw?oc=5",
    "fecha": "2026-11-12T12:21+00:00",
+   "fuente": "WTA"
+  },
+  {
+   "id": "2bfb24d7b93e",
+   "titulo": "FED CUP WORLD GROUP II (PLAYOFFS) WK2 2019 Overview - WTA Tennis",
+   "resumen": "FED CUP WORLD GROUP II (PLAYOFFS) WK2 2019 Overview WTA Tennis",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjBMbVhzYUt5NkUzclJwNm9ZVkZLdm5WUEJYZTlNVHRPbWdZaWFSYTZzS0xWRXg4QVAxOVRuY08zNEtpRkREa3dZYk1BYXFWLVQtWXVBaEFiaDdUVFo4ZVBvUDhTQnl5M1dxRW1rbU1xbDVtWXpvbmV6Yk9TaDNuSXpIbw?oc=5",
+   "fecha": "2026-11-12T12:14+00:00",
    "fuente": "WTA"
   },
   {
@@ -2702,14 +3477,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6dUZnal9CVWpNMkdUMTJscjNYRnpfb0J0aTFlcHVTaFdJbXBKa2tPcE90aldzUExRN3pWUzg4YjNmdjVZZ0I1bDJTRFdDSEFzVERmSEZVbld1aXBWYVZlbWNLTUt0aGppcUU4cTZ3cFpYOWdITTkzcDR3?oc=5",
    "fecha": "2026-11-12T04:48+00:00",
    "fuente": "ATP Tour"
-  },
-  {
-   "id": "12d9dec239a3",
-   "titulo": "Hsieh, Ostapenko keep semifinal hopes alive at FAGE WTA Finals - WTA Tennis",
-   "resumen": "Hsieh, Ostapenko keep semifinal hopes alive at FAGE WTA Finals WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2liY21Ic0g3RVB6dnFEU2F3NzMzc0JnWXh5aU5JeFdjdDhIVHFHZWZvZHZscldwaUJSdURTQmtqNXdpeWJQUXZqTlN5OUhCcXk4RVY3bjJKSlZYT1hmWUlSSTlickcwcXlyVmJWdVlLZUFKdWNfT3BwZW5IcFJxMkJMamNsdTV3Z1JtaXlrRE5hZGJWWWZ6N1pTcFc0ejFFTkRNbQ?oc=5",
-   "fecha": "2026-11-12T04:22+00:00",
-   "fuente": "WTA"
   },
   {
    "id": "3ef017cc4515",
@@ -5772,742 +6539,6 @@
    "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTdqNHJZY1RrYUp6SkxHWUgzX2VJaWJ6WU1fZ0UwZ3VMZk96TGMxNElQUTlydUxHTDBKYkwzMktac2FJLTFCa2txQTBVeWFOX0huZWVlQndkaG1mSTgwVm1MSjF3OS0xeGoxeGZENzhiQlVtTDBfdkJsUHpzTlNSbzZ1a0g0RHhrekxxZVp5c2duOTg?oc=5",
    "fecha": "2026-11-09T21:50+00:00",
    "fuente": "Punto de Break"
-  },
-  {
-   "id": "5ce4c077bbbc",
-   "titulo": "Highlights: Samuel beats Borg in Stockholm 2026 R1 - ATP Tour",
-   "resumen": "Highlights: Samuel beats Borg in Stockholm 2026 R1 ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3RjSkdaOS1lMWREZlo4ckZBb2VIckNpSDV4cVlfWW14aFVaTXZTQXZLbG5nN2FIWlg4YUU0dzZOWXpqQ0x0ZmlwX21YRUZGTXVjdkNnYkNpSEFra0U4YjNZblpUV3BjWk1ab2h2Q3hKOGw5ZzB4RG5ydUV5Wk5aLTlmTEd5b1YtblE?oc=5",
-   "fecha": "2026-11-09T21:44+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "1a67f06d2248",
-   "titulo": "Guo / Mladenovic vs Hsieh / Ostapenko · Round Robin · WTA Finals - Tennis.com",
-   "resumen": "Guo / Mladenovic vs Hsieh / Ostapenko · Round Robin · WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdnFIQTliV0RQMktrTmtIMVp2a0kxZEttNVFPTU1FeFFvWFoxTkpwdDRMMGRYbGlydjdhMW9rWlZoX0p3OXBCdkxmWDUtRGdaX0dyS3lRdnF6SnhMV2hOdE9zSFl6TnF4M0dRVTU5czlmQTZDTlpXSlNiRWswanlfR3hkNlZEVHJyNWZBVHdlcHZBcklSaDNUTDVSeFYxUUZvOWZJTmtRQmQ1cmpx?oc=5",
-   "fecha": "2026-11-09T21:35+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "057fc2bb24ff",
-   "titulo": "Sabalenka pone fin a la mejor racha del siglo en tie breaks - Punto de Break",
-   "resumen": "Sabalenka pone fin a la mejor racha del siglo en tie breaks Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUUhlTVNCWnRBZEFtbHB0Z2FfYnZvRFVuWnRPdkRKRUE5cFZrQWdkTmdQWnBtTmhhcWdEVEFvMnkzLWNHNmZvNWlMdGdVUGdoYktfUFBOVmdIeElRcEMzUF9kQ3pOcWlReXo1SGJkaEhsdE83SXJfa1h2ak50VVJGazhWVVdRYmFZczNZ?oc=5",
-   "fecha": "2026-11-09T21:34+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "8c0f5040385e",
-   "titulo": "Norrie serves up storm in Stockholm, sets Fritz showdown - ATP Tour",
-   "resumen": "Norrie serves up storm in Stockholm, sets Fritz showdown ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02ZFV0S0VKNm4zNjRBVXpGRDVwVVA3X1FCMGhQX3djWjh3UlEzRWlxNlRFM2hLa2NkN0lmeFp2cHBWSm5xbEdLdk1mMk1UVEQ3d01uaTh0TUxmaGZYRnp6VWh4MzBucjVhSXNkQXlyREZOWWFUS3VJSV9B?oc=5",
-   "fecha": "2026-11-09T21:17+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "1bb12152655c",
-   "titulo": "Hussey, Giles - Blancaneaux, Geoffrey - ATP Tour",
-   "resumen": "Hussey, Giles - Blancaneaux, Geoffrey ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPclZFcnZra19yVFhvSzlkQnA5QW1GVV9EbE93ekZYM1BoSVhXWU9tOVlMblBsRjlSNGcwdzJ6WmF6UUJyWGJsUmtwSWV6dUExQU4xdDRXazhoWlFDXzRKdnFtQV9FQkwxQ19yVlV3WVR4YlJzUEpUMExySF9zRzBSYWNLNlJzZXhJTVIzMTNLMmRKMmFUcVlTY0VQM1hZckprcVJ3b3ZTbTRIajJGSUFjeDI4VVdXdzFUaEZpSENGU2w0MjFSYTZ6bFZXQ1Z2d1BPQWk4NmhlZWNDYTVoa0RoVktDZVpUTzRNdTB4a2lSZnVObkhHZHln?oc=5",
-   "fecha": "2026-11-09T21:05+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "3bf0d8039a0a",
-   "titulo": "Rune se inspira en Federer tras su lesión: \"Quiero volver como él\" - Punto de Break",
-   "resumen": "Rune se inspira en Federer tras su lesión: \"Quiero volver como él\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON0pBYU0wYlIwN2FRWWVaa0QtOG5LaXpHbGtENW1PWUQ4aHNWNjRKa0tycVNsNFdYWHRoQW1KU1RINGpvcnc1SFZTX2NSaHdGVHBnY0pqLW02WG9pTHh0Z2xTMXBGUTNjcG5PUWRuUjlLTmhkZmVMVUVvZkR6U1ZwUVd1R2lUaFY4?oc=5",
-   "fecha": "2026-11-09T20:28+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "3751a5222711",
-   "titulo": "Musetti y el número 1 de Zverev: \"Sinner y Alcaraz siguen siendo mejores\" - Punto de Break",
-   "resumen": "Musetti y el número 1 de Zverev: \"Sinner y Alcaraz siguen siendo mejores\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXIyNHRRcmYwenllTl9lUldKQjY1VG55eXFWUDcwdElMZi1SMl9QQ3RtMUpDOWZ3Y05OVjctYW1Xa3RxbUtDYVVBTHdQYmpDTmpPYk1aU29kTE5qa1oySDlrX2l2YkFLcGVHZHdyZ0NaTktoYzdLUmpjZFVMZm5SUC05cjZRSk5XMnBqYlp5S3RabGdrcG9leQ?oc=5",
-   "fecha": "2026-11-09T20:10+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "e2c1c6ad8ae3",
-   "titulo": "Musetti and Zverev's Number 1: \"Sinner and Alcaraz are still better\" - Punto de Break",
-   "resumen": "Musetti and Zverev's Number 1: \"Sinner and Alcaraz are still better\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamZvNnpEd3NKTm04UFJsOHZxV3hiNzhCNkZNc3pBQ1owRTZnc2ljOGM1SWQtY2ZXakRwUS1jOWhycTlBY3BMREtVWlRONF9rUjB4R0R4V0N1MXJuQnZsX0pocU44Q2RHSHpsV3IzZTFvS21uVXhmVmdSam1lVkYxMUlHTjdtRk9PRDJoZW1wZmR1cDVQekpmbDZuM09ZRG9JbWRMX3BHbE9xMlU?oc=5",
-   "fecha": "2026-11-09T20:10+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "cdc8b2a208c9",
-   "titulo": "Nicolas Jarry vs. Maximo Zeitune Lima 2026 2nd Round Qualifying | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Nicolas Jarry vs. Maximo Zeitune Lima 2026 2nd Round Qualifying | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9panRlNXdFOEdlQ3RCRGw5Z2pma3BrR3JrbXdEaWlfOGJwTmw5NnBhMHZ6ZldTd2dPWU5BeTE4VVVuMnVtd3RwaEdRUFpQNjJtaFNEcHhIUEJ1R0pDc1lxNi05aC1oTm16cTI4LUpURXFlTFY2OGswT0J3?oc=5",
-   "fecha": "2026-11-09T20:01+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "3386000aca63",
-   "titulo": "Highlights: Etcheverry fends off home hope Dahlin in Stockholm 2026 - ATP Tour",
-   "resumen": "Highlights: Etcheverry fends off home hope Dahlin in Stockholm 2026 ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDB5Y21kNjBwTE1RcFhHaEo0ZjFJcW9PMXZ1alRYeHVBMDkyXy1MaEFiR3FRSDJPR0l3R0hGQUw1V1lqbGViWjVfaFVBNWszOEZVd3RVMXNSSVNWdG1CQm5idUVuajRZRnJ6dmc1Y18tZmR0RldKQ2JYZXBrYXhIYWVFY0JIUkNDZVhzMDRSbVJzTzdGYjdWUldWcVJCZUJl?oc=5",
-   "fecha": "2026-11-09T19:58+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "f4fd63943762",
-   "titulo": "Rankings Watch: Liu, Andreescu back in Top 100; Eala up to new career high - WTA Tennis",
-   "resumen": "Rankings Watch: Liu, Andreescu back in Top 100; Eala up to new career high WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEhNaU9QMF9xMnJNUUhIMEI1dTBic0cyZUQ0U3hjV0xwUnZqejFRZFdWaVJvZVlNSTZ1SWJ2eE8xYkk3TzNXbVhLT0JpdXJ2MXRIdnFCUHNxTUNwQ3ZLRE5SakZWY2Y4LWhIZk1TS3F0LVFTdWEzQy0wX2NtaGRWMHJoZWNqbjhOb0dhTHl0UkVra21DOXhLYVE3ZUxLaEZSVEl4YTdUOU1MX1A2MnVB?oc=5",
-   "fecha": "2026-11-09T19:46+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "458fce2bbc73",
-   "titulo": "Hot Shot: Dahlin's at it again in Stockholm 2026! - ATP Tour",
-   "resumen": "Hot Shot: Dahlin's at it again in Stockholm 2026! ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjctdldZSm1HYlNZbklMcVRwS0xEbXYteEJBbXhCSWszaXktNUNkN1dmbjJvUkFmdFQxM2dGVEdGczRsMGZGOWJWZUVYd2FUWEVTRTBRMGxkNGlKaEthdTk0MTJzcnVzSEg3anJNNUVPNW5GeWNrUDdRTHBOVFhDNTNmRGhYUQ?oc=5",
-   "fecha": "2026-11-09T19:44+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "c3d4599a8870",
-   "titulo": "DIRECTV Open Presentado por Compesar 2026 Overview - WTA Tennis",
-   "resumen": "DIRECTV Open Presentado por Compesar 2026 Overview WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vRS1seXVDUHdJT3NtYzNmQVpDQkp6enZ6Njc4WnRvUXN5cFhueXVWbnp0SEpZUlNaVDdqUkhIc3hJdWpHVWVVV3F5UHFKX2txTVZ4WEJjUWJLN21ySmhFekRn?oc=5",
-   "fecha": "2026-11-09T19:41+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "28aa434a651f",
-   "titulo": "WTA Foundation 2nd half (UPDATE06-2026) - WTA Foundation",
-   "resumen": "WTA Foundation 2nd half (UPDATE06-2026) WTA Foundation",
-   "enlace": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGSzdQRGQ4RnhXNFhTd0F0V3NZbjVOSnFPa2xxUUZFNGh1OEpZcjI3U1h2ejVmdndqZ2tnSEU5bW1SLTFOLTk0eGFsYktoTW9m?oc=5",
-   "fecha": "2026-11-09T19:37+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "3f5aea1e7af9",
-   "titulo": "Dart beats Tagger to claim first career singles title in Guangzhou - WTA Tennis",
-   "resumen": "Dart beats Tagger to claim first career singles title in Guangzhou WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkIyT19JaVhGT1Q1ejhzcFFxeWFkNUZ2YzlKMFJHd3ZtdmdqbFY5TVdlNXhwd29qUldZVU5hYVY3N2xjVVRoY2ZEYjJSLVRVOVpRb0dyXzRTM1VNVVdlMXp1WFZhLXR2Zm1CV3FHUGZCaUgyYWhPTnR2ektQSnZLX2Q1MmRJZXNZZ0FiVGlwaWhybVJnZmgxOU9LY203UlMzeUxuem1nQlJFUjg?oc=5",
-   "fecha": "2026-11-09T19:23+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "0d909b3f1ec0",
-   "titulo": "Stephen Mandl - ATP Tour",
-   "resumen": "Stephen Mandl ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02Z0FvRVlWeGpWYVNYRHFYdENmY0h1cklqWWNoMmI3WmNoV3F6aUV4M3ZQdUtnSXE3NHoyYmhtOWp6SC1pSGl4VXpJVjVPSWJBQkxlM2U0WWNMaWNTV28weklZVzVqaXc?oc=5",
-   "fecha": "2026-11-09T19:17+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "f1bb325e8563",
-   "titulo": "Luca Nardi vs Alexander Ritschard · Qualifiers · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Luca Nardi vs Alexander Ritschard · Qualifiers · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmV5YXB1V1U2cWUtSnFWaVNiS05hYmVoVHZjaEFNeFJOX2dXaVNyTjdNSjlwcS12SDBENmFJS3lRdktyS2pkN3lDMnpoQVlOLU9WRUlBZmdlbm05dkJWVU14alJ4Qk1kd0VEbU1FYUFZbXZSLThRekhxT2dCNWZFdzJEZWVUelh5dUJBM3JWSi1jSmdtS1NzNmp5UQ?oc=5",
-   "fecha": "2026-11-09T19:11+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "f69305960e6b",
-   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
-   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4SmJFTlFZdDVpVkVEbHhwSi1PUzBncnpCN0pUTndJQk5LaS1pVTlSWW9xRkQ3S3R6ZGZ2QThXQTlZUlRXRGpTWlYxQUNZWmJNV2tLbU54dGhOSkhXYVRBNlU3MjhPaWJ5TVJKZkNaaXBQQjQ?oc=5",
-   "fecha": "2026-11-09T19:11+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "55ceae29a478",
-   "titulo": "LIMA CHALLENGER presented by VISA - ATP Tour",
-   "resumen": "LIMA CHALLENGER presented by VISA ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkNUWTVBV2VrX21aZnZjanJCNS15NU8ybEVia1E5WDNzV1pmb1VnR3ZkeUlHZThWS25tTjJlS1c3aWR2MXZOT3hfVnV0d3BvTDJVYS01Yk5FS0NlY1dJbS1wNXBPamRPM1NPX0YtVklaSk81ZjVDYzVDVi12d1NJaVdKZkhtN19nZ0gza0pqX0N5eXRUM20temtFRlMybUlicGx3T0F1N2RUNGc?oc=5",
-   "fecha": "2026-11-09T19:04+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "8a1de33205de",
-   "titulo": "Benjamin Bonzi vs Andrea Pellegrino · Round 1 · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Benjamin Bonzi vs Andrea Pellegrino · Round 1 · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3dJZEpxTU9lY05kcUVZX2RoSVJubWZTVUdEM1pDRGUxdE41TjJkV0pVUGJVM3c2M2h4TjN6R3lrcVNwNjhlZV9QanExSjdFOXFYWFRFa1I0dFozNmxudUMxQ2NYN0ZXX1lPNVVFYjRXOXJvdERsSUtKaVZiNlBpc0pXOVVGNXdBa3BlZWJvT1hEUWZaTkFVbl9CZzk?oc=5",
-   "fecha": "2026-11-09T19:03+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "7f3f197315fa",
-   "titulo": "Hot Shot: Dahlin's dangerously good dropper in Stockholm 2026 - ATP Tour",
-   "resumen": "Hot Shot: Dahlin's dangerously good dropper in Stockholm 2026 ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9TQkhuMVdjaFh6T01Xd1lYd3NSdV9OeGYwZXN3TGpoNTM0VTRfSU81SERNODBEeVNPZmgxVlpCVVNjMTNqU3NWYjZJeVg5YUEzbld1SU85cUJsRXVoVXVQcEFHMHRCMG5ad214bHFpLS05ajg2QS02d3BVMGI1eDJQRUhwWkpYTzUzcDl4NGtxaU5sUE40?oc=5",
-   "fecha": "2026-11-09T18:59+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "708a1da9bac0",
-   "titulo": "Hugo Grenier vs Martin Krumich · Qualifiers · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Hugo Grenier vs Martin Krumich · Qualifiers · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1drWExuMzJ3YjV0ejc3YzBxbVZBZDNLb0M5WWZDcERiYVhnOTQxcnpVU2JXelNtc3BJQ2kwOU9PSmhKcTBkRDlkNTZrQ2dMWldxZXNMeF8tM01oSzJXVHRLMkthYTVMMjJfcTQ0ck1PN3BhMGtockJQeGR6T2JTb2RIZHplZVZTV0dGWEZFS01IYkRaNWpqbDlTNA?oc=5",
-   "fecha": "2026-11-09T18:59+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "e063e93aed44",
-   "titulo": "Clément Tabur vs Lukas Neumayer · Round 1 · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Clément Tabur vs Lukas Neumayer · Round 1 · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHNubjlwaGpnSFRUem5fdnIxR005WVpISktEX0V0TDdSU3hhcFFneks5VUFBaDhvR2toZ1A3TDMyeXczaUhsZkxXRHNaMU9wNWZlLTNuakVOcThVd3IySnQyS1hxaGZjYjlHZ2lEMFM3YUlNUE9wN1B2ajhqZG5DZFBRU3ZzbUE1OUUza04teXJLNzJHSk9nbzF3?oc=5",
-   "fecha": "2026-11-09T18:58+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "18161c658c92",
-   "titulo": "Benjamin Kittay vs Adrien Gobat · Qualifying Final · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Benjamin Kittay vs Adrien Gobat · Qualifying Final · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3J4VUxvSGI5VmlkR2JuYU9JUlRENnNZMzlpTVpYU1otdGpwSVBSVTVWcDhYSzdiaF9ha3F5SjlPbjFtcC1JcURScUVDZjlKWTMtOVdKQTFSdnFWTXNndjlZNlN2eWVwR3IyOXZ5dUtSSFV4bGp3bHd4VTVoVzRaaEUtZVY2d0xSX0hWczF6UFRMZ3VycFZz?oc=5",
-   "fecha": "2026-11-09T18:57+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "d1026fe1f31c",
-   "titulo": "Buvaysar Gadamauri vs Ugo Blanchet · Qualifying Final · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Buvaysar Gadamauri vs Ugo Blanchet · Qualifying Final · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjByQ1JjTjYzODZhWEFLOExpaTFLdFpQRENnM3BvZTJUNE1EMmdybXJBM2pXRkk4U0x3ZHNOM1Rja3VtdGlkSzRRdThES1F0M2hsYjQ1OFZjWWdNLUtncWJjOFhIYnh5a24wcnhKdC1hbjB4TTB4UVVvVEgzRl9rZ0tWUWwwNkVTeFZyS3AxWDh5NXRzRmVFajh2cUp0R28?oc=5",
-   "fecha": "2026-11-09T18:57+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "3bdda8385abb",
-   "titulo": "Calvin Hémery vs Lucas Poullain · Qualifiers · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Calvin Hémery vs Lucas Poullain · Qualifiers · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWC1qNzlvVWp5SGFxcEdleWpManlKbFI2dm9namZQYTRvSF9mMjNrckZnUTNLNHpyN2MyaGxUaFNPOWd2Sks0elZzRFp0M0VuaFZjbnVkdDRJd3liLVhxN1NkdlFjcVN3SXJXa2NBVElHTld4dnNjV210Q055QTRNN1oxa09YUjdmZ3FtcjZGWURUS1hhVzkyRElicw?oc=5",
-   "fecha": "2026-11-09T18:56+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "8a87e83f6033",
-   "titulo": "Max Houkes vs Tom Gentzsch · Round 1 · ATP Challenger Orleans - Tennis.com",
-   "resumen": "Max Houkes vs Tom Gentzsch · Round 1 · ATP Challenger Orleans Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDZseHVLNjFsSVFQNmFocHlXLUNtUURVUHpLVXBoaG1ObnFaeDd5U2ItcUo0a2NUdDhZUlh1ZE1Oci1pU05fMkp0ZTlQSXp4UkNBQmp4TUJDQVJwejJ1bWdqNnJTZmxHakxDSnUyWTBwZ1Rac19MbDNiRzcwYUdtWFp5UFNMakY3VHlrcjhtZzRpS2RuckhJR3NrTQ?oc=5",
-   "fecha": "2026-11-09T18:56+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "839b9712868c",
-   "titulo": "Bruno Fernandez vs. Nicolas Kicker Villa Maria 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Bruno Fernandez vs. Nicolas Kicker Villa Maria 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wci1IeldrYzgyX251MmdKb1JScEFxVUFDQjlCWnQ0TmxPbWpGWGNZVVFZekR5RmhvN3p1cno5VjJFUUhjYko5U3liN3RQZUtvaWJydDN3T2lXMjEyMlNnOGNtZUNrNklwcHRJRmVDaHNzbkVKcnNGbEdn?oc=5",
-   "fecha": "2026-11-09T18:34+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "48e6e1b36f79",
-   "titulo": "Oriol Roca Batalla vs. Nicolas Kicker Villa Maria 2026 Quarterfinal | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Oriol Roca Batalla vs. Nicolas Kicker Villa Maria 2026 Quarterfinal | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BYnFiWG8wS3ZRZUd6U1dSNHIzWF96azkyUHk3WV80SEE3NEIzejBBcy1SUk1XWWtOcHZ2djBTSkJVbWdIWFRZOFR0WE1KMHc1c29lNGxIVENaZjZzS09MWGZoLVpuZXd5SjZxdXd2NV9fSWV5LXpEMU5n?oc=5",
-   "fecha": "2026-11-09T18:34+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "2f5174ceffe1",
-   "titulo": "El nuevo Carlos Alcaraz en indoor: las mejoras que le hacen más letal - Punto de Break",
-   "resumen": "El nuevo Carlos Alcaraz en indoor: las mejoras que le hacen más letal Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUG92aFRNUndVWjhUZXBrMFlWLXdwZTI2aE1HZjFITG1WbS1CVE9GOHNkVF8zbDZRUjdWRXJyYWJveUVmRTlnMUF1UUY4MVFBYjRTNWFfTVpxeUJDS1JpQktCNUJISEJlU29Qb3ExRWpLdjNId3pwTE9GZ0hWWU1tejRPRi1LX2h6OS1yR2RDWlFwdw?oc=5",
-   "fecha": "2026-11-09T18:07+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "bc2ebf63f198",
-   "titulo": "The new Carlos Alcaraz indoors: the improvements that make him more lethal - Punto de Break",
-   "resumen": "The new Carlos Alcaraz indoors: the improvements that make him more lethal Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFkaXladGxrR2tyU0RKVHJWNExLenUwTXFaRDRZYzVBMnBZeXpEVXJpd29YdWhEbHZTdmtSeUVmMzJtMTdWSTJ0ek90S1BhMjM5SFhTVmpRcld5dU9IUUR1UzI1T01mM2lGaVctZ0VLV2hsa3RKZncwMEhWdU5fR2ZoU3ZxcEtVSWZyT1NiYVpNczYtaVFtWjhIdVpYOVhWOGZNXzcwUkdJMjFCdk5zTVZPTlU3eWs?oc=5",
-   "fecha": "2026-11-09T18:07+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "1348d18a4a96",
-   "titulo": "Il nuovo Carlos Alcaraz in indoor: i miglioramenti che lo rendono più letale - Punto de Break",
-   "resumen": "Il nuovo Carlos Alcaraz in indoor: i miglioramenti che lo rendono più letale Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3pZNzZWdHFWaGp6QkVHQW9LdUFXR21STkNNTWRTZ1hJUHZJaHk3UnRtc09icjYyWWVwLXhjMUNnZTFYVkNObG9SVXRrdG5oNS1GejcxZXRodVkwSUo2YVhfRWlQU2R2aWpjbHFlRnJ5RUlWLW5RNW8zOXRkVXVpSzJLZlpGMGFpOGJpR1dwTzVvOVRoU2djTXpMcTVFd1ZGUXB5ck5lbUwtUlZOWGt5X04ySEh4UQ?oc=5",
-   "fecha": "2026-11-09T18:07+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "3e9fe49d1ab6",
-   "titulo": "Gabriel Debru VS Mae Malige | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Gabriel Debru VS Mae Malige | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUxXRUhWSHhIT2RORC1va21IYmYzd0d4QUUtUGpXdVdNV2dCemd0V09zNUtNUHFwaHItalE5RTUyazlnemZ2b2Ixd2JPaXZCYXJJLXJfTl9pVDlLZzUzQldoMTI2VF9lVElLZEhBTnRpYVBuNWw5ZXhuOWduSkotNU5zdzRRczZaMVNNRlg4aUV6NTA?oc=5",
-   "fecha": "2026-11-09T17:50+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "f21cc9578ecf",
-   "titulo": "Shelton firma un contrato millonario antes de comenzar la temporada 2027 - Punto de Break",
-   "resumen": "Shelton firma un contrato millonario antes de comenzar la temporada 2027 Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeURHWmk4dW5MS05nQkhnanVmM0xqekxRU3RHdVZrNTdDYnhMcGVtMV82ZEdwX0IySWN5XzlWTTJrZGRISmJqdlJvWkROUDh5a2xlWWNlWlpUa0otZGFyOHpMSURwVDlnb2Y5ZUpJcmZTV2FGblpEOUo3bFVBOTc0QnRqWDdmbzdRUW5SNUZZc2UzYmN5VjhWNzRWOUZhUQ?oc=5",
-   "fecha": "2026-11-09T17:30+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "6ab71f83a540",
-   "titulo": "Continúa la lucha entre Sinner y su rodilla: aún tiene molestias - Punto de Break",
-   "resumen": "Continúa la lucha entre Sinner y su rodilla: aún tiene molestias Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVp2UGJ5M2pfNXhqZHBzYlhXLXhaTy0yRlpReURVRGtOZ3VDM01pd1JraWNSX2JONUxNUmRCbF9SdVdHRW5wUXNUOVBrYlcxM2x6TFVIZ0ZIRktjT29hd1dqcHcxZXgwYk1yT1RTYzZiLWM4WThYaDBadkRDQTZrcjh3bUVyQQ?oc=5",
-   "fecha": "2026-11-09T17:07+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "5cc5684bc186",
-   "titulo": "The struggle between Sinner and his knee continues: he still experiences discomfort - Punto de Break",
-   "resumen": "The struggle between Sinner and his knee continues: he still experiences discomfort Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT21vSDBTaU9xOUplTGFkR3FsZ0hBZEp3OUdwdnhFWjE4Z0lBN3ZlUkJyNjFWNkJ0b3ZraXJtUUFwVXh3d2VnZGVTb0Uyc05idDNGZW53b1dyb2kwUzNwTk1Oc2lHbnRmcEFyUkpDbW5tbm12Y2x2bTJLU05YcXNJa09iMkRCNjRBa2ZUNmJKOW1XN2VXUlhUcmNydlFsUmpSQU45VThHUXRfZFBzT1JwY1luMC01LVYwd0Z4ZTB6SzdHUlk?oc=5",
-   "fecha": "2026-11-09T17:07+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "a2f2f1210602",
-   "titulo": "Maxime Janvier VS Semen Pankin | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Maxime Janvier VS Semen Pankin | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmhlZE1TQUdWSjVlcjB0TXNmSkRoU3E3eElxYUw0Ukk5R1dnSnF5QmNhRGpjSHh6QVVtTFByVkFvOE1QblI4NUh1SHNQUUZmRTA4QmRObFljUzE3R2RsRU5wUDVDVzZrd05fQlZZZklEcmo0OWhyMDZiNWFJay1BUUw1WWpGM0t3Y3RONXRJZWJOT0NCcWc?oc=5",
-   "fecha": "2026-11-09T17:06+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "edbf3f386f2b",
-   "titulo": "H2H - ATP Tour - ATP Tour",
-   "resumen": "H2H - ATP Tour ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2JNc0tTTlMwaG9NOXdpeVNfM2p4TGROSGt4Zmt2b2Q0LXdTak0zRUMxZW9KRHR2VkI0VUlDVUROZjQ4RlNKYkhCUE9CTFZHMnFJNlRLZWtkcFRLMTFsNWVzcktzQmdpWjJ2ZkhRYTFSUVBZRHh2V193emt1aTNMMEU2RXhJYmxYdmJzeTN5RjBhMVBjQUlNaHNwM1BuVDBtT3hKSUt6VUN1SVRwU0FPTg?oc=5",
-   "fecha": "2026-11-09T16:57+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "5523b98bc65a",
-   "titulo": "Tomas Martin Etcheverry vs. Max Dahlin Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Tomas Martin Etcheverry vs. Max Dahlin Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HZXJSVTd0UEQ0Yy1CTm16aUNjZGVvMVp6LW94YnJvcXBuOEFFeGZWS0xKQ3NSb016bEJrNTJ6Y2kzd21iSkx3OW52SXJSM1duV2hGaVVFN2xvUHg1ZnFKd0tjc0FpLTA1SjZtVldoRHdzWjh6?oc=5",
-   "fecha": "2026-11-09T16:56+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "97df43f678f8",
-   "titulo": "Rune reflects on 'scary' injury as he embraces Stockholm return - ATP Tour",
-   "resumen": "Rune reflects on 'scary' injury as he embraces Stockholm return ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84aVM4aFVWUzR2WWxIeFhTaDRmbnFFelJzUU96NjVFQVlvd2dqU1hhOVdfNUJWMGlQOURXbVloWGo5eHMyMmpMNExuRXJWUU1XZjlGNm9uV0JUYlpTZGlJVk4zUVBxdlZXeUY1QmNzREN6QkdDTGc?oc=5",
-   "fecha": "2026-11-09T16:54+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "8955a144cb74",
-   "titulo": "¿Pudo Ferrero ser el nuevo entrenador de Rafa Jódar? - Punto de Break",
-   "resumen": "¿Pudo Ferrero ser el nuevo entrenador de Rafa Jódar? Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUEpvNFc1UGFJMGJLa3czemZRT1l1am0zaUxnZ2JjTUN4aHFkejlNNzlRNG5EMXlWZmhoUWJnVmV4b0VaRG1uaEc5X1hILW5GQ2dtMUNxczJqQzdWVE9pTDV5NDVWLUg5YmNoYmkxekM5cFhDOHNYeHU0MU5KSWpLTlQ0TXhaM3c?oc=5",
-   "fecha": "2026-11-09T16:27+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "384e77eaad2b",
-   "titulo": "Highlights: Humbert kick-starts title bid in Stockholm 2026 - ATP Tour",
-   "resumen": "Highlights: Humbert kick-starts title bid in Stockholm 2026 ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXVWRmlaSjUyVlQyQWVOQXdPWTJ0RVNGUW9NSVYwUzByaHBPVU1nU29FVGVwU3YteWJtUVZjVElORE5BYVhlZjFZcGdabUJxcGQwcVp5eDdTVHQ5T3JMOVg2RVdhOUJkdV8zOHZMeTZFaG1NRk9jV3picTRUa2p1ZnU5SHZCbXFWTms3SWxuOGkzem9HZGc?oc=5",
-   "fecha": "2026-11-09T16:19+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "0efcb9879f85",
-   "titulo": "Lorenzo Sonego vs Quentin Halys · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Lorenzo Sonego vs Quentin Halys · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVl9SV3dpT3RTcmI4aUZqMDF4dUhUSkk2Uko0cTF4bkN5SmNtbGR0R0hmLVlwSHBvYlhNSkEzdEFkZnhKTGptU3VzY3BoaXRPVHZWajJWTi1scy01VkR1aE4ybTVWd0JiWHpjekNwQmYwVmVSc25uUWk1NHR4c3pkX3dCMHBSajc1TlBmVERHaWRLQQ?oc=5",
-   "fecha": "2026-11-09T16:11+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "ba7a71061b41",
-   "titulo": "TBD vs Thiago Agustín Tirante · Round 2 · ATP Stockholm - Tennis.com",
-   "resumen": "TBD vs Thiago Agustín Tirante · Round 2 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVhZSlVZMDdXandoOC1mOTNhSU9wS3I3RGhSNnFGaTBhbEVtTk5JU2t3S1k4TV8wM3ZwMFNCUEJHRUQzM0piZ0s0cC1XX1RDUTZtYW9ZYjMtTkpsd1RkNW1VaEFGUlNPRmJyTEZtM0Vaa3hYVXV6X0tmWFp5OXBwMW9sQ2hyS2JmTkVoNF9pNWZRUQ?oc=5",
-   "fecha": "2026-11-09T16:11+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "f3c560bfd81e",
-   "titulo": "Pedro Vives Marcos VS Yannik Kelm | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Pedro Vives Marcos VS Yannik Kelm | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEhpbmRlSktyWjBSYVBBTDVCbFA5WVFFRC04NEFwdGx5a3VRbVVac2hOaDkxQVVJS1I3REMxOUJkLUdKcl91bHUwTlc1WlRHTE1JSHNsbTlZWlQwNUpna3lLUGJsWTR4ZWxXalVMSmZYZEdPaXBCUnZ4dXFzYUJDSkdwX082V1JidS1MbE02UVZ3Vi1aU2t1OTFB?oc=5",
-   "fecha": "2026-11-09T16:08+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "5edb5b717a8d",
-   "titulo": "Sanchez Jover, Carlos - De La Fuente, Santiago - ATP Tour",
-   "resumen": "Sanchez Jover, Carlos - De La Fuente, Santiago ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSXIwSW0zTS0xUzlBWHdUVmlqZkhpMjg3QXF5UjJBVnR6TEhQQ3ZsYW1GcnVqckRjLW8tNklsSjJvTktvczBaVUdkRktpN3JEZXptMVFDb082T2FfWnptbzMzTm9WV3NYY3cxWEJwYnJ6VlVZZmVJNVdSeXdocGFtN3Bqb3k1SUtlakFFa2REazhGVDJlbHgxMXRZMFU3emo2U1dWQmJ4dng3amFtV1dhRlhyUzBtSkpmdFUtWjVSUmpOdFdSZzRzNW5nVm41T3VpS3UyLXZBczlhazRyTHNSYmxncDFyTEVtSTBBNWszamY3OTNsS0lUYmNYaUJWazg?oc=5",
-   "fecha": "2026-11-09T15:57+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "7b9ade9086c1",
-   "titulo": "Remy Bertola VS Lorenzo Carboni | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Remy Bertola VS Lorenzo Carboni | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2xsT05SNmg4aTFZV3VSalRmSXdyOXRMN0hjS3RLQURMRE1oUzdMVHp2dFZvcTlueGloOXQ2MkpFMHN0X2hrdTd4by0zZ2lCX3R5NHVqd0dpamdyYk1oazBubWthNzBSeGNqbEVyVU02Vl9QQ3RoTTJKUkhqZmdKY3pBZmg4NFRQaGNQOTJkUGxhSDVuR0piQkM3MA?oc=5",
-   "fecha": "2026-11-09T15:46+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "6b0e94b4989f",
-   "titulo": "Daniel Milavsky VS Kenta Miyoshi | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Daniel Milavsky VS Kenta Miyoshi | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXVpVXpZYWd2SFNKOFFpQTA3WnFtcjlTUmZtM0NVVWZpS29fd1V5WDJWblFJUjB6b3c4eU1YMkdJNk9WM2dhLS1NX2JmM1NsT2tXT3M2ZF94MDJqZU5SNk1pUWFkZVFhMGhlU0dyZHNnV2pDQjVxZ2Z2NUVKYVRyVFliT2pJbm1yWndqdU9pV0c3SENkVWt2WEJyQmN3QQ?oc=5",
-   "fecha": "2026-11-09T15:42+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "713a807d4a30",
-   "titulo": "Borna Gojo VS Ugo Humbert | Head 2 Head | H2H | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Borna Gojo VS Ugo Humbert | Head 2 Head | H2H | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTdGVkthc0ZvNUF6NU5HQWc1eHNlUzRrS1NJWGF6S1p3dEFFMXE4UFViUkVOVWI3Y0JQOEFTZVd1b21mNlVNcGV1dDEyb2V5Nl8yOTBNTmc1NFNhRzNHcTY0MFRxcDdveDNZbVlmZVhOcEYwSE4wN1UwLWpNX3VRRjRxRUxmZ3ppTEg2MmV1SWhOUFE?oc=5",
-   "fecha": "2026-11-09T15:42+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "648161cd103f",
-   "titulo": "Ferrero habla por primera vez de Shelton y Alcaraz: \"Ayudé a Ben en París y fue algo extraño\" - Punto de Break",
-   "resumen": "Ferrero habla por primera vez de Shelton y Alcaraz: \"Ayudé a Ben en París y fue algo extraño\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0tTeGptMkt0dm1yT3JGT3ZoNFpVZkNPZUN5Q3dwSlZCWXVpaXpsQlRxVTVJcmJZMmNfS3M4X1RXSHRmSTBvNE4xYUZiT0pBYkhVNVBqcEw3a3UzVVh3dHc1SDRuQzZ1MTlCMjh0UjI1Yzd5ZHB0aWZ2UWJHZ0QxajNKWlN5aVFvX2tqM1Ayd1JSUnEyUnNkU3ZtUTNMOUVhUWh4aDZwOGo?oc=5",
-   "fecha": "2026-11-09T15:31+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "432ab861ece1",
-   "titulo": "Ferrero speaks for the first time about Shelton and Alcaraz: \"I helped Ben in Paris and it was something strange\" - Punto de Break",
-   "resumen": "Ferrero speaks for the first time about Shelton and Alcaraz: \"I helped Ben in Paris and it was something strange\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHRld2FkSkhrZnVCWEkwYW5mbHpFT1FRTzM4OWdDdFMyUDM0X3NHbmtGRllhNzNWNnZjcTEyOW9Vd2RUVjR0Q0dFb19FbEVldU5meFJ4VlMzMkhSQkZOMmpfQUZrMkdXV0tuSXZkdXZta1R6aWg4RW4zaFpfX3ZaeHdkMVc1Z3UxZEhpc3kyQmNCWVNHRHVEZFZTbXlNSlltX1lwNE4wMVlUcHVYN1BVT0pET09XT0o2bXduaFE1ajkyVTU2T3cyWVkycw?oc=5",
-   "fecha": "2026-11-09T15:31+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "bc5e5c75c88b",
-   "titulo": "\"Alcaraz destruirá todos nuestros récords\" - Punto de Break",
-   "resumen": "\"Alcaraz destruirá todos nuestros récords\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zcVRkUVJGRDhkcmFjQnltc1QzTEZucTdCa0xHMnFzdlp6Ri15VHJIanFfLXpRX0hldjBvS1NUVU15UGU1Q2s3dVRmbEt4alFMLVdMMnFNTnRUYy1BWUlsbTB6bmNTcUZYdEhLWF9VNU9nU1E?oc=5",
-   "fecha": "2026-11-09T14:40+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "df686eaa81f8",
-   "titulo": "\"Alcaraz will break all our records\" - Punto de Break",
-   "resumen": "\"Alcaraz will break all our records\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFNoWmtvR1ZqSHBHVjZHX2lmUFlsWW9FdWNGczFZRk0wSE56aEhaSlhxekxxREZwdEhUQmlSREZOdlF3Q09CcTlVdDEtZHc1RlFhWXNhd252WDhYellCS2dtZUotNkVYMW5SVC1uWDNxMEd4anRkM3VIVzNGUlpwMGhOaw?oc=5",
-   "fecha": "2026-11-09T14:40+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "485e6dd8c2e7",
-   "titulo": "\"Alcaraz détruira tous nos records\" - Punto de Break",
-   "resumen": "\"Alcaraz détruira tous nos records\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zME03M2NZWC10WS00ejRqY2UxS0FaaTRVTV9DYmRGZ1o3VkFHNklZYlpGTGlIc1dIdW85Nk1JNXhCWVNsMHBRYTRXSnotblZoYjNQbUJJeWNnNEk3YXFVZ3RhVkF6dE5hVGZzOXNUZTNIaUtXeTVFM0RlaEs?oc=5",
-   "fecha": "2026-11-09T14:40+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "5756cfbb092d",
-   "titulo": "\"Alcaraz distruggerà tutti i nostri record\" - Punto de Break",
-   "resumen": "\"Alcaraz distruggerà tutti i nostri record\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0Z1ckwtcWJJRUZGdHV1cVc3XzRqZ1hPcVdCRGhzSDB6UmVTUEswY3B3ZnV0MGtwaHpQM2VZY1c1bFNGX0xUTW1ic1BoSWc0MGxmMS0zV1BvOU56clZtQnQ3cHpxWlEwVlJxS3B0elVWQjZZV2VYS1pIemdRcDJlMDc3bXRHUHNuS1Z5Vw?oc=5",
-   "fecha": "2026-11-09T14:40+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "277a847cf4bc",
-   "titulo": "Ruud explica qué papel tendrá Ferrer dentro de su equipo - Punto de Break",
-   "resumen": "Ruud explica qué papel tendrá Ferrer dentro de su equipo Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnl2b0R4TDhFYlRPYzFLS2d2S3dWamwwMEo5OHhEM2hFZ09nYW1ENnFYRlFMVk11bUpNMmZLYl9CeDVtZ1ZoOGIzUml2LUZOdEJQX251dGh2RzNIVWFiTlo3Z1BjLXhzUFI5Q01EbVQwRU5PaUtXY0haYXBHNl9GQ3NURnpldw?oc=5",
-   "fecha": "2026-11-09T14:21+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "bfc7a06bb7a2",
-   "titulo": "Liu defeats Eala to win first WTA Tour title in Hong Kong - WTA Tennis",
-   "resumen": "Liu defeats Eala to win first WTA Tour title in Hong Kong WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2FVVENtek5vWmVDMHhmVTA5ZWJ1LWdXTmFfY09XeXowSE5ndUFiRjM1R3BnYmFXQUJSd014d05BTTBHLVNwaC1NNnhUbkxHUldINnMyMno4U0JDWmFaS0lHLVVuMEY0bDQ5Tk1GNkwzVmxMMFV0MWsxeTlCdDV4c0JiV2E0QkpGcDc5U0R5SFk1VGhFNmdpUEVqeGxINkNPUFE?oc=5",
-   "fecha": "2026-11-09T14:20+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "ecda2bc0fa81",
-   "titulo": "Arthur Rinderknech vs Miomir Kecmanović · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Arthur Rinderknech vs Miomir Kecmanović · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0lXQVl0a0RkSGpPQy16S1dFbGM1MWFiZ0syRGp2T3FzekstZFpKbEVEWUEtbEJ3OWgzcGc2UHAxb1BtTVBUQVdhXy1sQ1FRbGY1VEkwamxIbVhKRDNqRENWd0N3NG0yT2ZsWElLOTg4cGZrbkdIZl9TOU8yWnRsb08wRUczelhPVTI2STFHOGtpQ2NHMTVfbkVVUENQS0k?oc=5",
-   "fecha": "2026-11-09T14:19+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "0bf4ab3a7f44",
-   "titulo": "Jódar y Raducanu compartirán cita en 2027 - Punto de Break",
-   "resumen": "Jódar y Raducanu compartirán cita en 2027 Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2RRVUlzbVlTZWdxVkJCNHg5bW81X3BKU2phdExwTmxUYnIxdHNvUDJVRVJIdzZpaEs1NFMtVDNrLVNhNkZKZFJmZVY3bmVSUFl0R2RORVMzQ3hOeVNDeUN0VmxyWF9sZGcyVVBJUGNPcEpvOTJKN2VHOTY0MkZabXRB?oc=5",
-   "fecha": "2026-11-09T14:13+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "e903705aadcc",
-   "titulo": "Rojer / Winegar vs Rejchtman Vinciguerra / Wallin · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Rojer / Winegar vs Rejchtman Vinciguerra / Wallin · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX0w0MldBR1dQcTRWVXJ5ODJVaGtrR2Y1X3BRS3NNV3Z1dXFCLVRWRll6RHRPTW1Jc2pORk8wWnkxY3pVQklERy0tTkVPZ0dZcmJKT3RNTUkxT2lyRlNQN2VFenhFY2JqcHVVZ0xkal9WZmJFeEZHUkRVY3J2dXNWNXRtcWZ6RlJDV1JMTU1mdnprOWd4amtmSW9oVzFHSmxrSENiTWVnc3ZSOHR0S25Hc3pfUTR3b1dXeFBHU3A4amRldw?oc=5",
-   "fecha": "2026-11-09T14:12+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "58f98a4d8e31",
-   "titulo": "Highlights: Norrie sets Fritz clash in Stockholm - ATP Tour",
-   "resumen": "Highlights: Norrie sets Fritz clash in Stockholm ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHlfWXQtMzN4ZG1wTmpGMUllNG1RZzkwc2M0cUxGNDVxTkJDVUxPZXliSWhvbjJXRGRveFpwN0VKNTVCRWhIbWlNMzUya3c3NXNZby1KMDU0Y0tXSV9LMTVVVDd0QjdDVlFrQmpLbGtBcU9jTXN2ajFLM3FrRWlDbVRnbGxPTGJTeVFIbm5fdHg1TVdnbnFTRnlHb19hdzNqQXAyUnUxaVFEUQ?oc=5",
-   "fecha": "2026-11-09T14:04+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "fed92272aaf7",
-   "titulo": "Adrian Mannarino vs Aleksandr Shevchenko · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Adrian Mannarino vs Aleksandr Shevchenko · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlpMR0FHQ1hkM3VjY3RvdGRRenAwOEdBWFFlR1IwdjRaeHBpNmlaZTVPZ2xvaWIyNi02TUtDNk8yYUV5UU9odFNZSTBQblQzWkFtNWFmNmdqUExPZnl5dHhsVEVmakJhUkNnOThmZHhZX25QUjVhZTRwMU5PeGJvaFJIMjI0ZmtCREV5dkYwT05SdzRST2tlckpYaEk?oc=5",
-   "fecha": "2026-11-09T13:50+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "1d8a1200be01",
-   "titulo": "Alex Michelsen vs Juan Manuel Cerúndolo · Round 2 · ATP Stockholm - Tennis.com",
-   "resumen": "Alex Michelsen vs Juan Manuel Cerúndolo · Round 2 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkd1MDRTRzNELUxnRGJnMkc0NHBCV0xKWFk0emljVjJkZDN2UTZ4ZW5HcFBpYkVfN0RMRDdhQWVpbnluTnVpMzR4LUNEM0FKNXlPTWpIeW5pTzRvTFJyM0tycXhULUJUTWV6bEpYNzFVTUQwelJTcjhVRmVNbFh1UGJ5bEZxdG54eXh3WmdqUmdqTGhYd3RWUnFiZw?oc=5",
-   "fecha": "2026-11-09T13:49+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "f0aa0c857456",
-   "titulo": "Siniaková / Townsend vs Perez / Schuurs · Round Robin · WTA Finals - Tennis.com",
-   "resumen": "Siniaková / Townsend vs Perez / Schuurs · Round Robin · WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX25BS3FVaEJQVk82bVdHaEk3NTY0RThlS20zRTdFei1kSEdOS0pCZ3AyS21HTlBlOU5Md0FCSXItdkdJWFJoZm51T2ExOVlOMDY4WHNnbTNXbW9WVG1tZkRZeTJpa2E0VGVUMEZjZ2VEOXEwNWZoMVNUUVBHVTEtWHNSXzg1X2tZX283RE1HajFhRGtkdWc3aGVkQVp5RF9PN0t3LUNGZTlBTVRq?oc=5",
-   "fecha": "2026-11-09T13:49+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "ae0b7e646bf9",
-   "titulo": "Coco Gauff vs Linda Nosková · Round Robin · WTA Finals - Tennis.com",
-   "resumen": "Coco Gauff vs Linda Nosková · Round Robin · WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmZYN2YwenF3bmI3bTM4cU9SOFZGX1RfZUdQc21BaEFEV21WUjZCRDZUaS01ak82c3ZoVmxWdEVCOVlQS2t4dmo3Zy1YaUpQT3ZWWjBFNThFQ0xWSmhuN0d2V1FNTkxCZkxLQzFNc0ROVHluOVZ0SHhyLURia0d5c3hoQXpJTEh0ZHcxdW5R?oc=5",
-   "fecha": "2026-11-09T13:49+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "3402d41ab400",
-   "titulo": "Galloway / Göransson vs Polmans / Zieliński · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Galloway / Göransson vs Polmans / Zieliński · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejdLam1XNFlVQ3VWcFpCOUNfZnZRSUE4eUZJaTZ5LVltNXVLUGdGLWFpM3FfZlZZZ0MwbGZ3MDBhb3ZSbThERkVKSWxvWDV2VFJ6cGhFZm9LOXl4dXlhRjgtbUNMaTVrcXdreWVxb0MwQnlreF81andGanB6T2wwZWtwZFNTeFdOSWxCWXNGaHFSSTJkbFlWcWNlWE1IX1k3NW9RcFhlcDFhcUZSNHNwWG9qUUdYSkE?oc=5",
-   "fecha": "2026-11-09T13:48+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "628993a0c04d",
-   "titulo": "Bucșa / Melichar-Martinez vs Errani / Paolini · Round Robin · WTA Finals - Tennis.com",
-   "resumen": "Bucșa / Melichar-Martinez vs Errani / Paolini · Round Robin · WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkZCb3ZKOXYzb3BuSFBiZ2ZMeHQ0LWhQYm9lQzFwMzJxNTZhdVVNUmFOdGE1bUEzV2lSclMyZW1FYTZ2RlNYdVl1eExneHNHREFrTTRsSzZUcm1QRE9ZbnJ0MUhZeUc4NG9zYzM2SWZyZVJfTjdlU0U4UXFTczBaS2YyNU1qbkNuT3o0SnAxS2R1a0xvSlJ5NTZsRkptZEpXUHduZGNxUzhxa29pVldMS3Jfc2s?oc=5",
-   "fecha": "2026-11-09T13:47+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "1c13d048a283",
-   "titulo": "Holger Rune vs Zizou Bergs · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Holger Rune vs Zizou Bergs · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVRaRGtkMzlnQzZJTFZDNlJQVWkteHptMk9QejZyQjhsOEVvbnRlMFBhUHFoVV9vQTY2YXFZYUN2MXVoeEFNMFdsNFNHeU4wNFZld2Z4aFlIUHQtZ3Q3U2l0c1dDV0pRcTlNd2JYNkNQMGMwVjZxazAzeVZxQmc5Q2NWNjdsQTJiZ0Jwc1poYw?oc=5",
-   "fecha": "2026-11-09T13:47+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "ebe2979e1657",
-   "titulo": "Mektić / Roger-Vasselin vs Cash / Erler · Round 1 · ATP Stockholm - Tennis.com",
-   "resumen": "Mektić / Roger-Vasselin vs Cash / Erler · Round 1 · ATP Stockholm Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2VpNHRFZm1xOHRCaGZ0RWozbUhvUzlYNmFLU3RyWG44LWxsMWZ0NXA4UG9UbHQ5LXRZbVpxQXIzOEdsQW1LU2hwQVk1bnZvVmN5MGQ3VTBSNTZIYjVHVFJpVVVad3QyVl9rUE12ekgyT3lkWU5OMVZBZFJXcE53RmI0YXMyOERuUGlfbGJuZlQtZmZRc00wa2JsUy03VWktWHlWNXc5U3pFTW4zNWJudGJR?oc=5",
-   "fecha": "2026-11-09T13:46+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "a2cb1c7e8550",
-   "titulo": "Marta Kostyuk vs Jessica Pegula · Round Robin · WTA Finals - Tennis.com",
-   "resumen": "Marta Kostyuk vs Jessica Pegula · Round Robin · WTA Finals Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWFKMTNfbGJSY3VwVGlCTVpNV2dFSGp1VU1kZ25GZlcxZlQ4VWY4ZUpHSjNJbC05b3k1Z0I0TmZjZExQWE1YQjhaaEN4REMwbGkwS09LZFdjdlZJel9hd3hueHlDQkpnaDhGdm4xNUh1UEVqckZXQjF5dlVDN3M4N000eGYyUTFiNFFvNzl6RQ?oc=5",
-   "fecha": "2026-11-09T13:45+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "6a29f0bd929f",
-   "titulo": "Kouame, Moise - Forejtek, Jonas, Centre Court - ATP Tour",
-   "resumen": "Kouame, Moise - Forejtek, Jonas, Centre Court ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmc3TDlsa2xkaWNVYU9ZdFp5NEtwQ2pnVXRnNi00d2N5Y2FaZEhKa2NnRW5UZ3QwOTJSbXVXNHowR01RRmhjRlE0cWtTcWNjdkNNLWJsUjdvWDhKY2FnaU1XZXFjd0VtUHdKNHVybF9PRGQ5ckxaMWJEbFVSV1p3LUpBdEl5cE12TnpvVmZGNlRIbWkzN2IyZnNUSEZYOHpSQlU5NHh4N2hDR00?oc=5",
-   "fecha": "2026-11-09T13:39+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "758cdaaefa22",
-   "titulo": "Adolfo Daniel Vallejo vs. Ugo Humbert Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Adolfo Daniel Vallejo vs. Ugo Humbert Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03RFFkcjNpQTJUbmZiNUlLRWZ5RWMyS3J5QVljVVRoX2JqTzliUEpBcmJfT1liamFOMTlFa0ZEOW1OQ1RLVWJUeUdhMGktN01RNHMzRUhLWGtsVmQ0MEtjbk5lcXRGZzFSZnhZb04xSGtubjJy?oc=5",
-   "fecha": "2026-11-09T13:18+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "e058725487ce",
-   "titulo": "UTR PTT Carvoeiro Men 08 - Tennis.com",
-   "resumen": "UTR PTT Carvoeiro Men 08 Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85UGtMVnRaZENpUTZhTWdXLW8xREpFQVdRNnU2bDFObTNZZzI1QXg0ckFnTU02b3pnbjJKNVZRQmV0WXd6X1FTOVhqQWF1V1NyN2hadUZLU3hxUGtDRnVPUzJyd2lvV0JJZm83Q3RR?oc=5",
-   "fecha": "2026-11-09T13:16+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "d68110066de4",
-   "titulo": "\"Djokovic necesita que Alcaraz y Sinner se lesionen\" - Punto de Break",
-   "resumen": "\"Djokovic necesita que Alcaraz y Sinner se lesionen\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWprNlJYbWl2UnJoM0VnNHhUNGFGMG1uZ2s2LWI5RWM0TkJ2SGNybk5TcXhnbHF1bFEtdUVWNDNMMFRSbnFWNkp3ZW9MREtoRUVEZExLUkRPZjlMRXZSRlZTSEVkTDY3U0RtaEFtM3hSelRoT1FvcGIybFZqcnRyOTRlb1JVanNz?oc=5",
-   "fecha": "2026-11-09T13:15+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "a2633a4dc91a",
-   "titulo": "\"Djokovic needs Alcaraz and Sinner to get injured\" - Punto de Break",
-   "resumen": "\"Djokovic needs Alcaraz and Sinner to get injured\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjZGRUhjZlN0M0hPZ09abWtuaU5lRUZVN0hxZTlRVGFZV3lMb2hTallKNUozSkZndU9rU2Y2OGFTUnZiSFZHbFFkaS1oMEhJNHFZUnpYcVpEcGpCVzByUXB6bEtMaWYyaGhUWG42QU1pUFloMHJOQi1Jb0Zmd2hlS1R5eUxuM1VTallsMFloUHlqLTlLVkE?oc=5",
-   "fecha": "2026-11-09T13:15+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "6bf15de0743e",
-   "titulo": "\"Djokovic ha bisogno che Alcaraz e Sinner si infortunino\" - Punto de Break",
-   "resumen": "\"Djokovic ha bisogno che Alcaraz e Sinner si infortunino\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0cwUjVGRFYtTE53RVNqb3B6TGZUWThwdV9fSnZyUHNnazRtYnRQV0VtMS1HZGx1dDBjb1YxWGttdXREcGJsRmFKZTJDYlppVTdrRnhPTDFQeV9abXdUSFljRzNSSngzSWpwekN3WnlJM2RKU1BsbDl2U0cwQmJIQkpVQzdhTHNBSUhnbEJCZk9NOVZO?oc=5",
-   "fecha": "2026-11-09T13:15+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "37c1e46ff331",
-   "titulo": "\"Djokovic a besoin qu'Alcaraz et Sinner se blessent\" - Punto de Break",
-   "resumen": "\"Djokovic a besoin qu'Alcaraz et Sinner se blessent\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUVVZnVYdjU5TmNfNldTaDVCSDhNbzd5SGtrU2R1Vm1UenhLNU1xR0hyX252U0JncmlvREdTa3dfY3Bpc0NHSy1PLUp1ZW1LNEJVTHpibnQwTU4zd2UxWUtpMUIteFA0b2ZUVk1hSWIwdnpXeV9rS212WW9BMzk5NEoyZlZyLWUtV0dGanZXM3Q?oc=5",
-   "fecha": "2026-11-09T13:15+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "27ac722e7bc1",
-   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
-   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNYk1WbnZmZkx0UXpvS3dvcDZiZFFnRXoyV0gwU1lMVTRadWNnTS1JMmxsM2pxZ2JUbEhPcUwyejhQNnF2dWVVOEs0RjVtNHdfU2ZIaV9CbnJPb3VCMUNPOHBJZDdDVDhJX0Y4M2l5SGk2QUNkZEJneA?oc=5",
-   "fecha": "2026-11-09T13:14+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "a9b7923caf35",
-   "titulo": "Champions Reel: How Magda Linette won Chennai 2026 - WTA Tennis",
-   "resumen": "Champions Reel: How Magda Linette won Chennai 2026 WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEVWUkJjTW44TXEydjk0dUJfbV9IX0F4eHMxMV81MWRjcmQ1aENmMkdiZ01LZHhmNGpVaG4tWFBNM2VGQzBZdWhLSGs5em1ENTAxQUZvUWpXT2JzSlktZHlaZ3REQkV2eU8wSFdHejBDZnBoOURyVTY5UHpqNWpGaWNHb1JVT2RJem5GeWc1bnFLMGZyN3c?oc=5",
-   "fecha": "2026-11-09T13:13+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "d0ee77747164",
-   "titulo": "Women's Tennis Association - Official Website - WTA Tennis",
-   "resumen": "Women's Tennis Association - Official Website WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55VkZhYVctZUlKeUhxb21GaTZ2d3dsbmN0eWJMaENtNURzS0JQb081ZXEzU2xXQ3pScS1heWY2alFHQ1JZeFpvekFaYlJENlRMdzJvRllsM0JPWjdxRFNoS045WDYyZXN4NHZtZS1tZmFVSHhYVV9YRQ?oc=5",
-   "fecha": "2026-11-09T13:11+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "2cc3c1f37dfc",
-   "titulo": "James Duckworth vs. Cameron Norrie Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "James Duckworth vs. Cameron Norrie Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSjFZb1BFM1BNbmxXYXVtb3lNMy1sNU1jQ2xpOE5RRmx2SlVOM2pRTEF1SjFWcmtGNF9PT0hHRnFZX2dreVoyQ29LWlN1X01WelNaSm5GOTdsRU5oQjBydGJlVDZtX1U3TDVGRlRKSDNyZzZ1?oc=5",
-   "fecha": "2026-11-09T12:54+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "da841c30d4b6",
-   "titulo": "Kumstat back on track; Schwaerzler, Budkov Kjaer battle for Next Gen ATP Finals spots - ATP Tour",
-   "resumen": "Kumstat back on track; Schwaerzler, Budkov Kjaer battle for Next Gen ATP Finals spots ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNay1rSTlaX0FpNTlhcHhPbWRrMW1vVkpXWDRHVXlHNzZLUW16LTlzOGRjX00wYTFMUGd0dW5JbHNybWJHNFB6bWUzNG9rXzBpR0swWlExRHJxWmd4OEN5UmMzbktoemdpWnJNTEllZTZJbTIyWmZFVEZSVEZrVU14VjZn?oc=5",
-   "fecha": "2026-11-09T12:49+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "a0b2e45db4de",
-   "titulo": "Alex Michelsen vs. Yannick Hanfmann Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis - ATP Tour",
-   "resumen": "Alex Michelsen vs. Yannick Hanfmann Stockholm 2026 Round of 32 | Stats Centre | ATP Tour | Tennis ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HS255NXhOblAzOFZPR3ZaRUFob3dyQnczNm5PZU1vX2lubms3U2lOc3hKbVI2VUN1dklvZWZmRE44Sk5VOXlleGp1YkFTYXFIQzFHbXFaWlpBd1lSQlhOekd1UGRlNW1TUDBia0lrcGNVLW1Z?oc=5",
-   "fecha": "2026-11-09T12:04+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "4e0c60c4a72c",
-   "titulo": "Nitto ATP Finals 2026: Draws, Dates, History & All You Need To Know - ATP Tour",
-   "resumen": "Nitto ATP Finals 2026: Draws, Dates, History & All You Need To Know ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmliU1JvRHlFTEJUSUFVZFpOcmd1dlNtM2VhTTFaNHcxSXE1N0REUDBaSFZTOXYyNTVjZ3JraXRNbDV3TWRMNzBuaDlFNEdDLVhvU3Q0bEdqU3FCLUxmMUwxbUNWVWh1QTZPckZtYVFIRFJnalF5Qm5lSl81ZlFsaA?oc=5",
-   "fecha": "2026-11-09T11:59+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "dffbb1fee204",
-   "titulo": "Dominant third set lifts Gauff past Pegula in FAGE WTA Finals opener - WTA Tennis",
-   "resumen": "Dominant third set lifts Gauff past Pegula in FAGE WTA Finals opener WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDlXTWdwdTBWdWFZSXRVeFNyODJRLTEwRTB2cUhuU2xqcThrRVU3T28tbE5PVlVCY2ZFRTA5aUpKYmdaYWFaRTNrQ2IwOEQ5ZUN4eml4OGxvbjBWVGJrNWZRQ3ZWR0VjUEtxdlVUZWUycHRTbnNiVHpEbEpkZ09haDlRUVBOSmcwOXZ0ZE4xbXNTcWRraS0wQlI5SE1tTEUxci1qUjh6Z0ZiRkk?oc=5",
-   "fecha": "2026-11-09T11:56+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "2f584ba50c2e",
-   "titulo": "Stefan Edberg pronostica una revolución en el tenis: \"El saque y volea volverá\" - Punto de Break",
-   "resumen": "Stefan Edberg pronostica una revolución en el tenis: \"El saque y volea volverá\" Punto de Break",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0F4Vkt0V2owbnRFT0MxRnJ0SWpEanhMb0hGeEpaQlJlUDNXX3hQX0Z0dFZkaUFkU0dvX2xlRmgtRHFBUlY0RjBTUVhaLXhPUUFhbFR5cm92TFdmQVpDY1V5akNXSG51X2x6Ymxza3FxZDJIWGJiQm5aaXYzTmFWak9pU1d1TzZpbjF0dmNHdGNTbTRJTmRpYmNRVFNfdk0yMHBN?oc=5",
-   "fecha": "2026-11-09T11:45+00:00",
-   "fuente": "Punto de Break"
-  },
-  {
-   "id": "c026481ddde3",
-   "titulo": "Baton Rouge Challenger Draw - Tennis.com",
-   "resumen": "Baton Rouge Challenger Draw Tennis.com",
-   "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rb0FkREdsSmktZENWQWk3NUlGZnBaaGFQYXIyWWRuUDhGQ2VtbW96anktYUNRbjRYRGZpS1JHTUlqZmxHZ1BYLXlRNEx5YV9iWjdjRkdmNEc4UG82aGhacUljLXhLRlJFY2dCeGtLX0JVaWc?oc=5",
-   "fecha": "2026-11-09T11:35+00:00",
-   "fuente": "Tennis.com"
-  },
-  {
-   "id": "bda0380a45bf",
-   "titulo": "Tiafoe among quartet of Nitto ATP Finals first-time qualifiers, Mover of Week - ATP Tour",
-   "resumen": "Tiafoe among quartet of Nitto ATP Finals first-time qualifiers, Mover of Week ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmdxcGsyU0VzSFJhZDZRS1BhbnFLd2d2T2tMQXYzMnoxS3hkSjJUTGtub00zMFFlTnJMNDJrbWRrZWloM05TckpJbG9yZGNRUnVCUXZVMkdaZFRiZ292RnpuUE1sdE80RFk0TW1LeUxhQy1IbmVnOWRXc3dJR1ZENmQ5dEV5d0pL?oc=5",
-   "fecha": "2026-11-09T11:32+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "ef3d4d3d1ff9",
-   "titulo": "Bybit Stockholm Open - ATP Tour",
-   "resumen": "Bybit Stockholm Open ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nM2dMZ0NLNk1fUF9ZbkFOMFpLbkRjYWpySzl6cXJhdG01ekdfNU9zTkFMbWZYdC1qZXBTck5mWVlZQ0hhUXNzN3Q3RDNzRlg3Y2o3dkZERFVKNE9TM0ZfN3IyOWhIMFhMdDdFdHhZTDBoNlVL?oc=5",
-   "fecha": "2026-11-09T11:20+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "594f6d88a9ce",
-   "titulo": "Finn Bass/Scott Duncan vs. Remy Bertola/Filippo Romano Mouilleron le Captif 2026 Round of 16 | Stats Centre - ATP Tour",
-   "resumen": "Finn Bass/Scott Duncan vs. Remy Bertola/Filippo Romano Mouilleron le Captif 2026 Round of 16 | Stats Centre ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Xd0l5QU54UV9FYWdUYmxnemEtMDVMcmlQSzhPcmlMVTBNMUZ2eVhRT0xnS1RtNEoySTl1Vi1rTXk1dmFsOVJjZFBQUTlvZDFoTWF0d3FhNE9RMGVBc0p0Y0d3TGxPekxPaTMzbXhnaFplQWpHZ1FLeDR3?oc=5",
-   "fecha": "2026-11-09T10:53+00:00",
-   "fuente": "ATP Tour"
-  },
-  {
-   "id": "43f5337cc846",
-   "titulo": "Linette dedicates Chennai title to victims of Kraków shooting - WTA Tennis",
-   "resumen": "Linette dedicates Chennai title to victims of Kraków shooting WTA Tennis",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWdWOWRJYWo3czlWS1hUMUZXV0NTdnJKZmRKcW5wVHE1d1BMMVBLN2lDS2RIRWh3NnlWbWtTdHJmUXI0NGpaZ01GY3lzcE40V1I5Tk0wZFpVMU1CdTk1MkhmUmtFcFZFQW1aa09VZDVOU3ZRM2Z0YjJHNUp3VVFQcVJsRnBrM3NvbkI1VFRQbHE3aTRTYjBfWVNtc3U2VHJiUkE?oc=5",
-   "fecha": "2026-11-09T10:07+00:00",
-   "fuente": "WTA"
-  },
-  {
-   "id": "13b74e481f95",
-   "titulo": "Bybit Stockholm Open - ATP Tour",
-   "resumen": "Bybit Stockholm Open ATP Tour",
-   "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QYk9xRTZnWndHX2lnQ1YtSHptMEt1UTBRZnNYd0s2SmRndE1zWms2STEzbk9rUEZ4MDBLR1l2M0doMTNiREJPZU9VaGxNZkxNRl81UUF3U2dVb1BLVVFTQTAtWmtsWnc1Rmk3bUY4V1lJdGpu?oc=5",
-   "fecha": "2026-11-09T09:55+00:00",
-   "fuente": "ATP Tour"
   }
  ]
 }
