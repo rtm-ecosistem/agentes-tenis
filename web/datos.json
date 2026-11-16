@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T13:01+00:00",
+ "actualizado": "2026-11-16T19:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -3136,7 +3136,7 @@
    "inicio": "2026-11-16T19:30+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-16T13:00+00:00",
+   "actualizado": "2026-11-16T19:00+00:00",
    "elo": 0.672,
    "elo_general": 0.632,
    "elo_en_superficie": 0.712,
@@ -3160,22 +3160,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Daniil Medvedev - Flavio Cobolli, en directo hoy: sigue el partido de ATP Finals, Ivan Lendl Group - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeDEzaTV3bTlJQmFyUkFIWGVRM0NrblV4X0FkMnIta0tmb3pVWExqaWk5cGx0bHJSZDM5cElrZ2hOelp1SVlXbVByR2c4X3ppakU2Sk5sNkd5TU95OVNyd0d6SUoxa3l2bW8yZXFxV1JOUDdDQjIyTzd4Z3BzSlMzVXNlLUFwQjdtNnItZC1hY1psNWlMazlYM1M5QWFSQnlzNEhLY19vN0VqVkVvWjZ4OE1Ra3V5eXhDdGpVTFIyVGxMUEN4LWZOWVJkc2RjM294UW5NQ21wZm5abmx4RlRfcHdXRGt5MEZNbnhyaDFJRXp3RUNPcTI1eVkwY1k?oc=5"
+      },
+      {
        "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-16",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
       },
       {
-       "titulo": "ATP Finals 2026: partidos de hoy y cómo están las posiciones en los grupos - Yahoo",
-       "fuente": "Yahoo",
+       "titulo": "Alcaraz se estrena en las Finales ATP con un sólido triunfo frente a Tiafoe - Diario de León",
+       "fuente": "Diario de León",
        "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1huNUFIRjV1TF81a0ItWXMwV3R1SWp5bW5WdzVFS1hwVzY0cm9WZVVwR0NBUDc0M0U5YnhhR0hzOWNQazNZTnNSbS1EMUN1WGJxeWxwSlJhWWZ4bXVUWXVCVEtFMmIyMGcwUndNQV8wMGxmR09acjVQa1BmVF9wTWxBVE9hSlNzTGRyZE5PVUxsbEY0d29Z?oc=5"
-      },
-      {
-       "titulo": "ATP Finals - Medvedev vs Cobolli: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkV1THRFSmZ2dzdGZm1WX1p5c1o1cVhzY2hJc1FmNlo2WmJ4WG0xTkx0ME9nV1dqcEp0VUYxTFlKMklsd3FfRVpVRmFsbTkxUTR1eDgxbnpHSTFMY2NEaEJGdUNOREFWX1NxcWlCRnZIMVh2cUhrYkdBdE5ZMnhLTEJrTmIzV1RhWkJPWnRvRk9vU2E4enp4bW56MWEwRlRLTzB5aUFidVlGNXFs?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2V4cFVvVHlKUU1Wc1pEc0VkaDNobGdhUzkzNldsVWdLM0ZwOWpURnVrcGF3RkFkY1dsdHFtZkQydFB0Qlh2VmRZWVRmNThBOXRHZ0czdkxfRG5BSmIwck5BQUwyc1g1MkMzRmIwLXlsRWpmWE5KS3QzeVBIUERka2YzNVM0WndtV3lfUHVKWW1kNnVmYThtb3QtczFaWTdQWkRxdDZ4ZU1NcW5XY2FhVFVJQdIBuAFBVV95cUxPa3BUckZodjFDSkxlU2xTWDdoaGZ0X0NzaEV2S25ZQkZUSGVzSm1OU292N2JYVUVxbVBZLTIzdXhzRGlIMUc0V0tRTllndFEtZnNWLUwtc0tEZk54a1hVSUkwR01WeGZqMXNxdndaR3lZV0hPbEVkYVY3V1ZvUHI2X3BPSV9vLXV4RDBGaTBsaUM5ZmlScGpoZEN3Ti1VYTNuX0oxcV9mbHNkVlRzTTRMSV80Rm4yVFd3?oc=5"
       }
      ]
     },
@@ -3194,22 +3194,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "¿Quién se lleva a casa las Golden Racquets? Cuatro debutantes, muchos premios - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanEya05jSUhZWnhDWHRId2xlWWVWdDE4MXMzemxJSzZVenhkZWpBcTYxMkFuZkdnMDRwUG82VHpCYUVZUUdQZGI2cHYtZFdUVEwxcjNJUlBVYlR5RXR1SmFra1dFMng1bElZS0xHc2tkTTEtSFVwNHBqei1NaDRudHJ0Z09aWGZyY0pv?oc=5"
+      },
+      {
+       "titulo": "Daniil Medvedev - Flavio Cobolli, en directo hoy: sigue el partido de ATP Finals, Ivan Lendl Group - Europa Press",
+       "fuente": "Europa Press",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeDEzaTV3bTlJQmFyUkFIWGVRM0NrblV4X0FkMnIta0tmb3pVWExqaWk5cGx0bHJSZDM5cElrZ2hOelp1SVlXbVByR2c4X3ppakU2Sk5sNkd5TU95OVNyd0d6SUoxa3l2bW8yZXFxV1JOUDdDQjIyTzd4Z3BzSlMzVXNlLUFwQjdtNnItZC1hY1psNWlMazlYM1M5QWFSQnlzNEhLY19vN0VqVkVvWjZ4OE1Ra3V5eXhDdGpVTFIyVGxMUEN4LWZOWVJkc2RjM294UW5NQ21wZm5abmx4RlRfcHdXRGt5MEZNbnhyaDFJRXp3RUNPcTI1eVkwY1k?oc=5"
+      },
+      {
        "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-16",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
-      },
-      {
-       "titulo": "ATP Finals - Medvedev vs Cobolli: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkV1THRFSmZ2dzdGZm1WX1p5c1o1cVhzY2hJc1FmNlo2WmJ4WG0xTkx0ME9nV1dqcEp0VUYxTFlKMklsd3FfRVpVRmFsbTkxUTR1eDgxbnpHSTFMY2NEaEJGdUNOREFWX1NxcWlCRnZIMVh2cUhrYkdBdE5ZMnhLTEJrTmIzV1RhWkJPWnRvRk9vU2E4enp4bW56MWEwRlRLTzB5aUFidVlGNXFs?oc=5"
-      },
-      {
-       "titulo": "Flavio Cobolli vs Frances Tiafoe · Round Robin · ATP Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlptcGpJYkwwOEJnTFN1UURudmVkOS1mUDZ5TS14bkxXYmlpWDBpMEhLRGdkV2MzbHEwU080b2FOTmxqbzVkTHVlbVcyWFhvR1A0R3VYWXF3d1VKSzBzcUlRdEVPazBSbi1xV25xTHdzSm1MTkhMVE9VblNFNk56b01hZkxMUmdMWkU3UHZDV0dsNmlvNnBZ?oc=5"
       }
      ]
     }
