@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T19:01+00:00",
+ "actualizado": "2026-11-16T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 3003,
-  "sport888": 3003,
-  "betsson": 3006
+  "williamhill": 2002,
+  "sport888": 2002,
+  "betsson": 2004
  },
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 45,
-  "restantes": 455,
-  "usados": 45,
-  "actualizado": "2026-11-15T08:00+00:00",
-  "prevision_mes": 45,
+  "gastados_mes": 48,
+  "restantes": 452,
+  "usados": 48,
+  "actualizado": "2026-11-16T08:00+00:00",
+  "prevision_mes": 42,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -339,7 +339,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.391,
-      "motivo": "Lleva 17 días sin apostar."
+      "motivo": "Lleva 18 días sin apostar."
      },
      {
       "emocion": "sorpresa",
@@ -560,7 +560,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 18 días sin apostar."
+      "motivo": "Lleva 19 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -761,7 +761,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.771,
-      "motivo": "Lleva 18 días sin apostar."
+      "motivo": "Lleva 19 días sin apostar."
      },
      {
       "emocion": "calma",
@@ -982,7 +982,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 18 días sin apostar."
+      "motivo": "Lleva 19 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -990,106 +990,106 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-15T08:00+00:00",
+  "actualizado": "2026-11-16T08:00+00:00",
   "partidos": [
    {
-    "id": "2e7a66dfb5caacad9c224d3eaf230dee",
+    "id": "c81851847baf5e3a479993ec167a8e2a",
     "deporte": "tennis_atp_finals",
     "torneo": "ATP Finals",
     "circuito": "ATP",
     "superficie": "hard",
-    "inicio": "2026-11-15T19:30+00:00",
+    "inicio": "2026-11-16T13:00+00:00",
     "jugadores": [
-     "Ben Shelton",
-     "Arthur Fils"
+     "Carlos Alcaraz",
+     "Frances Tiafoe"
     ],
     "opciones": [
      {
-      "id": "2e7a66dfb5caacad9c224d3eaf230dee|h2h|Arthur Fils|",
+      "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Carlos Alcaraz|",
       "mercado": "h2h",
-      "nombre": "Arthur Fils",
+      "nombre": "Carlos Alcaraz",
       "punto": null,
-      "cuota": 2.45,
-      "pinnacle": 2.55
+      "cuota": 1.1,
+      "pinnacle": 1.1
      },
      {
-      "id": "2e7a66dfb5caacad9c224d3eaf230dee|h2h|Ben Shelton|",
+      "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Frances Tiafoe|",
       "mercado": "h2h",
-      "nombre": "Ben Shelton",
+      "nombre": "Frances Tiafoe",
       "punto": null,
-      "cuota": 1.56,
-      "pinnacle": 1.58
+      "cuota": 7.2,
+      "pinnacle": 8.24
      },
      {
-      "id": "2e7a66dfb5caacad9c224d3eaf230dee|totals|Over|25.5",
+      "id": "c81851847baf5e3a479993ec167a8e2a|totals|Over|21.5",
       "mercado": "totals",
       "nombre": "Over",
-      "punto": 25.5,
-      "cuota": 1.89,
-      "pinnacle": 1.96
+      "punto": 21.5,
+      "cuota": 1.9,
+      "pinnacle": 1.99
      },
      {
-      "id": "2e7a66dfb5caacad9c224d3eaf230dee|totals|Under|25.5",
+      "id": "c81851847baf5e3a479993ec167a8e2a|totals|Under|21.5",
       "mercado": "totals",
       "nombre": "Under",
-      "punto": 25.5,
-      "cuota": 1.82,
-      "pinnacle": 1.93
+      "punto": 21.5,
+      "cuota": 1.8,
+      "pinnacle": 1.9
      }
     ],
     "pinnacle_h2h": {
-     "Arthur Fils": 2.55,
-     "Ben Shelton": 1.58
+     "Carlos Alcaraz": 1.1,
+     "Frances Tiafoe": 8.24
     }
    },
    {
-    "id": "db0cf55e0c26bfbf59d91c22de428d25",
-    "deporte": "tennis_wta_finals",
-    "torneo": "WTA Finals",
-    "circuito": "WTA",
+    "id": "7ac3bf138012785e65835d1481524d5c",
+    "deporte": "tennis_atp_finals",
+    "torneo": "ATP Finals",
+    "circuito": "ATP",
     "superficie": "hard",
-    "inicio": "2026-11-15T20:00+00:00",
+    "inicio": "2026-11-16T19:30+00:00",
     "jugadores": [
-     "Elina Svitolina",
-     "Mirra Andreeva"
+     "Daniil Medvedev",
+     "Flavio Cobolli"
     ],
     "opciones": [
      {
-      "id": "db0cf55e0c26bfbf59d91c22de428d25|h2h|Elina Svitolina|",
+      "id": "7ac3bf138012785e65835d1481524d5c|h2h|Daniil Medvedev|",
       "mercado": "h2h",
-      "nombre": "Elina Svitolina",
+      "nombre": "Daniil Medvedev",
       "punto": null,
-      "cuota": 3.2,
-      "pinnacle": 3.3
+      "cuota": 1.28,
+      "pinnacle": 1.29
      },
      {
-      "id": "db0cf55e0c26bfbf59d91c22de428d25|h2h|Mirra Andreeva|",
+      "id": "7ac3bf138012785e65835d1481524d5c|h2h|Flavio Cobolli|",
       "mercado": "h2h",
-      "nombre": "Mirra Andreeva",
+      "nombre": "Flavio Cobolli",
       "punto": null,
-      "cuota": 1.36,
-      "pinnacle": 1.38
+      "cuota": 3.75,
+      "pinnacle": 3.99
      },
      {
-      "id": "db0cf55e0c26bfbf59d91c22de428d25|totals|Over|21.5",
+      "id": "7ac3bf138012785e65835d1481524d5c|totals|Over|22.5",
       "mercado": "totals",
       "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.94,
-      "pinnacle": 1.98
+      "punto": 22.5,
+      "cuota": 1.86,
+      "pinnacle": 1.93
      },
      {
-      "id": "db0cf55e0c26bfbf59d91c22de428d25|totals|Under|21.5",
+      "id": "7ac3bf138012785e65835d1481524d5c|totals|Under|22.5",
       "mercado": "totals",
       "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.78,
-      "pinnacle": 1.89
+      "punto": 22.5,
+      "cuota": 1.85,
+      "pinnacle": 1.95
      }
     ],
     "pinnacle_h2h": {
-     "Elina Svitolina": 3.3,
-     "Mirra Andreeva": 1.38
+     "Daniil Medvedev": 1.29,
+     "Flavio Cobolli": 3.99
     }
    }
   ]
@@ -1898,6 +1898,36 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-16T08:00+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-15T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -2016,39 +2046,9 @@
    "hora": "2026-11-12T08:00+00:00",
    "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-11T08:00+00:00",
-   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-15",
+ "ultima_decision": "2026-11-16",
  "oficina": {
   "total": {
    "apuestas": 2,
@@ -3084,6 +3084,182 @@
        "fuente": "GQ México y Latinoamérica",
        "fecha": "2026-11-15",
        "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUQ3Y1BSWWtVSGIwbVdpR0tTd0lmdlMxUmJPSkVNaU1UMlJweUswOTgzWjl0bUwyMEJFWDhZd3BDQzF2MC1yOElsUktzYmM3YnhZbDZOMHMybHAzeXkzYVdmTkJzNE5uVW5Vd1lJODR6YlRQcUp3NmFrNHczeTMwMVMtQlUwUGMtOXVmanl6b1RWWTRMNmZHVG5zNlBFajVVMWo4aElhNWxYZHpjWnc?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "c81851847baf5e3a479993ec167a8e2a": {
+   "id": "c81851847baf5e3a479993ec167a8e2a",
+   "jugadores": [
+    "Carlos Alcaraz",
+    "Frances Tiafoe"
+   ],
+   "inicio": "2026-11-16T13:00+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-16T08:00+00:00",
+   "elo": 0.847,
+   "elo_general": 0.864,
+   "elo_en_superficie": 0.831,
+   "cara_a_cara": [
+    1,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Carlos Alcaraz",
+     "mercado": 0.882,
+     "elo": 2154,
+     "elo_superficie": 2107,
+     "forma": [
+      "G hard vs Tommy Paul",
+      "G hard vs Daniil Medvedev",
+      "G hard vs Alex de Minaur",
+      "G hard vs Alex Michelsen",
+      "G hard vs Taylor Fritz"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Perfil Nitto ATP Finals de Alcaraz: las grandes armas del español - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXlBTFV0ZGItc2dSRFJTN0t2QmNZNXZ2V3gzQWVVeUpRZmd3Rmpvd19kMGRQbndNRFBuNWk4bXZ5RGJUTFpGZ3VuUkt1RzBvQkh6b0xiN3RfN1cwQVFuYmhKMGMxeFhjY0ZxeVZOcmc4RzVPTHFsVXh6MURsN29hZ0J0N3AyakdjbWhFVHB0VUpNVW42dDhYS1NfSTlzcUhKbHhyQnplWmo?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz en las ATP Finals 2026: calendario, fechas y horarios tenis ATP en España - DAZN",
+       "fuente": "DAZN",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHQxdkN6Wk5QSVFRa3pNenhzS2g3YlhZUEJGUXlkTl9lRTdrSXkxams4R2xlQXpocnRLYzFGZzA3bld1WnBTTVgyQjhkTEh4dlFueF9FX2N3b1A2MFVuOXJ6WDdIRk5pSDNPX0pIUU5ibUlCNXJRQlBPdU1LcG9yWFhRYVIyZ0Rzb0h6WWZCdVB6M1A5OXZNUlctd3ppTHBBQzFTZS1ISWtIVmVtZTE2bDNMWVNpbkdMYzA3TjF0TEYwcU1RcGw4bHhRbkxXbTU4ZnZpcVphTTRkeHByMlE?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz vs Frances Tiafoe en directo: Fase de Grupos Final ATP 2026 en AS.com - AS México",
+       "fuente": "AS México",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmVfYlNlQ0pEUzBWVml0WmpMLWc3Vi1TVm5zdkVla08tNUtJYW14NDRVd2lrMTQ2anpjMmRNVjZCYThXUkNpRXlRcTd2YVp6dUo5R185WmVEeHZOT21sb18wUFJTQXFsR1B6TlVaYndORUN6MXhFLTdCWnhBb3p4VFZYXzlLZmhGeXFJbWQ5SU9INXprcWFzZQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Frances Tiafoe",
+     "mercado": 0.118,
+     "elo": 1833,
+     "elo_superficie": 1831,
+     "forma": [
+      "P hard vs Arthur Fils",
+      "G hard vs Yannick Hanfmann",
+      "P hard vs Alejandro Davidovich Fokina",
+      "P hard vs Lorenzo Musetti",
+      "P hard vs Quentin Halys"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Carlos Alcaraz vs Frances Tiafoe en directo: Fase de Grupos Final ATP 2026 en AS.com - AS México",
+       "fuente": "AS México",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmVfYlNlQ0pEUzBWVml0WmpMLWc3Vi1TVm5zdkVla08tNUtJYW14NDRVd2lrMTQ2anpjMmRNVjZCYThXUkNpRXlRcTd2YVp6dUo5R185WmVEeHZOT21sb18wUFJTQXFsR1B6TlVaYndORUN6MXhFLTdCWnhBb3p4VFZYXzlLZmhGeXFJbWQ5SU9INXprcWFzZQ?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz vs Frances Tiafoe · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1RnV3BCMGdtWXJneHZzOGZoSDhycktMcE50ajhaZ3hTWmF0WWxWSVpNQWVLenRveEViNG9mQkFwdFpCQUYyYUdSMGJnd2otY2xfMzZfcVRxWG9SLUMza1pFUm5Ib0xXQmxDNmpNZ1ZMclBoVWpYLWg5WFRWOXdERDEzbXVIb2dJZ2lnX3ZWUDJ5S3lBZXY4?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz busca dar el primer golpe en Turín ante Frances Tiafoe - MurciaEconomía.com",
+       "fuente": "MurciaEconomía.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzF0OGt5N1JSUnZsMHAtRnF3YlYwbnFFYnhhLVVPZGlXdDdjaHM0aHp3OVZtVFh5Z0V3WmhjRnlqRnF0dmdWVVkzaTI5bUpEOVlSWVZGR2NJVkhNTmJqZUZuRDBOekRrZFpfMzZHQjROQzJkWFBJWFRuTGRqbWZ2Slh5eTJQUXl0NXRtWkpybTZhUlhkeFJtSk5jOVNSRHRPN2ZnaGFEOUpuRjIt?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "7ac3bf138012785e65835d1481524d5c": {
+   "id": "7ac3bf138012785e65835d1481524d5c",
+   "jugadores": [
+    "Daniil Medvedev",
+    "Flavio Cobolli"
+   ],
+   "inicio": "2026-11-16T19:30+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-16T08:00+00:00",
+   "elo": 0.672,
+   "elo_general": 0.632,
+   "elo_en_superficie": 0.712,
+   "cara_a_cara": [
+    2,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Daniil Medvedev",
+     "mercado": 0.756,
+     "elo": 1875,
+     "elo_superficie": 1880,
+     "forma": [
+      "G hard vs Daniel Merida",
+      "G hard vs Cameron Norrie",
+      "G hard vs Adrian Mannarino",
+      "P hard vs Carlos Alcaraz",
+      "P hard vs Ignacio Buse"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Perfil Nitto ATP Finals de Medvedev: ¿Qué le hace diferente? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzRheVI4bEVveVdnNWQtS1MwRzh2RGdTckx6YkprUmw1YWhaeU9kX3lhMnRyMDI2Vll5Qy1NamIyVVRwcU81Y29oVjVCTVpwQ1lpY2tNLWpMNHRBdXlObFJMQ3NKQnlDM05vMGlZN0cwdmFuZ0EzenF2UkRLbTJZaF9leHhpSU12MURsNzdDcnl4RE5jdnFIdWxPUW9teTdDMXJ3dGdOQXI1aERQ?oc=5"
+      },
+      {
+       "titulo": "¿Cuál es la programación de las Nitto ATP Finals? - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44dzNhcTU0dnZwc1BCVWhiVzZiSHlHQ2g3WjBXM0dReG9TU1FzWWMtWjd6amQwR0tvUGF1VEgtYlQtRDFjNDlxWG5OZExjVWNPb2sxRVVUdlc1R0NvUDAwTmlwTUJudFZYZ1pXTDFRUQ?oc=5"
+      },
+      {
+       "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Flavio Cobolli",
+     "mercado": 0.244,
+     "elo": 1781,
+     "elo_superficie": 1723,
+     "forma": [
+      "P hard vs Adrian Mannarino",
+      "G hard vs Stan Wawrinka",
+      "G hard vs Brandon Nakashima",
+      "P hard vs Lorenzo Musetti",
+      "G hard vs Grigor Dimitrov"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Perfil Nitto ATP Finals de Cobolli: el talento del italiano - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV285Q1dxX1lOekJHc0N3a01oVnhVRjlfU0c5ZU9YYzY5cm9CMl85WUZBeGpjRm5pajItZmpqcGE3Q3BoaS15Sk5IeHl6SWZ3QzBfRFlveGJsUUdhdUVvOXAtMnNsLXNfb3FSd3RpRHlGNlRIdG9FSU0tMWhxVGNkZTQta2dNUjJVb1A2eThmckVzY0VKZzNKcWRzMXNFRkFEcGVuT0QybEs?oc=5"
+      },
+      {
+       "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
+      },
+      {
+       "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Medvedev – Cobolli - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xX2stb0RMemJFaDNoSHRZTW9KX0RyN1Zvd1RwT1NEdmJOWUx4Q2FLbWc1N2lpM2djTC1qX3k0MURsRmN6cnlFcmx2Tnc2djJnaDJQY3pLWlUyQ203WXVlUjZTdWFVTmg1NjlaOVVlVEZRSFhKNC1adVBHMVc?oc=5"
       }
      ]
     }
