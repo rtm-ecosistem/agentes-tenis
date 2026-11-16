@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T08:01+00:00",
+ "actualizado": "2026-11-16T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -992,56 +992,6 @@
  "cartelera": {
   "actualizado": "2026-11-16T08:00+00:00",
   "partidos": [
-   {
-    "id": "c81851847baf5e3a479993ec167a8e2a",
-    "deporte": "tennis_atp_finals",
-    "torneo": "ATP Finals",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-16T13:00+00:00",
-    "jugadores": [
-     "Carlos Alcaraz",
-     "Frances Tiafoe"
-    ],
-    "opciones": [
-     {
-      "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.1,
-      "pinnacle": 1.1
-     },
-     {
-      "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Frances Tiafoe|",
-      "mercado": "h2h",
-      "nombre": "Frances Tiafoe",
-      "punto": null,
-      "cuota": 7.2,
-      "pinnacle": 8.24
-     },
-     {
-      "id": "c81851847baf5e3a479993ec167a8e2a|totals|Over|21.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 21.5,
-      "cuota": 1.9,
-      "pinnacle": 1.99
-     },
-     {
-      "id": "c81851847baf5e3a479993ec167a8e2a|totals|Under|21.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 21.5,
-      "cuota": 1.8,
-      "pinnacle": 1.9
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.1,
-     "Frances Tiafoe": 8.24
-    }
-   },
    {
     "id": "7ac3bf138012785e65835d1481524d5c",
     "deporte": "tennis_atp_finals",
@@ -3186,7 +3136,7 @@
    "inicio": "2026-11-16T19:30+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-16T08:00+00:00",
+   "actualizado": "2026-11-16T13:00+00:00",
    "elo": 0.672,
    "elo_general": 0.632,
    "elo_en_superficie": 0.712,
@@ -3210,22 +3160,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Perfil Nitto ATP Finals de Medvedev: ¿Qué le hace diferente? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzRheVI4bEVveVdnNWQtS1MwRzh2RGdTckx6YkprUmw1YWhaeU9kX3lhMnRyMDI2Vll5Qy1NamIyVVRwcU81Y29oVjVCTVpwQ1lpY2tNLWpMNHRBdXlObFJMQ3NKQnlDM05vMGlZN0cwdmFuZ0EzenF2UkRLbTJZaF9leHhpSU12MURsNzdDcnl4RE5jdnFIdWxPUW9teTdDMXJ3dGdOQXI1aERQ?oc=5"
-      },
-      {
-       "titulo": "¿Cuál es la programación de las Nitto ATP Finals? - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44dzNhcTU0dnZwc1BCVWhiVzZiSHlHQ2g3WjBXM0dReG9TU1FzWWMtWjd6amQwR0tvUGF1VEgtYlQtRDFjNDlxWG5OZExjVWNPb2sxRVVUdlc1R0NvUDAwTmlwTUJudFZYZ1pXTDFRUQ?oc=5"
-      },
-      {
        "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-16",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
+      },
+      {
+       "titulo": "ATP Finals 2026: partidos de hoy y cómo están las posiciones en los grupos - Yahoo",
+       "fuente": "Yahoo",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1huNUFIRjV1TF81a0ItWXMwV3R1SWp5bW5WdzVFS1hwVzY0cm9WZVVwR0NBUDc0M0U5YnhhR0hzOWNQazNZTnNSbS1EMUN1WGJxeWxwSlJhWWZ4bXVUWXVCVEtFMmIyMGcwUndNQV8wMGxmR09acjVQa1BmVF9wTWxBVE9hSlNzTGRyZE5PVUxsbEY0d29Z?oc=5"
+      },
+      {
+       "titulo": "ATP Finals - Medvedev vs Cobolli: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkV1THRFSmZ2dzdGZm1WX1p5c1o1cVhzY2hJc1FmNlo2WmJ4WG0xTkx0ME9nV1dqcEp0VUYxTFlKMklsd3FfRVpVRmFsbTkxUTR1eDgxbnpHSTFMY2NEaEJGdUNOREFWX1NxcWlCRnZIMVh2cUhrYkdBdE5ZMnhLTEJrTmIzV1RhWkJPWnRvRk9vU2E4enp4bW56MWEwRlRLTzB5aUFidVlGNXFs?oc=5"
       }
      ]
     },
@@ -3244,22 +3194,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Perfil Nitto ATP Finals de Cobolli: el talento del italiano - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV285Q1dxX1lOekJHc0N3a01oVnhVRjlfU0c5ZU9YYzY5cm9CMl85WUZBeGpjRm5pajItZmpqcGE3Q3BoaS15Sk5IeHl6SWZ3QzBfRFlveGJsUUdhdUVvOXAtMnNsLXNfb3FSd3RpRHlGNlRIdG9FSU0tMWhxVGNkZTQta2dNUjJVb1A2eThmckVzY0VKZzNKcWRzMXNFRkFEcGVuT0QybEs?oc=5"
-      },
-      {
        "titulo": "Daniil Medvedev vs Flavio Cobolli · Round Robin · ATP Finals - Tennis.com",
        "fuente": "Tennis.com",
        "fecha": "2026-11-16",
        "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dBd1RET2tHWnpZMHpzaVJZSXpJeWNDZzk4TUlFNGdwTFBJWHM2M1FDcTduajBOUTg4cEJTSGRqNDAxbG9BaFUxeXcydlVlclRPRkxNQTB6V1VueE5GX1NfXzFHbjlJSmtIb191V2I2M1N3UXZrajhOc1hXMGdhSWZqR3JUUEVLVVJHWXRncnZzdk0tcTZJM3JB?oc=5"
       },
       {
-       "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Medvedev – Cobolli - Canal Tenis",
-       "fuente": "Canal Tenis",
+       "titulo": "ATP Finals - Medvedev vs Cobolli: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
+       "fuente": "bet365 - Apuestas deportivas en la red",
        "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xX2stb0RMemJFaDNoSHRZTW9KX0RyN1Zvd1RwT1NEdmJOWUx4Q2FLbWc1N2lpM2djTC1qX3k0MURsRmN6cnlFcmx2Tnc2djJnaDJQY3pLWlUyQ203WXVlUjZTdWFVTmg1NjlaOVVlVEZRSFhKNC1adVBHMVc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkV1THRFSmZ2dzdGZm1WX1p5c1o1cVhzY2hJc1FmNlo2WmJ4WG0xTkx0ME9nV1dqcEp0VUYxTFlKMklsd3FfRVpVRmFsbTkxUTR1eDgxbnpHSTFMY2NEaEJGdUNOREFWX1NxcWlCRnZIMVh2cUhrYkdBdE5ZMnhLTEJrTmIzV1RhWkJPWnRvRk9vU2E4enp4bW56MWEwRlRLTzB5aUFidVlGNXFs?oc=5"
+      },
+      {
+       "titulo": "Flavio Cobolli vs Frances Tiafoe · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlptcGpJYkwwOEJnTFN1UURudmVkOS1mUDZ5TS14bkxXYmlpWDBpMEhLRGdkV2MzbHEwU080b2FOTmxqbzVkTHVlbVcyWFhvR1A0R3VYWXF3d1VKSzBzcUlRdEVPazBSbi1xV25xTHdzSm1MTkhMVE9VblNFNk56b01hZkxMUmdMWkU3UHZDV0dsNmlvNnBZ?oc=5"
       }
      ]
     }
