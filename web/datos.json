@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T08:01+00:00",
+ "actualizado": "2026-11-17T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -992,56 +992,6 @@
  "cartelera": {
   "actualizado": "2026-11-17T08:00+00:00",
   "partidos": [
-   {
-    "id": "b347b8bd2e85f10eca7dc7160026443b",
-    "deporte": "tennis_atp_finals",
-    "torneo": "ATP Finals",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-17T13:00+00:00",
-    "jugadores": [
-     "Arthur Fils",
-     "Rafael Jodar"
-    ],
-    "opciones": [
-     {
-      "id": "b347b8bd2e85f10eca7dc7160026443b|h2h|Arthur Fils|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fils",
-      "punto": null,
-      "cuota": 1.93,
-      "pinnacle": 1.93
-     },
-     {
-      "id": "b347b8bd2e85f10eca7dc7160026443b|h2h|Rafael Jodar|",
-      "mercado": "h2h",
-      "nombre": "Rafael Jodar",
-      "punto": null,
-      "cuota": 1.88,
-      "pinnacle": 1.98
-     },
-     {
-      "id": "b347b8bd2e85f10eca7dc7160026443b|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.79,
-      "pinnacle": 1.88
-     },
-     {
-      "id": "b347b8bd2e85f10eca7dc7160026443b|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.92,
-      "pinnacle": 2.0
-     }
-    ],
-    "pinnacle_h2h": {
-     "Arthur Fils": 1.93,
-     "Rafael Jodar": 1.98
-    }
-   },
    {
     "id": "f0a6612a0e894025a58459b04ecd02c9",
     "deporte": "tennis_atp_finals",
@@ -3362,7 +3312,7 @@
    "inicio": "2026-11-17T19:30+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-17T08:00+00:00",
+   "actualizado": "2026-11-17T13:00+00:00",
    "elo": 0.545,
    "elo_general": 0.601,
    "elo_en_superficie": 0.488,
@@ -3386,22 +3336,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
+       "titulo": "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo - EL PAÍS",
+       "fuente": "EL PAÍS",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjYtb0luaG5QQ0g1clhaQTZGMmZvM3VXeE4zZXFVX19LUDQ1MHZ6aE1xRTVPZVU5NFVRVk94NFRia3BuMjFvekVQSlY4R3dUdHRUZUQ4ZFVsMGZzS3h2ME1Qb2ZEQkpTUFdIV2d1VzJmRzMtaFFYOFJ2VXgxTExtZVFJWHhxSDhjUVBJRXUxN3U0b00wYURsX3lZMXZnTkRScFJ6Qmd6T3NtT0t5RzM2OGtraDAxYU9IdjZUUdIB0AFBVV95cUxPM3E0MDRKNVo4WGpLUlpsQnhLeTMwYlJhOFV0aWZFOUtJbTA4WUx0dXZORGdTbzVfeURVVGluTGlUUkhBRElyemtqUFNka3ljUUtyTnJENDZPVThqNFo1NlpJYjNlMDJVNXZ2ZDNoc1h3TjZ2WDdCLVFFNkJHaGx5dVRiM1dnUGxSSnlMbzFRNnRrX1M2eGJqaXZYNEwtMnY5SjdRQk9TYl9hOEdBeUtyVHRJZUxBSTBWOTNYTVhLWGFXYnhXVWw4TXFTeDUyRF9m?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev vs Ben Shelton · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHN5aDVNdm8taDAyeHdfaWpwMWU0MXFHREZCbTVuV1RqWFhzRFVIZnJqTk5kbVZ0LVlsb0xaSWFJR0VhWktSTWszbVBJVWJlV2pDWUlYc2FiU0U5U0tMcjdia3J0UEY4RG8tbkZNaXBJRVAzZXNPWGhvQ1gzLXYzT3RpTGtsV3JSVjJvQUtsUC1raWhpX1U4?oc=5"
+      },
+      {
        "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-17",
        "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
-      },
-      {
-       "titulo": "Zverev, tras recibir el trofeo de número 1: \"Es el mayor logro de mi carrera\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHY4RDlQME1scmkxLXp6aU1xUXhLVEZIM1Z6QkM3N19jR0ZJZ2RCc2xYSmFQWU9qSy1DYms1UFhvV0F1LXNvaGNuOUstdE1PSE9FWEFHdUlKS29uLTNSbzNwVFpVMEZZMF9oa0xOZXMxV1BjLWZBU2Fnb2xfTGpqTjdsYjhqSWlzX3NLcmJ0SUNIdlNz?oc=5"
-      },
-      {
-       "titulo": "Zverev on Year-End No. 1: 'This one is the most special' - ATP Tour",
-       "fuente": "ATP Tour",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmc5Um5mVzZiclVEdldKRGFWM1dMTU9nbWhWQXFNSWlMcms2Zjc1VUtrVUdXS25JalA2d1RPcTY3SHlrcHViRVZNejdzNFhhalp3UlQxcVU1V0dkMmwyWTRhc3BVbmdzMlhVTndVOXZoNnA4TUZ2U2w4a21rSzVSQkQtUkUzUGE4eEVaSXBXaXZ4UQ?oc=5"
       }
      ]
     },
@@ -3420,22 +3370,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Toni Nadal: \"Sabía que Shelton buscaba entrenador porque llamó a Rafael\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-17",
-       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSF92S2xzbkg3LURFbUhZMXp6bWc4akNINl9uanUydW1pQlJ3YUNRWGUxTGtkWkt4N19GN0NTbTVTaEVqZFBEckt6Qld2QzE5VHRwWld2LXJVWXJsNlRQNzFkd0dwU3ZzeXFvaW8zVkFoLXJldUg2bWFyVTdVMTROMWtZeDR3cFVkVF9ucG1rTDc5TmxiRENadm5wZTU?oc=5"
-      },
-      {
        "titulo": "Alexander Zverev vs Ben Shelton · Round Robin · ATP Finals - Tennis.com",
        "fuente": "Tennis.com",
-       "fecha": "2026-11-16",
+       "fecha": "2026-11-17",
        "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHN5aDVNdm8taDAyeHdfaWpwMWU0MXFHREZCbTVuV1RqWFhzRFVIZnJqTk5kbVZ0LVlsb0xaSWFJR0VhWktSTWszbVBJVWJlV2pDWUlYc2FiU0U5U0tMcjdia3J0UEY4RG8tbkZNaXBJRVAzZXNPWGhvQ1gzLXYzT3RpTGtsV3JSVjJvQUtsUC1raWhpX1U4?oc=5"
       },
       {
-       "titulo": "Fils señala qué le faltó en su duelo ante Shelton: \"Es una pena\" - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-16",
-       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOengtNG9TeTJjd2xqeXlWMGFtdG1JYlh0S0ZjOXdscVZvQjkwaklLQ3hLSkRWY3c1cVVoQlYzU3lJUm4yQVlzQjhFUWk2MHQ2M3VrTVpjUVJjZTJid01JZDhjSWY3UktBVnEtb0Njc3ktNU9iS1BiTkR4RXlpQjVFNDZrVFRGdw?oc=5"
+       "titulo": "\"Shelton llamó a Rafa Nadal\": sale a la luz la intrahistoria del fichaje de Ferrero - LaSexta",
+       "fuente": "LaSexta",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUVFcFUzN1FRUzhac2tla3EyYmlKeXZXWmt4YTFfYXdtZENZcG5FVDl5OTRDYWlvTFBpLTRJbHMtUkxKVGZLTy14RDhhSXZTQzE5MVphaVNGU2RPUUxKOWhneGs3ZXN4OG0yM24zREZrSDlYX3VLd04tV0VQcWtTQldTbjRFSXlYZ2FXRnpoWWk1bEFsY25VZFFyMVoyM1lISnhDZWJNa2xXNzhwTkFYSUhrMmIzWTEwdFp0NU5zREViT2FyS1cxRmF6TTBBMjNqcm1oSXhlbWx4bWlpbGxvLWhSRdIB4wFBVV95cUxPRFJMZ3dNaUN3ZGhHQVlhWlpHRnRIWU5GWEktVFZnRkg0dHB5R0VQY1VCTU9mOWJFS1hHN0M4Z01tQkczdFA1LWg1SElicVFjdGV2WDJhWHNmVVloWU56MEp0S2dtTHdoX0ZOV0ZuMlpjR3pkdW1iUUYxNjJoY0dua1lKRDZZZnNVeDhDYk5rNmFiVnZRTlVmREEtSjR5TWF1TERHRTZaSUZUN1QyRGdHS1Nnb3dRYzByWkxyMTZHM25FU1NPV3YwcVZqQS0tUUMzY2dFNzc3NWVRZWo4d1Z1VVpfYw?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz, Ben Shelton y Frances Tiafoe llevan la moda a las ATP Finals 2026 con una espectacular alfombra azul en Turín - Elplural.com",
+       "fuente": "Elplural.com",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWWFNRExKSHJYOXZNMW9Ld3RSMlNsalZ0SndkMEg5NkpGT1kybVpZLVYwZjFVUlJEQ3BNQUVhNmN4eXBtRGx5NXJEWmZJcFJxT0tjZGx6cjZES3hQVEVoNWNYcW5TVlpNSGhHbVlMS3pQbU04YU9TLWQ4RS00UGIxalp6UmFiNWkyS3RzYnh1TWF0d3U5M0dUajhHOG9tb1ZibWpNeXotRVZKNGtpMlBDMWZrc0JILUFRREd6RUJ2bFZyVEVvZHgxZ1JJQ3pDNkNjWWF2WWw0M21yeGhjNlBLTdIB5gFBVV95cUxQbnRCMWF1OWFLbnFodzdIdnk5Wk05cmF3WTdZTVc2UzlMUW1TVV9vR21fZ2VLLTRKczVTNHdyMGxIMGt2cVVYNWlNQ2ZJZl9hY3VCS3MxVG5SQXVkbDRKbFQ0QkFsdjdDTlpLSko0MTdxSV9xMERVMWxJSWVFZjBsa1dweUdObFNQRUw2a3piUktnNW1lc0J6eklUMm5KZERzdE1KOWdGN1J2TU9Ud1BWNlZ5SXVNT2JFSjhoM0JhamRwbHdnYUdDUGNlZm8zSTVYc0o1ejZVMU5DMGlxYWhRSmU3bFctdw?oc=5"
       }
      ]
     }
