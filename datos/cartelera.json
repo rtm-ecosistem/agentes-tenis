@@ -1,105 +1,105 @@
 {
- "actualizado": "2026-11-16T08:00+00:00",
+ "actualizado": "2026-11-17T08:00+00:00",
  "casa": "betsson",
  "partidos": [
   {
-   "id": "c81851847baf5e3a479993ec167a8e2a",
+   "id": "b347b8bd2e85f10eca7dc7160026443b",
    "deporte": "tennis_atp_finals",
    "torneo": "ATP Finals",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-16T13:00+00:00",
+   "inicio": "2026-11-17T13:00+00:00",
    "jugadores": [
-    "Carlos Alcaraz",
-    "Frances Tiafoe"
+    "Arthur Fils",
+    "Rafael Jodar"
    ],
    "opciones": [
     {
-     "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Carlos Alcaraz|",
+     "id": "b347b8bd2e85f10eca7dc7160026443b|h2h|Arthur Fils|",
      "mercado": "h2h",
-     "nombre": "Carlos Alcaraz",
+     "nombre": "Arthur Fils",
      "punto": null,
-     "cuota": 1.1,
-     "pinnacle": 1.1
-    },
-    {
-     "id": "c81851847baf5e3a479993ec167a8e2a|h2h|Frances Tiafoe|",
-     "mercado": "h2h",
-     "nombre": "Frances Tiafoe",
-     "punto": null,
-     "cuota": 7.2,
-     "pinnacle": 8.24
-    },
-    {
-     "id": "c81851847baf5e3a479993ec167a8e2a|totals|Over|21.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 21.5,
-     "cuota": 1.9,
-     "pinnacle": 1.99
-    },
-    {
-     "id": "c81851847baf5e3a479993ec167a8e2a|totals|Under|21.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 21.5,
-     "cuota": 1.8,
-     "pinnacle": 1.9
-    }
-   ],
-   "pinnacle_h2h": {
-    "Carlos Alcaraz": 1.1,
-    "Frances Tiafoe": 8.24
-   }
-  },
-  {
-   "id": "7ac3bf138012785e65835d1481524d5c",
-   "deporte": "tennis_atp_finals",
-   "torneo": "ATP Finals",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-16T19:30+00:00",
-   "jugadores": [
-    "Daniil Medvedev",
-    "Flavio Cobolli"
-   ],
-   "opciones": [
-    {
-     "id": "7ac3bf138012785e65835d1481524d5c|h2h|Daniil Medvedev|",
-     "mercado": "h2h",
-     "nombre": "Daniil Medvedev",
-     "punto": null,
-     "cuota": 1.28,
-     "pinnacle": 1.29
-    },
-    {
-     "id": "7ac3bf138012785e65835d1481524d5c|h2h|Flavio Cobolli|",
-     "mercado": "h2h",
-     "nombre": "Flavio Cobolli",
-     "punto": null,
-     "cuota": 3.75,
-     "pinnacle": 3.99
-    },
-    {
-     "id": "7ac3bf138012785e65835d1481524d5c|totals|Over|22.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.86,
+     "cuota": 1.93,
      "pinnacle": 1.93
     },
     {
-     "id": "7ac3bf138012785e65835d1481524d5c|totals|Under|22.5",
+     "id": "b347b8bd2e85f10eca7dc7160026443b|h2h|Rafael Jodar|",
+     "mercado": "h2h",
+     "nombre": "Rafael Jodar",
+     "punto": null,
+     "cuota": 1.88,
+     "pinnacle": 1.98
+    },
+    {
+     "id": "b347b8bd2e85f10eca7dc7160026443b|totals|Over|22.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 22.5,
+     "cuota": 1.79,
+     "pinnacle": 1.88
+    },
+    {
+     "id": "b347b8bd2e85f10eca7dc7160026443b|totals|Under|22.5",
      "mercado": "totals",
      "nombre": "Under",
      "punto": 22.5,
-     "cuota": 1.85,
-     "pinnacle": 1.95
+     "cuota": 1.92,
+     "pinnacle": 2.0
     }
    ],
    "pinnacle_h2h": {
-    "Daniil Medvedev": 1.29,
-    "Flavio Cobolli": 3.99
+    "Arthur Fils": 1.93,
+    "Rafael Jodar": 1.98
+   }
+  },
+  {
+   "id": "f0a6612a0e894025a58459b04ecd02c9",
+   "deporte": "tennis_atp_finals",
+   "torneo": "ATP Finals",
+   "circuito": "ATP",
+   "superficie": "hard",
+   "inicio": "2026-11-17T19:30+00:00",
+   "jugadores": [
+    "Alexander Zverev",
+    "Ben Shelton"
+   ],
+   "opciones": [
+    {
+     "id": "f0a6612a0e894025a58459b04ecd02c9|h2h|Alexander Zverev|",
+     "mercado": "h2h",
+     "nombre": "Alexander Zverev",
+     "punto": null,
+     "cuota": 1.51,
+     "pinnacle": 1.54
+    },
+    {
+     "id": "f0a6612a0e894025a58459b04ecd02c9|h2h|Ben Shelton|",
+     "mercado": "h2h",
+     "nombre": "Ben Shelton",
+     "punto": null,
+     "cuota": 2.6,
+     "pinnacle": 2.66
+    },
+    {
+     "id": "f0a6612a0e894025a58459b04ecd02c9|totals|Over|25.5",
+     "mercado": "totals",
+     "nombre": "Over",
+     "punto": 25.5,
+     "cuota": 1.69,
+     "pinnacle": null
+    },
+    {
+     "id": "f0a6612a0e894025a58459b04ecd02c9|totals|Under|25.5",
+     "mercado": "totals",
+     "nombre": "Under",
+     "punto": 25.5,
+     "cuota": 2.05,
+     "pinnacle": null
+    }
+   ],
+   "pinnacle_h2h": {
+    "Alexander Zverev": 1.54,
+    "Ben Shelton": 2.66
    }
   }
  ]

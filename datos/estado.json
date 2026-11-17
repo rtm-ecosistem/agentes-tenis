@@ -165,9 +165,9 @@
     "motivos": {
      "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
-     "aburrimiento": "Lleva 18 días sin apostar."
+     "aburrimiento": "Lleva 19 días sin apostar."
     },
-    "hora": "2026-11-16T08:00+00:00",
+    "hora": "2026-11-17T08:00+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,9 +325,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 19 días sin apostar."
+     "aburrimiento": "Lleva 20 días sin apostar."
     },
-    "hora": "2026-11-16T08:00+00:00",
+    "hora": "2026-11-17T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -472,9 +472,9 @@
      "aburrimiento": 0.27
     },
     "motivos": {
-     "aburrimiento": "Lleva 19 días sin apostar."
+     "aburrimiento": "Lleva 20 días sin apostar."
     },
-    "hora": "2026-11-16T08:00+00:00",
+    "hora": "2026-11-17T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -632,9 +632,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 19 días sin apostar."
+     "aburrimiento": "Lleva 20 días sin apostar."
     },
-    "hora": "2026-11-16T08:00+00:00",
+    "hora": "2026-11-17T08:00+00:00",
     "rent": 0.0
    }
   }
@@ -2185,36 +2185,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-06T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Luca Van Assche – Rinky Hijikata, Taylor Fritz – Carlos Alcaraz…: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T11:33+00:00",
-   "texto": "📰 Noticias nuevas de Luca Van Assche – Rinky Hijikata: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-06T11:33+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-06T12:10+00:00",
    "texto": "📰 Noticias nuevas de Ben Shelton – Tommy Paul, Taylor Fritz – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
@@ -2583,15 +2553,45 @@
    "hora": "2026-11-16T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-17T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 48,
-  "restantes": 452,
-  "usados": 48,
-  "actualizado": "2026-11-16T08:00+00:00",
-  "prevision_mes": 42,
+  "gastados_mes": 51,
+  "restantes": 449,
+  "usados": 51,
+  "actualizado": "2026-11-17T08:00+00:00",
+  "prevision_mes": 39,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2605,7 +2605,7 @@
   "sport888": 2002,
   "betsson": 2004
  },
- "ultima_decision": "2026-11-16",
+ "ultima_decision": "2026-11-17",
  "ultima_sala": "2026-11-16-20",
  "noticias_vistas": [
   "82968b4d4d41",
@@ -4577,6 +4577,182 @@
      ]
     }
    ]
+  },
+  "b347b8bd2e85f10eca7dc7160026443b": {
+   "id": "b347b8bd2e85f10eca7dc7160026443b",
+   "jugadores": [
+    "Arthur Fils",
+    "Rafael Jodar"
+   ],
+   "inicio": "2026-11-17T13:00+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-17T08:00+00:00",
+   "elo": 0.566,
+   "elo_general": 0.574,
+   "elo_en_superficie": 0.558,
+   "cara_a_cara": [
+    1,
+    2
+   ],
+   "detalle": [
+    {
+     "nombre": "Arthur Fils",
+     "mercado": 0.506,
+     "elo": 1905,
+     "elo_superficie": 1868,
+     "forma": [
+      "P hard vs Jan-Lennard Struff",
+      "G hard vs Giovanni Mpetshi Perricard",
+      "G hard vs Alex Michelsen",
+      "G hard vs Tomas Machac",
+      "P hard vs Taylor Fritz"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Alexander Zverev vs Arthur Fils · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXNyYVFhcXRYNTlHb2J3X1p0QjZpclhROUd0T19QRlNNcXJDRmljT1B3eG5VV2NJblZWMFBNQWp1ODJwdnFFQnB2ZjYzZWdwdXRNVkZWd0dxemFlN05lZEtDblNoZndxYlB0Q0piNzFqSDd2N0VtcTZ3NDBMRVNrWmRmUUp1Z3FZSnI1em9MUEFGUGs?oc=5"
+      },
+      {
+       "titulo": "Fils señala qué le faltó en su duelo ante Shelton: \"Es una pena\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOengtNG9TeTJjd2xqeXlWMGFtdG1JYlh0S0ZjOXdscVZvQjkwaklLQ3hLSkRWY3c1cVVoQlYzU3lJUm4yQVlzQjhFUWk2MHQ2M3VrTVpjUVJjZTJid01JZDhjSWY3UktBVnEtb0Njc3ktNU9iS1BiTkR4RXlpQjVFNDZrVFRGdw?oc=5"
+      },
+      {
+       "titulo": "Shelton’s first win in Turin! American edges Fils at Nitto ATP Finals - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zQkpYWWkzZlpwRlY4R0F5SzVrU1BNUDJFY25TUUdmRGlLSkNHNTJEWTR1MjhiTWVicnZoVXRlMU1remNyUko1V0d5OGw0Z1liQnJmbG5YZjhLTE5ENmJzNG1DcHh1b3FRTkZTRFZBY2tMbDRDSDVNcHM3bFNWQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Rafael Jodar",
+     "mercado": 0.494,
+     "elo": 1854,
+     "elo_superficie": 1827,
+     "forma": [
+      "P hard vs Alejandro Davidovich Fokina",
+      "G hard vs Alejandro Tabilo",
+      "P hard vs Valentin Vacherot",
+      "G hard vs Alejandro Tabilo",
+      "P hard vs Casper Ruud"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlCQjF3b2FXaWpOdW5XWVlqUG1PbUpCNTRGcW5LcUo4Y29vNzdLaGdMS050dERjNDRycExuckRHR1JWVHFOTmpKQUJhQ3JWZU9pVjhMN1FDSWpUNGJ3N3NraHZZTFRVTUlBaDhUV3M3eXF4YkJodkpjaXdYd1pYUGlhY3Z5UTgwOWR2cjVyLTNGNGUw?oc=5"
+      },
+      {
+       "titulo": "Rafa Jódar: \"Lo único que comparto con Rafa Nadal y Carlos Alcaraz es que soy del mismo país. Me queda mucho por recorrer\" - La Razón",
+       "fuente": "La Razón",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdy0xVEQxYXpFYUpDeldUUG5xN0h5Vko3emJGcVNZOURvSzZWZGpxU21OazZOQ1dOTFpnLWhnMnlLT3R5Ry1jdWJWT2pxLTA4VDdWdFh6aWQ0RHFmX3c1NTVaU0JGYXlfZ2F1d3ZxU2prZW9KRDVlZWg0MFNIZnlKMzdLc3luR0FqSEhPY19CbXpPYllqMk5oRUtIQmY0Q2FORUtWcE5MUS1GcTA3WTlKaHpEXzQ5UktwdFZNbTYzZFJnc1NxRTZtaXdnNFVZSk10WE9uV0NXb3VZVllWODBqM2ZCeHdhMmlZZkRPS04wNWhuVE1ONWZlejJCRV9qVVBO0gGUAkFVX3lxTE9rMF9nSnhqQmdKdWota0hCNm1mc0wtOHd2RFpDRlRIRDlvMW5Sc0JIbjA5c1NhRjhrem43V2Q5NW9LU2VlVGdsa0pILVR3VUdDQjVkS0c2RVRpQmVKMHI2UmR4N09HZUhyUnBOeDNsSE9SNmR5LTVKQkRRaHBwbHRLR2RkUU9RTk9GSE5XdVozNGRtOWZHN3RfRU5BTjhVNW9TemxjWWJ2SEtwcDRCdVU2eURHUWdwTGVQb2hTd2VwWGMwU1E4MnVKZmhhSmUwRXU1TXluZy1TZTlVanFXYXhhN1M2VnJhdElKX2ZfNVlSNlJuRkdZcm5XNFhsTmR0VFExMDcwTkJlT0pyNktnLVRyV2pLbA?oc=5"
+      },
+      {
+       "titulo": "Jodar Nitto ATP Finals 2026 profile: Spaniard reveals what sets him apart - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajM2MjdNYUs4dnRyYk4xQVBURGRRWHBpdEwxZzhvdURUMnhaNXlqNkZCWlBGWnN6alNiMzZNaXcwZkwxVHFyWk11NXV5b1M1VjJFaGlWMU5VR3JoaGYtVDhWclU2VlhJNWFPcHR5b0U2VUNEM0JSWUxwMFNUb1VUcXZnSzNTQnNBdnhlYmszWjJVd2FLZGdSN1B5b09uMk01WG9aSk81NjA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "f0a6612a0e894025a58459b04ecd02c9": {
+   "id": "f0a6612a0e894025a58459b04ecd02c9",
+   "jugadores": [
+    "Alexander Zverev",
+    "Ben Shelton"
+   ],
+   "inicio": "2026-11-17T19:30+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-17T08:00+00:00",
+   "elo": 0.545,
+   "elo_general": 0.601,
+   "elo_en_superficie": 0.488,
+   "cara_a_cara": [
+    6,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.633,
+     "elo": 1974,
+     "elo_superficie": 1915,
+     "forma": [
+      "G hard vs Martin Landaluce",
+      "G hard vs Tallon Griekspoor",
+      "G hard vs Arthur Fery",
+      "P hard vs Alex de Minaur",
+      "P hard vs Lorenzo Musetti"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
+      },
+      {
+       "titulo": "Zverev, tras recibir el trofeo de número 1: \"Es el mayor logro de mi carrera\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHY4RDlQME1scmkxLXp6aU1xUXhLVEZIM1Z6QkM3N19jR0ZJZ2RCc2xYSmFQWU9qSy1DYms1UFhvV0F1LXNvaGNuOUstdE1PSE9FWEFHdUlKS29uLTNSbzNwVFpVMEZZMF9oa0xOZXMxV1BjLWZBU2Fnb2xfTGpqTjdsYjhqSWlzX3NLcmJ0SUNIdlNz?oc=5"
+      },
+      {
+       "titulo": "Zverev on Year-End No. 1: 'This one is the most special' - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmc5Um5mVzZiclVEdldKRGFWM1dMTU9nbWhWQXFNSWlMcms2Zjc1VUtrVUdXS25JalA2d1RPcTY3SHlrcHViRVZNejdzNFhhalp3UlQxcVU1V0dkMmwyWTRhc3BVbmdzMlhVTndVOXZoNnA4TUZ2U2w4a21rSzVSQkQtUkUzUGE4eEVaSXBXaXZ4UQ?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Ben Shelton",
+     "mercado": 0.367,
+     "elo": 1902,
+     "elo_superficie": 1923,
+     "forma": [
+      "G hard vs Aleksandar Kovacevic",
+      "P hard vs Jerome Kym",
+      "G hard vs Cameron Norrie",
+      "G hard vs Arthur Rinderknech",
+      "G hard vs Tommy Paul"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Toni Nadal: \"Sabía que Shelton buscaba entrenador porque llamó a Rafael\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-17",
+       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSF92S2xzbkg3LURFbUhZMXp6bWc4akNINl9uanUydW1pQlJ3YUNRWGUxTGtkWkt4N19GN0NTbTVTaEVqZFBEckt6Qld2QzE5VHRwWld2LXJVWXJsNlRQNzFkd0dwU3ZzeXFvaW8zVkFoLXJldUg2bWFyVTdVMTROMWtZeDR3cFVkVF9ucG1rTDc5TmxiRENadm5wZTU?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev vs Ben Shelton · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHN5aDVNdm8taDAyeHdfaWpwMWU0MXFHREZCbTVuV1RqWFhzRFVIZnJqTk5kbVZ0LVlsb0xaSWFJR0VhWktSTWszbVBJVWJlV2pDWUlYc2FiU0U5U0tMcjdia3J0UEY4RG8tbkZNaXBJRVAzZXNPWGhvQ1gzLXYzT3RpTGtsV3JSVjJvQUtsUC1raWhpX1U4?oc=5"
+      },
+      {
+       "titulo": "Fils señala qué le faltó en su duelo ante Shelton: \"Es una pena\" - Punto de Break",
+       "fuente": "Punto de Break",
+       "fecha": "2026-11-16",
+       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOengtNG9TeTJjd2xqeXlWMGFtdG1JYlh0S0ZjOXdscVZvQjkwaklLQ3hLSkRWY3c1cVVoQlYzU3lJUm4yQVlzQjhFUWk2MHQ2M3VrTVpjUVJjZTJid01JZDhjSWY3UktBVnEtb0Njc3ktNU9iS1BiTkR4RXlpQjVFNDZrVFRGdw?oc=5"
+      }
+     ]
+    }
+   ]
   }
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
@@ -4764,6 +4940,30 @@
     "seleccion": "Daniil Medvedev",
     "punto": null,
     "cuota": 1.28
+   },
+   {
+    "partido": "b347b8bd2e85f10eca7dc7160026443b",
+    "jugadores": [
+     "Arthur Fils",
+     "Rafael Jodar"
+    ],
+    "inicio": "2026-11-17T13:00+00:00",
+    "mercado": "h2h",
+    "seleccion": "Arthur Fils",
+    "punto": null,
+    "cuota": 1.93
+   },
+   {
+    "partido": "f0a6612a0e894025a58459b04ecd02c9",
+    "jugadores": [
+     "Alexander Zverev",
+     "Ben Shelton"
+    ],
+    "inicio": "2026-11-17T19:30+00:00",
+    "mercado": "h2h",
+    "seleccion": "Alexander Zverev",
+    "punto": null,
+    "cuota": 1.51
    }
   ],
   "vistos": [
