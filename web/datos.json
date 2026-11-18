@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T08:01+00:00",
+ "actualizado": "2026-11-18T13:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -992,56 +992,6 @@
  "cartelera": {
   "actualizado": "2026-11-18T08:01+00:00",
   "partidos": [
-   {
-    "id": "a3e64105988f48f4c6447c9ca6de0030",
-    "deporte": "tennis_atp_finals",
-    "torneo": "ATP Finals",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-18T13:00+00:00",
-    "jugadores": [
-     "Carlos Alcaraz",
-     "Daniil Medvedev"
-    ],
-    "opciones": [
-     {
-      "id": "a3e64105988f48f4c6447c9ca6de0030|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.24,
-      "pinnacle": 1.25
-     },
-     {
-      "id": "a3e64105988f48f4c6447c9ca6de0030|h2h|Daniil Medvedev|",
-      "mercado": "h2h",
-      "nombre": "Daniil Medvedev",
-      "punto": null,
-      "cuota": 4.1,
-      "pinnacle": 4.47
-     },
-     {
-      "id": "a3e64105988f48f4c6447c9ca6de0030|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.97,
-      "pinnacle": null
-     },
-     {
-      "id": "a3e64105988f48f4c6447c9ca6de0030|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.75,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Carlos Alcaraz": 1.25,
-     "Daniil Medvedev": 4.47
-    }
-   },
    {
     "id": "5f11f792535a031c557f8a33a8093f18",
     "deporte": "tennis_atp_finals",
@@ -3538,7 +3488,7 @@
    "inicio": "2026-11-18T19:30+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-18T08:01+00:00",
+   "actualizado": "2026-11-18T13:00+00:00",
    "elo": 0.388,
    "elo_general": 0.426,
    "elo_en_superficie": 0.349,
