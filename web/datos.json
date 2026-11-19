@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T19:01+00:00",
+ "actualizado": "2026-11-19T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -19,11 +19,11 @@
  },
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 54,
-  "restantes": 446,
-  "usados": 54,
-  "actualizado": "2026-11-18T08:01+00:00",
-  "prevision_mes": 36,
+  "gastados_mes": 57,
+  "restantes": 443,
+  "usados": 57,
+  "actualizado": "2026-11-19T08:01+00:00",
+  "prevision_mes": 33,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -339,7 +339,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.391,
-      "motivo": "Lleva 20 días sin apostar."
+      "motivo": "Lleva 21 días sin apostar."
      },
      {
       "emocion": "sorpresa",
@@ -560,7 +560,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 21 días sin apostar."
+      "motivo": "Lleva 22 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -761,7 +761,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 0.771,
-      "motivo": "Lleva 21 días sin apostar."
+      "motivo": "Lleva 22 días sin apostar."
      },
      {
       "emocion": "calma",
@@ -982,7 +982,7 @@
       "cara": "🥱",
       "nombre": "Aburrimiento",
       "pct": 1.0,
-      "motivo": "Lleva 21 días sin apostar."
+      "motivo": "Lleva 22 días sin apostar."
      }
     ],
     "por_emocion": {}
@@ -990,56 +990,106 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-18T08:01+00:00",
+  "actualizado": "2026-11-19T08:01+00:00",
   "partidos": [
    {
-    "id": "5f11f792535a031c557f8a33a8093f18",
+    "id": "91d621e106bf38d41c61739852993840",
     "deporte": "tennis_atp_finals",
     "torneo": "ATP Finals",
     "circuito": "ATP",
     "superficie": "hard",
-    "inicio": "2026-11-18T19:30+00:00",
+    "inicio": "2026-11-19T13:00+00:00",
     "jugadores": [
-     "Flavio Cobolli",
-     "Frances Tiafoe"
+     "Ben Shelton",
+     "Rafael Jodar"
     ],
     "opciones": [
      {
-      "id": "5f11f792535a031c557f8a33a8093f18|h2h|Flavio Cobolli|",
+      "id": "91d621e106bf38d41c61739852993840|h2h|Ben Shelton|",
       "mercado": "h2h",
-      "nombre": "Flavio Cobolli",
+      "nombre": "Ben Shelton",
       "punto": null,
-      "cuota": 2.11,
-      "pinnacle": 2.21
+      "cuota": 1.4,
+      "pinnacle": 1.41
      },
      {
-      "id": "5f11f792535a031c557f8a33a8093f18|h2h|Frances Tiafoe|",
+      "id": "91d621e106bf38d41c61739852993840|h2h|Rafael Jodar|",
       "mercado": "h2h",
-      "nombre": "Frances Tiafoe",
+      "nombre": "Rafael Jodar",
       "punto": null,
-      "cuota": 1.74,
-      "pinnacle": 1.75
+      "cuota": 3.0,
+      "pinnacle": 3.18
      },
      {
-      "id": "5f11f792535a031c557f8a33a8093f18|totals|Over|23.5",
+      "id": "91d621e106bf38d41c61739852993840|totals|Over|23.5",
       "mercado": "totals",
       "nombre": "Over",
       "punto": 23.5,
-      "cuota": 1.85,
+      "cuota": 1.96,
       "pinnacle": null
      },
      {
-      "id": "5f11f792535a031c557f8a33a8093f18|totals|Under|23.5",
+      "id": "91d621e106bf38d41c61739852993840|totals|Under|23.5",
       "mercado": "totals",
       "nombre": "Under",
       "punto": 23.5,
-      "cuota": 1.85,
+      "cuota": 1.75,
       "pinnacle": null
      }
     ],
     "pinnacle_h2h": {
-     "Flavio Cobolli": 2.21,
-     "Frances Tiafoe": 1.75
+     "Ben Shelton": 1.41,
+     "Rafael Jodar": 3.18
+    }
+   },
+   {
+    "id": "66cc3b98e9e67560a34198715ee78d75",
+    "deporte": "tennis_atp_finals",
+    "torneo": "ATP Finals",
+    "circuito": "ATP",
+    "superficie": "hard",
+    "inicio": "2026-11-19T19:30+00:00",
+    "jugadores": [
+     "Alexander Zverev",
+     "Arthur Fils"
+    ],
+    "opciones": [
+     {
+      "id": "66cc3b98e9e67560a34198715ee78d75|h2h|Alexander Zverev|",
+      "mercado": "h2h",
+      "nombre": "Alexander Zverev",
+      "punto": null,
+      "cuota": 1.37,
+      "pinnacle": 1.41
+     },
+     {
+      "id": "66cc3b98e9e67560a34198715ee78d75|h2h|Arthur Fils|",
+      "mercado": "h2h",
+      "nombre": "Arthur Fils",
+      "punto": null,
+      "cuota": 3.15,
+      "pinnacle": 3.18
+     },
+     {
+      "id": "66cc3b98e9e67560a34198715ee78d75|totals|Over|23.5",
+      "mercado": "totals",
+      "nombre": "Over",
+      "punto": 23.5,
+      "cuota": 1.9,
+      "pinnacle": 1.97
+     },
+     {
+      "id": "66cc3b98e9e67560a34198715ee78d75|totals|Under|23.5",
+      "mercado": "totals",
+      "nombre": "Under",
+      "punto": 23.5,
+      "cuota": 1.8,
+      "pinnacle": 1.92
+     }
+    ],
+    "pinnacle_h2h": {
+     "Alexander Zverev": 1.41,
+     "Arthur Fils": 3.18
     }
    }
   ]
@@ -1848,6 +1898,36 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-19T08:01+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-18T08:01+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -1966,39 +2046,9 @@
    "hora": "2026-11-15T08:00+00:00",
    "texto": "🎾 Cartelera: 3 partidos en las próximas 24 horas (casa: Betsson).",
    "tipo": "info"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-14T08:00+00:00",
-   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-18",
+ "ultima_decision": "2026-11-19",
  "oficina": {
   "total": {
    "apuestas": 2,
@@ -2071,182 +2121,6 @@
   "yield": -0.07393939393939394
  },
  "partidos_info": {
-  "d87ade1e56f0c96e3b28b59dea344837": {
-   "id": "d87ade1e56f0c96e3b28b59dea344837",
-   "jugadores": [
-    "Elina Svitolina",
-    "Karolina Muchova"
-   ],
-   "inicio": "2026-11-11T20:00+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-11T19:00+00:00",
-   "elo": 0.499,
-   "elo_general": 0.443,
-   "elo_en_superficie": 0.555,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Elina Svitolina",
-     "mercado": null,
-     "elo": 1907,
-     "elo_superficie": 1927,
-     "forma": [
-      "G hard vs Ann Li",
-      "P hard vs Zheng Qinwen",
-      "G hard vs Liudmila Samsonova",
-      "G hard vs Guo Hanyu",
-      "P hard vs Sonay Kartal"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Venció a Federer en Wimbledon, fue a la guerra y ahora vuelve al tenis como entrenador - TV Azteca",
-       "fuente": "TV Azteca",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1Nvcmd4SjRzcDJNWndPTU41RE1Qd3ZDTWU5WXV4cVo0VDFtX3V3ajNaV1VzTHJmQzhFemxYRVZ4cDdCU1VhbkJEanRXdC16QlBZWXpFVmdwUl9yNVNDYmJNdGdia0pudlRxSnRnNXRHSFhQSUdQYWM1U2FQNXdISnZKblFVaVZVcUdwTDVqY3NlemI3WUYtSGxVZGczbjBNTkpLdzFvSXhPRm9uYmE3bUFyZHo0U0tOa004WXlQOGdYdVEyclRrNEVqUk9Vdm5VYWtNSzU3N00?oc=5"
-      },
-      {
-       "titulo": "WTA Finals – Svitolina vs Muchova: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW51Z0hKcUFSNE9xQTVmRHpORWVJT2JuVWdIQlQ4SThiYWtNQ0FtTWJpOU00N0xPT1FDbVRXQ1dTaV8wV1JENy1LVXNRN0FWRmU3ekZQaVFzUkN0UDVleU1ySDdIOTM5YllRSGR1OEdLYk5sT3VNTUVsczVNY0lXY2xWTElEREw5MS0wWWd5dU9NQTRic29sSWZacnpPRVpvb0lLbHZqczU0SE03aE1iSVJoY3VCVWlNTTRUSGhyckQ3RXRQUDdwSklJQTZOZms?oc=5"
-      },
-      {
-       "titulo": "Resumen del Elina Svitolina - Karolína Muchová - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-10",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXlDSzZ0UmF0ajc3TmUwM1dCR0ZlMWpkaXVDWDlkdThZWWlIX21SalMxSmRhM3RJU0lfc0RXN0RmbllrLXdwUGNmUERCWGdTSTY1T0RSZDJjRnhCaHZQVi1OME5HQTVUT0RfZmJzR0EyTUE4dFlQS3ZzdUlxNXBWUldrazh5UHJhVUtZUTNwYjhuYkt6b0pFSFJoei15RkFBdmRWQl9TR1A1bHM?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Karolina Muchova",
-     "mercado": null,
-     "elo": 1947,
-     "elo_superficie": 1888,
-     "forma": [
-      "G hard vs Liudmila Samsonova",
-      "G hard vs Naomi Osaka",
-      "P hard vs Nikola Bartunkova",
-      "G hard vs Catherine McNally",
-      "P hard vs Diana Shnaider"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals – Svitolina vs Muchova: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW51Z0hKcUFSNE9xQTVmRHpORWVJT2JuVWdIQlQ4SThiYWtNQ0FtTWJpOU00N0xPT1FDbVRXQ1dTaV8wV1JENy1LVXNRN0FWRmU3ekZQaVFzUkN0UDVleU1ySDdIOTM5YllRSGR1OEdLYk5sT3VNTUVsczVNY0lXY2xWTElEREw5MS0wWWd5dU9NQTRic29sSWZacnpPRVpvb0lLbHZqczU0SE03aE1iSVJoY3VCVWlNTTRUSGhyckQ3RXRQUDdwSklJQTZOZms?oc=5"
-      },
-      {
-       "titulo": "Sabalenka y Andreeva arrancan con triunfo y se medirán en las WTA Finals - https://fomoera.com/",
-       "fuente": "https://fomoera.com/",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBudUxnOVd5S2J6a0NjMHhMS3JkLXA3T2d1dWNwdDhNSU52T0ttLXV2MG9QelIyZGdwN3RWWHVaS2ZzLW1wMXdWcElwMjdjUnZjaGpEU2RzUzlSLUV5dW1yYkRzQmF2cjVhU05Z?oc=5"
-      },
-      {
-       "titulo": "Resumen del Elina Svitolina - Karolína Muchová - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-10",
-       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXlDSzZ0UmF0ajc3TmUwM1dCR0ZlMWpkaXVDWDlkdThZWWlIX21SalMxSmRhM3RJU0lfc0RXN0RmbllrLXdwUGNmUERCWGdTSTY1T0RSZDJjRnhCaHZQVi1OME5HQTVUT0RfZmJzR0EyTUE4dFlQS3ZzdUlxNXBWUldrazh5UHJhVUtZUTNwYjhuYkt6b0pFSFJoei15RkFBdmRWQl9TR1A1bHM?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "d1549c8585e649677db3579affc1da2e": {
-   "id": "d1549c8585e649677db3579affc1da2e",
-   "jugadores": [
-    "Aryna Sabalenka",
-    "Mirra Andreeva"
-   ],
-   "inicio": "2026-11-11T21:10+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-11T19:00+00:00",
-   "elo": 0.518,
-   "elo_general": 0.47,
-   "elo_en_superficie": 0.566,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Aryna Sabalenka",
-     "mercado": null,
-     "elo": 1929,
-     "elo_superficie": 1955,
-     "forma": [
-      "G hard vs Jessica Pegula",
-      "P hard vs Elena Rybakina",
-      "G hard vs Renata Zarazua",
-      "P hard vs Nikola Bartunkova",
-      "P hard vs Ann Li"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Sabalenka es insultada durante una transmisión de las WTA Finals - Flashscore.es",
-       "fuente": "Flashscore.es",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVNQYUdIdzZlNWdLalJsRGgzbF9QSm9XZThZa3VPMWJtZzFjZ1BnSGFNYUVhRk9xY09NUXR2UFJaUl9EeWdsMHpmUU5laF9KN1BJN2g4ZUtqdTlXb1BocDFPdmt3LUhlRjU2cWdNaUtMOTNaN1JFQVJJSzlwdVF4VkMtM1A5Mmo1ZnM2STFhc2lxSU9fM19pTmtIVWFwZjFuaTQzNGR6c2xJb056dWc?oc=5"
-      },
-      {
-       "titulo": "Polémica por un nuevo micro abierto en el tenis: \"Mira, mira, Sabalenka es horrible\" - 20Minutos",
-       "fuente": "20Minutos",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHJZSDY4S2hnNHZDS1V1SVh0TXFCNU9FRVFkTjA3UlFGQUhHekNuS2lYeVczUldZSUM5Vm93MlE5bTZ5NGl2U29XSnpjZEt4MUx2Mmw2RmpzTkN4eFU0eUw2NGIydmQ1cWRDc3prMEpERFdISEFZUU03bXF3cE9BcnhmeGhsaFlrS0J6UlRGUi1kZkItREhKWWlYOWRPUVp6YkdtamNKYnZrZlliYlI5Y0M2M0lTTU5pWU5yMEpXeUhhQkZBcFBr?oc=5"
-      },
-      {
-       "titulo": "WTA Finals – Sabalenka vs Andreeva: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxmVC00cFMwY1U1SUROY1l6YU9tYU5UY0ZTRFhibkFhUVNLZEVqRlBUX2VXMjgtYm8yRHh6OTlCQzhjQWxlbnlTWVRhUW0wYm05OHl4ZXh4M0plUm1WbkZSd0RzTGZVbW9lQWpFTjVNbmtoR2pkR3VSS0ViRXhhV0hfN1dzZVJINDJjZUdCZkpLMWtyZi1oYnhPZTd3eDB3a25VbEZHOHZsZ1ZVb0VHYk9lZGQ1eDZyNEhfbkVteWJuZHBrdVVnR2Z2bENMSUVM?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Mirra Andreeva",
-     "mercado": null,
-     "elo": 1950,
-     "elo_superficie": 1909,
-     "forma": [
-      "G hard vs Polina Kudermetova",
-      "G hard vs Daria Snigur",
-      "G hard vs Ekaterina Alexandrova",
-      "G hard vs Nikola Bartunkova",
-      "P hard vs Zheng Qinwen"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals – Sabalenka vs Andreeva: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkxmVC00cFMwY1U1SUROY1l6YU9tYU5UY0ZTRFhibkFhUVNLZEVqRlBUX2VXMjgtYm8yRHh6OTlCQzhjQWxlbnlTWVRhUW0wYm05OHl4ZXh4M0plUm1WbkZSd0RzTGZVbW9lQWpFTjVNbmtoR2pkR3VSS0ViRXhhV0hfN1dzZVJINDJjZUdCZkpLMWtyZi1oYnhPZTd3eDB3a25VbEZHOHZsZ1ZVb0VHYk9lZGQ1eDZyNEhfbkVteWJuZHBrdVVnR2Z2bENMSUVM?oc=5"
-      },
-      {
-       "titulo": "Horario y dónde ver en TV y online el Aryna Sabalenka-Mirra Andreeva de fase de grupos - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeWd5ZDAwLWtoR2huMERybXJTYkdlUGRXY2JsRTJiRFJMSXY1ZXBmeFZhbWpxazNHMjdJaEpnMkVnWVVzR2dQVUdCMmJqSkRDb2pTc1gwNUhnajE0X0RpTjVsUzlmajBfMWN0TmhKZExQM3JPUWp6SlRVWU50cC1lWkVxUXV1RmxPVjE3MWdtOFd3N1RVUlc1eGRKS0xncWtnQ3VCbGctbk5feWZiMS1jTEtXX3hrV2R6UlNldTloVVMwbDZ5eTR1TzZ5enYybjF3SnZCOHU3MG04SmRNajAtaENZMUxlTmtFcTFlY1ZHdUI2QjRySVRiRlQ5SVQ2TEU4dXNHVFlFUFZmRU1rWmtrNVVxaw?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Mirra Andreeva vs. Aryna Sabalenka - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzZkaGFPRGE0dkJ0N0ZUVXRrbk9EOEZfQVZSeEJhbW85QjJLRUV5TElfRW5QX3JkV1l6WC1VbHgzTDBRZ2tGaEhxMXFHeXZqVVBHRC1jcGx4ejFoRThtUTFKbndiMDY3bjdlN1pHVFczUDAyWkhwWklxdUcyOHJ4QVV2WkdUZEZLMkZpLUtpclF0d05RQXUzZzNlbmJVT09FWUh2MA?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "b8a1b5d0077794775db0a2ca6b15baf7": {
    "id": "b8a1b5d0077794775db0a2ca6b15baf7",
    "jugadores": [
@@ -3562,6 +3436,182 @@
        "fuente": "ATP Tour",
        "fecha": "2026-11-18",
        "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpYUExxbjdjSXUyTDZWVWhlNUg1cUtsY0ZCQ2wtT3d2Q1JnUEtUeTk1TUVHY3ZTam1JMzFhdjlBLThibzEydi15ZzBVeGVKam5vdGxpLTduSUdoOWMyRDBqd1JFNm5xWER1WnQxdWlKeG1lejJSMkV4T05ub0JOZXYwNWljZC01YWhoX2d5elZIUmdDZF9oNjEtWjB1dw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "91d621e106bf38d41c61739852993840": {
+   "id": "91d621e106bf38d41c61739852993840",
+   "jugadores": [
+    "Ben Shelton",
+    "Rafael Jodar"
+   ],
+   "inicio": "2026-11-19T13:00+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-19T08:01+00:00",
+   "elo": 0.602,
+   "elo_general": 0.569,
+   "elo_en_superficie": 0.635,
+   "cara_a_cara": [
+    0,
+    0
+   ],
+   "detalle": [
+    {
+     "nombre": "Ben Shelton",
+     "mercado": 0.693,
+     "elo": 1902,
+     "elo_superficie": 1923,
+     "forma": [
+      "G hard vs Aleksandar Kovacevic",
+      "P hard vs Jerome Kym",
+      "G hard vs Cameron Norrie",
+      "G hard vs Arthur Rinderknech",
+      "G hard vs Tommy Paul"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "ATP Finals 2026: Partidos del día, horarios y dónde ver el torneo de tenis en Turín, Italia - Olympics",
+       "fuente": "Olympics",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbENtOXlWV3FmeHlKTU1uYV9JUjdRZ0JiR2xrYk4xZDZpTmplSTZWMEYwUUtmaVVSRl9jdFJvZjlsUWstb1UzSkpHVXlyN0swQjJIQkJVRkJMMjRTN0xrRk9FY3dQXzg1OFJhTy1oZDZja0p2QU9rNjhMLWJXUzJRUDktTVgxUkE?oc=5"
+      },
+      {
+       "titulo": "A qué hora juega Rafa Jódar hoy contra Ben Shelton y dónde ver el partido de las ATP Finals 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFJ2aGtrZGVSXzdTTzZmZUZ2X2Q4eVpDZF9KWUZoc0xPLWEtUWYwUl82Zmh0UUJpX3hBdlZ6bUdBVF9wWE5td1RhQm14Zk9uay10aTktMmhOb3MwQ01RMzA2OF9aU2tpZkpXYTh5dFlIRWVYRTUyVDczd3FCemRGMkxra3pROVdKdm5PWlY0al9fcWFn0gGUAUFVX3lxTE5FTThVMi1mYU55Z1JRUGNOTHF5S1E3MHY4TkV0eFFYc1dFSHBqNmhBYThBMlptZHVYQ3NPS1MyZVZOMHEyUEFaWElWRmlZTnlUZi1zMm9FNmdreDZkVWQ4V1gtWHZoOW44bHR3RGRLUE9zeW56ajFMajRsUFR4aDVEdng0aTNCM096R1hzTnNaZjA5eHM?oc=5"
+      },
+      {
+       "titulo": "nitto atp finals 2026 escenarios clasificacion sf 17 noviembre | Nitto ATP Finals | Tennis - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGFldTNSNzZONEVGWXMtdS0xaWtyLVhfT01EeGVZZ3VrUC1wd3ZUZkJfTU5YZEZJYW9hY3BWdVFkR2pEbkpPTGZqVkR0SDBQcDVaT05CZjB1Z0l1LTFPenloZjhqaXdfd1daUUs2aG03d1RyajBmelo5aGNQWDNKVDE1ZHVnX1k2VTllbEpnb09JcXgyWWk5VlJ0QW5VR0VrdzN3?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Rafael Jodar",
+     "mercado": 0.307,
+     "elo": 1854,
+     "elo_superficie": 1827,
+     "forma": [
+      "P hard vs Alejandro Davidovich Fokina",
+      "G hard vs Alejandro Tabilo",
+      "P hard vs Valentin Vacherot",
+      "G hard vs Alejandro Tabilo",
+      "P hard vs Casper Ruud"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "A qué hora juega Rafa Jódar hoy contra Ben Shelton y dónde ver el partido de las ATP Finals 2026 por TV y en directo - SPORT",
+       "fuente": "SPORT",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFJ2aGtrZGVSXzdTTzZmZUZ2X2Q4eVpDZF9KWUZoc0xPLWEtUWYwUl82Zmh0UUJpX3hBdlZ6bUdBVF9wWE5td1RhQm14Zk9uay10aTktMmhOb3MwQ01RMzA2OF9aU2tpZkpXYTh5dFlIRWVYRTUyVDczd3FCemRGMkxra3pROVdKdm5PWlY0al9fcWFn0gGUAUFVX3lxTE5FTThVMi1mYU55Z1JRUGNOTHF5S1E3MHY4TkV0eFFYc1dFSHBqNmhBYThBMlptZHVYQ3NPS1MyZVZOMHEyUEFaWElWRmlZTnlUZi1zMm9FNmdreDZkVWQ4V1gtWHZoOW44bHR3RGRLUE9zeW56ajFMajRsUFR4aDVEdng0aTNCM096R1hzTnNaZjA5eHM?oc=5"
+      },
+      {
+       "titulo": "Estadísticas Partido: Ben Shelton vs Rafa Jódar Fase de Grupos en Final ATP 2026 - EL PAÍS",
+       "fuente": "EL PAÍS",
+       "fecha": "2026-11-18",
+       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDlFSDhSdGk3LV9EUUY5SmRCbThMZDcyTG9Cd1NLSzU0d29Ca3NKZXhSZW5fV21JX183cHNQazd4Mlh6anF1Z1VwbmV2YVVMSFhJelJFWXBUc2pvUVcxdnlRWlZTUnlBeW9ROURZY0RHS1NnZkVNVVMtS1I5RGpxbk5iNUd3Qm5ValhPTUNrUTdzYVRWbnd5YWFxRQ?oc=5"
+      },
+      {
+       "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Shelton – Jódar - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-11-18",
+       "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yd2liTWVuZThla3dqendaMnozOFZUS3YtVVdNS0hrZUg4cU9yV2oyT29MUTZySnRSRE00bjdBeVFGaHBKcXlLWjhtczdEcWhoc2twVEVKNDVVaHFrYXo0YmNsS2hOa2dQNTRYYnd3WDloSzB1cDRiMA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "66cc3b98e9e67560a34198715ee78d75": {
+   "id": "66cc3b98e9e67560a34198715ee78d75",
+   "jugadores": [
+    "Alexander Zverev",
+    "Arthur Fils"
+   ],
+   "inicio": "2026-11-19T19:30+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-19T08:01+00:00",
+   "elo": 0.582,
+   "elo_general": 0.597,
+   "elo_en_superficie": 0.568,
+   "cara_a_cara": [
+    4,
+    2
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.693,
+     "elo": 1974,
+     "elo_superficie": 1915,
+     "forma": [
+      "G hard vs Martin Landaluce",
+      "G hard vs Tallon Griekspoor",
+      "G hard vs Arthur Fery",
+      "P hard vs Alex de Minaur",
+      "P hard vs Lorenzo Musetti"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
+      },
+      {
+       "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Zverev – Fils - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16TGdwdkw2RVlCd2NJcjlKWFdtRm52TW96a25OUFJ2eFdvXzZ4a0dKR3NxRk5RUmc1YnExRkhuMVNsdC1sLWhCREhXWG1BTUM0cUE1UldRMkRKUjNNU0x2OVFXN2t6MlIxLThCLXdHYzhyRW5qVVE?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev recibe una demanda por sus comentarios sobre su expareja - Mezha.net",
+       "fuente": "Mezha.net",
+       "fecha": "2026-11-18",
+       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmszWmRFM1B4aEhsczRaNFJCNVdPSDdUc0dMY3VtVXlJZnd4WUhNekxwc2tPZ1hJeWhwTkZ4MHhaWS13NVpNcUhVd2dscHBhWjFyMjhNZ0hYTnhlYXlEaVA3bmVnMXZfbHVZMzlMOTJub3VhcHRibmlSWFBRbWNWbXFlSDBZYVVkdXI2UkFaY2hOUmlab3V2c1gwSDQ2Zw?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Arthur Fils",
+     "mercado": 0.307,
+     "elo": 1905,
+     "elo_superficie": 1868,
+     "forma": [
+      "P hard vs Jan-Lennard Struff",
+      "G hard vs Giovanni Mpetshi Perricard",
+      "G hard vs Alex Michelsen",
+      "G hard vs Tomas Machac",
+      "P hard vs Taylor Fritz"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Horario, televisión y dónde ver Nitto ATP Finals 2026: Zverev – Fils - Canal Tenis",
+       "fuente": "Canal Tenis",
+       "fecha": "2026-11-19",
+       "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16TGdwdkw2RVlCd2NJcjlKWFdtRm52TW96a25OUFJ2eFdvXzZ4a0dKR3NxRk5RUmc1YnExRkhuMVNsdC1sLWhCREhXWG1BTUM0cUE1UldRMkRKUjNNU0x2OVFXN2t6MlIxLThCLXdHYzhyRW5qVVE?oc=5"
+      },
+      {
+       "titulo": "Jódar se juega su última carta ante Shelton, Zverev se mide con Fils en el Día 5 en Turín - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-18",
+       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGJBR21Zei1LY1kwVlR2YXM5ZXRmZTd3NndscUdWZlNubXExZ0duZnBDc0pvZW8xOTBqck0xTmx0M3VuWUNzb0U2OHF4dXZWZ3BHdkV6NENwZkR4cHp2eGJXYjJjX1VKNlhFSDBEWlQxZHFBRi03VlJaMUpQUVhRYmctelljYjBsRDcxaV82OUJBdXV5M3BZ?oc=5"
+      },
+      {
+       "titulo": "Alexander Zverev vs Arthur Fils · Round Robin · ATP Finals - Tennis.com",
+       "fuente": "Tennis.com",
+       "fecha": "2026-11-18",
+       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUJuYm9vVE94VjZoNTlkNmh4SEFxTlZOcFVqT0M2UUN3QkhmYV96cFRhQmpRUm5RUjN6eXBfdnJiY29aRjZvcnZrZnU4Z2d1aUVVR3V5YzNBdExGRE1zRUxFUkZZNDJiM3JIcFE5MzJ2YXRQaEVUUzZ6d2VmMnlKQm1SeHVXWHoxaXFKWG1QRjJGMGM?oc=5"
       }
      ]
     }
