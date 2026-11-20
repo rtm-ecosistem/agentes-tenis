@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T19:01+00:00",
+ "actualizado": "2026-11-20T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 2002,
-  "sport888": 2002,
-  "betsson": 2004
+  "williamhill": 0,
+  "sport888": 0,
+  "betsson": 0
  },
  "creditos": {
   "mes": "2026-11",
   "gastados_mes": 57,
   "restantes": 443,
   "usados": 57,
-  "actualizado": "2026-11-19T08:01+00:00",
-  "prevision_mes": 33,
+  "actualizado": "2026-11-20T08:01+00:00",
+  "prevision_mes": 28,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -990,59 +990,8 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-19T08:01+00:00",
-  "partidos": [
-   {
-    "id": "66cc3b98e9e67560a34198715ee78d75",
-    "deporte": "tennis_atp_finals",
-    "torneo": "ATP Finals",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-19T19:30+00:00",
-    "jugadores": [
-     "Alexander Zverev",
-     "Arthur Fils"
-    ],
-    "opciones": [
-     {
-      "id": "66cc3b98e9e67560a34198715ee78d75|h2h|Alexander Zverev|",
-      "mercado": "h2h",
-      "nombre": "Alexander Zverev",
-      "punto": null,
-      "cuota": 1.37,
-      "pinnacle": 1.41
-     },
-     {
-      "id": "66cc3b98e9e67560a34198715ee78d75|h2h|Arthur Fils|",
-      "mercado": "h2h",
-      "nombre": "Arthur Fils",
-      "punto": null,
-      "cuota": 3.15,
-      "pinnacle": 3.18
-     },
-     {
-      "id": "66cc3b98e9e67560a34198715ee78d75|totals|Over|23.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 23.5,
-      "cuota": 1.9,
-      "pinnacle": 1.97
-     },
-     {
-      "id": "66cc3b98e9e67560a34198715ee78d75|totals|Under|23.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 23.5,
-      "cuota": 1.8,
-      "pinnacle": 1.92
-     }
-    ],
-    "pinnacle_h2h": {
-     "Alexander Zverev": 1.41,
-     "Arthur Fils": 3.18
-    }
-   }
-  ]
+  "actualizado": "2026-11-20T08:01+00:00",
+  "partidos": []
  },
  "apuestas": [
   {
@@ -1848,6 +1797,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-20T08:01+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-20T08:01+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-19T08:01+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -1986,19 +1945,9 @@
    "hora": "2026-11-15T08:00+00:00",
    "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
-  },
-  {
-   "hora": "2026-11-15T08:00+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-15T08:00+00:00",
-   "texto": "🎾 Cartelera: 3 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-19",
+ "ultima_decision": "2026-11-20",
  "oficina": {
   "total": {
    "apuestas": 2,
