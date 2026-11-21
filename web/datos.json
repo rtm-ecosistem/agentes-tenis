@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T13:01+00:00",
+ "actualizado": "2026-11-21T19:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -992,56 +992,6 @@
  "cartelera": {
   "actualizado": "2026-11-21T08:00+00:00",
   "partidos": [
-   {
-    "id": "81c3faeaadd3d42734cd831b32b32597",
-    "deporte": "tennis_atp_finals",
-    "torneo": "ATP Finals",
-    "circuito": "ATP",
-    "superficie": "hard",
-    "inicio": "2026-11-21T13:30+00:00",
-    "jugadores": [
-     "Carlos Alcaraz",
-     "Ben Shelton"
-    ],
-    "opciones": [
-     {
-      "id": "81c3faeaadd3d42734cd831b32b32597|h2h|Ben Shelton|",
-      "mercado": "h2h",
-      "nombre": "Ben Shelton",
-      "punto": null,
-      "cuota": 4.4,
-      "pinnacle": 4.9
-     },
-     {
-      "id": "81c3faeaadd3d42734cd831b32b32597|h2h|Carlos Alcaraz|",
-      "mercado": "h2h",
-      "nombre": "Carlos Alcaraz",
-      "punto": null,
-      "cuota": 1.21,
-      "pinnacle": 1.21
-     },
-     {
-      "id": "81c3faeaadd3d42734cd831b32b32597|totals|Over|22.5",
-      "mercado": "totals",
-      "nombre": "Over",
-      "punto": 22.5,
-      "cuota": 1.8,
-      "pinnacle": null
-     },
-     {
-      "id": "81c3faeaadd3d42734cd831b32b32597|totals|Under|22.5",
-      "mercado": "totals",
-      "nombre": "Under",
-      "punto": 22.5,
-      "cuota": 1.9,
-      "pinnacle": null
-     }
-    ],
-    "pinnacle_h2h": {
-     "Ben Shelton": 4.9,
-     "Carlos Alcaraz": 1.21
-    }
-   },
    {
     "id": "32e23a0b745bed6c0a23f60fab451adb",
     "deporte": "tennis_atp_finals",
@@ -3362,7 +3312,7 @@
    "inicio": "2026-11-21T19:30+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-21T13:00+00:00",
+   "actualizado": "2026-11-21T19:00+00:00",
    "elo": 0.594,
    "elo_general": 0.638,
    "elo_en_superficie": 0.55,
@@ -3386,22 +3336,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Estadísticas Partido: Alexander Zverev vs Daniil Medvedev Semifinal en Final ATP 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
+       "titulo": "Alexander Zverev - Daniil Medvedev, en directo hoy: sigue el partido de ATP Finals, Final Stage - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVc2alRHRWVRYTNaaVpXZDRRRDdjekVqRnFLM09tMkVzSkVPazJ4dXkzTUVjeldJMWloTnExUFlJdkpTZF9iSENaUDNjelJ2UUZrUmg1WV9XenhQR3BJQl9tLUtsSFJxdFlBd20wU09hQnFsWWdIQVFyNkFrT1djempTS0l1eWV2dXliSDNrTDZ2SVc4NFVURC1FQXBSbU0?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWlBWV9kTU1XUHBmd2JGYm1ZT0Q5emQtVm1DX0JRQy1xUXZGREVqSERkblRCalhzSkwwQ1Z0NTIxSjlVX0poNzVhbnZhcG12R3Bta3U0NjZYdl9BR2o1TW1WSVRXTXZkWTl3Q2ZEVGNlYTROWXlIYURZeUpVc3phMEVNcWlFRHpRcWtvYnRpZ2lacEZnWGJ2dTNxZlQ5azVtMEYtMHBxZXlBckN3cWlwMzFWT1FqTlBUbG5ldVpQNHQ3SHBpZFJ3UWhKR2xVaWgyOHhJb0xIMG9ZUl81RXZKU2IydWZQRFRKakJ2N2hoeWdpbGVkUmU2RQ?oc=5"
       },
       {
-       "titulo": "A qué hora y dónde ver el partido Zverev contra Medvedev en las semifinales de las ATP Finals - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDBLTEE1NU05cFpxNC1JOUNEaEU1Q292VlFZWE9aTUdaeTNOUmNlbTZxZ1I4OXJMaFB0R01YMVFUbGJuNVVuX2FXcWlVZUM1cFB5WnZ6S3V0S0ltYzZGWmI1Mkxqc0FQYjgtRG4tdnMtdzF6T0tuZTA5Z2xHWk9YLTRjNXAxNHlZSWtPM2xhQ29mY2R1VUZXYmwzdw?oc=5"
-      },
-      {
-       "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+       "titulo": "ATP Tour Flashback presented by Nitto: Zverev's second Nitto ATP Finals crown | ATP Tour | Tennis - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjhjY0dQUnFjVEVnenFVNUlUYzc5emFQZHA3Y09aeUZnV0NIMGxHbHJmajU0bWZDZWx1dWNFenlhd3dNUUpiY3E0UE9nOW5IbFVjNU4wdXJxMUxMMWRXcGdhS3ZfYWJNTEZHblF5VDgwNWlHVzNlZFQxZzlyRDJMWjQ5UXVsQW8ybk80WGNKanpnWUFTWEl4cVdEazhQSlhjY1VnbG5nR0trbnRI?oc=5"
+      },
+      {
+       "titulo": "Daniil Medvedev, antes de enfrentarse a Alexander Zverev: «No estoy muy motivado» - Tennis World ES",
+       "fuente": "Tennis World ES",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ25IVU9BY0xjRTJyYV9ZZncxV1RkbExYZ25lclVyaVB5VVlsalo1MXptdXVaeXhwWkFQZGloOVNZS3p3QXBFLVBIc0FQcUd3XzJLczZBbGplYlY1ZWk1WXpWY0F3VFJNS0QyZW1oOXdYaWN0eU16NXNiTnByRTFYODVzc1Z6OWlpaG8wYktyUmVqVzV2V1YxSTkxdllSYzM1QUVuOFJZLUlhM2N0NlMwR2R3MFd3VFlrSkZYUHd3NUoxaDcyZ0VjZQ?oc=5"
       }
      ]
     },
@@ -3420,22 +3370,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Estadísticas Partido: Alexander Zverev vs Daniil Medvedev Semifinal en Final ATP 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
+       "titulo": "Alexander Zverev - Daniil Medvedev, en directo hoy: sigue el partido de ATP Finals, Final Stage - Europa Press",
+       "fuente": "Europa Press",
        "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVc2alRHRWVRYTNaaVpXZDRRRDdjekVqRnFLM09tMkVzSkVPazJ4dXkzTUVjeldJMWloTnExUFlJdkpTZF9iSENaUDNjelJ2UUZrUmg1WV9XenhQR3BJQl9tLUtsSFJxdFlBd20wU09hQnFsWWdIQVFyNkFrT1djempTS0l1eWV2dXliSDNrTDZ2SVc4NFVURC1FQXBSbU0?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWlBWV9kTU1XUHBmd2JGYm1ZT0Q5emQtVm1DX0JRQy1xUXZGREVqSERkblRCalhzSkwwQ1Z0NTIxSjlVX0poNzVhbnZhcG12R3Bta3U0NjZYdl9BR2o1TW1WSVRXTXZkWTl3Q2ZEVGNlYTROWXlIYURZeUpVc3phMEVNcWlFRHpRcWtvYnRpZ2lacEZnWGJ2dTNxZlQ5azVtMEYtMHBxZXlBckN3cWlwMzFWT1FqTlBUbG5ldVpQNHQ3SHBpZFJ3UWhKR2xVaWgyOHhJb0xIMG9ZUl81RXZKU2IydWZQRFRKakJ2N2hoeWdpbGVkUmU2RQ?oc=5"
       },
       {
-       "titulo": "A qué hora y dónde ver el partido Zverev contra Medvedev en las semifinales de las ATP Finals - Punto de Break",
-       "fuente": "Punto de Break",
+       "titulo": "Daniil Medvedev, antes de enfrentarse a Alexander Zverev: «No estoy muy motivado» - Tennis World ES",
+       "fuente": "Tennis World ES",
        "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDBLTEE1NU05cFpxNC1JOUNEaEU1Q292VlFZWE9aTUdaeTNOUmNlbTZxZ1I4OXJMaFB0R01YMVFUbGJuNVVuX2FXcWlVZUM1cFB5WnZ6S3V0S0ltYzZGWmI1Mkxqc0FQYjgtRG4tdnMtdzF6T0tuZTA5Z2xHWk9YLTRjNXAxNHlZSWtPM2xhQ29mY2R1VUZXYmwzdw?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ25IVU9BY0xjRTJyYV9ZZncxV1RkbExYZ25lclVyaVB5VVlsalo1MXptdXVaeXhwWkFQZGloOVNZS3p3QXBFLVBIc0FQcUd3XzJLczZBbGplYlY1ZWk1WXpWY0F3VFJNS0QyZW1oOXdYaWN0eU16NXNiTnByRTFYODVzc1Z6OWlpaG8wYktyUmVqVzV2V1YxSTkxdllSYzM1QUVuOFJZLUlhM2N0NlMwR2R3MFd3VFlrSkZYUHd3NUoxaDcyZ0VjZQ?oc=5"
       },
       {
-       "titulo": "A qué hora es el Zverev - Medvedev: horario y dónde ver hoy en TV las segunda semifinal de las ATP Finals - MARCA",
-       "fuente": "MARCA",
+       "titulo": "Carlos Alcaraz sufre y remonta ante Shelton para sellar su pase a la final de las Finales ATP - Heraldo de Aragón",
+       "fuente": "Heraldo de Aragón",
        "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk1pOEpLM0EyekE0ekxCU0tqNGtXa3Y5cHhYN2hMV0g2bzA4WjZTWXZDTkU4QnpmNWZEYWs2MHViSVhIeU94SldhSkQ0UDJuaURScjJfeEFGdDNJai1ieDFKUThST3dsZkc2b1hxWGZ4QXNHQ21ZRXptVkNFeURnLTQwT1lGMWlzZnVqNlNHYkNSc1lpWW5EQ1BWMnFtVmQ2NTVfOVhNdWNGWW9iZExuUzhMbllzOUZaRkVSajJR0gG-AUFVX3lxTFBkbkh2X2x3TXNlX0NJcndkX3NEaHZJUmZCbnF4bjJjbGhZYXVjcWhCWlhnS2VZTjJ6YzhLZFNhUGFGdl9rX2FBOHBwUzdlTF9zSjQ5c1dhNFlsWXV3aW85VU1wTWdqazB6U0psdGplRElJd0VMcHJodXBhNFktcnl1c2FaazhhZEpvUHJlaXRxWW11ZE9wcS1WVks1OVBzTjFFdVF3VC1qM0h2U08zNWM3WXVmcnVzdURzUXMzanc?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYVhIMFRjczRzOUhVZkZmSlN6REN6MHJWZXRFZTBRQVRDVlpvekpZSWZmb3UzWnEzUmxxUjhZUU1FcXpzUHd4MG9oNTVHcDU0VjVQcXRiY1ZuMnV1Vk1wY1ZSRjdZeE9qQjh0UVQ5bGVfNVlXTExfdjVtQ1lVS0JtRXlOZ1lJc214UlhleFRrNll6M2VWOFV1M0NNY2hUaVJOODdYdjkzbWFNZVNKRF9aVE1Hb1JGZUZlTl9yVlpUbXRmeElGdHZXV0ZYTDVndFVmcmZsTm0yTmhkV25FT1YzUUh30gHnAUFVX3lxTFBvbGNyWFJ3UXFZV3JJX2Zoak9tZUVmWFFxU01JSVViTERkSnJsV2M4anRQVU1DZzJibTV6TGVrMGEtOG9mNXZjQnZmcUMyb2U3UGdYQ2ZWX1BheGVOZTdIUDJvTHBxdEpXMUdNeHE2T1RQd0RZTm5pYlU4ZmJuR1lJVC02YnpuM285X2lsVHNpNUdPcHF5V2tPM2hELWJYNzA1ak00dWx1c3ZWTUs4RTdwcklLbzY4N2pLZ3dBNy1FRHJ0SU5kcG9pRk40eV9aM21pS3dfNndHUWVNRmM1TGdFeDhPYmJvWQ?oc=5"
       }
      ]
     }
