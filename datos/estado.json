@@ -165,9 +165,9 @@
     "motivos": {
      "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
-     "aburrimiento": "Lleva 21 días sin apostar."
+     "aburrimiento": "Lleva 23 días sin apostar."
     },
-    "hora": "2026-11-19T08:01+00:00",
+    "hora": "2026-11-21T08:00+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,9 +325,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 22 días sin apostar."
+     "aburrimiento": "Lleva 24 días sin apostar."
     },
-    "hora": "2026-11-19T08:01+00:00",
+    "hora": "2026-11-21T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -472,9 +472,9 @@
      "aburrimiento": 0.27
     },
     "motivos": {
-     "aburrimiento": "Lleva 22 días sin apostar."
+     "aburrimiento": "Lleva 24 días sin apostar."
     },
-    "hora": "2026-11-19T08:01+00:00",
+    "hora": "2026-11-21T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -632,9 +632,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 22 días sin apostar."
+     "aburrimiento": "Lleva 24 días sin apostar."
     },
-    "hora": "2026-11-19T08:01+00:00",
+    "hora": "2026-11-21T08:00+00:00",
     "rent": 0.0
    }
   }
@@ -2185,36 +2185,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-07T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-07T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-07T08:00+00:00",
-   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-07T08:00+00:00",
-   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T08:10+00:00",
-   "texto": "📰 Noticias nuevas de Luca Van Assche – Ben Shelton, Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T08:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-07T09:10+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
@@ -2583,15 +2553,45 @@
    "hora": "2026-11-20T08:01+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-21T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 57,
-  "restantes": 443,
-  "usados": 57,
-  "actualizado": "2026-11-20T08:01+00:00",
-  "prevision_mes": 28,
+  "gastados_mes": 60,
+  "restantes": 440,
+  "usados": 60,
+  "actualizado": "2026-11-21T08:00+00:00",
+  "prevision_mes": 26,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2601,11 +2601,11 @@
  },
  "casa": "betsson",
  "cobertura": {
-  "williamhill": 0,
-  "sport888": 0,
-  "betsson": 0
+  "williamhill": 2002,
+  "sport888": 2002,
+  "betsson": 2004
  },
- "ultima_decision": "2026-11-20",
+ "ultima_decision": "2026-11-21",
  "ultima_sala": "2026-11-20-20",
  "noticias_vistas": [
   "82968b4d4d41",
@@ -3434,358 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "b8a1b5d0077794775db0a2ca6b15baf7": {
-   "id": "b8a1b5d0077794775db0a2ca6b15baf7",
-   "jugadores": [
-    "Marta Kostyuk",
-    "Coco Gauff"
-   ],
-   "inicio": "2026-11-12T20:00+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-12T19:00+00:00",
-   "elo": 0.247,
-   "elo_general": 0.332,
-   "elo_en_superficie": 0.161,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Marta Kostyuk",
-     "mercado": null,
-     "elo": 1914,
-     "elo_superficie": 1739,
-     "forma": [
-      "G hard vs Sloane Stephens",
-      "G hard vs Ekaterina Alexandrova",
-      "P hard vs Linda Noskova",
-      "P hard vs Liudmila Samsonova",
-      "P hard vs Maria Sakkari"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals - Kostyuk vs Gauff: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
-      },
-      {
-       "titulo": "Marta Kostyuk espera un mejor resultado tras ser «destrozada» por Coco Gauff en Cincinnati - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWF92MDVpSUN6SG1mTjRHSFgxX0FtMFdFbkU0cFM3NFVMVGhqLVZNVFFXamxKRlUzRG1CM21ubUtVaWQ1czNXWXBsc0tXd2ZZeU1WdVh0RjhPSFVhRzhhMUxrOFEzZF9CT0FPQzUzWTNKR1FleFEydTJXblRQemQ3V00wczFueU05X25mbUVORXNpeFBlMzVONkhoYzhESlV5TGFTR2VZTmI0VUNYTTJyZ3h3V3Q5YkJCODhrU3RlUlIwMWtaRmRCSExYN1hTUmVxanh0Tl8wUQ?oc=5"
-      },
-      {
-       "titulo": "Resumen del Marta Kostyuk - Coco Gauff - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2T3NELVpybXh3ODcxSWV0UkljZkNoU09Ba3dQcWg3aTNpSmpYRzd5dmgxdHVQSHA1ZHpqbXNaM3RGeW5pTFMxclNHdExLV01EZlBjZ1c0Z2RULVVzT2tEQ3FYc3RFRFF1RDdSdlJWLUlHWGViU3U1WVNlU3BJR2RtRzllbnEtamVFNm1jeWNueVFtbGQ1dUx1QXNQdEk0?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Coco Gauff",
-     "mercado": null,
-     "elo": 2035,
-     "elo_superficie": 2026,
-     "forma": [
-      "G hard vs Mirra Andreeva",
-      "P hard vs Elena Rybakina",
-      "G hard vs Camila Osorio",
-      "G hard vs Xinran Sun",
-      "P hard vs Elise Mertens"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals - Kostyuk vs Gauff: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFJrdGhSQUYtZjJjNTI0MEJpV1M1cjNONGlPNWk2b09RNm5Ibk9ZRFktemQwWlJmekN6MHlVZmlEeW1FejRkSHVqSW1HSWVZT2JKOEJ0UXRSWDY0aXd1aTBnY1hfdlp3WHBjdVRFNXhmSzN5b05KLXl0MXpoUDhWMzBrRnF0aUk2S1I4WWh1VXMxUFRHZVR3WFhJREFlQlhtcTJYT1d5Y3M?oc=5"
-      },
-      {
-       "titulo": "El refugio secreto de Coco Gauff en Florida que esconde la playa favorita de la tenista: no es Miami - Noticias del Vino",
-       "fuente": "Noticias del Vino",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMVo5SEpPVi1wTU8yUU4tVGJRV1lsaFR5X0d3c09fbFhWSlcyQmRTalVFX1hBYWZRaHI5UVZoUTJVcmN3UHdhTTIyeVhVQkpBMTdhYU1Kc1pvMl9KLTY5aDB2Q0tXY19tamdVaWprU2d0bHpQZUVVYm5DZXBJblpOXzhQQUZaS0NCY0FhSUdSUFhGQ21WZjY3aUJQUEJWemVHWEFmWUdiVXJlT3NGRXFtdjY1WlhlQmpLTC11ak5iUW5jMm5PVHFSbXZGanRNMWkxVkQzYTVITUZobXV6Y3J1V0RTc3o3b1dpdmJIQzNIN20?oc=5"
-      },
-      {
-       "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "7d0fa680caf6f5718ca51b421754252d": {
-   "id": "7d0fa680caf6f5718ca51b421754252d",
-   "jugadores": [
-    "Jessica Pegula",
-    "Linda Noskova"
-   ],
-   "inicio": "2026-11-12T21:30+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-12T19:00+00:00",
-   "elo": 0.571,
-   "elo_general": 0.511,
-   "elo_en_superficie": 0.632,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Jessica Pegula",
-     "mercado": null,
-     "elo": 1964,
-     "elo_superficie": 1934,
-     "forma": [
-      "G hard vs Leylah Fernandez",
-      "G hard vs Sorana Cirstea",
-      "G hard vs Emma Navarro",
-      "P hard vs Aryna Sabalenka",
-      "P hard vs Jelena Ostapenko"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals – Pegula vs Nosková: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEFTUE8zWUV5Z0dNdFAyQ01mekx1WnpMLUVmNUN2djlGQURraGN3LU1ZSXl0T2FuR2R4bnptVkJOYXVITHgtTjNRRVhhLUtzVVNIOXhXTkJMSldpZ0ZNdVpUV0piaUFBd0Q2OWp4eGpIVG9HcHJVV2dBdFVPN2JGVExMaUNrVGFQalpOai1iUktTTEc4WXpJNXNQb1RSLWlrb05oandxZnJGSFlwT1Nib0xYdXVESm9SeUc1ZkZzaUk5ZS1ZLS14VHBPSQ?oc=5"
-      },
-      {
-       "titulo": "FAGE WTA Finals Day 5 preview: How Pegula and Gauff can reach the semifinals - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjNESGgtM0FHb0hmaFNnNVNUalZPTTBUWlBfRWFGZURDRVhQTktWVHlRRFVEZ2JSLVNhZ1dyVlM4MDN3Mko0Vm5hVU5ublgzeVU4akYxRV90SXVfUzZtemFtWnJ4OHNtdEpyNUxpQVZXZHFKeXpfeXhpYV8xQk5UNTRKdzRuY0FydEJ1akFDV3NiVTRVcmdtdG5nSGhST2Myc0tmQjhOUjZGaEhseUxwZlYwc0JRbUZVbG9VRTdNcTV5VHpBZm5Nak1VMC1uckw1?oc=5"
-      },
-      {
-       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Linda Noskova",
-     "mercado": null,
-     "elo": 1957,
-     "elo_superficie": 1840,
-     "forma": [
-      "G hard vs Marta Kostyuk",
-      "P hard vs Aryna Sabalenka",
-      "G hard vs Elena-Gabriela Ruse",
-      "G hard vs Viktorija Golubic",
-      "P hard vs Ekaterina Alexandrova"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "WTA Finals – Pegula vs Nosková: fecha, hora y dónde ver: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNEFTUE8zWUV5Z0dNdFAyQ01mekx1WnpMLUVmNUN2djlGQURraGN3LU1ZSXl0T2FuR2R4bnptVkJOYXVITHgtTjNRRVhhLUtzVVNIOXhXTkJMSldpZ0ZNdVpUV0piaUFBd0Q2OWp4eGpIVG9HcHJVV2dBdFVPN2JGVExMaUNrVGFQalpOai1iUktTTEc4WXpJNXNQb1RSLWlrb05oandxZnJGSFlwT1Nib0xYdXVESm9SeUc1ZkZzaUk5ZS1ZLS14VHBPSQ?oc=5"
-      },
-      {
-       "titulo": "United Cup draw: Gauff, Noskova, Chwalinska headline 2027 field - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-12",
-       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHFMYloyQUpCcUhKaWYxeDNjcXlXS2VETy1ULUtSUWFJNV9fZTB2dHZlOVN3NlhUYzV2WGRNbC12TTFuaUpta2h4MFZJaVVCa0hnLTMzMWVEdGpqZUVDZmVfS1VqdEtDS1F3M242U2pTUkdRVmhpZXE0aW5QQWtuQmJ6WGpDcDZXcnppbm1zY0RnTlBjUFdqTm9UdXRkWE1WY0l6cFhLOU44NW5fbkRHckltZ2lHZw?oc=5"
-      },
-      {
-       "titulo": "Resumen del Jessica Pegula - Linda Nosková - Eurosport",
-       "fuente": "Eurosport",
-       "fecha": "2026-11-11",
-       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZlhMVnhQUWxIRTNkdWo4MUs4bVdyaDhGUEtVSF9idFR0a0pTcGpKckNRd0hteXF3bVR3SFZCT2c0Z29UMkNWalR6SV9vQ2xBVHpxUXRDR0EzSjRZWjJPMVBlSjA5am5HeXlZbTBuMHlvRnVyOGhibEN4d1RRSTlHOUtCQk0tb0FmaDFFVHVpQy1ja0VlcGdNamF1YmdTUENOdFp5T3Nn?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "6b92a67eab021047017da9d42e1e1fae": {
-   "id": "6b92a67eab021047017da9d42e1e1fae",
-   "jugadores": [
-    "Mirra Andreeva",
-    "Karolina Muchova"
-   ],
-   "inicio": "2026-11-13T20:00+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-13T19:00+00:00",
-   "elo": 0.517,
-   "elo_general": 0.504,
-   "elo_en_superficie": 0.53,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Mirra Andreeva",
-     "mercado": null,
-     "elo": 1950,
-     "elo_superficie": 1909,
-     "forma": [
-      "G hard vs Polina Kudermetova",
-      "G hard vs Daria Snigur",
-      "G hard vs Ekaterina Alexandrova",
-      "G hard vs Nikola Bartunkova",
-      "P hard vs Zheng Qinwen"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Diana Shnaider to replace Muchova in FAGE WTA Finals group-stage match against Andreeva - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE90Q0UtYlhIUEl4RVZ3UGtNWWdVNVNQQ3poYnpUNGpKOFhhMGRyUjFrWlZ3Rk5lS2w1OWJzTWJReVlvX3VMV3c4UXotSFlIdTVrb2wtNTdHSzFTVTJXX3ZDNHNPRHhicnBJVy1KX29IUVBxdVdDSG5wTmtvYnR2VXhnSndsek5jQ0FyUDFDWnVNR2dnejMtMGhPVzhQVVZPcUVWX3hhY001blBBREs3OV9YcHFFbzJGZlJBR05VcEJDMnZn?oc=5"
-      },
-      {
-       "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
-      },
-      {
-       "titulo": "Jessica Pegula vs Mirra Andreeva · Semifinal · WTA Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE1EWlJNMlU2NEg2T1lJRWhYRUtONjJHYXk0d3BiUGM4Unl5V1NMdUtnSFktYlZoQ2Q3U2ZYLTg5Unpkc0V6SmxxVTFPZ2pvVEJBVkx5OFlCOWZZVlpwbjJMc3JocDk1N1NnNmtER3p6WkNzdkEwNENrWjNUcW5WNzJwd2VrcVl6bEljejNRMW4?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Karolina Muchova",
-     "mercado": null,
-     "elo": 1947,
-     "elo_superficie": 1888,
-     "forma": [
-      "G hard vs Liudmila Samsonova",
-      "G hard vs Naomi Osaka",
-      "P hard vs Nikola Bartunkova",
-      "G hard vs Catherine McNally",
-      "P hard vs Diana Shnaider"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Diana Shnaider to replace Muchova in FAGE WTA Finals group-stage match against Andreeva - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOE90Q0UtYlhIUEl4RVZ3UGtNWWdVNVNQQ3poYnpUNGpKOFhhMGRyUjFrWlZ3Rk5lS2w1OWJzTWJReVlvX3VMV3c4UXotSFlIdTVrb2wtNTdHSzFTVTJXX3ZDNHNPRHhicnBJVy1KX29IUVBxdVdDSG5wTmtvYnR2VXhnSndsek5jQ0FyUDFDWnVNR2dnejMtMGhPVzhQVVZPcUVWX3hhY001blBBREs3OV9YcHFFbzJGZlJBR05VcEJDMnZn?oc=5"
-      },
-      {
-       "titulo": "Mirra Andreeva vs Karolína Muchová · Round Robin · WTA Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTG5Cak9vNUJyX210N1JTb3hycTJsQ0JvRFhGUnN6TjFBRnAxa0NDcWVYT2dRSU5zVHFzMGdfSDkxUjBob2dHVnAwRlhEOGY0YkVRUmpjM01TSjVWT1UyTnlQWEYwR0xfMDRuNE5ZOW83cDlUT2tHUklBSWdaN0ZmcjRjbEp6c2VEcWYySWVYNFJmZw?oc=5"
-      },
-      {
-       "titulo": "WTA Finals - Andreeva vs Muchová: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWVySHJCU2o0bzJCX0hyVHB4aE9EMlRZSHhoOGVZVWtIQ09GU0dDOVRZeE9JVEtzYzRaR2R0YXg3UmlxUUpfNjExQTRkWG9mQ0ZTV3VaU1V0SlRjSEhhUm9mRVNaYURycWtzem9Sd3RRXzhWUzlwbFJHb0NITVVWaVd3a044VGxNOGpxdDIwamMzYzRBdnhsb0xuRW9XdFhPNWlQNmFrcUM?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "29a6e4e35a3b385e9666473ad68f2084": {
-   "id": "29a6e4e35a3b385e9666473ad68f2084",
-   "jugadores": [
-    "Aryna Sabalenka",
-    "Elina Svitolina"
-   ],
-   "inicio": "2026-11-13T21:30+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-13T19:00+00:00",
-   "elo": 0.536,
-   "elo_general": 0.532,
-   "elo_en_superficie": 0.541,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Aryna Sabalenka",
-     "mercado": null,
-     "elo": 1929,
-     "elo_superficie": 1955,
-     "forma": [
-      "G hard vs Jessica Pegula",
-      "P hard vs Elena Rybakina",
-      "G hard vs Renata Zarazua",
-      "P hard vs Nikola Bartunkova",
-      "P hard vs Ann Li"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Aryna Sabalenka vs Elina Svitolina · Round Robin · WTA Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
-      },
-      {
-       "titulo": "WTA Finals - Sabalenka vs Svitolina: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUYzZWs0TGxYc0lyVFZnOENSeWhVRUdTWGFxQjVWTlNUSTVjQUhpMlc4TTItUWp6WDRQUUJzWC1PSnF6RjM2RkQ1TmpBLTRTQmRlYUFwc0RZcGtBc2h5Q2NQMHVjNVBPam1vYklsUnNtR21wTVNGeXJsajN0LUdHVGJCczZWWTloNklOUFJmVVpLUW5mRWEtWlJwZWpfLWtkTHBvNDlWYjcwNUJuSG5ZYQ?oc=5"
-      },
-      {
-       "titulo": "Sabalenka, la estrella del tenis que pudo ser modelo o boxeadora: \"Me encanta mi cuerpo\" - MARCA",
-       "fuente": "MARCA",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVpzci1LTDFLYWNSaWwwUDhvaF80cU5LUFFrX0NoNzlDT29TR1dZSFE4ZzJERUhWcVYtTTNXRi0xRzRmY1lwd2x3WkZILUJ1aUlPU0tlalF1WFZsN1VDU2xwN1ZyRXNERWhvdUcyNVpnQWNpT2dNUGdndzdvemgxMjhZcUZEZE5rbGVDTmJ4VlNNd1NoRGZyMWpJeUhRLTh3YTA2eTFMLTVtWmVjNnhUbE43OXVmM0JR0gG4AUFVX3lxTFBhWnNyLUtMMUthY1JpbDBQOG9oXzRxTktQUWtfQ2g3OUNPb1NHV1lIUThnMkRFSFZxVi1NM1dGLTFHNGZjWXB3bHdaRkgtQnVpSU9TS2VqUXVYVmw3VUNTbHA3VnJFc0RFaG91RzI1WmdBY2lPZ01QZ2d3N296aDEyOFlxRkRkTmtsZUNOYnhWU013U2hEZnIxakl5SFEtOHdhMDZ5MUwtNW1aZWM2eFRsTjc5dWYzQlE?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Elina Svitolina",
-     "mercado": null,
-     "elo": 1907,
-     "elo_superficie": 1927,
-     "forma": [
-      "G hard vs Ann Li",
-      "P hard vs Zheng Qinwen",
-      "G hard vs Liudmila Samsonova",
-      "G hard vs Guo Hanyu",
-      "P hard vs Sonay Kartal"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Aryna Sabalenka vs Elina Svitolina · Round Robin · WTA Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1NpbTF2d3VoTlNvS2VxZTAxYUdwekpZcmt5OHhlS0Fqd3lpbUxaSUtobl9DbW5zY0E4NFlpbmpXSjBpVkxiNDFtZ0dGcjl2U2dpUnhMNHBRdExWenp2bDVyZGR5bi1VbXlDV2M1a3B1QnR2ejZRcEhQT1BMYVNkTjg5dlp2aVFSdF9ndnBqd1o1NnVYTmc?oc=5"
-      },
-      {
-       "titulo": "WTA Finals - Sabalenka vs Svitolina: fecha, hora y dónde ver - bet365 - Apuestas deportivas en la red",
-       "fuente": "bet365 - Apuestas deportivas en la red",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUYzZWs0TGxYc0lyVFZnOENSeWhVRUdTWGFxQjVWTlNUSTVjQUhpMlc4TTItUWp6WDRQUUJzWC1PSnF6RjM2RkQ1TmpBLTRTQmRlYUFwc0RZcGtBc2h5Q2NQMHVjNVBPam1vYklsUnNtR21wTVNGeXJsajN0LUdHVGJCczZWWTloNklOUFJmVVpLUW5mRWEtWlJwZWpfLWtkTHBvNDlWYjcwNUJuSG5ZYQ?oc=5"
-      },
-      {
-       "titulo": "Andreeva-Pegula, semifinal con morbo en las Finales de la WTA; Noskova espera rival - Infobae",
-       "fuente": "Infobae",
-       "fecha": "2026-11-13",
-       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0dwX09saEFMdGl2TWtJaGtDbkIxUHRabWNzTmZFNFB1S2J0eFZzYm4xSFBhdmg2NTZsY203bzYtcG1FWnd1QmYyWHV4UHcxRkpYYVBpamhNdWNfWGhTNllKTjVTcEM0a3loS0JVUVRZUjRDQ1hwOFlJQmkxZGlyVmFOSHBFMDI0b0VQUk83dkJRRkVlWWlIZ1lETkcyaFNyLVU1NmI4SnQ4N2luUU1xTFBlQWk0Y0QtR0xIMFVqZEtEbVA1YkMxcXFZYzFvNlnSAeoBQVVfeXFMUEd3ZmFiaWpyNEphODNnVUVnMmppTElxRm5yUENGTGIxanVFR25LRC1kNDJFU1BMWFBNXy1aQ0NsNXIzbnhOc19ZSVQ3bU1QTG10YXRTOHNvb2lKMDJlckZTU1hsSmRHaG5VMjU5bWNZblE3VzdoWllZWmZjU3pfUENhR1ZfVlFYeW5XNTN2WHYtZktGZjJLWU81VnROQm1kVTN6dnNJaW1QSzZHQXdpX01xU1RVYk9RRzV2UEtFcWItU0hWWVVKUFpxRnE5TVZCempOX1k3LUpGanE0RGlsMnJiU0ZqUlJhOHhR?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "53d87628f7d7ae2c16b9b10ab1be03ab": {
    "id": "53d87628f7d7ae2c16b9b10ab1be03ab",
    "jugadores": [
@@ -4929,6 +4577,182 @@
      ]
     }
    ]
+  },
+  "81c3faeaadd3d42734cd831b32b32597": {
+   "id": "81c3faeaadd3d42734cd831b32b32597",
+   "jugadores": [
+    "Carlos Alcaraz",
+    "Ben Shelton"
+   ],
+   "inicio": "2026-11-21T13:30+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-21T08:00+00:00",
+   "elo": 0.776,
+   "elo_general": 0.809,
+   "elo_en_superficie": 0.742,
+   "cara_a_cara": [
+    2,
+    1
+   ],
+   "detalle": [
+    {
+     "nombre": "Carlos Alcaraz",
+     "mercado": 0.802,
+     "elo": 2154,
+     "elo_superficie": 2107,
+     "forma": [
+      "G hard vs Tommy Paul",
+      "G hard vs Daniil Medvedev",
+      "G hard vs Alex de Minaur",
+      "G hard vs Alex Michelsen",
+      "G hard vs Taylor Fritz"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
+      },
+      {
+       "titulo": "Cómo ver Carlos Alcaraz vs Ben Shelton en vivo: canales, streaming y horarios del ATP Finals 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
+       "fuente": "DAZN",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOVF9RM1p5N2Rsc2tTMFpIY1lodnZKYVVmeVhGYlMzeHhiRzBTN2w3anNIU2R4WE9JOG1ia1dYVmhWSzBmOGtNeEc3TVE5UFdKNzk1RllVdG1XbE5ZOF9rT3ZEalVyNk9NUS1jNVlwcFJvODNMRjJuakNLZU5mT3R2aDZ2b0JBQlJJWGpITjlFbW16eHJBTThpMEZiNV9LZkV3N09TVWtiSGhSSW9aM19ueEZRUExCazZrTHJHbVlod3VMSTVTOElXWVlTWUNQcF9CMXZpc3lvWDNnSXI1M2JiS1pEN01lRnRoeWxLbURjLUtzRHVDSVdvV3RCM3VOcV9qcm9zT2FfeGhzQ3A0VUpNMkJOcDNfcEZsanNr?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz - Ben Shelton, las semifinales de las ATP Finals en directo - El Mundo",
+       "fuente": "El Mundo",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkF1QWJkVGV2ekF1Wjlza0dnam9rVXB0SVdfbGVTWWU0M2p4U3I0bUsxZzVSbUVFR1ZIbWdBbjdtUjRMT09Uakd6OEs4aGkzZWtWRF96bUs3bW5KNGZvazNOajlyLU1FcnZRT2MwR2hDSlZMYUxqcjlMeVlJSDduY2FXempYcXJnUll4eUhTRlZELUhVUjBqcUVCY1BvemFCREkyc05xM0lZMDQ2aXRfamI1QVpSV0wyWmpqb2J30gG-AUFVX3lxTFB0ZmE1SU0wNVNhdWVaanJaeUZVbWRtOW40M3NzdDExVHVQT0xSTlVkaGpYZ19yX2RqeVQ2NXE3NEtsZU5zNjRlMHBOcGVwdjlvbU1IR2wyVm9sMHYzTGxwbVNMZ1lacVlVQ0ZOYkFzVXFkYVZOSzRhNUZ5T3lkVnl0RjNCQV9RWmZ5RkNxWktBLUFQaUxDeVp4U2t0M2lwUVh3YzYtdnVvbWJhR1FGZmVtREFoWDJPS0NvLTBCY3c?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Ben Shelton",
+     "mercado": 0.198,
+     "elo": 1902,
+     "elo_superficie": 1923,
+     "forma": [
+      "G hard vs Aleksandar Kovacevic",
+      "P hard vs Jerome Kym",
+      "G hard vs Cameron Norrie",
+      "G hard vs Arthur Rinderknech",
+      "G hard vs Tommy Paul"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Cómo ver Carlos Alcaraz vs Ben Shelton en vivo: canales, streaming y horarios del ATP Finals 2026 para España, México, Latinoamérica y Estados Unidos - DAZN",
+       "fuente": "DAZN",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOVF9RM1p5N2Rsc2tTMFpIY1lodnZKYVVmeVhGYlMzeHhiRzBTN2w3anNIU2R4WE9JOG1ia1dYVmhWSzBmOGtNeEc3TVE5UFdKNzk1RllVdG1XbE5ZOF9rT3ZEalVyNk9NUS1jNVlwcFJvODNMRjJuakNLZU5mT3R2aDZ2b0JBQlJJWGpITjlFbW16eHJBTThpMEZiNV9LZkV3N09TVWtiSGhSSW9aM19ueEZRUExCazZrTHJHbVlod3VMSTVTOElXWVlTWUNQcF9CMXZpc3lvWDNnSXI1M2JiS1pEN01lRnRoeWxLbURjLUtzRHVDSVdvV3RCM3VOcV9qcm9zT2FfeGhzQ3A0VUpNMkJOcDNfcEZsanNr?oc=5"
+      },
+      {
+       "titulo": "Carlos Alcaraz - Ben Shelton, las semifinales de las ATP Finals en directo - El Mundo",
+       "fuente": "El Mundo",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkF1QWJkVGV2ekF1Wjlza0dnam9rVXB0SVdfbGVTWWU0M2p4U3I0bUsxZzVSbUVFR1ZIbWdBbjdtUjRMT09Uakd6OEs4aGkzZWtWRF96bUs3bW5KNGZvazNOajlyLU1FcnZRT2MwR2hDSlZMYUxqcjlMeVlJSDduY2FXempYcXJnUll4eUhTRlZELUhVUjBqcUVCY1BvemFCREkyc05xM0lZMDQ2aXRfamI1QVpSV0wyWmpqb2J30gG-AUFVX3lxTFB0ZmE1SU0wNVNhdWVaanJaeUZVbWRtOW40M3NzdDExVHVQT0xSTlVkaGpYZ19yX2RqeVQ2NXE3NEtsZU5zNjRlMHBOcGVwdjlvbU1IR2wyVm9sMHYzTGxwbVNMZ1lacVlVQ0ZOYkFzVXFkYVZOSzRhNUZ5T3lkVnl0RjNCQV9RWmZ5RkNxWktBLUFQaUxDeVp4U2t0M2lwUVh3YzYtdnVvbWJhR1FGZmVtREFoWDJPS0NvLTBCY3c?oc=5"
+      },
+      {
+       "titulo": "Quieren la final en Turín: Alcaraz y Shelton, rivales por tercera vez en 74 días - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVlYeWpKWkczOWRZY2FuaDNWZW9KckZhQ3pmRUZhOThPd2tyQmNCdkVZbFlKRjNUSHNnWWlBc2hPMUhBNkJ5NnRfS3RVVUFaOUl5bDViM0dMckdBN0hnR0JkaHJJdmc0Q2xvWmZqV3dmWmxfcXJ6Rkk2ZkRIdXlyMTFFMV85V21sMjhCUUV6cGY?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  "32e23a0b745bed6c0a23f60fab451adb": {
+   "id": "32e23a0b745bed6c0a23f60fab451adb",
+   "jugadores": [
+    "Alexander Zverev",
+    "Daniil Medvedev"
+   ],
+   "inicio": "2026-11-21T19:30+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-21T08:00+00:00",
+   "elo": 0.594,
+   "elo_general": 0.638,
+   "elo_en_superficie": 0.55,
+   "cara_a_cara": [
+    2,
+    3
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.614,
+     "elo": 1974,
+     "elo_superficie": 1915,
+     "forma": [
+      "G hard vs Martin Landaluce",
+      "G hard vs Tallon Griekspoor",
+      "G hard vs Arthur Fery",
+      "P hard vs Alex de Minaur",
+      "P hard vs Lorenzo Musetti"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Watch Zverev, Alcaraz & Co. practise at the Nitto ATP Finals - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEx5cEVXMTQzUGlOSm9WNV9ieFFsTVAwelhjMkZMOWptV2c5dkdQUTYyUTU0LUlMd3RVb3JNblJTOUhWaDl4MzhDZC1GVHdEbG4zR0NaaERFeTdPc0Z1Tk5IYVBGZ1hGV2V3SG50Z3QzZDdIckwzemswUlRJRlp1eVBxd0o?oc=5"
+      },
+      {
+       "titulo": "A qué hora es el Zverev - Medvedev: horario y dónde ver hoy en TV las segunda semifinal de las ATP Finals - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk1pOEpLM0EyekE0ekxCU0tqNGtXa3Y5cHhYN2hMV0g2bzA4WjZTWXZDTkU4QnpmNWZEYWs2MHViSVhIeU94SldhSkQ0UDJuaURScjJfeEFGdDNJai1ieDFKUThST3dsZkc2b1hxWGZ4QXNHQ21ZRXptVkNFeURnLTQwT1lGMWlzZnVqNlNHYkNSc1lpWW5EQ1BWMnFtVmQ2NTVfOVhNdWNGWW9iZExuUzhMbllzOUZaRkVSajJR0gG-AUFVX3lxTFBkbkh2X2x3TXNlX0NJcndkX3NEaHZJUmZCbnF4bjJjbGhZYXVjcWhCWlhnS2VZTjJ6YzhLZFNhUGFGdl9rX2FBOHBwUzdlTF9zSjQ5c1dhNFlsWXV3aW85VU1wTWdqazB6U0psdGplRElJd0VMcHJodXBhNFktcnl1c2FaazhhZEpvUHJlaXRxWW11ZE9wcS1WVks1OVBzTjFFdVF3VC1qM0h2U08zNWM3WXVmcnVzdURzUXMzanc?oc=5"
+      },
+      {
+       "titulo": "Zverev se queja en las ATP Finals por lo de Nadal: \"Lamentablemente, es un tema que me acompañará hasta el final de mi carrera\" - Mundo Deportivo",
+       "fuente": "Mundo Deportivo",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY09jaHhDQTFWdmpGcGdlbnNZQkpDeFRtRjNhYW1PT0hEb3JVbVdxYjA5VkxkTDY3ME9hZFo1TUlIYmpLaHFvUnhyWkVBLWJMbU9ldV92dDhMN2JPbXpoTjJCNE9HdS02WWpyT2tBZ3Q5RTBNcHcwcS1oVDMyckp4eEFsRmJzSWhUYlk4cm1iVUJmLXBUWXVDVDd0a1p4VFRIX0lBUHBqRnpXdEw2RnU3SXpfcl9TWHlTREMtSzBvNnVqbHZIM0x0bi1zc2xXRzVmNS1FbF9uTWxNWkHSAegBQVVfeXFMUFZ2WnJ1SWJuRVFscE1iWHphMW1FY1FHM2RQbUtDSEJfOE9ObDhyNjBoMGJZd3ZJcHNJeXFydmFYYTZRWVp6MVUwZXZrbWFnNzV4d3JCV1NzMTczT3AxX0RFdG5uSnNWSzA4bk5scmZ4OWlXb0xYbHVrZ013SzVyN1NqVm81MVJmc2NRdm5RQzdwOHVoQVBLcHZ5ZGk2Mkp4YXc3a1BPdkF0eVRQZG44akJlU1Bvb3NiMUUtOVZXcnA5X1ZkTmtSOWZfZkJaRExQR1BSOVRBUHl0dGlCX2FDX2lQTmNpTmtqTg?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Daniil Medvedev",
+     "mercado": 0.386,
+     "elo": 1875,
+     "elo_superficie": 1880,
+     "forma": [
+      "G hard vs Daniel Merida",
+      "G hard vs Cameron Norrie",
+      "G hard vs Adrian Mannarino",
+      "P hard vs Carlos Alcaraz",
+      "P hard vs Ignacio Buse"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "A qué hora es el Zverev - Medvedev: horario y dónde ver hoy en TV las segunda semifinal de las ATP Finals - MARCA",
+       "fuente": "MARCA",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk1pOEpLM0EyekE0ekxCU0tqNGtXa3Y5cHhYN2hMV0g2bzA4WjZTWXZDTkU4QnpmNWZEYWs2MHViSVhIeU94SldhSkQ0UDJuaURScjJfeEFGdDNJai1ieDFKUThST3dsZkc2b1hxWGZ4QXNHQ21ZRXptVkNFeURnLTQwT1lGMWlzZnVqNlNHYkNSc1lpWW5EQ1BWMnFtVmQ2NTVfOVhNdWNGWW9iZExuUzhMbllzOUZaRkVSajJR0gG-AUFVX3lxTFBkbkh2X2x3TXNlX0NJcndkX3NEaHZJUmZCbnF4bjJjbGhZYXVjcWhCWlhnS2VZTjJ6YzhLZFNhUGFGdl9rX2FBOHBwUzdlTF9zSjQ5c1dhNFlsWXV3aW85VU1wTWdqazB6U0psdGplRElJd0VMcHJodXBhNFktcnl1c2FaazhhZEpvUHJlaXRxWW11ZE9wcS1WVks1OVBzTjFFdVF3VC1qM0h2U08zNWM3WXVmcnVzdURzUXMzanc?oc=5"
+      },
+      {
+       "titulo": "Zverev vs. Medvedev: duelo de ex campeones en SF de las Nitto ATP Finals - Nitto ATP Finals",
+       "fuente": "Nitto ATP Finals",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGZ4V3VZb2FfVHFBUWx6aFJPWW5qeXgxcnlwZDhaNkh6OVZPN0pnMTJqUUlHT0RpS3JzX0R4cHdOMGJsb0RVUGNoMFdaQU9DMmtzVER1enpISmFZdHBlb0U4T3hBYzBqWDgxOTdIbjVWT0ZaYTE5MHpjNE9WMVNOTlBuWHhpMW1qWHJfZWV1RG4?oc=5"
+      },
+      {
+       "titulo": "Highlights: Medvedev vence a Tiafoe y avanza a SF en las Nitto ATP Finals 2026 - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGFKcGpxWWRnbE9kRmtwQVgzT011SVdLNWlOc180UFhqQlRGak5jazlldHRvY2VsX0h0RmllT0RxRVM1MW42aFJNZWw0M0pDdkhYbFhCSHBZa0F2VXgxbXV0dzBmQ19Hak16dFUwcW9MLTUxQWlvdWhNcEQyMHA4ajY4WXpheXhuaXRjQWJIZDJXbHdmZHhIblBUcWZ0bkxEVklyMmllbG5xYzBXeWNGbGdvam5nTnBOamc?oc=5"
+      }
+     ]
+    }
+   ]
   }
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
@@ -5188,6 +5012,30 @@
     "seleccion": "Alexander Zverev",
     "punto": null,
     "cuota": 1.37
+   },
+   {
+    "partido": "81c3faeaadd3d42734cd831b32b32597",
+    "jugadores": [
+     "Carlos Alcaraz",
+     "Ben Shelton"
+    ],
+    "inicio": "2026-11-21T13:30+00:00",
+    "mercado": "h2h",
+    "seleccion": "Carlos Alcaraz",
+    "punto": null,
+    "cuota": 1.21
+   },
+   {
+    "partido": "32e23a0b745bed6c0a23f60fab451adb",
+    "jugadores": [
+     "Alexander Zverev",
+     "Daniil Medvedev"
+    ],
+    "inicio": "2026-11-21T19:30+00:00",
+    "mercado": "h2h",
+    "seleccion": "Alexander Zverev",
+    "punto": null,
+    "cuota": 1.56
    }
   ],
   "vistos": [
@@ -5266,8 +5114,15 @@
   ]
  },
  "mercados_casas": {
-  "williamhill": {},
-  "sport888": {},
-  "betsson": {}
+  "williamhill": {
+   "h2h": 2
+  },
+  "sport888": {
+   "h2h": 2
+  },
+  "betsson": {
+   "h2h": 2,
+   "totals": 2
+  }
  }
 }
