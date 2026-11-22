@@ -2606,7 +2606,7 @@
   "betsson": 1002
  },
  "ultima_decision": "2026-11-22",
- "ultima_sala": "2026-11-21-20",
+ "ultima_sala": "2026-11-22-14",
  "noticias_vistas": [
   "82968b4d4d41",
   "a55da71a6dfd",
@@ -3434,94 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "a09dfd51fadc5c32dd0adb4f799b8628": {
-   "id": "a09dfd51fadc5c32dd0adb4f799b8628",
-   "jugadores": [
-    "Alexander Zverev",
-    "Rafael Jodar"
-   ],
-   "inicio": "2026-11-15T13:00+00:00",
-   "torneo": "ATP Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-15T08:00+00:00",
-   "elo": 0.645,
-   "elo_general": 0.666,
-   "elo_en_superficie": 0.623,
-   "cara_a_cara": [
-    1,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Alexander Zverev",
-     "mercado": 0.696,
-     "elo": 1974,
-     "elo_superficie": 1915,
-     "forma": [
-      "G hard vs Martin Landaluce",
-      "G hard vs Tallon Griekspoor",
-      "G hard vs Arthur Fery",
-      "P hard vs Alex de Minaur",
-      "P hard vs Lorenzo Musetti"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlCQjF3b2FXaWpOdW5XWVlqUG1PbUpCNTRGcW5LcUo4Y29vNzdLaGdMS050dERjNDRycExuckRHR1JWVHFOTmpKQUJhQ3JWZU9pVjhMN1FDSWpUNGJ3N3NraHZZTFRVTUlBaDhUV3M3eXF4YkJodkpjaXdYd1pYUGlhY3Z5UTgwOWR2cjVyLTNGNGUw?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev vs Rafa Jódar en directo: Fase de Grupos Final ATP 2026 en AS.com - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEhtWll4dXlqaE1Ua3o5akJKc3BxT1BkYWRyR0c4anU5NnlXc3NOQUdmZmw1anloSzZSOFdVdk53S0F0LVZqRFd1T0xHOHZvT21LTFdaTG5OZzVsb2pVTmpLWUtsOUotcDlKWmlOOHVFekdNaHRQUXdLcEptQlZ0UGRhWUpkUHZxWnc?oc=5"
-      },
-      {
-       "titulo": "Estadísticas Partido: Alexander Zverev vs Rafa Jódar Fase de Grupos en Final ATP 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRSSWVkQUk2MnpGZXBpY0U2dklwdi1wTURSNFk4ZjRtZnhuVnFnRExSZThiY2pxUzNHTGNNSXlGRjFzRzFmeU8zcjNTa3FWcUlGdVJGOUEwd3pLclhadEpXVTNnWm0wb0NrVFZfUWREMEd3Qmd3dHRkTTZ4a0NULWxENWpxdmtIUE9Oc1lrTGZtSVJ5WW1IU2pKSQ?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Rafael Jodar",
-     "mercado": 0.304,
-     "elo": 1854,
-     "elo_superficie": 1827,
-     "forma": [
-      "P hard vs Alejandro Davidovich Fokina",
-      "G hard vs Alejandro Tabilo",
-      "P hard vs Valentin Vacherot",
-      "G hard vs Alejandro Tabilo",
-      "P hard vs Casper Ruud"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Alexander Zverev vs Rafael Jódar · Round Robin · ATP Finals - Tennis.com",
-       "fuente": "Tennis.com",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFlCQjF3b2FXaWpOdW5XWVlqUG1PbUpCNTRGcW5LcUo4Y29vNzdLaGdMS050dERjNDRycExuckRHR1JWVHFOTmpKQUJhQ3JWZU9pVjhMN1FDSWpUNGJ3N3NraHZZTFRVTUlBaDhUV3M3eXF4YkJodkpjaXdYd1pYUGlhY3Z5UTgwOWR2cjVyLTNGNGUw?oc=5"
-      },
-      {
-       "titulo": "Alexander Zverev vs Rafa Jódar en directo: Fase de Grupos Final ATP 2026 en AS.com - Diario AS",
-       "fuente": "Diario AS",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEhtWll4dXlqaE1Ua3o5akJKc3BxT1BkYWRyR0c4anU5NnlXc3NOQUdmZmw1anloSzZSOFdVdk53S0F0LVZqRFd1T0xHOHZvT21LTFdaTG5OZzVsb2pVTmpLWUtsOUotcDlKWmlOOHVFekdNaHRQUXdLcEptQlZ0UGRhWUpkUHZxWnc?oc=5"
-      },
-      {
-       "titulo": "Estadísticas Partido: Alexander Zverev vs Rafa Jódar Fase de Grupos en Final ATP 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-15",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRSSWVkQUk2MnpGZXBpY0U2dklwdi1wTURSNFk4ZjRtZnhuVnFnRExSZThiY2pxUzNHTGNNSXlGRjFzRzFmeU8zcjNTa3FWcUlGdVJGOUEwd3pLclhadEpXVTNnWm0wb0NrVFZfUWREMEd3Qmd3dHRkTTZ4a0NULWxENWpxdmtIUE9Oc1lrTGZtSVJ5WW1IU2pKSQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "2e7a66dfb5caacad9c224d3eaf230dee": {
    "id": "2e7a66dfb5caacad9c224d3eaf230dee",
    "jugadores": [
@@ -4587,7 +4499,7 @@
    "inicio": "2026-11-22T17:00+00:00",
    "torneo": "ATP Finals",
    "superficie": "hard",
-   "actualizado": "2026-11-22T08:00+00:00",
+   "actualizado": "2026-11-22T13:01+00:00",
    "elo": 0.255,
    "elo_general": 0.262,
    "elo_en_superficie": 0.249,
@@ -4611,22 +4523,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Alexander Zverev se cita con Carlos Alcaraz en la final de las ATP Finals - Tennis World ES",
+       "titulo": "Alcaraz - Zverev: horario, canal de televisión y dónde ver online la final de la Copa de Maestros hoy - ABC",
+       "fuente": "ABC",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd25qXzNnVC14aFk4YnBzUmwtVDdkb2lZSVdHdy1SbG12cENUSk8zNHlhMFlPVVNkVWEwMXBUekFyZndaYndFQUR0QUV5dVdPSGhzUE5zcDlJc2xSWEp0RnpEVmNnb1VzYmg2SkJCdVJVQUc2b09qaVpxUEUxV3VfWDdXTDNJcFZ0aFZuckNOSUFjVEJVQlpnVkNXVWpweDFFWHgzZ0J6OFRaRjDSAbABQVVfeXFMTkpMUS1BM2MteXM2SmVjTjdGckczWDBzbkhtYVBiQ2NsM1pZOVVQQ25BYmVrTTFpN0JEZ0NFcldRUzY3ZGhTSjVESUFyWnNNdkdxczRzdllDa0xEeFQxN2w4Z2FLdkRIb2tQUGZ0V3dzRm80S2w1b181NlpQcU8tdFNFb1lyVzVMY2tELUw3TDdIZTdFLUd5Wmt1YWxNQzQ5cUpHOGc4YlB3WjRqLTlpWlU?oc=5"
+      },
+      {
+       "titulo": "Tim Henman detecta un cambio en Alexander Zverev durante su triunfo en las ATP Finals - Tennis World ES",
        "fuente": "Tennis World ES",
        "fecha": "2026-11-22",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlJ3THV4VXpMYkpSRGVOWjdKQUJaSmwtUGpudjllbERIa1NmemlMN1JZSWxjNHZLZlJYY1FuMGhvN3loOG1WUVdzX3dGdWtlLVNTeHZra2M5ZHJQRGVvcXhTTXd3S2UwdEQxbzQ2X2FYYUVGWlhZRURnRlh2cFJmWFlkQThwYkYzRmhZOG9nbTRtSDRwUWNEOWM2azU3X0dqSlRZbWxMUHJ3MTQtS28xTlMzdi0wSXZCcTRpNG85ckptc0NJbFVjeElHdEpQNEE0c0VBSV9n?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnVpM2NsOFVqS0RhZFpncjUtSUNQc2JsTTZHMUltTzZVSGpvY2RFZnFxZ3NMVGloQXctbDktNTRhN052dEJNYWFNaHh0WHlfMnI1SURNMWxmcVc1VElfSEpWN3l1RUZyRmhRYjFaME9aMV82cFZFLXlHbGotOWptcEViRnVQd3RfR0dfM2JCeEc5UmIxRjEzM0ZwYVpuS0lEWllNbk9SaDAxSWJvWEZBcGZPYVpYWlNOUnNURlBUVndkTGJwU1pHRmNGTzFYMjFOam1DbmRVam5VdlVHZnJBRUFLVQ?oc=5"
       },
       {
-       "titulo": "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz - ATP Tour",
-       "fuente": "ATP Tour",
+       "titulo": "Alexander Zverev, sobre la final del ATP Finals de Turín contra Alcaraz: “Me gusta el desafío de jugar contra los mejores del mundo y Alcaraz, desde su regreso, ha sido el mejor” - El Confidencial",
+       "fuente": "El Confidencial",
        "fecha": "2026-11-22",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTYzZzIzQlVWZnpjODgyV21aMVd6WHdISGFFZ2lORDBXOEpMQlp2Q29vUDhUUTNZNnE3T1dNX3cybHJNUnItbmNCcHBvQlZISldNSXkwS3RybktNT2dGX3Nma3FRczdPay1wTEMwN1BrcXJaTlpTVlZISklPMXFEMlRRSXk?oc=5"
-      },
-      {
-       "titulo": "Estadísticas Partido: Alexander Zverev vs Carlos Alcaraz Final en Final ATP 2026 - EL PAÍS",
-       "fuente": "EL PAÍS",
-       "fecha": "2026-11-21",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnMxQVdYWFh5WDk1d0NZLTl3TkpDSmQySkpLZXFPUDNzRGo5dFhidHdqZ1BGdk1Ea0lMNzRTMF9UeW94SDB6Qzg4UTB0OEZYd0hSd2ZmbWw1WjFsMThUUTZTRXFkZzlfYlpJZlNFQVc1WXRhZGFzajFDSmdFVnpHX1NhZ1VtZWVVaUhNTjVjQldLUHFDaTJRVS1n?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONW5uZnh3b2E5X2NRSHRabmFIOERuTGl5UzdqMjhKTWw1cFNuSnpHODB2SzNqSzdUc0ZZQUpTS0JoOU0zWVFRMWpjT18yTjlKT1YyeHdwNVM5YWZvd1Y1d0tnZy0tcmZJaGtJZ2Nfb0RRRXE5cENCR2dIc0t5Mk8wMEtRWkFYR2Jsbno5OG02bjVVV3pUNHAyT3hKQXFyanAzcHRiblAwSlNBRDZXVzk4cFNacmI3T0U?oc=5"
       }
      ]
     },
@@ -4645,22 +4557,22 @@
      "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
      "noticias": [
       {
-       "titulo": "Alexander Zverev se cita con Carlos Alcaraz en la final de las ATP Finals - Tennis World ES",
-       "fuente": "Tennis World ES",
+       "titulo": "Alcaraz - Zverev: horario, canal de televisión y dónde ver online la final de la Copa de Maestros hoy - ABC",
+       "fuente": "ABC",
        "fecha": "2026-11-22",
-       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlJ3THV4VXpMYkpSRGVOWjdKQUJaSmwtUGpudjllbERIa1NmemlMN1JZSWxjNHZLZlJYY1FuMGhvN3loOG1WUVdzX3dGdWtlLVNTeHZra2M5ZHJQRGVvcXhTTXd3S2UwdEQxbzQ2X2FYYUVGWlhZRURnRlh2cFJmWFlkQThwYkYzRmhZOG9nbTRtSDRwUWNEOWM2azU3X0dqSlRZbWxMUHJ3MTQtS28xTlMzdi0wSXZCcTRpNG85ckptc0NJbFVjeElHdEpQNEE0c0VBSV9n?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd25qXzNnVC14aFk4YnBzUmwtVDdkb2lZSVdHdy1SbG12cENUSk8zNHlhMFlPVVNkVWEwMXBUekFyZndaYndFQUR0QUV5dVdPSGhzUE5zcDlJc2xSWEp0RnpEVmNnb1VzYmg2SkJCdVJVQUc2b09qaVpxUEUxV3VfWDdXTDNJcFZ0aFZuckNOSUFjVEJVQlpnVkNXVWpweDFFWHgzZ0J6OFRaRjDSAbABQVVfeXFMTkpMUS1BM2MteXM2SmVjTjdGckczWDBzbkhtYVBiQ2NsM1pZOVVQQ25BYmVrTTFpN0JEZ0NFcldRUzY3ZGhTSjVESUFyWnNNdkdxczRzdllDa0xEeFQxN2w4Z2FLdkRIb2tQUGZ0V3dzRm80S2w1b181NlpQcU8tdFNFb1lyVzVMY2tELUw3TDdIZTdFLUd5Wmt1YWxNQzQ5cUpHOGc4YlB3WjRqLTlpWlU?oc=5"
       },
       {
-       "titulo": "Rival de Alcaraz en la final de las ATP Finals 2026 - El Imparcial - Diario liberal e independiente",
-       "fuente": "El Imparcial - Diario liberal e independiente",
+       "titulo": "Alexander Zverev, sobre la final del ATP Finals de Turín contra Alcaraz: “Me gusta el desafío de jugar contra los mejores del mundo y Alcaraz, desde su regreso, ha sido el mejor” - El Confidencial",
+       "fuente": "El Confidencial",
        "fecha": "2026-11-22",
-       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUw0NTJGb1NSZVNHSFdlSU9ERmthMTBGVzlqMms4ZFlxZUZ4bTZwWlh0RFFuVDlOclFaQXFRSWhJNVVFWGduZTEtSGEtZEdGLU9ZaWFObUFycGNwdHBsSHJZdDBxMXVjNEtDUnhyRmVGdk4tWHJvRnhzSkt1dEtkRmhtb0tKODVNRjRVRW4tYWl4S2paUm5xVEZsX01tRmJyLVFlWlhKQmJkaWRIdUZmUWhn?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONW5uZnh3b2E5X2NRSHRabmFIOERuTGl5UzdqMjhKTWw1cFNuSnpHODB2SzNqSzdUc0ZZQUpTS0JoOU0zWVFRMWpjT18yTjlKT1YyeHdwNVM5YWZvd1Y1d0tnZy0tcmZJaGtJZ2Nfb0RRRXE5cENCR2dIc0t5Mk8wMEtRWkFYR2Jsbno5OG02bjVVV3pUNHAyT3hKQXFyanAzcHRiblAwSlNBRDZXVzk4cFNacmI3T0U?oc=5"
       },
       {
-       "titulo": "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz - ATP Tour",
+       "titulo": "Hot Shot: Alcaraz juega con inteligencia ante Shelton en Turín - ATP Tour",
        "fuente": "ATP Tour",
        "fecha": "2026-11-22",
-       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTYzZzIzQlVWZnpjODgyV21aMVd6WHdISGFFZ2lORDBXOEpMQlp2Q29vUDhUUTNZNnE3T1dNX3cybHJNUnItbmNCcHBvQlZISldNSXkwS3RybktNT2dGX3Nma3FRczdPay1wTEMwN1BrcXJaTlpTVlZISklPMXFEMlRRSXk?oc=5"
+       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXJPR3VVckRocDJTalRtSG92eXRzWncxR1ZNeGR1WF90VTYxRkhqdzJTcVlQTkVxMTBIeTZJVEZVQjBjN2pqdkhqSGo5OGlQTld3VlBMQkxBblVGaGdfNjVQUUZRd0tvX2g4VDNnRlR6eXVTNFdfSk1tZlhPY2liSjhtRGtnS3ZVZzBoTWVoT2JYN2dyWUJjMg?oc=5"
       }
      ]
     }
