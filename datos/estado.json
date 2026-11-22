@@ -165,9 +165,9 @@
     "motivos": {
      "tension": "Va un poco por debajo de lo que empezó (-2,0 %).",
      "sorpresa": "Perdió con un favorito clarísimo: Ben Shelton gana el partido @ 1.30.",
-     "aburrimiento": "Lleva 23 días sin apostar."
+     "aburrimiento": "Lleva 24 días sin apostar."
     },
-    "hora": "2026-11-21T08:00+00:00",
+    "hora": "2026-11-22T08:00+00:00",
     "rent": -0.02
    },
    "lecciones": [
@@ -325,9 +325,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 24 días sin apostar."
+     "aburrimiento": "Lleva 25 días sin apostar."
     },
-    "hora": "2026-11-21T08:00+00:00",
+    "hora": "2026-11-22T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -472,9 +472,9 @@
      "aburrimiento": 0.27
     },
     "motivos": {
-     "aburrimiento": "Lleva 24 días sin apostar."
+     "aburrimiento": "Lleva 25 días sin apostar."
     },
-    "hora": "2026-11-21T08:00+00:00",
+    "hora": "2026-11-22T08:00+00:00",
     "rent": 0.0
    }
   },
@@ -632,9 +632,9 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "aburrimiento": "Lleva 24 días sin apostar."
+     "aburrimiento": "Lleva 25 días sin apostar."
     },
-    "hora": "2026-11-21T08:00+00:00",
+    "hora": "2026-11-22T08:00+00:00",
     "rent": 0.0
    }
   }
@@ -2185,36 +2185,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-07T09:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T09:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T10:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T10:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T11:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T11:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-07T12:10+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
@@ -2583,15 +2553,45 @@
    "hora": "2026-11-21T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "🎾 Cartelera: 1 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
+   "tipo": "error"
+  },
+  {
+   "hora": "2026-11-22T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
   "mes": "2026-11",
-  "gastados_mes": 60,
-  "restantes": 440,
-  "usados": 60,
-  "actualizado": "2026-11-21T08:00+00:00",
-  "prevision_mes": 26,
+  "gastados_mes": 63,
+  "restantes": 437,
+  "usados": 63,
+  "actualizado": "2026-11-22T08:00+00:00",
+  "prevision_mes": 23,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2601,11 +2601,11 @@
  },
  "casa": "betsson",
  "cobertura": {
-  "williamhill": 2002,
-  "sport888": 2002,
-  "betsson": 2004
+  "williamhill": 1001,
+  "sport888": 1001,
+  "betsson": 1002
  },
- "ultima_decision": "2026-11-21",
+ "ultima_decision": "2026-11-22",
  "ultima_sala": "2026-11-21-20",
  "noticias_vistas": [
   "82968b4d4d41",
@@ -3434,182 +3434,6 @@
   ]
  },
  "partidos_info": {
-  "53d87628f7d7ae2c16b9b10ab1be03ab": {
-   "id": "53d87628f7d7ae2c16b9b10ab1be03ab",
-   "jugadores": [
-    "Jessica Pegula",
-    "Mirra Andreeva"
-   ],
-   "inicio": "2026-11-14T20:00+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-14T19:00+00:00",
-   "elo": 0.528,
-   "elo_general": 0.521,
-   "elo_en_superficie": 0.536,
-   "cara_a_cara": [
-    0,
-    0
-   ],
-   "detalle": [
-    {
-     "nombre": "Jessica Pegula",
-     "mercado": 0.287,
-     "elo": 1964,
-     "elo_superficie": 1934,
-     "forma": [
-      "G hard vs Leylah Fernandez",
-      "G hard vs Sorana Cirstea",
-      "G hard vs Emma Navarro",
-      "P hard vs Aryna Sabalenka",
-      "P hard vs Jelena Ostapenko"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Vídeo: Mirra Andreeva hace una divertida petición al público estadounidense antes de enfrentarse a Jessica Pegula - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT1RTTkhhcTcwUlNJNDNSWlRqTDhYLWdsRTBkUjJiYjdMVU91T1dEbkc3QTltbTA1Z3dKOU5oajRHSmRmNjFXVGRxQWJEWjhTS19SS0lSUHNhNWFKQ0lfLXRkb3NZZnN3THJ0bjY4WS1sWFJvaDBqX2NJcUxHendGbmhQQzJDcEJKMjNhZ1lDTzdNQWJPcFRabGxZeXFuUDdVeUs0aXBrRTR1Q2Z2YnVEX3NXdEYteXg5d0FQSnhiVW51dXpYa3NhU3kxSlRVNmxyc1R4Tm9pVVZkWnhHQ2JUUFFWcF9LNUctZlBLMUZpX0dmWE9uX2tDSi15UFFiYzA3OXlnWXNtTQ?oc=5"
-      },
-      {
-       "titulo": "WTA Finals 2026: cruces y horarios en España de las semifinales de hoy, sábado 14 de noviembre - Demócrata",
-       "fuente": "Demócrata",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXl4cmNsY0o5M2k2V2JKNlZUcmo4cGJ0bG4zQVRGODJSN2VocjM2OEpYTDBzVGFMX3JYV2dvcGhPaWpnTzItblhYYUJBaElQSWNoSEZfZVdvc0NrYktpeUNMNzU4TXl6RTJwRExNdjJiVXNfMUd4MDJOWnZzQ0ZiLVRiZnhtZ2l6SVZvYndLSjlZOFZHWmd5ZjVmWWk3SlItNXg5eC1WMklweFloUFpWdDJn0gG3AUFVX3lxTE9XcXhCYzRoSzY5NXZEUjdOa0ZFWE5Rb1BiSXB5SU8yVXU2R0k5cW9Td0NvalNndFU5TkFRSXVrUC1VY1VmSFVRQWF5ZXhlaHZPbWQ1WUMyZEdVc1dMaEhhOG92SV9EaTk5MDhHRXYwdmFGdFFpcnc4UWZuVjRsY0xKR0NLMDR1UVBWOF9ZVjgyTENvck9TamRxMGFSVWJha2l0SkttUkFZUGM0bTNGdXEwMVZEZHM2bw?oc=5"
-      },
-      {
-       "titulo": "Jessica Pegula admite que conoce «poco» el juego de Mirra Andreeva - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnV4WmdkY21jSEhKTTdlZ0V2X0hOWDNqYkZPYm9MUXl1TTlTdkxCa2xTUTBpMUdSVUw1cHRlSF95VFpVNFlMekdlQ1hfRlc3cUZNb3dpY1RPOHotaTFNYU1Ua2o3VHN0ZXh6YVhoX3JqSXItRGFoX21xZGlBT1Z0eFV4bWpHR0E1aUdpczdMdTRaQUJIQ1JEREdYS3hac0I4NVBpb1JidlZCemQtQXIyS0prXzliRUU?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Mirra Andreeva",
-     "mercado": 0.713,
-     "elo": 1950,
-     "elo_superficie": 1909,
-     "forma": [
-      "G hard vs Polina Kudermetova",
-      "G hard vs Daria Snigur",
-      "G hard vs Ekaterina Alexandrova",
-      "G hard vs Nikola Bartunkova",
-      "P hard vs Zheng Qinwen"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Mirra Andreeva estaba «estresada» y temía que «no ganaría ni un partido» en las WTA Finals - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnhDbDNGNWoyT3pSWmRrU0JpclZYUHd6QkNNZDlBTjgzTWlSSkZIUkRYUHZsNXkyWVFGaTJITnoyeUVfSE54Nzh6RFRhZE5jejlrTkt6bGFpdnJHZlFseEdIZUk2WGxSNUlUdHllVXZtOWgtTmI2R3VrMVQwUkw3eGNwaXNpWVJUdU1JcEZ1UndvVFNJWnZzMmV3UER0WHhXYlJCOWFlTmliN3UyazhDbWNGSS0zQXlpWHJSM0ZTYjRIQkFtMWd4U3h0MGpwNW96aWRUWDZ3cHBIU3hITXBGSDdocEo?oc=5"
-      },
-      {
-       "titulo": "Andreeva sweeps FAGE WTA Finals group with straight-sets win over Shnaider - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQTFMQkN2UkRWUjMyUm5xVUlsd1hQV3VhOXRHaUZWaHJnVE9XalhzMm5lbW5QS3kzRzBXVmpESHBhYmNSc1BISjR2UWNxZEwzWjhtMy0yOWVxNzBFZ29CblFWczNVQko5LW00U1ppTnVDSHUta3dvaUhydnpZaWt0d0lXZENNaVR0UUhuRWlnRkdUSTBn?oc=5"
-      },
-      {
-       "titulo": "Vídeo: Mirra Andreeva hace una divertida petición al público estadounidense antes de enfrentarse a Jessica Pegula - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT1RTTkhhcTcwUlNJNDNSWlRqTDhYLWdsRTBkUjJiYjdMVU91T1dEbkc3QTltbTA1Z3dKOU5oajRHSmRmNjFXVGRxQWJEWjhTS19SS0lSUHNhNWFKQ0lfLXRkb3NZZnN3THJ0bjY4WS1sWFJvaDBqX2NJcUxHendGbmhQQzJDcEJKMjNhZ1lDTzdNQWJPcFRabGxZeXFuUDdVeUs0aXBrRTR1Q2Z2YnVEX3NXdEYteXg5d0FQSnhiVW51dXpYa3NhU3kxSlRVNmxyc1R4Tm9pVVZkWnhHQ2JUUFFWcF9LNUctZlBLMUZpX0dmWE9uX2tDSi15UFFiYzA3OXlnWXNtTQ?oc=5"
-      }
-     ]
-    }
-   ]
-  },
-  "57cede457aa62785e8460c5b2a052ac6": {
-   "id": "57cede457aa62785e8460c5b2a052ac6",
-   "jugadores": [
-    "Linda Noskova",
-    "Elina Svitolina"
-   ],
-   "inicio": "2026-11-14T21:10+00:00",
-   "torneo": "WTA Finals",
-   "superficie": "hard",
-   "actualizado": "2026-11-14T19:00+00:00",
-   "elo": 0.475,
-   "elo_general": 0.572,
-   "elo_en_superficie": 0.378,
-   "cara_a_cara": [
-    0,
-    1
-   ],
-   "detalle": [
-    {
-     "nombre": "Linda Noskova",
-     "mercado": 0.616,
-     "elo": 1957,
-     "elo_superficie": 1840,
-     "forma": [
-      "G hard vs Marta Kostyuk",
-      "P hard vs Aryna Sabalenka",
-      "G hard vs Elena-Gabriela Ruse",
-      "G hard vs Viktorija Golubic",
-      "P hard vs Ekaterina Alexandrova"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Elina Svitolina admite que estaba «muy afectada» antes de pasar página en las WTA Finals - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVhjV1RjVGJKU3FWNjhpUWJmWUlnNy03dkxVOWI5ZXhYUXctanlYcWJoOHhYVHZLdjJILVZOS0txR3RYYjVMTEQ2LVNhbHp4anVXRTZZTGFtWGd5eXFOaGJBRWFoV2lyOElGRFF6eEFrTjZCYXhYTnZYNUpXSE0xaXd5cWtORzhVMElNdWNTUjlLa0J2TnI1THpxX3NwY1hYXzBBTldLR1FZb1IyOTViMXJwRGNFRzY1cjh5bDlUYzUweUdqbVlfQ3NTdF9tLXpyT3FDbA?oc=5"
-      },
-      {
-       "titulo": "Svitolina echa a Sabalenka de las WTA Finals y se enfrentará a Noskova en semifinales - El Periódico",
-       "fuente": "El Periódico",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzVITTdkc1lPWlp1QVV2cGVSa3REVHJFaEpnYVBZMkxvUERkZG93VEZVT2pXQzZGRTE4UE9NS0lfR2RHdmJ0YlpUdkVER3NmSnVudzNLQ1J3OVQ3aXZpa1RWR0dack1sbjI2X08zZ1hFb2VHeEowY0xHSUtGbEN4Y1poWnc1dTJlTTcxQzFzV1FBRndQQTNTSm530gGaAUFVX3lxTFBhQVJ6YmNQSUhXOEZhdDRHeVpHVkRZd0p0b1VZVDNUT0pUSWZhdjBndmhHRHdlZi02OTRZREx5djBUblBxYkl4NWFnc2h3MGVUVm01REVYOUpGN0VxYkFXSXdLVmZIQVBaLXFKWkpOLXdDWXZ0VUJFellRS3lrSFp0ZG5GdW92eXBYc0dxN28xcFZ5cm9XakMyTHc?oc=5"
-      },
-      {
-       "titulo": "Rivalry Rewind: The best of Linda Noskova vs. Elina Svitolina - WTA Tennis",
-       "fuente": "WTA",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWhPQ3VaMDd1aHVacGhhbTBKampfQ0VyZmtOSHFmLXMtSk56dFRGdUlxYWRMZkhZZmtxMG00dGp0SkxvQlhCeDZtNEg3ZmpYcXdfSm1uRWQxajg3V3NuQVNsRHhDQnU2THRsWndTcmoxMWZYSjhZVjVYTmdDSHZqOGJoUF9hV2Z0LUE0TUxUV3dFQXY1OUxSMzBsQnRtSlhtZzZF?oc=5"
-      }
-     ]
-    },
-    {
-     "nombre": "Elina Svitolina",
-     "mercado": 0.384,
-     "elo": 1907,
-     "elo_superficie": 1927,
-     "forma": [
-      "G hard vs Ann Li",
-      "P hard vs Zheng Qinwen",
-      "G hard vs Liudmila Samsonova",
-      "G hard vs Guo Hanyu",
-      "P hard vs Sonay Kartal"
-     ],
-     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
-     "noticias": [
-      {
-       "titulo": "Elina Svitolina admite sentirse «abrumada» por el acoso en redes sociales tras su divorcio - Tennis World ES",
-       "fuente": "Tennis World ES",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1owYzRQYkxyZ3RTZ2E3N2lwU0wtV21oQXRvQ1ZuVmNtY01MODQ2dVptUUttd1hpRks1dDE4QnFzZy1yNlR3QkQ4cUl5OWx1WFhybGliUEFBWmRzMmtJWVdsQU9NaUtjaXZ1akZqd2p5T0NkNjJULWlqX0prYUlfNXpyTl9zT1ptWTBoUWFjS184b3ZjVFNndUg3Y2FRZk96b0pQbXlsMGFEV1p2RmhDMHl6MXN4aGVySEdDOG44YVhLNHFRYjJUU29ydk8zcEE3ZzBfLS1aWVk5aGdMalVacmJ5bFM0azg?oc=5"
-      },
-      {
-       "titulo": "Sabalenka, acusada de insultar a Svitolina y Ucrania: ¿Qué dijo la bielorrusa? - Match Tenis",
-       "fuente": "Match Tenis",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmVtWEZxQ3I3S1F6ZmtVQllHRnJHbmxkQXdPU2ZZcWxJZUxpNXFjcUY3SXRmUE5jTHBiX1NvV2NyTlBySnhFSm9nM0RMNnZVTjlUMmFOdVprYVRHMlhNZGh5SnJaVlBnWkNJXw?oc=5"
-      },
-      {
-       "titulo": "Sabalenka es acusada de insultar gravemente a Svitolina y Ucrania - Punto de Break",
-       "fuente": "Punto de Break",
-       "fecha": "2026-11-14",
-       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTVJQWRoRGFyS3FPa2VIUDBkd291WEhkRmhjeGtHQy0wNG5oQUVHa1g2UG8wTGdqR0dIdFVHWU9JSkVTR0ZlSWcxWmFITUxxQmY2VlkxODM0eTRtSUZRZnNCUjNzaWFsbUtzTllISGEyQlZkV0FFVWlZNU1aenpEZUVWeGRQSXptTHZ6YUdFZnNySnQzaVhOM0Zsbw?oc=5"
-      }
-     ]
-    }
-   ]
-  },
   "a09dfd51fadc5c32dd0adb4f799b8628": {
    "id": "a09dfd51fadc5c32dd0adb4f799b8628",
    "jugadores": [
@@ -4753,6 +4577,94 @@
      ]
     }
    ]
+  },
+  "61fd3eff03d345615f08909e038728e7": {
+   "id": "61fd3eff03d345615f08909e038728e7",
+   "jugadores": [
+    "Alexander Zverev",
+    "Carlos Alcaraz"
+   ],
+   "inicio": "2026-11-22T17:00+00:00",
+   "torneo": "ATP Finals",
+   "superficie": "hard",
+   "actualizado": "2026-11-22T08:00+00:00",
+   "elo": 0.255,
+   "elo_general": 0.262,
+   "elo_en_superficie": 0.249,
+   "cara_a_cara": [
+    2,
+    4
+   ],
+   "detalle": [
+    {
+     "nombre": "Alexander Zverev",
+     "mercado": 0.333,
+     "elo": 1974,
+     "elo_superficie": 1915,
+     "forma": [
+      "G hard vs Martin Landaluce",
+      "G hard vs Tallon Griekspoor",
+      "G hard vs Arthur Fery",
+      "P hard vs Alex de Minaur",
+      "P hard vs Lorenzo Musetti"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Alexander Zverev se cita con Carlos Alcaraz en la final de las ATP Finals - Tennis World ES",
+       "fuente": "Tennis World ES",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlJ3THV4VXpMYkpSRGVOWjdKQUJaSmwtUGpudjllbERIa1NmemlMN1JZSWxjNHZLZlJYY1FuMGhvN3loOG1WUVdzX3dGdWtlLVNTeHZra2M5ZHJQRGVvcXhTTXd3S2UwdEQxbzQ2X2FYYUVGWlhZRURnRlh2cFJmWFlkQThwYkYzRmhZOG9nbTRtSDRwUWNEOWM2azU3X0dqSlRZbWxMUHJ3MTQtS28xTlMzdi0wSXZCcTRpNG85ckptc0NJbFVjeElHdEpQNEE0c0VBSV9n?oc=5"
+      },
+      {
+       "titulo": "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTYzZzIzQlVWZnpjODgyV21aMVd6WHdISGFFZ2lORDBXOEpMQlp2Q29vUDhUUTNZNnE3T1dNX3cybHJNUnItbmNCcHBvQlZISldNSXkwS3RybktNT2dGX3Nma3FRczdPay1wTEMwN1BrcXJaTlpTVlZISklPMXFEMlRRSXk?oc=5"
+      },
+      {
+       "titulo": "Estadísticas Partido: Alexander Zverev vs Carlos Alcaraz Final en Final ATP 2026 - EL PAÍS",
+       "fuente": "EL PAÍS",
+       "fecha": "2026-11-21",
+       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnMxQVdYWFh5WDk1d0NZLTl3TkpDSmQySkpLZXFPUDNzRGo5dFhidHdqZ1BGdk1Ea0lMNzRTMF9UeW94SDB6Qzg4UTB0OEZYd0hSd2ZmbWw1WjFsMThUUTZTRXFkZzlfYlpJZlNFQVc1WXRhZGFzajFDSmdFVnpHX1NhZ1VtZWVVaUhNTjVjQldLUHFDaTJRVS1n?oc=5"
+      }
+     ]
+    },
+    {
+     "nombre": "Carlos Alcaraz",
+     "mercado": 0.667,
+     "elo": 2154,
+     "elo_superficie": 2107,
+     "forma": [
+      "G hard vs Tommy Paul",
+      "G hard vs Daniil Medvedev",
+      "G hard vs Alex de Minaur",
+      "G hard vs Alex Michelsen",
+      "G hard vs Taylor Fritz"
+     ],
+     "cansancio": "sin partidos en los últimos 3 días (descansado o sin datos)",
+     "noticias": [
+      {
+       "titulo": "Alexander Zverev se cita con Carlos Alcaraz en la final de las ATP Finals - Tennis World ES",
+       "fuente": "Tennis World ES",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlJ3THV4VXpMYkpSRGVOWjdKQUJaSmwtUGpudjllbERIa1NmemlMN1JZSWxjNHZLZlJYY1FuMGhvN3loOG1WUVdzX3dGdWtlLVNTeHZra2M5ZHJQRGVvcXhTTXd3S2UwdEQxbzQ2X2FYYUVGWlhZRURnRlh2cFJmWFlkQThwYkYzRmhZOG9nbTRtSDRwUWNEOWM2azU3X0dqSlRZbWxMUHJ3MTQtS28xTlMzdi0wSXZCcTRpNG85ckptc0NJbFVjeElHdEpQNEE0c0VBSV9n?oc=5"
+      },
+      {
+       "titulo": "Rival de Alcaraz en la final de las ATP Finals 2026 - El Imparcial - Diario liberal e independiente",
+       "fuente": "El Imparcial - Diario liberal e independiente",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUw0NTJGb1NSZVNHSFdlSU9ERmthMTBGVzlqMms4ZFlxZUZ4bTZwWlh0RFFuVDlOclFaQXFRSWhJNVVFWGduZTEtSGEtZEdGLU9ZaWFObUFycGNwdHBsSHJZdDBxMXVjNEtDUnhyRmVGdk4tWHJvRnhzSkt1dEtkRmhtb0tKODVNRjRVRW4tYWl4S2paUm5xVEZsX01tRmJyLVFlWlhKQmJkaWRIdUZmUWhn?oc=5"
+      },
+      {
+       "titulo": "Zverev downs Medvedev, sets Nitto ATP Finals title clash with Alcaraz - ATP Tour",
+       "fuente": "ATP Tour",
+       "fecha": "2026-11-22",
+       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTYzZzIzQlVWZnpjODgyV21aMVd6WHdISGFFZ2lORDBXOEpMQlp2Q29vUDhUUTNZNnE3T1dNX3cybHJNUnItbmNCcHBvQlZISldNSXkwS3RybktNT2dGX3Nma3FRczdPay1wTEMwN1BrcXJaTlpTVlZISklPMXFEMlRRSXk?oc=5"
+      }
+     ]
+    }
+   ]
   }
  },
  "emociones_desde": "2026-10-30T08:00+00:00",
@@ -5036,6 +4948,18 @@
     "seleccion": "Alexander Zverev",
     "punto": null,
     "cuota": 1.56
+   },
+   {
+    "partido": "61fd3eff03d345615f08909e038728e7",
+    "jugadores": [
+     "Alexander Zverev",
+     "Carlos Alcaraz"
+    ],
+    "inicio": "2026-11-22T17:00+00:00",
+    "mercado": "h2h",
+    "seleccion": "Carlos Alcaraz",
+    "punto": null,
+    "cuota": 1.44
    }
   ],
   "vistos": [
@@ -5115,14 +5039,14 @@
  },
  "mercados_casas": {
   "williamhill": {
-   "h2h": 2
+   "h2h": 1
   },
   "sport888": {
-   "h2h": 2
+   "h2h": 1
   },
   "betsson": {
-   "h2h": 2,
-   "totals": 2
+   "h2h": 1,
+   "totals": 1
   }
  }
 }

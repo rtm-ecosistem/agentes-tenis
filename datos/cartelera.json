@@ -1,105 +1,55 @@
 {
- "actualizado": "2026-11-21T08:00+00:00",
+ "actualizado": "2026-11-22T08:00+00:00",
  "casa": "betsson",
  "partidos": [
   {
-   "id": "81c3faeaadd3d42734cd831b32b32597",
+   "id": "61fd3eff03d345615f08909e038728e7",
    "deporte": "tennis_atp_finals",
    "torneo": "ATP Finals",
    "circuito": "ATP",
    "superficie": "hard",
-   "inicio": "2026-11-21T13:30+00:00",
-   "jugadores": [
-    "Carlos Alcaraz",
-    "Ben Shelton"
-   ],
-   "opciones": [
-    {
-     "id": "81c3faeaadd3d42734cd831b32b32597|h2h|Ben Shelton|",
-     "mercado": "h2h",
-     "nombre": "Ben Shelton",
-     "punto": null,
-     "cuota": 4.4,
-     "pinnacle": 4.9
-    },
-    {
-     "id": "81c3faeaadd3d42734cd831b32b32597|h2h|Carlos Alcaraz|",
-     "mercado": "h2h",
-     "nombre": "Carlos Alcaraz",
-     "punto": null,
-     "cuota": 1.21,
-     "pinnacle": 1.21
-    },
-    {
-     "id": "81c3faeaadd3d42734cd831b32b32597|totals|Over|22.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 22.5,
-     "cuota": 1.8,
-     "pinnacle": null
-    },
-    {
-     "id": "81c3faeaadd3d42734cd831b32b32597|totals|Under|22.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 22.5,
-     "cuota": 1.9,
-     "pinnacle": null
-    }
-   ],
-   "pinnacle_h2h": {
-    "Ben Shelton": 4.9,
-    "Carlos Alcaraz": 1.21
-   }
-  },
-  {
-   "id": "32e23a0b745bed6c0a23f60fab451adb",
-   "deporte": "tennis_atp_finals",
-   "torneo": "ATP Finals",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-21T19:30+00:00",
+   "inicio": "2026-11-22T17:00+00:00",
    "jugadores": [
     "Alexander Zverev",
-    "Daniil Medvedev"
+    "Carlos Alcaraz"
    ],
    "opciones": [
     {
-     "id": "32e23a0b745bed6c0a23f60fab451adb|h2h|Alexander Zverev|",
+     "id": "61fd3eff03d345615f08909e038728e7|h2h|Alexander Zverev|",
      "mercado": "h2h",
      "nombre": "Alexander Zverev",
      "punto": null,
-     "cuota": 1.56,
-     "pinnacle": 1.58
+     "cuota": 2.8,
+     "pinnacle": 2.92
     },
     {
-     "id": "32e23a0b745bed6c0a23f60fab451adb|h2h|Daniil Medvedev|",
+     "id": "61fd3eff03d345615f08909e038728e7|h2h|Carlos Alcaraz|",
      "mercado": "h2h",
-     "nombre": "Daniil Medvedev",
+     "nombre": "Carlos Alcaraz",
      "punto": null,
-     "cuota": 2.44,
-     "pinnacle": 2.51
+     "cuota": 1.44,
+     "pinnacle": 1.46
     },
     {
-     "id": "32e23a0b745bed6c0a23f60fab451adb|totals|Over|23.5",
+     "id": "61fd3eff03d345615f08909e038728e7|totals|Over|23.5",
      "mercado": "totals",
      "nombre": "Over",
      "punto": 23.5,
-     "cuota": 1.84,
-     "pinnacle": 1.95
+     "cuota": 1.94,
+     "pinnacle": 2.0
     },
     {
-     "id": "32e23a0b745bed6c0a23f60fab451adb|totals|Under|23.5",
+     "id": "61fd3eff03d345615f08909e038728e7|totals|Under|23.5",
      "mercado": "totals",
      "nombre": "Under",
      "punto": 23.5,
-     "cuota": 1.86,
-     "pinnacle": 1.92
+     "cuota": 1.78,
+     "pinnacle": 1.87
     }
    ],
    "pinnacle_h2h": {
-    "Alexander Zverev": 1.58,
-    "Daniil Medvedev": 2.51
+    "Alexander Zverev": 2.92,
+    "Carlos Alcaraz": 1.46
    }
   }
  ]
