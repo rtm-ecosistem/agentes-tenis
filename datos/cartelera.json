@@ -1,56 +1,5 @@
 {
- "actualizado": "2026-11-22T08:00+00:00",
+ "actualizado": "2026-11-23T08:01+00:00",
  "casa": "betsson",
- "partidos": [
-  {
-   "id": "61fd3eff03d345615f08909e038728e7",
-   "deporte": "tennis_atp_finals",
-   "torneo": "ATP Finals",
-   "circuito": "ATP",
-   "superficie": "hard",
-   "inicio": "2026-11-22T17:00+00:00",
-   "jugadores": [
-    "Alexander Zverev",
-    "Carlos Alcaraz"
-   ],
-   "opciones": [
-    {
-     "id": "61fd3eff03d345615f08909e038728e7|h2h|Alexander Zverev|",
-     "mercado": "h2h",
-     "nombre": "Alexander Zverev",
-     "punto": null,
-     "cuota": 2.8,
-     "pinnacle": 2.92
-    },
-    {
-     "id": "61fd3eff03d345615f08909e038728e7|h2h|Carlos Alcaraz|",
-     "mercado": "h2h",
-     "nombre": "Carlos Alcaraz",
-     "punto": null,
-     "cuota": 1.44,
-     "pinnacle": 1.46
-    },
-    {
-     "id": "61fd3eff03d345615f08909e038728e7|totals|Over|23.5",
-     "mercado": "totals",
-     "nombre": "Over",
-     "punto": 23.5,
-     "cuota": 1.94,
-     "pinnacle": 2.0
-    },
-    {
-     "id": "61fd3eff03d345615f08909e038728e7|totals|Under|23.5",
-     "mercado": "totals",
-     "nombre": "Under",
-     "punto": 23.5,
-     "cuota": 1.78,
-     "pinnacle": 1.87
-    }
-   ],
-   "pinnacle_h2h": {
-    "Alexander Zverev": 2.92,
-    "Carlos Alcaraz": 1.46
-   }
-  }
- ]
+ "partidos": []
 }

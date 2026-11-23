@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T19:01+00:00",
+ "actualizado": "2026-11-23T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -13,17 +13,17 @@
   "pinnacle": "Pinnacle"
  },
  "cobertura": {
-  "williamhill": 1001,
-  "sport888": 1001,
-  "betsson": 1002
+  "williamhill": 0,
+  "sport888": 0,
+  "betsson": 0
  },
  "creditos": {
   "mes": "2026-11",
   "gastados_mes": 63,
   "restantes": 437,
   "usados": 63,
-  "actualizado": "2026-11-22T08:00+00:00",
-  "prevision_mes": 23,
+  "actualizado": "2026-11-23T08:01+00:00",
+  "prevision_mes": 19,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -990,7 +990,7 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-22T08:00+00:00",
+  "actualizado": "2026-11-23T08:01+00:00",
   "partidos": []
  },
  "apuestas": [
@@ -1797,6 +1797,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-23T08:01+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-23T08:01+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-22T08:00+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -1935,19 +1945,9 @@
    "hora": "2026-11-17T08:00+00:00",
    "texto": "Inés no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
-  },
-  {
-   "hora": "2026-11-17T08:00+00:00",
-   "texto": "Bruno no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-17T08:00+00:00",
-   "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
   }
  ],
- "ultima_decision": "2026-11-22",
+ "ultima_decision": "2026-11-23",
  "oficina": {
   "total": {
    "apuestas": 2,
