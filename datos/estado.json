@@ -2185,16 +2185,6 @@
  ],
  "bitacora": [
   {
-   "hora": "2026-11-07T13:10+00:00",
-   "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
-   "tipo": "info"
-  },
-  {
-   "hora": "2026-11-07T13:10+00:00",
-   "texto": "La sala cree que estas noticias no cambian ningún partido: no se gastan créditos.",
-   "tipo": "info"
-  },
-  {
    "hora": "2026-11-07T13:35+00:00",
    "texto": "📰 Noticias nuevas de Casper Ruud – Carlos Alcaraz: la sala actualiza su informe.",
    "tipo": "info"
@@ -2583,6 +2573,16 @@
    "hora": "2026-11-23T08:01+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
+  },
+  {
+   "hora": "2026-11-24T08:01+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-24T08:01+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
   }
  ],
  "creditos": {
@@ -2590,8 +2590,8 @@
   "gastados_mes": 63,
   "restantes": 437,
   "usados": 63,
-  "actualizado": "2026-11-23T08:01+00:00",
-  "prevision_mes": 19,
+  "actualizado": "2026-11-24T08:01+00:00",
+  "prevision_mes": 16,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -2605,7 +2605,7 @@
   "sport888": 0,
   "betsson": 0
  },
- "ultima_decision": "2026-11-23",
+ "ultima_decision": "2026-11-24",
  "ultima_sala": "2026-11-23-20",
  "noticias_vistas": [
   "82968b4d4d41",
