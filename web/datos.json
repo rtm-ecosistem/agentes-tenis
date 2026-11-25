@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T19:00+00:00",
+ "actualizado": "2026-11-25T08:01+00:00",
  "temporada": {
   "nombre": "prueba",
   "inicio": "2026-10-28"
@@ -22,8 +22,8 @@
   "gastados_mes": 63,
   "restantes": 437,
   "usados": 63,
-  "actualizado": "2026-11-24T08:01+00:00",
-  "prevision_mes": 16,
+  "actualizado": "2026-11-25T08:00+00:00",
+  "prevision_mes": 13,
   "noticias": {
    "dia": "2026-11-07",
    "gastados": 0,
@@ -990,7 +990,7 @@
   }
  ],
  "cartelera": {
-  "actualizado": "2026-11-24T08:01+00:00",
+  "actualizado": "2026-11-25T08:00+00:00",
   "partidos": []
  },
  "apuestas": [
@@ -1797,6 +1797,16 @@
  ],
  "bitacora": [
   {
+   "hora": "2026-11-25T08:00+00:00",
+   "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
+   "tipo": "info"
+  },
+  {
+   "hora": "2026-11-25T08:00+00:00",
+   "texto": "🎾 Cartelera: 0 partidos en las próximas 24 horas (casa: Betsson).",
+   "tipo": "info"
+  },
+  {
    "hora": "2026-11-24T08:01+00:00",
    "texto": "🧾 Decisión del día: 0 apuestas nuevas por 0.00 €.",
    "tipo": "info"
@@ -1935,19 +1945,9 @@
    "hora": "2026-11-18T08:01+00:00",
    "texto": "Lola no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
    "tipo": "error"
-  },
-  {
-   "hora": "2026-11-18T08:01+00:00",
-   "texto": "Óscar no pudo decidir: 401 Unauthorized: {\n  \"error\": {\n    \"code\": 401,\n    \"message\": \"The bound service account is deleted or disabled. The service account bound to the API key must be active.\",\n    \"status\": \"UNAUTHENTICATED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"ACCOU",
-   "tipo": "error"
-  },
-  {
-   "hora": "2026-11-18T08:01+00:00",
-   "texto": "🎾 Cartelera: 2 partidos en las próximas 24 horas (casa: Betsson).",
-   "tipo": "info"
   }
  ],
- "ultima_decision": "2026-11-24",
+ "ultima_decision": "2026-11-25",
  "oficina": {
   "total": {
    "apuestas": 2,
