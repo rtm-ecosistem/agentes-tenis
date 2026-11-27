@@ -3,8 +3,9 @@ name: Pretemporada simulada
 on:
   # Avanza unos días cada 3 horas, solo si se activó (ver docs/pretemporada.md). Al terminar pasa lo aprendido
   # a la oficina. La simulación se guarda en la rama «pretemporada», que Vercel no publica.
-  schedule:
-    - cron: "40 */3 * * *"
+  # PAUSADO (27-11-2026): proyecto parado. Para reactivar, quita los '#' de las dos líneas siguientes.
+  # schedule:
+  #   - cron: "40 */3 * * *"
   workflow_dispatch:
     inputs:
       dias:
@@ -25,6 +26,8 @@ concurrency:
 
 jobs:
   tarea:
+    # PAUSADO (27-11-2026): no se ejecuta aunque la lance cron-job.org. Para reactivar, borra la línea siguiente.
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 120
     env:

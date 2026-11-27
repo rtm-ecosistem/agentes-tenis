@@ -3,8 +3,9 @@ name: Sala de analistas
 on:
   # El despertador la lanza a las 14:00 y a las 20:00 de España (la de las 9:00 va dentro de la decisión).
   # Los domingos a las 20:00, además, cada analista escribe su reflexión de la semana. Reservas de GitHub:
-  schedule:
-    - cron: "40 12,13,18,19 * * *"
+  # PAUSADO (27-11-2026): proyecto parado. Para reactivar, quita los '#' de las dos líneas siguientes.
+  # schedule:
+  #   - cron: "40 12,13,18,19 * * *"
   workflow_dispatch:
     inputs:
       forzar:
@@ -23,6 +24,8 @@ concurrency:
 
 jobs:
   tarea:
+    # PAUSADO (27-11-2026): no se ejecuta aunque la lance cron-job.org. Para reactivar, borra la línea siguiente.
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 40
     env:
