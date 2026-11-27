@@ -4,8 +4,9 @@ on:
   # El despertador la lanza cada hora: guarda la cuota de cierre de Pinnacle de los partidos que empiezan en la
   # próxima hora (solo gasta créditos si hay apuestas pendientes), liquida las apuestas y revisa a los analistas.
   # Reserva de GitHub, cada dos horas:
-  schedule:
-    - cron: "50 */2 * * *"
+  # PAUSADO (27-11-2026): proyecto parado. Para reactivar, quita los '#' de las dos líneas siguientes.
+  # schedule:
+  #   - cron: "50 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,6 +20,8 @@ concurrency:
 
 jobs:
   tarea:
+    # PAUSADO (27-11-2026): no se ejecuta aunque la lance cron-job.org. Para reactivar, borra la línea siguiente.
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:

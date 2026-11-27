@@ -3,8 +3,9 @@ name: Decisión diaria
 on:
   # La hora buena la pone el despertador (cron-job.org, ver docs/despertador.md): a las 9:00 de España.
   # Estas dos ejecuciones de GitHub son de reserva: el programa solo decide una vez al día.
-  schedule:
-    - cron: "20 7,8 * * *"
+  # PAUSADO (27-11-2026): proyecto parado. Para reactivar, quita los '#' de las dos líneas siguientes.
+  # schedule:
+  #   - cron: "20 7,8 * * *"
   workflow_dispatch:
     inputs:
       forzar:
@@ -23,6 +24,8 @@ concurrency:
 
 jobs:
   tarea:
+    # PAUSADO (27-11-2026): no se ejecuta aunque la lance cron-job.org. Para reactivar, borra la línea siguiente.
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 60
     env:
